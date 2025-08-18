@@ -21,6 +21,12 @@ def env_int(name: str, default: int) -> int:
     except Exception:
         return default
 
+def env_bool(name: str, default: bool) -> bool:
+    v = os.getenv(name)
+    if v is None or str(v).strip() == "":
+        return default
+    return str(v).strip().lower() in ("1", "true", "yes", "y")
+
 
 # ----------------------------
 # URL & parsing helpers
@@ -28,11 +34,11 @@ def env_int(name: str, default: int) -> int:
 def build_seek_url(keyword: str, min_salary: int = 150000, listing_date: int = 1) -> str:
     """
     Build Seek search URL.
-    listing_date:
-      0 = any time, 1 = last 24 hours, 3 = last 3 days, etc. (Seek convention)
+    listing_date (Seek convention):
+      0 = any time, 1 = last 24 hours, 3 = last 3 days, etc.
     """
     base = "https://www.seek.com.au"
-    keyword_slug = keyword.strip().replace(" ", "-").lower()
+    keyword_slug = re.sub(r"\s+", "-", keyword.strip()).lower()
     query = f"{keyword_slug}-jobs/in-All-Australia"
     filters = f"?salaryrange={min_salary}-999999&listingdate={listing_date}"
     return f"{base}/{query}{filters}"
@@ -44,9 +50,8 @@ def extract_job_id_from_url(url: str):
 def posted_text_to_hours(txt: str) -> float:
     """
     Convert Seek's posted-time text to hours.
-    Handles common variants:
-      'Just posted', 'Posted today', 'Today', '10h ago', '1d ago',
-      'Posted 12 hours ago', 'Posted 1 day ago', '30+ days ago'
+    Handles: 'Just posted', 'Today', '10h ago', '1d ago',
+             'Posted 12 hours ago', 'Posted 1 day ago', '30+ days ago'
     """
     if not txt:
         return float("inf")
@@ -77,6 +82,40 @@ def posted_text_to_hours(txt: str) -> float:
 
 
 # ----------------------------
+# Headless mode resolver
+# ----------------------------
+def resolve_headless(headless_param: bool | None) -> tuple[bool, float]:
+    """
+    Decide headless mode:
+      - If HEADLESS env is set, use it.
+      - Else if running in CI and no DISPLAY, default headless True.
+      - Else if DISPLAY is present (e.g., Xvfb), default headed (False).
+      - Else default headless True.
+    Also returns slow_mo (seconds) from env SLOW_MO (only applied when headed).
+    """
+    # explicit env override wins
+    if os.getenv("HEADLESS") not in (None, ""):
+        headless = env_bool("HEADLESS", True)
+    elif headless_param is not None:
+        headless = headless_param
+    else:
+        in_ci = env_bool("CI", False)
+        has_display = os.getenv("DISPLAY") not in (None, "")
+        if in_ci and not has_display:
+            headless = True
+        elif has_display:
+            headless = False
+        else:
+            headless = True
+
+    slow_mo = float(env_str("SLOW_MO", "0"))
+    # never slow-mo in headless/CI to keep runs fast and stable
+    if headless or env_bool("CI", False):
+        slow_mo = 0.0
+    return headless, slow_mo
+
+
+# ----------------------------
 # Core scraper
 # ----------------------------
 def scrape_jobs(
@@ -87,15 +126,13 @@ def scrape_jobs(
     csv_path: str = "seek_jobs_24h.csv",
 ):
     """
-    Scrape Seek listings (last 24h by default) and write a CSV.
+    Scrape Seek listings (default last 24h) and write a CSV.
     Returns list[dict] with results.
     """
-    # Default: headless=True in CI, otherwise False (local dev can still force headless=None)
-    if headless is None:
-        headless = env_str("CI", "false").lower() == "true"
+    headless, slow_mo = resolve_headless(headless)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=headless)
+        browser = p.chromium.launch(headless=headless, slow_mo=slow_mo)
         page = browser.new_page()
         page.set_viewport_size({"width": 1280, "height": 2000})
 
@@ -119,7 +156,7 @@ def scrape_jobs(
                 card.scroll_into_view_if_needed()
             except Exception:
                 pass
-            time.sleep(0.2)
+            time.sleep(0.15 if slow_mo == 0 else 0.0)  # light politeness delay only if not slow-mo
 
             # Title & company
             title = card.locator('[data-automation="jobTitle"]').first.inner_text().strip()
@@ -178,7 +215,7 @@ def scrape_jobs(
             try:
                 print(f"➡️  ({i+1}/{count}) {title} | {company} | {posted_text} → {posted_dt_local_str} | {detail_url}")
                 detail_page.goto(detail_url, wait_until="domcontentloaded")
-                detail_page.wait_for_selector('[data-automation="jobAdDetails"]', timeout=15000)
+                detail_page.wait_for_selector('[data-automation="jobAdDetails"]', timeout=20000)
 
                 def safe_text(pg, selector: str, default: str = ""):
                     loc = pg.locator(selector)
@@ -231,13 +268,12 @@ if __name__ == "__main__":
     ldate = env_int("LISTING_DATE", 1)
     csv_out = env_str("CSV_PATH", "seek_jobs_24h.csv")
 
-    # Auto headless in CI, headed locally unless you pass HEADLESS=true
+    # HEADLESS env explicitly wins; otherwise auto (CI/no DISPLAY -> headless)
     headless_env = os.getenv("HEADLESS")
-    if headless_env is not None:
-        # explicit override from env
-        headless_val = headless_env.strip().lower() in ("1", "true", "yes")
+    if headless_env is not None and headless_env.strip() != "":
+        headless_val = env_bool("HEADLESS", True)
     else:
-        headless_val = None  # auto: True in CI, False locally
+        headless_val = None  # delegate to resolve_headless()
 
     scrape_jobs(
         keyword=kw,
