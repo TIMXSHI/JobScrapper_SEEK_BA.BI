@@ -1,10 +1,16 @@
+# seek_scraper.py
 from playwright.sync_api import sync_playwright
 import pandas as pd
-import time, re, os
+import time
+import re
+import os
 from urllib.parse import urljoin
-from datetime import datetime, timedelta  # for hour-accurate conversion
+from datetime import datetime, timedelta
 
 
+# ----------------------------
+# Env helpers
+# ----------------------------
 def env_str(name: str, default: str) -> str:
     v = os.getenv(name)
     return v if (v is not None and str(v).strip() != "") else default
@@ -16,10 +22,14 @@ def env_int(name: str, default: int) -> int:
         return default
 
 
+# ----------------------------
+# URL & parsing helpers
+# ----------------------------
 def build_seek_url(keyword: str, min_salary: int = 150000, listing_date: int = 1) -> str:
     """
-    listing_date: Seek query param
-      0=any time, 1=last 24h, 3=last 3 days, etc.
+    Build Seek search URL.
+    listing_date:
+      0 = any time, 1 = last 24 hours, 3 = last 3 days, etc. (Seek convention)
     """
     base = "https://www.seek.com.au"
     keyword_slug = keyword.strip().replace(" ", "-").lower()
@@ -27,16 +37,14 @@ def build_seek_url(keyword: str, min_salary: int = 150000, listing_date: int = 1
     filters = f"?salaryrange={min_salary}-999999&listingdate={listing_date}"
     return f"{base}/{query}{filters}"
 
-
 def extract_job_id_from_url(url: str):
     m = re.search(r"/job/(\d+)", url or "")
     return m.group(1) if m else None
 
-
 def posted_text_to_hours(txt: str) -> float:
     """
     Convert Seek's posted-time text to hours.
-    Handles variants like:
+    Handles common variants:
       'Just posted', 'Posted today', 'Today', '10h ago', '1d ago',
       'Posted 12 hours ago', 'Posted 1 day ago', '30+ days ago'
     """
@@ -68,6 +76,9 @@ def posted_text_to_hours(txt: str) -> float:
     return float("inf")
 
 
+# ----------------------------
+# Core scraper
+# ----------------------------
 def scrape_jobs(
     keyword: str = "Senior Insight Analyst",
     min_salary: int = 150000,
@@ -75,12 +86,15 @@ def scrape_jobs(
     headless: bool | None = None,
     csv_path: str = "seek_jobs_24h.csv",
 ):
-    # Default headless=True in CI (GitHub Actions sets CI=true)
+    """
+    Scrape Seek listings (last 24h by default) and write a CSV.
+    Returns list[dict] with results.
+    """
+    # Default: headless=True in CI, otherwise False (local dev can still force headless=None)
     if headless is None:
         headless = env_str("CI", "false").lower() == "true"
 
     with sync_playwright() as p:
-        # no slow_mo in CI
         browser = p.chromium.launch(headless=headless)
         page = browser.new_page()
         page.set_viewport_size({"width": 1280, "height": 2000})
@@ -94,22 +108,24 @@ def scrape_jobs(
         count = job_cards.count()
         if count == 0:
             print("No jobs found.")
-            browser.close()
-            # still write an empty CSV for downstream simplicity
             pd.DataFrame([]).to_csv(csv_path, index=False)
+            browser.close()
             return []
 
         results = []
         for i in range(count):
             card = job_cards.nth(i)
-            card.scroll_into_view_if_needed()
+            try:
+                card.scroll_into_view_if_needed()
+            except Exception:
+                pass
             time.sleep(0.2)
 
             # Title & company
             title = card.locator('[data-automation="jobTitle"]').first.inner_text().strip()
             company = card.locator('[data-automation="jobCompany"]').first.inner_text().strip()
 
-            # Posted label (Seek sometimes uses ::before)
+            # Posted label (Seek sometimes renders via ::before)
             posted_el = card.locator('[data-automation="jobListingDate"]').first
             posted_text = ""
             if posted_el.count() > 0:
@@ -127,14 +143,14 @@ def scrape_jobs(
             if hours_old > 24:
                 continue
 
-            # compute local posted datetime to the hour
+            # Compute local posted datetime to the hour
             now_local = datetime.now().astimezone()
             posted_dt_local = (now_local - timedelta(hours=hours_old)).replace(
                 minute=0, second=0, microsecond=0
             )
             posted_dt_local_str = posted_dt_local.strftime("%Y-%m-%d %H:00 %Z")
 
-            # Find detail href robustly
+            # Robustly find the detail link
             href = None
             overlay = card.locator('a[data-automation="job-list-item-link-overlay"]').first
             if overlay.count() > 0:
@@ -157,6 +173,7 @@ def scrape_jobs(
             detail_url = urljoin("https://www.seek.com.au", href)
             job_id = extract_job_id_from_url(detail_url)
 
+            # Open detail in a new tab
             detail_page = browser.new_page()
             try:
                 print(f"➡️  ({i+1}/{count}) {title} | {company} | {posted_text} → {posted_dt_local_str} | {detail_url}")
@@ -173,7 +190,7 @@ def scrape_jobs(
                 salary = safe_text(detail_page, '[data-automation="job-detail-salary"]')
 
                 ad_loc = detail_page.locator('[data-automation="jobAdDetails"]').first
-                ad_text = ad_loc.inner_text().strip()
+                ad_text = ad_loc.inner_text().strip() if ad_loc.count() > 0 else ""
 
                 results.append({
                     "Job ID": job_id,
@@ -190,27 +207,42 @@ def scrape_jobs(
                     "Ad Text": ad_text
                 })
             finally:
-                detail_page.close()
+                try:
+                    detail_page.close()
+                except Exception:
+                    pass
 
         browser.close()
 
+        # Always write CSV (even if empty)
         df = pd.DataFrame(results)
         df.to_csv(csv_path, index=False)
         print(f"✅ Scraped {len(results)} job(s). CSV written: {csv_path}")
         return results
 
 
+# ----------------------------
+# CLI entry
+# ----------------------------
 if __name__ == "__main__":
-    # Allow env overrides (optional)
+    # Allow env overrides for GitHub Actions / n8n
     kw = env_str("KEYWORD", "Senior Insight Analyst")
     min_sal = env_int("MIN_SALARY", 150000)
     ldate = env_int("LISTING_DATE", 1)
     csv_out = env_str("CSV_PATH", "seek_jobs_24h.csv")
 
+    # Auto headless in CI, headed locally unless you pass HEADLESS=true
+    headless_env = os.getenv("HEADLESS")
+    if headless_env is not None:
+        # explicit override from env
+        headless_val = headless_env.strip().lower() in ("1", "true", "yes")
+    else:
+        headless_val = None  # auto: True in CI, False locally
+
     scrape_jobs(
         keyword=kw,
         min_salary=min_sal,
         listing_date=ldate,
-        headless=None,           # auto: True in CI, False locally
+        headless=headless_val,
         csv_path=csv_out,
     )
