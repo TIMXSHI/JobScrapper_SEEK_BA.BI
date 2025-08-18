@@ -1,21 +1,17 @@
+# .github/workflows/scrape-seek.yml
 name: Scrape Seek (headed via Xvfb)
 
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 21 * * *"   # Daily 7:00 AEST (21:00 UTC)
+    - cron: "0 21 * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: scrape-seek
-  cancel-in-progress: false
-
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -35,10 +31,9 @@ jobs:
 
       - name: Run scraper under Xvfb (headed)
         env:
-          # Optional: force headed behavior in your script if you branch on this
           HEADLESS: "false"
         run: |
-          xvfb-run -a python seek_scraper.py
+          xvfb-run -a --server-args='-screen 0 1920x1080x24' python seek_scraper.py
 
       - name: Commit CSV back to repo
         run: |
