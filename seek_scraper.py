@@ -40,7 +40,7 @@ def build_seek_url(keyword: str, min_salary: int = 150000, listing_date: int = 1
     base = "https://www.seek.com.au"
     keyword_slug = re.sub(r"\s+", "-", keyword.strip()).lower()
     query = f"{keyword_slug}-jobs/in-All-Australia"
-    filters = f"?salaryrange={min_salary}-999999&listingdate={listing_date}"
+    filters = f"?salaryrange={min_salary}-999999&daterange={listing_date}"
     return f"{base}/{query}{filters}"
 
 def extract_job_id_from_url(url: str):
