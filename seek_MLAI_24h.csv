@@ -1,5 +1,5 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87147869,ML/AI Engineer - Junior,Whizdom,https://www.seek.com.au/job/87147869?type=standard&ref=search-standalone&origin=jobCard#sol=7fd994f8d69779326fb42a75e021b7c8e8c83925,6h ago,6.0,2025-09-12T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Competitive,"About the Client: A Sydney-based utilities provider leveraging advanced data and AI technologies to drive operational efficiency and customer innovation. This role supports a short-term initiative focused on deploying scalable machine learning solutions using Microsoft Azure and Databricks.
+87147869,ML/AI Engineer - Junior,Whizdom,https://www.seek.com.au/job/87147869?type=standard&ref=search-standalone&origin=jobCard#sol=05361c7fb52c200fb3bc52441ba4da15d1b0440f,7h ago,7.0,2025-09-12T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Competitive,"About the Client: A Sydney-based utilities provider leveraging advanced data and AI technologies to drive operational efficiency and customer innovation. This role supports a short-term initiative focused on deploying scalable machine learning solutions using Microsoft Azure and Databricks.
 
 About the Role: We are seeking a Junior Machine Learning Engineer to support the design, development, and deployment of ML solutions on Azure and Databricks. This Sydney CBD-based role offers the opportunity to work on cutting-edge AI/ML projects, including Generative AI and LLM implementations, within a collaborative and fast-paced environment.
 
@@ -27,7 +27,7 @@ Sydney CBD location
 Work on innovative AI/ML projects with modern cloud tools
 How to Apply: To express interest, please upload your resume. Suitable candidates will be contacted with further instructions.
 📩 Contact Dylan Sheoshker at dylans@whizdom.com.au or 📞 0480 002 456"
-87147402,Senior AI Engineer,SustainRecruit,https://www.seek.com.au/job/87147402?type=standard&ref=search-standalone&origin=jobCard#sol=2a3f626a743ca0a219c9b82b6273fe15c4518a03,6h ago,6.0,2025-09-12T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About the Company
+87147402,Senior AI Engineer,SustainRecruit,https://www.seek.com.au/job/87147402?type=standard&ref=search-standalone&origin=jobCard#sol=4ca27b1b334043a00b3c8c55f26a79f6ed40c5ce,7h ago,7.0,2025-09-12T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About the Company
   
 Join a purpose-driven organisation that is transforming the way healthcare is delivered. Backed by strong leadership and investment in Data & AI, the business is building intelligent platforms that empower clinicians, streamline workflows, and ultimately improve patient outcomes.
   
@@ -65,7 +65,79 @@ Opportunity to shape a growing AI function in a supportive, collaborative enviro
 Work on meaningful projects where technology directly improves lives
 Great growth potential and career progression 
 If you’re looking for meaningful challenges, the freedom to innovate, and the opportunity to shape something with long-lasting impact, then this is your opportunity. Apply now!"
-87157511,"Data, Integration & Service Management Roles",ASPL Group,https://www.seek.com.au/job/87157511?type=standard&ref=search-standalone&origin=jobCard#sol=9295b6906d24a779023a81a2cbef37694b8817a3,2h ago,2.0,2025-09-12T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$110 – $120 per hour,"Immediate Start Contract Roles – Data, Integration & Service Management 
+87162173,AI/ML Engineer - Sydney and Melbourne,iGreenData,https://www.seek.com.au/job/87162173?type=standard&ref=search-standalone&origin=jobCard#sol=5d8605a3f0d34df091311c70060f3e97dcdcc34e,1h ago,1.0,2025-09-12T07:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About the business
+
+iGreenData -A Synechron company is a next-generation technology company focusing on Cloud, Data, and Digital first solutions that are changing how technology provides value to businesses, empowering organizations to take advantage of the scalability, reliability, and improved performance of cloud computing. We offer highly differentiated technology services to our customers. Our customers benefit from the industry-leading digital and cloud capabilities we deliver together with our niche partner ecosystem. We leverage our intellectual property and our unique family of accelerators to helping our customers develop and run Intelligent businesses and transform the customer experience.
+
+What you'll contribute to the position
+
+We’re seeking a highly skilled AI/ML Engineer with expertise in building scalable, intelligent conversational systems and agent frameworks. The ideal candidate will have a strong background in containerized AI agents, semantic kernel development, observability, data management, API gateway deployment, and large language model (LLM) integrations to drive innovative VRM solutions.
+
+ 
+
+Key Responsibilities:
+
+Develop and maintain containerized AI agents using frameworks like Langgraph, LangChain, and LangFuse.
+
+Implement semantic kernel solutions in Python for intelligent language processing.
+
+Design and optimize MCP tooling workflows without direct API calls, ensuring efficient tooling development.
+
+Define protocols for agent-to-agent (A2A) communication, ensuring reliable and scalable interactions.
+
+Implement observability solutions using Langfuse, Observe, and Obstacle for system monitoring and debugging.
+
+Integrate Retrieval-Augmented Generation (RAG) techniques leveraging DynamoDB, Bedrock, and embedding models for knowledge retrieval.
+
+Engineer context management and dialogue state tracking using Aurora DB.
+
+Build and deploy CI/CD pipelines for efficient agent deployment and updates, utilizing Docker, ECS Fargate, and FastAPI.
+
+Implement LLM as an arbitration or judgment system with ChatGPT-4 and OpenAI APIs.
+
+Manage container orchestration with ECS Fargate and Docker.
+
+Configure and optimize API Gateway layers with Kong Gateway for secure and scalable API management.
+
+Develop strategies to tackle agent scalability and performance challenges in large-scale environments.
+
+ Qualifications:
+
+Bachelor's or Master’s degree in Computer Science, AI, Data Science, or related fields.
+
+Proven experience in building AI-powered agent systems with frameworks like LangChain, Langgraph, LangFuse.
+
+Strong Python development skills, especially in semantic kernel and NLP applications.
+
+Hands-on experience with DynamoDB, AWS Bedrock, embedding models, and RAG methodology.
+
+Deep knowledge of containerization (Docker), orchestration (ECS Fargate), and deployment pipelines (CI/CD).
+
+Familiarity with large language models (e.g., GPT-4, OpenAI API) as decision or judgment components.
+
+Experience with API management tools such as Kong Gateway.
+
+Expertise in system observability and monitoring (Langfuse, Observe, Obstacle).
+
+Knowledge of SQL/NoSQL databases, especially Aurora DB, for context and dialogue management.
+
+Strong problem-solving capabilities in scaling and optimizing agent architectures.
+
+Excellent communication and collaboration skills in a fast-paced environment.
+
+ 
+
+Preferred Skills:
+
+Experience in protocol design for agent-to-agent communication.
+
+Familiarity with cloud infrastructure and serverless deployment models.
+
+Ability to implement secure, scalable, and maintainable AI solutions.
+
+ 
+If this opportunity sound likes something you would be interested in, we want to hear from you! Our team will assess your application, and if we feel that you could be a good fit for any of our client partners, we will be in touch regarding the next steps. You must have the right to live and work in this location to apply for this job."
+87157511,"Data, Integration & Service Management Roles",ASPL Group,https://www.seek.com.au/job/87157511?type=standard&ref=search-standalone&origin=jobCard#sol=4306538b81469ef48d13582ab70de651c15f4e66,3h ago,3.0,2025-09-12T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$110 – $120 per hour,"Immediate Start Contract Roles – Data, Integration & Service Management 
 
 ASPL Group is proud to be recruiting on behalf of our client, a global consulting firm delivering transformation for one of Australia’s major banks.
 
@@ -130,7 +202,82 @@ For further information, contact executiverecruitment@aspl.net.au
 Diversity, Equity & Inclusion
 
 At ASPL Group, inclusion is core to how we work. We welcome applications from all people regardless of culture, background, age, gender, or ability. We strongly encourage Aboriginal and Torres Strait Islander peoples, people with disability, and people from culturally and linguistically diverse communities to apply."
-87155108,Automation Specialist,ConnectEast,https://www.seek.com.au/job/87155108?type=standard&ref=search-standalone&origin=jobCard#sol=23f60afde96da2727b5a4ef1014ce92fc4764ffb,3h ago,3.0,2025-09-12T04:00:00+00:00,"Ringwood, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Join our “Innovation Lab” to improve the customer experience with cutting-edge solutions and groundbreaking ideas.
+87145409,System Support Engineer,Liebherr Australia Pty Ltd,https://www.seek.com.au/job/87145409?type=standard&ref=search-standalone&origin=jobCard#sol=948a7e0d12c1f638f22a80f115cf10025156be07,8h ago,8.0,2025-09-12T00:00:00+00:00,Perth WA,Systems Engineering (Engineering),Full time,"$200,000 – $205,000 per year","About the Company:
+
+Are you ready to join the Liebherr family?
+
+Liebherr-Australia’s experience, knowledge, and dedication to the highest quality and most reliable technology, makes us a respected leader and a trustworthy partner to industry. We sell and service earthmoving machinery, mining equipment, mobile cranes, tower cranes, maritime cranes as well as foundation and piling equipment throughout Australia and New Zealand. 
+
+About the Role:
+
+We're excited to welcome a new System Support Engineer into Liebherr to provide advanced Technical Support to the Liebherr Onboard Autonomy Kit and Autonomous Haulage Solution.
+
+Working an even time roster, as part of the 24 / 7 Global Product Owner team, the role provides real-time assistance, including remote monitoring and on-site support, where required, to ensure maximum uptime and reliability of the Onboard Autonomy Kit.
+
+The position will be instrumental in timely resolution of system failures / bugs in accordance with SLA timeframes.
+
+With deep expertise in electro-mechanical systems, software troubleshooting, autonomous vehicle technology, and a commitment to operational excellence, the System Support Engineer – Onboard Autonomy is responsible for diagnosing, troubleshooting, and resolving complex software and system issues while ensuring uninterrupted operation across global autonomous mining fleets. 
+
+Skills and Duties:
+
+To succeed in this role, you will need Bachelor’s degree in engineering (Mechanical, Electrical, Robotics or Mechatronics) or related discipline.
+
+Specific development experience with heavy, off road, or mining vehicles and / or autonomous haulage systems is highly desirable.
+
+·         Experience in Linux-based systems and troubleshooting distributed software architectures
+
+·         Knowledge of software programming tools (ex. Linux, C++, etc.)
+
+·         Knowledge of communication protocols (ex. Ethernet, CAN J1939, DDS, etc.).
+
+·         Knowledge of diagnostic tools necessary to analyse embedded onboard connected systems, (ex. Vector Canalyzer, SQL Database)
+
+·         Knowledge of ITSM tools (ex. JIRA, Service Now)
+
+·         Knowledge of real-time embedded systems
+
+·         Knowledge of open-source development tools (e.g. ROS2)
+
+·         Knowledge of autonomous system technology principles including perception, pose, and self- localization/mapping
+
+·         Troubleshoot complex systems related to onboard autonomy, robotic behaviours, and drive by wire systems
+
+·         Troubleshoot obstacle detection algorithms and summarize performance metrics
+
+·         Knowledge of system modelling techniques using MATLAB/Simulink
+
+·         Calibrate and troubleshoot perception stack sensors including but not limited to Lidar and radar.
+
+Essential:
+
+·         Bachelor’s degree in engineering (Mechanical, Electrical, Robotics or Mechatronics) or a related field; and
+
+·         3+ years of experience in software engineering with exposure to large-scale autonomous or industrial systems.
+
+
+
+
+We are committed to building a workforce that is representative of the communities in which we live, work and operate. Our culture thrives on mutual respect, teamwork and diversity of thought in the workplace.
+
+Culture:
+
+We are dedicated to seeing our employees work together in an environment that fosters the true meaning of collaboration; a culture that creates the highest quality, cutting-edge products, long-lasting relationships, and improved organisational and individual capabilities.
+
+We aim to give our employees an opportunity to grow and develop their careers.
+
+Benefits:
+
+Paid Parental Leave | Bonus Leave | Purchase Leave | Early Access to LSL Corporate Health Insurance | Novated Lease | Travel Club Liebherr One Hub – Employee Discount Portal for Great Savings Soft skills and Leadership training programs. 
+
+Please note: Applicants successful in progressing past interview stage will be required to undergo a Preemployment process including National Police Clearance and Medical Screening process which includes drug and alcohol testing.
+
+Liebherr Australia would like to thank you for submitting your application.
+
+
+
+
+No agencies or third parties please."
+87155108,Automation Specialist,ConnectEast,https://www.seek.com.au/job/87155108?type=standard&ref=search-standalone&origin=jobCard#sol=992809e0d8f9d69d298f7d87b03a7d8b2c695dab,4h ago,4.0,2025-09-12T04:00:00+00:00,"Ringwood, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Join our “Innovation Lab” to improve the customer experience with cutting-edge solutions and groundbreaking ideas.
 
 12-months fixed term
 
@@ -217,125 +364,7 @@ If this role sounds of interest to you, please refer to the Employee Information
 Applications must include a cover letter and current resume and must be submitted prior to Close of Business on Friday 3rd October  2025.
 
 ConnectEast values and embraces diversity and inclusion within our employee group. We are One Team working seamlessly together. Safety is at the forefront of our decision making. We are Accountable for our actions and deliver on our commitments. We respect one another and We Care for every one of our employees, colleagues, customers and the environment."
-87145409,System Support Engineer,Liebherr Australia Pty Ltd,https://www.seek.com.au/job/87145409?type=standard&ref=search-standalone&origin=jobCard#sol=af7108932c40be777d9f68c6e09c0177dca84e2a,7h ago,7.0,2025-09-12T00:00:00+00:00,Perth WA,Systems Engineering (Engineering),Full time,"$200,000 – $205,000 per year","About the Company:
-
-Are you ready to join the Liebherr family?
-
-Liebherr-Australia’s experience, knowledge, and dedication to the highest quality and most reliable technology, makes us a respected leader and a trustworthy partner to industry. We sell and service earthmoving machinery, mining equipment, mobile cranes, tower cranes, maritime cranes as well as foundation and piling equipment throughout Australia and New Zealand. 
-
-About the Role:
-
-We're excited to welcome a new System Support Engineer into Liebherr to provide advanced Technical Support to the Liebherr Onboard Autonomy Kit and Autonomous Haulage Solution.
-
-Working an even time roster, as part of the 24 / 7 Global Product Owner team, the role provides real-time assistance, including remote monitoring and on-site support, where required, to ensure maximum uptime and reliability of the Onboard Autonomy Kit.
-
-The position will be instrumental in timely resolution of system failures / bugs in accordance with SLA timeframes.
-
-With deep expertise in electro-mechanical systems, software troubleshooting, autonomous vehicle technology, and a commitment to operational excellence, the System Support Engineer – Onboard Autonomy is responsible for diagnosing, troubleshooting, and resolving complex software and system issues while ensuring uninterrupted operation across global autonomous mining fleets. 
-
-Skills and Duties:
-
-To succeed in this role, you will need Bachelor’s degree in engineering (Mechanical, Electrical, Robotics or Mechatronics) or related discipline.
-
-Specific development experience with heavy, off road, or mining vehicles and / or autonomous haulage systems is highly desirable.
-
-·         Experience in Linux-based systems and troubleshooting distributed software architectures
-
-·         Knowledge of software programming tools (ex. Linux, C++, etc.)
-
-·         Knowledge of communication protocols (ex. Ethernet, CAN J1939, DDS, etc.).
-
-·         Knowledge of diagnostic tools necessary to analyse embedded onboard connected systems, (ex. Vector Canalyzer, SQL Database)
-
-·         Knowledge of ITSM tools (ex. JIRA, Service Now)
-
-·         Knowledge of real-time embedded systems
-
-·         Knowledge of open-source development tools (e.g. ROS2)
-
-·         Knowledge of autonomous system technology principles including perception, pose, and self- localization/mapping
-
-·         Troubleshoot complex systems related to onboard autonomy, robotic behaviours, and drive by wire systems
-
-·         Troubleshoot obstacle detection algorithms and summarize performance metrics
-
-·         Knowledge of system modelling techniques using MATLAB/Simulink
-
-·         Calibrate and troubleshoot perception stack sensors including but not limited to Lidar and radar.
-
-Essential:
-
-·         Bachelor’s degree in engineering (Mechanical, Electrical, Robotics or Mechatronics) or a related field; and
-
-·         3+ years of experience in software engineering with exposure to large-scale autonomous or industrial systems.
-
-
-
-
-We are committed to building a workforce that is representative of the communities in which we live, work and operate. Our culture thrives on mutual respect, teamwork and diversity of thought in the workplace.
-
-Culture:
-
-We are dedicated to seeing our employees work together in an environment that fosters the true meaning of collaboration; a culture that creates the highest quality, cutting-edge products, long-lasting relationships, and improved organisational and individual capabilities.
-
-We aim to give our employees an opportunity to grow and develop their careers.
-
-Benefits:
-
-Paid Parental Leave | Bonus Leave | Purchase Leave | Early Access to LSL Corporate Health Insurance | Novated Lease | Travel Club Liebherr One Hub – Employee Discount Portal for Great Savings Soft skills and Leadership training programs. 
-
-Please note: Applicants successful in progressing past interview stage will be required to undergo a Preemployment process including National Police Clearance and Medical Screening process which includes drug and alcohol testing.
-
-Liebherr Australia would like to thank you for submitting your application.
-
-
-
-
-No agencies or third parties please."
-87157747,Data Analyst,Trilogy Care Pty Ltd,https://www.seek.com.au/job/87157747?type=standard&ref=search-standalone&origin=jobCard#sol=49bcf1a036200311a9ae2059f4b05ce08d674bc8,2h ago,2.0,2025-09-12T05:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Ready to turn data into decisions that matter?
-
-CareVicinity is on a mission to transform aged care and health services through intelligent, data-driven technology. We’re looking for a Data Analyst who thrives in cloud-native environments and loves turning raw data into actionable insights that drive real-world impact.
-
-You’ll work alongside engineers, product teams, and AI specialists to build scalable pipelines, craft intuitive dashboards, and support predictive analytics across our platform. If you’re passionate about SQL, PySpark, and the power of Databricks and AWS - this is your playground.
-
-What You’ll Be Doing
-
-Analyse operational and service data to uncover trends and opportunities
-Build and maintain dashboards (Metabase, Databricks SQL) for self-service insights
-Deliver advanced modelling across Lakehouse medallion layers (bronze, silver, gold)
-Design and optimise scalable data pipelines using SQL, PySpark, and Databricks
-Collaborate with AI/ML teams to engineer features for SageMaker and Databricks ML
-Ensure strong data governance, documentation, and quality controls
-Partner with stakeholders to translate business questions into analytical solutions
-Support platform performance tracking and KPI instrumentation
-
-What You Bring
-
-3+ years building data pipelines using SQL, PySpark, and Databricks
-Strong experience with AWS and Lakehouse architecture (Delta Lake, ETL patterns)
-Working knowledge of SageMaker and ML workflows
-Proficiency in Python for wrangling, automation, and analytics
-Ability to translate complex business problems into measurable outcomes
-Solid documentation practices for reproducibility and governance
-Experience with forecasting, clustering, classification, and prediction models
-
-Why Join Us?
-
-Be part of a purpose-driven tech team reshaping care delivery
-Work with cutting-edge tools like Databricks, SageMaker, and AWS
-Hybrid flexibility with a collaborative, high-performance culture
-Career growth in a fast-evolving data and AI landscape
-
-Apply Now
-
-If you’re ready to make data meaningful and drive innovation in care technology, we’d love to hear from you.
-
-Please note
-
-To join our team, you’ll need to have full Australian work rights. As part of our standard recruitment process, we’ll also conduct a working rights check, police check and request professional references during onboarding.
-
-We appreciate the interest of recruitment agencies but kindly ask that resumes not be submitted unless a prior agreement is in place. Care Vicinity will not accept responsibility for any fees related to unsolicited resumes."
-87155561,Computational Fluid Dynamics (CFD) Engineer,LCI Consultants,https://www.seek.com.au/job/87155561?type=standard&ref=search-standalone&origin=jobCard#sol=0903054ee10a7eca3d53bcb6f727d8e0cabfa57c,3h ago,3.0,2025-09-12T04:00:00+00:00,"North Sydney, Sydney NSW",Building Services Engineering (Engineering),Full time,,"LCI is seeking a Computational Fluid Dynamics (CFD) Engineer for our Sydney office. We are an engineering design house specialising in building services. We employ over 270 staff within six offices across Australia.  We’ve built a phenomenal team.… and we are continuing to grow.
+87155561,Computational Fluid Dynamics (CFD) Engineer,LCI Consultants,https://www.seek.com.au/job/87155561?type=standard&ref=search-standalone&origin=jobCard#sol=29fa7804d3d64bbb2db97c0808bbd93bcd5bb185,4h ago,4.0,2025-09-12T04:00:00+00:00,"North Sydney, Sydney NSW",Building Services Engineering (Engineering),Full time,,"LCI is seeking a Computational Fluid Dynamics (CFD) Engineer for our Sydney office. We are an engineering design house specialising in building services. We employ over 270 staff within six offices across Australia.  We’ve built a phenomenal team.… and we are continuing to grow.
 
 We see our colleagues as family, and we pride ourselves on hiring and shaping passionate professionals who thrive in a diverse and collaborative environment. We operate within a culture of trust and flexibility and this is a great opportunity to be part of a growing and collaborative team.                             
 
@@ -394,50 +423,7 @@ In this era of technology and globalisation, we recognise cultivating a diverse 
 For more information about LCI, please visit our website at www.lciconsultants.com.au.
 
 Agencies need not send applicants as we are managing all recruitment directly. LCI will not accept any unsolicited resumes from recruiters or recruitment agencies. Any unsolicited resumes will be deemed to be the property of LCI and in the absence of a signed Agreement, LCI will not consider or agree to any payment of any recruitment fee."
-87144912,Human Factors (HF) Specialist,Department of Defence,https://www.seek.com.au/job/87144912?type=standard&ref=search-standalone&origin=jobCard#sol=fe939725ff948b2946eac0aaeaea91b407dd5380,8h ago,8.0,2025-09-11T23:00:00+00:00,"Southbank, Melbourne VIC","Other, Government - Federal (Government & Defence)",Full time,"$120,303 - $135,701 (Executive Level 1) + Super","The Role
-
-As an EL 1 Human Factors (HF) Specialist in the Directorate of Specialist Engineering within Land Engineering Agency (LEA), you will ensure that Human Factors are effectively integrated into the design and acquisition of Land systems. This role requires expertise in understanding human capabilities, limitations, and behaviours to optimise human-system performance and minimise risk. You will ensure the user and their capabilities are fully considered across all phases of the capability life cycle. 
-
-This will include; 
-
-Identification, management and mitigation of human-systems risks; 
-Incorporation of HF in project documents and activities (user requirements, functional and performance specifications, contractual documents, test and evaluation, etc.);
-Provision of specialist advice to a range of stakeholders; 
-Production of Human Systems Integration (HSI) policy and guidance; and 
-Working in partnership with key domestic and international stakeholders, within and outside Defence.  
-You will be responsible for advocacy, education, and coaching of HSI across LEA and Defence stakeholders.
-
-About our Team
-
-Land Systems Division’s (LSD) mission is to acquire and support capability that enables the ADF to generate and sustain deployable Land power for an integrated force, in peace and war. We aim to be agile, innovative and outcomes-focussed as we collaborate closely with the Services and industry to deliver the latest equipment to maximise ADF performance. 
-
-LEA, as part of CASG, supports various Projects and Systems Program Offices (SPO) to ensure successful technical outcomes of Defence acquisition and in-service support of land materiel. LEA provides services in engineering, testing, design and development, technical data and configuration management across the Defence Capability Life Cycle. 
-
-LSD is dedicated to providing staff with an inclusive and healthy work-life environment, and we will invest in your ongoing professional development to ensure your work with us is deeply rewarding. 
-
-Our Ideal Candidate
-
-Our ideal candidate will be an experienced scientist/engineering professional with a tertiary qualification in HF or related discipline. You will have a deep technical knowledge and experience in the application of HF and HSI to design, development, acquisition and sustainment of systems. Experience in Defence is preferable but not essential. 
-
-You will have strong knowledge and experience of different areas of HF/HSI such as:
-
-Anthropometry 
-Workload analysis
-Early Human Factors Analysis 
-Risk identification 
-Requirements definition 
-HSI plans 
-Human machine interface analysis 
-System safety and human error analyses 
-User data collection including test & evaluation and statistical analysis 
-HSI assurance activities.  
-
-Strong analytical, problem-solving, and communication skills are required. You will be able to work with a degree of autonomy but also work well as part of a team and actively foster a supportive, collaborative team environment. You will be responsible for planning HSI support, mentoring, and reviewing deliverables.
-
-Application Closing Date: Sunday 28 September 2025
-
-For further information please review the job information pack, reference CASG/07431/25 on https://defencecareers.nga.net.au/?jati=6A2E52B1-B8D1-375D-514A-E4331A46C2BA"
-87147706,Senior Data Engineer,Australian Unity,https://www.seek.com.au/job/87147706?type=standard&ref=search-standalone&origin=jobCard#sol=6eddba84b142bd6ec0aa1f9904fd62451c75962f,6h ago,6.0,2025-09-12T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
+87147706,Senior Data Engineer,Australian Unity,https://www.seek.com.au/job/87147706?type=standard&ref=search-standalone&origin=jobCard#sol=1fa7e09930531dd5003343f5345b91e9bce72a60,7h ago,7.0,2025-09-12T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -495,7 +481,208 @@ Available access to LinkedIn Learning courses through our great Learning platfor
 For further benefits visit: https://www.australianunity.com.au/careers/culture
 
 Australian Unity is an Equal Opportunity employer and we encourage applications from all members of the community, including people of Aboriginal and Torres strait Islander descent, culturally and linguistically diverse backgrounds and, mature aged people."
-87147286,AI Solutions Specialist,Borg,https://www.seek.com.au/job/87147286?type=standard&ref=search-standalone&origin=jobCard#sol=aa3d2775e01be13cc2bce6ea27656d0ddf667461,6h ago,6.0,2025-09-12T01:00:00+00:00,"Somersby, Gosford & Central Coast NSW",Consultants (Information & Communication Technology),Full time,,"About The Borg Group
+87157747,Data Analyst,Trilogy Care Pty Ltd,https://www.seek.com.au/job/87157747?type=standard&ref=search-standalone&origin=jobCard#sol=b20d6fc3f348ba89d65747408408e7a9bbd88ed9,3h ago,3.0,2025-09-12T05:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Ready to turn data into decisions that matter?
+
+CareVicinity is on a mission to transform aged care and health services through intelligent, data-driven technology. We’re looking for a Data Analyst who thrives in cloud-native environments and loves turning raw data into actionable insights that drive real-world impact.
+
+You’ll work alongside engineers, product teams, and AI specialists to build scalable pipelines, craft intuitive dashboards, and support predictive analytics across our platform. If you’re passionate about SQL, PySpark, and the power of Databricks and AWS - this is your playground.
+
+What You’ll Be Doing
+
+Analyse operational and service data to uncover trends and opportunities
+Build and maintain dashboards (Metabase, Databricks SQL) for self-service insights
+Deliver advanced modelling across Lakehouse medallion layers (bronze, silver, gold)
+Design and optimise scalable data pipelines using SQL, PySpark, and Databricks
+Collaborate with AI/ML teams to engineer features for SageMaker and Databricks ML
+Ensure strong data governance, documentation, and quality controls
+Partner with stakeholders to translate business questions into analytical solutions
+Support platform performance tracking and KPI instrumentation
+
+What You Bring
+
+3+ years building data pipelines using SQL, PySpark, and Databricks
+Strong experience with AWS and Lakehouse architecture (Delta Lake, ETL patterns)
+Working knowledge of SageMaker and ML workflows
+Proficiency in Python for wrangling, automation, and analytics
+Ability to translate complex business problems into measurable outcomes
+Solid documentation practices for reproducibility and governance
+Experience with forecasting, clustering, classification, and prediction models
+
+Why Join Us?
+
+Be part of a purpose-driven tech team reshaping care delivery
+Work with cutting-edge tools like Databricks, SageMaker, and AWS
+Hybrid flexibility with a collaborative, high-performance culture
+Career growth in a fast-evolving data and AI landscape
+
+Apply Now
+
+If you’re ready to make data meaningful and drive innovation in care technology, we’d love to hear from you.
+
+Please note
+
+To join our team, you’ll need to have full Australian work rights. As part of our standard recruitment process, we’ll also conduct a working rights check, police check and request professional references during onboarding.
+
+We appreciate the interest of recruitment agencies but kindly ask that resumes not be submitted unless a prior agreement is in place. Care Vicinity will not accept responsibility for any fees related to unsolicited resumes."
+87144912,Human Factors (HF) Specialist,Department of Defence,https://www.seek.com.au/job/87144912?type=standard&ref=search-standalone&origin=jobCard#sol=b21b76fd3972135eb54ee9505ed3bccb78280379,9h ago,9.0,2025-09-11T23:00:00+00:00,"Southbank, Melbourne VIC","Other, Government - Federal (Government & Defence)",Full time,"$120,303 - $135,701 (Executive Level 1) + Super","The Role
+
+As an EL 1 Human Factors (HF) Specialist in the Directorate of Specialist Engineering within Land Engineering Agency (LEA), you will ensure that Human Factors are effectively integrated into the design and acquisition of Land systems. This role requires expertise in understanding human capabilities, limitations, and behaviours to optimise human-system performance and minimise risk. You will ensure the user and their capabilities are fully considered across all phases of the capability life cycle. 
+
+This will include; 
+
+Identification, management and mitigation of human-systems risks; 
+Incorporation of HF in project documents and activities (user requirements, functional and performance specifications, contractual documents, test and evaluation, etc.);
+Provision of specialist advice to a range of stakeholders; 
+Production of Human Systems Integration (HSI) policy and guidance; and 
+Working in partnership with key domestic and international stakeholders, within and outside Defence.  
+You will be responsible for advocacy, education, and coaching of HSI across LEA and Defence stakeholders.
+
+About our Team
+
+Land Systems Division’s (LSD) mission is to acquire and support capability that enables the ADF to generate and sustain deployable Land power for an integrated force, in peace and war. We aim to be agile, innovative and outcomes-focussed as we collaborate closely with the Services and industry to deliver the latest equipment to maximise ADF performance. 
+
+LEA, as part of CASG, supports various Projects and Systems Program Offices (SPO) to ensure successful technical outcomes of Defence acquisition and in-service support of land materiel. LEA provides services in engineering, testing, design and development, technical data and configuration management across the Defence Capability Life Cycle. 
+
+LSD is dedicated to providing staff with an inclusive and healthy work-life environment, and we will invest in your ongoing professional development to ensure your work with us is deeply rewarding. 
+
+Our Ideal Candidate
+
+Our ideal candidate will be an experienced scientist/engineering professional with a tertiary qualification in HF or related discipline. You will have a deep technical knowledge and experience in the application of HF and HSI to design, development, acquisition and sustainment of systems. Experience in Defence is preferable but not essential. 
+
+You will have strong knowledge and experience of different areas of HF/HSI such as:
+
+Anthropometry 
+Workload analysis
+Early Human Factors Analysis 
+Risk identification 
+Requirements definition 
+HSI plans 
+Human machine interface analysis 
+System safety and human error analyses 
+User data collection including test & evaluation and statistical analysis 
+HSI assurance activities.  
+
+Strong analytical, problem-solving, and communication skills are required. You will be able to work with a degree of autonomy but also work well as part of a team and actively foster a supportive, collaborative team environment. You will be responsible for planning HSI support, mentoring, and reviewing deliverables.
+
+Application Closing Date: Sunday 28 September 2025
+
+For further information please review the job information pack, reference CASG/07431/25 on https://defencecareers.nga.net.au/?jati=6A2E52B1-B8D1-375D-514A-E4331A46C2BA"
+87146052,Data Engineer,Indigenous Business Australia,https://www.seek.com.au/job/87146052?type=standard&ref=search-standalone&origin=jobCard#sol=04804f79ae95b0ee62a6bb714e5602e878a50047,8h ago,8.0,2025-09-12T00:00:00+00:00,Sydney NSW (Hybrid),"Database Development & Administration (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,"$157,690 - $184,761 + 15.4% superannuation","Position: Data Engineer
+
+Salary: $157,690- $184,761 plus 15.4% superannuation
+
+Employment type: Full-time Ongoing
+
+Location: Sydney, Canberra, Brisbane or Adelaide
+
+Want to work with an organisation that drives financial inclusion and economic empowerment with Aboriginal and Torres Strait Islander people? Well, we've got just the job for you…
+
+About IBA
+
+At Indigenous Business Australia (IBA), we partner and invest with Aboriginal and Torres Strait Islander people who want to own their future. We go further than providing money - we invest in people, places and ideas that are ready. We help make them real. We’re deeply invested in the financial success and economic independence of Indigenous Australians. It’s why we exist.
+
+We offer a range of services to help Indigenous Australians create wealth, seize investment opportunities, build businesses, and purchase homes. We do this with a commercial mindset and by building respectful, productive partnerships across communities, government, and the private sector.
+
+Our people are invested, informed, responsive, respectful and connected.
+
+The Opportunity
+
+We are seeking a Data Engineer to join our Information & Technology team and contribute to the development and maintenance of our data infrastructure. Your expertise will support various programs in making data-driven decisions, and you will play a key part in optimising our data architecture to meet evolving business needs.
+
+About the role
+
+Are you a hands-on data engineering expert ready to build modern, scalable solutions in a purpose-driven organisation? IBA is modernising its Azure-based data platform using Microsoft Fabric, and we’re looking for a Data Engineer to help design and deliver high-performing, secure, and scalable data solutions that support enterprise analytics and decision-making.
+
+What you’ll bring to the team
+
+Awareness and understanding of Aboriginal and/or Torres Strait Islander societies and culture.
+Ability to liaise and communicate sensitively and effectively with Aboriginal and Torres Strait Islander staff. 
+Tertiary qualifications in IT, Data Science, Engineering, Business, or equivalent experience.
+10+ years in IT, with 5+ years in Azure Data Warehouse and Data Factory or equivalent.
+Experience with Microsoft Fabric, OneLake, and Power Platform
+Proficiency in SQL and PySpark,, and exposure to metadata-driven frameworks
+CI/CD and DevOps experience, including Git integration
+Knowledge of lakehouse architecture, delta tables, and modern storage patterns
+Strong experience with Power BI, including semantic models and interactive reports
+Strong communication, collaboration, and adaptability
+Microsoft Certified: Azure Data Engineer Associate (desirable)
+
+What you will get in return
+
+A values-based organisation committed to Indigenous economic empowerment.
+15.4% employer superannuation contribution.
+Not-for-profit status with access to salary packaging.
+4 weeks annual leave, with options for half-pay or purchased leave.
+Paid Christmas shutdown without leave deduction.
+Flexible working arrangements.
+Professional development opportunities.
+18 days personal/carer’s leave.
+ NAIDOC leave.
+ First Nations Ceremonial Leave.
+Cultural Leave.
+
+Want to know more about IBA?
+
+Visit www.iba.gov.au
+
+Applications close: 25 September 2025
+
+Please note: Emailed applications will not be accepted, nor will applications from recruitment agencies"
+87151813,Power BI Engineer,DUAL Asia Pacific,https://www.seek.com.au/job/87151813?type=standard&ref=search-standalone&origin=jobCard#sol=86bf8221bf5362b39b2404fd74598580aab1f577,5h ago,5.0,2025-09-12T03:00:00+00:00,Melbourne VIC (Hybrid),Underwriting (Insurance & Superannuation),Full time,,"Energetic, fun, and collaborative team atmosphere
+Join a dynamic and forward-thinking business
+Thrive in a fast-paced environment
+
+
+About DUAL
+
+Driven by a vision to be the world's best underwriting business, DUAL has always taken a different approach to our industry peers.
+
+Since our business was founded in 2004, we have had a strong entrepreneurial spirit that runs through every part of our business. We empower our people to develop products, services and processes that deliver consistently for our partners. As a company we're known in the industry as a group dedicated to giving back to the community by partnering with charitable groups and actively participating in fundraising events. Whatever you are looking for in a career, we want to help you do more.
+
+Our philosophy is simple: we genuinely put people first and want our people to be the healthiest and happiest they can be, at work and at home. We aim to attract and retain the best talent, and support them to achieve their aspirations. It's how we grow our business and keep one step ahead of our competitors.
+
+About the Role
+
+We are looking for a skilled Data Engineer to join our Reporting & Analytics team, with expertise in Power BI. This role would suit individuals excelling in data engineering and business intelligence, building scalable data pipelines, and optimising data models for impactful Power BI reporting.
+
+Play a key role in crafting how data flows through our systems and how it's presentation to our stakeholders. We want you to ensure our reporting infrastructure is robust, efficient, and future ready!
+
+Role Responsibilities
+Build and maintain enterprise-grade Power BI datasets, reports, and dashboards.
+Compose, construct, and uphold scalable ETL pipelines employing tools like Azure Data Factory and SQL.
+Ensure data quality, integrity, and governance across all reporting layers.
+Collaborate with cross-functional teams to determine data requirements and successfully implement solutions.
+Continuously improve and automate data processes to maintain a flawless reporting infrastructure.
+Supply technical knowledge and assistance following best practices to continuously improve and automate our data processes.
+About You
+
+Seeking a proficient Data Engineer specialising in Power BI with at least 5 years of experience. Your forte includes constructing scalable data pipelines, ensuring data quality, and fostering collaboration within teams. You promote procedures and strive for continuous automation and enhancement of data processes. Your proactive nature and adept problem-solving make you an indispensable team member.
+
+How to Apply
+
+Are you the right fit for this role and the DUAL Team? Tell us why in a short paragraph that you share along with your Resume to our HR Team.
+
+What you might not expect…
+
+At DUAL we value work/life balance, health and wellbeing, family and giving back, which is why our benefits are reflective of this. We provide employees with a competitive salary and benefits, which will be flexible and dependent on the successful candidate's individual skills and experience.
+
+Our culture: people first
+
+Our core values dictate how we live and work. We're a group with independence and people
+at its heart and we're a home for talent with a unique culture: the biggest small company in
+the world.
+
+The focus on being a people-first business has always been at the very heart of the group; Our vision was to create an independent business with a unique culture and one that would survive and thrive as a business controlled by the people working for it. And finding the most talented and entrepreneurial people to join the group has been and will continue to be key.
+
+EEO Statement
+
+Help us think differently. As a business we're on a journey to build an inclusive workplace where our people feel welcome to bring their whole and true self to work, where differences are accepted and where our words and actions are inclusive. Together we are learning, sharing stories, and achieving change.
+
+Get in touch
+
+To find out more about DUAL Australia including who we are, what we're up to and what we're about, head to the DUAL Australia website or visit us on our LinkedIn page."
+87147286,AI Solutions Specialist,Borg,https://www.seek.com.au/job/87147286?type=standard&ref=search-standalone&origin=jobCard#sol=ff3c6d402ca3b838ef58bf1047bf988c6ccc4a13,7h ago,7.0,2025-09-12T01:00:00+00:00,"Somersby, Gosford & Central Coast NSW",Consultants (Information & Communication Technology),Full time,,"About The Borg Group
 
 The Borg Group is a leading privately-owned Australian enterprise with a strong presence in manufacturing, recycling, and property development. Founded in 1989 by brothers John and Michael Borg, the company is headquartered in Somersby, New South Wales, and employs nearly 2,700 people across Australia and New Zealand.
 
@@ -567,122 +754,7 @@ Apply now and help us lead the way in applied AI.
 
 
 Borg is an Equal Opportunity Employer."
-87146052,Data Engineer,Indigenous Business Australia,https://www.seek.com.au/job/87146052?type=standard&ref=search-standalone&origin=jobCard#sol=7a02766ebfe98bc08761283cdc414a51ed643b4a,7h ago,7.0,2025-09-12T00:00:00+00:00,Sydney NSW (Hybrid),"Database Development & Administration (Information & Communication Technology)
-Government - Federal (Government & Defence)",Full time,"$157,690 - $184,761 + 15.4% superannuation","Position: Data Engineer
-
-Salary: $157,690- $184,761 plus 15.4% superannuation
-
-Employment type: Full-time Ongoing
-
-Location: Sydney, Canberra, Brisbane or Adelaide
-
-Want to work with an organisation that drives financial inclusion and economic empowerment with Aboriginal and Torres Strait Islander people? Well, we've got just the job for you…
-
-About IBA
-
-At Indigenous Business Australia (IBA), we partner and invest with Aboriginal and Torres Strait Islander people who want to own their future. We go further than providing money - we invest in people, places and ideas that are ready. We help make them real. We’re deeply invested in the financial success and economic independence of Indigenous Australians. It’s why we exist.
-
-We offer a range of services to help Indigenous Australians create wealth, seize investment opportunities, build businesses, and purchase homes. We do this with a commercial mindset and by building respectful, productive partnerships across communities, government, and the private sector.
-
-Our people are invested, informed, responsive, respectful and connected.
-
-The Opportunity
-
-We are seeking a Data Engineer to join our Information & Technology team and contribute to the development and maintenance of our data infrastructure. Your expertise will support various programs in making data-driven decisions, and you will play a key part in optimising our data architecture to meet evolving business needs.
-
-About the role
-
-Are you a hands-on data engineering expert ready to build modern, scalable solutions in a purpose-driven organisation? IBA is modernising its Azure-based data platform using Microsoft Fabric, and we’re looking for a Data Engineer to help design and deliver high-performing, secure, and scalable data solutions that support enterprise analytics and decision-making.
-
-What you’ll bring to the team
-
-Awareness and understanding of Aboriginal and/or Torres Strait Islander societies and culture.
-Ability to liaise and communicate sensitively and effectively with Aboriginal and Torres Strait Islander staff. 
-Tertiary qualifications in IT, Data Science, Engineering, Business, or equivalent experience.
-10+ years in IT, with 5+ years in Azure Data Warehouse and Data Factory or equivalent.
-Experience with Microsoft Fabric, OneLake, and Power Platform
-Proficiency in SQL and PySpark,, and exposure to metadata-driven frameworks
-CI/CD and DevOps experience, including Git integration
-Knowledge of lakehouse architecture, delta tables, and modern storage patterns
-Strong experience with Power BI, including semantic models and interactive reports
-Strong communication, collaboration, and adaptability
-Microsoft Certified: Azure Data Engineer Associate (desirable)
-
-What you will get in return
-
-A values-based organisation committed to Indigenous economic empowerment.
-15.4% employer superannuation contribution.
-Not-for-profit status with access to salary packaging.
-4 weeks annual leave, with options for half-pay or purchased leave.
-Paid Christmas shutdown without leave deduction.
-Flexible working arrangements.
-Professional development opportunities.
-18 days personal/carer’s leave.
- NAIDOC leave.
- First Nations Ceremonial Leave.
-Cultural Leave.
-
-Want to know more about IBA?
-
-Visit www.iba.gov.au
-
-Applications close: 25 September 2025
-
-Please note: Emailed applications will not be accepted, nor will applications from recruitment agencies"
-87151813,Power BI Engineer,DUAL Asia Pacific,https://www.seek.com.au/job/87151813?type=standard&ref=search-standalone&origin=jobCard#sol=1fb683b74a44d500f05f5a62a7c63ec0214693b7,4h ago,4.0,2025-09-12T03:00:00+00:00,Melbourne VIC (Hybrid),Underwriting (Insurance & Superannuation),Full time,,"Energetic, fun, and collaborative team atmosphere
-Join a dynamic and forward-thinking business
-Thrive in a fast-paced environment
-
-
-About DUAL
-
-Driven by a vision to be the world's best underwriting business, DUAL has always taken a different approach to our industry peers.
-
-Since our business was founded in 2004, we have had a strong entrepreneurial spirit that runs through every part of our business. We empower our people to develop products, services and processes that deliver consistently for our partners. As a company we're known in the industry as a group dedicated to giving back to the community by partnering with charitable groups and actively participating in fundraising events. Whatever you are looking for in a career, we want to help you do more.
-
-Our philosophy is simple: we genuinely put people first and want our people to be the healthiest and happiest they can be, at work and at home. We aim to attract and retain the best talent, and support them to achieve their aspirations. It's how we grow our business and keep one step ahead of our competitors.
-
-About the Role
-
-We are looking for a skilled Data Engineer to join our Reporting & Analytics team, with expertise in Power BI. This role would suit individuals excelling in data engineering and business intelligence, building scalable data pipelines, and optimising data models for impactful Power BI reporting.
-
-Play a key role in crafting how data flows through our systems and how it's presentation to our stakeholders. We want you to ensure our reporting infrastructure is robust, efficient, and future ready!
-
-Role Responsibilities
-Build and maintain enterprise-grade Power BI datasets, reports, and dashboards.
-Compose, construct, and uphold scalable ETL pipelines employing tools like Azure Data Factory and SQL.
-Ensure data quality, integrity, and governance across all reporting layers.
-Collaborate with cross-functional teams to determine data requirements and successfully implement solutions.
-Continuously improve and automate data processes to maintain a flawless reporting infrastructure.
-Supply technical knowledge and assistance following best practices to continuously improve and automate our data processes.
-About You
-
-Seeking a proficient Data Engineer specialising in Power BI with at least 5 years of experience. Your forte includes constructing scalable data pipelines, ensuring data quality, and fostering collaboration within teams. You promote procedures and strive for continuous automation and enhancement of data processes. Your proactive nature and adept problem-solving make you an indispensable team member.
-
-How to Apply
-
-Are you the right fit for this role and the DUAL Team? Tell us why in a short paragraph that you share along with your Resume to our HR Team.
-
-What you might not expect…
-
-At DUAL we value work/life balance, health and wellbeing, family and giving back, which is why our benefits are reflective of this. We provide employees with a competitive salary and benefits, which will be flexible and dependent on the successful candidate's individual skills and experience.
-
-Our culture: people first
-
-Our core values dictate how we live and work. We're a group with independence and people
-at its heart and we're a home for talent with a unique culture: the biggest small company in
-the world.
-
-The focus on being a people-first business has always been at the very heart of the group; Our vision was to create an independent business with a unique culture and one that would survive and thrive as a business controlled by the people working for it. And finding the most talented and entrepreneurial people to join the group has been and will continue to be key.
-
-EEO Statement
-
-Help us think differently. As a business we're on a journey to build an inclusive workplace where our people feel welcome to bring their whole and true self to work, where differences are accepted and where our words and actions are inclusive. Together we are learning, sharing stories, and achieving change.
-
-Get in touch
-
-To find out more about DUAL Australia including who we are, what we're up to and what we're about, head to the DUAL Australia website or visit us on our LinkedIn page."
-87145501,Senior Data Engineer - Snowflake,Limelight People,https://www.seek.com.au/job/87145501?type=standard&ref=search-standalone&origin=jobCard#sol=9428bc41fa496a99c46a2137100af1c6463ba5cc,7h ago,7.0,2025-09-12T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Data Engineer – Snowflake
+87145501,Senior Data Engineer - Snowflake,Limelight People,https://www.seek.com.au/job/87145501?type=standard&ref=search-standalone&origin=jobCard#sol=4a4d2d7865919f0e1ff948f241f995c3ddb93f6f,8h ago,8.0,2025-09-12T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Data Engineer – Snowflake
   
 
 Sydney Location or Melbourne location
@@ -715,7 +787,71 @@ Ability to build compelling data visualizations and dashboards using Tableau, Po
 Excellent communication skills for explaining complex technical concepts to non-technical audiences.
 Proven experience in designing and maintaining real-time analytics solutions.
 How to Apply: Please submit your resume and a cover letter outlining your experience and how you meet the selection criteria to md@limelightpeople.com.au. Include any relevant examples demonstrating your expertise in Data Analytics and Snowflake"
-87146073,Data Engineer,Indigenous Business Australia,https://www.seek.com.au/job/87146073?type=standard&ref=search-standalone&origin=jobCard#sol=616f74c80f36fd2c35b1d8aa85c26111b9a78840,7h ago,7.0,2025-09-12T00:00:00+00:00,Adelaide SA (Hybrid),"Database Development & Administration (Information & Communication Technology)
+87161047,Principal Data Engineer/Architect - Power Platform & AI,Akkodis,https://www.seek.com.au/job/87161047?type=standard&ref=search-standalone&origin=jobCard#sol=24473a9a45ca6df9a83d7cb71839741656c52f96,1h ago,1.0,2025-09-12T07:00:00+00:00,"Double Bay, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"What's in it for you?
+
+
+Permanent role with long-term career growth
+Location: Double Bay | Hybrid working
+Opportunity to design secure, high-performance platforms for a global security firm protecting UHNW individuals, billionaires, and celebrities
+Work on cutting-edge data fabric/mesh architectures, Azure cloud engineering, and AI/LLM integrations
+
+
+
+
+Role
+
+
+
+We are seeking a skilled Data Professional with strong communication and technical expertise to design and deliver intelligent data systems.
+
+You'll help build advanced data functionality-including facial recognition, Power Platform, and data mesh architectures-to create secure platforms that monitor, process, and deliver mission-critical information.
+
+
+
+Key Responsibilities
+
+
+Design & code AI agents as .NET microservices (REST, MCP, WebSockets, gRPC, SignalR)
+Apply Domain-Driven Design within Dataverse to model domains & manage event/message flows
+Integrate LLM capabilities (OpenAI/Azure OpenAI) incl. vector storage & RAG
+Deploy via Docker/Kubernetes, automate with GitHub Actions/Azure DevOps
+Collaborate with data science, product & SRE teams; mentor engineers; uphold engineering excellence
+
+What You'll Need
+
+Essential:
+
+
+Power Platform / Power Apps development
+Domain-Driven Design (Dataverse)
+Strong API & integration development
+Data fabric / data mesh architecture expertise
+Azure infrastructure architecture & deployment
+Containers (Docker, K8s/Service Fabric), CI/CD & IaC (Terraform/Bicep/CloudFormation)
+
+Highly Preferred:
+
+
+Agentic-communication frameworks (e.g. MCP)
+Observability & performance optimisation
+Security & compliance expertise (OWASP, OAuth2/OIDC, GDPR, SOC2, HIPAA)
+Leadership in design reviews, coaching, and stakeholder communication
+
+
+
+
+Talented, committed, can-do individuals have always been the cornerstone of this dynamic organisation. If you have what it takes to thrive in this role and want to know more, please reach out to Isha Khanna at isha.khanna@akkodis.com
+
+
+
+Privacy
+
+Due to new privacy laws regarding the collection and handling of personal information, all applications must be submitted online. Once you click on the ""apply for this job"" button below you will be directed to our Online Centre where you will have the opportunity to read and agree to our Privacy and Consent statements and it will allow your details to be formally lodged and processed correctly.
+
+""Akkodis is an Equal Opportunity employer, committed to all forms of workforce inclusion. We actively invite and encourage applications by candidates from diverse backgrounds""
+
+Akkodis is an Equal Opportunity employer, committed to all forms of workforce inclusion. We actively invite and encourage applications by candidates from diverse backgrounds"
+87146073,Data Engineer,Indigenous Business Australia,https://www.seek.com.au/job/87146073?type=standard&ref=search-standalone&origin=jobCard#sol=e48a22cef42157c4e8d675998b00c55944249e26,8h ago,8.0,2025-09-12T00:00:00+00:00,Adelaide SA (Hybrid),"Database Development & Administration (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$157,690 - $184,761 + 15.4% superannuation","Position: Data Engineer
 
 Salary: $157,690- $184,761 plus 15.4% superannuation
@@ -777,7 +913,7 @@ Visit www.iba.gov.au
 Applications close: 25 September 2025
 
 Please note: Emailed applications will not be accepted, nor will applications from recruitment agencies"
-87153469,Storage Engineer - IBM,FinXL IT Professional Services,https://www.seek.com.au/job/87153469?type=standard&ref=search-standalone&origin=jobCard#sol=53858b412ca285393968bc2aaf258b98f03b665d,3h ago,3.0,2025-09-12T04:00:00+00:00,"Rydalmere, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Contract/Temp,,"Storage Engineer - IBM
+87153469,Storage Engineer - IBM,FinXL IT Professional Services,https://www.seek.com.au/job/87153469?type=standard&ref=search-standalone&origin=jobCard#sol=244651e31458636a280707ce2f0e8c1190841201,4h ago,4.0,2025-09-12T04:00:00+00:00,"Rydalmere, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Contract/Temp,,"Storage Engineer - IBM
 Company: FinXL by Randstad Digital
 Location: Parramatta and Work from home - hybrid
 Length: 12 Months +
@@ -815,7 +951,7 @@ Next Steps
 If you would like to apply to this fantastic opportunity please apply on line or call Jackie Gibbons on 0432 268 298
 
 Code: S12"
-87158492,Delta V - Control Systems Engineer,Embedded Expertise,https://www.seek.com.au/job/87158492?type=standard&ref=search-standalone&origin=jobCard#sol=e72ca89ab9f3c13be860d17b2ca54e0f898249c2,1h ago,1.0,2025-09-12T06:00:00+00:00,Melbourne VIC (Hybrid),Electrical/Electronic Engineering (Engineering),Contract/Temp,,"Great Opportunity for an individual with substantial Delta V control system development experience
+87158492,Delta V - Control Systems Engineer,Embedded Expertise,https://www.seek.com.au/job/87158492?type=standard&ref=search-standalone&origin=jobCard#sol=8ebbd947cf02a204b32beeb3d31e380b57c3dd12,2h ago,2.0,2025-09-12T06:00:00+00:00,Melbourne VIC (Hybrid),Electrical/Electronic Engineering (Engineering),Contract/Temp,,"Great Opportunity for an individual with substantial Delta V control system development experience
 
 Reporting to the Engineering Manager you will work together with a great team to design / implement control system hardware and software architectures for custom automation projects.
 
@@ -834,7 +970,53 @@ Excellent communication and interpersonal skills
 If you are looking to work on an exciting large-scale, multi-year project with excellent remuneration then we want to speak to you.
 
 Interested? APPLY NOW!!!"
-87158057,Firmware Engineer L5 - EL1,Australian Secret Intelligence Service,https://www.seek.com.au/job/87158057?type=standard&ref=search-standalone&origin=jobCard#sol=e9f5d04a4fdbec348443e27175d8aee1d4a74a71,1h ago,1.0,2025-09-12T06:00:00+00:00,"Barton, Canberra ACT","Engineering - Software (Information & Communication Technology)
+87158460,Solution Architect,Lime Recruitment,https://www.seek.com.au/job/87158460?type=standard&ref=search-standalone&origin=jobCard#sol=1f1102df744292d7023a69ea10dca793dd2f34de,2h ago,2.0,2025-09-12T06:00:00+00:00,"Northern Suburbs, Brisbane QLD (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"Solution Architect
+
+Contract to 30/04/2026 plus 2 x 12 Month extension options | Carseldine + WFH
+
+We’re working with a leading Queensland government client to recruit a Solution Architect. In this role you will provide solution architecture design, delivery and assurance services to stakeholders to ensure valued and fit for purpose solutions are implemented, Information Communications and Technology (ICT) risks are managed, and optimal benefits are realised from ICT investment.
+
+Key Responsibilities:
+
+Analyse business requirements and translate them into technical solutions.
+
+Design end-to-end architecture for applications, integrations, and infrastructure.
+
+Ensure solutions are aligned with enterprise architecture, security policies, and compliance standards.
+Select appropriate technologies, platforms, and frameworks.
+
+Provide technical guidance to development teams throughout the project lifecycle.
+
+Review and approve design documents, code, and configurations.
+
+Ensure solutions are scalable, secure, and optimised for performance.
+
+Work on other initiatives in the program including camera scheduling and applications related to geospatial and speed data, along with the collection and updating of site and asset information
+
+Designing and delivering high-quality, scalable, and maintainable technology solutions that not only align with QLD government and frameworks, capabilities and enterprise positions but meet business requirements.
+
+What we’re looking for?
+
+Proven experience as a Solution Architect or similar role.
+
+Proven experience in geospatial technologies, data & databases, location and tracking Strong understanding in cloud platforms (e.g., AWS, Azure, GCP).
+
+Proficiency in integration technologies (APIs, microservices, ESB).
+
+Strong understanding of software development methodologies (Agile, DevOps, etc.)
+
+Current and varied experience across public and private sector is highly desirable.
+
+Experience with enterprise architecture best practices and methods.
+
+TOGAF Certification and/or AWS Certification
+
+8+ year's proven experience in design and delivery of technology solutions in a large and diverse organisation.
+
+Why apply through Lime Recruitment?
+
+Enjoy two pay runs per week without contractor fees. As a Queensland-owned agency, we offer personalised service and are a Tier 1 supplier to the Queensland Government. Awarded Australia’s top-performing small agency in 2021 and 2022, with a finalist spot in 2023. Partner with Lime for genuine, experienced, friendly recruiters dedicated to securing the best opportunities for you. Apply now or contact Kate Gear on 0477 624 569 or kate@limejobs.com.au to find out more!"
+87158057,Firmware Engineer L5 - EL1,Australian Secret Intelligence Service,https://www.seek.com.au/job/87158057?type=standard&ref=search-standalone&origin=jobCard#sol=68268be088a9a34a933a6b7085abab5de0307e68,3h ago,3.0,2025-09-12T05:00:00+00:00,"Barton, Canberra ACT","Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$105,013 - $169,572 plus superannuation","ASIS is Australia’s overseas secret intelligence collection agency. Its mission is to protect and promote Australia’s vital interests through the provision of intelligence services as directed by the Government. Its work can involve collecting intelligence relating to national security, international relations and economic issues. It also contributes to Australia’s coordinated national efforts against terrorism, proliferation of weapons of mass destruction, and trans-national issues such as people smuggling.
 
  
@@ -941,53 +1123,7 @@ The following education, qualifications and/or experience will be highly regarde
 ·        An interest in continuing development, opportunities for Rust/RISC-V/MIPS
 
 We are dedicated to building a diverse and inclusive workforce, so if you are excited about this role but your past experience doesn’t align perfectly, we encourage you to apply."
-87158460,Solution Architect,Lime Recruitment,https://www.seek.com.au/job/87158460?type=standard&ref=search-standalone&origin=jobCard#sol=058bcfe23caf9a981c126afe1ea2abf2845ad2f6,1h ago,1.0,2025-09-12T06:00:00+00:00,"Northern Suburbs, Brisbane QLD (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"Solution Architect
-
-Contract to 30/04/2026 plus 2 x 12 Month extension options | Carseldine + WFH
-
-We’re working with a leading Queensland government client to recruit a Solution Architect. In this role you will provide solution architecture design, delivery and assurance services to stakeholders to ensure valued and fit for purpose solutions are implemented, Information Communications and Technology (ICT) risks are managed, and optimal benefits are realised from ICT investment.
-
-Key Responsibilities:
-
-Analyse business requirements and translate them into technical solutions.
-
-Design end-to-end architecture for applications, integrations, and infrastructure.
-
-Ensure solutions are aligned with enterprise architecture, security policies, and compliance standards.
-Select appropriate technologies, platforms, and frameworks.
-
-Provide technical guidance to development teams throughout the project lifecycle.
-
-Review and approve design documents, code, and configurations.
-
-Ensure solutions are scalable, secure, and optimised for performance.
-
-Work on other initiatives in the program including camera scheduling and applications related to geospatial and speed data, along with the collection and updating of site and asset information
-
-Designing and delivering high-quality, scalable, and maintainable technology solutions that not only align with QLD government and frameworks, capabilities and enterprise positions but meet business requirements.
-
-What we’re looking for?
-
-Proven experience as a Solution Architect or similar role.
-
-Proven experience in geospatial technologies, data & databases, location and tracking Strong understanding in cloud platforms (e.g., AWS, Azure, GCP).
-
-Proficiency in integration technologies (APIs, microservices, ESB).
-
-Strong understanding of software development methodologies (Agile, DevOps, etc.)
-
-Current and varied experience across public and private sector is highly desirable.
-
-Experience with enterprise architecture best practices and methods.
-
-TOGAF Certification and/or AWS Certification
-
-8+ year's proven experience in design and delivery of technology solutions in a large and diverse organisation.
-
-Why apply through Lime Recruitment?
-
-Enjoy two pay runs per week without contractor fees. As a Queensland-owned agency, we offer personalised service and are a Tier 1 supplier to the Queensland Government. Awarded Australia’s top-performing small agency in 2021 and 2022, with a finalist spot in 2023. Partner with Lime for genuine, experienced, friendly recruiters dedicated to securing the best opportunities for you. Apply now or contact Kate Gear on 0477 624 569 or kate@limejobs.com.au to find out more!"
-87146695,Systems Integration Engineer - Process,Genetic Signatures,https://www.seek.com.au/job/87146695?type=standard&ref=search-standalone&origin=jobCard#sol=c0d8b06bc202201f9e321b2808fa2b0ae05ad515,6h ago,6.0,2025-09-12T01:00:00+00:00,"Newtown, Sydney NSW (Hybrid)",Biotechnology & Genetics (Science & Technology),Full time,,"Genetic Signatures improves patient care and outcomes by developing innovative diagnostic technologies which simplify molecular pathology.
+87146695,Systems Integration Engineer - Process,Genetic Signatures,https://www.seek.com.au/job/87146695?type=standard&ref=search-standalone&origin=jobCard#sol=e8ffaa92f1ff16e22c3876ea36f87f3a426ada40,8h ago,8.0,2025-09-12T00:00:00+00:00,"Newtown, Sydney NSW (Hybrid)",Biotechnology & Genetics (Science & Technology),Full time,,"Genetic Signatures improves patient care and outcomes by developing innovative diagnostic technologies which simplify molecular pathology.
 
 We are an Australian based manufacturer selling into leading pathology laboratories in Australia, and distributing worldwide, and are looking to expand our diverse, supportive and talented team. 
 
@@ -1056,7 +1192,7 @@ It is advantageous if you are experienced in the medical device industry and val
 Genetic Signatures Ltd is committed to providing equal employment opportunities, we thrive on the diversity of thought that comes to us through our workforce and encourage anyone possessing the talent and drive to better health care for their community to apply.
 
 If you are interested in applying for this role, please apply via seek or send your resume and cover letter to careers@geneticsignatures.com. We kindly ask external recruitment agencies not to submit applications. Should we need agency support, we will get in touch directly."
-87157511,"Data, Integration & Service Management Roles",ASPL Group,https://www.seek.com.au/job/87157511?type=standard&ref=search-standalone&origin=jobCard#sol=d11c145b2c83e5208ac3980433a2d692961be3fd,2h ago,2.0,2025-09-12T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$110 – $120 per hour,"Immediate Start Contract Roles – Data, Integration & Service Management 
+87157511,"Data, Integration & Service Management Roles",ASPL Group,https://www.seek.com.au/job/87157511?type=standard&ref=search-standalone&origin=jobCard#sol=66c9697c6b5b40e36fbfef4c40a41e8703627730,3h ago,3.0,2025-09-12T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$110 – $120 per hour,"Immediate Start Contract Roles – Data, Integration & Service Management 
 
 ASPL Group is proud to be recruiting on behalf of our client, a global consulting firm delivering transformation for one of Australia’s major banks.
 
@@ -1121,7 +1257,7 @@ For further information, contact executiverecruitment@aspl.net.au
 Diversity, Equity & Inclusion
 
 At ASPL Group, inclusion is core to how we work. We welcome applications from all people regardless of culture, background, age, gender, or ability. We strongly encourage Aboriginal and Torres Strait Islander peoples, people with disability, and people from culturally and linguistically diverse communities to apply."
-87158905,AI Engineer,Mindset Health,https://www.seek.com.au/job/87158905?type=standard&ref=search-standalone&origin=jobCard#sol=7bb7b9b950a7df6ca0a77201eb9c01ea61415f17,1h ago,1.0,2025-09-12T06:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Are you passionate about using AI to build products that truly change lives?
+87158905,AI Engineer,Mindset Health,https://www.seek.com.au/job/87158905?type=standard&ref=search-standalone&origin=jobCard#sol=ae0e69f3557826c80b87d6b8df63838e8394f2e7,2h ago,2.0,2025-09-12T06:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Are you passionate about using AI to build products that truly change lives?
 
 Shape the future of AI-driven healthcare
 
@@ -1132,7 +1268,105 @@ This is a chance to pioneer: to take the cutting edge of LLMs, speech recognitio
 This is a unique opportunity to pioneer how AI is applied in digital health, with direct impact on millions of people’s well-being worldwide.
 
 We’re a hybrid team in Cremorne, Melbourne, and welcome applicants who are local or open to relocating."
-87145310,Systems Engineer,BAE Systems,https://www.seek.com.au/job/87145310?type=standard&ref=search-standalone&origin=jobCard#sol=fb988e7b0f12dc21c997b93acb4d5a60a92a5757,7h ago,7.0,2025-09-12T00:00:00+00:00,"Edinburgh, Adelaide SA (Hybrid)",Systems Engineering (Engineering),Full time,,"Job description
+87163840,Forward Deployed AI Engineer,Adobe,https://www.seek.com.au/job/87163840?type=standard&ref=search-standalone&origin=jobCard#sol=2f910fb8968e6147b2f3ebc951b82ca4ee6886de,5h ago,5.0,2025-09-12T03:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. 
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+The Opportunity
+
+
+Join our “DevOps for Content” revolution as we partner with global brands and agencies to transform their end-to-end creative workflows – from ideation to activation – to deliver AI-powered content services with speed, scale, and governance.
+
+Through an AI-first experimentation approach and deep expertise in both first-party and third-party AI models, we develop new applications, platforms, and scalable patterns that unlock the GenAI-powered Content Supply Chain. We function as a continuous product innovation engine—feeding repeatable customer solutions straight into the product roadmap to accelerate product-led growth.
+
+As a Forward Deployed AI Engineer, you will own the end-to-end development and launch of GenAI applications through Adobe and third-party generative models. You are an AI native who will embed directly into customer teams to spin up proof points in days and co-develop features that enhance customer value. If you thrive in start-up environments—scaling products from prototype to production, pushing innovative research into real-world use cases, and owning product & business outcomes—you’ll fit right in here!
+
+What You’ll Do
+
+
+Collaborate & Innovate: Partner with Technical Architects, Engagement Managers and Product teams to define customer requirements/use cases, facilitate technical workshops, and co-create specific GenAI solutions.
+
+Prototype Rapidly: Apply an AI-first experimentation mindset—build proof points in days, iterate on feedback, and drive quick wins. UX/UI and rapid prototyping skills are a plus.
+
+Engineer End-to-End: Design, build, and deploy full-stack applications and microservices—integrating Firefly APIs, Common Extensibility Platform, GenStudio for Performance Marketing, headless CMS architectures and UX/UI Designs.
+
+Bridge to Product: Capture field-proven use cases and funnel them back to Product & Engineering—fueling the Firefly roadmap.
+
+Automate & Scale: Develop reusable components, CI/CD pipelines, and governance checks to ensure consistent, repeatable delivery.
+
+Operate at Speed: Thrive in a constantly evolving, start-up-like environment—own delivery sprints, tackle challenges on-site/remotely, and adapt to evolving AI trends.
+
+Share & Elevate: Document your playbooks, prompts, and patterns in our internal knowledge base—helping the whole organization move faster.
+
+What You Bring
+
+Full-Stack Expertise: 3+ years as a full-stack developer or technical consultant building and launching production software (React.js/Next.js/Angular; Node.js/Java Spring Boot; REST/GraphQL, HTML, JavaScript, Java, XML).
+
+GenAI Mastery: Extensive hands-on experience with modern AI technologies, including: Large Language Models (LLMs) – OpenAI GPT, Anthropic Claude, Meta Llama, Mistral, etc. || Diffusion models (Adobe Firefly, Stable Diffusion, DALL·E, Midjourney) || Retrieval-Augmented Generation (RAG) pipelines, vector databases (Pinecone, Weaviate, FAISS), and semantic search || Fine-tuning, prompt engineering, and model optimization || AI agent frameworks (AutoGen, LangChain, LlamaIndex) || Multimodal AI (text, image, video, audio processing)
+
+Cloud & DevOps Expertise: Proficient with core services (EC2, S3, Lambda, IAM, CloudFormation) and AI/ML tools (SageMaker, Bedrock) || Azure: Experience with compute (VMs, Functions), storage (Blob), and AI services (Azure OpenAI, Cognitive Services) || Containerization & Orchestration: Docker, Kubernetes, and serverless deployments || CI/CD & IaC: GitLab CI/CD, Jenkins, GitHub Actions, Terraform, or equivalent || Monitoring & Logging: CloudWatch, Azure Monitor, Datadog, or similar
+
+AI Tinkerer: AI-native tinkerer who embeds AI in your day-to-day workflows and spends your free time inventing and tinkering with the possibilities of AI. You keep ahead of market trends across third-party models, GPUs, and new AI applications.
+
+Adobe Fluency: Deep understanding of Adobe Creative Cloud APIs/SDK/CEP, Firefly Services APIs, and nice to have: Adobe Experience Cloud integrations (AEM, Workfront Fusion, AJO or equivalent experience).
+
+Customer-Centricity: Always prioritizing the customer and their needs and expectations first in everything you do. You are outstanding at contributing to a culture of customer-centricity among your team and your extended ecosystem.
+
+Strong communicator: You translate complex AI concepts for both engineers and executives and guide customers through technical decisions aligned to business objectives.
+
+Startup DNA: Thrives in fast-paced, ambiguous environments—relentlessly seeking better, faster, more innovative ways to solve customer objectives and challenges.
+
+Up to 30% customer related travel
+
+Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015."
+87163285,Automation & AI Integration Developer,Borg,https://www.seek.com.au/job/87163285?type=standard&ref=search-standalone&origin=jobCard#sol=32c196ade573af38938da02e7a8971a3c17e10d5,1h ago,1.0,2025-09-12T07:00:00+00:00,"Somersby, Gosford & Central Coast NSW",Developers/Programmers (Information & Communication Technology),Full time,,"Job Details
+
+
+About the Role
+
+We’re building a small, agile Digital Hub to simplify processes, connect systems, and apply AI where it makes sense. To do that, we’re looking for a hands-on Automation & AI Integration Developer who loves turning ideas into practical solutions.
+
+This role is about making things smarter and faster: automating repetitive tasks, connecting systems, and embedding AI where it delivers real business value. You’ll be prototyping, experimenting, and delivering solutions that help staff and customers in weeks, not months.
+
+What you’ll be doing
+
+Designing, coding, developing and implementing smart automations
+Building practical and smart automations with tools like Power Automate, n8n
+Design and implement business process automation or RPA (e.g UiPath)
+Developing and managing APIs and integrations between internal and external systems
+Working with stakeholders to map workflows and translate ideas into solutions
+Testing, debugging and documenting what you build so it’s reliable and easy to maintain
+Staying curious – exploring new AI or digital tools that could make a difference
+
+What we’re looking for
+
+Strong scripting/programming skills (Python, JavaScript or TypeScript)
+Hands-on experience with automation and integration platforms
+Knowledge of APIs (REST, GraphQL, SOAP) and data flows
+A problem-solver who can explain technical stuff in plain English
+3+ years’ experience in automation, integration or development roles
+
+Bonus points for
+
+Exposure to AI APIs (OpenAI, Google AI, etc.)
+Light web development (React, Node.js, HTML/CSS)
+Cloud platform experience (Azure, AWS, GCP)
+Interest in LLMs, agents, or vector databases
+
+Why join us?
+
+You’ll be part of a small, innovative team where your work has real impact. No red tape, no waiting around – just the chance to deliver smart solutions that help the business run better.
+
+If you’re curious, pragmatic, and excited to explore AI in real-world ways, we’d love to hear from you.
+
+ Apply now and help us reimagine how we work.
+
+Borg is an Equal Opportunity Employer."
+87145310,Systems Engineer,BAE Systems,https://www.seek.com.au/job/87145310?type=standard&ref=search-standalone&origin=jobCard#sol=df9b9d595f056a0599dc16434799a228219f04ca,9h ago,9.0,2025-09-11T23:00:00+00:00,"Edinburgh, Adelaide SA (Hybrid)",Systems Engineering (Engineering),Full time,,"Job description
 
 
 At BAE Systems Australia
