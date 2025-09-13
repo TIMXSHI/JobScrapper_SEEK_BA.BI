@@ -35,11 +35,12 @@ def build_seek_url(keyword: str, min_salary: int = 150000, listing_date: int = 1
     Build Seek search URL.
     listing_date (Seek convention):
       0 = any time, 1 = last 24 hours, 3 = last 3 days, etc.
+    We also sort by 'ListedDate' for consistency.
     """
     base = "https://www.seek.com.au"
     keyword_slug = re.sub(r"\s+", "-", keyword.strip()).lower()
     query = f"{keyword_slug}-jobs/in-All-Australia"
-    filters = f"?salaryrange={min_salary}-999999&daterange={listing_date}"
+    filters = f"?salaryrange={min_salary}-999999&daterange={listing_date}&sortmode=ListedDate"
     return f"{base}/{query}{filters}"
 
 def set_query_param(url: str, key: str, value: str) -> str:
@@ -88,48 +89,109 @@ def posted_text_to_hours(txt: str) -> float:
 
 
 # ----------------------------
-# Headless mode resolver
+# Selectors (centralised for easy tweaks)
 # ----------------------------
-def resolve_headless(headless_param: bool | None) -> tuple[bool, float]:
-    """
-    Decide headless mode:
-      - If HEADLESS env is set, use it.
-      - Else if running in CI and no DISPLAY, default headless True.
-      - Else if DISPLAY is present (e.g., Xvfb), default headed (False).
-      - Else default headless True.
-    Also returns slow_mo (seconds) from env SLOW_MO (only applied when headed).
-    """
-    # explicit env override wins
-    if os.getenv("HEADLESS") not in (None, ""):
-        headless = env_bool("HEADLESS", True)
-    elif headless_param is not None:
-        headless = headless_param
-    else:
-        in_ci = env_bool("CI", False)
-        has_display = os.getenv("DISPLAY") not in (None, "")
-        if in_ci and not has_display:
-            headless = True
-        elif has_display:
-            headless = False
-        else:
-            headless = True
+RESULTS_READY_SEL = ", ".join([
+    '[data-automation="searchResults"]',
+    '[data-automation="searchResultsContainer"]',
+    '[data-automation="normalJob"]',
+    '[data-testid="job-card"]',
+    'article[data-automation="job-card"]',
+])
 
-    slow_mo = float(env_str("SLOW_MO", "0"))
-    # never slow-mo in headless/CI to keep runs fast and stable
-    if headless or env_bool("CI", False):
-        slow_mo = 0.0
-    return headless, slow_mo
+JOB_CARD_SEL = ', '.join([
+    '[data-automation="normalJob"]',
+    '[data-testid="job-card"]',
+    'article[data-automation="job-card"]',
+])
 
+JOB_TITLE_SEL = ', '.join([
+    '[data-automation="jobTitle"]',
+    'a[data-testid="job-card-title"]',
+])
 
-# ----------------------------
-# Pagination helpers
-# ----------------------------
-# These selectors are present in Seek pagination; we’ll read the biggest page number.
 PAGINATION_LINK_SELECTORS = [
     "a[data-automation^='page-']",
     "a[data-testid^='pagination-page-']",
     "nav[aria-label='Pagination'] a",
 ]
+
+
+# ----------------------------
+# Consent & readiness helpers
+# ----------------------------
+def dismiss_banners(page):
+    # Try common consent / cookie banners
+    candidates = [
+        'button:has-text("Accept all")',
+        'button:has-text("Accept All")',
+        'button:has-text("I agree")',
+        'button:has-text("Got it")',
+        '[data-automation*="consent"] button',
+        '#privacy-consent button',
+        '[aria-label="Close"]',
+    ]
+    for sel in candidates:
+        try:
+            btns = page.locator(sel)
+            if btns.count() > 0 and btns.first.is_visible():
+                btns.first.click(timeout=1000)
+                page.wait_for_timeout(300)
+        except Exception:
+            pass
+
+def ensure_results_ready(page, base_url: str, screenshot_tag: str = "init", max_tries: int = 4, timeout_ms: int = 45000):
+    """
+    Robust readiness: wait for DOM/network idle, dismiss banners, try multiple times with scroll & light reload.
+    """
+    last_err = None
+    for attempt in range(1, max_tries + 1):
+        try:
+            page.wait_for_load_state("domcontentloaded", timeout=timeout_ms)
+            # networkidle can hang sometimes; keep it small
+            try:
+                page.wait_for_load_state("networkidle", timeout=5000)
+            except Exception:
+                pass
+
+            dismiss_banners(page)
+
+            # Gentle scroll to trigger lazy loading
+            for _ in range(3):
+                page.mouse.wheel(0, 2000)
+                page.wait_for_timeout(250)
+
+            # Wait for any results container or any job card
+            page.wait_for_selector(RESULTS_READY_SEL, timeout=timeout_ms, state="attached")
+            # If present, also try to wait for any title (best-effort)
+            try:
+                page.wait_for_selector(JOB_TITLE_SEL, timeout=4000, state="attached")
+            except Exception:
+                pass
+
+            # If we reached here, DOM has something meaningful
+            return
+        except Exception as e:
+            last_err = e
+            # Nudge: small reload or param toggle to poke rendering
+            if attempt < max_tries:
+                try:
+                    # Toggle a benign param to force a server render variation
+                    toggle_url = set_query_param(base_url, "page", "1")
+                    page.goto(toggle_url, wait_until="domcontentloaded")
+                except Exception:
+                    pass
+                page.wait_for_timeout(800)
+            else:
+                # Final attempt failed -> dump screenshot for debugging
+                try:
+                    fname = f"debug_seek_{screenshot_tag}_{int(time.time())}.png"
+                    page.screenshot(path=fname, full_page=True)
+                    print(f"🖼️ Saved debug screenshot: {fname}")
+                except Exception:
+                    pass
+                raise last_err
+
 
 def max_page_from_dom(page) -> int:
     nums = []
@@ -140,26 +202,28 @@ def max_page_from_dom(page) -> int:
         n = 0
     for i in range(n):
         a = loc.nth(i)
-        # data-automation="page-3" / aria-label="Go to page 3"
-        labels = [
-            a.get_attribute("data-automation") or "",
-            a.get_attribute("aria-label") or "",
-        ]
-        txt = (a.inner_text() or "").strip()
-        labels.append(txt)
-        for s in labels:
-            m = re.search(r"\bpage[-\s]?(\d+)\b", s, re.I)
-            if m:
-                nums.append(int(m.group(1)))
-                break
-            if s.isdigit():
-                nums.append(int(s))
-                break
+        try:
+            labels = [
+                a.get_attribute("data-automation") or "",
+                a.get_attribute("aria-label") or "",
+            ]
+            txt = (a.inner_text() or "").strip()
+            labels.append(txt)
+            for s in labels:
+                m = re.search(r"\bpage[-\s]?(\d+)\b", s, re.I)
+                if m:
+                    nums.append(int(m.group(1)))
+                    break
+                if s.isdigit():
+                    nums.append(int(s))
+                    break
+        except Exception:
+            continue
     return max(nums) if nums else 1
 
 
 # ----------------------------
-# Core scraper (now with pagination)
+# Core scraper (with pagination & robustness)
 # ----------------------------
 def scrape_jobs(
     keyword: str = "Senior Insight Analyst",
@@ -175,14 +239,26 @@ def scrape_jobs(
     headless, slow_mo = resolve_headless(headless)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=headless, slow_mo=slow_mo)
-        page = browser.new_page()
-        page.set_viewport_size({"width": 1280, "height": 2000})
+        # Use a context with a stable UA/locale to avoid variant UIs
+        browser = p.chromium.launch(headless=headless, slow_mo=slow_mo, args=["--disable-blink-features=AutomationControlled"])
+        context = browser.new_context(
+            user_agent=env_str("UA", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"),
+            locale="en-AU",
+            timezone_id=env_str("TZ", "Australia/Brisbane"),
+            viewport={"width": 1280, "height": 2000},
+        )
+        # Drop heavy assets to reduce flakiness/speed up
+        if env_bool("BLOCK_MEDIA", True):
+            context.route("**/*", lambda route: route.abort() if route.request.resource_type in ("image", "media", "font") else route.continue_())
+
+        page = context.new_page()
 
         base_url = build_seek_url(keyword, min_salary=min_salary, listing_date=listing_date)
         print(f"🔍 Opening: {base_url}")
         page.goto(base_url, wait_until="domcontentloaded")
-        page.wait_for_selector('[data-automation="jobTitle"], a[data-testid="job-card-title"]', timeout=30000)
+
+        # Robust readiness
+        ensure_results_ready(page, base_url, screenshot_tag="list")
 
         # Determine how many pages to scrape
         last_page = max_page_from_dom(page)
@@ -191,63 +267,67 @@ def scrape_jobs(
         all_results = []
         seen_links = set()
 
-        # Helper: scrape the current page into results (your existing logic)
+        # Helper: scrape the current page into results (robust selectors)
         def scrape_current_page():
             nonlocal all_results, seen_links
-            job_cards = page.locator('[data-automation="normalJob"], [data-testid="job-card"], article[data-automation="job-card"]')
-            count = job_cards.count()
+            cards = page.locator(JOB_CARD_SEL)
+            count = cards.count()
             if count == 0:
                 return
 
             for i in range(count):
-                card = job_cards.nth(i)
+                card = cards.nth(i)
                 try:
                     card.scroll_into_view_if_needed()
                 except Exception:
                     pass
-                time.sleep(0.15 if slow_mo == 0 else 0.0)
+                time.sleep(0.1 if slow_mo == 0 else 0.0)
 
-                # Title & company (with fallback title selector)
-                title = card.locator('[data-automation="jobTitle"], a[data-testid="job-card-title"]').first.inner_text().strip()
-                company = card.locator('[data-automation="jobCompany"], [data-testid="job-card-company"]').first.inner_text().strip()
+                # Title & company (with fallbacks)
+                def safe_inner(loc):
+                    try:
+                        return loc.first.inner_text().strip()
+                    except Exception:
+                        return ""
+
+                title_loc = card.locator(JOB_TITLE_SEL).first
+                title = safe_inner(title_loc)
+                if not title:
+                    # Try a generic heading fallback
+                    title = safe_inner(card.locator("a[role='link'], a"))
+
+                company = safe_inner(card.locator('[data-automation="jobCompany"], [data-testid="job-card-company"]'))
 
                 # Posted label
                 posted_el = card.locator('[data-automation="jobListingDate"], [data-testid="job-card-date"]').first
-                posted_text = ""
-                if posted_el.count() > 0:
-                    posted_text = posted_el.inner_text().strip()
-                    if not posted_text:
-                        try:
-                            posted_text = posted_el.evaluate(
-                                "el => window.getComputedStyle(el, '::before').getPropertyValue('content')"
-                            )
-                            posted_text = posted_text.strip('"')
-                        except Exception:
-                            posted_text = ""
+                posted_text = safe_inner(posted_el)
+                if not posted_text and posted_el.count() > 0:
+                    try:
+                        posted_text = posted_el.evaluate(
+                            "el => window.getComputedStyle(el, '::before').getPropertyValue('content')"
+                        ).strip('"')
+                    except Exception:
+                        posted_text = ""
 
                 hours_old = posted_text_to_hours(posted_text)
                 if hours_old > 24:
                     continue
 
                 now_local = datetime.now().astimezone()
-                posted_dt_local = (now_local - timedelta(hours=hours_old)).replace(
-                    minute=0, second=0, microsecond=0
-                )
+                posted_dt_local = (now_local - timedelta(hours=hours_old)).replace(minute=0, second=0, microsecond=0)
                 posted_dt_local_str = posted_dt_local.strftime("%Y-%m-%d %H:00 %Z")
 
                 # Detail link (robust)
                 href = None
-                overlay = card.locator('a[data-automation="job-list-item-link-overlay"]').first
-                if overlay.count() > 0:
-                    href = overlay.get_attribute("href")
-                if not href:
-                    link2 = card.locator('a:has([data-automation="jobTitle"]), a:has(a[data-testid="job-card-title"])').first
-                    if link2.count() > 0:
-                        href = link2.get_attribute("href")
-                if not href:
-                    anchors = card.locator("a")
-                    for idx in range(anchors.count()):
-                        h = anchors.nth(idx).get_attribute("href") or ""
+                for sel in [
+                    'a[data-automation="job-list-item-link-overlay"]',
+                    'a:has([data-automation="jobTitle"])',
+                    'a[data-testid="job-card-title"]',
+                    "a",
+                ]:
+                    link = card.locator(sel).first
+                    if link.count() > 0:
+                        h = link.get_attribute("href") or ""
                         if "/job/" in h:
                             href = h
                             break
@@ -263,15 +343,19 @@ def scrape_jobs(
                 job_id = extract_job_id_from_url(detail_url)
 
                 # Open detail in a new tab
-                detail_page = browser.new_page()
+                detail_page = context.new_page()
                 try:
                     print(f"➡️  {title} | {company} | {posted_text} → {posted_dt_local_str} | {detail_url}")
                     detail_page.goto(detail_url, wait_until="domcontentloaded")
-                    detail_page.wait_for_selector('[data-automation="jobAdDetails"]', timeout=20000)
+                    # Sometimes details are slow; wait with retry and banner dismiss
+                    ensure_results_ready(detail_page, detail_url, screenshot_tag=f"detail_{job_id}", timeout_ms=30000)
 
                     def safe_text(pg, selector: str, default: str = ""):
                         loc = pg.locator(selector)
-                        return loc.first.inner_text().strip() if loc.count() > 0 else default
+                        try:
+                            return loc.first.inner_text().strip() if loc.count() > 0 else default
+                        except Exception:
+                            return default
 
                     location = safe_text(detail_page, '[data-automation="job-detail-location"]')
                     category = safe_text(detail_page, '[data-automation="job-detail-classifications"]')
@@ -279,7 +363,10 @@ def scrape_jobs(
                     salary = safe_text(detail_page, '[data-automation="job-detail-salary"]')
 
                     ad_loc = detail_page.locator('[data-automation="jobAdDetails"]').first
-                    ad_text = ad_loc.inner_text().strip() if ad_loc.count() > 0 else ""
+                    try:
+                        ad_text = ad_loc.inner_text().strip() if ad_loc.count() > 0 else ""
+                    except Exception:
+                        ad_text = ""
 
                     all_results.append({
                         "Job ID": job_id,
@@ -311,16 +398,20 @@ def scrape_jobs(
                 print(f"📄 Page {pageno}/{last_page} → {page_url}")
                 page.goto(page_url, wait_until="domcontentloaded")
                 try:
-                    page.wait_for_selector('[data-automation="jobTitle"], a[data-testid="job-card-title"]', timeout=30000)
+                    ensure_results_ready(page, page_url, screenshot_tag=f"list_p{pageno}")
                 except Exception:
-                    # If a variant loads slower, give a tiny nudge
-                    page.mouse.wheel(0, 1500)
-                    page.wait_for_timeout(500)
+                    # As a last resort, small scroll and continue
+                    try:
+                        page.mouse.wheel(0, 1500)
+                        page.wait_for_timeout(500)
+                    except Exception:
+                        pass
                 scrape_current_page()
 
+        # Close & write
+        context.close()
         browser.close()
 
-        # Always write CSV (even if empty)
         df = pd.DataFrame(all_results)
         df.to_csv(csv_path, index=False)
         print(f"✅ Scraped {len(all_results)} job(s). CSV written: {csv_path}")
@@ -328,16 +419,46 @@ def scrape_jobs(
 
 
 # ----------------------------
+# Headless mode resolver
+# ----------------------------
+def resolve_headless(headless_param: bool | None) -> tuple[bool, float]:
+    """
+    Decide headless mode:
+      - If HEADLESS env is set, use it.
+      - Else if running in CI and no DISPLAY, default headless True.
+      - Else if DISPLAY is present (e.g., Xvfb), default headed (False).
+      - Else default headless True.
+    Also returns slow_mo (seconds) from env SLOW_MO (only applied when headed).
+    """
+    if os.getenv("HEADLESS") not in (None, ""):
+        headless = env_bool("HEADLESS", True)
+    elif headless_param is not None:
+        headless = headless_param
+    else:
+        in_ci = env_bool("CI", False)
+        has_display = os.getenv("DISPLAY") not in (None, "")
+        if in_ci and not has_display:
+            headless = True
+        elif has_display:
+            headless = False
+        else:
+            headless = True
+
+    slow_mo = float(env_str("SLOW_MO", "0"))
+    if headless or env_bool("CI", False):
+        slow_mo = 0.0
+    return headless, slow_mo
+
+
+# ----------------------------
 # CLI entry
 # ----------------------------
 if __name__ == "__main__":
-    # Allow env overrides for GitHub Actions / n8n
     kw = env_str("KEYWORD", "Senior Insight Analyst")
     min_sal = env_int("MIN_SALARY", 150000)
     ldate = env_int("LISTING_DATE", 1)
     csv_out = env_str("CSV_PATH", "seek_jobs_24h.csv")
 
-    # HEADLESS env explicitly wins; otherwise auto (CI/no DISPLAY -> headless)
     headless_env = os.getenv("HEADLESS")
     if headless_env is not None and headless_env.strip() != "":
         headless_val = env_bool("HEADLESS", True)
