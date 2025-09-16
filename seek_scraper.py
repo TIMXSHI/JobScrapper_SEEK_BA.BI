@@ -7,9 +7,10 @@ import os
 from urllib.parse import urljoin, urlparse, parse_qs, urlencode, urlunparse
 from datetime import datetime, timedelta
 
-# ----------------------------
+
+# ============================
 # Env helpers
-# ----------------------------
+# ============================
 def env_str(name: str, default: str) -> str:
     v = os.getenv(name)
     return v if (v is not None and str(v).strip() != "") else default
@@ -27,9 +28,9 @@ def env_bool(name: str, default: bool) -> bool:
     return str(v).strip().lower() in ("1", "true", "yes", "y")
 
 
-# ----------------------------
+# ============================
 # URL & parsing helpers
-# ----------------------------
+# ============================
 def build_seek_url(keyword: str, min_salary: int = 150000, listing_date: int = 1) -> str:
     """
     Build Seek search URL.
@@ -88,9 +89,10 @@ def posted_text_to_hours(txt: str) -> float:
     return float("inf")
 
 
-# ----------------------------
-# Selectors (centralised for easy tweaks)
-# ----------------------------
+# ============================
+# Selectors (centralised)
+# ============================
+# List page selectors (search results)
 RESULTS_READY_SEL = ", ".join([
     '[data-automation="searchResults"]',
     '[data-automation="searchResultsContainer"]',
@@ -99,15 +101,24 @@ RESULTS_READY_SEL = ", ".join([
     'article[data-automation="job-card"]',
 ])
 
-JOB_CARD_SEL = ', '.join([
+JOB_CARD_SEL = ", ".join([
     '[data-automation="normalJob"]',
     '[data-testid="job-card"]',
     'article[data-automation="job-card"]',
 ])
 
-JOB_TITLE_SEL = ', '.join([
+JOB_TITLE_SEL = ", ".join([
     '[data-automation="jobTitle"]',
     'a[data-testid="job-card-title"]',
+])
+
+# Detail page selectors
+DETAIL_READY_SEL = ", ".join([
+    '[data-automation="jobAdDetails"]',
+    '[data-automation="job-details"]',
+    'article[data-automation="jobAd"]',
+    '[data-automation="job-detail"]',
+    '[data-testid="job-detail-view"]',
 ])
 
 PAGINATION_LINK_SELECTORS = [
@@ -117,11 +128,11 @@ PAGINATION_LINK_SELECTORS = [
 ]
 
 
-# ----------------------------
+# ============================
 # Consent & readiness helpers
-# ----------------------------
+# ============================
 def dismiss_banners(page):
-    # Try common consent / cookie banners
+    # Try common consent / cookie banners / close buttons
     candidates = [
         'button:has-text("Accept all")',
         'button:has-text("Accept All")',
@@ -130,6 +141,7 @@ def dismiss_banners(page):
         '[data-automation*="consent"] button',
         '#privacy-consent button',
         '[aria-label="Close"]',
+        'button[aria-label="Close"]',
     ]
     for sel in candidates:
         try:
@@ -140,15 +152,22 @@ def dismiss_banners(page):
         except Exception:
             pass
 
-def ensure_results_ready(page, base_url: str, screenshot_tag: str = "init", max_tries: int = 4, timeout_ms: int = 45000):
+def ensure_results_ready(
+    page,
+    base_url: str,
+    screenshot_tag: str = "init",
+    max_tries: int = 4,
+    timeout_ms: int = 45000,
+    ready_selectors: str = RESULTS_READY_SEL,  # default for list page
+):
     """
-    Robust readiness: wait for DOM/network idle, dismiss banners, try multiple times with scroll & light reload.
+    Robust readiness: wait for DOM/network idle, dismiss banners,
+    scroll a bit, and wait for page-type-specific selectors.
     """
     last_err = None
     for attempt in range(1, max_tries + 1):
         try:
             page.wait_for_load_state("domcontentloaded", timeout=timeout_ms)
-            # networkidle can hang sometimes; keep it small
             try:
                 page.wait_for_load_state("networkidle", timeout=5000)
             except Exception:
@@ -161,29 +180,20 @@ def ensure_results_ready(page, base_url: str, screenshot_tag: str = "init", max_
                 page.mouse.wheel(0, 2000)
                 page.wait_for_timeout(250)
 
-            # Wait for any results container or any job card
-            page.wait_for_selector(RESULTS_READY_SEL, timeout=timeout_ms, state="attached")
-            # If present, also try to wait for any title (best-effort)
-            try:
-                page.wait_for_selector(JOB_TITLE_SEL, timeout=4000, state="attached")
-            except Exception:
-                pass
-
-            # If we reached here, DOM has something meaningful
+            # Wait for the right selector set
+            page.wait_for_selector(ready_selectors, timeout=timeout_ms, state="attached")
             return
         except Exception as e:
             last_err = e
-            # Nudge: small reload or param toggle to poke rendering
             if attempt < max_tries:
+                # Light nudge: reload or toggle a benign param
                 try:
-                    # Toggle a benign param to force a server render variation
                     toggle_url = set_query_param(base_url, "page", "1")
                     page.goto(toggle_url, wait_until="domcontentloaded")
                 except Exception:
                     pass
                 page.wait_for_timeout(800)
             else:
-                # Final attempt failed -> dump screenshot for debugging
                 try:
                     fname = f"debug_seek_{screenshot_tag}_{int(time.time())}.png"
                     page.screenshot(path=fname, full_page=True)
@@ -222,9 +232,9 @@ def max_page_from_dom(page) -> int:
     return max(nums) if nums else 1
 
 
-# ----------------------------
+# ============================
 # Core scraper (with pagination & robustness)
-# ----------------------------
+# ============================
 def scrape_jobs(
     keyword: str = "Senior Insight Analyst",
     min_salary: int = 150000,
@@ -239,17 +249,30 @@ def scrape_jobs(
     headless, slow_mo = resolve_headless(headless)
 
     with sync_playwright() as p:
-        # Use a context with a stable UA/locale to avoid variant UIs
-        browser = p.chromium.launch(headless=headless, slow_mo=slow_mo, args=["--disable-blink-features=AutomationControlled"])
+        # Launch & context
+        browser = p.chromium.launch(
+            headless=headless,
+            slow_mo=slow_mo,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
         context = browser.new_context(
-            user_agent=env_str("UA", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"),
+            user_agent=env_str(
+                "UA",
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            ),
             locale="en-AU",
             timezone_id=env_str("TZ", "Australia/Brisbane"),
             viewport={"width": 1280, "height": 2000},
         )
-        # Drop heavy assets to reduce flakiness/speed up
+
+        # Optionally block heavy assets
         if env_bool("BLOCK_MEDIA", True):
-            context.route("**/*", lambda route: route.abort() if route.request.resource_type in ("image", "media", "font") else route.continue_())
+            def _route(route):
+                r = route.request
+                if r.resource_type in ("image", "media", "font"):
+                    return route.abort()
+                return route.continue_()
+            context.route("**/*", _route)
 
         page = context.new_page()
 
@@ -257,21 +280,23 @@ def scrape_jobs(
         print(f"🔍 Opening: {base_url}")
         page.goto(base_url, wait_until="domcontentloaded")
 
-        # Robust readiness
-        ensure_results_ready(page, base_url, screenshot_tag="list")
+        # Wait for list page
+        ensure_results_ready(page, base_url, screenshot_tag="list", ready_selectors=RESULTS_READY_SEL)
 
-        # Determine how many pages to scrape
+        # Pagination count
         last_page = max_page_from_dom(page)
         print(f"📑 Detected {last_page} page(s)")
 
         all_results = []
         seen_links = set()
 
-        # Helper: scrape the current page into results (robust selectors)
         def scrape_current_page():
             nonlocal all_results, seen_links
             cards = page.locator(JOB_CARD_SEL)
-            count = cards.count()
+            try:
+                count = cards.count()
+            except Exception:
+                count = 0
             if count == 0:
                 return
 
@@ -281,24 +306,23 @@ def scrape_jobs(
                     card.scroll_into_view_if_needed()
                 except Exception:
                     pass
-                time.sleep(0.1 if slow_mo == 0 else 0.0)
+                time.sleep(0.05 if slow_mo == 0 else 0.0)
 
-                # Title & company (with fallbacks)
                 def safe_inner(loc):
                     try:
                         return loc.first.inner_text().strip()
                     except Exception:
                         return ""
 
+                # Title
                 title_loc = card.locator(JOB_TITLE_SEL).first
                 title = safe_inner(title_loc)
                 if not title:
-                    # Try a generic heading fallback
                     title = safe_inner(card.locator("a[role='link'], a"))
 
                 company = safe_inner(card.locator('[data-automation="jobCompany"], [data-testid="job-card-company"]'))
 
-                # Posted label
+                # Posted label -> filter to <=24h
                 posted_el = card.locator('[data-automation="jobListingDate"], [data-testid="job-card-date"]').first
                 posted_text = safe_inner(posted_el)
                 if not posted_text and posted_el.count() > 0:
@@ -317,7 +341,7 @@ def scrape_jobs(
                 posted_dt_local = (now_local - timedelta(hours=hours_old)).replace(minute=0, second=0, microsecond=0)
                 posted_dt_local_str = posted_dt_local.strftime("%Y-%m-%d %H:00 %Z")
 
-                # Detail link (robust)
+                # Detail link
                 href = None
                 for sel in [
                     'a[data-automation="job-list-item-link-overlay"]',
@@ -342,13 +366,28 @@ def scrape_jobs(
 
                 job_id = extract_job_id_from_url(detail_url)
 
-                # Open detail in a new tab
+                # Open detail
                 detail_page = context.new_page()
                 try:
                     print(f"➡️  {title} | {company} | {posted_text} → {posted_dt_local_str} | {detail_url}")
                     detail_page.goto(detail_url, wait_until="domcontentloaded")
-                    # Sometimes details are slow; wait with retry and banner dismiss
-                    ensure_results_ready(detail_page, detail_url, screenshot_tag=f"detail_{job_id}", timeout_ms=30000)
+
+                    # Wait using DETAIL selectors
+                    try:
+                        ensure_results_ready(
+                            detail_page,
+                            detail_url,
+                            screenshot_tag=f"detail_{job_id or 'unknown'}",
+                            timeout_ms=30000,
+                            ready_selectors=DETAIL_READY_SEL,
+                        )
+                    except Exception as e:
+                        # Last fallback: look for a generic main/article to avoid false negatives
+                        try:
+                            detail_page.wait_for_selector("main, article", timeout=4000)
+                        except Exception:
+                            print(f"⏭️  Skipping (ready failed): {detail_url} ({e})")
+                            return
 
                     def safe_text(pg, selector: str, default: str = ""):
                         loc = pg.locator(selector)
@@ -357,6 +396,7 @@ def scrape_jobs(
                         except Exception:
                             return default
 
+                    # Extract fields
                     location = safe_text(detail_page, '[data-automation="job-detail-location"]')
                     category = safe_text(detail_page, '[data-automation="job-detail-classifications"]')
                     work_type = safe_text(detail_page, '[data-automation="job-detail-work-type"]')
@@ -382,25 +422,25 @@ def scrape_jobs(
                         "Salary": salary,
                         "Ad Text": ad_text
                     })
+
                 finally:
                     try:
                         detail_page.close()
                     except Exception:
                         pass
 
-        # Scrape first page
+        # First page
         scrape_current_page()
 
-        # Scrape remaining pages if any
+        # Remaining pages
         if last_page > 1:
             for pageno in range(2, last_page + 1):
                 page_url = set_query_param(base_url, "page", str(pageno))
                 print(f"📄 Page {pageno}/{last_page} → {page_url}")
                 page.goto(page_url, wait_until="domcontentloaded")
                 try:
-                    ensure_results_ready(page, page_url, screenshot_tag=f"list_p{pageno}")
+                    ensure_results_ready(page, page_url, screenshot_tag=f"list_p{pageno}", ready_selectors=RESULTS_READY_SEL)
                 except Exception:
-                    # As a last resort, small scroll and continue
                     try:
                         page.mouse.wheel(0, 1500)
                         page.wait_for_timeout(500)
@@ -418,9 +458,9 @@ def scrape_jobs(
         return all_results
 
 
-# ----------------------------
+# ============================
 # Headless mode resolver
-# ----------------------------
+# ============================
 def resolve_headless(headless_param: bool | None) -> tuple[bool, float]:
     """
     Decide headless mode:
@@ -450,9 +490,9 @@ def resolve_headless(headless_param: bool | None) -> tuple[bool, float]:
     return headless, slow_mo
 
 
-# ----------------------------
-# CLI entry
-# ----------------------------
+# ============================
+# CLI
+# ============================
 if __name__ == "__main__":
     kw = env_str("KEYWORD", "Senior Insight Analyst")
     min_sal = env_int("MIN_SALARY", 150000)
