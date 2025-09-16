@@ -1,85 +1,661 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87214888,IT Project Analyst,UnitingCare Qld,https://www.seek.com.au/job/87214888?type=standard&ref=search-standalone&origin=jobCard#sol=3895c8a6911ec050cd27905a42d6a581a20600ae,1h ago,1.0,2025-09-16T00:00:00+00:00,Brisbane QLD (Hybrid),Programme & Project Management (Information & Communication Technology),Full time,,"Make a meaningful difference with us:
+87217352,Enterprise Data Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87217352?type=standard&ref=search-standalone&origin=jobCard#sol=cff0637c4a423e9e879ba9b7c9aa917d70b737f5,1h ago,1.0,2025-09-16T02:00:00+00:00,Adelaide SA (Hybrid),Architects (Information & Communication Technology),Full time,,"Enterprise Data Architect
+Full Time Permanent Role
+Adelaide Based Position with Hybrid working setup
 
-We want people who are great as individuals, and even better in a team. 
+The Enterprise Data Architect plays a key role in shaping, implementing, and governing the organisation's enterprise data architecture and long-term data strategy. The position is responsible for driving the adoption and maturity of a unified data platform, using Databricks and related technologies to deliver scalable, governed, and cost-effective data solutions.
 
-·       Assist in defining future state reporting requirements within the A2R/P2R taxonomy, such as fixed asset management, capitalization, project accounting, depreciation, lease accounting and project and asset reporting.
+Through advanced data modelling, governance frameworks, and secure analytics delivery, this role supports improved decision-making across business functions including engineering, finance, operations, and project management. It also underpins the shift toward AI-driven insights and data-centric practices across the organisation.
 
-·       Support data migration activities for fixed assets, projects, WIP etc.
+The position requires strong technical expertise, the ability to bridge business and technology needs, and adaptability to evolving priorities and emerging opportunities.
 
-·       Partner with A2R/P2R Lead and System Integrators to identify and resolve design gaps and issues.
+Responsibilities:
 
-·       Validate integration requirements with other systems eg. Coupa, Nomos One etc
+Define and maintain enterprise data architecture, frameworks, and roadmaps.
 
-·       Develop training materials and support knowledge transfer for end-users.
+Lead the design and delivery of scalable, secure, and cost-effective data solutions on Databricks and cloud platforms.
 
-·       Contribute to cutover planning and execution, ensuring accurate closing balances and reconciliations move into the new systems.
+Oversee enterprise-level data governance, metadata management, and master data practices.
 
-·       Support integration testing between D365 and Adaptive to ensure accurate actuals-to-plan variance reporting.
+Establish and enforce standards for data modelling, warehousing, and medallion architectures (Bronze/Silver/Gold).
 
-·       Work with finance teams to validate statutory and regulatory reporting.
+Design and maintain high-quality data pipelines to support analytics, BI, and AI/ML use cases.
 
-Flexibility is important to us, and we know it is to you, too - this role supports hybrid working.
+Provide expert guidance in database and data warehouse design to meet both transactional and analytical needs.
 
-Your part in our UnitingCare team: 
+Collaborate with business stakeholders, data scientists, analysts, and engineers to align data solutions with organisational priorities.
 
-·       Contribute to an environment of excellence and drive for positive outcomes. 
+Evaluate and recommend tools, methods, and technologies to enhance data engineering and analytics capabilities.
 
-·       Demonstrate that you are reliable and keep your promises, do what you say you will do and   
+Act as a subject matter expert on data governance, security, privacy, and compliance.
 
-       hold yourself to account. 
+Qualifications:
 
-·       Contribute to a positive team culture and a safe work environment, being mindful, respectful    
+Significant background in architecting and implementing enterprise-scale data platforms using Databricks alongside major cloud environments (Azure, AWS, or GCP).
 
-       and kind. 
+Track record of delivering robust, secure, and cost-efficient data solutions that scale with business needs.
 
-·       Demonstrate a can-do attitude, willingness to listen to others, collaborate, communicate and
+Hands-on expertise with Databricks Lakehouse, Unity Catalog, Delta Live Tables, dbt, Python, SQL, CI/CD pipelines (Azure DevOps or GitHub), and infrastructure automation (Terraform or Bicep).
 
-       lead by example. 
+Deep understanding of data modelling techniques, modern warehousing practices, and layered architectures such as Bronze/Silver/Gold.
 
+Strong history of working with cross-disciplinary teams to deliver integrated enterprise data outcomes.
 
-What makes a difference for us?
+Advanced knowledge of governance, security, privacy, and compliance standards for enterprise data environments.
 
-·       Strong knowledge of A2R/P2R processes (asset acquisition, capitalization, depreciation, disposals in accordance with AASB 116 (Property, Plant and Equipment) AASB138 (Intangible Assets) AASB 16 (Lease Accounting).
+Degree qualifications in Computer Science, IT, Engineering, or an equivalent field.
 
-·       Prior experience with ERP (preferably D365 F&O).Experience in fixed asset accounting including lease accounting.
+Desirable:
 
-·       Excellent verbal and written communication skills. 
+Industry certifications in Databricks, Azure, AWS, or GCP (e.g., Certified Data Engineer, Solutions Architect).
 
-·       Strong IT and data entry skills with a high attention to detail.
+Familiarity with data visualisation and semantic modelling tools including Power BI or Tableau.
+
+Experience gained in consulting or project-driven settings, with an appreciation for aligning technology with business outcomes.
+
+If the above role sounds of interest, please click on ""Apply Now"", or get in touch with Ivan via 0480 806 152 / (08) 8228 1502"
+87217259,Group Product Manager - Commercial - Hawthorn East,Coles,https://www.seek.com.au/job/87217259?type=standard&ref=search-standalone&origin=jobCard#sol=dbf5cbc96f79502a86efa1473cb63bb80d383088,1h ago,1.0,2025-09-16T02:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Product Management & Development (Information & Communication Technology),Full time,,"We've been trusted to serve Aussie communities since 1914 and grown to become a top 30-listed on the ASX with 120,000 team members and a portfolio of iconic brands. At Coles Group, you'll not only get to make a difference to millions of Aussie lives—you'll also get to see your impact.
+
+About the team
+
+As the way we shop continues to evolve, our Data Team keeps us at the cutting edge. Driven by our innovative, inclusive, and forward-thinking culture, we’re constantly looking at ways to reinvent the shopping experience for our customers and build the next generation of digital retailing. 
+
+The Data Team within the broader Coles Technology Team focuses on building data collection and analytics capabilities to uncover customer, product, and operational insights. Providing data driven support to our users and enabling Coles to be a data driven organisation.
+
+About the role
+
+This exciting position within our Data and Intelligence team will be pivotal in defining and leading the long-term strategy for Coles’ Data and AI product portfolio, ensuring alignment with enterprise vision, evolving customer needs, and commercial imperatives. This role is pivotal in shaping the future of data-driven innovation across the domain, positioning Coles at the forefront of AI-enabled transformation.
+
+To be successful in this role, you will aim for the below: 
+
+Domain Product Strategy and Direction 
+
+Define and drive the long-term strategy for the domain’s Data and AI product portfolio, ensuring alignment with enterprise vision, customer needs, and commercial objectives.
+This role will drive innovation in data utilisation, advanced analytics, automation, machine learning and AI (including generative AI and agentic AI) to deliver measurable value across their domain. Ensuring Coles maintains a competitive advantage in a market with AI driven disruption.
+Lead Data and AI product discovery and strategic planning across the suite, identifying new opportunities, sunsetting underperforming products, and evolving the product mix as needed.
+
+Product Leadership 
+
+Oversee a team of Product Managers and Associate Product Managers, ensuring cohesive management of the full product suite across all lifecycle stages.
+Ensure a high standard of product practices across the portfolio, including user research, roadmap development, prioritisation, release planning, and benefits realisation.
+Maintain a clear line of sight across product performance, adoption, and risk, intervening or reallocating resources as needed.
+
+Stakeholder Engagement 
+
+Act as a strategic partner to senior business and technology stakeholders, influencing priorities, communicating vision, and aligning roadmaps for Data and AI Products. This includes General Managers, Head Ofs and Program Managers within domain. Be able to participate in strategy development sessions with influence.
+Partner with the business to make Buy, Build and Partner decisions for AI solutions.
+Translate complex technical or delivery information into clear business context to support prioritisation and decision-making.
+
+Product Operations and Governance
+
+Actively and visibly champion cross-functional ways of working that integrate product, delivery, design, technology and Data and AI engineering.
+Take ownership of the Data and AI product suite including defining value metrics and monitoring product success.
+Lead in-house multidisciplinary teams to deliver value incrementally, applying agile product management principles such as iterative delivery, continuous feedback loops, and backlog prioritisation (balancing new development, enhancement, stability, tech debt remediation and support needs).
+
+Experience required
+
+Proven experience as a Group Product Manager, Head of Product or equivalent in large scale enterprise setting, with specific experience in developing AI products
+Strong domain experience in data science, machine learning, generative AI. Agentic AI systems experience preferred. 
+Familiarity with MLOps, LLMOps and continuous model monitoring frameworks.
+Proven success owning the strategy and direction of a large suite of products, ideally in a fast-paced, complex or matrixed environment.
+Track record of leading product managers and influencing multi-disciplinary teams, including design, engineering, and operations.
+Experience using customer insight, data, and commercial outcomes to shape product decisions and prioritisation.
+Deep understanding of agile and product lifecycle methodologies, and how to scale product management in large organisations.
+Involved in defining product success metrics and monitoring product success
+Strong ability to deliver and execute on agreed delivery plans, prioritise development requirements and manage output to critical milestones 
+Proven track record of building strong relationships with multiple business stakeholders and teams, including c-suite communication and engagement.
+
+Commercial Skills and Formal Qualifications
+
+Proven years in product management with at least four years in AI/data products.
+Vision setting and long-term roadmap creation for AI/data portfolios. Driving enterprise-wide AI adoption strategies, including generative and agentic AI.
+Ability to translate emerging AI capabilities into domain specific value cases, identify marketplace opportunities and discover the most appropriate way to capitalise on emerging AI capabilities.
+Awareness of the competitive landscape of emerging business models reshaping the retail industry, with demonstrated expertise in emerging AI technology, including Agentic and Generative AI, providing the ability to identify opportunities, challenges, and competitive threats from these emerging technologies and how they might impact retail.
+Understanding of the full Technology Lifecycle, including both software and AI/data science development cycles, with key stages and responsibilities, technologies, vendors, and roles.
+
+What’s in it for you? 
+
+Flexible working options: We know that work is only one part of your life, so we actively encourage a positive work-life balance and provide hybrid working options to help you achieve it.
+
+Office perks: Take advantage of our gym facility and fitness classes, free parking, BBQ area, mini-Coles supermarket, fooderie hub where you can sample new products before they hit the shelves, school holiday program and so much more when you come in.
+
+Discounts: Eligible team members receive 5% discount all year round on your Supermarket and Liquor online and in-store purchases. We also offer additional periods of double discount (10%) at various times throughout the year. As well as hot deals exclusive to team members that translate into additional savings.
+
+Reward through recognition: Give and receive recognition, linked to our Coles values, through our digital recognition platform ‘mythanks.’ You can accumulate points to redeem in the online shop for exciting gifts and electronic gift cards from an extensive range of retailers.
+
+Opportunities for learning and development: No matter where you start within our diverse business, you’ll have experiences, exposure, and education to satisfy you. Discover and explore a variety of career development programs and job-specific training.
+
+Paid parental leave: We understand how important your life outside work is and offer permanent team members paid parental leave to support you in balancing work and family.
+
+Investment in your future: Our annual team member share plan offer allows eligible team members to make regular pre-tax salary sacrifice deductions to purchase Coles Group shares.
+
+About the recruitment process
+
+We’re continuing to build a gender equitable team, and a culture that is just as diverse, inclusive and welcoming as the communities we serve. We are committed to creating a workplace that is safe and respectful for our team.
+
+We encourage applications from people of all ages, cultures (including Aboriginal and Torres Strait Islander peoples), abilities, sexual orientation and gender identities.
+
+We’re happy to adjust our recruitment process to support candidates with disability. For further information and additional contact details visit the ‘Our Recruitment Process’ section of our careers site or email inclusionrecruitment@coles.com.au
+
+Job ID: 166050 
+
+Employment Type: Full time"
+87216983,Agile Portfolio Manager - Hawthorn East,Coles,https://www.seek.com.au/job/87216983?type=standard&ref=search-standalone&origin=jobCard#sol=503cad7af7c0928d29de6d4c8f2fd6fd534d3f2b,1h ago,1.0,2025-09-16T02:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"We've been trusted to serve Aussie communities since 1914 and grown to become a top 30-listed on the ASX with 120,000 team members and a portfolio of iconic brands. At Coles Group, you'll not only get to make a difference to millions of Aussie lives—you'll also get to see your impact.
+
+About the team
+
+As the way we shop continues to evolve, our Data Team keeps us at the cutting edge. Driven by our innovative, inclusive, and forward-thinking culture, we’re constantly looking at ways to reinvent the shopping experience for our customers and build the next generation of digital retailing. 
+
+The Data Team within the broader Coles Technology Team focuses on building data collection and analytics capabilities to uncover customer, product, and operational insights. Providing data driven support to our users and enabling Coles to be a data driven organisation.
+
+About the role
+
+For this exciting position within our Data and Intelligence team, we are seeking a strategic leader to drive the annual corporate planning process and shape the Data and AI roadmap in partnership with Group Product Managers and Product teams. In this high-impact role, you'll oversee quarterly and rolling planning cycles across the Data & AI portfolio, ensuring initiatives remain tightly aligned with business priorities and long-term objectives.
+
+Working closely with the Head of Data & AI Product, you'll align funding and squad resourcing to meet corporate goals, while leading financial governance to ensure accurate reporting, forecast adherence, and achievement of recoverability targets. If you're ready to shape the future of Data & AI at scale—this is your opportunity to lead.
+
+To be successful in this role, you will aim for the below: 
+
+Portfolio Planning & Prioritisation
+
+Facilitate the annual corporate planning process and the Data and AI roadmap with Group Product Managers and Product teams.
+Oversee the quarterly and rolling planning cycles across the Data & AI portfolio, ensuring alignment with strategic objectives and business priorities.
+Maintain a Data and AI portfolio-level view of initiatives, capacity and dependencies to optimise delivery flow.
+
+Agile Delivery Management & Enablement
+
+Guide and mentor iteration managers in applying agile practices to maximise value delivery and maintain predictability.
+Monitor delivery performance using relevant metrics (e.g., velocity, cycle time, throughput) and identify opportunities to improve flow across domains.
+Ensures adherence with any requirements from the Coles Technology Delivery Framework in agile and delivery practices.
+
+Stakeholder Engagement & Communication
+
+Act as a key liaison between Data & AI product teams, business stakeholders and the broader Technology function, including facilitation of reporting into board, QBR, technology delivery and other deliverables.
+Produce clear, concise and insightful portfolio reporting for leadership and stakeholders.
+Facilitate effective communication and collaboration across domains, ensuring alignment on priorities and dependencies.
+
+Continuous Improvement & Capability Uplift
+
+Drive maturity in agile portfolio management practices across the Data & AI function.
+Coach teams and leaders on agile mindset, principles and delivery disciplines at both the team and portfolio level.
+Identify and implement process improvements that enhance delivery efficiency, transparency and cohesion.
+
+Experience required
+
+Proven experience as an Iteration Manager, Agile Delivery Lead, Release Train Engineer or Portfolio Manager in a complex enterprise environment.
+Demonstrated experience managing delivery across multiple agile teams and product streams.
+Strong understanding of agile portfolio management, scaling frameworks and agile delivery practices.
+Experience facilitating cross-team planning and coordinating delivery in a multi-domain environment.
+Background in Data, AI, or Technology delivery environments (desirable).
+Track record of working effectively with senior stakeholders and influencing decision-making.
+Demonstrated ability to navigate competing priorities and deliver in ambiguous or changing environments.
+
+Commercial Skills and Formal Qualifications
+
+Tertiary qualifications in Business / Commerce or related fields (or equivalent work experience).
+Deep knowledge of agile delivery frameworks, practices and tools (e.g., Jira, Confluence, portfolio management tooling).
+Strong facilitation and coordination skills, with the ability to manage multiple moving parts simultaneously.
+Strong analytical skills for interpreting delivery data, identifying trends and informing decisions.
+Excellent verbal and written communication skills, with the ability to adapt style for technical and non-technical audiences.
+Strong stakeholder engagement and relationship management abilities.
+Agile-related certifications (e.g., SAFe LPM, ICP-APM, CSM, PMI-ACP) highly desirable.
+Ability to coach, mentor and uplift agile capability across teams and leadership groups.
+
+What’s in it for you?
+
+Flexible working options: We know that work is only one part of your life, so we actively encourage a positive work-life balance and provide hybrid working options to help you achieve it.
+
+Office perks: Take advantage of our gym facility and fitness classes, free parking, BBQ area, mini-Coles supermarket, fooderie hub where you can sample new products before they hit the shelves, school holiday program and so much more when you come in.
+
+Discounts: Eligible team members receive 5% discount all year round on your Supermarket and Liquor online and in-store purchases. We also offer additional periods of double discount (10%) at various times throughout the year. As well as hot deals exclusive to team members that translate into additional savings.
+
+Reward through recognition: Give and receive recognition, linked to our Coles values, through our digital recognition platform ‘mythanks.’ You can accumulate points to redeem in the online shop for exciting gifts and electronic gift cards from an extensive range of retailers.
+
+Opportunities for learning and development: No matter where you start within our diverse business, you’ll have experiences, exposure, and education to satisfy you. Discover and explore a variety of career development programs and job-specific training.
+
+Paid parental leave: We understand how important your life outside work is and offer permanent team members paid parental leave to support you in balancing work and family.
+
+Investment in your future: Our annual team member share plan offer allows eligible team members to make regular pre-tax salary sacrifice deductions to purchase Coles Group shares.
+
+About the recruitment process
+
+We’re continuing to build a gender equitable team, and a culture that is just as diverse, inclusive and welcoming as the communities we serve.
+
+We are committed to creating a workplace that is safe and respectful for our team. We encourage applications from people of all ages, cultures (including Aboriginal and Torres Strait Islander peoples), abilities, sexual orientation and gender identities.
+
+We’re happy to adjust our recruitment process to support candidates with disability. For further information and additional contact details visit the ‘Our Recruitment Process’ section of our careers site or email inclusionrecruitment@coles.com.au
+
+Job ID: 166051 
+
+Employment Type: Full time 
+
+#LI-MM1"
+87216640,Financial Performance and Analytics Manager,Belgravia Health & Leisure Group,https://www.seek.com.au/job/87216640?type=standard&ref=search-standalone&origin=jobCard#sol=2c12087d9b5329121c1a7d7610920b096ce1a7ad,1h ago,1.0,2025-09-16T02:00:00+00:00,"Bayswater, Melbourne VIC",Analysis & Reporting (Banking & Financial Services),Full time,,"About the job
+
+Bayswater - VIC
+
+Dynamic Sports, Leisure, Health and Wellness Industry
+
+Competitive Salary + great benefits
+
+Great culture, hybrid role with career pathways
 
  
 
-What makes a difference for you?
+Our Company
 
-The opportunity to be part of the second-largest Queensland employer who has been leading by example as a proud not-for-profit, for more than 100 years.
+Belgravia is the fastest growing, sports and leisure, health and wellness organisation in Australia. Comprised of multiple businesses, our core areas of business include health clubs, programs, tourism, wellness, destination spa reports, golf, aquatic and sporting venues in 250+ locations across Australia and New Zealand. 
 
-·       Flexible work arrangements to support work-life balance.
+We are in an exciting period of growth and looking for a talented FP&A Manager
 
-·       Access to salary packaging, meal and entertainment benefits - up to $15,900 per year tax free as well as up to $2,650 of your pre-tax income to pay for meal and entertainment benefits. To learn more about this benefit watch the video via the following link: Salary Packaging Explained     
+The Role
 
-·       A recognition and rewards platform, providing employee discounts at hundreds of retailers, including everyday expenses, holidays, health insurance, a wellbeing program and employee assistance program.
+Reporting directly into the General Manager - Finance, the Financial Performance & Analytics Manager will be responsible for leading and managing the financial planning and analysis function of the organisation, overseeing budgeting, forecasting, and financial reporting processes.
 
-·       Career development opportunities to challenge yourself, grow and make a meaningful difference
+The FP&A Manager is also the senior conduit between finance and operations, leading analysis, modelling, budgeting and process improvements for specific areas of the organisation, converting financial and operational data into actionable insights for decision-making. The Financial Performance & Analytics Manager will also lead and coordinate the team to support tender processes and review and analysis at industry level to support the development of strategy and entity wide budgeting.
 
-·       12 weeks paid parental leave and 2 weeks paid partner leave, available after 6 months service, in addition to the government scheme.
 
-·       Diversity and inclusive leave, offering paid gender affirmation leave and cultural leave options (paid and unpaid) for those who may celebrate Lunar New Year, Diwali, Ramadan, NAIDOC weeks and other significant cultural events.
 
- 
 
-Diversity & Inclusion   
+Key Accountabilities
 
-Our approach is simple – everybody is welcome here.  At UnitingCare, diversity is at the core of our who we are, our mission and our values. We are committed to providing equal opportunities to all employees no matter their sex, race, culture, sexual orientation, disability or gender identity. Demonstrating our commitment to reconciliation and building long-term employment opportunities for First Nations peoples, UnitingCare strongly encourages Aboriginal and Torres Strait Islander applicants for this position.    
+Leadership
 
-Safe workplace   
+• Lead and manage the FP&A function, ensuring accurate and timely financial reporting, forecasting, and budgeting
 
-We work hard to make our services welcoming and safe for every person. We are united in keeping children, young people and the elderly safe from harm, within our services, workplaces and the communities we support. We are committed to speaking up loudly for their safety.   
+• Provide strategic recommendations to support the organisations financial objectives and operational efficiencies.
 
-Child safe, Child friendly 
+• Work across multiple sources of data to enhance the efficiency and availability of insightful data through PowerBI, key metrics and strategic reporting tools.
 
-UnitingCare is committed to being a Child Safe, Child Friendly organisation and will provide welcoming, safe and nurturing services for children, implement measures to prevent child abuse and neglect within our services and appropriately and immediately address child abuse and neglect if it does occur."
-87213774,Policy Administration System (PAS) Product Analyst,CBHS Health Fund Limited,https://www.seek.com.au/job/87213774?type=standard&ref=search-standalone&origin=jobCard#sol=55eaf4ddcb1c4428e22de3ec65ad5cff20e76b08,1h ago,1.0,2025-09-16T00:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"Join the Experience and Transformation Team as a PAS Product Analyst – Drive System Innovation & Member/Employee Experience
+• Collaborate closely with executive and the Financial Accounting team to provide financial insights that drive informed decision-making across the organisation
+
+• Conduct comprehensive financial analysis, identifying trends, opportunities, and areas for improvement FP&A process
+
+• Ensure compliance with financial regulations and policies, maintaining the highest level of accuracy and integrity in financial reporting.
+
+• Help drive process improvement across the function.
+
+• Prepare and deliver monthly, quarterly, and annual financial performance reports for the General Manager – Finance.
+
+• Prepare and support the development of business cases, ensuring recommendations meet the needs of the contract and are financially sound
+
+• Support the business development team in evaluating tenders and providing insight and analysis for both new and existing opportunities Operations
+
+• Collaborate with Operations to prepare accurate budgets and forecasts and ensure the team act as a conduit between Operations and Financial Accounting
+
+• Lead analysis of customer/partner contracts through the provision of detailed and relevant financial and non-financial analysis, advice, reports and formulated recommendations
+
+• Provide analysis and insight to support the provision of financial information to Centre Managers, Heads of, Business Operation Managers, Belgravia management, and Contract Partners/Franchisees.
+
+• Prepare reports and presentations for Contract Partners with the purpose of informing them of financial performance, risks, corrective actions and opportunities
+
+• Assist operations align with financial goals by providing insights on cost-saving opportunities and resource optimization.
+
+• Leverage PowerBI to improve reporting processes, ensuring data integrity, to maintain accuracy, completeness, consistency and validity data
+
+• Evaluate PowerBI reports to deliver industry-standard comparisons and benchmarks for business cases and budgeting.
+
+• Present financial and operational information into actionable insights for strategic decision making by senior management
+
+• Support the development of venue managers financial acumen, proactively educate and challenge managers to understand and utilise the advice and information for decision-making, financial stewardship, measurement and achievement
+
+• Prepare and support the development of business cases, ensuring recommendations meet the needs of the contract and are financially sound
+
+• Identify any contractual and financial risks and proactively escalate these to management including business operations managers or health & fitness managers
+
+• Maximise business growth and results
+
+• Identify and address performance gaps in operating standards
+
+• Make appropriate decisions in-line with business standards
+
+• Positively promote your employer
+
+• Learn about and adhere to all company policies
+
+• Perform other duties reasonably directed by the company
+
+The ideal candidate
+
+Essential
+
+• Degree qualification with CA/CPA
+
+• Expert business partnering experience in a similar position in financial planning and analysis management ideally within a medium to large organisations
+
+• Experience in automation and driving continuous improvement across an FP&A function
+
+• Experience leading an FP&A or business partnering team
+
+• Strong experience with excel, modelling and dashboards
+
+• Good interpersonal skills
+
+• Commitment to own personal development
+
+• Enthusiastic, hardworking, flexible, and looking for a challenge
+
+Desirable
+
+• Experience with statutory reporting
+
+• Experience with Microsoft Dynamics (Business Central)
+
+Qualification and Education Requirements
+
+• Qualified Accountant/ Bachelor degree in Business/Commerce/Finance
+
+• Current Working with Children Check (or Equivalent)
+
+• National Police Check"
+87216399,Applications and Data Manager,Emmbr,https://www.seek.com.au/job/87216399?type=standard&ref=search-standalone&origin=jobCard#sol=75d8bcac26fbaa4b1df4db4cb71a45ce3dc50059,1h ago,1.0,2025-09-16T02:00:00+00:00,Melbourne VIC,Management (Information & Communication Technology),Full time,$160k - $180k p.a. + +super,"Applications & Data Manager
+
+Location: Melbourne CBD | Permanent, Full-time
+
+We're on the lookout for more than a tech lead, we need a communicator, collaborator and problem-solver who can bring people together through technology.
+
+This is a hands-on leadership role where you'll guide a small team, own our enterprise applications (Dynamics 365 Finance, Power Platform, SharePoint) and unlock insights through data. Just as important, you'll partner with stakeholders across the business, translate complex tech into clear outcomes, and build strong relationships along the way.
+
+What you'll do
+
+Lead and mentor a small applications & data team
+
+Manage and enhance core systems including D365, Power Platform and SharePoint
+
+Shape data and reporting strategy, driving insights with Power BI
+
+Communicate with impact - making the complex simple for stakeholders
+
+Explore opportunities in AI and automation to keep us ahead
+
+What you'll bring
+
+Proven leadership in applications and/or data platforms
+
+Strong Microsoft D365 and Power Platform skills
+
+Excellent communication and stakeholder engagement abilities
+
+A collaborative, approachable style with strong soft skills
+
+Curiosity for new tech and how it creates business value
+
+Why you'll love it here
+
+You'll join a collaborative IT team where soft skills are just as important as technical know-how. If you thrive on engaging people, simplifying the complex and delivering tech that makes a real impact, this is the role for you."
+87215991,Actuarial Manager,Compare Club,https://www.seek.com.au/job/87215991?type=standard&ref=search-standalone&origin=jobCard#sol=968f30dfc60107b70843c89800cfc7f96381962e,1h ago,1.0,2025-09-16T02:00:00+00:00,Sydney NSW (Hybrid),Actuarial (Insurance & Superannuation),Part time,,"We’re looking for an experienced Actuarial Manager to take ownership of the valuation of Compare Club’s trail commission portfolios across Health Insurance, Life Insurance, Overseas Visitors Insurance and Lending. This is a strategic part-time role (approx. 1–2 days per week) that combines technical expertise, business partnering, and the opportunity to make a measurable impact in a growing organisation.
+
+Why Join Us?
+
+Strategic impact – influence decision-making at the executive level.
+Growth environment – be part of a dynamic business backed by private equity.
+Engaging work – apply actuarial modelling and financial analysis to support key commercial outcomes.
+What you’ll do
+
+Lead monthly valuation of future trail commissions (NPV) and provide variance analysis vs forecast.
+Deliver insightful reports and commentary on drivers such as cancellation rates, premium variances, and commission changes.
+Partner with Finance and Commercial leaders to highlight risks, opportunities, and actions.
+Support and enhance Python-based actuarial models, ensuring audit-standard documentation and integrity.
+Manage borrowing base updates under Compare Club’s Life Trail Book Securitisation Debt Facility.
+Respond to audit, commercial, and executive information requests with accuracy and clarity.
+What we’re looking for
+
+Strong actuarial modelling skills with hands-on experience in Python (Pandas, NumPy, SciPy) plus SQL and Excel.
+Experience with GLMs for pricing, retention, or premium modelling.
+Ability to translate technical results into clear insights for non-technical stakeholders.
+Detail-oriented, with excellent communication and documentation discipline.
+5+ years’ experience in an actuarial, valuation, or analytics role – ideally in life, health, or general insurance.
+Associate/Fellow of the Institute of Actuaries of Australia (or equivalent) – highly regarded.
+About You
+You’re a proactive, technically strong actuary who enjoys diving deep into models while keeping an eye on the bigger commercial picture. You thrive on ownership, collaboration, and problem solving, and you’re ready to bring your expertise to a fast-moving, growth-focused organisation.
+
+About Compare Club
+Compare Club helps Australians make better decisions on some of life’s biggest expenses – health insurance, life insurance, energy, mortgages and more. We’re a passionate team, united by a focus on delivering great outcomes for our customers and driving growth through innovation.
+
+Ready to Apply?
+If you’re looking for a part-time, high-impact actuarial leadership role with flexibility and challenge, we’d love to hear from you."
+87215841,Integration Analyst,Perpetual Services Pty Limited,https://www.seek.com.au/job/87215841?type=standard&ref=search-standalone&origin=jobCard#sol=f1195516021f23dd4fc866f2056e9716a8a2a381,1h ago,1.0,2025-09-16T02:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Join a skilled team where your technical expertise makes a meaningful impact
+More Time Off for What Matters: Enjoy up to 6 weeks of leave
+Hybrid working environment
+
+
+Perpetual Group is an ASX-listed company (ASX:PPT) headquartered in Sydney, Australia, currently consisting of 11 leading brands across three distinct businesses: Asset Management, Wealth Management and Corporate Trust.
+
+
+Perpetual Asset Management is a global multi-boutique asset management business offering an extensive range of specialist investment capabilities through seven boutiques and brands in key regions globally. Within Australia, Perpetual and Pendal have a broad range of capabilities across Australian and global equities, credit, fixed income, multi-asset and ESG. We have a growing presence in the US, UK and Europe through our brands Barrow Hanley, Trillium, JO Hambro, Regnan, and TSW.
+
+
+About the role
+
+The Integration Analyst delivers sustainable integration solutions aligned with approved architectures and strategic goals. Key responsibilities include analysing requirements, leading technical design and documentation, managing platforms like GlobalScape and Boomi, supporting BAU operations, and collaborating with stakeholders to deliver and maintain integrations.
+
+Be part of a collaborative, forward-thinking team where your technical expertise drives real business impact. You'll work with modern integration platforms, lead solution design, and contribute to strategic projects in a supportive environment that values innovation, growth, and flexibility.
+
+
+Key Responsibilities:
+
+Provide technical analysis for integration development and participate in implementation.
+
+Be a key member of the project/solution working group to analyse and present design & technical implementation approaches. Ensure meeting outcomes are documented.
+
+Ensure solution governance processes are complied with (Solution architecture board, technical design forums etc).
+
+Ensure solutions are implemented as per approved architectures and designs. Security by design is a key outcome to uphold.
+
+Ensure Technology documentation and knowledge is effectively handed over to Support teams and then kept up to date once solution has been transitioned to support.
+
+Broker technical issue resolution where multiple parties are involved. Escalate where required.
+
+Advise Technology and Business application owners on risks of proposed solutions options.
+
+Liaise with Business application owners and their delegates to understand and solve business problems leveraging the integration platforms.
+
+Lead integration designs through a business lens demonstrating integration as a component that supports the end-to-end business process.
+
+
+What We're Looking For:
+
+
+Tertiary qualification in Computer Science or a related field
+
+5-10 years of IT experience, including 3+ years in integration design using platforms like GlobalScape and MFT/SFTP
+
+Strong knowledge of security protocols (encryption, SSL/TLS, digital certificates, access controls)
+
+Experience with API architecture and implementation, SQL (queries and stored procedures), and cloud platforms (preferably Azure)
+
+Experience migrating integrations between platforms
+
+Preferred experience in financial services and tools such as ServiceNow, LogicMonitor, Qualys, and TFS
+
+Strong analytical, troubleshooting, and communication skills
+
+Ability to work collaboratively with diverse stakeholders and broker technical decisions
+
+Self-motivated, with the ability to balance strategic and hands-on work
+
+Willingness to provide after-hours and weekend support when required
+
+
+How we work
+
+Our unique culture is underpinned by our three organisational behaviours, Stretch, Own it, Make an impact which drive our approach of day-to-day interactions with colleagues and clients, the way we approach decision-making to the questions we ask and the problems we solve.
+
+
+Employee benefits
+
+
+Work from anywhere in Australia for up to one month each year
+
+An annual allowance to empower you to prioritise your personal wellbeing
+
+Study support and commitment to supporting professional development
+
+
+Diversity and inclusion
+
+
+Strong commitment to all aspects of Diversity and Inclusion through a robust 7 pillar strategy
+
+A growing number of employee-led networks who work to raise awareness and drive continued change
+
+We support over 50 First Nations Communities, helping to secure the communities' future. We encourage applications from Aboriginal and Torres Strait Islander People
+
+
+We're committed to creating an inclusive workplace where diversity is celebrated. No matter your background or circumstances, we aim to provide an environment where you can thrive."
+87215767,Senior Business Analyst - Agile Technology Engagement,SEEK Limited,https://www.seek.com.au/job/87215767?type=standard&ref=search-standalone&origin=jobCard#sol=01cfa2cb7cb5eed1b8f488250e58845c5af7367d,1h ago,1.0,2025-09-16T02:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+
+To apply, please attach a covering letter outlining your interest in the role.
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+The Team
+
+As a Senior Business Analyst, you will work within the Enterprise Technology Services group, reporting to the Senior Manager Technology Solutions Partnering. You'll be part of a specialised team focused on delivering technology solutions and service excellence across APAC, working in close partnership with the Senior Service Delivery Manager - Corporate Platforms.
+
+You will collaborate regularly with:
+
+Technology Solution Partners
+Corporate platform technology teams responsible for Workday, ServiceNow, Atlassian and other Corporate platform projects and initiatives
+Architecture teams ensuring platform alignment with enterprise standards
+Security teams for compliance and risk management
+Data Ops and Data Privacy teams f
+Vendor Management for third-party relationships and contract oversight
+DR & Resilience teams for business continuity planning
+Service Management teams for operational excellence
+
+Your primary stakeholders include Corporate Service functions and Technology across APAC, but will include the broader business as required.
+
+Job Description
+
+The Role
+
+As a Senior Business Analyst, you will lead complex business analysis and iteration management to ensure successful initiative outcomes across our APAC business.
+
+You will operate across multiple technology initiatives and support strategic system implementations and operational service delivery improvements for Workday, ServiceNow, Atlassian, and related enterprise applications.
+
+You’ll be responsible for crafting detailed documentation of intricate requirements and identifying key opportunities for process optimisation across Finance and People & Culture functions. You'll leverage agile methodologies to drive service management excellence while leading initiatives through ideation to completion. 
+
+You will also lead iterative development and refinement processes to enhance overall project delivery. Crucially, you will serve as the bridge between business stakeholders and technical teams to translate complex requirements into actionable solutions for corporate platform technologies.
+
+Key Responsibilities
+
+Establish initiative scope, objectives, and deliverables. Contribute to validating requirements and gathering feedback throughout the lifecycle.
+Lead comprehensive shaping activities for corporate platform initiatives including business case development, problem statement definition, and project scope boundaries with primary focus during Ideation and Evaluation phases.
+Manage and coordinate gathering and documentation of complex business requirements, user stories, use cases, and acceptance criteria for corporate platform implementations.
+Facilitate solution design workshops and collaborative sessions with the business and broader Technology teams across APAC.
+Conduct detailed 'As-Is' and 'To-Be' process mapping, user personas development, story mapping, and solution prioritisation activities.
+Analyse system capabilities against business requirements and integration needs.
+Support strategy formulation including solution options identification, analysis, and recommendation development.
+Partner with the Senior Service Delivery Manager to develop, maintain, and deliver service performance reporting, including KPI dashboards, trend analysis, and executive-level insights.
+Conduct business process analysis, service assessments, and maturity evaluations to identify improvement opportunities within platform service delivery.
+Support teams by managing Jira board and product backlog hygiene, writing clear user stories, driving agile sprint cycles, and implementing automation solutions.
+Champion the adoption of agile methodology across Corporate Platform functions.
+Run and participate in Agile ceremonies.
+Develop test cases, support in testing and verifying corporate platform solutions.
+Identify and assess risks associated with initiatives, developing mitigation strategies in collaboration with Security and DR & Resilience teams.
+Contribute to and lead iteration planning and backlog refinement and grooming, monitor and track progress to ensure smooth delivery.
+Participate in communication with third-party vendors and suppliers.
+Qualifications
+
+Essential Skills and Experience
+
+Extensive experience in leading business analysis efforts and developing comprehensive documentation
+Experience with corporate platforms including Workday, ServiceNow, Atlassian, and similar enterprise applications
+Strong stakeholder management and communication skills with proven ability to facilitate complex workshops and requirements sessions
+Deep expertise in using Agile methodologies and driving best practices for execution
+Exceptional context-switching abilities with demonstrated experience managing multiple concurrent work streams with different stakeholder groups
+Knowledge of service level management, performance measurement, and continual service improvement techniques
+Experience in supporting change management processes and risk management in complex initiatives
+Expertise in business analysis tools (e.g., JIRA, Confluence, Miro) and business process modelling techniques
+Deep knowledge of Finance and HR business processes and technology requirements  
+Additional Information
+
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the
+The opportunity to work from anywhere for up to 4 weeks per financial year
+Tailored career development planning (including Education Assistance Program)
+Free income protection insurance
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+87215722,Senior Data Platform Engineer,Insignia Financial Ltd,https://www.seek.com.au/job/87215722?type=standard&ref=search-standalone&origin=jobCard#sol=e0965d135e9784fa0f6d8848a26c4021bfabafab,1h ago,1.0,2025-09-16T02:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,Competitive salary package + range of benefits,"Company description:
+
+
+
+Insignia Financial Limited is an Australian financial services company which offers a range of products and services including financial advice, superannuation, investment management and trustee services
+
+
+
+Job description:
+
+
+Make your move. Make your mark
+Put your fingerprints on the future to progress your career
+Make a difference, make it meaningful
+
+The opportunity to join our team
+
+We're looking for a Senior Data Platform Engineer to own our critical data platforms and ensure they run smoothly, securely, and efficiently. This is a chance to use your expertise to maintain the backbone of our data ecosystem and apply your DevOps skills in a data context.
+
+The focus of this role is squarely on data platform engineering, so your hands-on experience with cloud technology and with tools like terraform and Jenkins is essential to drive success. You'll make a direct impact on data quality, governance, and platform reliability by applying your expertise to the core tools we use.
+
+Key Responsibilities:
+
+Manage and maintain critical data platforms and applications, ensuring reliability, uptime, and high-quality data
+Support data lakes, warehouses, and ingestion pipelines, diagnosing and resolving technical issues
+Own platform health, upgrades, patching, and security, proactively addressing vulnerabilities
+Apply DevOps skills with Jenkins, CI/CD pipelines, Docker, and infrastructure-as-code (Terraform)
+Work with GCP and AWS to manage and automate cloud infrastructure
+Mentor junior engineers and drive improvements in automation, efficiency, and data governance
+
+What you will bring
+
+Proven extensive experience in data engineering, data platform management, or a similar role
+Expert in modern data platforms and ETL/ELT tools, with strong SQL and scripting (Python, Java)
+Hands-on experience with GCP (essential) and AWS
+Proficient in infrastructure-as-code (Terraform), CI/CD (Jenkins), and DevOps practices including containerization (Docker)
+Experience leading and mentoring junior engineers
+Fast learner, hits the ground running, and communicates effectively with technical and non-technical stakeholders
+
+Find the better way
+
+What gets us excited about working here? Helping people feel good about their money as one of Australia's leading financial wellbeing organisations. From those starting out to those retiring. As your team, we'll show up for you and together we will create financial wellbeing for every Australian. Because we know people who are confident about their financial future live better lives.
+
+If this sounds like your kind of career, you sound like our kind of person. With us, you'll do work that builds your technical know-how and challenges our entire industry to move forward. Along the way, you'll be free to explore new ideas and technology, solve problems in a team, and independently to get great things done. Around here, we like to call it ""putting our fingerprints on the future"".
+
+People-inspired tech
+
+Deep expertise combined with creativity can take on the trickiest of problems. Join our team of brilliant minds and mentors as we explore our way to innovation and apply technology in more human ways than ever.
+
+To Apply
+
+Read more here about why you should join our team.
+
+Applicants will be required to provide evidence of their eligibility to work in Australia, and at a minimum be required to undertake police and basic credit checks as a condition of employment.
+
+Please note that applications from agencies will not be considered at this time.
+
+We acknowledge and celebrate the richness that individual differences bring to our team. If you need assistance or an adjustment during the application process, please reach out and let us know."
+87213774,Policy Administration System (PAS) Product Analyst,CBHS Health Fund Limited,https://www.seek.com.au/job/87213774?type=standard&ref=search-standalone&origin=jobCard#sol=33d8adbf0bba07a9f76faf936b473dd163fd2a6a,2h ago,2.0,2025-09-16T01:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"Join the Experience and Transformation Team as a PAS Product Analyst – Drive System Innovation & Member/Employee Experience
 
 Are you passionate about technical analysis, process improvement, product management and delivering exceptional member and employee experiences? CBHS is seeking an experienced PAS Product Analyst to join our dynamic team, supporting the implementation and management of our Policy Administration System (PAS) Governance Framework.
 
@@ -162,7 +738,7 @@ Advance your career by developing your technical, analytical, and stakeholder ma
 During the selection process, candidates will be required to undergo additional background checks including verification of experience and qualifications. in determining their suitability for the role. Successful candidates will also need to agree to undergo a National Police Check.
 
  Please note only successful applicants will be contacted."
-87213699,Change Delivery Manager,Auto & General,https://www.seek.com.au/job/87213699?type=standard&ref=search-standalone&origin=jobCard#sol=7c5efcff470e5b27619d5d8733dc53916e1245bb,1h ago,1.0,2025-09-16T00:00:00+00:00,"Toowong, Brisbane QLD",Programme & Project Management (Information & Communication Technology),Full time,,"About the Role
+87213699,Change Delivery Manager,Auto & General,https://www.seek.com.au/job/87213699?type=standard&ref=search-standalone&origin=jobCard#sol=1222cd9af2111214e6c32005d8dd527228796308,2h ago,2.0,2025-09-16T01:00:00+00:00,"Toowong, Brisbane QLD",Programme & Project Management (Information & Communication Technology),Full time,,"About the Role
 
 This role requires a strategic leader with a strong foundation in business analysis. You'll be responsible for translating complex business needs into actionable solutions, ensuring projects deliver tangible value. This involves:
 
@@ -226,7 +802,7 @@ We’re excited about the future and we’re always on the lookout for talented,
 Auto & General values individual differences and believes in fostering an inclusive culture that creates a great place to work for all.
 
 *A note from Auto & General to recruitment agencies: We politely ask that you avoid making any approaches or sending any unsolicited resumes to our Recruitment Team or Hiring Leaders across our business. Auto & General is not responsible for any fees related to unsolicited resumes."
-87212869,Solution Architect - Data & Integration,Talenza,https://www.seek.com.au/job/87212869?type=standard&ref=search-standalone&origin=jobCard#sol=ce65fdaa8b494ddafd693bfb73930e91a1396392,2h ago,2.0,2025-09-15T23:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Solution Architect - Data and Integration.
+87212869,Solution Architect - Data & Integration,Talenza,https://www.seek.com.au/job/87212869?type=standard&ref=search-standalone&origin=jobCard#sol=b9e02fc1262273cd347afdacccef2784006128fd,3h ago,3.0,2025-09-16T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Solution Architect - Data and Integration.
 
 Join a leading organisation driving digital transformation across both corporate IT and operational technology environments. As the Data and Integration Architect, you'll play a pivotal role in shaping and implementing scalable, secure, and future-ready architecture that supports critical business operations, analytics, and decision-making.
 
@@ -266,7 +842,7 @@ Strong communication with both technical and business audiences.
 Analytical and problem-solving mindset.
 Collaborative approach across cross-functional teams.
 Innovative and forward-looking in tech adoption."
-87212781,Senior Business Analyst,Humanised Group,https://www.seek.com.au/job/87212781?type=standard&ref=search-standalone&origin=jobCard#sol=52b98c6fc013d74d15e63f2d34426636758d28f4,2h ago,2.0,2025-09-15T23:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Analyst (Engineering & Digital Transformation)
+87212781,Senior Business Analyst,Humanised Group,https://www.seek.com.au/job/87212781?type=standard&ref=search-standalone&origin=jobCard#sol=6c70239e11696e02c361067e9abb4b74878d5531,3h ago,3.0,2025-09-16T00:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Analyst (Engineering & Digital Transformation)
  
 Background
 A major organisation in the energy sector is undergoing significant transformation, with a strong focus on modernising project delivery through digital technologies. The organisation delivers large-scale, regulated projects and is investing in digital platforms and tools to enhance governance, efficiency, and scalability.
@@ -313,7 +889,7 @@ High-quality artefacts including process maps, business cases, and governance do
 Risk, issue, and dependency registers maintained for program visibility.
 Active support for testing, migration, and go-live activities.
 Successful operational handover and adoption of new solutions."
-87212382,Senior Technology Solutions Partner,SEEK Limited,https://www.seek.com.au/job/87212382?type=standard&ref=search-standalone&origin=jobCard#sol=7b056fdb085392dfab39f906c7f9af5594c13986,2h ago,2.0,2025-09-15T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Programme & Project Management (Information & Communication Technology),Full time,,"Company Description
+87212382,Senior Technology Solutions Partner,SEEK Limited,https://www.seek.com.au/job/87212382?type=standard&ref=search-standalone&origin=jobCard#sol=e59b33ae319cd1b6d6adf3992a2e25b4be2b5f0c,3h ago,3.0,2025-09-16T00:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Programme & Project Management (Information & Communication Technology),Full time,,"Company Description
 
 To apply, please attach a covering letter outlining your interest in the role.
 
@@ -423,7 +999,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-87211750,Reporting & Strategy Analyst,Origin,https://www.seek.com.au/job/87211750?type=standard&ref=search-standalone&origin=jobCard#sol=ff07a8b91cdf4a2e4f5173e4531b4bde67372e15,3h ago,3.0,2025-09-15T22:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,,"Grow where you matter most
+87211750,Reporting & Strategy Analyst,Origin,https://www.seek.com.au/job/87211750?type=standard&ref=search-standalone&origin=jobCard#sol=16bdef70f1aeacfd8ebbc3df949a4b70f7eafd23,4h ago,4.0,2025-09-15T23:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,,"Grow where you matter most
 
 At Origin, being All Kinds of Useful starts with people like you, the ones showing up every day to make a difference for our customers. As we expand the way that we serve Australians - including providing internet, new products, and more to come - your next challenge could be closer than you think right here at Origin.
 
@@ -505,7 +1081,7 @@ Background checks may be required to determine your suitability for this positio
 Please note unsolicited CVs from agencies will not be accepted.
 
 Origin recognises Aboriginal and Torres Strait Islander Peoples as the Traditional Custodians of country throughout Australia, and we pay our respects to Elders past, present and future."
-87211690,Finance Business Partner | ASX Top 100,Sharp & Carter South East Melbourne,https://www.seek.com.au/job/87211690?type=standard&ref=search-standalone&origin=jobCard#sol=39b06a876b23ba33cdbf3db1cd53a1d38d91ec99,3h ago,3.0,2025-09-15T22:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Accounting),Full time,,"The Role: 
+87211690,Finance Business Partner | ASX Top 100,Sharp & Carter South East Melbourne,https://www.seek.com.au/job/87211690?type=standard&ref=search-standalone&origin=jobCard#sol=f619c5be32c7a59cb510993f729ecd9caf46d739,4h ago,4.0,2025-09-15T23:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Accounting),Full time,,"The Role: 
 As a trusted business partner to the Senior Leadership Team you will be responsible for providing commercial and financial expertise to the business with a focus on strategic planning, forecasting, budgeting, financial modelling and analysis.
 
 Key tasks will include:
