@@ -1,5 +1,253 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87221524,Senior Data Engineer (perm/contract),Software At Scale,https://www.seek.com.au/job/87221524?type=standard&ref=search-standalone&origin=jobCard#sol=265b58c924d6ecba12b530554bf3307bd1ef1bdc,1h ago,1.0,2025-09-16T04:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior Data Engineer – Microsoft Fabric /SQL
+87226213,Embedded Software Engineer,Seitec,https://www.seek.com.au/job/87226213?type=standard&ref=search-standalone&origin=jobCard#sol=fd963312221825de705228d231c4d23c6dcad5fc,1h ago,1.0,2025-09-16T05:00:00+00:00,"Fyshwick, Canberra ACT (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About SEITEC
+
+Our vision is to become a global leader in seismic target detection and tracking solutions. Following our commercialisation in 2021, we have developed two core products NIGHTINGALE and UXOTRACKS, our software-defined, deployable seismic sensor systems to help our customers see things, find things and anticipate things.
+
+Our products leverage cutting-edge AI to track specific targets of interest for our customers. Our highly skilled hardware and software engineers are at the forefront of this unique technology, ensuring that we deliver a revolutionary approach to seismic detection systems.
+
+About the opportunity
+
+We're looking for a talented Embedded Software Engineer to build, scale and support complex sensor systems operating in real-world environments.
+
+In this role, you'll design and implement embedded software that runs on STM based systems, contributing to the core functions of real-time data processing, seismic/acoustic spectrum signal detection, and automated responses to detected events over low-bandwidth communications channels.
+
+As our Embedded Software Engineer, you'll be at the heart of our STM32-based seismic sensor development, writing efficient embedded C to bring our research to life. You'll take algorithms crafted in MATLAB and Python (including Scikit-learn and TensorFlow) and translate them into streamlined, real-time C code. You'll also drive the implementation and optimisation of LoRa/LoRaWAN communications, enabling our systems to operate reliably in the most remote and demanding conditions.
+
+Candidates must have proficiency in C programming language for firmware development.
+
+You will collaborate with our diverse team of technical experts spanning AI/ML, data science, hardware and software engineering, and cloud infrastructure to create robust solutions capable of handling mission-critical workloads. The software you build will directly support applications in security, defence, and remote surveillance.
+
+At SEITEC, you're ultimately responsible for the success of our technology, through effective engineering delivery, ensuring that each product release meets the highest standards of functionality and performance.
+
+About you
+
+SEITEC's engineers are proudly committed to our vision and mission. We genuinely love what we do, keeping us motivated and focused. We thrive on being challenged.
+
+We have extensive experience developing high reliability software. We're seeking like-minded people with a proven track record in building complex technologies that integrate hardware, software, and cloud-based components.
+
+Specifically, we are looking for candidates with:
+
+At least 5 years software engineering experience
+
+Tertiary qualifications in Software Engineering or Computer Science
+
+Australian citizen, with the ability to obtain a Defence Security Clearance
+
+Proven experience developing applications in modern C on resource constrained systems
+
+Strong problem solving and analytical skills
+
+Excellent interpersonal skills with the ability to effectively communicate complex ideas
+
+Strong understanding of software engineering fundamentals, with demonstrated use in real-time embedded systems. Including but not limited to: ACID properties, idempotency, abstraction and modularity, unit testing and code reviews.
+
+And bonus points for:
+
+Background working in a dynamic start-up or early-stage scale-up
+
+Experience with STM-based systems
+
+Hands-on experience building spec-compliant LoRaWAN end devices
+
+Solid understanding of concurrency & distributed systems
+
+Some experience in machine learning, seismic/acoustic signal processing, and/or general DSP
+
+Experience building systems for remote and inaccessible environments.
+
+Your interpersonal skills
+
+We value the breadth and depth of experience that our people bring to their work. We are seeking teammates with a strong mix of technical competency and interpersonal skills.
+
+As a key support to the CTO, you will tackle unique technical challenges that demand lateral thinking. You are an accountable software engineer, fully invested in the team's success.
+
+At this point, we hope you're feeling excited about the job description you're reading. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We always aim to recruit the candidate who is most suited to the job and welcome applications from people of all backgrounds.
+
+For a confidential discussion, please contact Glen from our HR team on 0439 637 427.
+
+To apply, please include an updated resume and a cover letter outlining your interest in the role, and how you could make a difference at SEITEC.
+
+For more information, visit:
+
+https://seitec.com.au
+
+Applications close Sunday 28 September 2025"
+87226010,Graduate Configuration Management Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/87226010?type=standard&ref=search-standalone&origin=jobCard#sol=929e63c53bfd7404d2cc0f6595068f176dca39fc,1h ago,1.0,2025-09-16T05:00:00+00:00,"Mawson Lakes, Adelaide SA",Networks & Systems Administration (Information & Communication Technology),Full time,,"About us:
+
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
+ 
+
+Your responsibilities will include:
+
+We are seeking a motivated Graduate Configuration Management Engineer to join our team. This role offers a unique opportunity for a recent engineering graduate who wants to apply their technical knowledge in a varied and dynamic position. You will play a key part in ensuring the integrity, traceability, and control of complex system configurations across the product lifecycle.
+As part of the Configuration Management (CM) team, you will work closely with engineering, and project teams to manage product structures, parts data, and design changes. You will gain hands-on experience with IBM Jazz and PTC’s PLM tool Windchill to establish and maintain configuration baselines across multiple engineering environments, ensuring that all teams remain aligned as products evolve.
+This role is ideal for someone who enjoys working at the interface of engineering, process, and data management, with the chance to see the bigger picture of how systems come together.
+
+Key Responsibilities
+
+Support the creation, management, and control of product structures, parts lists, and Bills of Material (BoMs).
+
+Maintain configuration baselines across tools (e.g., IBM Jazz, Windchill, 3D CAD) and ensure traceability of changes throughout the product lifecycle.
+
+Assist with the preparation and release of engineering changes.
+
+Collaborate with engineering teams to ensure correct design data, CAD models, and documentation are captured and controlled.
+
+Work with project managers and systems engineers to maintain alignment between design intent and delivered product.
+
+Contribute to the continuous improvement of CM processes, tools, and reporting.
+
+Provide configuration data and reports to support design reviews, audits, and customer deliveries.
+
+About you:
+
+Skills & Qualifications
+Essential:
+
+Recent degree in Mechanical, Electrical, Aerospace, or Systems Engineering (or related field).
+
+Strong understanding of engineering fundamentals.
+
+Attention to detail with the ability to work methodically and accurately with technical data.
+
+Good communication skills for collaborating across engineering and project teams.
+
+Curiosity and willingness to learn about systems, processes, and digital engineering tools.
+
+Desirable:
+
+Interest in how complex systems (aerospace, defence, automotive, or similar) are designed, built, and maintained.
+
+Familiarity with IBM Jazz, PLM tools, or ERP systems.
+
+Knowledge of configuration or data management principles (EIA-649 or similar).
+
+Understanding of parts, product structures and configuration baselines and how they are managed across multi-tool environments
+
+
+
+
+Special Requirements:
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace:
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. 
+ 
+
+What we offer you:
+
+When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
+We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
+
+Flexible work & Hybrid work options
+
+Access to our online discounts program offering immediate discounts or cashback
+
+A variety of leave options including Purchase Leave to support you and your family  
+
+Additional benefits such as Novated Leasing and Fitness Programs
+
+Learning & Development platforms to encourage ongoing self-development
+
+
+
+
+Equal Opportunity Statement
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees’ unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+87225703,Data Scientist,National Heavy Vehicle Regulator,https://www.seek.com.au/job/87225703?type=standard&ref=search-standalone&origin=jobCard#sol=0eaa640cd309f4facbafa0e44e3182bc5c640c53,1h ago,1.0,2025-09-16T05:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Database Development & Administration (Information & Communication Technology),Full time,"$132,034.85 per annum + superannuation + RDO","The Data Scientist is responsible for proposing and prioritising data-driven regulatory solutions, conducting advanced analytics to uncover actionable insights and root causes, deploying predictive models to identify and mitigate high-risk situations, leading the development of new risk models, and ensuring the long-term performance and ethical integrity of all data science solution.
+
+Key responsibilities of this role are:
+
+Develop statistical learning models and custom algorithms.
+Collaborate with internal teams and subject matter experts.
+Communicate findings to decision-makers.
+Document technical and business solutions.
+Promote a safe and healthy work environment.
+
+Skills & Capabilities
+
+Strong knowledge of statistical and data mining techniques.
+Experience with machine learning, predictive modelling, and pattern recognition.
+Proficiency in Python, SQL, PySQL, R, and Databricks ML.
+Analytical mindset with strong problem-solving skills.
+Excellent communication and teamwork abilities.
+
+NHVR are currently undertaking growth and considerable transformation, and this is an exciting time to join the organisation.
+
+To learn more, the position description can be found on the NHVR Careers site - https://careers.nhvr.gov.au/jobs/search
+
+About You
+
+To be successful in this role you will possess
+
+Essential:
+
+Degree in computer science, statistics, applied mathematics, or equivalent experience.
+Experience with Databricks AutoML and Microsoft Azure.
+
+Highly Regarded:
+
+Knowledge of the heavy vehicle or transport industry.
+Experience in real-time, high-volume transactional environments.
+
+Why join us?
+
+The National Heavy Vehicle Regulator (NHVR) commenced operations in 2013 as the national entity responsible for regulating all vehicles in Australia over 4.5 tonnes gross vehicle mass. The NHVR minimises the compliance burden on the heavy vehicle transport industry, reduces duplication and inconsistences across state and territory borders, and ultimately for the heavy vehicle business with government in Australia.
+
+We are headquartered in Brisbane and employ more than 1000 people across the ACT, New South Wales, Queensland, South Australia, Tasmania and Victoria.
+
+ We offer- (update as needed depending on role)
+
+A competitive 12 Month Max Contract package based on $132,034.85 per annum + superannuation
+Options for monthly or fortnightly rostered day off.
+Additional paid leave over Christmas closure. 
+Hybrid working environment – up to 2 days from home.
+Up to15.25% superannuation through a co-contribution scheme
+Leave loading 17.5%
+Wellbeing programs – discounted fitness through Fitness Passport, Discount health insurance, flu vaccine, financial programs including discounted banking products, finance information sessions.
+Salary packaging options including novated lease.
+Discounted IT products including Microsoft and free family password security plan.
+Ongoing training and professional development support
+Professional membership
+
+Application Process
+
+Please apply with your CV and cover letter addressing the essential requirements of the role.
+
+Applications close: 5.00pm 22nd September 2025 (applications may close earlier than the listed closing date if suitable candidate/s are identified prior).
+
+If you have any questions, please don’t hesitate to contact the NHVR recruitment team on recruitment@nhvr.gov.au.
+
+Successful applicants will be required to complete standard pre-employment checks including a national police and work rights check.
+
+Please Note: We will not require any support from Recruitment Agencies at this time and kindly request no contact is made. Only direct applications will be considered.
+
+We are committed to being an inclusive, diverse and flexible workplace where differences are valued. We welcome applications from people of all backgrounds, experience and abilities."
+87225693,GenAI Software Engineer,Paxus,https://www.seek.com.au/job/87225693?type=standard&ref=search-standalone&origin=jobCard#sol=87fd171b072109059808264980f6290bbdb98efe,1h ago,1.0,2025-09-16T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are searching for a Senior Software Engineer for an initial 12-month contract. This is a fantastic opportunity to work on cutting-edge AI and cloud-driven projects.
+
+What you'll be working on:
+
+Designing and delivering scalable, reliable, and maintainable software solutions in a modern cloud environment.
+Applying AI/ML and GenAI tools to enhance engineering workflows and improve developer productivity.
+Building Retrieval-Augmented Generation (RAG) systems using frameworks like LangChain, LlamaIndex or similar.
+Contributing to Agentic AI systems leveraging tools such as AutoGen, Semantic Kernel, and Pydantic.
+Developing microservices on AWS or Azure, using programming languages such as Python, TypeScript, or C#.
+Exploring and experimenting with the latest AI coding assistants (e.g., GitHub Copilot, Cursor, Aider, Cline, Continue).
+Collaborating with stakeholders across engineering and business teams to solve complex, business-critical challenges.
+
+What we're looking for:
+
+Strong background in software engineering with proven ability to design scalable systems.
+Hands-on experience with cloud platforms (AWS and/or Azure).
+Exposure to GenAI tools and frameworks (e.g. LangChain, Hugging Face, Llama, Claude, LangGraph, etc.).
+A genuine interest in emerging AI technologies and applying them in real-world scenarios."
+87221524,Senior Data Engineer (perm/contract),Software At Scale,https://www.seek.com.au/job/87221524?type=standard&ref=search-standalone&origin=jobCard#sol=4cbe624f467ace67196c8293da7681354ee7d842,3h ago,3.0,2025-09-16T03:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior Data Engineer – Microsoft Fabric /SQL
 
 Our 'black belt' specialists are leaders in their domains: digital champions, delivery-focused experts, top-tier security professionals, AI thought leaders, and engineering best practice advocates.
 
@@ -54,7 +302,7 @@ Opportunities for professional growth and career progression.
 Competitive compensation.
 
 The chance to work on one of the largest data transformation programs in Australia, with exposure to AI-powered solutions shaping the future of financial services."
-87219249,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87219249?type=standard&ref=search-standalone&origin=jobCard#sol=4c93b045c7368716ebd8afa8161f370f2c93189c,2h ago,2.0,2025-09-16T03:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+87219249,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87219249?type=standard&ref=search-standalone&origin=jobCard#sol=2f62d8eb26e42e6ad3efd672582826773f34d6f2,4h ago,4.0,2025-09-16T02:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
@@ -123,7 +371,7 @@ https://docs.nearmap.com/display/ND/NEARMAP+AI
 For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
 
 Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
-87219307,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87219307?type=standard&ref=search-standalone&origin=jobCard#sol=8e0f89f4e266e75910d8d39dc2bc1ff373c0cd8e,2h ago,2.0,2025-09-16T03:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+87219307,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87219307?type=standard&ref=search-standalone&origin=jobCard#sol=536251df72ccfe1052c2ecb13a4a7c9f6fb15b23,4h ago,4.0,2025-09-16T02:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
@@ -192,7 +440,7 @@ https://docs.nearmap.com/display/ND/NEARMAP+AI
 For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
 
 Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
-87218282,Parkville EMR Data & Devices Analyst,The Royal Children's Hospital,https://www.seek.com.au/job/87218282?type=standard&ref=search-standalone&origin=jobCard#sol=ea42ec9d02bebc8c82579f7262a4cfacb0ce0e63,3h ago,3.0,2025-09-16T02:00:00+00:00,Melbourne VIC,Other (Healthcare & Medical),Contract/Temp,,"The Hospital:
+87218282,Parkville EMR Data & Devices Analyst,The Royal Children's Hospital,https://www.seek.com.au/job/87218282?type=standard&ref=search-standalone&origin=jobCard#sol=6c219ebb307b45126abfe106e7ee58d071ea87ea,4h ago,4.0,2025-09-16T02:00:00+00:00,Melbourne VIC,Other (Healthcare & Medical),Contract/Temp,,"The Hospital:
 
 The Royal Children's Hospital's (RCH) Vision is ""A world where all kids thrive"".
 
@@ -260,7 +508,7 @@ To apply, you will need a resume and a tailored cover letter outlining your skil
 
 Shortlisting for this position will commence immediately, we encourage you to apply promptly!
 For more information about this position please contact Morgan Kerambrun on Email: Morgan.Kerambrun2@rch.org.au"
-87217824,EMR Portals Analyst,The Royal Children's Hospital,https://www.seek.com.au/job/87217824?type=standard&ref=search-standalone&origin=jobCard#sol=9586cf843b36e4364daaef5545f2946a104c8bb5,3h ago,3.0,2025-09-16T02:00:00+00:00,"Parkville, Melbourne VIC",Other (Information & Communication Technology),Contract/Temp,,"The Hospital:
+87217824,EMR Portals Analyst,The Royal Children's Hospital,https://www.seek.com.au/job/87217824?type=standard&ref=search-standalone&origin=jobCard#sol=f86965fd6b13f6c1685b4b3e9e3f5ad416c23801,4h ago,4.0,2025-09-16T02:00:00+00:00,"Parkville, Melbourne VIC",Other (Information & Communication Technology),Contract/Temp,,"The Hospital:
 
 The Royal Children's Hospital's (RCH) Vision is ""A world where all kids thrive"".
 
@@ -327,7 +575,7 @@ To apply, you will need a resume and a tailored cover letter outlining your skil
 
 Shortlisting for this position will commence immediately, we encourage you to apply promptly!
 For more information about this position please contact Tristan Melchiori at tristan.melchiori@rch.org.au"
-87217352,Enterprise Data Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87217352?type=standard&ref=search-standalone&origin=jobCard#sol=7a2fc5c5b9375f7a39e9aa1986bd9ed79481041b,3h ago,3.0,2025-09-16T02:00:00+00:00,Adelaide SA (Hybrid),Architects (Information & Communication Technology),Full time,,"Enterprise Data Architect
+87217352,Enterprise Data Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87217352?type=standard&ref=search-standalone&origin=jobCard#sol=9e414a0cb40d270856752cee062af575dd324313,4h ago,4.0,2025-09-16T02:00:00+00:00,Adelaide SA (Hybrid),Architects (Information & Communication Technology),Full time,,"Enterprise Data Architect
 Full Time Permanent Role
 Adelaide Based Position with Hybrid working setup
 
@@ -382,7 +630,7 @@ Familiarity with data visualisation and semantic modelling tools including Power
 Experience gained in consulting or project-driven settings, with an appreciation for aligning technology with business outcomes.
 
 If the above role sounds of interest, please click on ""Apply Now"", or get in touch with Ivan via 0480 806 152 / (08) 8228 1502"
-87216473,Lead AI Enablement Engineer (Defence Sector),Tenth Revolution Group,https://www.seek.com.au/job/87216473?type=standard&ref=search-standalone&origin=jobCard#sol=df4e51d10f55db8432780678251b6e40c372a93b,3h ago,3.0,2025-09-16T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$150k - $200k p.a.,"Lead AI Enablement Engineer | Defence Technology
+87216473,Lead AI Enablement Engineer (Defence Sector),Tenth Revolution Group,https://www.seek.com.au/job/87216473?type=standard&ref=search-standalone&origin=jobCard#sol=8cc12d32679fa592ec8b939d676fe4cad3e42791,5h ago,5.0,2025-09-16T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$150k - $200k p.a.,"Lead AI Enablement Engineer | Defence Technology
 
 The Opportunity
 We're recruiting exclusively on behalf of an innovative defence technology company delivering mission critical AI-enabled solutions to military, government, and critical infrastructure clients. They are seeking a Lead AI Enablement Engineer to join a newly formed AI Enablement team based in Sydney CBD. This role will focus on deploying AI-powered tools that enhance workflows.
@@ -409,7 +657,7 @@ Join a fast-growing, leading innovation company in defence related AI solutions
 Work with a collaborative team supporting government and security customers worldwide
 Play a key role in shaping AI adoption within a dynamic organisation
 Sydney CBD-based role offering modern facilities and hybrid work options"
-87214781,Aegis Combat System Design Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/87214781?type=standard&ref=search-standalone&origin=jobCard#sol=a85e8abbea7fbea40ad160ff402f10cd3c1ac5b0,4h ago,4.0,2025-09-16T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Annual Bonus,"About us:
+87214781,Aegis Combat System Design Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/87214781?type=standard&ref=search-standalone&origin=jobCard#sol=ac45ca2d83494dd3ecd6a9dcb462328511135eb1,5h ago,5.0,2025-09-16T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Annual Bonus,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
 
@@ -508,7 +756,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-87212340,Staff Software Engineer - Gen AI,Commonwealth Bank – Technology,https://www.seek.com.au/job/87212340?type=standard&ref=search-standalone&origin=jobCard#sol=36f1253787e9157dd66fda34ab4c14b51e2f0155,6h ago,6.0,2025-09-15T23:00:00+00:00,"Eveleigh, Sydney NSW",Other (Information & Communication Technology),Full time,,"Staff Software Engineer - Gen AI
+87212340,Staff Software Engineer - Gen AI,Commonwealth Bank – Technology,https://www.seek.com.au/job/87212340?type=standard&ref=search-standalone&origin=jobCard#sol=4158a98774d99c66042890d26c8f3dcdcec814c1,7h ago,7.0,2025-09-15T23:00:00+00:00,"Eveleigh, Sydney NSW",Other (Information & Communication Technology),Full time,,"Staff Software Engineer - Gen AI
 
 You are passionate about AI and working to deliver better outcomes for CBA's customers, employees and the wider community
 
@@ -591,7 +839,7 @@ Our people bring their diverse backgrounds and unique perspectives to build a re
 At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
 
 We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career."
-87211565,AI Safety Engineer,Hays | Technology,https://www.seek.com.au/job/87211565?type=standard&ref=search-standalone&origin=jobCard#sol=bdba2323662da9aaed31800b03cb31bc9adc295a,7h ago,7.0,2025-09-15T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Your new company
+87211565,AI Safety Engineer,Hays | Technology,https://www.seek.com.au/job/87211565?type=standard&ref=search-standalone&origin=jobCard#sol=5c5923a67de8820d3784fd5dc9dab74d6c1aba30,8h ago,8.0,2025-09-15T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Your new company
 
 You will be working for a growing financial services firm based in Sydney CBD. They are building a dedicated AI safety function to ensure our AI systems align with human values and operate as intended. Reporting to the Head of Architecture, Engineering & Data, you will ensure AI systems are developed and deployed safely. You will work closely with engineers and stakeholders to integrate safety considerations throughout the AI development lifecycle.
 
@@ -617,7 +865,7 @@ Your hard work and dedication will be rewarded with an experience working with a
 What you need to do now
 
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV to karla.mortel@hays.com.au or call 02 9249 2209 now.If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career."
-87209862,Senior Embedded Software Engineer,Johnson Controls,https://www.seek.com.au/job/87209862?type=standard&ref=search-standalone&origin=jobCard#sol=59ecb9a38bc52729d7850196bc722701696b59c8,13h ago,13.0,2025-09-15T16:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"The company:
+87209862,Senior Embedded Software Engineer,Johnson Controls,https://www.seek.com.au/job/87209862?type=standard&ref=search-standalone&origin=jobCard#sol=e07dcdac221f5e9e9d1345fc2472a329dc4ca6cc,14h ago,14.0,2025-09-15T16:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"The company:
 
 Johnson Controls is a global diversified technology and multi-industrial leader serving a wide range of customers in more than 150 countries. Our 135,000 employees create intelligent buildings, efficient energy solutions, integrated infrastructure and next generation transportation systems that work seamlessly together to deliver on the promise of smart cities and communities. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat. We are committed to helping our customers win and creating greater value for all of our stakeholders through strategic focus on our buildings and energy growth platforms. For additional information, please visit www.johnsoncontrols.com or follow us @johnsoncontrols on Twitter.
 
