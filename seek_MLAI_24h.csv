@@ -1,5 +1,278 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87217352,Enterprise Data Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87217352?type=standard&ref=search-standalone&origin=jobCard#sol=503630d51e43b201d9715159e19e8080bacd0e90,1h ago,1.0,2025-09-16T02:00:00+00:00,Adelaide SA (Hybrid),Architects (Information & Communication Technology),Full time,,"Enterprise Data Architect
+87219249,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87219249?type=standard&ref=search-standalone&origin=jobCard#sol=b6e47716c64c524a20220c439b8b16ef073d0c48,1h ago,1.0,2025-09-16T02:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
+
+Harnessing its own patented camera systems, imagery capture, AI, geospatial tools, and advanced SaaS platforms, Nearmap stands as the definitive source of truth that shapes the livable world.
+
+Job Description
+
+
+The Machine Learning (ML) Systems Engineer is a key architect of the platform that empowers our teams to build, deploy, and operate AI models at scale. You will design and build the core infrastructure, pipelines, and tools supporting everything from traditional ML to Large Language Models (LLMs). This is a high-impact software engineering role for those passionate about building robust, scalable systems that improve developer velocity and enable the effective application of AI across the organization.Key Responsibilities
+
+Build the Core Platform: Design, build, and operate our ML infrastructure on Kubernetes for model training and inference.
+Develop Force-Multiplier Tools: Create tooling to streamline the end-to-end ML/LLM lifecycle (e.g., experiment tracking, RAG systems, model observability).
+Drive Best Practices: Design and implement MLOps and AIOps principles to improve automation, reliability, and security.
+Collaborate and Enable: Work closely with Data Scientists and ML Engineers as your internal customers to understand their needs and accelerate their work.
+
+Personal Attributes we love to see:
+
+Pragmatism: While extensive knowledge of ML theory is highly valued, pragmatism wins over elaborate theory when it comes to shipping products that work.
+Collaboration: We believe data science is a team sport, and are after candidates who can communicate well, share knowledge, and be open to taking on ideas from anyone in the team. Having worked on shared code-bases in a commercial environment is a big plus, but it's the attitude that matters most.
+Technical Skills: A decent base of python and linux are key to a role in the team. Other than that, we're pretty flexible - we know tools are changing rapidly, and will continue to do so for many years to come. Experience with tools like Kubernetes, Helm, PyTorch, Terraform, Prometheus etc. are highly valued, but not mandatory.
+Attention to detail: Showing attention to detail when it counts is important.
+
+Qualifications
+
+
+Key Requirements
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+2+ years of experience in software engineering, writing production-grade code.
+Strong proficiency in Python within a Linux/Unix environment.
+Hands-on experience with containerization (Docker) and orchestration (Kubernetes).
+Solid grasp of modern software development practices (Git, CI/CD, automated testing).
+Highly Desirable
+Experience building or managing infrastructure on a major cloud platform (AWS, GCP, Azure).
+Familiarity with Infrastructure as Code (IaC) tools like Terraform or Pulumi.
+Practical experience with the MLOps/LLMOps lifecycle and its ecosystem (e.g., vector DBs, serving frameworks).
+Experience with observability stacks (Prometheus, Grafana) or managing large-scale GPU workloads.
+
+Additional Information
+
+
+Some of our benefits
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Access to LinkedIn Learning
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+
+Read the product documentation for Nearmap AI:
+
+https://docs.nearmap.com/display/ND/NEARMAP+AI
+
+For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
+87219307,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87219307?type=standard&ref=search-standalone&origin=jobCard#sol=3e3c3e2569bc14cd8f87c177a7cc5612925391d4,1h ago,1.0,2025-09-16T02:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
+
+Harnessing its own patented camera systems, imagery capture, AI, geospatial tools, and advanced SaaS platforms, Nearmap stands as the definitive source of truth that shapes the livable world.
+
+Job Description
+
+
+The Machine Learning (ML) Systems Engineer is a key architect of the platform that empowers our teams to build, deploy, and operate AI models at scale. You will design and build the core infrastructure, pipelines, and tools supporting everything from traditional ML to Large Language Models (LLMs). This is a high-impact software engineering role for those passionate about building robust, scalable systems that improve developer velocity and enable the effective application of AI across the organization.Key Responsibilities
+
+Build the Core Platform: Design, build, and operate our ML infrastructure on Kubernetes for model training and inference.
+Develop Force-Multiplier Tools: Create tooling to streamline the end-to-end ML/LLM lifecycle (e.g., experiment tracking, RAG systems, model observability).
+Drive Best Practices: Design and implement MLOps and AIOps principles to improve automation, reliability, and security.
+Collaborate and Enable: Work closely with Data Scientists and ML Engineers as your internal customers to understand their needs and accelerate their work.
+
+Personal Attributes we love to see:
+
+Pragmatism: While extensive knowledge of ML theory is highly valued, pragmatism wins over elaborate theory when it comes to shipping products that work.
+Collaboration: We believe data science is a team sport, and are after candidates who can communicate well, share knowledge, and be open to taking on ideas from anyone in the team. Having worked on shared code-bases in a commercial environment is a big plus, but it's the attitude that matters most.
+Technical Skills: A decent base of python and linux are key to a role in the team. Other than that, we're pretty flexible - we know tools are changing rapidly, and will continue to do so for many years to come. Experience with tools like Kubernetes, Helm, PyTorch, Terraform, Prometheus etc. are highly valued, but not mandatory.
+Attention to detail: Showing attention to detail when it counts is important.
+
+Qualifications
+
+
+Key Requirements
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+2+ years of experience in software engineering, writing production-grade code.
+Strong proficiency in Python within a Linux/Unix environment.
+Hands-on experience with containerization (Docker) and orchestration (Kubernetes).
+Solid grasp of modern software development practices (Git, CI/CD, automated testing).
+Highly Desirable
+Experience building or managing infrastructure on a major cloud platform (AWS, GCP, Azure).
+Familiarity with Infrastructure as Code (IaC) tools like Terraform or Pulumi.
+Practical experience with the MLOps/LLMOps lifecycle and its ecosystem (e.g., vector DBs, serving frameworks).
+Experience with observability stacks (Prometheus, Grafana) or managing large-scale GPU workloads.
+
+Additional Information
+
+
+Some of our benefits
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Access to LinkedIn Learning
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+
+Read the product documentation for Nearmap AI:
+
+https://docs.nearmap.com/display/ND/NEARMAP+AI
+
+For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
+87218282,Parkville EMR Data & Devices Analyst,The Royal Children's Hospital,https://www.seek.com.au/job/87218282?type=standard&ref=search-standalone&origin=jobCard#sol=99f1a79b99bfc30a580e46aec36d2446a60937dd,1h ago,1.0,2025-09-16T02:00:00+00:00,Melbourne VIC,Other (Healthcare & Medical),Contract/Temp,,"The Hospital:
+
+The Royal Children's Hospital's (RCH) Vision is ""A world where all kids thrive"".
+
+RCH is a cornerstone member of the Melbourne Children's Campus, partnering with Murdoch Children's Research Institute, The University of Melbourne Department of Paediatrics and The Royal Children's Hospital Foundation.
+
+RCH has cared for the children and young people of Victoria for more than 150 years since it was founded in 1870. A full range of paediatrics and adolescent health services are provided plus tertiary and quaternary care for the most critically ill and medically complex patients in Victoria, Tasmania, southern NSW and other states around Australia and overseas. The Hospital has more than 6,000 staff, a budget of $850M, 12 wards and 350 beds. Annually, the RCH has 300,000+ Specialist Clinic appointments, 90,000+ Emergency Department presentations and 20,000 elective surgeries.
+
+The RCH is committed to the Child Safe Standards.
+
+RCH enjoys high employee engagement and is committed to staff safety and a positive culture through enactment of our Compact.
+
+For further Information on RCH is available here.
+
+
+
+
+Excellent employee benefits including salary packaging.
+Full time Fixed term role until 1/11/2026
+Work for Australia's leading Children's Hospital
+Epic EMR!
+
+About the Role:
+
+This is a full time fixed term position at 80 hours per fortnight within the Parkville Electronic Medical Record (EMR) team.
+
+You will be responsible for the design, build, testing, configuration, testing, installation and support of the EMR Data & Devices functionality.
+
+Classification for this position will range from Grade 4 Year 1(AO41) - Grade 4 Year 5 (AO45) (FTE base salary $83,657.60 to $92,482.00 per annum, plus superannuation).
+
+What you'll achieve:
+
+Configure, build, test and perform system maintenance tasks to ensure the EMR application is available, current and well maintained;
+Perform analysis of workflows, enhancement requests and other technical issues associated with the EMR and develop functional and technical solutions that reflect an in-depth understanding of the user's requirements;
+Design and build approved EMR Data & Devices Application optimisations to ensure that end users are effectively engaged in the continuous improvement of the EMR to continue to support and improve the delivery of care provided;
+
+Your skills and experience:
+
+Tertiary qualifications in a related field and/or relevant industry experience spanning 7+ years
+Advanced skills in workflow review and design and proven ability to deliver solutions that meet the needs of end users;
+Ability to achieve work deadlines, prioritise workload and competing demands;
+Strong interpersonal skills with particular emphasis on gaining consensus, facilitation, and consultation
+
+If this sounds like you, click here to view the position description.
+
+About Parkville Electronic Medical Record (EMR):
+
+The Parkville EMR is a digital partnership between The Royal Children's Hospital (RCH), Peter MacCallum Cancer Centre (Peter Mac), The Royal Melbourne Hospital (RMH) and The Royal Women's Hospital (RWH) and Parkville Youth Mental Health and Wellbeing Service (PYMHWS). The Parkville EMR team (employed by RCH) maintains, operates, and optimises the Parkville EMR service for the benefit of all 5 health services. The Parkville precinct partners are committed to continuing the success of the EMR to deliver the vision as a world class EMR, shared with patients, to support the delivery of safe, high quality and seamless healthcare across Parkville and improve health outcomes for all Victorians.
+
+What we offer:
+
+Ability to join Fitness Passport - Your pass to an extensive choice of fitness facilities
+Parkville location and close to public transport
+
+Other requirements:
+
+Current National Criminal Record Check, or willing to obtain
+Valid Working with Children Check
+Compliance with RCHs ""Staff Immunisation - Prevention of Vaccine Preventable Diseases"" procedure
+
+Application process
+
+To apply, you will need a resume and a tailored cover letter outlining your skills, experience, and suitability for the position in line with the requirements of the position description.
+
+
+
+Shortlisting for this position will commence immediately, we encourage you to apply promptly!
+For more information about this position please contact Morgan Kerambrun on Email: Morgan.Kerambrun2@rch.org.au"
+87217824,EMR Portals Analyst,The Royal Children's Hospital,https://www.seek.com.au/job/87217824?type=standard&ref=search-standalone&origin=jobCard#sol=fb97256c917bb3e6dd14ea424e08f2f4b9e41009,1h ago,1.0,2025-09-16T02:00:00+00:00,"Parkville, Melbourne VIC",Other (Information & Communication Technology),Contract/Temp,,"The Hospital:
+
+The Royal Children's Hospital's (RCH) Vision is ""A world where all kids thrive"".
+
+RCH is a cornerstone member of the Melbourne Children's Campus, partnering with Murdoch Children's Research Institute, The University of Melbourne Department of Paediatrics and The Royal Children's Hospital Foundation.
+
+RCH has cared for the children and young people of Victoria for more than 150 years since it was founded in 1870. A full range of paediatrics and adolescent health services are provided plus tertiary and quaternary care for the most critically ill and medically complex patients in Victoria, Tasmania, southern NSW and other states around Australia and overseas. The Hospital has more than 6,000 staff, a budget of $850M, 12 wards and 350 beds. Annually, the RCH has 300,000+ Specialist Clinic appointments, 90,000+ Emergency Department presentations and 20,000 elective surgeries.
+
+The RCH is committed to the Child Safe Standards.
+
+RCH enjoys high employee engagement and is committed to staff safety and a positive culture through enactment of our Compact.
+
+For further Information on RCH is available here.
+
+
+
+
+Excellent employee benefits including salary packaging.
+Work for Australia's leading Children's Hospital
+Work with the world leading Epic EMR
+
+About the Role:
+
+This is a Full time fixed term position at 80 hours per fortnight until 14 August 2026, within the Parkville Electronic Medical Record (EMR) team.
+
+You will be responsible for the design, build, testing, configuration, testing, installation and support of the EMR Portals functionality.
+
+Classification for this position will range from Grade 6 Year 1 (AO61) - Grade 6 Year 5 (AO65) (FTE base salary $110,479.20 to $111,051.20 per annum, plus superannuation).
+
+What you'll achieve:
+
+Configure, build, test and perform system maintenance tasks to ensure the EMR application is available, current and well maintained;
+Perform analysis of workflows, enhancement requests and other technical issues associated with the EMR and develop functional and technical solutions that reflect an in-depth understanding of the user's requirements;
+Design and build approved EMR Portals Application optimisations to ensure that end users are effectively engaged in the continuous improvement of the EMR to continue to support and improve the delivery of care provided;
+
+Your skills and experience:
+
+Tertiary qualifications in a related field and/or relevant industry experience spanning 7+ years
+Advanced skills in workflow review and design and proven ability to deliver solutions that meet the needs of end users;
+Ability to achieve work deadlines, prioritise workload and competing demands;
+Strong interpersonal skills with particular emphasis on gaining consensus, facilitation, and consultation
+
+If this sounds like you, click here to view the position description.
+
+About Parkville Electronic Medical Record (EMR):
+
+The Parkville EMR is a digital partnership between The Royal Children's Hospital (RCH), Peter MacCallum Cancer Centre (Peter Mac), The Royal Melbourne Hospital (RMH) and The Royal Women's Hospital (RWH) and Parkville Youth Mental Health and Wellbeing Service (PYMHWS). The Parkville EMR team (employed by RCH) maintains, operates, and optimises the Parkville EMR service for the benefit of all 5 health services. The Parkville precinct partners are committed to continuing the success of the EMR to deliver the vision as a world class EMR, shared with patients, to support the delivery of safe, high quality and seamless healthcare across Parkville and improve health outcomes for all Victorians.
+
+What we offer:
+
+Ability to join Fitness Passport - Your pass to an extensive choice of fitness facilities
+Parkville location and close to public transport
+
+Other requirements:
+
+Current National Criminal Record Check, or willing to obtain
+Valid Working with Children Check
+Compliance with RCHs ""Staff Immunisation - Prevention of Vaccine Preventable Diseases"" procedure
+
+Application process
+
+To apply, you will need a resume and a tailored cover letter outlining your skills, experience, and suitability for the position in line with the requirements of the position description.
+
+
+
+Shortlisting for this position will commence immediately, we encourage you to apply promptly!
+For more information about this position please contact Tristan Melchiori at tristan.melchiori@rch.org.au"
+87217352,Enterprise Data Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87217352?type=standard&ref=search-standalone&origin=jobCard#sol=8e36e24adec4bdca9d9e1138f777a0c6deb5d90a,1h ago,1.0,2025-09-16T02:00:00+00:00,Adelaide SA (Hybrid),Architects (Information & Communication Technology),Full time,,"Enterprise Data Architect
 Full Time Permanent Role
 Adelaide Based Position with Hybrid working setup
 
@@ -54,7 +327,7 @@ Familiarity with data visualisation and semantic modelling tools including Power
 Experience gained in consulting or project-driven settings, with an appreciation for aligning technology with business outcomes.
 
 If the above role sounds of interest, please click on ""Apply Now"", or get in touch with Ivan via 0480 806 152 / (08) 8228 1502"
-87216473,Lead AI Enablement Engineer (Defence Sector),Tenth Revolution Group,https://www.seek.com.au/job/87216473?type=standard&ref=search-standalone&origin=jobCard#sol=7b0a19e77d1b1b838ac2b3667d1fb41bd5b4486e,1h ago,1.0,2025-09-16T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$150k - $200k p.a.,"Lead AI Enablement Engineer | Defence Technology
+87216473,Lead AI Enablement Engineer (Defence Sector),Tenth Revolution Group,https://www.seek.com.au/job/87216473?type=standard&ref=search-standalone&origin=jobCard#sol=6cb006737898ea6b42a5f63c442791f04fa1ef3e,2h ago,2.0,2025-09-16T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$150k - $200k p.a.,"Lead AI Enablement Engineer | Defence Technology
 
 The Opportunity
 We're recruiting exclusively on behalf of an innovative defence technology company delivering mission critical AI-enabled solutions to military, government, and critical infrastructure clients. They are seeking a Lead AI Enablement Engineer to join a newly formed AI Enablement team based in Sydney CBD. This role will focus on deploying AI-powered tools that enhance workflows.
@@ -81,7 +354,7 @@ Join a fast-growing, leading innovation company in defence related AI solutions
 Work with a collaborative team supporting government and security customers worldwide
 Play a key role in shaping AI adoption within a dynamic organisation
 Sydney CBD-based role offering modern facilities and hybrid work options"
-87214781,Aegis Combat System Design Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/87214781?type=standard&ref=search-standalone&origin=jobCard#sol=de7ff42e15d255be669d3955d243c33d816d570e,2h ago,2.0,2025-09-16T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Annual Bonus,"About us:
+87214781,Aegis Combat System Design Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/87214781?type=standard&ref=search-standalone&origin=jobCard#sol=b3a686a66c87a704622f05d8efb9c14977e99f20,2h ago,2.0,2025-09-16T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Annual Bonus,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
 
@@ -180,7 +453,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-87212340,Staff Software Engineer - Gen AI,Commonwealth Bank – Technology,https://www.seek.com.au/job/87212340?type=standard&ref=search-standalone&origin=jobCard#sol=ea76f6417def131d3ac984c0150505128b7eda89,4h ago,4.0,2025-09-15T23:00:00+00:00,"Eveleigh, Sydney NSW",Other (Information & Communication Technology),Full time,,"Staff Software Engineer - Gen AI
+87212340,Staff Software Engineer - Gen AI,Commonwealth Bank – Technology,https://www.seek.com.au/job/87212340?type=standard&ref=search-standalone&origin=jobCard#sol=52a442f1d932587ac32c89a7cb3185bf8333598d,4h ago,4.0,2025-09-15T23:00:00+00:00,"Eveleigh, Sydney NSW",Other (Information & Communication Technology),Full time,,"Staff Software Engineer - Gen AI
 
 You are passionate about AI and working to deliver better outcomes for CBA's customers, employees and the wider community
 
@@ -263,7 +536,7 @@ Our people bring their diverse backgrounds and unique perspectives to build a re
 At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
 
 We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career."
-87211565,AI Safety Engineer,Hays | Technology,https://www.seek.com.au/job/87211565?type=standard&ref=search-standalone&origin=jobCard#sol=d00630cc7e5e501ea9dae40bfc0cb4c4236daae0,4h ago,4.0,2025-09-15T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Your new company
+87211565,AI Safety Engineer,Hays | Technology,https://www.seek.com.au/job/87211565?type=standard&ref=search-standalone&origin=jobCard#sol=d1eb21e214daafc8f0f7fdb6752f3a84f4b2d5d7,5h ago,5.0,2025-09-15T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Your new company
 
 You will be working for a growing financial services firm based in Sydney CBD. They are building a dedicated AI safety function to ensure our AI systems align with human values and operate as intended. Reporting to the Head of Architecture, Engineering & Data, you will ensure AI systems are developed and deployed safely. You will work closely with engineers and stakeholders to integrate safety considerations throughout the AI development lifecycle.
 
@@ -289,7 +562,7 @@ Your hard work and dedication will be rewarded with an experience working with a
 What you need to do now
 
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV to karla.mortel@hays.com.au or call 02 9249 2209 now.If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career."
-87209862,Senior Embedded Software Engineer,Johnson Controls,https://www.seek.com.au/job/87209862?type=standard&ref=search-standalone&origin=jobCard#sol=06810eac0bf27fdab11e2c6a484f661c145ecf06,10h ago,10.0,2025-09-15T17:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"The company:
+87209862,Senior Embedded Software Engineer,Johnson Controls,https://www.seek.com.au/job/87209862?type=standard&ref=search-standalone&origin=jobCard#sol=0e081576506d97ba7a47f06cc31be2dec7a4de08,11h ago,11.0,2025-09-15T16:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"The company:
 
 Johnson Controls is a global diversified technology and multi-industrial leader serving a wide range of customers in more than 150 countries. Our 135,000 employees create intelligent buildings, efficient energy solutions, integrated infrastructure and next generation transportation systems that work seamlessly together to deliver on the promise of smart cities and communities. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat. We are committed to helping our customers win and creating greater value for all of our stakeholders through strategic focus on our buildings and energy growth platforms. For additional information, please visit www.johnsoncontrols.com or follow us @johnsoncontrols on Twitter.
 
