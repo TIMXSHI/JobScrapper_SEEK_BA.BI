@@ -1,5 +1,130 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87294377,Director of Client Solutions – Data & AI,Visa,https://www.seek.com.au/job/87294377?type=standard&ref=search-standalone&origin=jobCard#sol=8fcb1967003e34d4b66a3071a237249d62da0c1e,1h ago,1.0,2025-09-18T06:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+87294692,People Analytics - Data Engineer,Deloitte,https://www.seek.com.au/job/87294692?type=standard&ref=search-standalone&origin=jobCard#sol=062e565b391893098133617c9509cb1edc94e24e,1h ago,1.0,2025-09-18T07:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+
+
+
+Deloitte Services Pty Ltd
+
+
+
+Job description:
+
+
+Salary packaging - to suit your personal and financial circumstances
+Flexible work arrangements - work in a way that suits you best
+Rewards platform - your hard work won't go unnoticed at Deloitte
+Open to candidates across Australia
+
+About the Role:
+
+Are you curious about the world of people data? Do you love to work with data which is dynamic and always evolving? We are seeking a highly skilled and motivated Data Engineer to join our internal People Analytics team. In this role, you will have the chance to work with data that represents your own employee journey and ensure that Deloitte is using the highest quality data to provide strategic insights into workforce trends and employee experience.
+
+This is an exciting opportunity to play a pivotal role in enhancing the data infrastructure and analytical capabilities of the Talent team at Deloitte. As the People Analytics Data Engineer, you will be instrumental in connecting data points across the employee lifecycle, ensuring quality, accuracy, timeliness and optimisation of our data warehouse initiatives and ETL workflows, contributing significantly to our strategic objectives.
+
+Key Responsibilities:
+
+Data Architecture & Management: Design, develop, and maintain robust data architectures and ETL pipelines to support our evolving data needs.
+Data Warehouse Implementation: Lead efforts in migrating and integrating employee data sources into our centralised data warehouse, ensuring only the highest quality employee data products are created and are seamlessly connected with other business data.
+Tableau Workflow Optimisation: Optimise and manage existing Tableau Prep workflows, ensuring they align with the new data architecture. This includes updating data sources, improving workflow efficiency, and maintaining documentation.
+Data Quality Assurance: Establish and maintain data validation and testing protocols to ensure data integrity. This involves identifying data discrepancies, implementing quality checks, and collaborating with analysts to address data issues.
+Collaboration & Innovation: Work closely with data analysts, Talent SMEs, and cross-functional teams to deliver insights that drive informed decision-making across the organisation.
+
+Essential Skills:
+
+Previous experience in data engineering or related roles, including data pipeline design and delivery.
+Strong expertise in SQL and experience with cloud platforms like Databricks. Experience with Fabric or similar AI tools is an advantage.
+Ability to communicate technical concepts to non-technical stakeholders and collaborate with cross-functional teams, managing multiple priorities effectively.
+Knowledge of data profiling and cleansing tools, along with experience in implementing data quality frameworks.
+Hands-on experience with Tableau Prep and Tableau Server (or similar), focusing on workflow optimisation and automation.
+Keen attention to detail and a desire to ensure all data is of the highest quality.
+Ability to troubleshoot complex data issues and propose innovative solutions.
+Previous experience with HR data is not necessary however, curiosity and a willingness to understand dynamic, complex and context-dependant data is needed.
+
+Why Deloitte?
+
+At Deloitte, we focus our energy on interesting and impactful work. We're always learning, innovating, and setting the standard; making a positive difference to our clients and our society. We put coaching at the heart of what we do, helping our people grow their careers in any direction - whether it be up, moving into something new, or even moving across the world.
+
+We embrace diversity, equity, and inclusion. We have a diverse collection of people from different backgrounds, with different experiences, gender identities, abilities and thinking styles. What binds us together is a shared commitment to value everyone's perspective and to cultivate inclusion; so that our work environment is a safe space we can all belong.
+
+We prioritise flexibility and choice. At Deloitte, you get trust on Day 1. We know our people get their best work done when they're in control of where and how they work, designing their work week around their client, team, and personal commitments.
+
+We help you live and work well. To support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave and return to work support package.
+
+Next Steps
+
+Sound like the sort of role for you? Apply now, we'd love to hear from you"
+87294565,Machine Learning Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/87294565?type=standard&ref=search-standalone&origin=jobCard#sol=8e922ea2827913badeac58b2f7eed8d3c1a17b86,2h ago,2.0,2025-09-18T06:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
+
+Harnessing its own patented camera systems, imagery capture, AI, geospatial tools, and advanced SaaS platforms, Nearmap stands as the definitive source of truth that shapes the livable world.
+
+Job Description
+
+
+The Machine Learning (ML) Systems Engineer is a key architect of the platform that empowers our teams to build, deploy, and operate AI models at scale. You will design and build the core infrastructure, pipelines, and tools supporting everything from traditional ML to Large Language Models (LLMs). This is a high-impact software engineering role for those passionate about building robust, scalable systems that improve developer velocity and enable the effective application of AI across the organization.
+
+Key Responsibilities
+
+Build the Core Platform: Design, build, and operate our ML infrastructure on Kubernetes for model training and inference.
+Develop Force-Multiplier Tools: Create tooling to streamline the end-to-end ML/LLM lifecycle (e.g., experiment tracking, RAG systems, model observability).
+Drive Best Practices: Design and implement MLOps and AIOps principles to improve automation, reliability, and security.
+Collaborate and Enable: Work closely with Data Scientists and ML Engineers as your internal customers to understand their needs and accelerate their work.
+
+Personal Attributes we love to see:
+
+Pragmatism: While extensive knowledge of ML theory is highly valued, pragmatism wins over elaborate theory when it comes to shipping products that work.
+Collaboration: We believe data science is a team sport, and are after candidates who can communicate well, share knowledge, and be open to taking on ideas from anyone in the team. Having worked on shared code-bases in a commercial environment is a big plus, but it's the attitude that matters most.
+Technical Skills: A decent base of python and linux are key to a role in the team. Other than that, we're pretty flexible - we know tools are changing rapidly, and will continue to do so for many years to come. Experience with tools like Kubernetes, Helm, PyTorch, Terraform, Prometheus etc. are highly valued, but not mandatory.
+Attention to detail: Showing attention to detail when it counts is important.
+
+Qualifications
+
+
+Key Requirements
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+2+ years of experience in software engineering, writing production-grade code.
+Strong proficiency in Python within a Linux/Unix environment.
+Hands-on experience with containerization (Docker) and orchestration (Kubernetes).
+Solid grasp of modern software development practices (Git, CI/CD, automated testing).
+Highly Desirable
+Experience building or managing infrastructure on a major cloud platform (AWS, GCP, Azure).
+Familiarity with Infrastructure as Code (IaC) tools like Terraform or Pulumi.
+Practical experience with the MLOps/LLMOps lifecycle and its ecosystem (e.g., vector DBs, serving frameworks).
+Experience with observability stacks (Prometheus, Grafana) or managing large-scale GPU workloads.
+
+Additional Information
+
+
+Some of our benefits
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Access to LinkedIn Learning
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+
+Read the product documentation for Nearmap AI:
+
+https://docs.nearmap.com/display/ND/NEARMAP+AI
+
+For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
+87294377,Director of Client Solutions – Data & AI,Visa,https://www.seek.com.au/job/87294377?type=standard&ref=search-standalone&origin=jobCard#sol=4e94024f17a58aa68a72f003ff11f6c609cb5006,2h ago,2.0,2025-09-18T06:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
 
 
 Visa is a world leader in payments and technology, with over 310 billion payments transactions flowing safely between consumers, merchants, financial institutions, and government entities in more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive while driven by a common purpose – to uplift everyone, everywhere by being the best way to pay and be paid.
@@ -126,7 +251,7 @@ Additional Information
 
 
 Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law."
-87291875,Robotics Engineer - Defence,Jigsaw Corporation,https://www.seek.com.au/job/87291875?type=standard&ref=search-standalone&origin=jobCard#sol=eb4f312193912b0d159bbd83ec351473b1ccb268,1h ago,1.0,2025-09-18T06:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Contract/Temp,$100 – $138 per hour,"AI,Robotics & Data Analytics role
+87291875,Robotics Engineer - Defence,Jigsaw Corporation,https://www.seek.com.au/job/87291875?type=standard&ref=search-standalone&origin=jobCard#sol=ec24cfba23f84b6fa2e9afb4998d4f35f1e43ba9,2h ago,2.0,2025-09-18T06:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Contract/Temp,$100 – $138 per hour,"AI,Robotics & Data Analytics role
 
 R&D Environment
 
@@ -147,7 +272,7 @@ Skills in data analysis, computer coding and hands-on lab work are required. Spe
 Desirable skills will include experience with systems simulators such as Anylogic or RAS simulators such as Gazebo.
 
 Please email your application (Word format) in confidence to tom@jigsawcorp.com quoting reference 102677.S in the subject line or call Tom Slomovic at Jigsaw on 0412 580 243"
-87291877,Senior React / Next.js Engineer – Generative AI SaaS,Enterprise Ai,https://www.seek.com.au/job/87291877?type=standard&ref=search-standalone&origin=jobCard#sol=fffd0f4baa77b0d4b2cbe8c55eb37d135ae8e14e,1h ago,1.0,2025-09-18T06:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $180,000 per year","About the role
+87291877,Senior React / Next.js Engineer – Generative AI SaaS,Enterprise Ai,https://www.seek.com.au/job/87291877?type=standard&ref=search-standalone&origin=jobCard#sol=f616dbc007aef553a5e9c3196a7be9988647ce2d,3h ago,3.0,2025-09-18T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $180,000 per year","About the role
 
 Mid-level React & Next.js Engineer for a Generative AI SaaS startup in Sydney! Full-time onsite role building cutting-edge AI-powered features in a dynamic environment. You’ll join a small, high-energy team embedding generative AI into real-world enterprise workflows. We iterate face-to-face (5 days a week in our Martin Place office) to outpace competitors, so your ideas go from whiteboard to production fast. You’ll take ownership of core front-end features and see your work make a huge impact on business users every day.
 
@@ -224,7 +349,7 @@ About us
 Enterprise AI is a Sydney-based startup on a mission to improve the most important workflows and customer journeys for enterprise teams by embedding generative AI solutions into daily operations. We’re already making waves – our platform is in pilot with several large enterprise customers, and user feedback has been phenomenal. Our culture is casual, dynamic and fun: we work face-to-face at our Martin Place HQ, iterate relentlessly, and celebrate each win (game nights and team dinners included!). We’re a tight-knit crew of ambitious, high-performing developers who believe in owning our work and building something game-changing together.
 
 Ready? If you’re excited to build the future of enterprise AI with us, hit “Apply” now and let’s chat – we respond to most applications within 48 hours."
-87291393,Analytics Engineer,Metcash Limited,https://www.seek.com.au/job/87291393?type=standard&ref=search-standalone&origin=jobCard#sol=e6d2bda0a9bbc98a2c75aea8c2c77e4a97611c1a,2h ago,2.0,2025-09-18T05:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+87291393,Analytics Engineer,Metcash Limited,https://www.seek.com.au/job/87291393?type=standard&ref=search-standalone&origin=jobCard#sol=7b33c3298bc0892ece179580b36dbf2cb8ee624b,3h ago,3.0,2025-09-18T05:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -295,7 +420,7 @@ Join us and be part of something bigger!
 #INFLA
 
 #LI-SS1"
-87291317,Data Engineer,Umwelt Pty Ltd,https://www.seek.com.au/job/87291317?type=standard&ref=search-standalone&origin=jobCard#sol=ecf951985e29e832798cf866bd422e10fcc1d473,2h ago,2.0,2025-09-18T05:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW",Engineering - Software (Information & Communication Technology),Full time,,"Newly created position, designing fit for purpose solutions
+87291317,Data Engineer,Umwelt Pty Ltd,https://www.seek.com.au/job/87291317?type=standard&ref=search-standalone&origin=jobCard#sol=def31847fbd0dc81383d95a88106b8926d8b6f24,3h ago,3.0,2025-09-18T05:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW",Engineering - Software (Information & Communication Technology),Full time,,"Newly created position, designing fit for purpose solutions
 One of Australia’s largest employee owned environmental consultancies
 Additional Benefit of a #ME Day (Paid day off once a month)
 
@@ -362,7 +487,7 @@ If you believe you meet the criteria for this opportunity, please apply via SEEK
 If you would like additional assistance through the recruitment process, please reach out to our friendly HR team at HRManagement@umwelt.com.au
 
 To be eligible for this position you must have legal work rights to work in Australia."
-87285534,"Data Engineer | Cloud, Databricks & AI Projects (Sydney)",DyFlex Solutions,https://www.seek.com.au/job/87285534?type=standard&ref=search-standalone&origin=jobCard#sol=0b3648b6b311e177a993cd5382d683acf04f36b4,4h ago,4.0,2025-09-18T03:00:00+00:00,Sydney NSW,Database Development & Administration (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
+87285534,"Data Engineer | Cloud, Databricks & AI Projects (Sydney)",DyFlex Solutions,https://www.seek.com.au/job/87285534?type=standard&ref=search-standalone&origin=jobCard#sol=3d7c233ee96924751283d5f3bf1d8e1732b9157b,5h ago,5.0,2025-09-18T03:00:00+00:00,Sydney NSW,Database Development & Administration (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 
 In 2025, we have been awarded
 
@@ -412,7 +537,7 @@ Join a renowned organisation delivering projects to some of Australia’s leadin
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-87283449,Data Engineer,Essential Energy,https://www.seek.com.au/job/87283449?type=standard&ref=search-standalone&origin=jobCard#sol=0120a7f52dc9e4cfaf13605fc80319b2e481a7a1,5h ago,5.0,2025-09-18T02:00:00+00:00,"Port Macquarie, Port Macquarie & Mid North Coast NSW",Engineering - Software (Information & Communication Technology),Contract/Temp,"16.5% Super, 9-day fortnight","We Are Unique
+87283449,Data Engineer,Essential Energy,https://www.seek.com.au/job/87283449?type=standard&ref=search-standalone&origin=jobCard#sol=cb4afd4dd46e6d2f5968fe19859b66ff6f3addb3,6h ago,6.0,2025-09-18T02:00:00+00:00,"Port Macquarie, Port Macquarie & Mid North Coast NSW",Engineering - Software (Information & Communication Technology),Contract/Temp,"16.5% Super, 9-day fortnight","We Are Unique
 
 At Essential Energy, your voice is valued, your autonomy is empowered, and your well-being is a priority. We offer more than just a job, we offer a place where you can grow, be heard, and make a real impact. Take pride in supporting regional, rural, and remote communities while shaping the future of energy in NSW.
 
@@ -489,7 +614,7 @@ Building a Better Energy Future.
 Essential Energy is committed to building a culturally diverse and inclusive workplace and strongly encourages applicants to apply regardless of gender, age, ethnicity, sexual orientation, or disability. As an organisation, our aim is to champion inclusivity in the workplace and celebrate the difference in all our employees.
 
 At Essential Energy, we are committed to supporting adjustments throughout the recruitment and selection process, as well as during employment. We actively support and encourage people with disability to apply to Essential Energy (including alternate formats of application forms or alternate ways for accessibility). To discuss adjustment requirements, please contact careers@essentialenergy.com.au or call us on 1800 255 777."
-87283285,"Senior Software Engineer, Geo, Urban Mobility",Google,https://www.seek.com.au/job/87283285?type=standard&ref=search-standalone&origin=jobCard#sol=24186d9b65c9055598d2c200f2359bdce267d592,5h ago,5.0,2025-09-18T02:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+87283285,"Senior Software Engineer, Geo, Urban Mobility",Google,https://www.seek.com.au/job/87283285?type=standard&ref=search-standalone&origin=jobCard#sol=9f8d80f3c86454c4221f4b96a80e7579f232130e,6h ago,6.0,2025-09-18T02:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -521,7 +646,7 @@ Review code developed by other developers and provide feedback to ensure best pr
 Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
 Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-87282858,Analytics Engineer - Databricks,VALD Pty Ltd,https://www.seek.com.au/job/87282858?type=standard&ref=search-standalone&origin=jobCard#sol=ea06fff463eea89fa007bf386e2576fb0fdcb99b,5h ago,5.0,2025-09-18T02:00:00+00:00,"Newstead, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"VALD is the world leader in technology for the allied health industry, providing innovative human-measurement technology to over 10,000 clients in over 100 countries. If you have a favorite team in the NBA, EPL, or NFL, there's a good chance they use VALD Technologies.
+87282858,Analytics Engineer - Databricks,VALD Pty Ltd,https://www.seek.com.au/job/87282858?type=standard&ref=search-standalone&origin=jobCard#sol=e8c3e36f5de2515cce247eca9e56ccb8b95ff20a,6h ago,6.0,2025-09-18T02:00:00+00:00,"Newstead, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"VALD is the world leader in technology for the allied health industry, providing innovative human-measurement technology to over 10,000 clients in over 100 countries. If you have a favorite team in the NBA, EPL, or NFL, there's a good chance they use VALD Technologies.
 
 Years on from its humble beginnings in Brisbane, Australia, VALD has grown to a team of over 300 team members in over 30 countries, with five offices across four continents.
 
@@ -562,7 +687,7 @@ Apply now
 In your cover letter, please share with us why you think your experience is relevant to this role and how this opportunity fits into your longer-term career goals. We can't wait to meet you and discuss what a career with VALD could look like for you!
 
 Successful applicants will be subject to background checks (including identity and criminal record checks). It will be a condition of employment that the background checks return acceptable results."
-87282364,Business Intelligence Developer,Natural Selection Group,https://www.seek.com.au/job/87282364?type=standard&ref=search-standalone&origin=jobCard#sol=c25cdecfdaa750911572985dff0fe9a05494557e,5h ago,5.0,2025-09-18T02:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"This is: the job
+87282364,Business Intelligence Developer,Natural Selection Group,https://www.seek.com.au/job/87282364?type=standard&ref=search-standalone&origin=jobCard#sol=004d803e911c8eb9bfe8f0812ceb5cf0951c48f4,6h ago,6.0,2025-09-18T02:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"This is: the job
 
 An exciting permanent opportunity is available for a talented mid-level Business Intelligence Developer/Data Engineer to join the Data Warehouse team within one of Melbourne’s biggest Business Intelligence functions.
 ​​​​​​​
@@ -600,7 +725,7 @@ Elton Kelly
 Principal Consultant, Natural Selection Group
 M: 0405 294 375
 E: elton.kelly@naturalselectiongroup.com.au"
-87281533,AI Engineer,PRA,https://www.seek.com.au/job/87281533?type=standard&ref=search-standalone&origin=jobCard#sol=5ce9b8864a6183b2665d9921d9a258319aacf5be,6h ago,6.0,2025-09-18T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,N,"We’re looking for an AI Engineer to join a small, agile IT team and play a hands-on role in transforming the way our organisation works. This is your opportunity to design, develop, and maintain automation workflows and AI-powered solutions that enhance both operational efficiency and the overall user experience.
+87281533,AI Engineer,PRA,https://www.seek.com.au/job/87281533?type=standard&ref=search-standalone&origin=jobCard#sol=4416ef29bd69c622e0baee88c41a319147128645,7h ago,7.0,2025-09-18T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,N,"We’re looking for an AI Engineer to join a small, agile IT team and play a hands-on role in transforming the way our organisation works. This is your opportunity to design, develop, and maintain automation workflows and AI-powered solutions that enhance both operational efficiency and the overall user experience.
 
 You'll be at the forefront of innovation—working across Microsoft Dynamics 365 CRM, Power Platform, and Azure Cloud Services to streamline processes, reduce manual work, and build scalable, intelligent systems.
 
@@ -635,7 +760,7 @@ A growth mindset with a passion for learning and tech innovation
 A team-first attitude—ready to collaborate, share, and support others
 
 If you're ready to make an impact with automation and AI in a hands-on, versatile role, click Apply now or send your cv direct to greg.perl@pra.com.au"
-87280026,Automation Engineer,Memjet North Ryde Pty Ltd,https://www.seek.com.au/job/87280026?type=standard&ref=search-standalone&origin=jobCard#sol=baa67081317666c0fb94c1c0cd14d274d236c963,6h ago,6.0,2025-09-18T01:00:00+00:00,"North Ryde, Sydney NSW",Other (Engineering),Full time,,"Memjet is a global leader in digital inkjet technology. With a focus on precision, simplicity and affordability, Memjet approaches the world of print from its partners’ perspectives, understanding the challenges they face, the barriers they must overcome and the contributions they make. Thoughtfully combining innovation and imagination, Memjet produces exceptional printing technologies that enable OEMs to explore new opportunities, grow their businesses and generate ROI.
+87280026,Automation Engineer,Memjet North Ryde Pty Ltd,https://www.seek.com.au/job/87280026?type=standard&ref=search-standalone&origin=jobCard#sol=c5b8d49ff345907f625bef4f165e106d06e1d732,7h ago,7.0,2025-09-18T01:00:00+00:00,"North Ryde, Sydney NSW",Other (Engineering),Full time,,"Memjet is a global leader in digital inkjet technology. With a focus on precision, simplicity and affordability, Memjet approaches the world of print from its partners’ perspectives, understanding the challenges they face, the barriers they must overcome and the contributions they make. Thoughtfully combining innovation and imagination, Memjet produces exceptional printing technologies that enable OEMs to explore new opportunities, grow their businesses and generate ROI.
 
 We are seeking an experienced Automation Engineer to support our local and overseas projects.  The ability to travel overseas to our partner sites and speak fluent Mandarin will be highly regarded.
 
@@ -696,7 +821,7 @@ Education
 Bachelor’s degree in Mechatronics, Control Systems Engineering, Electrical and Electronics Engineering (or closely related training).
 
 ONLY APPLICANTS WITH FULL, UNRESTRICTED AND ONGOING RIGHTS TO WORK PERMANENTLY IN AUSTRALIA WILL BE CONSIDERED FOR THIS ROLE."
-87278362,Data Engineer,Robert Half,https://www.seek.com.au/job/87278362?type=standard&ref=search-standalone&origin=jobCard#sol=49e35bfdced997590e2c7e834bac8fc6fca2e7ec,7h ago,7.0,2025-09-18T00:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$130k - $140k p.a. + Super,"Robert Half are partnering with a highly reputable and well-established Wealth Management firm with operations across the ANZ region. The company is known for its commitment to innovation, long-term client relationships, and data-driven investment strategies. As the business continues to evolve and scale, they are investing heavily in their data capabilities and looking to bring in top-tier talent to support this growth.
+87278362,Data Engineer,Robert Half,https://www.seek.com.au/job/87278362?type=standard&ref=search-standalone&origin=jobCard#sol=acb84a1ae3ecd20d4d3ac7ddb8b3ff9cb4c6c695,8h ago,8.0,2025-09-18T00:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$130k - $140k p.a. + Super,"Robert Half are partnering with a highly reputable and well-established Wealth Management firm with operations across the ANZ region. The company is known for its commitment to innovation, long-term client relationships, and data-driven investment strategies. As the business continues to evolve and scale, they are investing heavily in their data capabilities and looking to bring in top-tier talent to support this growth.
 
 We're seeking a Data Engineer with a strong background in the Microsoft technology stack who will support enterprise-wide data initiatives and enable seamless data flow across systems and platforms.
 
@@ -737,7 +862,7 @@ Work in a mature, collaborative environment with strong leadership and direction
 Competitive remuneration and long-term career growth opportunities.
 
 By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
-87276403,AI and Automation Specialist,UpperGround by Hudson,https://www.seek.com.au/job/87276403?type=standard&ref=search-standalone&origin=jobCard#sol=28dd452e54b38c7f5a78afcdd7f9cd50e8c2211b,8h ago,8.0,2025-09-17T23:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Contract/Temp,Up to $1000/day + super,"Our client is currently looking for an AI & Automation Specialist who can help drive a suite of new use cases designed to boost efficiency and productivity across a large, complex organisation.
+87276403,AI and Automation Specialist,UpperGround by Hudson,https://www.seek.com.au/job/87276403?type=standard&ref=search-standalone&origin=jobCard#sol=59fe091a343eb2216113becd6a21bc33fa6300f7,10h ago,10.0,2025-09-17T22:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Contract/Temp,Up to $1000/day + super,"Our client is currently looking for an AI & Automation Specialist who can help drive a suite of new use cases designed to boost efficiency and productivity across a large, complex organisation.
 
 This is a hands-on role where you’ll work with a variety of stakeholders to design, build and roll out intelligent automation and machine learning solutions — all while uplifting digital capability across the business.
 
@@ -774,7 +899,7 @@ Hudson is committed to helping you find a workplace where you feel respected, su
 
 Casual Loading 
 Please note for all Australian based contract and temporary roles only, the pay rate is inclusive of mandatory 25% casual loading. This excludes permanent and fixed term roles."
-87274513,Azure GenAI Architect,Virtusa,https://www.seek.com.au/job/87274513?type=standard&ref=search-standalone&origin=jobCard#sol=8fc276b119cfb297ee55db1ec2c1e98f3430883f,15h ago,15.0,2025-09-17T16:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,,"Proven experience as an AI/ML Architect with strong knowledge of Azure ecosystem.
+87274513,Azure GenAI Architect,Virtusa,https://www.seek.com.au/job/87274513?type=standard&ref=search-standalone&origin=jobCard#sol=abea2d9dee9b2fe6175bdb56b8ba6d9a10c776e7,16h ago,16.0,2025-09-17T16:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,,"Proven experience as an AI/ML Architect with strong knowledge of Azure ecosystem.
 
 Hands-on expertise with Azure AI Foundry, Azure Machine Learning, Databricks, Mosaic AI.
 
@@ -813,7 +938,7 @@ Strong understanding of security, compliance, and responsible AI principles. 
 Familiarity with Kubernetes / AKS, CI/CD for AI/ML, and MLOps best practices. 
 
 Excellent communication, stakeholder engagement, and leadership skills."
-87273705,Level 3 Engineer – SOE and MECM Specialist,Unisys,https://www.seek.com.au/job/87273705?type=standard&ref=search-standalone&origin=jobCard#sol=1ccdc39ca1c0bf4aeba6422394360b1d08aa1fec,17h ago,17.0,2025-09-17T14:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"What success looks like in this role:
+87273705,Level 3 Engineer – SOE and MECM Specialist,Unisys,https://www.seek.com.au/job/87273705?type=standard&ref=search-standalone&origin=jobCard#sol=bdf580f5b9c787e0399f3cc00e4d8281415bee56,18h ago,18.0,2025-09-17T14:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"What success looks like in this role:
 
 Unisys is a technology solutions company that delivers successful outcomes for the most demanding organizations around the world. Unisys offerings include digital workplace solutions, cloud and infrastructure solutions, enterprise computing solutions and business process solutions.
 
@@ -907,7 +1032,7 @@ Unisys is proud to be an equal opportunity employer that considers all qualified
 
 
 This commitment includes our efforts to provide for all those who seek to express interest in employment the opportunity to participate without barriers. If you are a US job seeker unable to review the job opportunities herein, or cannot otherwise complete your expression of interest, without additional assistance and would like to discuss a request for reasonable accommodation, please contact our Global Recruiting organization at GlobalRecruiting@unisys.com or alternatively Toll Free: 888-560-1782 (Prompt 4).  US job seekers can find more information about Unisys’  EEO commitment here."
-87273670,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/87273670?type=standard&ref=search-standalone&origin=jobCard#sol=818a607e04445f109ba8b5dacbbaa54f6a5f8f2c,17h ago,17.0,2025-09-17T14:00:00+00:00,"Fortitude Valley, Brisbane QLD (Hybrid)","Networks & Systems Administration (Information & Communication Technology)
+87273670,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/87273670?type=standard&ref=search-standalone&origin=jobCard#sol=32f42542db80944b811d5b86220227539d6d2a57,18h ago,18.0,2025-09-17T14:00:00+00:00,"Fortitude Valley, Brisbane QLD (Hybrid)","Networks & Systems Administration (Information & Communication Technology)
 Government - State (Government & Defence)",Contract/Temp,"$136,035 - $145,990 per annum + super","Flexible hybrid working arrangements
 
 What you'll do  
