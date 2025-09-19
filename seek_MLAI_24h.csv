@@ -1,5 +1,177 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87312234,Junior Databricks Data Engineers,Accenture,https://www.seek.com.au/job/87312234?type=standard&ref=search-standalone&origin=jobCard#sol=b524ad8f918712eb63eb57ed71d27f2f15040abe,1h ago,1.0,2025-09-19T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Description 
+87315653,Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87315653?type=standard&ref=search-standalone&origin=jobCard#sol=92c241ddcd0e4c30ba2e0883b1176839067ca8e8,1h ago,1.0,2025-09-19T03:00:00+00:00,Brisbane QLD (Hybrid),Consultants (Information & Communication Technology),Full time,$140K - $160K Plus Super Per Annum,"Talent International is searching for an experienced Data Engineer to join our large mining technology client based in Brisbane CBD on a permanent basis, with 2 days WFH per week.
+
+// Permanent opportunity with a global mining technology leader
+// Hybrid work environment - 2 days WFH per week
+// Cutting-edge SaaS Data & Analytics platform
+
+The role:
+This position will see you play a key role in a large-scale program to develop and deploy a SaaS data and analytics solution for one of the leading mobile mining equipment manufacturers in the APAC region. You'll partner with business stakeholders, technology teams, and third-party ecosystem partners to design data pipeline requirements, data models, algorithms, and predictive models to support operational insights and efficiency.
+
+Responsibilities:
+
+Design and implement new data models and metrics
+Assist in establishing the DevOps environment
+Develop data pipelines and warehouse solutions in collaboration with technology partners
+Collect, prepare, and ensure quality of data across multiple sources
+Apply statistical and machine learning techniques to analyse large datasets
+Build predictive models to optimise mining operations and equipment maintenance
+Develop visualisations, dashboards, and reports for real-time monitoring
+Work with engineers and mining experts to improve operational efficiency
+
+
+Requirements:
+
+2-3+ years of experience in a Data Engineering role
+Strong SQL skills and experience with modern data warehousing (e.g. Snowflake)
+Proven experience designing and implementing high-performance data pipelines on cloud platforms (AWS preferred, Azure considered)
+Hands-on experience with DevOps practices (highly regarded)
+Proficiency in Python, R, SQL, Java, or JavaScript
+Experience with BI tools such as Looker, Power BI, or Tableau (highly regarded)
+Exposure to machine learning techniques (highly regarded)
+Experience with Snowflake, Airflow, and AWS (EC2, S3) desirable
+Degree in Computer Science, Engineering, Mathematics, or related field
+
+
+How to Apply:
+To find out more, please ""Apply for this job"" or contact James Grierson or Mats Rorvik at: james.grierson@talentinternational.com or mats.rorvik@talentinternational.com
+
+For over 30 years, Talent has been redefining the contracting and permanent recruitment experience with industry-leading support, exclusive benefits, and a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career.
+
+For a list of all vacant positions, please see our website: www.talentinternational.com"
+87313077,Support Engineer,Future Secure AI Pty Ltd,https://www.seek.com.au/job/87313077?type=standard&ref=search-standalone&origin=jobCard#sol=8080a86be916de909688445b997037e6cb837ca9,2h ago,2.0,2025-09-19T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Us 
+
+Future Secure AI (FSAI) is a leading enterprise AI company that was created in deep partnership with one of the world's largest financial institutions.
+
+Operating as an enterprise company with deep relationships at C-suite with large global enterprises, FSAI believes humans and AI Workers will collaborate seamlessly to raise organisational performance. FSAI has dozens of partnerships with leading companies in most industries and regions globally.
+
+FSAI has a strategic focus on expanding globally as we continue our extraordinary journey to transform the world with the most cutting-edge artificial intelligence.
+
+The Opportunity
+
+We are looking for a Support Engineer to act as the critical bridge between Product and our Development teams in Brazil. You will play a key role in troubleshooting issues across the platform, ensuring smooth operations, and feeding structured insights back into the development cycle. This role requires strong technical skills at the platform/runtime layer, combined with clear communication and a focus on safe, reliable operations.
+
+Key Responsibilities
+
+Troubleshooting & Incident Response
+
+Investigate issues by reading/debugging logs and traces at the platform and runtime layer.
+
+Work closely with Product teams and Brazilian Development squads to triage and resolve problems quickly.
+
+Escalate complex issues with clear context and structured bug reports, including reproducible steps.
+
+Operational Support
+
+Execute safe operational tasks under established guardrails, such as restarting pods, applying patches, and running approved database queries.
+
+Handle secrets and identity/authentication issues securely and in line with best practices.
+
+Monitor system health using observability and monitoring tools, identifying and addressing anomalies proactively.
+
+Continuous Improvement
+
+Document recurring issues and create automations/scripts to reduce manual support work.
+
+Provide feedback to platform and engineering teams to help harden systems against recurring issues.
+
+Collaborate with Product and Engineering on improving SLAs and support workflows.
+
+Skills & Experience
+
+Must-Have:
+
+Proficiency with Kubernetes (pods, deployments, scaling, logs).
+
+Strong understanding of APIs, message queues (e.g., Kafka, RabbitMQ, SQS), and distributed systems.
+
+Experience with monitoring/observability tools (e.g., Prometheus, Grafana, Datadog, ELK).
+
+Ability to read and debug application logs and traces to isolate platform/runtime issues.
+
+Familiarity with secure handling of secrets, identity, and authentication flows.
+
+Comfortable executing operational tasks with caution and under controls (restarts, patches, DB queries).
+
+Excellent communication skills: able to turn technical issues into structured bug reports with reproducible steps.
+
+Scripting/automation skills (e.g., Python, Bash, Go, or similar).
+
+Nice-to-Have:
+
+Exposure to cloud environments (AWS, Azure, GCP).
+
+Experience in a support, SRE, or DevOps engineering role.
+
+Knowledge of incident management frameworks (e.g., ITIL, SRE practices).
+
+Experience collaborating across time zones and distributed teams.
+
+What We’re Looking For
+
+A problem-solver who thrives on digging into logs, traces, and runtime details.
+
+Someone who balances technical rigor with clear communication, acting as the translator between Product and Engineering.
+
+Comfortable with both hands-on operational support and structured reporting back into dev cycles.
+
+Why Join Us
+
+Opportunity to shape the reliability and resilience of a fast-growing platform.
+
+Work directly with both Product leadership and international Development squads.
+
+Grow your skills across DevOps, SRE, and platform engineering while owning a critical support function.
+
+Collaborative, dynamic environment where your impact is felt 
+
+
+If you're passionate about working with state-of-the-art technology, alongside experienced world-class leadership, and joining truly some of the best talent in the industry, we'd love to hear from you!"
+87312524,Automation Tester,Ignite,https://www.seek.com.au/job/87312524?type=standard&ref=search-standalone&origin=jobCard#sol=8fe8562dd7cd7ff1279d6a6d60104bdbfba398f8,2h ago,2.0,2025-09-19T02:00:00+00:00,Sydney NSW (Hybrid),Testing & Quality Assurance (Information & Communication Technology),Contract/Temp,Competitive,"Automation Tester – Drive Quality and Innovation!
+
+Location: QLD, ACT, VIC, NSW – Hybrid  
+Contract: 12 Months with 1 x Months extension
+Must be Australian Citizen 
+
+
+Are you passionate about automation testing and delivering high-quality solutions? We’re looking for a detail-oriented Automation Tester to join our team and ensure our systems meet the highest standards. If you thrive in fast-paced environments and enjoy solving complex testing challenges, this role is for you!
+
+What You’ll Do:
+
+Develop and execute automated test scripts using MS Playwright, JavaScript, and BDD frameworks.
+Perform functional, BVT, and UAT testing to validate system changes.
+Collaborate with business stakeholders to ensure comprehensive test coverage.
+Manage test execution, document results, and coordinate defect re-testing via ALM.
+Create test data, scenarios, and produce detailed test reports for releases.
+Tools & Technology:
+MS Playwright | JavaScript | BDD Framework | ALM
+
+Required Skills:
+
+Translate business requirements into effective test scripts quickly.
+Hands-on experience with functional testing and defect management.
+Strong communication and collaboration skills.
+Understanding of the Test Life Cycle methodology.
+Nice to Have:
+
+Passion for accessible design and development.
+Experience with SAP systems.
+Familiarity with relevant business systems and processes.
+Adaptable and flexible mindset.
+Preferred Education & Experience:
+
+Degree in IT, CS, or related field.
+Several years of automation testing experience.
+
+Other Requirements:
+
+Team-oriented and detail-focused.
+Eagerness to learn new tools and methodologies.
+
+
+
+Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
+87312234,Junior Databricks Data Engineers,Accenture,https://www.seek.com.au/job/87312234?type=standard&ref=search-standalone&origin=jobCard#sol=d781d7c33428bb350fb0125670c027d902e11f38,2h ago,2.0,2025-09-19T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Description 
 
 We are seeking an enthusiastic Junior Databricks Data Engineer to join our high-impact client delivery teams. This role is designed for early-career professionals eager to build their expertise in cloud data engineering. You’ll work alongside senior engineers and architects, gaining hands-on experience in developing data pipelines, integrating data from diverse sources, and supporting business-critical analytics solutions. 
 
@@ -50,7 +222,7 @@ A collaborative, inclusive culture that values innovation and growth. 
 Career pathways into specialized and leadership roles within Data Engineering and AI. 
 
 Location: Sydney, Melbourne, Brisbane, Canberra"
-87310924,Head of Engineering,Lendi Group,https://www.seek.com.au/job/87310924?type=standard&ref=search-standalone&origin=jobCard#sol=d5e499188a74b881891414130d2ff1027ccec459,1h ago,1.0,2025-09-19T02:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Company Description
+87310924,Head of Engineering,Lendi Group,https://www.seek.com.au/job/87310924?type=standard&ref=search-standalone&origin=jobCard#sol=e099c7fc649faa49d5b8914f645b62d0cc838dc9,3h ago,3.0,2025-09-19T01:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
@@ -151,7 +323,7 @@ This is an opportunity to shape the future of a fast-growing, purpose-driven com
 Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
 
 #lendigroup #LI-GR2 #LI-hybrid"
-87310089,Looker Developer,Correlate Resources,https://www.seek.com.au/job/87310089?type=standard&ref=search-standalone&origin=jobCard#sol=b5e5f0cb20c3f4416b44d0733f35b4dab4fea125,2h ago,2.0,2025-09-19T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"ROLE:
+87310089,Looker Developer,Correlate Resources,https://www.seek.com.au/job/87310089?type=standard&ref=search-standalone&origin=jobCard#sol=80f9d0d0b7f9a51f92e7c18009a64d7cf440dee8,3h ago,3.0,2025-09-19T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"ROLE:
 The Looker developer will be responsible for setting up best practices for a large transformation project. 
 
 RESPONSIBILITIES:
@@ -175,7 +347,7 @@ Data Modelling and Cloud exposure (GCP)
 
 HOW TO APPLY
 Please click on the 'Apply' button below or email your resume to kate@correlateresources.com"
-87309339,Head of Data,Amotiv Limited,https://www.seek.com.au/job/87309339?type=standard&ref=search-standalone&origin=jobCard#sol=bc1dd5dccce50c70c20609895d657765085a4a3c,2h ago,2.0,2025-09-19T01:00:00+00:00,"South Melbourne, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"Your mission, should you choose to accept it: To harness the power of our data and transform it into actionable insights that shape and lead us into the future.
+87309339,Head of Data,Amotiv Limited,https://www.seek.com.au/job/87309339?type=standard&ref=search-standalone&origin=jobCard#sol=0c27d240bf297643d003713e79c8c0a156d7cb4c,3h ago,3.0,2025-09-19T01:00:00+00:00,"South Melbourne, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"Your mission, should you choose to accept it: To harness the power of our data and transform it into actionable insights that shape and lead us into the future.
 
 We are a forward-thinking organisation dedicated to leveraging data and having a “single source of truth” that enables and fosters growth on a global scale.
 
@@ -230,7 +402,7 @@ Growth: You can go outside of your lane, learn, and be involved – making the j
 Team Spirit: We work hard and we do it as a team – high energy, love a laugh, and create a welcoming and inclusive environment.
 
 Join us and be a part of our exciting journey towards data-driven success!"
-87309071,Senior Data Engineer - Microsoft Fabric,Datacom,https://www.seek.com.au/job/87309071?type=standard&ref=search-standalone&origin=jobCard#sol=9e5c655bcee5c808988013b54e400206f7e6e2ef,2h ago,2.0,2025-09-19T01:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Our Purpose
+87309071,Senior Data Engineer - Microsoft Fabric,Datacom,https://www.seek.com.au/job/87309071?type=standard&ref=search-standalone&origin=jobCard#sol=4d0d08b1bfa995c7677188cc5732c40baf2c5d1b,4h ago,4.0,2025-09-19T00:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Our Purpose
 
 Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in
 
@@ -284,7 +456,7 @@ We care about our people and provide a range of perks such as social events, chi
 We operate at the forefront of technology to help Australia and New Zealand’s largest enterprise organisations explore possibilities and solve their greatest challenges, so you will never run out of interesting new challenges and opportunities. 
 
 We want Datacom to be an inclusive and welcoming workplace for everyone and take pride in the steps we have taken and continue to take to make our environment fun and friendly, and our people feel supported."
-87309042,Senior Data Engineer - Microsoft Fabric,Datacom,https://www.seek.com.au/job/87309042?type=standard&ref=search-standalone&origin=jobCard#sol=53c2cf6bcc66505d0e6b9a7e50581a718ec5ad02,2h ago,2.0,2025-09-19T01:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Our Purpose
+87309042,Senior Data Engineer - Microsoft Fabric,Datacom,https://www.seek.com.au/job/87309042?type=standard&ref=search-standalone&origin=jobCard#sol=fa363b820c363015aaa9d1ebcc796dde92db1a35,4h ago,4.0,2025-09-19T00:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Our Purpose
 
 Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in
 
@@ -338,7 +510,7 @@ We care about our people and provide a range of perks such as social events, chi
 We operate at the forefront of technology to help Australia and New Zealand’s largest enterprise organisations explore possibilities and solve their greatest challenges, so you will never run out of interesting new challenges and opportunities. 
 
 We want Datacom to be an inclusive and welcoming workplace for everyone and take pride in the steps we have taken and continue to take to make our environment fun and friendly, and our people feel supported."
-87309022,Senior Data Engineer - Microsoft Fabric,Datacom,https://www.seek.com.au/job/87309022?type=standard&ref=search-standalone&origin=jobCard#sol=6e71a7630e9698e2d925b7c44d9c89192e242002,2h ago,2.0,2025-09-19T01:00:00+00:00,Brisbane QLD (Hybrid),Consultants (Information & Communication Technology),Full time,,"Our Purpose
+87309022,Senior Data Engineer - Microsoft Fabric,Datacom,https://www.seek.com.au/job/87309022?type=standard&ref=search-standalone&origin=jobCard#sol=258c6e85fd4ae8d08f07487deb35983e0d630b75,4h ago,4.0,2025-09-19T00:00:00+00:00,Brisbane QLD (Hybrid),Consultants (Information & Communication Technology),Full time,,"Our Purpose
 
 Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in
 
@@ -392,7 +564,7 @@ We care about our people and provide a range of perks such as social events, chi
 We operate at the forefront of technology to help Australia and New Zealand’s largest enterprise organisations explore possibilities and solve their greatest challenges, so you will never run out of interesting new challenges and opportunities. 
 
 We want Datacom to be an inclusive and welcoming workplace for everyone and take pride in the steps we have taken and continue to take to make our environment fun and friendly, and our people feel supported."
-87308529,AI Solutions Engineer,PetSure (Australia) Pty Ltd,https://www.seek.com.au/job/87308529?type=standard&ref=search-standalone&origin=jobCard#sol=743dd441a595dd44f8a00f976f2ef3c552a8fbb4,2h ago,2.0,2025-09-19T01:00:00+00:00,"Chatswood, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"Are you passionate about using AI to solve real business problems and make life better for pets and their people? At Petsure, we need someone who can translate cutting edge AI capabilities into practical solutions that transform how we work and serve our customers.
+87308529,AI Solutions Engineer,PetSure (Australia) Pty Ltd,https://www.seek.com.au/job/87308529?type=standard&ref=search-standalone&origin=jobCard#sol=6791590895a7e63dc5e0e37d6a81228f90c4a121,4h ago,4.0,2025-09-19T00:00:00+00:00,"Chatswood, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"Are you passionate about using AI to solve real business problems and make life better for pets and their people? At Petsure, we need someone who can translate cutting edge AI capabilities into practical solutions that transform how we work and serve our customers.
 
 
 We are looking for an AI Solutions Engineer to be the bridge between advanced AI technologies and meaningful business outcomes. You will not just build cool tech; you will solve real problems that matter to our teams and customers. Working closely with stakeholders across the business, you will design, prototype, and deploy AI solutions that make workflows smarter, decisions faster, and experiences better.
