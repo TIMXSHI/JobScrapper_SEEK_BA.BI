@@ -1,5 +1,167 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87435771,AI Engineer,Two Dot AI,https://www.seek.com.au/job/87435771?type=standard&ref=search-standalone&origin=jobCard#sol=e2b57e282d5571e491c26fd06261455008ec10a2,2h ago,2.0,2025-09-24T21:00:00+00:00,"Chermside, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,"$125,000 – $145,000 per year","Build the Platform That Changes Business Forever
+87438381,Data Engineer - Financial Markets,MFTE Staffing Services,https://www.seek.com.au/job/87438381?type=standard&ref=search-standalone&origin=jobCard#sol=a825cac6b8faeb485c455bb485b266eedc665dac,1h ago,1.0,2025-09-25T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$200,000 – $230,000 per year","Senior Data Engineer
+
+$200k – $230k package · Sydney or Remote (Australia)
+
+About the Company
+
+Join a fast-growing technology business that builds modern data and analytics platforms to power customer and market insights.
+They value trust, collaboration and autonomy, with a culture that rewards impact and supports life outside of work.
+
+About the Role
+
+As Senior Data Engineer, you’ll design and operate the core data environment that ingests, organises and serves high-volume customer and market data.
+This is a hands-on position blending data engineering and data infrastructure, focusing on R, Python and SQL and working across on-premises and cloud environments.
+
+What You’ll Do
+
+Design and build scalable, high-performance data pipelines to ingest and process large, complex datasets from multiple internal and external sources.
+
+Model and manage data flows and schemas to ensure quality, consistency and reliability.
+
+Implement best practices in data governance, access control, monitoring and observability.
+
+Work with product and analytics teams to align data architecture with business goals.
+
+Automate infrastructure provisioning and deployments using modern DevOps and Infrastructure-as-Code tools.
+
+Provide production support, including continuous improvement of system performance, availability and disaster recovery.
+
+What You Bring
+
+Degree in Computer Science, Engineering, Mathematics or equivalent experience.
+
+Proficiency in R, Python and SQL with strong data modelling and query optimisation skills.
+
+Solid understanding of distributed systems, modern data storage (e.g. S3, columnar stores) and streaming technologies (e.g. Kafka).
+
+Experience with cloud platforms (AWS, GCP) and Linux.
+
+Familiarity with orchestration tools (Airflow, Dagster) and container technologies (Docker, Kubernetes).
+
+Strong communication skills and the ability to work effectively in small, fast-moving teams as well as larger enterprise environments.
+
+Nice to Have
+
+Experience working end-to-end in small, agile environments, taking full ownership of design and delivery.
+
+Exposure to modern data formats (Delta Lake, Apache Iceberg) and data lakehouse architectures.
+
+Experience with observability tools (Prometheus, Grafana).
+
+Why Join
+
+Play a key role in shaping a greenfield data platform used for advanced analytics and data-driven decision making.
+
+Work with modern tooling across both cloud and on-prem environments.
+
+Join a supportive, collaborative culture with flexibility for remote work."
+87437372,Software Engineer – Manufacturing Management Systems,InTimeTec (Australia) Pty Ltd,https://www.seek.com.au/job/87437372?type=standard&ref=search-standalone&origin=jobCard#sol=235b86c0f9e5dced9162099b4bf7e74a802cf640,1h ago,1.0,2025-09-25T00:00:00+00:00,"Moorabbin Airport, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Software Engineer – Manufacturing Management Systems
+
+About the Company
+
+InTimeTec (Australia) Pty Ltd is part of a global technology services organization founded in 2009, with offices across the United States, Europe, South Korea, India, Dubai, and Australia. With over 1,000 employees worldwide, we partner with clients to deliver scalable software solutions across industries including manufacturing, retail, finance, healthcare, and government. Our culture is built on trust, transparency, and long-term relationships—helping businesses succeed while fostering a meaningful workplace for our people.
+
+About the Role
+
+This is a full-time hybrid role for a Software Engineer - Manufacturing Management System located in Greater Melbourne Area, with some work-from-home flexibility. The Software Engineer will be responsible for developing, testing, and maintaining software systems for manufacturing management. Day-to-day tasks include coding, debugging, and optimizing software solutions, collaborating with cross-functional teams to understand and implement requirements, and ensuring the effective performance of the manufacturing management system.
+
+Key Responsibilities
+
+Develop, test, and optimize MMS features, tools, and processes.
+
+Build and maintain web applications using .NET and ColdFusion.
+
+Write clean, scalable, and maintainable code.
+
+Troubleshoot and resolve software issues promptly.
+
+Participate in requirements gathering, design, development, testing, and deployment.
+
+Analyze user/business needs and implement system enhancements.
+
+Stay current with industry technologies and best practices.
+
+Support ERP (JDE/others) integration and web services.
+
+Skills & Qualifications
+
+Bachelor’s degree in Computer Science, IT, or related field.
+
+Minimum 3+ years of ColdFusion experience.
+
+Strong UI development skills: jQuery, Bootstrap, HTML, CSS, JavaScript.
+
+Proficiency in:
+
+.NET, RESTful APIs, Git, Azure DevOps
+
+MS SQL Server, Entity Framework, SSIS
+
+Spring MVC, Spring Boot, Microservices, ASP.NET, Razor Pages
+
+Experience with ERP systems (JDE preferred).
+
+Strong troubleshooting, problem-solving, and independent working skills.
+
+What We Offer
+
+Opportunity to work on impactful, enterprise-level applications.
+
+Exposure to a wide technology stack and modern development practices.
+
+Collaborative and supportive team environment.
+
+A culture built on trust, transparency, and long-term growth.
+
+Location
+
+Greater Melbourne Area (South Eastern Suburbs) - Onsite / Hybrid
+
+Job Type: Full-time
+
+Work Authorisation:
+
+Australia (Preferred)
+
+Application Deadline: 24/10/2025"
+87436413,Platform Reliability Engineer,Australian Centre for the Moving Image,https://www.seek.com.au/job/87436413?type=standard&ref=search-standalone&origin=jobCard#sol=698486452ae16e433a098a344a44a054f6bb7bd3,3h ago,3.0,2025-09-24T22:00:00+00:00,Melbourne VIC (Hybrid),"Networks & Systems Administration (Information & Communication Technology)
+Government - State (Government & Defence)",Full time,"Starting salary of $97,955 plus super","About ACMI
+
+ACMI is your museum of screen culture. Watch, play, make and discover the universe of screen-based art, films, TV and videogames. Visit us in Naarm/Melbourne's Fed Square, online and on tour. Our museum attracts millions of visitors through a vibrant offer of exhibitions, screenings, commissions and festivals. ACMI's industry, education and creative incubator programs inspire and develop the next generation of screen creatives. We are a globally recognised hub that connects people, communities, technology and ideas to shape our futures. More at acmi.net.au
+
+About the role
+
+ACMI is seeking a Platform Reliability Engineer to manage reliability, security, and scalability of the ACMI's ICT infrastructure across on-premise and cloud environments. The role plays a critical part in maintaining high availability of services, implementing robust disaster recovery strategies, and proactively identifying and resolving system issues. This is a new full-time ongoing role reporting to the Head of Systems & Infrastructure.
+
+What you'll bring to the role
+
+Relevant qualifications and practical experience working with: Cisco networking products and protocols, cloud services Azure and AWS supporting networking and compute and Logic Monitor or similar. Strong working knowledge of LANs, SANs, Azure, AWS, VMware, ICT security systems, wireless networks, firewalls, routers, core switches, and server/network monitoring tools.
+Extensive hands-on experience managing ICT infrastructure across on-premises and cloud environments, with strong technical expertise in Windows, Linux, and macOS systems.
+Strong knowledge of network and system security practices, including experience with anti-virus, spam prevention, and endpoint protection tools.
+Experience designing and implementing disaster recovery and business continuity strategies.
+Highly developed conceptual and analytical skills applicable to successful technical troubleshooting, problem solving across a range of technical/ systems applications/issues and ability to evaluate and implement continual improvements to ICT support systems.
+
+What we offer
+
+Full-time ongoing Grade 4.1 role, with a starting salary of $97,955 plus super.
+A talented, committed and creative team of people with a passion for screen culture, technology and media, cultural diversity, and inspiring new forms of creativity in our communities. A museum and workspace that provides an exceptional space to collaborate with colleagues located in the heart of Melbourne in Federation Square (just a 5 min walk from Flinders Street station).
+As a valued team member, you can enjoy complimentary and discounted tickets, discounts at our shop and cafe, access to wellbeing activities, learning and development programs and our Employee Assistance Program. Flexible working, including a mix of onsite and work from home days depending on your role. Visit the ACMI website to learn more about working with us.
+
+How to apply
+
+To obtain a position description and apply online visit ACMI Careers. Follow the online application process, submit your resume and a one-page cover letter explaining why you're interested in the role and how your experience makes you a good fit. Please contact us via peopleandculture@acmi.net.au or 03 8663 2200 to discuss making adjustments to the recruitment process for your accessibility needs.
+
+Applications close Sunday 5 October 2025 at 11:59pm.
+
+Please note interviews will be held on Tuesday 14 October 2025.
+
+ACMI is a child safe workplace and actively promotes the safety, wellbeing and inclusion of all children from all backgrounds. ACMI is an equal opportunity employer, committed to building an inclusive workplace that supports diverse thinking and innovation. We encourage applications from First Nations People, people of culturally diverse backgrounds, Deaf and Disabled people and people from the LGBTIQA+ community. All sectors of the community are welcome to apply.
+
+Applicants must be an Australian Citizen, Permanent Resident or hold a valid work permit or visa. Work eligibility will be checked as part of the recruitment process. The successful applicant is required to complete reference and background checks prior to employment, including a Working with Children Check where required and National Police Check.
+
+*Naarm is the traditional Aboriginal name for Melbourne which encompasses the traditional lands of the Kulin Nation, a collective of five Aboriginal language groups, the Wurundjeri, Boon Wurrung, Wathaurrung, Taungurung and Dja Dja Wurrung."
+87435771,AI Engineer,Two Dot AI,https://www.seek.com.au/job/87435771?type=standard&ref=search-standalone&origin=jobCard#sol=fbd158f0f389fbeb85f07f487b69b50951d1e02f,5h ago,5.0,2025-09-24T20:00:00+00:00,"Chermside, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,"$125,000 – $145,000 per year","Build the Platform That Changes Business Forever
 
 Two Dot AI | Full-Stack AI Engineer | $125-150k AUD
 
@@ -140,7 +302,7 @@ Don't Apply If:
 ✗ You prefer established tech stacks
 ✗ You code without AI assistance
 ✗ You're looking for a safe, predictable role"
-87435427,Senior Engineer - Java,Synechron Australia Pty Ltd,https://www.seek.com.au/job/87435427?type=standard&ref=search-standalone&origin=jobCard#sol=6c6b59c0c3ff2c07a33018a116cc21269835c059,3h ago,3.0,2025-09-24T20:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"About Synechron:
+87435427,Senior Engineer - Java,Synechron Australia Pty Ltd,https://www.seek.com.au/job/87435427?type=standard&ref=search-standalone&origin=jobCard#sol=8b00f31e620bfdeb94d78cd85a74648f65abd7b6,6h ago,6.0,2025-09-24T19:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"About Synechron:
 
 At Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization strategies span end-to-end Artificial Intelligence, Consulting, Digital, Cloud & DevOps, Data, and Software Engineering, servicing an array of noteworthy financial services and technology firms. Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years, our company has been honored with multiple employer awards, recognizing our commitment to our talented teams. With top clients to boast about, Synechron has a global workforce of 14,000+, and has 55 offices in 20 countries within key global markets.
 
