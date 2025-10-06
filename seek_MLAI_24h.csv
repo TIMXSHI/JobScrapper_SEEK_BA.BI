@@ -1,1 +1,136 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+87653662,AI Engineer SA / VIC / NSW,Expose,https://www.seek.com.au/job/87653662?type=standard&ref=search-standalone&origin=jobCard#sol=f5ecf63e115b002298417bffedd33f47db1997ea,2h ago,2.0,2025-10-05T23:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Shape the Future of Data with Exposé
 
+At Exposé, we're not just another consultancy—we're one of Australia's most respected names in Data, Analytics & AI. With teams across Adelaide, Brisbane, and Melbourne, we've built a reputation for solving some of the most complex data challenges in the country.
+
+
+Our secret? A people-first culture. We believe happy consultants build the best solutions, and that's why our team of ""Purple Peeps"" love coming to work every day. We back this up with flexible work arrangements, cutting-edge projects, access to the latest tech, and a culture where collaboration and innovation thrive.
+
+ 
+
+We are looking for an AI Engineer to design, build, and deliver practical AI solutions at enterprise scale. This role combines deep technical expertise with consulting skills to scope, architect, and operationalise AI systems. You will work across cloud platforms, generative AI, and agent-based workflows, collaborating with cross-functional teams to turn complex business challenges into usable, production-grade solutions.
+
+ 
+
+Key Responsibilities
+
+AI Solution Design & Delivery
+
+Design, develop, and deploy AI solutions with a focus on Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent-based workflows.
+
+Architect cloud-native AI systems (Azure, AWS, GCP) with an emphasis on scalability, security, and cost efficiency using modern DevOps/LLMOps practices.
+
+Implement robust agent workflows, including tool/function calling, guardrails, and state/memory management.
+
+Configure, manage, and monitor OpenAI and Microsoft AI platforms, including license and usage optimisation.
+
+Apply safety and governance controls to ensure reliable, ethical AI adoption.
+
+ 
+
+Data Engineering & Integration
+
+Build and manage scalable data engineering workflows using Databricks, including development and automation of notebooks for data processing, analytics, and ML pipelines.
+
+Develop and optimise data pipelines, APIs, and integration layers to support enterprise AI/ML workloads.
+
+Implement effective RAG patterns, including chunking, embeddings, and retrieval strategies.
+
+Work with structured and unstructured data across SQL, NoSQL, and distributed systems.
+
+Design and operate ETL/ELT processes, data transformations, and microservices-based data flows.
+
+Ensure data quality, observability, and lineage across pipelines supporting AI applications.
+
+ 
+
+Model Development & Operations
+
+Fine-tune and operationalise AI/ML models using open-source and enterprise frameworks (LangChain, LlamaIndex, LangGraph, CrewAI, Hugging Face, OpenAI, etc.).
+
+Apply basic machine learning techniques (classification, regression, clustering) for non-GenAI use cases where appropriate.
+
+Integrate observability and monitoring tools for LLM and agent performance, tracing, and evaluation.
+
+Contribute to CI/CD pipelines and manage codebases using GitHub, Azure DevOps, or similar platforms.
+
+Stay current with advances in LLMOps, GenAI, and intelligent automation; recommend best-fit tools and approaches.
+
+ 
+
+Consulting & Collaboration
+
+Run discovery and design sessions to shape proofs-of-concept and MVPs.
+
+Translate AI capabilities into clear business value propositions and roadmaps.
+
+Communicate risks, assumptions, and dependencies to technical and non-technical stakeholders.
+
+Collaborate with data engineers, developers, and business teams to deliver end-to-end solutions.
+
+ 
+
+Key Skills & Experience
+
+Experience: 4+ years building and delivering data-driven AI/ML systems in production.
+
+Programming: Strong Python skills.
+
+AI/ML & Frameworks: Experience with LLM/agent frameworks (LangChain, LlamaIndex, LangGraph, CrewAI), vector databases (Pinecone, Weaviate, pgvector), and basic ML modelling.
+
+Data Engineering: Strong proficiency with Databricks and notebook-based development, SQL, NoSQL, ETL/ELT, data modelling, distributed systems, APIs (FastAPI, REST), and stream processing.
+
+Collaboration Tools: Experience with Databricks, MLflow, Jira, Confluence, Azure DevOps.
+
+Soft Skills: Strong written and verbal communication, business acumen, and the ability to bridge technical solutions with business needs.
+
+ 
+
+What You’ll Gain
+
+Exposure to enterprise-scale projects applying the latest AI and automation technologies.
+
+Opportunities to develop in both technical depth and consulting breadth.
+
+Career progression with ongoing learning and leadership development.
+
+A collaborative, problem-solving environment where innovation and client impact are at the forefront.
+
+ 
+
+Why Join Exposé?
+
+·       Culture that's second to none – a team of respected industry leaders who support, challenge, and inspire each other.
+
+·       Work on real impact projects with government, utilities, defence, healthcare and more.
+
+·       Professional growth – development days, tech & training allowances, and opportunities to speak at industry forums.
+
+·       Community focus – we actively support events, networks, and knowledge-sharing that raise the bar across the data industry.
+
+
+
+
+If you're ready to engineer solutions that matter, grow alongside the best in the industry, and enjoy the journey while you're at it—we want to meet you.
+
+Apply now and join the Purple Peeps in shaping the future of data in Australia."
+87653025,Senior Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87653025?type=standard&ref=search-standalone&origin=jobCard#sol=7b176be0a7529e59ce6eabbd851036484faebc75,3h ago,3.0,2025-10-05T22:00:00+00:00,"Mitcham, Melbourne VIC (Remote)",Engineering - Software (Information & Communication Technology),Contract/Temp,ASAP Start | Attractive $$ on offer,"This well know utilities organisation is looking for a Senior Data Specialist to design and deliver scalable data pipelines, models, and automation across the Azure ecosystem.
+
+Key activities
+
+Develop and maintain Azure Data Factory, Databricks, and Delta lake pipelines.
+Build Lakehouse/Data Warehouse models using medallion architecture.
+Implement CI/CD pipelines with Azure DevOps for automation and delivery.
+Collaborate with stakeholders to create reusable, high-quality data assets.
+Support analytics, dashboards, and machine learning initiatives.
+Ensure performance, governance, and continuous improvement of data platforms.
+
+Skills and experience
+
+Strong experience in Azure Data Services, Databricks, and data modelling.
+Proven ability to design scalable, reliable data solutions.
+Hands-on CI/CD experience with Azure DevOps.
+Excellent problem-solving and stakeholder engagement skills.
+Relevant degree or Microsoft Azure certification highly regarded.
+
+Apply now to secure an interview or contact Alistair Barr on 0480 804 53 for a confidential discussion."
