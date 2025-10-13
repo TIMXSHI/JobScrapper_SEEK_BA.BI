@@ -1,5 +1,321 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87813360,Wintel Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87813360?type=standard&ref=search-standalone&origin=jobCard#sol=64187afde9bb78590590799d9cb34ad0cd0f2264,1h ago,1.0,2025-10-13T03:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Network (Information & Communication Technology),Contract/Temp,,"Our client is an Australian organisation with a national presence. Due to a busy period, they are seeking a mid-senior Wintel Engineer to join their team for an initial 6-12-month contract with a possibility of converting to permanent. This opportunity is based in Melbourne CBD, and you will be at the client site in Melbourne for a minimum of 3 days per week.
+87816496,Data Engineer,Liberty Financial,https://www.seek.com.au/job/87816496?type=standard&ref=search-standalone&origin=jobCard#sol=3d589149c6418c21541f648f50bc957ecb39e11a,1h ago,1.0,2025-10-13T04:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"You’ll work with a modern data platform, ingesting and modelling data from diverse sources to support analytics, data science, and business intelligence across the organisation.
+
+This is a hands-on role where you’ll build and maintain scalable data pipelines, integrate external data sources, and help drive innovation through feature engineering and automation. You’ll be part of a collaborative, agile team that values curiosity, ownership, and continuous learning.
+
+This role requires a minimum of three days in the office to support collaboration and learning.
+
+
+
+
+What You’ll Be Doing
+
+Building and maintaining the data lake, data warehouse, and processing pipelines.
+Ingesting and transforming internal and external data (e.g. open banking, migration, council approvals).
+Performing data cleaning, preparation, and feature engineering to support machine learning and analytics.
+Developing and maintaining a Feature Store that powers decision engines and reporting layers.
+Collaborating with stakeholders to understand data needs and deliver unified, accessible datasets.
+Migrating data science algorithms into production and supporting the platform end-to-end.
+Integrating systems and third-party APIs to enrich our data ecosystem.
+Championing innovation by piloting new data-driven technologies and approaches.
+Ensuring compliance with data governance and security standards.
+
+Is This Role for You?
+You’re excited by the challenge of turning messy data into clean, usable insights.
+You want to work in a team that values experimentation, agility, and continuous improvement.
+You’re comfortable working across the full data stack and enjoy solving complex technical problems.
+You’re customer-focused and driven to deliver solutions that make a real impact.
+You’re familiar with data engineering tools and concepts, and keen to deepen your skills in areas like feature engineering, API integration, and productionising ML models.
+You’re looking for a workplace that values diversity, inclusion, and learning.
+
+Experience with Python, functional programming, or cloud platforms is a bonus—but not essential.
+
+Why join Liberty?
+
+At Liberty, we celebrate people bringing their most genuine and authentic selves to work and we’re incredibly proud of the diverse and inclusive culture we’ve built. We’re living this commitment through our gender equality, disability, LGBTQIA+, mental health and religious and cultural initiatives. As we work towards helping people get financial, we acknowledge and value the contribution of indigenous Australians, Torres Strait Islanders and other cultural minority communities.
+
+We strive for diversity and inclusion within our workforce and deliver a number of initiatives for our community. We are proud to be endorsed by Work180 and a certified B Corporation.
+
+We are thrilled to be finalists in the Australian Employer of Choice and HR Team of the Year Awards – we will never be finished making Liberty the best place to work. We believe it’s the little extras that can make a big difference in helping our team meet their needs. There’s more to working at Liberty than just great financial rewards - we provide access to a large number of great benefits such as:
+
+Wellness perks including, free counselling, yoga and meditation classes, flu vaccinations, health-checks, massages, private health and gym subsidies
+We are social with monthly themed lunches and events, EOY and EOFY parties
+Corporate casual dress
+Community groups such as our Internal Pride Network (LGBTQIA+), Women in Leadership, Green Stars (environmental enthusiasts!) and more
+An opportunity to give back to the community with our Lend-A-Hand initiatives
+Flexible work arrangements
+Fantastic growth and career progression opportunities with access to online development courses
+There's more?! Yes we have coffee, daily fruit, constant snacks available anytime
+
+About Liberty
+
+Helping people is in our DNA. As the leading non-bank lender in Australia, for decades we have been providing free-thinking loans and have helped over 500,000 people get financial. We offer a broad range of flexible and custom products and are passionate about building and delivering exceptional experiences for our customers.
+
+We are a collaborative and social community that pride ourselves on being values driven. We base our vision of being the leading finance group that champions free thinking on FLAIR, our five key values that guide us to always be Fair, Learning, Accountable, Invested and Resourceful. These values inform everything we do, from how we look at the world, engage with our customers and treat each other.
+
+Liberty is an equal opportunity employer. We encourage applications from all people, regardless of race, gender, religion, age, sexual orientation, gender identity or disability.
+
+To submit your application for this role please click the ""Apply"" button.
+
+Only shortlisted candidates will be contacted."
+87816169,AWS Data Engineer,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/87816169?type=standard&ref=search-standalone&origin=jobCard#sol=05d0652ec56fdcf2e3d87e7a4d17ffef6e4160a5,1h ago,1.0,2025-10-13T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
+
+Are you ready to be an important part of this ever-transformational journey?
+
+At HCLTech Australia, we value the unique perspective and contributions of all individual and we actively encourage applications from Aboriginal and Torres Strait Islander people to apply for this role.
+
+Key skills:
+
+Senior Data Eng position here is the skills summary (the AWS data stack is must have)
+
+Sound understanding of Data modelling concepts 
+
+Strong knowledge of SQL 
+
+AWS Data Stack: S3,RDS, Redshift,Iceberg and Glue (proficient)
+
+Programming languages: Python/Spark (working knowledge)
+
+Data warehousing / ETL : Glue,EMR or Abinitio (working knowledge)
+
+Visualization : PowerBI, Tableau or QuickSight (familiarity)
+
+CI/CD tools : GitHub Actions, Jenkins,TeamCity, Artifactory or Octopus
+Experience in test automation and using test management tools like JIRA
+
+Roles and responsibilities:
+
+Strong Data Architecture expertise including different data modelling techniques and design patterns 
+
+Strong knowledge of data governance such as data lineage, technical metadata, data quality and reconciliation
+
+Ability to drive platform efficiency through automation and AI capabilities
+
+AWS Data Stack: EMR, Glue, Redshift, Athena, S3, Lambda, ECS
+
+Data Orchestration & Pipelines: Airflow, Dataform
+
+Data Formats & Modelling: Iceberg, JSON, XML, CSV, Data Modelling
+
+Programming & DevOps: Python, SQL, Git, GitHub Actions, Team City, Jenkins, Octopus,Unix shell scripting
+
+ETL & Ingestion: File ingress/egress solutions in AWS
+
+Security and Observability: DevSecOps, Artifactory, Observability toolingTesting & Automation: test automation frameworks, Jupyter Notebooks
+
+Familiarity with data warehousing and build experience in Teradata, Oracle
+
+Experience in visualisation tools such as PowerBI, Tableau
+
+Familiarity and experience with Agile processes
+
+Why Us
+
+We are one of the fastest-growing large tech companies in the world, with offices in 50+ countries across the globe and 219,000 employees.
+
+Our company is extremely diverse with 165 nationalities represented.
+
+We offer the opportunity to work with colleagues across the globe.
+
+We offer a virtual-first work environment, promoting a good work-life integration and real flexibility.
+
+We offer comprehensive benefits for all employees.
+
+We are a certified great place to work and a top employer in 17 countries, offering a positive work environment that values employee recognition and respect.
+
+Equality & Opportunity for All
+
+Representing 165 nationalities across the globe, we pride ourselves on being an equal opportunity employer, committed to providing equal employment opportunities to all applicants and employees regardless of race, religion, sex, color, age, national origin, pregnancy, sexual orientation, physical disability or genetic information, military or veteran status, Aboriginal and Torres Strait Islander people or any other protected classification, in accordance with federal, state, and/or local law.
+
+Candidate Data Privacy Notice | HCL Technologies
+
+We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data.  By replying to this email or submitting any personal data to HCLTech, you acknowledge that you have read and understood the candidate privacy notice and  have  provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”."
+87815354,Building Automation Engineer,Aurecon,https://www.seek.com.au/job/87815354?type=standard&ref=search-standalone&origin=jobCard#sol=571a1f0754014a057bbe05bc61b0d1e63b381a05,1h ago,1.0,2025-10-13T04:00:00+00:00,Sydney NSW (Hybrid),Building Services Engineering (Engineering),Full time,,"Want to bring ideas to life?
+
+As an Engineer, you're likely familiar with Aurecon - an established leader in design, engineering, and advisory services. But what makes joining us the right next step for you? Every project we deliver shapes a better future - with sustainability, innovation and technical excellence at its core. Ultimately, it comes down to one question: What kind of world do you want to create for the next generation? The choices we make today shape tomorrow - for our communities to our planet. At Aurecon, you have the opportunity to make those choices matter.
+
+How will your ideas contribute to shaping what's next?
+
+As our new Building Automation Engineer, you will be a vital part of Aurecon's Buildings Technology team, helping to shape the future of sustainable, carbon-neutral design. You'll join a collaborative and supportive team that works closely together to achieve our clients' goals.
+
+This role is ideal for someone who thrives in a technically complex environment, enjoys solving real-world problems, and is passionate about creating smarter, more efficient buildings through automation and control systems.
+
+Here are the key things you will do to 'bring ideas to life':
+
+Lead the design, execution, testing, and commissioning of building automation and control systems.
+Prepare detailed designs incorporating DDC/BMS, PLC, SCADA, and DCS platforms to meet client and Australian Standards.
+Conduct technical reviews of contractor documentation, including network schematics, wiring diagrams, and functional descriptions.
+Support stakeholder engagement and contribute to the development of control system strategies and specifications.
+Prepare technical and fee proposals for tenders and project bids.
+Deliver onsite implementation and commissioning of control systems as required.
+Apply working knowledge of engineering legislation and standards to ensure compliance across all project phases.
+
+
+How will your future be shaped by us?
+
+Joining Aurecon means you'll be at the award-winning edge of innovation and sustainability. We've been ranked in the Top 5 sustainability leaders and Top 3 most innovative companies in professional services by the AFR. Our work has earned accolades like the One Consult Innovative Design Award and Consult Australia's Large Firm of the Year. We don't just claim to be inclusive and innovative - we've been independently recognized for our innovation culture, gender equality, and LGBTI+ inclusion. Our Reconciliation Action Plan, now in its fourth edition since 2014, reflects our long-term commitment to meaningful change.
+
+As a multidisciplinary engineering and advisory consultancy, Aurecon offers a wide range of career pathways. Whether you're looking to deepen your technical expertise or explore new areas of the business, you'll have the opportunity to grow, evolve, and move across teams and disciplines throughout your career.
+
+On a personal level, you'll benefit from:
+
+Flexible work hours, remote work, working holidays, part-time and job share options
+A learning program 100% personalized to you, including the Aurecon Design Academy - earning you a Graduate Certificate in Design Management from RMIT University
+Ongoing support through mentoring, learning pathways, and our Careers Hub
+Competitive paid parental leave and cultural public holiday swaps
+Wellbeing support programs and a competitive fitness package
+
+
+
+What we're looking for:
+
+Degree qualified in Electrical, Mechanical, Industrial, ICT or a related discipline.
+Minimum 5 years' post-graduate experience across all project phases - from concept design to site commissioning.
+Strong experience in DDC and PLC control design including various interfaces such as OPC UA, Modbus TCP/IP & RTU, MQTT, BACnet/IP & MSTP and project delivery.
+Applied knowledge of Australian Standards, particularly AS 1668 and AS 3000.
+Networking systems and associated components including physical/virtual servers, network switches (CISCO and MOXA), fibre networks, structured cabling, ethernet networks and network security.
+Experience with BMS and building services systems, including HVAC, electrical, and fire systems.
+Proficiency in design and specification writing, with strong documentation and communication skills.
+
+
+
+Who is Aurecon?
+
+Aurecon's strength has always been our people. It's our people who build our shared purpose and bring ideas to life. It's our people who imagine and co-create with our clients a better future for people and the planet. Of course, you'll probably know lots of our award-winning projects. The new Allianz Stadium in Sydney? That was us. Tāmaki Regeneration in Auckland? That was us too. And the Tseung Kwan O Interchange in Hong Kong? You guessed it, us. So, when you join us, you'll be joining a community working together to tackle some of the world's most complex challenges.
+
+
+
+
+Ready to bring ideas to life?
+
+Then please apply. Remember, it's you and how you bring ideas to life which are important. Your background, unique needs and individuality will be valued. Visit our website to learn more at www.aurecongroup.com
+
+Apply now."
+87815349,Building Automation Engineer,Aurecon,https://www.seek.com.au/job/87815349?type=standard&ref=search-standalone&origin=jobCard#sol=2a36a3ec99651953b4992566775588ff7d7e043f,1h ago,1.0,2025-10-13T04:00:00+00:00,Brisbane QLD (Hybrid),Building Services Engineering (Engineering),Full time,,"Want to bring ideas to life?
+
+As an Engineer, you're likely familiar with Aurecon - an established leader in design, engineering, and advisory services. But what makes joining us the right next step for you? Every project we deliver shapes a better future - with sustainability, innovation and technical excellence at its core. Ultimately, it comes down to one question: What kind of world do you want to create for the next generation? The choices we make today shape tomorrow - for our communities to our planet. At Aurecon, you have the opportunity to make those choices matter.
+
+How will your ideas contribute to shaping what's next?
+
+As our new Building Automation Engineer, you will be a vital part of Aurecon's Buildings Technology team, helping to shape the future of sustainable, carbon-neutral design. You'll join a collaborative and supportive team that works closely together to achieve our clients' goals.
+
+This role is ideal for someone who thrives in a technically complex environment, enjoys solving real-world problems, and is passionate about creating smarter, more efficient buildings through automation and control systems.
+
+Here are the key things you will do to 'bring ideas to life':
+
+Lead the design, execution, testing, and commissioning of building automation and control systems.
+Prepare detailed designs incorporating DDC/BMS, PLC, SCADA, and DCS platforms to meet client and Australian Standards.
+Conduct technical reviews of contractor documentation, including network schematics, wiring diagrams, and functional descriptions.
+Support stakeholder engagement and contribute to the development of control system strategies and specifications.
+Prepare technical and fee proposals for tenders and project bids.
+Deliver onsite implementation and commissioning of control systems as required.
+Apply working knowledge of engineering legislation and standards to ensure compliance across all project phases.
+
+
+How will your future be shaped by us?
+
+Joining Aurecon means you'll be at the award-winning edge of innovation and sustainability. We've been ranked in the Top 5 sustainability leaders and Top 3 most innovative companies in professional services by the AFR. Our work has earned accolades like the One Consult Innovative Design Award and Consult Australia's Large Firm of the Year. We don't just claim to be inclusive and innovative - we've been independently recognized for our innovation culture, gender equality, and LGBTI+ inclusion. Our Reconciliation Action Plan, now in its fourth edition since 2014, reflects our long-term commitment to meaningful change.
+
+As a multidisciplinary engineering and advisory consultancy, Aurecon offers a wide range of career pathways. Whether you're looking to deepen your technical expertise or explore new areas of the business, you'll have the opportunity to grow, evolve, and move across teams and disciplines throughout your career.
+
+On a personal level, you'll benefit from:
+
+Flexible work hours, remote work, working holidays, part-time and job share options
+A learning program 100% personalized to you, including the Aurecon Design Academy - earning you a Graduate Certificate in Design Management from RMIT University
+Ongoing support through mentoring, learning pathways, and our Careers Hub
+Competitive paid parental leave and cultural public holiday swaps
+Wellbeing support programs and a competitive fitness package
+
+
+
+What we're looking for:
+
+Degree qualified in Electrical, Mechanical, Industrial, ICT or a related discipline.
+Minimum 5 years' post-graduate experience across all project phases - from concept design to site commissioning.
+Strong experience in DDC and PLC control design including various interfaces such as OPC UA, Modbus TCP/IP & RTU, MQTT, BACnet/IP & MSTP and project delivery.
+Applied knowledge of Australian Standards, particularly AS 1668 and AS 3000.
+Networking systems and associated components including physical/virtual servers, network switches (CISCO and MOXA), fibre networks, structured cabling, ethernet networks and network security.
+Experience with BMS and building services systems, including HVAC, electrical, and fire systems.
+Proficiency in design and specification writing, with strong documentation and communication skills.
+
+
+
+Who is Aurecon?
+
+Aurecon's strength has always been our people. It's our people who build our shared purpose and bring ideas to life. It's our people who imagine and co-create with our clients a better future for people and the planet. Of course, you'll probably know lots of our award-winning projects. The new Allianz Stadium in Sydney? That was us. Tāmaki Regeneration in Auckland? That was us too. And the Tseung Kwan O Interchange in Hong Kong? You guessed it, us. So, when you join us, you'll be joining a community working together to tackle some of the world's most complex challenges.
+
+
+
+
+Ready to bring ideas to life?
+
+Then please apply. Remember, it's you and how you bring ideas to life which are important. Your background, unique needs and individuality will be valued. Visit our website to learn more at www.aurecongroup.com
+
+Apply now."
+87815346,Building Automation Engineer,Aurecon,https://www.seek.com.au/job/87815346?type=standard&ref=search-standalone&origin=jobCard#sol=64add6b2e33f9795d7987c2410e721ad0f15152a,1h ago,1.0,2025-10-13T04:00:00+00:00,Melbourne VIC (Hybrid),Building Services Engineering (Engineering),Full time,,"Want to bring ideas to life?
+
+As an Engineer, you're likely familiar with Aurecon - an established leader in design, engineering, and advisory services. But what makes joining us the right next step for you? Every project we deliver shapes a better future - with sustainability, innovation and technical excellence at its core. Ultimately, it comes down to one question: What kind of world do you want to create for the next generation? The choices we make today shape tomorrow - for our communities to our planet. At Aurecon, you have the opportunity to make those choices matter.
+
+How will your ideas contribute to shaping what's next?
+
+As our new Building Automation Engineer, you will be a vital part of Aurecon's Buildings Technology team, helping to shape the future of sustainable, carbon-neutral design. You'll join a collaborative and supportive team that works closely together to achieve our clients' goals.
+
+This role is ideal for someone who thrives in a technically complex environment, enjoys solving real-world problems, and is passionate about creating smarter, more efficient buildings through automation and control systems.
+
+Here are the key things you will do to 'bring ideas to life':
+
+Lead the design, execution, testing, and commissioning of building automation and control systems.
+Prepare detailed designs incorporating DDC/BMS, PLC, SCADA, and DCS platforms to meet client and Australian Standards.
+Conduct technical reviews of contractor documentation, including network schematics, wiring diagrams, and functional descriptions.
+Support stakeholder engagement and contribute to the development of control system strategies and specifications.
+Prepare technical and fee proposals for tenders and project bids.
+Deliver onsite implementation and commissioning of control systems as required.
+Apply working knowledge of engineering legislation and standards to ensure compliance across all project phases.
+
+
+How will your future be shaped by us?
+
+Joining Aurecon means you'll be at the award-winning edge of innovation and sustainability. We've been ranked in the Top 5 sustainability leaders and Top 3 most innovative companies in professional services by the AFR. Our work has earned accolades like the One Consult Innovative Design Award and Consult Australia's Large Firm of the Year. We don't just claim to be inclusive and innovative - we've been independently recognized for our innovation culture, gender equality, and LGBTI+ inclusion. Our Reconciliation Action Plan, now in its fourth edition since 2014, reflects our long-term commitment to meaningful change.
+
+As a multidisciplinary engineering and advisory consultancy, Aurecon offers a wide range of career pathways. Whether you're looking to deepen your technical expertise or explore new areas of the business, you'll have the opportunity to grow, evolve, and move across teams and disciplines throughout your career.
+
+On a personal level, you'll benefit from:
+
+Flexible work hours, remote work, working holidays, part-time and job share options
+A learning program 100% personalized to you, including the Aurecon Design Academy - earning you a Graduate Certificate in Design Management from RMIT University
+Ongoing support through mentoring, learning pathways, and our Careers Hub
+Competitive paid parental leave and cultural public holiday swaps
+Wellbeing support programs and a competitive fitness package
+
+
+
+What we're looking for:
+
+Degree qualified in Electrical, Mechanical, Industrial, ICT or a related discipline.
+Minimum 5 years' post-graduate experience across all project phases - from concept design to site commissioning.
+Strong experience in DDC and PLC control design including various interfaces such as OPC UA, Modbus TCP/IP & RTU, MQTT, BACnet/IP & MSTP and project delivery.
+Applied knowledge of Australian Standards, particularly AS 1668 and AS 3000.
+Networking systems and associated components including physical/virtual servers, network switches (CISCO and MOXA), fibre networks, structured cabling, ethernet networks and network security.
+Experience with BMS and building services systems, including HVAC, electrical, and fire systems.
+Proficiency in design and specification writing, with strong documentation and communication skills.
+
+
+
+Who is Aurecon?
+
+Aurecon's strength has always been our people. It's our people who build our shared purpose and bring ideas to life. It's our people who imagine and co-create with our clients a better future for people and the planet. Of course, you'll probably know lots of our award-winning projects. The new Allianz Stadium in Sydney? That was us. Tāmaki Regeneration in Auckland? That was us too. And the Tseung Kwan O Interchange in Hong Kong? You guessed it, us. So, when you join us, you'll be joining a community working together to tackle some of the world's most complex challenges.
+
+
+
+
+Ready to bring ideas to life?
+
+Then please apply. Remember, it's you and how you bring ideas to life which are important. Your background, unique needs and individuality will be valued. Visit our website to learn more at www.aurecongroup.com
+
+Apply now."
+87813360,Wintel Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87813360?type=standard&ref=search-standalone&origin=jobCard#sol=ac78a83ecd50cf296ad5f0ac14d179cef4f943c5,2h ago,2.0,2025-10-13T03:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Network (Information & Communication Technology),Contract/Temp,,"Our client is an Australian organisation with a national presence. Due to a busy period, they are seeking a mid-senior Wintel Engineer to join their team for an initial 6-12-month contract with a possibility of converting to permanent. This opportunity is based in Melbourne CBD, and you will be at the client site in Melbourne for a minimum of 3 days per week.
 
 This role will require broad experience, mostly looking after BAU along with helping to improve the overall infrastructure environment. The ability to oversee end point and server patching is essential.
 
@@ -17,7 +333,7 @@ Experience in utilities, field services and defence industries is a bonus.
 
 
 For more information, please contact Liam at Liam.Lasslett@talentinternational.com."
-87812513,Electrical Engineer (Automation & Controls),Applied Robotics,https://www.seek.com.au/job/87812513?type=standard&ref=search-standalone&origin=jobCard#sol=511e7b8afb67aac9e8323dabaa9590cfaf6e2f19,1h ago,1.0,2025-10-13T03:00:00+00:00,"Silverwater, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"At Applied Robotics, we’re redefining what’s possible in Australian manufacturing. Our team designs and delivers world-first automation solutions that transform production for some of Australia’s biggest brands.
+87812513,Electrical Engineer (Automation & Controls),Applied Robotics,https://www.seek.com.au/job/87812513?type=standard&ref=search-standalone&origin=jobCard#sol=1f75dff7dd90062b876880517dcbfa5d92dc93ce,2h ago,2.0,2025-10-13T03:00:00+00:00,"Silverwater, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"At Applied Robotics, we’re redefining what’s possible in Australian manufacturing. Our team designs and delivers world-first automation solutions that transform production for some of Australia’s biggest brands.
 
 We’re looking for an Electrical Engineer (Automation & Controls) to join our growing Software & Controls team — a technically skilled, curious mind ready to lead innovation from concept to commissioning.
 
@@ -68,7 +384,7 @@ Documented, scalable, and future-ready control solutions that push boundaries.
 Why Applied Robotics?
 
 Applied Robotics mission is to transform Australian Industry into a manufacturing powerhouse. Our projects combine precision with purpose — engineering solutions for complex challenges with a high mix of advanced manufacturing technologies. At Applied, you’ll be part of a team that values innovation, quality, and transformative solutions."
-87808890,AI Engineering Lead,PRA,https://www.seek.com.au/job/87808890?type=standard&ref=search-standalone&origin=jobCard#sol=d43a45ade5629ee0ef2c4d7cf8b9035a0b8601b4,3h ago,3.0,2025-10-13T01:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,$180k-$240k Package,"Join a global technology leader delivering innovative, cloud-based software that helps organisations manage risk, resilience, and operational continuity.
+87808890,AI Engineering Lead,PRA,https://www.seek.com.au/job/87808890?type=standard&ref=search-standalone&origin=jobCard#sol=71900395be59e33c2570d6e317d1624e3fabcf14,4h ago,4.0,2025-10-13T01:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,$180k-$240k Package,"Join a global technology leader delivering innovative, cloud-based software that helps organisations manage risk, resilience, and operational continuity.
 Their award-winning platform is used worldwide across public and private sectors and is now entering an exciting new phase of AI-powered transformation.
 
 This is your chance to join a high-performing engineering culture where ideas turn into real-world impact. You will own the technical direction and scale intelligent systems that make a real impact.
@@ -99,7 +415,7 @@ Join a global organisation at the forefront of AI innovation.
 If you are interested in the this role - get in touch to see a full JD and to discuss more about the position. Contact Jonny.Church@PRA.com.au for more information.
 
 Australian Citizens and Permanent Residents only."
-87806507,Machine Learning Engineer,JB Hi Fi Group Pty Ltd,https://www.seek.com.au/job/87806507?type=standard&ref=search-standalone&origin=jobCard#sol=3e8d93f639b5611273ec534bca0a7643bb092dc7,4h ago,4.0,2025-10-13T00:00:00+00:00,"Southbank, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+87806507,Machine Learning Engineer,JB Hi Fi Group Pty Ltd,https://www.seek.com.au/job/87806507?type=standard&ref=search-standalone&origin=jobCard#sol=451d66e8937be51debde16a5c6ddeeb8905c94a1,5h ago,5.0,2025-10-13T00:00:00+00:00,"Southbank, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About Us
 
@@ -169,7 +485,7 @@ If you are interested in this exciting opportunity with us, please click apply a
 JB Hi-Fi Group is an equal opportunity employer committed to providing a work environment that promotes diversity and inclusion. If this opportunity excites you (even if you feel that you don’t meet 100% of the criteria) – please don’t hesitate to apply!
 
 Please note: Unsolicited CVs from Agencies will not be accepted."
-87806432,Postdoctoral Research Fellow & Research Fellow in AI,Macquarie University,https://www.seek.com.au/job/87806432?type=standard&ref=search-standalone&origin=jobCard#sol=0b9b636651e6e84338b09db883c358c82d4999a9,4h ago,4.0,2025-10-13T00:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Research & Fellowships (Education & Training),Contract/Temp,,"Postdoctoral Research Fellow (Level A) base salary $86,970 - $117,108
+87806432,Postdoctoral Research Fellow & Research Fellow in AI,Macquarie University,https://www.seek.com.au/job/87806432?type=standard&ref=search-standalone&origin=jobCard#sol=9a408527d31bec9fed30fb6d9ba457e00b4a264d,5h ago,5.0,2025-10-13T00:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Research & Fellowships (Education & Training),Contract/Temp,,"Postdoctoral Research Fellow (Level A) base salary $86,970 - $117,108
 Research Fellow (Level B) base salary $123,435 - $146,044 (appointment level will be based on level of experience)
 Appointment type: Full-time or part-time (Pro-rata rates apply for part-time appointments), fixed-term position for 2 years (with possibility of extension)
 Macquarie University Wallumattagal Campus (North Ryde)
@@ -270,7 +586,7 @@ At Macquarie, we believe diversity makes us stronger, inclusion drives our succe
 
 Flexible Work
 At Macquarie, we believe by providing flexibility in when, where and how work is done, we can support our staff to manage their personal commitments, while optimising their work performance and contributions to the University. See how we lead in flexible work to enable an outcome focused and inclusive workplace. To learn more about our culture and hiring process, visit our Jobs at Macquarie page."
-87805227,Systems Engineer - Defence Simulation,MTP Services,https://www.seek.com.au/job/87805227?type=standard&ref=search-standalone&origin=jobCard#sol=13f5c21bddc8a8b889d46c4efbe4bc8a362eb955,5h ago,5.0,2025-10-12T23:00:00+00:00,Canberra ACT (Hybrid),Systems Engineering (Engineering),Contract/Temp,,"Our leading Defence client is seeking an experienced Systems Engineer to join their simulation and training team.
+87805227,Systems Engineer - Defence Simulation,MTP Services,https://www.seek.com.au/job/87805227?type=standard&ref=search-standalone&origin=jobCard#sol=881c05f1fa3c747f0dd93b7af9a326bab3c54671,6h ago,6.0,2025-10-12T23:00:00+00:00,Canberra ACT (Hybrid),Systems Engineering (Engineering),Contract/Temp,,"Our leading Defence client is seeking an experienced Systems Engineer to join their simulation and training team.
 
 This is a Defence simulation engineering role focused on designing, building, and sustaining the simulation systems that drive ADF joint training exercises.
 
