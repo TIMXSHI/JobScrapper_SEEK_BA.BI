@@ -1,5 +1,139 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87899980,Senior Data Engineer,Bolton Clarke,https://www.seek.com.au/job/87899980?type=standard&ref=search-standalone&origin=jobCard#sol=25c25e1ad7aa3abb960efe0503ef3ef122d8c5fe,1h ago,1.0,2025-10-16T02:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,"$145,000 to $165,000","About us:
+87904715,Enterprise Integration & Data Platform Engineer,Elysium Digital,https://www.seek.com.au/job/87904715?type=standard&ref=search-standalone&origin=jobCard#sol=7866cc56ff4b82a302bc7450f65d3b3c71158049,1h ago,1.0,2025-10-16T03:00:00+00:00,Canberra ACT (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"We are seeking an experienced Enterprise Integration Platform Engineer for an initial 12 MONTH CONTRACT. The Azure Integration Services (AIS) project is investigations into different pathways for completing delivery of its project.
+ 
+Job Title
+Enterprise Integration & Data Platform Engineer (Azure | Fabric | Purview)
+
+You Will:
+
+Own the end-to-end integration and data platform for a modern data fabric stack. Design and run Azure Integration Services (AIS) patterns, stand up and operate Microsoft Fabric (incl. OneLake), and govern the estate using Microsoft Purview, all aligned to security, compliance and operational excellence.
+
+Key Outcomes (first 12 months)
+
+Production-grade API & event backbone (Logic Apps/APIM/Service Bus/Event Grid) with versioning, observability and DR tested.
+Microsoft Fabric workspace(s) stood up with OneLake shortcuts, ingestion/virtualisation/persistence pipelines, and Power BI integrated.
+Purview scanning/classification live with RBAC/ABAC, lineage across AIS+Fabric, and an audit-ready compliance pack.
+Documented integration & data operating model (onboarding/offboarding, runbooks, SLAs) and targeted training rolled out to devs and ops staff.
+Responsibilities:
+
+Architecture & Design: Choose and document integration patterns (req/resp, pub/sub, message bus), API lifecycles and Fabric data models; blueprint landing zones and governance processes.
+Build & Operate: Implement Logic Apps, APIM policies (auth, throttling, versioning), Service Bus topics/queues, Event Grid; stand up Fabric pipelines, Lakehouse/Dataset layers, and Power BI integration; embed monitoring, logging, alerting, cost controls.
+Security & Compliance: Implement identity (Managed Identity/OAuth2), least-privilege, data classification & retention; configure Purview scans, glossary, policies and lineage; produce audit artefacts.
+Performance & Resilience: Load testing, tuning, capacity and backup/DR (rehearsed).
+Enablement: Run targeted training; write clear docs and handover; support hybrid dev models (code, low-code, no-code).
+The Must Haves:
+
+Azure Integration Services (AIS): Logic Apps, APIM (policies, versioning), Service Bus (topics/queues), Event Grid, IaC with Terraform, CI/CD with Azure DevOps/GitHub, monitoring and runbooks. 
+Microsoft Fabric: Ingestion/ELT (Fabric Data Factory), Lakehouse, OneLake shortcuts, semantic models, workspace & capacity management, Power BI integration.
+Microsoft Purview: Scanning/catalogue, data classification, RBAC/ABAC, lineage, audit support. 
+Competencies:
+
+Enterprise integration & data platform architecture; governance & metadata mgmt; policy automation and enforcement; API design; performance/load testing; operating model & governance design; inclusive training delivery (developers → infra/ops).
+Strong stakeholder skills across BA/Dev/Test/Cyber/Ops.
+Nice-to-haves
+
+TerraForm, Bicep/ARM, hybrid integration (on-prem connectors), ISO27001 alignment, Essential-8 familiarity.
+You MUST be an Australian Citizen and hold a minimum of a Baseline Security Clearance to be considered for this role.
+  
+For more information contact Mitchell on 0425 269 780.
+  
+Only shortlisted candidate will be contacted for this role."
+87904235,AI Engineer,Michael Page,https://www.seek.com.au/job/87904235?type=standard&ref=search-standalone&origin=jobCard#sol=fb678e217e83cba035cd430413cd356201854b04,1h ago,1.0,2025-10-16T03:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Are you ready to take on a challenging role as an Senior or Lead AI Engineer? This exciting opportunity will see you design, develop, and implement cutting-edge Gen AI solutions to enhance business operations.
+
+Client Details
+
+This opportunity is with a leading AI Consultancy, well-regarded for its focus on innovation and advanced technological solutions. The company has grown year on year and is driving further APAC expansion to satisfy its growing Enterprise customer base.
+
+Description
+
+Design and develop AI models and algorithms to address business challenges.
+Collaborate with cross-functional teams to integrate AI solutions into existing systems.
+Test and optimise AI models to improve accuracy and efficiency.
+Analyse large data-sets to extract meaningful insights and trends.
+Stay updated with the latest advancements in AI technologies and tools.
+Document technical processes and present findings to stakeholders.
+Ensure AI solutions comply with relevant ethical and regulatory standards.
+Provide support and troubleshooting for AI-related issues.
+
+Profile
+
+A successful AI Engineer should have:
+
+A degree in Computer Science, Data Science, or a related field.
+Proficiency in programming languages such as Python, R, or Java.
+Experience with machine learning frameworks like TensorFlow or PyTorch.
+Strong analytical and problem-solving skills.
+Familiarity with cloud computing platforms and APIs.
+Exposure to technical leadership
+A client led focus
+Strong QA & Testing processes
+Knowledge of data preprocessing and feature engineering techniques.
+Excellent communication skills to collaborate with teams and stakeholders.
+
+Job Offer
+
+Comprehensive corporate benefits and perks.
+Generous holiday leave to support work-life balance.
+Supportive company culture with a focus on career development.
+Opportunities to work on innovative projects at ASX & Blue-chip companies
+
+If you're passionate about AI and ready to take the next step in your career, apply now and join a forward-thinking team in Sydney or Melbourne!
+
+To apply online please click the 'Apply'.
+
+Only valid Australian Work Permit holders will be considered."
+87903666,Mechatronics Engineer,MRA Automation,https://www.seek.com.au/job/87903666?type=standard&ref=search-standalone&origin=jobCard#sol=f5cf446d8184012b3873e54dd305f23af6a45431,1h ago,1.0,2025-10-16T03:00:00+00:00,"Warabrook, Newcastle, Maitland & Hunter NSW",Electrical/Electronic Engineering (Engineering),Full time,,"Axo33 is a division within MRA Automation, delivering smart, scalable bulk material handling software products to clients worldwide, across the ports infrastructure and bulk materials handling sectors.
+
+Our innovation is powered by close collaboration between our research and development teams, experienced engineers, industry partners, and academic institutions. With a growing portfolio of market-leading software products deployed worldwide, we’re expanding our capabilities and are seeking a talented Mechatronics Engineer to join our Newcastle-based team.
+
+About the Role
+
+As a Mechatronics Engineer, you’ll contribute to the development of intelligent automation systems by:
+
+Designing software applications that integrate data from sensors such as LiDAR and radar
+
+Developing and implementing control algorithms for real-time optimisation of industrial machines
+
+Applying computer vision and machine learning techniques to enhance system performance
+
+Supporting the delivery of innovative projects with global impact
+
+This is a hands-on technical role suited to someone who enjoys solving complex engineering challenges and working in a collaborative environment.
+
+Preferred Experience Includes:
+
+Machine Learning & AI: Knowledge of common ML algorithms
+
+Sensor Technologies: LiDAR, radar, sensor fusion
+
+Computer Vision & Robotics: Exposure to ROS; experience in image processing and visual perception systems
+
+Software Development: Proficiency in Python, C++ and/or C#; familiarity with version control (e.g., Git)
+
+Systems Integration: Understanding of real-time systems and control architectures
+
+ Bonus Points For: 
+
+Experience with mobile industrial machines such as stackers, reclaimers, or ship loaders
+
+Familiarity with bulk materials handling systems, including train loaders, conveyors, or dump stations
+
+ What We’re Looking For
+
+We value team players who are eager to learn, share their knowledge, and contribute to a positive and innovative work environment. Strong communication skills and a customer-focused mindset are essential.
+
+Why Join Axo33?
+
+Be part of a fast-growing company delivering world-first automation solutions
+
+Collaborate with experts in a supportive, agile engineering environment
+
+Work on meaningful, high-impact projects with real-world outcomes
+
+Ready to make an impact? Apply now and help us redefine what’s possible in industrial automation.
+
+To learn more about what we do, visit axo33.com"
+87899980,Senior Data Engineer,Bolton Clarke,https://www.seek.com.au/job/87899980?type=standard&ref=search-standalone&origin=jobCard#sol=8a44fccf3bb391713a8c37958bc7b7852c50ddaa,3h ago,3.0,2025-10-16T01:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,"$145,000 to $165,000","About us:
 
 Bolton Clarke is Australia’s largest independent, not-for-profit aged care provider shaping the future of positive ageing. With RSL Queensland and the Royal District Nursing Service at the heart of our DNA, we have been caring for Australians since 1885. Today, our exceptional teams support more than 130,000 people to live independently at home and across our 43 retirement living communities and 88 residential aged care homes. Everything we do is dedicated to enabling, celebrating and supporting older Australians to live and age positively. 
 
@@ -52,7 +186,7 @@ How to Apply
 To join our diverse, purpose driven organisation that offers rewarding professional development opportunities, please apply below with a resume and cover letter.
  
 Applicants must obtain Federal Police Clearance or willingness to obtain, along with this season's flu vaccination and provide Covid-19 vaccination evidence."
-87897024,Senior Data Engineer,City of Boroondara,https://www.seek.com.au/job/87897024?type=standard&ref=search-standalone&origin=jobCard#sol=5581d91a7d0f60524549c7be67886f499275dcd5,3h ago,3.0,2025-10-16T00:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+87897024,Senior Data Engineer,City of Boroondara,https://www.seek.com.au/job/87897024?type=standard&ref=search-standalone&origin=jobCard#sol=79ffa3ba523d8b1b6ab6df3758e1d8c7d8562b60,5h ago,5.0,2025-10-15T23:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
 Government - Local (Government & Defence)",Full time,,"Collaborate with cross functional teams to deliver innovative solutions to improve customer outcomes
 
 Attractive Camberwell location, flexible/hybrid working arrangements
@@ -100,7 +234,7 @@ Employment requirements
 
 How to apply
 Please submit your application online via the ‘Apply’ button by Sunday 2 November 2025. All applications must be made via the online portal; no applications direct to the hiring manager or from recruitment agencies will be considered."
-87896504,Data Engineer,City of Boroondara,https://www.seek.com.au/job/87896504?type=standard&ref=search-standalone&origin=jobCard#sol=036ea293a326945300f659628774cbdb2dfa8e57,4h ago,4.0,2025-10-15T23:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+87896504,Data Engineer,City of Boroondara,https://www.seek.com.au/job/87896504?type=standard&ref=search-standalone&origin=jobCard#sol=af289ab2d1dbc91bb5d6329541646282e4494a7d,5h ago,5.0,2025-10-15T23:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
 Government - Local (Government & Defence)",Contract/Temp,,"Great opportunity to build and support the continuous evolution of Council’s EDP
 
 Attractive Camberwell location, flexible/hybrid working arrangements
@@ -150,7 +284,7 @@ Employment requirements
 
 How to apply
 Please submit your application online via the ‘Apply’ button by Sunday 2 November 2025 All applications must be made via the online portal; no applications direct to the hiring manager or from recruitment agencies will be considered."
-87892797,Senior Data Analyst,Lendi Group,https://www.seek.com.au/job/87892797?type=standard&ref=search-standalone&origin=jobCard#sol=929da8b2adec62a932d369fc28985870ec1bb617,12h ago,12.0,2025-10-15T15:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+87892797,Senior Data Analyst,Lendi Group,https://www.seek.com.au/job/87892797?type=standard&ref=search-standalone&origin=jobCard#sol=ca0be9d20cf58db36789e07850d1628ace58ffec,14h ago,14.0,2025-10-15T14:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business focused on transforming the home loan industry. It operates the country’s #1 retail mortgage broker – the iconic Aussie Home Loans franchise – and the Australia’s #1 digital mortgage brand, Lendi.
