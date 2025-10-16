@@ -1,5 +1,103 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-87892797,Senior Data Analyst,Lendi Group,https://www.seek.com.au/job/87892797?type=standard&ref=search-standalone&origin=jobCard#sol=b8c8f610806d6b0838778f19ee7cbdaa8494bf04,8h ago,8.0,2025-10-15T15:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+87897024,Senior Data Engineer,City of Boroondara,https://www.seek.com.au/job/87897024?type=standard&ref=search-standalone&origin=jobCard#sol=0d3400be422e63dc7449a7cd68a10a82f6d77ee1,2h ago,2.0,2025-10-15T23:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+Government - Local (Government & Defence)",Full time,,"Collaborate with cross functional teams to deliver innovative solutions to improve customer outcomes
+
+Attractive Camberwell location, flexible/hybrid working arrangements
+
+Full time role $132,478 - $148,326 per annum (plus super and RDO)
+
+ A little bit about the role
+The Senior Data Engineer will be a key enabler in achieving the City of Boroondara's goal of enhancing data management and analytics across the organisation. Reporting to the Data Engineering Lead, this new role will build and support the continuous evolution of Council’s Enterprise Data Platform (EDP) and data products designed to improve Council’s operational and strategic capabilities.
+
+This role will provide specialist leadership in data modelling and engineering and maintaining physical data models, definitions, and mapping the organisation’s Data Platform and Business Intelligence (BI) tools. As custodian of the EFP Lakehouse data models you, will ensure structure, quality, accuracy and accessibility of data to enable insights for decision-making and supporting both projects and BAU. 
+
+A little bit about you
+You will be a skilled and experienced data professional with strong experience in building pipelines with modern meta- data medallion architecture at the enterprise level using Microsoft fabric and/or Data bricks.  You will be a skilled communicator with the ability to influence and gain the support of diverse business stakeholders to engage in enterprise data governance and management objectives,
+
+ You will have  
+
+Expertise in building enterprise grade data models with best practice methodologies (e.g. Kimball, Inmon, Mesh); and the demonstrated ability to plan, design and implement models within data platforms.
+
+Experience in establishing and/or strengthening data governance frameworks, including standardisation of data models, metadata management, and regulatory compliance.
+
+Deep understanding of scalable pipeline design, ETL/ELT processes using technologies like Azure Data Factory, data bricks, Azure SQL, Azure Data Lake, Azure Synapse, Azure API management, Function apps.
+
+Experience building real time streaming pipelines using event hubs, streaming, Kusto DB, KQL, service bus and other technologies.
+
+Experience with agile ways of working (e.g. kanban boards, sprint cycles) and agile tools including JIRA, Confluence, and help desk (e.g. Service Now).
+
+Desirable: Ability to code in T-SQL, python, KQL, GraphQL will be highly regarded, as will your AI and ML experience for strategic or complex initiatives.
+
+Desirable: Experience mentoring technical staff, fostering a culture of innovation and continuous improvement.
+
+Want to know more?
+For further information about this opportunity please refer to the Position Description or contact Shridar Wangnekar via email on Shridar.Wangnekar@boroondara.vic.gov.au to schedule a confidential discussion.
+
+ What sets us apart?
+•    A supportive and friendly workplace culture that values diversity, collaboration and continuous improvement. 
+
+•    Staff benefits such as flexible working arrangements, wellbeing programs, gym and pool memberships 
+•    An investment in your ongoing professional development and career growth 
+
+Employment requirements
+•    Applicants must have the right to work in Australia. 
+
+•    Preferred applicants will be required to undergo a National Police Record Check.
+
+
+How to apply
+Please submit your application online via the ‘Apply’ button by Sunday 2 November 2025. All applications must be made via the online portal; no applications direct to the hiring manager or from recruitment agencies will be considered."
+87896504,Data Engineer,City of Boroondara,https://www.seek.com.au/job/87896504?type=standard&ref=search-standalone&origin=jobCard#sol=01e0bc5c3827dbb3fe45c75b00ad464cd1890be6,3h ago,3.0,2025-10-15T22:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+Government - Local (Government & Defence)",Contract/Temp,,"Great opportunity to build and support the continuous evolution of Council’s EDP
+
+Attractive Camberwell location, flexible/hybrid working arrangements
+
+Limited Tenure Fixed term until 27/10/27 Full time Salary $114,259 - $127,588 per annum (plus super and RDO)
+
+ A little bit about the role
+The Data Engineer will support the City of Boroondara's goal of enhancing data management and analytics across the organisation.
+
+This role will have a significant role in building ingestion pipelines from various sources to the enterprise data platform, redefining, maintaining and enhancing Council’s data governance framework, standards and documentation. Working with engineers, analysts and business stakeholders to ensure that the structure, quality, accuracy, and accessibility of Council’s data support high quality analytics and insights for decision making.
+
+A little bit about you
+You will have solid data engineering skills and demonstrated experience delivering ETL/ELT pipelines in a metadata-driven medallion architecture at enterprise scale (Microsoft Fabric / Databricks / Azure data factory / Synapse). You will bring demonstrated experience in maintaining and improving data governance within organisations, including applying standards for metadata, data quality, lineage, security, and access and the ability to contribute to model standardisation and compliance.
+
+ You will have  
+
+Experience writing T-SQL queries to driver business logic in stored procedures, functions, views
+
+Experience working with Azure services, including Azure data lake, Azure storage accounts, function apps, and Azure APIM.
+
+Demonstrated data-warehouse skills and experience, including onboarding new sources, applying business transformations, and building fact/dimension models (including SCD and incremental loads).
+
+Real-time streaming experience with Event Hubs, Spark Structured Streaming or Azure Stream Analytics, Azure Data Explorer (Kusto) with KQL, and Azure Service Bus.
+
+Well-developed written and verbal communication skills with the ability to collaborate with engineers, analysts, and business stakeholders to clarify requirements and facilitate agreement on data standards and protocols.
+
+Experience developing clear data governance documentation, including runbooks, pipeline diagrams, and lineage records, and supporting implementation by responsible owners.
+
+Experience in agile delivery, including working in sprints using Jira/Azure DevOps, documenting processes in Confluence, tracking tickets in ServiceNow, and utilising Git and CI/CD workflows.
+
+Ability to rapidly assimilate new information and adapt to changing priorities and tooling
+
+Want to know more?
+For further information about this opportunity please refer to the Position Description or contact Shridar Wangnekar via email on Shridar.Wangnekar@boroondara.vic.gov.au to schedule a confidential discussion.
+
+What sets us apart?
+•    A supportive and friendly workplace culture that values diversity, collaboration and continuous improvement. 
+
+•    Staff benefits such as flexible working arrangements, wellbeing programs, gym and pool memberships 
+•    An investment in your ongoing professional development and career growth 
+
+Employment requirements
+•    Applicants must have the right to work in Australia. 
+
+•    Preferred applicants will be required to undergo a National Police Record Check.
+
+
+How to apply
+Please submit your application online via the ‘Apply’ button by Sunday 2 November 2025 All applications must be made via the online portal; no applications direct to the hiring manager or from recruitment agencies will be considered."
+87892797,Senior Data Analyst,Lendi Group,https://www.seek.com.au/job/87892797?type=standard&ref=search-standalone&origin=jobCard#sol=6611cc5d04f3031eeaf90e8570f79ade97004494,11h ago,11.0,2025-10-15T14:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business focused on transforming the home loan industry. It operates the country’s #1 retail mortgage broker – the iconic Aussie Home Loans franchise – and the Australia’s #1 digital mortgage brand, Lendi.
