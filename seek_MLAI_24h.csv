@@ -1,5 +1,145 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88005564,Data Engineer,Map Talent Group,https://www.seek.com.au/job/88005564?type=standard&ref=search-standalone&origin=jobCard#sol=1000d93ddd8727e666540f6f7b55897e62147d8a,1h ago,1.0,2025-10-21T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,100 - 140 ph,"MAP Talent is proud to partner with a leading insurer embarking on a significant data transformation program to consolidate multiple legacy systems into a modern, centralised data environment built on Microsoft Azure.
+88008012,ML Engineer,Hays,https://www.seek.com.au/job/88008012?type=standard&ref=search-standalone&origin=jobCard#sol=fa813ff86798d840a301487f5418dc98360ea16c,1h ago,1.0,2025-10-21T07:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Our Client is looking to hire a ML Engineer for their Digital Channels and Enablement team. The ML Engineer is responsible for delivering end-to-end AI use cases and solutions with the AI team. You will work closely with Data Engineers, Data Scientists, and Cloud & Cyber teams. The role spans the full lifecycle—from research to delivery—using a human-centred design approach to ensure that solutions align with business objectives while providing seamless, user-focused experiences.
+
+Operating within agile delivery teams, the ML Engineer works closely with stakeholders, product owners, and developers to translate requirements into scalable AI solutions that integrate seamlessly with new and existing design frameworks.
+
+The role requires the ability to balance technical ML Engineer skills with effective communication, and collaborating with the wider Digital Team & business to align schedules, ensuring delivery dates are met.
+
+
+
+
+As a ML Engineer, you will:
+
+
+
+
+· Develop, optimize, and deploy machine learning models and algorithms (traditional ML and Gen AI) in production systems.
+
+· Collaborate with data scientists to understand modelling requirements and translate prototypes into production-ready code using CICD.
+
+· Build scalable and automated ML pipelines for data ingestion, feature engineering, training, and deployment.
+
+· Document the process, monitor model performance and troubleshoot issues, implementing improvements and retraining models as needed.
+
+· Work closely with Data Scientist, Data Engineer and software engineers to integrate ML models into applications and services.
+
+· Participate in code reviews, maintain documentation, and follow best practices for software development and ML lifecycle management.
+
+· Research and implement new machine learning techniques and tools to enhance system capabilities.
+
+
+
+
+
+
+
+Expected outcomes and deliverables include:
+
+
+
+
+● Learn and leverage available AI/ML tools (Azure, Snowflake, AWS, Co-pilot)
+
+● Deploy new AI solutions, ranging from traditional AI to Gen AI, with available tools
+
+● Maintain & Enhance existing CICD AI pipeline solutions using Github
+
+● Ensure reliability, scalability, and security of ML infrastructure
+
+● Ensure AI Solutions meet evolving AI Governance requirements
+
+
+
+
+
+
+
+
+
+
+Skilll and Experience:
+
+
+
+
+Strong programming skills in Python, and familiarity with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+
+Good Familiarity with cloud platforms (AWS and Azure) and containerization (Docker).
+
+Experience with data pipelines, ETL processes, and handling large datasets (preferably Snowflake and modern data technologies)
+
+Solid experience with Git, CICD using Github (workflows and actions), integration of ML workflows.
+
+Strong communication skills
+
+Bachelor's or Master's degree in Computer Science, Engineering, Data Science, or a related field
+
+Please apply today or for a confidential chat email Michelle.williams1@hays.com.au"
+88006449,Engineering Manager - Data Engineering & Platforms,carsales,https://www.seek.com.au/job/88006449?type=standard&ref=search-standalone&origin=jobCard#sol=0947a0f2c4384fb1bc72b99bb0f8d02d77c78c93,1h ago,1.0,2025-10-21T07:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
+
+
+Are you ready to be a big part of something big? 
+
+At carsales, we're all about making buying and selling a great experience. For over 28 years we’ve been evolving with the new economy to help people choose how they move today and tomorrow. 
+
+When it comes to your career, we want to provide big opportunities to help you make a big impact. But for this to be possible, we strive to feel small. Small enough to quickly change tack, small enough to learn from different departments and small enough to connect authentically with leadership. 
+
+With a vision to be the global leader in online vehicle marketplaces. We transform how people buy and sell across the globe. We discover new ideas and make them happen. We continue to grow, and we continue to evolve – and we aren’t afraid to make big bets.
+
+We embrace a hybrid way of working – mixing working from home with the energy and connection that comes from being together in the office. We champion flexibility and have many policies, procedures and leave options to support flexible work
+
+Not something you’d expect from one of the country’s biggest tech companies, is it? 
+
+A career in Data at carsales means being at the heart of decision-making, powering the insights behind every product, feature, and experience we deliver to millions of users globally. The team builds scalable data platforms, maintains trusted and high-quality data pipelines, and enables advanced analytics – empowering teams across the business to make smarter, faster, and more customer-centric decisions.
+
+What’s on offer: 
+
+A place where you can move your career forward, where you’ll be continuously backed to make new ideas happen, and the chance to do work that makes real, significant impact in the world. 
+We’re proud to be recognised as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace, a WORK180 endorsed employer for women.
+The support of a highly engaged, high-performing team including a leadership team that’s you’ll actually have face time with. 
+24 weeks paid parental leave for primary caregivers, four weeks paid secondary caregivers leave, six weeks paid gender transition leave
+
+Job Description
+
+
+As the Data Platform and Engineering Team Lead, this role is responsible for leading and managing a talented team of data engineers while helping shape and execute the overall Data Platform & Engineering (DPE) strategy.
+
+What you’ll do
+
+Support, guide, and develop the Data Platform & Engineering team, fostering a culture of accountability, operational excellence, and continuous improvement.
+Promote collaboration, shared ownership, and transparent communication across teams to deliver outcomes that support carsales strategic and operational goals.
+Run carsales core data platforms (Snowflake, RMQ, etc) to high operational standards — ensuring scalability, reliability, and performance.
+Ensure sound engineering standards are upheld in the development and delivery of data infrastructure and pipelines.
+Advocate for strong data governance, lineage, and quality practices aligned with CAR Group’s data standards and policies.
+Drive adoption of sound engineering practices across the team, including observability, automation, version control, and CI/CD, ensuring the platform remains reliable and cost-efficient.
+Partner closely with Product, Platform, and Analytics teams to align priorities, communicate progress, and ensure the data platform delivers measurable business value.
+Oversee the health, reliability, and evolution of the carsales data ecosystem through disciplined operational management and proactive issue resolution
+
+Qualifications
+
+
+What are we looking for? 
+
+Proven experience as an Engineering Manager, Data Platform Lead, or similar role within large-scale data environments.
+Hands-on technical experience in modern data stacks — including data modelling, orchestration, and real-time/streaming architectures (e.g., Snowflake, BigQuery, Kafka/RMQ, Airflow).
+Strong understanding of cloud platforms (AWS/GCP) and data engineering best practices for performance, reliability, and scalability.
+Demonstrated FinOps experience in managing and optimizing cloud data costs.
+Track record of building and enabling high-performing data engineering teams.
+Excellent communication and decision-making skills, with the ability to simplify complexity and guide cross-functional teams.
+Effective organisational and delivery management skills management skills, ensuring structured execution across multiple priorities.
+
+Additional Information
+
+
+A few other things we want to let you know about...
+
+carsales is an equal opportunity employer who prides themselves on fostering a diverse and inclusive workplace. We encourage everyone of all ages, genders and backgrounds to apply. If you’re a candidate with a disability or you’ll need some adjustments to be at your best, let us know how we can provide you with additional support.
+We know how important keeping that balance between work/life is and have a range of flexible working options on offer, including part time. We are open to this conversation during our recruitment process if you want to know more just ask!
+We are a proud Circle Back Initiative Employer which means we are committed to responding to every job applicant.
+Successful candidates joining the carsales family are required to undergo a National Police Record check and must have full-time Australian working rights on an ongoing basis.
+
+So come and join our team - because every role is a big role in our plans to go big."
+88005564,Data Engineer,Map Talent Group,https://www.seek.com.au/job/88005564?type=standard&ref=search-standalone&origin=jobCard#sol=3121eb2bc9022fc133e3be0b0bb3f0e2067ecfcf,2h ago,2.0,2025-10-21T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,100 - 140 ph,"MAP Talent is proud to partner with a leading insurer embarking on a significant data transformation program to consolidate multiple legacy systems into a modern, centralised data environment built on Microsoft Azure.
 
 This transformation will simplify the organisation’s data landscape, enhance data quality, and enable more timely, trusted insights across the business.
 
@@ -31,7 +171,7 @@ Insurance experience a massive bonus
 Day Rate Contract
 Immediate start 
 Sydney CBD"
-88002864,Solution Architect - Telco,Launch Recruitment Pty Ltd,https://www.seek.com.au/job/88002864?type=standard&ref=search-standalone&origin=jobCard#sol=cf450a8ebf74a0bf58ec66811fda276d0a75b9b5,2h ago,2.0,2025-10-21T05:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"Are you an experienced Solution Architect searching for a more stable environment in Sydney?
+88002864,Solution Architect - Telco,Launch Recruitment Pty Ltd,https://www.seek.com.au/job/88002864?type=standard&ref=search-standalone&origin=jobCard#sol=0ccf3b137263fe7d60b9c7a523b67d1a4980c77f,3h ago,3.0,2025-10-21T05:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"Are you an experienced Solution Architect searching for a more stable environment in Sydney?
 
 This household brand is offering a professional team environment and above industry wages. 
 
@@ -55,7 +195,7 @@ Proven capability in “security by design” – covering SoD, auditability, pe
 Practical experience with REST/JSON, message queues, CI/CD, Git; Power BI for data/reporting models.
 
  If this role is of your Interst please do apply or call Andy @ 0422015130."
-88001228,Data Scientist :: Mid-level :: Long Term Contract :: ASAP Start,Future State People,https://www.seek.com.au/job/88001228?type=standard&ref=search-standalone&origin=jobCard#sol=0233bbaf5458b717ec8a507dfd01334eb2c6aad9,2h ago,2.0,2025-10-21T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the role
+88001228,Data Scientist :: Mid-level :: Long Term Contract :: ASAP Start,Future State People,https://www.seek.com.au/job/88001228?type=standard&ref=search-standalone&origin=jobCard#sol=9cfcf63c9c0030792767546cad3db0d41f64294a,4h ago,4.0,2025-10-21T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the role
  
 Are you a hands-on Data Scientist who loves turning complex data into real business impact? This is your chance to join one of Australia's most recognised and trusted brands - a company known for innovation, creativity, and making data central to how they operate.
  
@@ -85,7 +225,7 @@ Join a team that values innovation, learning, and collaboration.
 Competitive daily rate and the chance to make a measurable impact.
 Hybrid working model and a supportive, inclusive culture.
 This is an initial 6 month contract position with the possibility of extension. For immediate consideration - please apply now!"
-87998356,Systems Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87998356?type=standard&ref=search-standalone&origin=jobCard#sol=b7ccc1243251caedf0c11b945f24db4baf9f36de,3h ago,3.0,2025-10-21T04:00:00+00:00,Perth WA (Hybrid),Engineering - Hardware (Information & Communication Technology),Contract/Temp,,"Lead the end-to-end systems engineering life cycle, from requirements and hardware integration through to design verification and validation for autonomous systems.
+87998356,Systems Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/87998356?type=standard&ref=search-standalone&origin=jobCard#sol=791f1791cbc1ef3f3a2cdad77077b22df35adda5,5h ago,5.0,2025-10-21T03:00:00+00:00,Perth WA (Hybrid),Engineering - Hardware (Information & Communication Technology),Contract/Temp,,"Lead the end-to-end systems engineering life cycle, from requirements and hardware integration through to design verification and validation for autonomous systems.
 
 Collaborate with multidisciplinary teams, including software architects, product developers, and safety experts, ensuring the seamless integration of new technologies.
 
@@ -116,7 +256,7 @@ Desirable: RF experience, familiarity with autonomy and energy-related systems, 
 Please contact Kelly Williams on 08 9221 3300 for further enquiries.
 
 For over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
-87996702,Data and AI Team Application Technical Specialist,Compas Pty Ltd,https://www.seek.com.au/job/87996702?type=standard&ref=search-standalone&origin=jobCard#sol=e0b263ec4ab2f0d8fcf427ae182210521b0d4760,4h ago,4.0,2025-10-21T03:00:00+00:00,Canberra ACT (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Technical Data Specialist
+87996702,Data and AI Team Application Technical Specialist,Compas Pty Ltd,https://www.seek.com.au/job/87996702?type=standard&ref=search-standalone&origin=jobCard#sol=dc8f1161df530fb8581a06635f5b7a3b55eb3de7,5h ago,5.0,2025-10-21T03:00:00+00:00,Canberra ACT (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Technical Data Specialist
 
 Join a data-driven transformation initiative that’s shaping the way government uses analytics and AI! This 12-month contract (with potential extensions) offers the opportunity to deliver real impact by architecting scalable solutions, embedding data governance, and enhancing data maturity across a high-profile federal department. Work in a fast-paced, collaborative environment where your strategic thinking and technical skills will directly influence enterprise-wide data and AI capabilities.
 
@@ -139,7 +279,7 @@ About Compas: Compas Pty Ltd is a Canberra based wholly Australian owned, Recrui
 
 YOUR APPLICATION WILL BE TREATED WITH THE STRICTEST CONFIDENCE
 Due to the nature of this environment, candidates must have a current baseline or above clearance."
-87994946,Systems Engineer,Simplified,https://www.seek.com.au/job/87994946?type=standard&ref=search-standalone&origin=jobCard#sol=8bd21427b9942b77925123880bb23a380e6f8f58,5h ago,5.0,2025-10-21T02:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,"$120,000 - $130,000","Our rapidly growing Financial Services client are seeking a robust and experienced technical Systems Engineer for their office in Melbourne. Work up to 3 days a week in the office, with further start/finish time flexibility.
+87994946,Systems Engineer,Simplified,https://www.seek.com.au/job/87994946?type=standard&ref=search-standalone&origin=jobCard#sol=64063fc14050f8679a9253168edb173db81b11c5,6h ago,6.0,2025-10-21T02:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,"$120,000 - $130,000","Our rapidly growing Financial Services client are seeking a robust and experienced technical Systems Engineer for their office in Melbourne. Work up to 3 days a week in the office, with further start/finish time flexibility.
 
 Job summary
 They are ideally seeking a Systems Engineers with solid computing science and networking principles, who can work on a variety of technology stacks when needed. You will be responsible for minimising any downtime or service interruption across numerous different systems such as Hardware, Operational Servers, Networking equipment or cloud systems such as Azure/AWS. You and your team will work to ensure the company meet Business SLA’s with a variety of Project work and BAU.
@@ -167,7 +307,7 @@ Demonstrated ability to learn new technologies quickly, supported by formal qual
 ** Please Apply if: If you possess FULL AUSTRALIAN WORK RIGHTS and Reside in MELBOURNE..
 
 Send your updated CV to: rob@simplifiedrec.com"
-87994272,Senior Data Engineer,Essential Energy,https://www.seek.com.au/job/87994272?type=standard&ref=search-standalone&origin=jobCard#sol=89b8512905c62d78dcbc95af8e09e5aa577a3e21,5h ago,5.0,2025-10-21T02:00:00+00:00,"Port Macquarie, Port Macquarie & Mid North Coast NSW",Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are unique
+87994272,Senior Data Engineer,Essential Energy,https://www.seek.com.au/job/87994272?type=standard&ref=search-standalone&origin=jobCard#sol=0acf3fb1a45190f414c2818b2075d418773a916f,6h ago,6.0,2025-10-21T02:00:00+00:00,"Port Macquarie, Port Macquarie & Mid North Coast NSW",Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are unique
 
 Join our organisation and experience a culture that fosters camaraderie and personal growth, serving and connecting the regional communities of NSW and southern QLD. Enjoy work-life balance and training and development opportunities across a diverse range of career pathways.
 
@@ -270,7 +410,7 @@ Essential Energy is committed to building a culturally diverse and inclusive wor
 As an organisation, our aim is to champion inclusivity in the workplace and celebrate the difference in all our employees.
 
 At Essential Energy, we are committed to supporting adjustments throughout the recruitment and selection process, as well as during employment. We actively support and encourage people with disability to apply to Essential Energy (including alternate formats of application forms or alternate ways for accessibility). To discuss adjustment requirements, please contact careers@essentialenergy.com.au or call us on 1800 255 777."
-87991736,Data & AI Consultant,Data#3 Limited,https://www.seek.com.au/job/87991736?type=standard&ref=search-standalone&origin=jobCard#sol=89e2c21bece0ec4f6d3ab47bb10de1a23a321dfa,6h ago,6.0,2025-10-21T01:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Collaborative, Supportive Team Environment
+87991736,Data & AI Consultant,Data#3 Limited,https://www.seek.com.au/job/87991736?type=standard&ref=search-standalone&origin=jobCard#sol=68b2c1924b8b15c93a1c6c6d22f8710cd5f8f27d,7h ago,7.0,2025-10-21T01:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Collaborative, Supportive Team Environment
 
 Award-Winning Culture – HRD Employer of Choice for 10 years
 
@@ -360,7 +500,7 @@ Please note that Data#3 will request as part of the recruitment proce
 
 
 REF: SACA113160"
-87991129,Data & Integration Engineer,MGM Group,https://www.seek.com.au/job/87991129?type=standard&ref=search-standalone&origin=jobCard#sol=bbcf6daecbc102386b0868be9b96a3d21f3ba849,6h ago,6.0,2025-10-21T01:00:00+00:00,"Bunbury, Bunbury & South West WA",Engineering - Software (Information & Communication Technology),Full time,,"MGM Bulk Pty Ltd (MGM) is a privately owned company and a trusted name in the bulk haulage industry. Our outstanding reputation and unwavering commitment to excellence and safety make us a secure and stable choice for your long-term employment. With over 600 employees, we offer safe and cost-effective services from our branches across Western Australia, including bulk haulage, storage, ship loading, and stockpile management. 
+87991129,Data & Integration Engineer,MGM Group,https://www.seek.com.au/job/87991129?type=standard&ref=search-standalone&origin=jobCard#sol=43aeabed448aadc9f6eb1ef1f9578c7720c86a10,8h ago,8.0,2025-10-21T00:00:00+00:00,"Bunbury, Bunbury & South West WA",Engineering - Software (Information & Communication Technology),Full time,,"MGM Bulk Pty Ltd (MGM) is a privately owned company and a trusted name in the bulk haulage industry. Our outstanding reputation and unwavering commitment to excellence and safety make us a secure and stable choice for your long-term employment. With over 600 employees, we offer safe and cost-effective services from our branches across Western Australia, including bulk haulage, storage, ship loading, and stockpile management. 
 
 About the role
 
@@ -425,7 +565,7 @@ If you are interested in the role then click ‘apply’ now and submit your res
 Please note only shortlisted candidates will be contacted.
 
 As an inclusive employer, MGM is committed to improving workplace diversity, inclusion and equity. We encourage applications from First Nations peoples and people of all identities and backgrounds"
-87990612,Senior Staff Data Scientist- Gen AI,Commonwealth Bank - Business Banking,https://www.seek.com.au/job/87990612?type=standard&ref=search-standalone&origin=jobCard#sol=affeb08b0321f24025c1f8f677f3a12c26f5168f,7h ago,7.0,2025-10-21T00:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Do work that matters
+87990612,Senior Staff Data Scientist- Gen AI,Commonwealth Bank - Business Banking,https://www.seek.com.au/job/87990612?type=standard&ref=search-standalone&origin=jobCard#sol=949e7dc208c59c4bc6d9df972b4a945ff9d1c5ef,8h ago,8.0,2025-10-21T00:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Do work that matters
 
 As a Senior Staff Data Scientist within the Business Bank's Customer, Channels and Data AI Centre of Excellence (AiCE), you will assist in the development, monitoring, implementation and management of models supporting our journey of transforming the practice of Business Banking across Australia.
 
@@ -483,7 +623,7 @@ Our people bring their diverse backgrounds and unique perspectives to build a re
 At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
 
 We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career."
-87987905,Senior Simulation Engineer (Unreal Engine),Acacia Systems,https://www.seek.com.au/job/87987905?type=standard&ref=search-standalone&origin=jobCard#sol=f7824e9ae457cc3b1e9aa5ffcc5a11e316903354,8h ago,8.0,2025-10-20T23:00:00+00:00,"Hendon, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,,"Job Summary
+87987905,Senior Simulation Engineer (Unreal Engine),Acacia Systems,https://www.seek.com.au/job/87987905?type=standard&ref=search-standalone&origin=jobCard#sol=90aeaed396cf3bfedfcdf118df7d1f87101fc34a,10h ago,10.0,2025-10-20T22:00:00+00:00,"Hendon, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,,"Job Summary
 Acacia Systems is developing a Counter-UAS (CUAS) simulation environment using Unreal Engine 5. This greenfield system will form the foundation for training, simulation, and algorithm development: modelling drones, sensors, and effectors within realistic operational contexts and linking to real-world Command & Control (C2) systems.
 
 We’re seeking a Simulation Technical Lead to architect and deliver this capability from first principles, combining hands-on engineering with system-level design and stakeholder engagement.
@@ -523,7 +663,7 @@ Why Acacia
 This role offers creative freedom, technical depth, and the chance to establish a lasting engineering foundation from the ground up.
 
 Remuneration will reflect capability and experience, with flexibility for exceptional candidates."
-87985842,Lead Data Engineer,Wisr,https://www.seek.com.au/job/87985842?type=standard&ref=search-standalone&origin=jobCard#sol=68bf01b8c11a3a342f00c73f1b0d323966ca4e75,16h ago,16.0,2025-10-20T15:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Wisr is committed to building a supportive, inclusive and diverse workplace, and we strongly encourage applications from all backgrounds and identities. We’re happy to accommodate any reasonable adjustments to the interview process to ensure equal opportunity for all. If you require reasonable adjustments, please reach out to us via careers@wisr.com.au.  
+87985842,Lead Data Engineer,Wisr,https://www.seek.com.au/job/87985842?type=standard&ref=search-standalone&origin=jobCard#sol=d868b8a4ec9f5f3c2adf8acd0546b2c4c0a85204,17h ago,17.0,2025-10-20T15:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Wisr is committed to building a supportive, inclusive and diverse workplace, and we strongly encourage applications from all backgrounds and identities. We’re happy to accommodate any reasonable adjustments to the interview process to ensure equal opportunity for all. If you require reasonable adjustments, please reach out to us via careers@wisr.com.au.  
 
 Our Why, What and How 
 
