@@ -1,5 +1,104 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88031264,AI Engineer,Australian Prudential Regulation Authority,https://www.seek.com.au/job/88031264?type=standard&ref=search-standalone&origin=jobCard#sol=089200403c6baa713e703af6031b7f8be5bac7ed,1h ago,1.0,2025-10-22T04:00:00+00:00,Sydney NSW (Hybrid),"Engineering - Software (Information & Communication Technology)
+88037149,ML Platform Engineer- AWS- Major Bank - $1300 pd,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88037149?type=standard&ref=search-standalone&origin=jobCard#sol=256030d694030212ca735a94f7a15108ff684ef0,1h ago,1.0,2025-10-22T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,AUD 1200 - 1340 per day,"A major bank in Sydney is seeking an ML Platform Engineer for a 12 month contract likely to extend.
+As an ML Platform Engineer, you’ll play a vital role in designing, building, and maintaining the infrastructure and tools that drive the analytics teams to deliver business value at scale.
+Key Skills:
+
+Design, implement, and maintain scalable and reliable ML infrastructure on AWS.
+Develop and support tools for the end-to-end ML lifecycle, including data ingestion, model deployment, and monitoring, with an emphasis on automation and DevSecOps.
+Work collaboratively with data scientists, engineers, and stakeholders to translate requirements into robust technical solutions.
+Build and maintain CI/CD pipelines to streamline ML model deployment and updates.
+Develop and maintain thorough platform documentation, including architecture blueprints and best practices.
+Key Skills/ Experience:
+
+Hands-on experience with AWS services such as EC2, ECS, S3, Lambda, Step Functions, RDS, DynamoDB, IAM, VPC, Route 53, and CloudWatch.
+Experience with AWS ML services such as SageMaker, AWS Glue, Amazon EMR, and Airflow.
+Experience in building and scaling cloud infrastructure for machine learning use cases.
+Solid understanding of the ML lifecycle: data preprocessing, feature engineering, model training, evaluation, and deployment.
+Proficient scripting and automation skills in Bash and Python.
+Experience with Infrastructure-as-Code tools, especially AWS CloudFormation.
+Proficiency with version control systems such as GitHub and GitHub Actions.
+Familiarity with monitoring and observability tools like Grafana and Prometheus, as well as engineering tools such as Artifactory, Snyk, and Docker.
+Comfortable working across the full software lifecycle: design, build, change, and run.
+Strong communication skills and a commitment to inclusivity and continuous improvement.
+If interested please respond ASAP"
+88037089,Machine Learning Engineer / Data Scientist,The Argyle Network,https://www.seek.com.au/job/88037089?type=standard&ref=search-standalone&origin=jobCard#sol=4f2d15ffc3841149479877f7a3421af43b559016,1h ago,1.0,2025-10-22T05:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,AUD 150000 - 180000 per annum,"Machine Learning Engineer / Data Scientist
+
+Build. Shape. Lead. The company’s first Machine Learning hire.
+
+This is a rare opportunity for a Machine Learning Engineer / Data Scientist to take the lead in building something truly new — my client's first dedicated ML capability within its growing Registry business.
+
+You’ll join at an exciting inflection point, where technology and financial data intersect, and where machine learning can transform how insights are created, decisions are made, and value is delivered.
+
+This person will have the freedom to set the technical direction, choose the tools, and shape the strategy for how ML and AI are embedded across the platform — working in a team that values creativity, experimentation, and tangible outcomes over bureaucracy.
+
+What You’ll Do
+Lead the ML journey – own end-to-end projects from concept through to production deployment and monitoring.
+Build smart systems – develop models for anomaly detection, forecasting, and data quality improvement that directly impact how the business operates.
+Engineer solid foundations – design scalable data pipelines using AWS technologies like Glue, Athena, Redshift, and Kinesis.
+Create best practice – establish MLOps processes, model governance, and retraining frameworks from the ground up.
+Collaborate widely – work with technology, product, and operations teams to uncover high-impact ML use cases and deliver measurable results.
+What You Bring
+Hands-on expertise with the AWS ML ecosystem (SageMaker, Glue, Athena, Redshift, Lambda, S3).
+Strong foundations in data science and machine learning, including feature engineering, model evaluation, and optimisation.
+Confident programming skills in Python (pandas, scikit-learn, PyTorch/TensorFlow) and SQL.
+Experience building and deploying ML models in production, with a solid understanding of MLOps.
+A builder’s mindset — comfortable operating with autonomy and ownership in a greenfield environment.
+Bonus Points For
+Experience working with financial, registry, or market data.
+Knowledge of AWS Bedrock, Generative AI, or agentic AI frameworks (LangGraph, CrewAI, RAG, MCP).
+Experience using Infrastructure as Code (Terraform or CloudFormation).
+Why It’s a Big Deal
+As the first Machine Learning hire, this person will define how the business approaches AI — from architecture and pipelines to strategy and culture. They’ll have a direct line to leadership, the scope to experiment, and the chance to make visible, high-impact contributions from day one.
+
+This is a role for someone who thrives in a fast-moving environment, enjoys solving complex data challenges, and wants to build, not just maintain. If you’re excited by the idea of being the architect of something lasting — and turning financial data into intelligent systems that drive the future of the business — this is the opportunity.
+
+To be selected for this role, you must have PERMANENT (Not Temporary), unrestricted work rights for Australia."
+88036975,ML Platform Engineer- AWS- Major Bank - $1300 pd,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88036975?type=standard&ref=search-standalone&origin=jobCard#sol=02b84ab465ad6d434b7e693fd33015937a2380d4,1h ago,1.0,2025-10-22T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 1200 - 1340 per day,"A major bank in Sydney is seeking an ML Platform Engineer for a 12 month contract likely to extend.
+As an ML Platform Engineer, you’ll play a vital role in designing, building, and maintaining the infrastructure and tools that drive the analytics teams to deliver business value at scale.
+Key Skills:
+
+Design, implement, and maintain scalable and reliable ML infrastructure on AWS.
+Develop and support tools for the end-to-end ML lifecycle, including data ingestion, model deployment, and monitoring, with an emphasis on automation and DevSecOps.
+Work collaboratively with data scientists, engineers, and stakeholders to translate requirements into robust technical solutions.
+Build and maintain CI/CD pipelines to streamline ML model deployment and updates.
+Develop and maintain thorough platform documentation, including architecture blueprints and best practices.
+Key Skills/ Experience:
+
+Hands-on experience with AWS services such as EC2, ECS, S3, Lambda, Step Functions, RDS, DynamoDB, IAM, VPC, Route 53, and CloudWatch.
+Experience with AWS ML services such as SageMaker, AWS Glue, Amazon EMR, and Airflow.
+Experience in building and scaling cloud infrastructure for machine learning use cases.
+Solid understanding of the ML lifecycle: data preprocessing, feature engineering, model training, evaluation, and deployment.
+Proficient scripting and automation skills in Bash and Python.
+Experience with Infrastructure-as-Code tools, especially AWS CloudFormation.
+Proficiency with version control systems such as GitHub and GitHub Actions.
+Familiarity with monitoring and observability tools like Grafana and Prometheus, as well as engineering tools such as Artifactory, Snyk, and Docker.
+Comfortable working across the full software lifecycle: design, build, change, and run.
+Strong communication skills and a commitment to inclusivity and continuous improvement.
+If interested please respond ASAP"
+88032791,Data Modeler,AAR Consulting Group P/L,https://www.seek.com.au/job/88032791?type=standard&ref=search-standalone&origin=jobCard#sol=bc307a0760d2f9c97af0402a89a62040b026c30f,2h ago,2.0,2025-10-22T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,$950 - $1000 inc super,"An excellent opportunity for an experienced Senior Data Modeler to join a major enterprise program. You’ll be responsible for designing, documenting, and implementing end-to-end data modelling solutions that support information management, analytics, and data-driven decision-making.
+This role is hands-on, with approximately 80% focused on data modelling and 20% on data engineering collaboration.
+
+Key Responsibilities
+Develop, maintain, and document conceptual, logical, and physical data models.
+Maintain up-to-date metadata and documentation for data product models.
+Communicate complex data concepts clearly to both technical and non-technical stakeholders.
+Ensure effective collaboration and smooth handover between modelling and engineering teams.
+Support end-to-end data product processes, including data profiling, data flow design, and requirement validation.
+Work closely with domain experts to understand business requirements and translate them into fit-for-purpose data models.
+Conduct data model reviews with technical and business stakeholders.
+Collaborate with engineers to ensure accurate implementation of target databases.
+Skills & Experience
+Minimum 7 years of hands-on data modelling experience in large, complex environments.
+Strong experience with Databricks, Star Schema, and 3NF (Third Normal Form) modelling.
+Proven ability to design, develop, and test robust data structures.
+SAP experience (particularly Asset Management & Finance modules) with the ability to design effective data structures for SAP Enterprise Data Platforms.
+Demonstrated ability to ensure the accuracy, completeness, and consistency of data models.
+Excellent communication and stakeholder engagement skills.
+Strong team player with a proactive, “can-do” approach and the ability to find practical solutions.
+(Desirable) Prior experience in the Utilities sector or large enterprise transformation projects.
+
+For further information, please call Mike Lynch on 02 9114 8381 or apply on seek."
+88031264,AI Engineer,Australian Prudential Regulation Authority,https://www.seek.com.au/job/88031264?type=standard&ref=search-standalone&origin=jobCard#sol=931fc07f3da045bd08a0c012ca42117f361d01b1,2h ago,2.0,2025-10-22T04:00:00+00:00,Sydney NSW (Hybrid),"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,,"The role
 
 The Artificial Intelligence (AI) Engineer will design, develop and deploy scalable AI solutions to solve business problems. The role will focus on building and operationalising AI solutions that drive innovation and deliver practical business value. The AI Engineer will work closely with solutions architects, software engineers and product teams to develop AI-enabled products, testing and tuning models, and ensuring solutions are secure, reliable and scalable.
@@ -48,7 +147,7 @@ Why Work for APRA
 
 We recognise the skills, experience and commitment that our staff bring to their professional lives, and we seek to reward them accordingly. We also recognise that for our staff to be able to perform at their best, we need to ensure that they are able to bring their best selves to work. Our commitment to wellbeing is having engaged people supported by resilient leaders within a values-aligned culture.
 At APRA, we're committed to providing an inclusive workplace where everyone belongs, feels valued and respected. We aspire to attract and foster diversity of background, thought, and experience, recognising that a broad range of perspectives, approaches and ideas makes us stronger, and better enables us to meet our obligation to protect the financial wellbeing of the Australian community. If you need any adjustments during the recruitment process, please inform at application stage so we can do our best to accommodate your requirements."
-88026499,Software Engineer,Black Nova VC,https://www.seek.com.au/job/88026499?type=standard&ref=search-standalone&origin=jobCard#sol=d11ad1efa27a9c39bdf08860fb7fe99300233529,2h ago,2.0,2025-10-22T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Black Nova are supporting one of our portfolio companies. Prefactor is the Native MCP Identity Layer for modern SaaS - We're hiring Engineers.
+88026499,Software Engineer,Black Nova VC,https://www.seek.com.au/job/88026499?type=standard&ref=search-standalone&origin=jobCard#sol=d7b4198c191be6f227a2c9ef864c4c7dae020338,3h ago,3.0,2025-10-22T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Black Nova are supporting one of our portfolio companies. Prefactor is the Native MCP Identity Layer for modern SaaS - We're hiring Engineers.
 
 Mid-level and Senior positions
 Location: Sydney or Melbourne (Hybrid working 1 day a week)
@@ -90,7 +189,7 @@ Stage-Appropriate Skillset: You thrive in early-stage, small-team environments.
 Proven Backend Product Experience: Experience building complex, back-end-heavy products. You simplify complexity and communicate it effectively.
 Project Ownership: Demonstrable experience owning projects end-to-end, from ideation to deployment and stakeholder management.
 Pragmatic: You are an experienced, pragmatic engineer who provides a healthy pushback on assumptions and isn't swayed by hype."
-88025840,"Machine Learning Engineer, NLP",Binance,https://www.seek.com.au/job/88025840?type=standard&ref=search-standalone&origin=jobCard#sol=29586061a4267ec54f3d86ebe404fbb7878fe3ea,3h ago,3.0,2025-10-22T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 280 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+88025840,"Machine Learning Engineer, NLP",Binance,https://www.seek.com.au/job/88025840?type=standard&ref=search-standalone&origin=jobCard#sol=b612cdd79cefb5f9d175ce754ae1a45851330d51,4h ago,4.0,2025-10-22T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 280 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
 
 About the Role
 
@@ -136,7 +235,7 @@ Binance is committed to being an equal opportunity employer. We believe that hav
 By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
 
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
-88023620,Senior Software Engineer - Agentic AI,LEAP,https://www.seek.com.au/job/88023620?type=standard&ref=search-standalone&origin=jobCard#sol=c24a7078084abf2a89313fa224c57b8c4b9b9610,3h ago,3.0,2025-10-22T02:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,,"About LEAP
+88023620,Senior Software Engineer - Agentic AI,LEAP,https://www.seek.com.au/job/88023620?type=standard&ref=search-standalone&origin=jobCard#sol=b5d1e2604d24549b05f450ed5a9f0ecce9c05ac5,5h ago,5.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,,"About LEAP
 
 LEAP is the leading provider of Legal Practice Management Solutions in the world and is part of ATI – one of the largest international LegalTech companies. For more than 30 years, our curiosity and commitment to continual improvement has kept us reimagining productivity tools for lawyers and their staff to support our guiding purpose, to ‘Help lawyers who help people’. The market-leading software we develop, and support is used by more than 71,000 lawyers and their staff in small and medium-sized law firms.
 
@@ -205,7 +304,7 @@ We value your well-being - enjoy an additional paid wellbeing day every year, fr
 Access to LEAP Home - a program unique to LEAP to support you in buying your primary residence. 
 
 #LI-MB1"
-88022566,Data Engineer | 12 month FIxed Term Contract,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88022566?type=standard&ref=search-standalone&origin=jobCard#sol=21f02a1b43f0579c0f79c1696cd8cc4600a4b2ed,4h ago,4.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$160000.00 - $180000.00 p.a. + Up to $180k + Super,"Role Overview
+88022566,Data Engineer | 12 month FIxed Term Contract,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88022566?type=standard&ref=search-standalone&origin=jobCard#sol=ba18ecb43e12766801d0739eac77899c5d46a856,5h ago,5.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$160000.00 - $180000.00 p.a. + Up to $180k + Super,"Role Overview
 
 Join our dynamic IT & Digital Services team as a Data Engineer on a 12-month contract. This exciting opportunity involves designing and managing secure, scalable data solutions to support strategic analytics and enhance the student experience.
 
@@ -226,7 +325,7 @@ Benefits
 Competitive salary and benefits package.
 Opportunity to lead a significant data transformation initiative.
 Professional development and learning opportunities in a supportive environment."
-88022189,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88022189?type=standard&ref=search-standalone&origin=jobCard#sol=d326a0e20bbf5da867c99b0b756ea45f92eafdbf,4h ago,4.0,2025-10-22T01:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
+88022189,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88022189?type=standard&ref=search-standalone&origin=jobCard#sol=3262992fea203d942fb76cce5188016062215328,5h ago,5.0,2025-10-22T01:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
 
 Emeco are looking for an experienced Asset Performance Analyst to join our Brisbane team on a permanent full-time basis.
 
@@ -257,7 +356,7 @@ Experience with Cloud based platforms/services. Experience with the Databricks�
 Demonstrated experience of analytical skills, critical thinking abilities, problem solving, predictive analytics and machine learning (highly regarded).
 
 If you have any questions regarding the role, please contact Chloe Connor chloe.connor@emecogroup.com"
-88018590,Cloud Solutions Engineer (357832) - Justice Connect Program,Department of Justice,https://www.seek.com.au/job/88018590?type=standard&ref=search-standalone&origin=jobCard#sol=8eed9de0567aba59648213eeba790c6dd99a5c7b,7h ago,7.0,2025-10-21T22:00:00+00:00,Hobart TAS,"Engineering - Software (Information & Communication Technology)
+88018590,Cloud Solutions Engineer (357832) - Justice Connect Program,Department of Justice,https://www.seek.com.au/job/88018590?type=standard&ref=search-standalone&origin=jobCard#sol=69e7bfcf4c5c79c502c178e46921df7c4be16cd8,8h ago,8.0,2025-10-21T22:00:00+00:00,Hobart TAS,"Engineering - Software (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$129,302 to $136,089 per annum","**Applications close 11:55pm, Sunday 2 November 2025**
 
 We encourage applications from Indigenous Australians, people living with disability, people from diverse cultural and linguistic backgrounds, mature age workers and LGBTIQA+ people.
@@ -328,7 +427,7 @@ Reasonable Adjustment Queries
 
 People Strategy Team
 (03) 6165 7602"
-88017500,Automation Engineer,Cromarty,https://www.seek.com.au/job/88017500?type=standard&ref=search-standalone&origin=jobCard#sol=414daaccff1c833fa08e2e6b9bec76db7cf20ff8,8h ago,8.0,2025-10-21T21:00:00+00:00,"Hendra, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"ABOUT US
+88017500,Automation Engineer,Cromarty,https://www.seek.com.au/job/88017500?type=standard&ref=search-standalone&origin=jobCard#sol=bf32b3352b0e40f42a6b5bd9e70ce118abcd9963,10h ago,10.0,2025-10-21T20:00:00+00:00,"Hendra, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"ABOUT US
 
 
 
@@ -412,7 +511,7 @@ An attractive remuneration package will be offered according to experience. Crom
 
 
 For more company information, please visit our website http://www.cromarty.com.au"
-88014950,Lead AI EngineerNew,Karbon,https://www.seek.com.au/job/88014950?type=standard&ref=search-standalone&origin=jobCard#sol=b5e0dbfe576a7d6b7085c719842cd2c8d7e35f4a,16h ago,16.0,2025-10-21T13:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Karbon
+88014950,Lead AI EngineerNew,Karbon,https://www.seek.com.au/job/88014950?type=standard&ref=search-standalone&origin=jobCard#sol=34e6f3913037219898a8673fd97ce0a81bf1c3e2,17h ago,17.0,2025-10-21T13:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Karbon
 
 Karbon is the global leader in practice management software for growth-minded accounting firms. We provide an award-winning, highly collaborative cloud platform that streamlines work and communication, enabling the average accounting firm using Karbon to save 18.5 hours per week, per employee.
 
