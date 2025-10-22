@@ -1,5 +1,162 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88022566,Data Engineer | 12 month FIxed Term Contract,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88022566?type=standard&ref=search-standalone&origin=jobCard#sol=09817d1a7733fbc24b546411fef7237fe7f5b5e7,1h ago,1.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$160000.00 - $180000.00 p.a. + Up to $180k + Super,"Role Overview
+88026499,Software Engineer,Black Nova VC,https://www.seek.com.au/job/88026499?type=standard&ref=search-standalone&origin=jobCard#sol=74bf242e9ad3f6d005d769ae1eeb76eacf5aea2c,1h ago,1.0,2025-10-22T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Black Nova are supporting one of our portfolio companies. Prefactor is the Native MCP Identity Layer for modern SaaS - We're hiring Engineers.
+
+Mid-level and Senior positions
+Location: Sydney or Melbourne (Hybrid working 1 day a week)
+Salary: $120-170k base + super + ESOP
+Tech Stack: MCP, Elixir, JavaScript, AWS, Docker and more
+Prefactor was founded to solve the identity challenges of the AI era; where users are AI Agents, APIs, and automation. Prefactor provides a new foundation: first-class, auditable, version-controlled identity for AI Agents and automation. It’s infrastructure for the next era of software.
+
+Why is it an exciting time to join Prefactor as an Engineer?
+
+Define a New Category: You'll be building foundational infrastructure for AI agents.
+Solve Unanswered Questions: This is a rapidly evolving, undefined space. You will be at the forefront, contributing to what could become the new industry standard for interaction and automation via Model Context Protocol (MCP).
+Build in a Moving-Target Environment: The MCP spec is fast-moving. This role requires an experienced, pragmatic, and passionate engineers who thrive on technical challenges and innovation.
+We're hiring Engineers  
+  
+Here's some things you can help us achieve:
+
+End-to-End Ownership: Independently design, build, and deploy a completely new, major feature of the product from scratch. You'll leave a significant personal stamp on the product.
+Become the Expert: Develop deep expertise in core areas of our system, becoming the go-to person for those components.
+Technical & Cultural Contributor: Actively contribute to the overall tech strategy and shape a culture of innovation, speed, and quality.
+Some Examples of things you can build with us:
+
+Model and build complex workflows for agent authorisation.
+Develop a robust audit system to monitor all agent activity.
+Engineer systems for ingesting, processing, and securely storing large datasets.
+Build and manage a highly stable and scalable decision and authorisation engine.
+ The Skills and Experience you'll bring  
+  
+We're looking for Senior Engineers who can bring as much experience as possible in these areas:
+
+Technical Skillset
+Ideal: Experience with Elixir and an interest in the MCP space is highly beneficial but not essential.
+Back-End Experience: Strong proficiency in one or more back-end languages like Go, Ruby, Scala, Rust, or similar. A mixed experience is highly valued.
+Cloud & Infrastructure: Hands-on experience with AWS. You've had responsibility for deploying and managing applications and infrastructure.
+Proficient with Docker.
+Confident with JavaScript and building UIs
+Project Experience
+
+Stage-Appropriate Skillset: You thrive in early-stage, small-team environments. Comfortable making decisions with autonomy, fixing what you've built, and building for the future.
+Proven Backend Product Experience: Experience building complex, back-end-heavy products. You simplify complexity and communicate it effectively.
+Project Ownership: Demonstrable experience owning projects end-to-end, from ideation to deployment and stakeholder management.
+Pragmatic: You are an experienced, pragmatic engineer who provides a healthy pushback on assumptions and isn't swayed by hype."
+88025840,"Machine Learning Engineer, NLP",Binance,https://www.seek.com.au/job/88025840?type=standard&ref=search-standalone&origin=jobCard#sol=d669d7561fc7a7eca983f7b385378cf703fb440a,1h ago,1.0,2025-10-22T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 280 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+
+About the Role
+
+As a Machine Learning Engineer, you will leverage rich datasets at petabyte scale and state-of-the-art machine learning infrastructure to develop AI-driven products used by tens of millions of cryptocurrency users. You will collaborate closely with engineers, data analysts, business operations, and product managers to define and deliver solutions, features, algorithms, and products powered by advanced machine learning and data technologies.
+
+Responsibilities:
+
+Apply NLP techniques to preprocess and analyze large-scale textual data, developing and fine-tuning Large Language Models (LLMs) and multimodal models to generate actionable business insights.
+Design, build, and maintain end-to-end machine learning pipelines—including data ingestion, cleaning, feature engineering, model training, evaluation, deployment, and monitoring
+Lead the deployment of ML models in production environments with a focus on scalability, reliability, availability, and low-latency inference, leveraging cloud infrastructure for optimal performance.
+Collaborate with business and technical stakeholders to identify AI opportunities, align initiatives with organizational goals, and communicate insights effectively through data analysis and visualization.
+Stay abreast of the latest AI advancements, particularly in multimodal AI, to continuously integrate cutting-edge technologies into solutions.
+Explore the use of agentic AI to automate detection and monitoring within risk management systems, improving accuracy and response times.
+Requirements:
+
+Minimum 4 years of industry experience in AI/ML, preferably focused on NLP and/or multimodal AI, with a Master’s degree or higher in Computer Science, Data Science, or related fields.
+Proficient in big data technologies (e.g., Apache Spark, Hadoop, Kafka, VectorDB) or equivalent platforms.
+Skilled in programming languages such as Python or Java, with hands-on experience in ML/NLP libraries and deep learning frameworks (TensorFlow, PyTorch, Scikit-learn, SpaCy, NLTK).
+Strong understanding of modern machine learning and deep learning techniques, including transformer architectures (BERT, GPT), hyperparameter optimization, and methods for handling imbalanced datasets.
+Experience optimizing and deploying ML models for low-latency inference in production, familiar with end-to-end ML deployment processes including version control (Git), continuous integration/continuous deployment (CI/CD), and managing multiple environments (dev, QA, staging, production).
+
+Preferred
+
+Experience with productionising agentic AI systems or similar autonomous AI solutions is a plus.
+Prior experience in e-commerce or technology sectors is highly desirable.
+
+Why Binance
+
+• Shape the future with the world’s leading blockchain ecosystem
+
+• Collaborate with world-class talent in a user-centric global organization with a flat structure
+
+• Tackle unique, fast-paced projects with autonomy in an innovative environment
+
+• Thrive in a results-driven workplace with opportunities for career growth and continuous learning
+
+• Competitive salary and company benefits
+
+• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)
+
+Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.
+
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+88023620,Senior Software Engineer - Agentic AI,LEAP,https://www.seek.com.au/job/88023620?type=standard&ref=search-standalone&origin=jobCard#sol=6e2a5423b4d62eb24d47a122dfbe67127420b6c4,2h ago,2.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,,"About LEAP
+
+LEAP is the leading provider of Legal Practice Management Solutions in the world and is part of ATI – one of the largest international LegalTech companies. For more than 30 years, our curiosity and commitment to continual improvement has kept us reimagining productivity tools for lawyers and their staff to support our guiding purpose, to ‘Help lawyers who help people’. The market-leading software we develop, and support is used by more than 71,000 lawyers and their staff in small and medium-sized law firms.
+
+Working alongside our international team of passionate high achievers, you’ll join a fast-growing technology business where things seldom stay the same for long. With more than 1000 smart, caring and ambitious ‘LEAPsters’ working together across Australia, Canada, the United States, the United Kingdom, the Republic of Ireland, Poland and New Zealand, you’ll find yourself in good company here.
+
+Meet the AI Free Thinking Paralegal team
+
+AI Free Thinking Paralegal is a new team within LEAP, operating at the cutting edge of AI technology. Led by the previous technology co-founder of CreditorWatch and Avenue Bank, we combine high autonomy, high flexibility, and low bureaucracy like a startup, while enjoying the peace of mind and stability that come with being part of a mature, successful organisation. Working side-by-side with an experienced technology leader (a coder and entrepreneur), you will work on a variety of interesting challenges as we build the future of AI-powered legal assistance.
+
+This is an exciting opportunity to make a powerful impact by revolutionising how lawyers work with AI, enabling them to analyse complex legal matters, prepare accurate documents, and deliver better outcomes for their clients.
+
+What you'll do
+
+We’re hiring two Software Engineers to help to shape the backbone of a groundbreaking AI platform that’s redefining how legal professionals interact with technology. You’ll work alongside experts in AI, automation, and legal innovation to solve problems few have faced before, helping to build the AI Free Thinking Paralegal - the future of AI-powered productivity at LEAP. As part of our team developing the agentic AI core platform that consumes Model Context Protocol (MCP) services, you’ll design and scale the infrastructure connecting automation, integrations, and generative AI across LEAP and the wider ATI Group. Expect to push the boundaries of what’s possible - creating advanced automation frameworks, integrating generative AI, and building scalable systems that transform how legal work gets done.
+
+To make this happen, you will:
+
+Design, build, and maintain core services that consume and orchestrate MCP-based integrations.
+Develop scalable, reliable, and secure systems to support automation and generative AI workflows.
+Collaborate closely with teams developing MCP services to ensure smooth integration and performance.
+Solve complex engineering problems around AI reliability, context management, and data flow.
+Prototype and optimise AI-driven features that work within known limitations of generative models.
+Participate in architectural planning, service design, and API definition.
+Continuously improve system robustness, observability, and developer experience.
+
+What you'll bring
+
+Over 7 years commercial experience as a developer
+Strong experience in at least two of the following:
+PHP/Laravel
+Python
+TypeScript/JavaScript/React
+Solid understanding of automation, system integrations, or AI-enabled workflows.
+Demonstrated ability to work with LLMs or generative AI systems - understanding their constraints, strengths, and how to build around their limitations.
+Experience designing and consuming APIs, ideally in distributed environments.
+Strong debugging and problem-solving skills, with a creative mindset for building robust, maintainable systems.
+Excellent collaboration and communication skills - able to translate technical concepts into clear, actionable ideas.
+
+Even better, if you:
+
+Experience with MCP, Kafka, N8N, Zapier, or other inter-application communication frameworks and event-driven systems.
+Background in AI safety, prompt engineering, or agent-based system design.
+Contributions to open-source AI or integration frameworks.
+
+You are the type of person who
+
+Loves bringing creativity and innovation to every problem you solve
+Gets things done by transforming prototypes into production-ready solutions through progressive iteration and refinement
+Takes pride in your team's work and celebrates collective achievements
+Thrives on solving difficult, complex problems that push the boundaries of what's possible
+Values working autonomously while actively contributing to the team's success
+Believes that you succeed when the whole team succeeds - collaboration and shared wins drive you forward
+
+LEAP is an inclusive, people-first company committed to breaking down institutional barriers that keep people from reaching their potential. If you meet some, but not all the requirements above, we encourage you to still submit your application.
+
+Why join LEAP?
+
+Your work matters. Helping lawyers help people sits at the heart of everything we do. We solve real world problems that improve and support local, everyday law firms. So they can do their best work for the people in the communities they serve.
+Make an impact. You won’t be another ‘cog in the wheel’ here. We give full trust and autonomy for you to be heard, to work on big & complex projects – and to make a real difference.
+Work with a group of authentic, passionate people who love what they do.
+Well-funded and global. LEAP is the leading provider of Legal Practice Productivity Solutions across Australia, Canada, the United States, the United Kingdom, the Republic of Ireland and New Zealand. We're part of ATI – one of the largest international LegalTech companies.
+Flexible and hybrid working. We'd like to find this person in Sydney, but we want you to work in a way that suits you and we're open to flexible arrangements that support you.
+Grow your career with us. Our founder Christian Beck has been building legal tech businesses for over 30 years. There are opportunities galore to expand your career based on where your interests lie. We're not afraid to pivot based on market conditions - you will always have the opportunity to stay ahead of the curve and do your best work here.
+Have fun with us. Celebrations. Socials. Sports teams. Access to sailing and yacht events.
+We value your well-being - enjoy an additional paid wellbeing day every year, free gym membership, corporate dental plan and weekly massages in the office. We'll throw in a catered lunch and breakfast every week too. Oh and an on-site barista.
+Access to LEAP Home - a program unique to LEAP to support you in buying your primary residence. 
+
+#LI-MB1"
+88022566,Data Engineer | 12 month FIxed Term Contract,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88022566?type=standard&ref=search-standalone&origin=jobCard#sol=be87f2fa214689d2f010f6023679a652fc8172ea,2h ago,2.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$160000.00 - $180000.00 p.a. + Up to $180k + Super,"Role Overview
 
 Join our dynamic IT & Digital Services team as a Data Engineer on a 12-month contract. This exciting opportunity involves designing and managing secure, scalable data solutions to support strategic analytics and enhance the student experience.
 
@@ -20,7 +177,7 @@ Benefits
 Competitive salary and benefits package.
 Opportunity to lead a significant data transformation initiative.
 Professional development and learning opportunities in a supportive environment."
-88022189,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88022189?type=standard&ref=search-standalone&origin=jobCard#sol=fb02420f63a720ad6c1da2718cffd0aa42f0e56c,1h ago,1.0,2025-10-22T01:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
+88022189,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88022189?type=standard&ref=search-standalone&origin=jobCard#sol=bc8fb6851d569f265fc212f6982b95b32bb7cdd1,3h ago,3.0,2025-10-22T00:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
 
 Emeco are looking for an experienced Asset Performance Analyst to join our Brisbane team on a permanent full-time basis.
 
@@ -51,7 +208,7 @@ Experience with Cloud based platforms/services. Experience with the Databricks�
 Demonstrated experience of analytical skills, critical thinking abilities, problem solving, predictive analytics and machine learning (highly regarded).
 
 If you have any questions regarding the role, please contact Chloe Connor chloe.connor@emecogroup.com"
-88018590,Cloud Solutions Engineer (357832) - Justice Connect Program,Department of Justice,https://www.seek.com.au/job/88018590?type=standard&ref=search-standalone&origin=jobCard#sol=0c66e193745f4ff18c79e9fda8ecd06eb77a046d,4h ago,4.0,2025-10-21T22:00:00+00:00,Hobart TAS,"Engineering - Software (Information & Communication Technology)
+88018590,Cloud Solutions Engineer (357832) - Justice Connect Program,Department of Justice,https://www.seek.com.au/job/88018590?type=standard&ref=search-standalone&origin=jobCard#sol=e7f004dc0346ed9bd8a716f02a73763726cbccf4,5h ago,5.0,2025-10-21T22:00:00+00:00,Hobart TAS,"Engineering - Software (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$129,302 to $136,089 per annum","**Applications close 11:55pm, Sunday 2 November 2025**
 
 We encourage applications from Indigenous Australians, people living with disability, people from diverse cultural and linguistic backgrounds, mature age workers and LGBTIQA+ people.
@@ -122,7 +279,7 @@ Reasonable Adjustment Queries
 
 People Strategy Team
 (03) 6165 7602"
-88017500,Automation Engineer,Cromarty,https://www.seek.com.au/job/88017500?type=standard&ref=search-standalone&origin=jobCard#sol=c5fe3acb52a333c6221dd74520e00b7eee18c50f,5h ago,5.0,2025-10-21T21:00:00+00:00,"Hendra, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"ABOUT US
+88017500,Automation Engineer,Cromarty,https://www.seek.com.au/job/88017500?type=standard&ref=search-standalone&origin=jobCard#sol=af72e9bcc2f86f6300885e7062c37eff5289b5ef,7h ago,7.0,2025-10-21T20:00:00+00:00,"Hendra, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"ABOUT US
 
 
 
@@ -206,7 +363,7 @@ An attractive remuneration package will be offered according to experience. Crom
 
 
 For more company information, please visit our website http://www.cromarty.com.au"
-88014950,Lead AI EngineerNew,Karbon,https://www.seek.com.au/job/88014950?type=standard&ref=search-standalone&origin=jobCard#sol=24b7d038e659db08aec73a8252ef352b26bb5d2b,12h ago,12.0,2025-10-21T14:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Karbon
+88014950,Lead AI EngineerNew,Karbon,https://www.seek.com.au/job/88014950?type=standard&ref=search-standalone&origin=jobCard#sol=913bbab6d6487b661af1fb82eaee265c5cbfb171,14h ago,14.0,2025-10-21T13:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Karbon
 
 Karbon is the global leader in practice management software for growth-minded accounting firms. We provide an award-winning, highly collaborative cloud platform that streamlines work and communication, enabling the average accounting firm using Karbon to save 18.5 hours per week, per employee.
 
