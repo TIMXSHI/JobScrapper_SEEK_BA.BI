@@ -1,756 +1,105 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88037884,Data Engineer,DXC Technology Australia & New Zealand,https://www.seek.com.au/job/88037884?type=standard&ref=search-standalone&origin=jobCard#sol=6d59b9fa96f33ec39cc02062c47dd84d42edd689,2h ago,2.0,2025-10-22T06:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW",Engineering - Software (Information & Communication Technology),Full time,,"DXC Technology (NYSE: DXC) helps global companies run their mission-critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds.
+88049408,Data Science and Insights Lead,Lendi Group,https://www.seek.com.au/job/88049408?type=standard&ref=search-standalone&origin=jobCard#sol=b783c791fe309215feb0b51db46c2bfbec007faf,2h ago,2.0,2025-10-22T18:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
 
-The world's largest companies and public sector organizations trust DXC to deploy services to drive new levels of performance, competitiveness, and customer experience across their IT estates. Learn more about how we deliver excellence for our customers and colleagues at DXC.com.
 
-We have an exciting opportunity to join our high performing team as a Data Engineer. If you’re eager to grow your technical skillset while making a real impact on data-driven business outcomes, we want to hear from you!
+Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
 
-Location flexible yet strong preference for the successful candidate to be Newcastle based due to client requirements.
+Powered by an advanced AI proprietary platform, a national network of 1,300 brokers, 230 retail stores, a team of experienced buyer’s agents, integrated property search and conveyancing, Aussie is supporting customers at every step of their property journey to find, buy and own with more confidence than ever before. Lendi Group’s loan book is more than $100b and it was named Australia’s Aggregator of the Year for 2024.
 
-Key Responsibilities
+To learn more about life at Lendi Group check out our blog: https://www.lendi.com.au/inspire/category/life-at-lendi/
 
-Own the Azure Data & BI service roadmap, backlog, and delivery outcomes.
+Why Join Us?
 
-Collaborate with business stakeholders to identify, define, and prioritize analytics opportunities.
+Innovation at Our Core – We challenge the status quo and push boundaries to create better solutions.
+Work with the Best – Collaborate with some of the brightest minds in fintech, financial services, and strategy.
+Make an Impact – Contribute to meaningful projects that shape our business and the future of property finance.
+Grow & Evolve – Develop your skills and advance your career in a fast-moving, purpose-driven environment.
 
-Translate business requirements into actionable user stories and acceptance criteria.
+To ensure we remain at the cutting edge of technological advancements, we are seeking a visionary and results-driven Data Science and Analytics Lead to join our Data Supergroup.
 
-Oversee implementation and continuous improvement of Azure Data Platform services (Synapse, Databricks, ADF, SSIS/SSAS).
+This role is pivotal in shaping the AI/ML strategy of the Group and deploying value-accretive solutions across the business. This senior position involves managing a team of around 10, including data scientists & analytics and partnering closely with senior business stakeholders across the Group including Growth, Customer, Origination and Technology.
 
-Manage service performance, stability, and enhancements in alignment with SLAs.
+You will have end-to-end accountability for the AI/ ML data product lifecycle from requirements gathering and ideation, to ongoing model maintenance and innovative product roadmap platform across the enterprise. 
 
-Ensure adherence to data governance, security, and compliance frameworks.
+Job Description
 
-Participate in data governance council discussions and support governance initiatives.
 
-Provide input on reporting and visualization standards using Power BI and related tools.
+Strategic Leadership:
 
-Drive automation, cost optimization, and proactive monitoring through Continuous Service Improvement (CSI).
+Utilise strong commercial acumen to effectively translate the objectives and pain points of business stakeholders into technical requirements.
+Operate as a strategic advisor to the business on value-drivers and return on investment for AI/ ML initiatives including identification of opportunities, prioritisation and end-to-end implementation)
+Develop and implement the strategic roadmap for AI/ML initiatives across Lendi Group, and manage a portfolio of initiatives, in alignment with strategic business priorities and OKRs
+Develop assessment frameworks for AI/ ML model deployment including measurable return on investment across business and customer interactions
+Executive and Board engagement as required, including preparation of Board papers, business case and investment case papers
 
-Communicate roadmap progress, KPIs, and improvement plans to customer and internal stakeholders.
+Innovation and Solution Deployment: 
 
-Willingness to travel to Newcastle for 3 nights each quarter.
+Commercial assessment of initiatives and budget management, including use-case assessment and prioritisation, implementation of prioritisation frameworks and governance forums
+Lead the design, development, and deployment of cutting-edge AI/ML solutions
+Conduct vendor assessments to evaluate and recommend solutions, supporting the buy/ build/ acquire decision-making process
+Ensure best practices in MLOps, model deployment and lifecycle management are followed to maintain high standards of performance, scalability, robustness and reliability
+Ensure appropriate management of data science initiative costs, including vendors
+Develop comprehensive solution design and implementation plans for AI/ ML solutions across the data science lifecycle and project stages including ongoing maintenance and monitoring
+Work with cross-functional teams to operationalise AI/ ML in business operations and processes
 
+Collaboration and Influence: 
 
+Work closely with Growth, Customer, and Distribution teams to identify key business questions and use-cases that could be appropriately solved with AI/ ML solutions and determine the best solution
+Collaborate with other data, technology and product teams to integrate AI solutions seamlessly into existing systems and workflows
 
+Research and Development:
 
-Technical Expertise required
+Stay current with the latest advancements in AI/ ML technologies and methodologies, integrating relevant innovations into the Lendi Group AI strategy and roadmap
+Drive innovation by exploring and implementing new AI/ ML techniques and tools to solve complex business problems.
+Deep engagement with end-users to understand requirements and take a product-led approach to problem solving and solution design
 
-5+ years of experience in data engineering, BI, or cloud service delivery roles.
+Mentorship and Team Development:
 
-Strong understanding of Microsoft Azure Data Platform, including:
+Mentor and provide technical guidance to data scientists and analysts fostering a culture of innovation and excellence. 
+Foster a culture of continuous learning and creative problem solving within the data science team.
+Implement best-practice documentation and data science lifecycle management practices.
 
-Azure Synapse Analytics
+Stakeholder Engagement:
 
-Azure Databricks
+Communicate complex concepts and solutions effectively to non-technical stakeholders.
+Present AI/ML strategies and updates to senior management and other key stakeholders.
+Be able to effectively communicate the value of AI/ ML solutions to business users and brokers
 
-Azure Data Factory (ADF)
+Qualifications
 
-Azure DevOps / CI-CD pipelines
 
-SSIS / SSAS integration
+Degree in Data Science, Computer Science, Machine Learning, Statistics or a related field. Advanced degree preferred.
+Experience in leading teams and managing initiatives across different business domains including working across data engineering, data analytics and data science
+Extensive knowledge of the AI/ ML lifecycle including data collection, model development, deployment and monitoring
+Demonstrated experience with MLOps and best practices in AI/ ML model management
+Strong background in customer and marketing related AI/ ML use cases such as customer lifecycle management and content personalisation
+Proficiency in programming languages such as Python, R and SQL and experience with Cloud platforms (AWS, Azure)
+Familiarity with AI/ ML frameworks and tools e.g. PyTorch, Tensorflow
+Excellent problem solving skills, a strategic mindset and the ability to think critically and creatively 
+Passionate about the opportunity to push the envelope while protecting our customers data
+Strong communication and interpersonal skills, with the ability to influence and collaborate with stakeholders at all levels
+Strong communication and collaboration skills, with the ability to influence and engage stakeholders at all levels
 
-Familiarity with data lake, ETL/ELT, and data governance principles.
+Additional Information
 
-Working knowledge of Power BI and its integration with Azure data sources.
 
-Experience in managing Data & BI services within a Managed Services environment.
+Lendi Group teams operate across Australia and the Philippines. Bringing together diverse expertise, innovative technology and a customer-first approach, our teams work seamlessly to simplify the property journey, helping Australians find, buy and own property with confidence.
 
-Understanding of Agile delivery and ITIL-based service management practices.
+We support our people in a variety of ways, but a few of the benefits that our people rave about include:
 
+A vibrant, relaxed, yet professional culture.
+Hybrid working arrangement designed to support work-life balance, while fostering meaningful connection and collaboration.
+A holistic wellbeing programs offering 24/7 support, including medical, mental health, and financial wellbeing services to enable our workforce to thrive at home and work.
+Generous paid Parental Leave: we celebrate our growing Lendi Group family with 18-26 weeks leave for primary carers and up to 4 weeks for secondary carers.
+An additional week’s Loyalty Leave each year after reaching 3 years’ service.
+Wellness initiatives with a strong focus on psychological safety.
 
+We’re committed to fostering a diverse and inclusive community at Lendi Group. We believe that a team reflecting the world around us leads to greater innovation, stronger collaboration, and a more engaging workplace.
 
+Our culture is guided by our 3 core values: We Are Stronger United; Act Like You Own It; and Keep Home Loans Human. Our values are part of our core DNA that helps Lendi Group to attract, engage and evolve the right talent and build best-in-class products.
 
-Our culture and benefits
+This is an opportunity to shape the future of a fast-growing, purpose-driven company that’s transforming the homeownership journey.
 
-DXC is committed to building better futures for our customers, colleagues, environment, and communities. As an employer of choice, our “people first” philosophy means we offer competitive remuneration, benefits, training and career opportunities that reflect our commitment to improving the lives of our employees, and the communities in which we live and work. Some of these include;
- 
+Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
 
-Extensive resources to support your onboarding and continual development including DXC University
-
-We know that great people refer great people. We will reward you when you bring your friends and family to work at DXC
-
-More time to do the things you love with flexible leave options, including purchased leave
-
-Take time to give back with charitable and emergency services volunteer days
-
-Well-being matters to us and our Employee Assistance Program is there to support you and your family
-
-And of course, all the basics; novated leasing, discounted health insurance, paid parental leave and many other discounts
-
-
-
-
-﻿How to apply & our commitment to you in return
-
-If you would like to be part of a culture that drives innovation, delivers results, rewards performance and encourages ideas, then please press the ""Apply Now"" button to submit your resume.
-
-In return, we agree to ensure a hiring process that is enjoyable, thorough, and fair. We strive to provide an environment that lets you thrive and show off the very best version of yourself, while learning about us at the same time."
-88037993,AI Solution Architect,Oracle,https://www.seek.com.au/job/88037993?type=standard&ref=search-standalone&origin=jobCard#sol=7a0a50b916984c7851b825fc2714a70282fa6d5d,2h ago,2.0,2025-10-22T06:00:00+00:00,"Ryde, Sydney NSW",Consultants (Information & Communication Technology),Full time,,"The Oracle AI Centre of Excellence empowers individuals and organizations of all sizes across Southeast Asia with cutting-edge cloud and AI technologies, world-class training, and a dynamic environment for experimentation and innovation. 
-
-It builds on Oracle’s extensive history of supporting governments and enterprises in Southeast Asia. Established as part of the Oracle Solution Center, a flagship program featuring state-of-the-art systems, cutting-edge technology, and customer-experience sites worldwide, the Oracle AI Centre of Excellence offers both a digital and physical environment, equipped with the latest cloud and AI technologies.
-
-Supported by a dedicated team of Oracle experts and a diverse network of partners, the Centre is designed to help organizations train teams, experiment in secure cloud environments, and provide the knowledge needed to transform critical business operations.
-
-As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity. 
-
-We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
-
-Oracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
-
-We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing 
-
-accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.
-
-Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. 
-
-What You'll Do
-
-Lead enterprise pre-sales engagements across JAPAC, partnering with Sales, Product, and Engineering to shape and win strategic AI opportunities.
-Drive discovery, solution architecture, executive-ready demos, PoCs/benchmarks, and technical deal support for customers in regulated and high-scale industries.
-Lead technical discovery with C-level, business, data, and engineering stakeholders; translate business objectives into clear AI problem statements and solution approaches.
-Architect end-to-end AI solutions using deep learning and LLMs (prompt engineering, RAG strategies, fine-tuning approaches), integrating vector databases for retrieval, personalization, and semantic search.
-Present and articulate advanced product capabilities, future roadmap, and solution differentiators; tailor messaging for both technical and executive audiences.
-Partner with field team on opportunity strategy; influence deal progression, objection handling, competitive positioning, and executive briefings.
-
-What You'll Need
-
-5+ years in solutions engineering/pre-sales or closely related roles delivering enterprise-grade AI or software solutions across JAPAC.
-Strong communication skills: executive presence, clear storytelling, whiteboarding, and the ability to translate complex technical concepts into business outcomes.
-Ability to quickly grasp complex technical and domain issues; highly detail-oriented with a passion for work quality.
-Proven track record delivering live PoCs/pilots and shepherding AI projects from concept to production handoff.
-Demonstrable experience in at least one of the following areas
-•    Deep Learning
-- At least two years of experience using Deep Learning models to solve problems
-- Worked with a variety of the different models
-- Experience with model training and finetuning
-- Deployed at least three projects which have gone live
-•    Generative AI
-- At least one year of experience using LLMs
-- Worked with at least two models, with or without RAG
-- Experience with finetuning LLMs
-•    Vector Database
-- Knowledge / Experience with vector database functionalities
-- Able to configure a vector database for a specific use case
-•    Python Coding
-- Expert level expertise in Python language
-- Substantial portfolio of Python applications
-Work arrangement: onsite at Oracle Singapore office
-
-#LI-DNI
-
-Career Level - IC4"
-88037348,Senior Data and AI Engineer,BINGO INDUSTRIES,https://www.seek.com.au/job/88037348?type=standard&ref=search-standalone&origin=jobCard#sol=c660f709d8ac4e8d0e85ae5ffa8d56c7e22b57f1,2h ago,2.0,2025-10-22T06:00:00+00:00,"Silverwater, Sydney NSW",Architects (Information & Communication Technology),Full time,,"BINGO is a fully integrated recycling and resource management company that provides solutions across the entire waste management supply chain in Queensland, New South Wales and Victoria.BINGO is at an exciting chapter of its growth journey. Together, we're going to drive change, get inventive and shape the future of our industry. We're going to make Australia waste free, for all of us.
-
-
-
-
-
-BINGO Industries is at a pivotal chapter in our growth journey. More than a recycling company, we are transforming waste into sustainable resources that improve all our lives, every day. Operating across Queensland, New South Wales, and Victoria, we deliver intelligent, sustainable solutions across the waste management supply chain.
-
-We have are welcoming applications for the position of Senior Data and AI Engineer. We have rich sources of data to mine; smart leaders that embrace technology; and owners that have invested in our systems architecture. We're ready to take things to the next level.
-
-In this role can expect to:
-
-Design, build, and optimise data pipelines using AWS Glue, Snowflake, and PostgreSQL.
-Manage and scale AWS-based data infrastructure (S3, Glue, Aurora (Postgres), Lambda, Amazon Bedrock).
-Develop and maintain data transformation workflows with dbt.
-Implement and operate vector databases and retrieval pipelines for LLM and RAG applications.
-Deploy, fine-tune, and integrate AI/ML systems into production (Amazon Bedrock, SageMaker, or custom models).
-Build clean and reliable APIs to expose data and AI services to business applications.
-Collaborate with business analysts and internal stakeholders to deliver intelligent agents and autonomous workflows.
-Drive best practices for performance, maintainability, and clean architecture across the data and AI stack.
-Act as a design consultant across all assigned IT projects.
-Support, resolve and document issues that arise in the production environment. This may include reviewing designs & code, recommending improvements.
-
-What makes you a GOgetter:
-
-Strong proficiency in Python for application, data, and AI/ML development.
-Deep experience with SQL/PostgreSQL and schema optimisation.
-Hands-on expertise with AWS data and compute services: Lambda, Glue, S3, Aurora, Step Functions.
-Familiarity with Snowflake and modern data warehousing practices.
-Experience deploying end-to-end data and AI solutions in production environment
-A great collaborator and genuine curiosity about both how things work and can be improved
-
-What you receive as a GOgetter:
-
-Weekly pay - no need to stretch for extended periods between pays
-Access to a range of employee benefits including novated car leasing, discounted health insurance and employee recognition programs
-Support of a strong, employee and safety-driven culture 
-Ongoing training and genuine opportunities for career progression
-A strong, safety-first and values-driven company culture
-
-We are committed at BINGO to building a workforce that reflects the communities and customers we serve. We are a proud RAP organisation and we are committed to achieving an inclusive workforce. We strongly encourage applications from Aboriginal and Torres Strait Islanders and people from culturally diverse backgrounds.
-
-Are you the person we're looking forward to welcoming on board? Apply now. We look forward to talking with you!"
-88037149,ML Platform Engineer- AWS- Major Bank - $1300 pd,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88037149?type=standard&ref=search-standalone&origin=jobCard#sol=c0e36f6be26a362e7a23157409360e850992accb,3h ago,3.0,2025-10-22T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,AUD 1200 - 1340 per day,"A major bank in Sydney is seeking an ML Platform Engineer for a 12 month contract likely to extend.
-As an ML Platform Engineer, you’ll play a vital role in designing, building, and maintaining the infrastructure and tools that drive the analytics teams to deliver business value at scale.
-Key Skills:
-
-Design, implement, and maintain scalable and reliable ML infrastructure on AWS.
-Develop and support tools for the end-to-end ML lifecycle, including data ingestion, model deployment, and monitoring, with an emphasis on automation and DevSecOps.
-Work collaboratively with data scientists, engineers, and stakeholders to translate requirements into robust technical solutions.
-Build and maintain CI/CD pipelines to streamline ML model deployment and updates.
-Develop and maintain thorough platform documentation, including architecture blueprints and best practices.
-Key Skills/ Experience:
-
-Hands-on experience with AWS services such as EC2, ECS, S3, Lambda, Step Functions, RDS, DynamoDB, IAM, VPC, Route 53, and CloudWatch.
-Experience with AWS ML services such as SageMaker, AWS Glue, Amazon EMR, and Airflow.
-Experience in building and scaling cloud infrastructure for machine learning use cases.
-Solid understanding of the ML lifecycle: data preprocessing, feature engineering, model training, evaluation, and deployment.
-Proficient scripting and automation skills in Bash and Python.
-Experience with Infrastructure-as-Code tools, especially AWS CloudFormation.
-Proficiency with version control systems such as GitHub and GitHub Actions.
-Familiarity with monitoring and observability tools like Grafana and Prometheus, as well as engineering tools such as Artifactory, Snyk, and Docker.
-Comfortable working across the full software lifecycle: design, build, change, and run.
-Strong communication skills and a commitment to inclusivity and continuous improvement.
-If interested please respond ASAP"
-88037089,Machine Learning Engineer / Data Scientist,The Argyle Network,https://www.seek.com.au/job/88037089?type=standard&ref=search-standalone&origin=jobCard#sol=de7d61ae92aa617b26a85dd59ab5c02c3d5eabb4,3h ago,3.0,2025-10-22T05:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,AUD 150000 - 180000 per annum,"Machine Learning Engineer / Data Scientist
-
-Build. Shape. Lead. The company’s first Machine Learning hire.
-
-This is a rare opportunity for a Machine Learning Engineer / Data Scientist to take the lead in building something truly new — my client's first dedicated ML capability within its growing Registry business.
-
-You’ll join at an exciting inflection point, where technology and financial data intersect, and where machine learning can transform how insights are created, decisions are made, and value is delivered.
-
-This person will have the freedom to set the technical direction, choose the tools, and shape the strategy for how ML and AI are embedded across the platform — working in a team that values creativity, experimentation, and tangible outcomes over bureaucracy.
-
-What You’ll Do
-Lead the ML journey – own end-to-end projects from concept through to production deployment and monitoring.
-Build smart systems – develop models for anomaly detection, forecasting, and data quality improvement that directly impact how the business operates.
-Engineer solid foundations – design scalable data pipelines using AWS technologies like Glue, Athena, Redshift, and Kinesis.
-Create best practice – establish MLOps processes, model governance, and retraining frameworks from the ground up.
-Collaborate widely – work with technology, product, and operations teams to uncover high-impact ML use cases and deliver measurable results.
-What You Bring
-Hands-on expertise with the AWS ML ecosystem (SageMaker, Glue, Athena, Redshift, Lambda, S3).
-Strong foundations in data science and machine learning, including feature engineering, model evaluation, and optimisation.
-Confident programming skills in Python (pandas, scikit-learn, PyTorch/TensorFlow) and SQL.
-Experience building and deploying ML models in production, with a solid understanding of MLOps.
-A builder’s mindset — comfortable operating with autonomy and ownership in a greenfield environment.
-Bonus Points For
-Experience working with financial, registry, or market data.
-Knowledge of AWS Bedrock, Generative AI, or agentic AI frameworks (LangGraph, CrewAI, RAG, MCP).
-Experience using Infrastructure as Code (Terraform or CloudFormation).
-Why It’s a Big Deal
-As the first Machine Learning hire, this person will define how the business approaches AI — from architecture and pipelines to strategy and culture. They’ll have a direct line to leadership, the scope to experiment, and the chance to make visible, high-impact contributions from day one.
-
-This is a role for someone who thrives in a fast-moving environment, enjoys solving complex data challenges, and wants to build, not just maintain. If you’re excited by the idea of being the architect of something lasting — and turning financial data into intelligent systems that drive the future of the business — this is the opportunity.
-
-To be selected for this role, you must have PERMANENT (Not Temporary), unrestricted work rights for Australia."
-88036975,ML Platform Engineer- AWS- Major Bank - $1300 pd,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88036975?type=standard&ref=search-standalone&origin=jobCard#sol=72476421cbbfd92c08be969cf92fc0b1fed88029,3h ago,3.0,2025-10-22T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 1200 - 1340 per day,"A major bank in Sydney is seeking an ML Platform Engineer for a 12 month contract likely to extend.
-As an ML Platform Engineer, you’ll play a vital role in designing, building, and maintaining the infrastructure and tools that drive the analytics teams to deliver business value at scale.
-Key Skills:
-
-Design, implement, and maintain scalable and reliable ML infrastructure on AWS.
-Develop and support tools for the end-to-end ML lifecycle, including data ingestion, model deployment, and monitoring, with an emphasis on automation and DevSecOps.
-Work collaboratively with data scientists, engineers, and stakeholders to translate requirements into robust technical solutions.
-Build and maintain CI/CD pipelines to streamline ML model deployment and updates.
-Develop and maintain thorough platform documentation, including architecture blueprints and best practices.
-Key Skills/ Experience:
-
-Hands-on experience with AWS services such as EC2, ECS, S3, Lambda, Step Functions, RDS, DynamoDB, IAM, VPC, Route 53, and CloudWatch.
-Experience with AWS ML services such as SageMaker, AWS Glue, Amazon EMR, and Airflow.
-Experience in building and scaling cloud infrastructure for machine learning use cases.
-Solid understanding of the ML lifecycle: data preprocessing, feature engineering, model training, evaluation, and deployment.
-Proficient scripting and automation skills in Bash and Python.
-Experience with Infrastructure-as-Code tools, especially AWS CloudFormation.
-Proficiency with version control systems such as GitHub and GitHub Actions.
-Familiarity with monitoring and observability tools like Grafana and Prometheus, as well as engineering tools such as Artifactory, Snyk, and Docker.
-Comfortable working across the full software lifecycle: design, build, change, and run.
-Strong communication skills and a commitment to inclusivity and continuous improvement.
-If interested please respond ASAP"
-88032791,Data Modeler,AAR Consulting Group P/L,https://www.seek.com.au/job/88032791?type=standard&ref=search-standalone&origin=jobCard#sol=c7dcdf8645461ffd4f89db0f9bfd04779af923e4,4h ago,4.0,2025-10-22T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,$950 - $1000 inc super,"An excellent opportunity for an experienced Senior Data Modeler to join a major enterprise program. You’ll be responsible for designing, documenting, and implementing end-to-end data modelling solutions that support information management, analytics, and data-driven decision-making.
-This role is hands-on, with approximately 80% focused on data modelling and 20% on data engineering collaboration.
-
-Key Responsibilities
-Develop, maintain, and document conceptual, logical, and physical data models.
-Maintain up-to-date metadata and documentation for data product models.
-Communicate complex data concepts clearly to both technical and non-technical stakeholders.
-Ensure effective collaboration and smooth handover between modelling and engineering teams.
-Support end-to-end data product processes, including data profiling, data flow design, and requirement validation.
-Work closely with domain experts to understand business requirements and translate them into fit-for-purpose data models.
-Conduct data model reviews with technical and business stakeholders.
-Collaborate with engineers to ensure accurate implementation of target databases.
-Skills & Experience
-Minimum 7 years of hands-on data modelling experience in large, complex environments.
-Strong experience with Databricks, Star Schema, and 3NF (Third Normal Form) modelling.
-Proven ability to design, develop, and test robust data structures.
-SAP experience (particularly Asset Management & Finance modules) with the ability to design effective data structures for SAP Enterprise Data Platforms.
-Demonstrated ability to ensure the accuracy, completeness, and consistency of data models.
-Excellent communication and stakeholder engagement skills.
-Strong team player with a proactive, “can-do” approach and the ability to find practical solutions.
-(Desirable) Prior experience in the Utilities sector or large enterprise transformation projects.
-
-For further information, please call Mike Lynch on 02 9114 8381 or apply on seek."
-88031264,AI Engineer,Australian Prudential Regulation Authority,https://www.seek.com.au/job/88031264?type=standard&ref=search-standalone&origin=jobCard#sol=c664c37aa75b4a58b1fdb984087e73aefa312f6d,4h ago,4.0,2025-10-22T04:00:00+00:00,Sydney NSW (Hybrid),"Engineering - Software (Information & Communication Technology)
-Government - Federal (Government & Defence)",Full time,,"The role
-
-The Artificial Intelligence (AI) Engineer will design, develop and deploy scalable AI solutions to solve business problems. The role will focus on building and operationalising AI solutions that drive innovation and deliver practical business value. The AI Engineer will work closely with solutions architects, software engineers and product teams to develop AI-enabled products, testing and tuning models, and ensuring solutions are secure, reliable and scalable.
-
-The team
-
-APRA's Technology team delivers, maintains, and enhances essential information technology services that support the organisation's productivity, strategic objectives, and business unit priorities.
-Technology partner with stakeholders to design, implement and maintain IT solutions that meet the needs of the organisation and ensuring these are secure and aligned with APRA's technology architecture.
-
-Key responsibilities
-
-Design, develop and deploy AI-enabled solutions and products, integrating them into digital products and services.
-Ensure that AI products and solutions are robust, efficient and easy to maintain.
-Develop prototypes and proof of concepts to explore new AI capabilities.
-Collaborate with cross-functional teams to identify business needs and turn them into integrated AI solutions.
-Evaluate, fine-tune and optimise AI models for performance, scalability and ethical outcomes.
-Apply techniques such as prompt engineering, RAG, and model evaluation frameworks.
-Monitor and improve AI systems ensuring reliability and user trust.
-Optimise models to ensure performance and efficiency.
-Stay up to date with the latest tools and technologies in the AI domain.
-Contribute to best practices, documentation and knowledge sharing to support scalable and sustainable delivery.
-
-About you
-
-Proven experience as an AI engineer with a focus on innovation, emerging technologies and automation.
-Strong proficiency in AI platforms and services, particularly MS Copilot, OpenAI, Azure AI Foundry, intelligent agents and LLM-based services.
-Deep understanding of generative AI, LLMs, and agentic AI frameworks and technologies (e.g. PyTorch, Tensorflow, MLFlow, RAG models, Langchain, etc.).
-Strong coding skills in one or more languages such as Python, SQL or other relevant AI development frameworks.
-Experience with Microsoft Copilot Studio for building conversational AI and chatbot solutions.
-Experience with prompt engineering and fine-tuning large language models (LLMs)
-Knowledge of AI governance frameworks, security and privacy policies.
-Familiarity with Agile delivery methodologies and SecDevOps practices.
-Ability to quickly prototype and iterate solutions using modern tools, including low-code platforms where appropriate.
-Passion for problem-solving, curiosity to explore new technologies, and eagerness to bring ideas to life.
-Excellent communication and collaboration skills, with the ability to engage both technical and non-technical stakeholders
-
-
-To work with us, you must be an Australian citizen with eligibility to gain a Baseline Security clearance through the Australian Government Security Vetting Agency.
-
-About APRA
-
-Australian Prudential Regulation Authority (APRA) was established in 1998 as an independent statutory authority that supervises almost 1,200 financial institutions that manage $8.6 trillion in assets for Australians across the banking, insurance and superannuation sectors.
-In overseeing the safety, competitiveness and stability of the financial system, we seek to recruit, develop and retain highly skilled professionals, who want to help shape financial services and protect the financial wellbeing of the Australian community. Our employee base of almost 900 come predominantly from the commercial financial services industry or other government agencies; as such, we have the feel of a small corporate organisation that can work flexibly and with agility.
-
-Why Work for APRA
-
-We recognise the skills, experience and commitment that our staff bring to their professional lives, and we seek to reward them accordingly. We also recognise that for our staff to be able to perform at their best, we need to ensure that they are able to bring their best selves to work. Our commitment to wellbeing is having engaged people supported by resilient leaders within a values-aligned culture.
-At APRA, we're committed to providing an inclusive workplace where everyone belongs, feels valued and respected. We aspire to attract and foster diversity of background, thought, and experience, recognising that a broad range of perspectives, approaches and ideas makes us stronger, and better enables us to meet our obligation to protect the financial wellbeing of the Australian community. If you need any adjustments during the recruitment process, please inform at application stage so we can do our best to accommodate your requirements."
-88026499,Software Engineer,Black Nova VC,https://www.seek.com.au/job/88026499?type=standard&ref=search-standalone&origin=jobCard#sol=b7dad1bcc4868582a4e5d95609ec7a03b3443493,5h ago,5.0,2025-10-22T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Black Nova are supporting one of our portfolio companies. Prefactor is the Native MCP Identity Layer for modern SaaS - We're hiring Engineers.
-
-Mid-level and Senior positions
-Location: Sydney or Melbourne (Hybrid working 1 day a week)
-Salary: $120-170k base + super + ESOP
-Tech Stack: MCP, Elixir, JavaScript, AWS, Docker and more
-Prefactor was founded to solve the identity challenges of the AI era; where users are AI Agents, APIs, and automation. Prefactor provides a new foundation: first-class, auditable, version-controlled identity for AI Agents and automation. It’s infrastructure for the next era of software.
-
-Why is it an exciting time to join Prefactor as an Engineer?
-
-Define a New Category: You'll be building foundational infrastructure for AI agents.
-Solve Unanswered Questions: This is a rapidly evolving, undefined space. You will be at the forefront, contributing to what could become the new industry standard for interaction and automation via Model Context Protocol (MCP).
-Build in a Moving-Target Environment: The MCP spec is fast-moving. This role requires an experienced, pragmatic, and passionate engineers who thrive on technical challenges and innovation.
-We're hiring Engineers  
-  
-Here's some things you can help us achieve:
-
-End-to-End Ownership: Independently design, build, and deploy a completely new, major feature of the product from scratch. You'll leave a significant personal stamp on the product.
-Become the Expert: Develop deep expertise in core areas of our system, becoming the go-to person for those components.
-Technical & Cultural Contributor: Actively contribute to the overall tech strategy and shape a culture of innovation, speed, and quality.
-Some Examples of things you can build with us:
-
-Model and build complex workflows for agent authorisation.
-Develop a robust audit system to monitor all agent activity.
-Engineer systems for ingesting, processing, and securely storing large datasets.
-Build and manage a highly stable and scalable decision and authorisation engine.
- The Skills and Experience you'll bring  
-  
-We're looking for Senior Engineers who can bring as much experience as possible in these areas:
-
-Technical Skillset
-Ideal: Experience with Elixir and an interest in the MCP space is highly beneficial but not essential.
-Back-End Experience: Strong proficiency in one or more back-end languages like Go, Ruby, Scala, Rust, or similar. A mixed experience is highly valued.
-Cloud & Infrastructure: Hands-on experience with AWS. You've had responsibility for deploying and managing applications and infrastructure.
-Proficient with Docker.
-Confident with JavaScript and building UIs
-Project Experience
-
-Stage-Appropriate Skillset: You thrive in early-stage, small-team environments. Comfortable making decisions with autonomy, fixing what you've built, and building for the future.
-Proven Backend Product Experience: Experience building complex, back-end-heavy products. You simplify complexity and communicate it effectively.
-Project Ownership: Demonstrable experience owning projects end-to-end, from ideation to deployment and stakeholder management.
-Pragmatic: You are an experienced, pragmatic engineer who provides a healthy pushback on assumptions and isn't swayed by hype."
-88025840,"Machine Learning Engineer, NLP",Binance,https://www.seek.com.au/job/88025840?type=standard&ref=search-standalone&origin=jobCard#sol=24b23e8c66716b25af7d63e55b20941a00d6845a,6h ago,6.0,2025-10-22T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 280 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
-
-About the Role
-
-As a Machine Learning Engineer, you will leverage rich datasets at petabyte scale and state-of-the-art machine learning infrastructure to develop AI-driven products used by tens of millions of cryptocurrency users. You will collaborate closely with engineers, data analysts, business operations, and product managers to define and deliver solutions, features, algorithms, and products powered by advanced machine learning and data technologies.
-
-Responsibilities:
-
-Apply NLP techniques to preprocess and analyze large-scale textual data, developing and fine-tuning Large Language Models (LLMs) and multimodal models to generate actionable business insights.
-Design, build, and maintain end-to-end machine learning pipelines—including data ingestion, cleaning, feature engineering, model training, evaluation, deployment, and monitoring
-Lead the deployment of ML models in production environments with a focus on scalability, reliability, availability, and low-latency inference, leveraging cloud infrastructure for optimal performance.
-Collaborate with business and technical stakeholders to identify AI opportunities, align initiatives with organizational goals, and communicate insights effectively through data analysis and visualization.
-Stay abreast of the latest AI advancements, particularly in multimodal AI, to continuously integrate cutting-edge technologies into solutions.
-Explore the use of agentic AI to automate detection and monitoring within risk management systems, improving accuracy and response times.
-Requirements:
-
-Minimum 4 years of industry experience in AI/ML, preferably focused on NLP and/or multimodal AI, with a Master’s degree or higher in Computer Science, Data Science, or related fields.
-Proficient in big data technologies (e.g., Apache Spark, Hadoop, Kafka, VectorDB) or equivalent platforms.
-Skilled in programming languages such as Python or Java, with hands-on experience in ML/NLP libraries and deep learning frameworks (TensorFlow, PyTorch, Scikit-learn, SpaCy, NLTK).
-Strong understanding of modern machine learning and deep learning techniques, including transformer architectures (BERT, GPT), hyperparameter optimization, and methods for handling imbalanced datasets.
-Experience optimizing and deploying ML models for low-latency inference in production, familiar with end-to-end ML deployment processes including version control (Git), continuous integration/continuous deployment (CI/CD), and managing multiple environments (dev, QA, staging, production).
-
-Preferred
-
-Experience with productionising agentic AI systems or similar autonomous AI solutions is a plus.
-Prior experience in e-commerce or technology sectors is highly desirable.
-
-Why Binance
-
-• Shape the future with the world’s leading blockchain ecosystem
-
-• Collaborate with world-class talent in a user-centric global organization with a flat structure
-
-• Tackle unique, fast-paced projects with autonomy in an innovative environment
-
-• Thrive in a results-driven workplace with opportunities for career growth and continuous learning
-
-• Competitive salary and company benefits
-
-• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)
-
-Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.
-
-By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
-
-We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
-88023620,Senior Software Engineer - Agentic AI,LEAP,https://www.seek.com.au/job/88023620?type=standard&ref=search-standalone&origin=jobCard#sol=e73b3b178a958f3beedd21e9a8c748cf5695b59c,7h ago,7.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,,"About LEAP
-
-LEAP is the leading provider of Legal Practice Management Solutions in the world and is part of ATI – one of the largest international LegalTech companies. For more than 30 years, our curiosity and commitment to continual improvement has kept us reimagining productivity tools for lawyers and their staff to support our guiding purpose, to ‘Help lawyers who help people’. The market-leading software we develop, and support is used by more than 71,000 lawyers and their staff in small and medium-sized law firms.
-
-Working alongside our international team of passionate high achievers, you’ll join a fast-growing technology business where things seldom stay the same for long. With more than 1000 smart, caring and ambitious ‘LEAPsters’ working together across Australia, Canada, the United States, the United Kingdom, the Republic of Ireland, Poland and New Zealand, you’ll find yourself in good company here.
-
-Meet the AI Free Thinking Paralegal team
-
-AI Free Thinking Paralegal is a new team within LEAP, operating at the cutting edge of AI technology. Led by the previous technology co-founder of CreditorWatch and Avenue Bank, we combine high autonomy, high flexibility, and low bureaucracy like a startup, while enjoying the peace of mind and stability that come with being part of a mature, successful organisation. Working side-by-side with an experienced technology leader (a coder and entrepreneur), you will work on a variety of interesting challenges as we build the future of AI-powered legal assistance.
-
-This is an exciting opportunity to make a powerful impact by revolutionising how lawyers work with AI, enabling them to analyse complex legal matters, prepare accurate documents, and deliver better outcomes for their clients.
-
-What you'll do
-
-We’re hiring two Software Engineers to help to shape the backbone of a groundbreaking AI platform that’s redefining how legal professionals interact with technology. You’ll work alongside experts in AI, automation, and legal innovation to solve problems few have faced before, helping to build the AI Free Thinking Paralegal - the future of AI-powered productivity at LEAP. As part of our team developing the agentic AI core platform that consumes Model Context Protocol (MCP) services, you’ll design and scale the infrastructure connecting automation, integrations, and generative AI across LEAP and the wider ATI Group. Expect to push the boundaries of what’s possible - creating advanced automation frameworks, integrating generative AI, and building scalable systems that transform how legal work gets done.
-
-To make this happen, you will:
-
-Design, build, and maintain core services that consume and orchestrate MCP-based integrations.
-Develop scalable, reliable, and secure systems to support automation and generative AI workflows.
-Collaborate closely with teams developing MCP services to ensure smooth integration and performance.
-Solve complex engineering problems around AI reliability, context management, and data flow.
-Prototype and optimise AI-driven features that work within known limitations of generative models.
-Participate in architectural planning, service design, and API definition.
-Continuously improve system robustness, observability, and developer experience.
-
-What you'll bring
-
-Over 7 years commercial experience as a developer
-Strong experience in at least two of the following:
-PHP/Laravel
-Python
-TypeScript/JavaScript/React
-Solid understanding of automation, system integrations, or AI-enabled workflows.
-Demonstrated ability to work with LLMs or generative AI systems - understanding their constraints, strengths, and how to build around their limitations.
-Experience designing and consuming APIs, ideally in distributed environments.
-Strong debugging and problem-solving skills, with a creative mindset for building robust, maintainable systems.
-Excellent collaboration and communication skills - able to translate technical concepts into clear, actionable ideas.
-
-Even better, if you:
-
-Experience with MCP, Kafka, N8N, Zapier, or other inter-application communication frameworks and event-driven systems.
-Background in AI safety, prompt engineering, or agent-based system design.
-Contributions to open-source AI or integration frameworks.
-
-You are the type of person who
-
-Loves bringing creativity and innovation to every problem you solve
-Gets things done by transforming prototypes into production-ready solutions through progressive iteration and refinement
-Takes pride in your team's work and celebrates collective achievements
-Thrives on solving difficult, complex problems that push the boundaries of what's possible
-Values working autonomously while actively contributing to the team's success
-Believes that you succeed when the whole team succeeds - collaboration and shared wins drive you forward
-
-LEAP is an inclusive, people-first company committed to breaking down institutional barriers that keep people from reaching their potential. If you meet some, but not all the requirements above, we encourage you to still submit your application.
-
-Why join LEAP?
-
-Your work matters. Helping lawyers help people sits at the heart of everything we do. We solve real world problems that improve and support local, everyday law firms. So they can do their best work for the people in the communities they serve.
-Make an impact. You won’t be another ‘cog in the wheel’ here. We give full trust and autonomy for you to be heard, to work on big & complex projects – and to make a real difference.
-Work with a group of authentic, passionate people who love what they do.
-Well-funded and global. LEAP is the leading provider of Legal Practice Productivity Solutions across Australia, Canada, the United States, the United Kingdom, the Republic of Ireland and New Zealand. We're part of ATI – one of the largest international LegalTech companies.
-Flexible and hybrid working. We'd like to find this person in Sydney, but we want you to work in a way that suits you and we're open to flexible arrangements that support you.
-Grow your career with us. Our founder Christian Beck has been building legal tech businesses for over 30 years. There are opportunities galore to expand your career based on where your interests lie. We're not afraid to pivot based on market conditions - you will always have the opportunity to stay ahead of the curve and do your best work here.
-Have fun with us. Celebrations. Socials. Sports teams. Access to sailing and yacht events.
-We value your well-being - enjoy an additional paid wellbeing day every year, free gym membership, corporate dental plan and weekly massages in the office. We'll throw in a catered lunch and breakfast every week too. Oh and an on-site barista.
-Access to LEAP Home - a program unique to LEAP to support you in buying your primary residence. 
-
-#LI-MB1"
-88022566,Data Engineer | 12 month FIxed Term Contract,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88022566?type=standard&ref=search-standalone&origin=jobCard#sol=995140ba525369c003ff015e537343e1db30f459,7h ago,7.0,2025-10-22T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,$160000.00 - $180000.00 p.a. + Up to $180k + Super,"Role Overview
-
-Join our dynamic IT & Digital Services team as a Data Engineer on a 12-month contract. This exciting opportunity involves designing and managing secure, scalable data solutions to support strategic analytics and enhance the student experience.
-
-Key Responsibilities
-
-Architect and maintain ETL/ELT processes for cloud migration and data management.
-Collaborate with stakeholders to deliver high-quality data solutions that inform decision-making.
-Implement best practices for data governance, security, and quality assurance.
-
-Key Requirements
-
-Strong experience with SQL, ETL processes, and cloud platforms (e.g., Snowflake, Microsoft Fabric).
-Proven ability to create engaging data s using BI tools like Power BI or Tableau.
-Excellent problem-solving skills and the capacity to work with cross-functional teams.
-
-Benefits
-
-Competitive salary and benefits package.
-Opportunity to lead a significant data transformation initiative.
-Professional development and learning opportunities in a supportive environment."
-88022189,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88022189?type=standard&ref=search-standalone&origin=jobCard#sol=c8c0eaa11efd766c03da1fb2c554ea3683ef4c5b,7h ago,7.0,2025-10-22T01:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
-
-Emeco are looking for an experienced Asset Performance Analyst to join our Brisbane team on a permanent full-time basis.
-
-What we can offer:
-
-Attractive Salary
-Full Time Permanent Role based in our Brisbane Office 
-Supportive team that’s passionate about what we do
-Perks including retail, lifestyle, and entertainment discounts
-
-
-About the role:
-
-Utilise advanced statistical and machine learning techniques to analyse large datasets and identify patterns, trends and anomalies. Build predictive models to optimise mining operations and equipment maintenance and performance.
-Analyse, interpret, and connect complex data sets to identify trends, patterns, and actionable insights.
-Develop data models, algorithms, and statistical methods to solve a variety of business challenges + contribute to establishing best practices in AI and machine learning operations.
-Provide actionable insights and answers to complex business problems using advanced data analytics techniques and tools.
-Collaborate with cross-functional teams, including Machine Learning Engineering, Data Engineering, and Data Platform groups, to understand business requirements, deliver data-driven solutions, and enhance data capabilities.
-Work closely with engineers and mining experts to identify areas for improvement in operational efficiency of equipment.
-Communicate findings and insights effectively to both technical and non-technical stakeholders, ensuring data-driven decisions are well-understood.
-
-What we are looking for:
-
-5+ years of experience in data science, AI or closely related disciplines, demonstrating practical expertise and proficiency in the field.
-Experience and expertise with coding in Python and SQL.
-Experience using analytical and reporting tools (e.g. Power BI, Data Factory).
-Experience with Cloud based platforms/services. Experience with the Databricks platform is highly valued, especially proficiency in using it for data engineering tasks, model development, and deployment within a unified analytics platform.
-Demonstrated experience of analytical skills, critical thinking abilities, problem solving, predictive analytics and machine learning (highly regarded).
-
-If you have any questions regarding the role, please contact Chloe Connor chloe.connor@emecogroup.com"
-88018590,Cloud Solutions Engineer (357832) - Justice Connect Program,Department of Justice,https://www.seek.com.au/job/88018590?type=standard&ref=search-standalone&origin=jobCard#sol=b5d5416aa329f36e75ec21f93afbf11ea0bccaf9,10h ago,10.0,2025-10-21T22:00:00+00:00,Hobart TAS,"Engineering - Software (Information & Communication Technology)
-Government - State (Government & Defence)",Full time,"$129,302 to $136,089 per annum","**Applications close 11:55pm, Sunday 2 November 2025**
-
-We encourage applications from Indigenous Australians, people living with disability, people from diverse cultural and linguistic backgrounds, mature age workers and LGBTIQA+ people.
-
-The Department of Justice supports reasonable adjustment requests in any stage of the assessment process to remove barriers and facilitate full participation in all aspects of employment for applicants with disability. If you have individual requirements that need to be accommodated in order to participate in an interview or recruitment activity, please inform the contact listed at the end of this vacancy.
-
-We are a diverse and inclusive workplace and understand the importance of flexible working arrangements.  Talk to us about how this could work for you.
-
-Hours per fortnight
-
-73.50 hours per fortnight - flexible options available. 
-
-Duties
-Work with Solutions Architects, business and technical SMEs and vendors to:
-Analyse and document requirements for cloud infrastructure, system integration, automation, monitoring, and data management.
-Design, develop, configure, and test Microsoft Azure solutions (e.g. Logic Apps, Functions, Data Factory, App Services, storage, and identity/security services).
-Document solution designs, patterns, development standards, and operational procedures to ensure maintainability and supportability.
-Review internal and vendor-delivered designs, specifications and code to ensure quality and alignment with departmental standards.
-Maintain version control, automated deployment, and infrastructure-as-code tools, ensuring a high level of code quality, and conduct quality checks on team deliverables.
-Implement monitoring, logging, and alerting solutions (e.g. Azure Monitor, Log Analytics, Application Insights), and collaborate with infrastructure and security specialists to ensure solutions are appropriately configured, secure, and compliant.
-Conduct training and knowledge transfer sessions with technical specialists and business SMEs, and provide mentoring and guidance to team members.
-Keep abreast of best-practice cloud solution patterns and evolving security requirements, and work with infrastructure and security specialists to ensure that systems are appropriately configured, secure, and monitored.
-The incumbent can expect to be allocated duties, not specifically mentioned in this document, that are within the capacity, qualifications and experience normally expected from persons occupying positions at this classification level.
-Desirable Requirements
-Demonstrated hands-on experience with Microsoft Azure integration and data services (e.g. Logic Apps, API Management, Service Bus, Key Vault, Data Factory, Synapse, Data Lake) or equivalent experience in another major cloud platform with the ability to rapidly transfer skills to Azure.
-Familiarity with monitoring and observability tools (e.g. Azure Monitor, Log Analytics, Application Insights).
-Proficiency with scripting or programming languages such as SQL, PowerShell, Python, C#, or JavaScript.
-Experience with infrastructure-as-code and DevOps toolsets (e.g. ARM/Bicep, Terraform, Git, CI/CD pipelines, Azure DevOps).
-Knowledge of business intelligence and analytics tools & platforms (e.g. Power BI, JasperSoft, etc).
-Experience working in Agile delivery environments and contributing to process improvement initiatives.
-Pre-employment Checks
-
-The Head of State Service has determined that the person nominated for this vacancy is to satisfy a pre-employment check before taking up the appointment, promotion or transfer.
-
-The following checks are to be conducted:
-
-Pre-employment (National Police Record) checks for: Arson and fire setting, violent crimes and crimes against the person, sex-related offences, drug and alcohol related offences, crimes involving dishonesty, deception and/or conspiracy, making false declarations, malicious damage and destruction to property, serious traffic offences, crimes against public order or relating to the Administration of Law and Justice, Executive or the Legislative Power.
-Disciplinary action in previous employment.
-Identification check.
-Download the Statement of Duties and any Associated Documents
-
- Statement of Duties (357832) Cloud Solutions Engineer.docx
-
- Statement of Duties (357832) Cloud Solutions Engineer.pdf
-
- Information for applicants (Office of the Chief Information Officer).docx
-
- Information for applicants (Office of the Chief Information Officer).pdf
-
-How to apply
-
-To apply, please provide a Short Form Application which is a 1-2 page covering letter outlining your experience, skills and knowledge as they relate to the Statement of Duties, and a copy of your current Resumé/CV.  We do not require a separate statement addressing the selection criteria.
-
-Please apply online by clicking the 'Apply Now' button.
-
-Refer to the 'Information for Applicants' document for further information. Please note, attachments must be in Microsoft Word or PDF format.
-
-If you are unable to submit your application online, please contact the Department of Justice Recruitment Team on (03) 6165 4946
-
-For more information
-
-Dave Van 't Veld
-Acting Enterprise Solutions Architect
-dave.vantveld@justice.tas.gov.au 
-Phone: (03) 6165 9935
-
-Reasonable Adjustment Queries
-
-People Strategy Team
-(03) 6165 7602"
-88017500,Automation Engineer,Cromarty,https://www.seek.com.au/job/88017500?type=standard&ref=search-standalone&origin=jobCard#sol=71901b9bbd0c82748418ed185389059051b4eb01,12h ago,12.0,2025-10-21T20:00:00+00:00,"Hendra, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"ABOUT US
-
-
-
-
-Cromarty Automation is a leading Australian provider of industrial process control and automation solutions, delivering projects across diverse industries from offices in Brisbane, Melbourne, Hobart, Launceston, and Devonport.
-
-As a recognised Employer of Choice, we have been supplying Australian and international companies with innovative and effective business solutions for over 30 years delivering electrical/automation engineering, instrument sales and technical services.
-
-We aspire to be the leading independent automation provider — enhancing our clients’ operations and contributing to our community through our people.
-
-
-
-
-THE OPPORTUNITY
-
-
-
-
-We are seeking a highly motivated and suitably experienced Automation Engineer to join the Brisbane team within our Automation Group.
-
-
-
-
-In this role, you will work on diverse, technically challenging projects and contribute across the full project lifecycle — from tendering to commissioning. Based in Brisbane, you’ll deliver technical excellence, support staff and clients, and contribute directly to project delivery, in a supportive, collaborative environment.
-
-
-
-
-You will be a technical specialist with the ability to organise and deliver high quality outcomes while maintaining strong relationships with clients and identifying new business opportunities.
-
-
-
-
-ROLE REQUIREMENTS
-
-Bachelor of Electrical, Mechatronic or Automation Engineering, or relevant training and experience
-
-Demonstrated ability to deliver high-quality engineering work.
-
-Proficient delivery of control system automation projects, including PLC, RTU, HMI and SCADA experience
-
-Strong safety focus by adhering to and promoting all Cromarty Automation safety policies and procedures.
-
-Committed to delivering high-quality outcomes and the ability to work collaboratively.
-
-Effective communication, documentation and professional organisation skills.
-
-Maintain professional currency by staying abreast of current Electrical & Automation engineering best practice.
-
-
-
-
-Experience in the following will be highly regarded:
-
-Industrial/manufacturing environment experience.
-
-Understanding of Low voltage electrical and control systems.
-
-MES platforms experience.
-
-Proficiency in various programming environments such as C#, Java, Python, etc.
-
-Understanding of Networking and Cybersecurity
-
-
-
-
-Considered applicants will be highly motivated to deliver innovative electrical, automation and technology solutions to meet a variety of customer needs.
-
-
-
-
-Cromarty Automation value our people, supporting them to grow, develop and thrive in an environment that encourages and facilitates innovation, working with a supportive and collaborative team of professionals.
-
-
-
-
-An attractive remuneration package will be offered according to experience. Cromarty Automation offers a supportive, flexible environment in which to work with considerable scope for development.
-
-
-
-
-For more company information, please visit our website http://www.cromarty.com.au"
-88014950,Lead AI EngineerNew,Karbon,https://www.seek.com.au/job/88014950?type=standard&ref=search-standalone&origin=jobCard#sol=f0043cfb9587e55c6171a6f7122fb4972fec527e,19h ago,19.0,2025-10-21T13:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Karbon
-
-Karbon is the global leader in practice management software for growth-minded accounting firms. We provide an award-winning, highly collaborative cloud platform that streamlines work and communication, enabling the average accounting firm using Karbon to save 18.5 hours per week, per employee.
-
-We have customers in 34 countries and have grown into a globally distributed team, with our people based throughout the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, have a fantastic team culture built on our values, are growing rapidly, and making a global impact.
-
-About this role and the work
-
-
-We are seeking innovative, Lead AI & ML engineers who thrive in a fast paced environment. You will have the unique opportunity to take on greenfield projects within a supported team, backed by executive level investment.
-
-Karbon is at the start of its AI journey. You will have the opportunity to shape our product and processes. The successful candidate will be capable of designing, implementing and maintaining AI models in a distributed production environment. You will be expected to be able to develop bespoke AI solutions (Not just using LLMs!) to automate workflows, generate insights and create efficiencies for our users. 
-
-Some of your main responsibilities will include:
-
-Designing AI systems - you know how to analyse problems and apply machine learning to solve them
-Machine learning and AI development - you will be expected to develop a wide range of machine learning applications. 
-Model evaluation and selection - You look beyond the basic evaluation metrics and consider wider impacts.
-Productionise AI - You own the process past deployment by owning production monitoring.
-Data management - Work with data engineers to build and maintain data pipelines
-Collaboration - You can work in a cross-functional team with data engineers, analysts and full stack developers.
-About you
-
-
-If you’re the right person for this role, you have:
-
-7+ years of experience developing and deploying AI/ML solutions
-Experience in a tech lead role (architectural decision making, completing tech designs, coaching junior engineers)
-Strong proficiency in LLM development and previous experience building autonomous agents (ADK, LangGraph, Agents SDK, etc.) 
-Strong proficiency in Python and relevant ML frameworks (Sklearn, Pytorch, Tensorflow, spaCy, etc.)
-Strong understanding of traditional machine learning techniques (linear/logistic regression, randomForest, GBM, etc.)
-Strong understanding of the machine learning development lifecycle, including MLOps, deployment and monitoring
-A Bachelor’s degree in Computer Science, Artificial Intelligence, Statistics, or equivalent experience is needed (Masters or PhD advantageous).
-
-It would be advantageous if you have:
-
-Experience developing and maintaining data pipelines (Snowflake, DBT, etc) 
-Previous experience in backend software development (in particular C#)
-Previous experience in Azure is advantageous
-
-Why work at Karbon?
-
-Gain global experience across the USA, Australia, New Zealand, UK, Canada and the Philippines
-4 weeks annual leave plus 5 extra ""Karbon Days"" off a year
-Flexible working environment
-Work with (and learn from) an experienced, high-performing team
-Be part of a fast-growing company that firmly believes in promoting high performers from within
-A collaborative, team-oriented culture that embraces diversity, invests in development, and provides consistent feedback
-Generous parental leave
-
-Karbon embraces diversity and inclusion, aligning with our values as a business. Research has shown that women and underrepresented groups are less likely to apply to jobs unless they meet every single criteria. If you've made it this far in the job description but your past experience doesn't perfectly align, we do encourage you to still apply. You could still be the right person for the role!
-
-We recruit and reward people based on capability and performance. We don’t discriminate based on race, gender, sexual orientation, gender identity or expression, lifestyle, age, educational background, national origin, religion, physical or cognitive ability, and other diversity dimensions that may hinder inclusion in the organization.
-
-Generally, if you are a good person, we want to talk to you. 😛
-
-If there are any adjustments or accommodations that we can make to assist you during the recruitment process, and your journey at Karbon, contact us at people.support@karbonhq.com for a confidential discussion.
-
-At this time, we request that agency referrals are not submitted for this position. We appreciate your understanding and encourage direct applications from interested candidates. Thank you!"
+#lendigroup #LI-GR2 #LI-hybrid"
