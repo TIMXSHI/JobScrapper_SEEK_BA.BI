@@ -1,5 +1,179 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88054475,Senior Data Engineer (Azure / Fabric),Robert Half,https://www.seek.com.au/job/88054475?type=standard&ref=search-standalone&origin=jobCard#sol=300d189620a86b9841483d3d4014fa8ed9434054,1h ago,1.0,2025-10-23T00:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,$160k - $180k p.a. + superannuation,"Due to business growth, we are now looking for an Senior Data Engineer to join the business.
+88058074,ML Ops & AI Platform Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88058074?type=standard&ref=search-standalone&origin=jobCard#sol=c37fbc24f3eec299bca5c37d0bfa3e17e6715628,1h ago,1.0,2025-10-23T02:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"This is a unique opportunity to shape the future of AI at NGM Group, with the chance to influence platform design, deployment standards, and operational excellence from the ground up.
+
+We are seeking a technically driven ML Ops / AI Platform Engineer to lead the operational delivery of machine learning and generative AI solutions. This role is critical in bridging the gap between experimentation and production, ensuring our AI systems are secure, scalable, and reliable.
+
+You’ll work closely with data scientists, platform engineers, and external partners to build the infrastructure that powers our AI journey. With several ML pilots already in use—including mortgage retention and deposit forecasting—you’ll help us move from proof-of-concept to robust, enterprise-grade delivery.
+
+What will your key responsibilities include?
+
+Translate prototype models into production-ready pipelines that are modular and reproducible
+
+Build and maintain data pipelines for training, scoring, and inference across environments
+
+Package and version models using Databricks Asset Bundles (DAB) for deployment
+
+Collaborate with data scientists to understand modelling requirements and constraints
+
+Work closely with platform engineers to align deployment strategies and CI/CD practices
+
+Implement model validation, performance monitoring, and drift detection frameworks
+
+Document workflows, data dependencies, and deployment configurations
+
+Ensure compliance with internal governance standards around security, reproducibility, and versioning
+
+What are we looking for?
+
+Success in this role requires a systems mindset, a passion for automation, and the ability to bring structure to fast-moving AI initiatives. You’ll be instrumental in shaping our production environment, supporting the deployment of ML and GenAI solutions, and ensuring our infrastructure evolves alongside our ambitions. To thrive in this role, you will bring:
+
+Proven experience in cloud engineering or DevOps roles
+
+Strong hands-on expertise with CI/CD tools, preferably GitHub integrated with Databricks
+
+Familiarity with Databricks deployment models and infrastructure configuration
+
+Proficiency in Python and API development frameworks
+
+Experience with Terraform and infrastructure-as-code practices
+
+Knowledge of monitoring tools and secure deployment protocols
+
+Ability to manage version control of open-source packages and prevent breaking changes
+
+Excellent communication skills and a collaborative mindset
+
+Comfort working with ambiguity and evolving environments
+
+Why join us?
+
+Beyond the expected perks that we’re proud to offer like fitness passports, corporate health insurance, and paid parental leave, we go the extra mile to offer benefits that truly enhance your work-life balance, career growth, and sense of belonging.
+
+Boredom? Never heard of it. We’re all about challenging, stimulating work that sparks innovation, fuels passion, and keeps you inspired every day.
+
+We’re all about bringing people together - whether it’s through open conversations, a culture of respect, or just having a laugh in a truly inclusive workplace.
+
+Learning never stops here. Whether it’s LinkedIn Learning, formal training, career coaching, study leave, or even a great podcast rec, we support every kind of growth—professional and personal.
+
+About us
+
+As one of Australia’s largest customer-owned banks, we’re a driving force in customer owned banking, operating under the trusted brands Greater Bank and Newcastle Permanent. With over 200 years of combined experience, we’ve helped hundreds of thousands of Australians achieve home ownership and providing a genuine alternative to the big banks—all while strengthening the communities we serve. At the heart of everything we do are our core values:
+
+Lead with heart – We genuinely care about achieving better outcomes for our customers and communities.
+
+Own the action – We build trust by doing things the right way, with honesty and transparency.
+
+Embrace opportunity – We look ahead, focusing on our strengths and expertise to challenge the status quo.
+
+Thrive together – By working as one, we create the best possible future for our customers and communities
+
+And we’re just getting started. Join a team shaping the future of trusted banking and make a real impact where it matters most.
+
+
+
+
+A note to recruitment agencies: We’ve got this role covered, so no need to get in touch! As such, we are unable to accept unsolicited CVs and will not be liable for any associated fees. Thank you for your understanding!
+
+
+
+
+NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
+
+
+
+
+We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
+88057788,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88057788?type=standard&ref=search-standalone&origin=jobCard#sol=31dbbfdf46fb0fa74482197d09a85e6aff1d71f3,1h ago,1.0,2025-10-23T02:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
+
+This role is ideal for someone who thrives in cross-functional teams, enjoys translating experimental models into scalable systems, and is passionate about automation, governance, and performance in AI delivery.
+
+What will your key responsibilities include?
+
+Translate prototype models into production-ready pipelines that are modular and reproducible
+
+Build and maintain data pipelines for training, scoring, and inference across environments
+
+Package and version models using Databricks Asset Bundles (DAB) for deployment
+
+Collaborate with data scientists to understand modelling requirements and constraints
+
+Work closely with platform engineers to align deployment strategies and CI/CD practices
+
+Implement model validation, performance monitoring, and drift detection frameworks
+
+Document workflows, data dependencies, and deployment configurations
+
+Ensure compliance with internal governance standards around security, reproducibility, and versioning
+
+What are we looking for?
+
+Success in this role requires resilience, adaptability, and the ability to lead in a dynamic, fast-paced environment. We value individuals who embrace change and continuously evolve with emerging technologies and methods. To thrive in this role, you will bring:
+
+Strong proficiency in Python for ML engineering and data workflows
+
+Experience with Databricks and ML lifecycle tools such as MLflow
+
+Familiarity with CI/CD pipelines and DevOps practices
+
+Understanding of secure deployment protocols (e.g., OAuth, RBAC)
+
+Ability to work across experimental and production environments
+
+Experience managing model performance over time, including drift detection and retraining strategies
+
+Excellent problem-solving mindset with a focus on automation and reliability
+
+Strong communication and collaboration skills across technical and non-technical teams
+
+Why join us?
+
+Beyond the expected perks that we’re proud to offer like fitness passports, corporate health insurance, and paid parental leave, we go the extra mile to offer benefits that truly enhance your work-life balance, career growth, and sense of belonging.
+
+Boredom? Never heard of it. We’re all about challenging, stimulating work that sparks innovation, fuels passion, and keeps you inspired every day.
+
+We’re all about bringing people together - whether it’s through open conversations, a culture of respect, or just having a laugh in a truly inclusive workplace.
+
+Learning never stops here. Whether it’s LinkedIn Learning, formal training, career coaching, study leave, or even a great podcast rec, we support every kind of growth—professional and personal.
+
+About us
+
+As one of Australia’s largest customer-owned banks, we’re a driving force in customer owned banking, operating under the trusted brands Greater Bank and Newcastle Permanent. With over 200 years of combined experience, we’ve helped hundreds of thousands of Australians achieve home ownership and providing a genuine alternative to the big banks—all while strengthening the communities we serve. At the heart of everything we do are our core values:
+
+Lead with heart – We genuinely care about achieving better outcomes for our customers and communities.
+
+Own the action – We build trust by doing things the right way, with honesty and transparency.
+
+Embrace opportunity – We look ahead, focusing on our strengths and expertise to challenge the status quo.
+
+Thrive together – By working as one, we create the best possible future for our customers and communities
+
+And we’re just getting started. Join a team shaping the future of trusted banking and make a real impact where it matters most.
+
+
+
+
+A note to recruitment agencies: We’ve got this role covered, so no need to get in touch! As such, we are unable to accept unsolicited CVs and will not be liable for any associated fees. Thank you for your understanding!
+
+NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
+
+We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
+88056130,Senior AI/ML Engineer,Halcyon Knights Pty Ltd,https://www.seek.com.au/job/88056130?type=standard&ref=search-standalone&origin=jobCard#sol=8e982f0524be3747e8ccd6f081d5365f2ac0d273,1h ago,1.0,2025-10-23T02:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$180,000 - $200,000 + Super","An exciting new AI opportunity has just landed from one of our long-term clients, it's one not to be missed.
+
+Senior AI/ML Engineer
+- North Sydney | Hybrid (3 days onsite)
+- $180–190k + super
+
+One of our financial services partners is looking for a hands-on engineer to design and deliver end-to-end Machine Learning and GenAI systems, everything from model development to production deployment. You’ll get to work with LLMs, RAG pipelines, and multi-agent frameworks, collaborating closely with product, risk, and engineering teams to drive meaningful impact across automation, decisioning, and customer experience.
+
+Skills and experience needed:
+- Strong Python and ML/DL experience (PyTorch or TensorFlow)
+- Proven experience with LLMs, RAG, and GenAI
+- Solid understanding of MLOps (Docker, Kubernetes, CI/CD)
+- Cloud experience (AWS / GCP / Azure)
+- Clean architecture mindset and production-ready delivery
+
+Please apply now or feel free to get in touch with me directly at liam.griffiths@halcyonknights.com.au"
+88054475,Senior Data Engineer (Azure / Fabric),Robert Half,https://www.seek.com.au/job/88054475?type=standard&ref=search-standalone&origin=jobCard#sol=58f1f4f552442fe1991ed92a42ff8c0f901d62bb,2h ago,2.0,2025-10-23T01:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,$160k - $180k p.a. + superannuation,"Due to business growth, we are now looking for an Senior Data Engineer to join the business.
 
 The role of the Senior Data Engineer is responsible for designing, building, and maintaining the infrastructure that supports data storage, processing and retrieval.
 
@@ -24,7 +198,7 @@ You will require full working rights for Australia. The client offers a hybrid w
 Reference Number: 06800-0013322918
 
 By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
-88052418,Infrastructure Engineer - Servers,Morgan McKinley,https://www.seek.com.au/job/88052418?type=standard&ref=search-standalone&origin=jobCard#sol=1ed7959c136b05873524c30c769adf11b321d611,2h ago,2.0,2025-10-22T23:00:00+00:00,Sydney NSW,Help Desk & IT Support (Information & Communication Technology),Full time,CA$160k - CA$180k p.a.,"Infrastructure Engineer - Servers (12-Month Fixed-Term Contract)
+88052418,Infrastructure Engineer - Servers,Morgan McKinley,https://www.seek.com.au/job/88052418?type=standard&ref=search-standalone&origin=jobCard#sol=df6a4eaf08433d42f8326f5ea03486713197e4cb,4h ago,4.0,2025-10-22T23:00:00+00:00,Sydney NSW,Help Desk & IT Support (Information & Communication Technology),Full time,CA$160k - CA$180k p.a.,"Infrastructure Engineer - Servers (12-Month Fixed-Term Contract)
 
 Location: Sydney
 Department: Information Technology
@@ -96,7 +270,7 @@ Improved uptime, performance, and cost-efficiency across systems.
 Enhanced security posture and compliance alignment.
 
 Smooth knowledge transfer and collaboration with internal teams."
-88040973,AI Engineer,Strange Loop Labs,https://www.seek.com.au/job/88040973?type=standard&ref=search-standalone&origin=jobCard#sol=678e65a0937364164bbe5239dbb752ae8201ab6a,3h ago,3.0,2025-10-22T22:00:00+00:00,Brisbane QLD (Remote),Engineering - Software (Information & Communication Technology),Full time,"$180,000 – $220,000 per year","Strange Loop automates business processes at the world's largest companies, governments, and institutions.
+88040973,AI Engineer,Strange Loop Labs,https://www.seek.com.au/job/88040973?type=standard&ref=search-standalone&origin=jobCard#sol=90a6ea862782218570928c63d61cd3d110b3bb54,4h ago,4.0,2025-10-22T23:00:00+00:00,Brisbane QLD (Remote),Engineering - Software (Information & Communication Technology),Full time,"$180,000 – $220,000 per year","Strange Loop automates business processes at the world's largest companies, governments, and institutions.
 
 We're building an AI agent platform that processes unstructured data and reasons how to solve hard customer problems. We work alongside teams at F500s to build a deep understanding of their workflows, knowledge, tools, goals, and bottlenecks, and then automate their processes end-to-end using our AI platform.
 
@@ -135,8 +309,15 @@ This position is fully remote with flexible working arrangements.
 
 ML Requirements?
 
-We love if our candidates have past experience with ML, but it isn't a deal-breaker. An engineer that is passionate about getting into ML will thrive at Strange Loop. We provide the resources, time, and space to be able to learn whatever ML techniques will best serve our customers."
-88051751,"Data Engineer / Permanent / $155,000 + super",Allura Partners,https://www.seek.com.au/job/88051751?type=standard&ref=search-standalone&origin=jobCard#sol=d072a9b6822a9605174fddab687c72b8ce740ffb,3h ago,3.0,2025-10-22T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,155000,"Data Engineer / Permanent / Sydney or Melbourne / $155,000 + super
+We love if our candidates have past experience with ML, but it isn't a deal-breaker. An engineer that is passionate about getting into ML will thrive at Strange Loop. We provide the resources, time, and space to be able to learn whatever ML techniques will best serve our customers.
+
+
+
+
+Your Submission
+
+In addition to your Resume, please include a cover letter. The cover letter should be a 1 to 2 page essay on which Engineering Principle from our Careers Page resonates most deeply with you. Describe why you believe the principle to be true, and provide at least one example from your career of when you have applied that principle (or a time when you wished you had applied it)."
+88051751,"Data Engineer / Permanent / $155,000 + super",Allura Partners,https://www.seek.com.au/job/88051751?type=standard&ref=search-standalone&origin=jobCard#sol=b7009a91ce7d31bfcbb5698f198e0cd55e4937d3,4h ago,4.0,2025-10-22T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,155000,"Data Engineer / Permanent / Sydney or Melbourne / $155,000 + super
 
 About the company 
 A global technology consultancy that partners with leading enterprises to deliver data, AI, cloud, and digital solutions. With offices across Australia and international operations, the business continues to grow rapidly through innovation, collaboration, and a focus on helping clients and employees achieve meaningful impact. 
@@ -169,7 +350,7 @@ About Allura Partners
 Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
 
 Data Engineer / Permanent / Sydney or Melbourne / $155,000 + super"
-88051259,Asset Health Developer,NES Fircroft,https://www.seek.com.au/job/88051259?type=standard&ref=search-standalone&origin=jobCard#sol=032bca1eeb81980eefc1d835baef8565603030cd,3h ago,3.0,2025-10-22T22:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Contract/Temp,Exciting Opportunity,"Job description
+88051259,Asset Health Developer,NES Fircroft,https://www.seek.com.au/job/88051259?type=standard&ref=search-standalone&origin=jobCard#sol=d69295a8fe20555032aa0401236e7611565c0590,4h ago,4.0,2025-10-22T23:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Contract/Temp,Exciting Opportunity,"Job description
 NES Fircroft is partnered with a world leader in mining who is seeking an experienced Asset Health Developer for an initial 12-month contract based in Brisbane.
 
 
@@ -215,7 +396,7 @@ Initial 6 -month contract
 Reach out for more information Michael.bernard@nesfircroft.com
 
 With over 90 years' combined experience, NES Fircroft (NES) is proud to be the world's leading engineering staffing provider spanning the Oil & Gas, Power & Renewables, Chemicals, Construction & Infrastructure, Life Sciences, Mining and Manufacturing sectors worldwide. With more than 80 offices in 45 countries, we are able to provide our clients with the engineering and technical expertise they need, wherever and whenever it is needed. We offer contractors far more than a traditional recruitment service, supporting with everything from securing visas and work permits, to providing market-leading benefits packages and accommodation, ensuring they are safely and compliantly able to support our clients."
-88051171,Data Observability Engineer,Allura Partners,https://www.seek.com.au/job/88051171?type=standard&ref=search-standalone&origin=jobCard#sol=b04770b24d64a89ae1904a6d9b01fb2cea95a77a,3h ago,3.0,2025-10-22T22:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,135,"Data Engineer / Data Observability / 6 Months Contract / Canberra / NV1 / NV2
+88051171,Data Observability Engineer,Allura Partners,https://www.seek.com.au/job/88051171?type=standard&ref=search-standalone&origin=jobCard#sol=abbe63bb587aad28c2826b036fac5215a5b5139d,4h ago,4.0,2025-10-22T23:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,135,"Data Engineer / Data Observability / 6 Months Contract / Canberra / NV1 / NV2
 
 About the company
 Working within the defence and technology sector, dedicated to supporting the Australian Army’s digital transformation. Based in Canberra with national reach, the company focuses on delivering secure, integrated, and scalable data solutions for defence operations.
@@ -252,7 +433,7 @@ About Allura Partners
 Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
 
 Data Engineer / Data Observability / 6 Months Contract / Canberra / NV1 / NV2"
-88051051,"ASD 5, 6 & EL1 Solution Architects",Australian Signals Directorate,https://www.seek.com.au/job/88051051?type=standard&ref=search-standalone&origin=jobCard#sol=45367533f0b92116a8319884305f33c367e2fcac,3h ago,3.0,2025-10-22T22:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $92,387 - $143,093 (plus super)","The Role 
+88051051,"ASD 5, 6 & EL1 Solution Architects",Australian Signals Directorate,https://www.seek.com.au/job/88051051?type=standard&ref=search-standalone&origin=jobCard#sol=2c90ab3e0cbd06dd01c4c699f13e7e54b3b907b4,4h ago,4.0,2025-10-22T23:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $92,387 - $143,093 (plus super)","The Role 
 
 We are looking for applicants with the ability to think critically, those who are able to communicate with both technical and non-technical people, and who are motivated to learn and develop their skills.
 
@@ -308,7 +489,7 @@ ASD is seeking applicants to fill current and anticipated vacancies and to creat
 Application Closing Date: Sunday 9th November 2025 
 
 For further information please review the job information pack, reference ASD/08483/25 on www.asd.gov.au/careers."
-88051043,"ASD 5, 6 & EL1 Solution Architects",Australian Signals Directorate,https://www.seek.com.au/job/88051043?type=standard&ref=search-standalone&origin=jobCard#sol=d2e22396a68f09bebb7f806e0da6cf972c0a57bc,3h ago,3.0,2025-10-22T22:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $92,387 - $143,093 (plus super)","The Role 
+88051043,"ASD 5, 6 & EL1 Solution Architects",Australian Signals Directorate,https://www.seek.com.au/job/88051043?type=standard&ref=search-standalone&origin=jobCard#sol=2612c8c293380d6b69ae4960f09b0c0e228cc13c,4h ago,4.0,2025-10-22T23:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $92,387 - $143,093 (plus super)","The Role 
 
 We are looking for applicants with the ability to think critically, those who are able to communicate with both technical and non-technical people, and who are motivated to learn and develop their skills.
 
@@ -364,7 +545,7 @@ ASD is seeking applicants to fill current and anticipated vacancies and to creat
 Application Closing Date: Sunday 9th November 2025 
 
 For further information please review the job information pack, reference ASD/08483/25 on www.asd.gov.au/careers."
-88049408,Data Science and Insights Lead,Lendi Group,https://www.seek.com.au/job/88049408?type=standard&ref=search-standalone&origin=jobCard#sol=e9f6416d6ca7d508e225263aa49a4dee3202ed14,8h ago,8.0,2025-10-22T17:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
+88049408,Data Science and Insights Lead,Lendi Group,https://www.seek.com.au/job/88049408?type=standard&ref=search-standalone&origin=jobCard#sol=a3ee898dedbd2fa424208b9247fbc134f3010cc1,9h ago,9.0,2025-10-22T18:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
