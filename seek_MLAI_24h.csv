@@ -1,5 +1,102 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88086057,Data Engineer,Professional Search Group,https://www.seek.com.au/job/88086057?type=standard&ref=search-standalone&origin=jobCard#sol=11739c87c590c6882b2dd87be18bc175b9b8ae65,1h ago,1.0,2025-10-24T03:00:00+00:00,Perth WA (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,AUD 120000 - 130000 per annum,"Job Title: Data Engineer
+88088559,Principal Data Engineer,Crime and Corruption Commission,https://www.seek.com.au/job/88088559?type=standard&ref=search-standalone&origin=jobCard#sol=123bbde93174a404e6f24c77137a4e0ab6c0a2e7,1h ago,1.0,2025-10-24T04:00:00+00:00,"Fortitude Valley, Brisbane QLD (Hybrid)",Government - State (Government & Defence),Full time,,"About us
+
+We have a vision that our communities will be safe and supported by fair and ethical public institutions with a focus on those matters of highest threat to the Queensland community. As an organisation we are committed to this vision and as such our values of people, accountability, integrity, courage and excellence underpin everything we do at the CCC.
+
+What we offer
+
+At the CCC our people have access to a range of employee benefits that promote career development, enhance employee wellbeing and encourage a healthy and balanced work and home life. When you join the CCC you can access the following benefits: 
+
+• salary packaging
+• 12.75% superannuation
+• flexible work options, including working from home
+• access to paid parental leave
+• accrued time off
+• opportunity to purchase leave
+• 17.5% annual leave loading
+• health and wellbeing program
+• study assistance
+• access to a wide variety of training opportunities
+• free annual influenza vaccination
+• six star rated inner city location close to public transport 
+
+About you 
+
+For this role, we will consider how well you demonstrate the following:
+
+Essential Experience: 
+
+At least two years of demonstrated experience in data engineering.
+Experience with Azure Data Factory, Azure SQL, Azure Data Lake, and Azure App Service is required.
+Building and maintaining data pipelines for data integration, processing and ensuring data quality and accuracy through testing and validations.
+Ability to work with structured, unstructured, and semi-structured data.
+Understanding of common data warehouse modelling and schema design principles, including Kimball, and Inmon.
+Experience monitoring and maintaining data warehouse (Azure platform) environments, including defining optimisation approaches to improve security, performance or cost.
+Demonstrated experience supporting machine learning workflows by building scalable data pipelines, enabling feature engineering, and collaborating with data analysts to deploy and integrate models within data infrastructure.
+
+Beneficial Experience:
+
+Good communication skills, including effective report writing, and the ability to verbally brief stakeholders.
+Knowledge of Dev-Ops processes (including CI/CD) and Infrastructure as code is preferred.
+Experience with machine learning and business intelligence is highly regarded.
+Experience in deploying applications into production environments with code packaging, testing, deployment, and release management.
+Experience working in an environment with strict information security and privacy requirements.
+A versatile team player excelling in both independent work and collaborative efforts within a team to achieve objectives.
+
+How to apply 
+
+For more detailed information, including what is required to demonstrate your suitability for the role, refer to the attached role description. Pre-employment vetting forms a part of our selection process - you may be asked to provide detailed personal particulars and private interests information. For more information about our security vetting process please refer to How to apply | CCC - Crime and Corruption Commission Queensland
+
+ Aboriginal and Torres Strait Islander peoples are encouraged to apply."
+88088541,Service Reliability Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88088541?type=standard&ref=search-standalone&origin=jobCard#sol=4b516b34f495e7a4138b5bf469bba97ae1179cfd,1h ago,1.0,2025-10-24T04:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,$180k - $190k p.a.,"Location: Sydney (4 days in office, 1-day WFH)
+Reports to: Technical Operations Director, APAC
+Department: Global Technical Operations
+
+The Opportunity:
+
+A leading music organisation is now growing their Global Technical Operations hub in Sydney and looking for a Service Reliability Engineer (SRE) to join their team.
+
+This is more than a traditional ops role - it's an opportunity to bring a software engineering mindset to reliability, automation, and scalability in a global, high-impact environment.
+
+What You'll Do:
+
+You'll join a collaborative, hands-on team responsible for the stability, performance, and scalability of global platforms. Working closely with development, infrastructure, and security teams, you'll help build a resilient environment that keeps music flowing - from studio tools to streaming systems.
+
+Design and maintain high-availability, high-performance systems for global applications.
+Automate everything - from infrastructure provisioning to deployment and scaling - using tools like Terraform, Ansible, and Python.
+Build robust monitoring and observability frameworks with AWS CloudWatch, Dynatrace, Prometheus, Grafana, or Splunk.
+Optimize CI/CD pipelines to improve reliability and deployment speed.
+Participate in on-call rotations, troubleshoot incidents, and lead post-incident reviews.
+Champion SRE principles - embed SLOs, SLIs, and error budgets into everyday engineering.
+Collaborate across Dev, Infra, and Security teams to create a culture of continuous improvement and reliability.
+
+About You
+
+You're a technically strong and level-headed engineer who loves automation, thrives in complex environments, and knows how to balance pragmatism with perfection.
+
+Background in systems administration (Linux/Windows) in a large-scale environment.
+Proficient in at least one programming language (Python, Go, or Java).
+Hands-on experience with AWS (GCP or Azure a bonus).
+Deep understanding of networking, containers (Docker/Kubernetes), and Infrastructure as Code (Terraform, Ansible).
+Experience with monitoring and observability tools such as Dynatrace, Prometheus, Grafana, or Datadog.
+Calm, collaborative communicator with strong analytical and problem-solving skills.
+
+Bonus Points For:
+
+Experience with ServiceNow or ITIL processes.
+Knowledge of chaos engineering, resilience testing, or advanced capacity planning.
+Previous experience managing distributed, global systems in production.
+
+Culture & Perks
+
+Early Friday finish (1pm)
+Annual bonus $
+Optional 1% additional super with MLC
+Global collaboration and career growth opportunities
+
+Interested?
+Apply now or contact Sophia Parrelli at Talent International for a confidential chat."
+88086057,Data Engineer,Professional Search Group,https://www.seek.com.au/job/88086057?type=standard&ref=search-standalone&origin=jobCard#sol=fe3040c6d14f16c1b76ec966f0ea4a2c5fa8ddca,2h ago,2.0,2025-10-24T03:00:00+00:00,Perth WA (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,AUD 120000 - 130000 per annum,"Job Title: Data Engineer
 Location: Perth, WA (Hybrid)
 Salary: $120-130k + Super
 
@@ -31,7 +128,7 @@ Excellent communication skills: able to convey complex concepts to non-technical
  
 
 If you’re interested, please email thana@psgaus.com.au."
-88084848,Industrial Automation Programmer,Integrelec,https://www.seek.com.au/job/88084848?type=standard&ref=search-standalone&origin=jobCard#sol=015171d93a7a87a62df724431c3083a03f756fcb,2h ago,2.0,2025-10-24T02:00:00+00:00,"Coopers Plains, Brisbane QLD (Hybrid)",Process Engineering (Engineering),Full time,"$115,000 – $145,000 per year","About the Company
+88084848,Industrial Automation Programmer,Integrelec,https://www.seek.com.au/job/88084848?type=standard&ref=search-standalone&origin=jobCard#sol=2cad7207d8ea9457c45200b64f0c8a2b223401c5,3h ago,3.0,2025-10-24T02:00:00+00:00,"Coopers Plains, Brisbane QLD (Hybrid)",Process Engineering (Engineering),Full time,"$115,000 – $145,000 per year","About the Company
 
 We are an established systems integration contractor offering industrial automation and consulting services across a wide variety of industries.
 
@@ -86,7 +183,7 @@ Maybe you've had a series of contracts and are now looking for a permanent role 
 Whatever your journey, we'd love you to take the next step here at Integrelec.
 
 If this sounds like the role for you, then please submit your resume and follow it up by calling our office directly on (07) 3123 9538 to introduce yourself."
-88082621,Engineer Digital Process,"Department of Planning, Housing and Infrastructure",https://www.seek.com.au/job/88082621?type=standard&ref=search-standalone&origin=jobCard#sol=3e4e3e23127cbf0459dddbee52b688dbe6aa94bf,3h ago,3.0,2025-10-24T01:00:00+00:00,"South Penrith, Sydney NSW","Process Engineering (Engineering)
+88082621,Engineer Digital Process,"Department of Planning, Housing and Infrastructure",https://www.seek.com.au/job/88082621?type=standard&ref=search-standalone&origin=jobCard#sol=473b1b244cdb9748cd849612a8b1f117e6d256ef,4h ago,4.0,2025-10-24T01:00:00+00:00,"South Penrith, Sydney NSW","Process Engineering (Engineering)
 Government - State (Government & Defence)",Contract/Temp,,"Together, we make cutting- edge technology and innovation accessible 
 
 Play a pivotal role at AMRF in transforming manufacturing with cutting-edge digital solutions
@@ -142,7 +239,7 @@ Please note to be eligible to apply for this position you must be an Australian 
 We encourage and support applications from people with disability. Please reach out to us to discuss any accommodations or adjustments that may be needed during the recruitment process, ensuring that you have every opportunity to showcase your talent, skills, and potential. Contact the Talent Team via talent.acquisition@dpie.nsw.gov.au or (02) 63637676​ - HR Support, option 2, DPHI People Advisory, option 1 and reference 'Request an Adjustment - Job Title and Reference Number'. 
 
 Check out our Aboriginal applicants guide to assist with applying for the role or contact our Aboriginal Career pathways team for a yarn"
-88082380,Broadcast Engineer,AE Live,https://www.seek.com.au/job/88082380?type=standard&ref=search-standalone&origin=jobCard#sol=fc18a60ffd71453e1205656989daa98eae6262c7,3h ago,3.0,2025-10-24T01:00:00+00:00,"Alexandria, Sydney NSW (Hybrid)",Engineering - Network (Information & Communication Technology),Full time,,"About Us
+88082380,Broadcast Engineer,AE Live,https://www.seek.com.au/job/88082380?type=standard&ref=search-standalone&origin=jobCard#sol=83a85538c36fda1d1b3c1a72858e293d7a38cf7a,4h ago,4.0,2025-10-24T01:00:00+00:00,"Alexandria, Sydney NSW (Hybrid)",Engineering - Network (Information & Communication Technology),Full time,,"About Us
 
 AE Live is a leading provider of television graphics and data solutions to sports broadcasters covering a host of the world’s biggest & most prestigious events. Covering events like FIFA World Cup, NFL, and IRB Rugby World Cup as well as thousands of hours of sport every year across 5 continents, our services are watched by billions of people.
 
@@ -245,7 +342,7 @@ Why join AE Live Australia:
 Job Type: Full-time
 
 Work Location: Hybrid remote in Alexandria NSW 2015"
-88081357,Data Scientist,SEEK Limited,https://www.seek.com.au/job/88081357?type=standard&ref=search-standalone&origin=jobCard#sol=84a0698e1b4dff2d6db8afa7c01e8e491dd72d24,3h ago,3.0,2025-10-24T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
+88081357,Data Scientist,SEEK Limited,https://www.seek.com.au/job/88081357?type=standard&ref=search-standalone&origin=jobCard#sol=7ba1e4bc3071edb573c24796c88b1e7a2707fc98,4h ago,4.0,2025-10-24T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -329,7 +426,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-88079963,CI/CD Engineer,M&T Resources,https://www.seek.com.au/job/88079963?type=standard&ref=search-standalone&origin=jobCard#sol=26f5265a9385a9f9c585305cefd1ceeb452769ea,4h ago,4.0,2025-10-24T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Yes,"Immediate hiring for CI/CD engineer
+88079963,CI/CD Engineer,M&T Resources,https://www.seek.com.au/job/88079963?type=standard&ref=search-standalone&origin=jobCard#sol=5608bf50ca3a0783d933038985439493584f91f5,5h ago,5.0,2025-10-24T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Yes,"Immediate hiring for CI/CD engineer
 Long term contract
 Rates- $850/day including super
 Location- Melbourne CBD
@@ -361,7 +458,7 @@ Next Steps
 Does this sound like you? If you have the skills and experience, we're looking for please click 'Apply Now', or please send your updated CV to sweta.verma@mtr.com.au .
 
 Alternatively please call 03 9346 3789 for a confidential discussion about the role."
-88079568,Automation Specialist,Praemium Limited,https://www.seek.com.au/job/88079568?type=standard&ref=search-standalone&origin=jobCard#sol=3b85e40cbb9886361c3dde5c59a257dc3418f0e5,5h ago,5.0,2025-10-23T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Daily rate,"About Us
+88079568,Automation Specialist,Praemium Limited,https://www.seek.com.au/job/88079568?type=standard&ref=search-standalone&origin=jobCard#sol=4f4a9b06d2f899cc263deabe2dd0d8307c6c8fa5,6h ago,6.0,2025-10-23T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Daily rate,"About Us
 
 Praemium simplifies wealth management through the only fully integrated platform that manages every aspect of an investor’s wealth in one place.
 
@@ -407,7 +504,7 @@ Friendly, welcoming team culture
 How to Apply
 
 Please apply with your CV and respond to the screening questions, detailing how your career aligns to the key responsibilities of the role. We are committed to building a diverse and inclusive workforce and welcome applications from all qualified candidates. A police check will be required for successful candidates."
-88079450,Data Science Lead,Latitude IT,https://www.seek.com.au/job/88079450?type=standard&ref=search-standalone&origin=jobCard#sol=a36d770ff4c25372607ebe3ec385b6d4b0fed7ab,5h ago,5.0,2025-10-23T23:00:00+00:00,Perth WA (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Data Science Lead
+88079450,Data Science Lead,Latitude IT,https://www.seek.com.au/job/88079450?type=standard&ref=search-standalone&origin=jobCard#sol=9f1bf49688aa0a4af413968d3703f92a5316a16b,6h ago,6.0,2025-10-23T23:00:00+00:00,Perth WA (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Data Science Lead
 Package: Up to $169k base + Super
 
 The Opportunity:
@@ -433,7 +530,7 @@ Commercial mindset: contribute to pre-sales and proposals, scope and lead engage
 A people leader who builds, coaches, and scales diverse teams while setting high standards
 Degree in Data Science, Analytics, Engineering, or a related field; postgraduate study such as an MBA or Masters is a plus
 Apply now or reach out for more info."
-88078788,Solution Architect,Suncorp,https://www.seek.com.au/job/88078788?type=standard&ref=search-standalone&origin=jobCard#sol=6ca43cb04a54a272acedcf55b3e79d26d4f87713,6h ago,6.0,2025-10-23T22:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Part time,,"About the Role
+88078788,Solution Architect,Suncorp,https://www.seek.com.au/job/88078788?type=standard&ref=search-standalone&origin=jobCard#sol=41fd59c06e94ee3cfabd82608681c66b0bf9f1d8,6h ago,6.0,2025-10-23T23:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Part time,,"About the Role
 
 Join our Intelligent Solutions Delivery team to architect and implement Agentic AI solutions as part of the Claims transformation project. Collaborate across squads and business units to design Agentic AI initiatives aligned with our strategic vision.
 
@@ -470,7 +567,7 @@ Diversity is celebrated through employee resource groups and inclusive policies 
 Explore our full benefits: www.suncorpgroup.com.au/careers/benefits
 
 At Suncorp we believe we are our best when our workforce is as diverse, talented and passionate as the communities in which we live and operate, and where our people feel included, valued and connected. We are passionate about inspiring our people by creating a diverse, accessible, and inclusive culture, offering flexible work, career development and internal mobility, and building connected relationships amongst our team members and with our customers."
-88078323,AI Architect,Aurec,https://www.seek.com.au/job/88078323?type=standard&ref=search-standalone&origin=jobCard#sol=f0baeb15a4d9ecce5a434a589c1161caf14b0300,6h ago,6.0,2025-10-23T22:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,$1100 - $1200 pd,"One of Australia's biggest tech environments is finally doing what so many only talk about: putting AI at the heart of the business.
+88078323,AI Architect,Aurec,https://www.seek.com.au/job/88078323?type=standard&ref=search-standalone&origin=jobCard#sol=2aa48eb1b7beceb3c1f4986dad7cc4fa28251b62,7h ago,7.0,2025-10-23T22:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,$1100 - $1200 pd,"One of Australia's biggest tech environments is finally doing what so many only talk about: putting AI at the heart of the business.
 
 This isn't just about chatbots or proof-of-concepts. This is enterprise-level AI transformation across customer, network, fraud, operations, and beyond. And they're not looking for someone to follow the roadmap - they're looking for someone to write it.
 
@@ -502,7 +599,7 @@ Flexible work, strong package, and a leadership team that actually gets it.
 If you're tired of spinning your wheels, this is your chance to do something that moves the needle.
 
 💥 Apply now or contact Adam 0478 026 276 for a confidential chat."
-88078053,Senior Software Engineer,Future Secure AI Pty Ltd,https://www.seek.com.au/job/88078053?type=standard&ref=search-standalone&origin=jobCard#sol=1b8d9a79a2f0475621420a636b8ff608e4ee4033,7h ago,7.0,2025-10-23T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us 
+88078053,Senior Software Engineer,Future Secure AI Pty Ltd,https://www.seek.com.au/job/88078053?type=standard&ref=search-standalone&origin=jobCard#sol=d10a6f105688597aed7b99e069ab43bb4ee4304a,7h ago,7.0,2025-10-23T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us 
 
 Future Secure AI (FSAI) is a leading enterprise AI company that was created in deep partnership with one of the world's largest financial institutions.
 
@@ -561,7 +658,7 @@ Proficiency in CICD, Kubernetes and containerization technologies
 If you're passionate about working with cutting-edge technology, collaborating with world-class leadership, and joining some of the best talent in the industry, we’d love to hear from you!
 
 For a quicker response, we encourage you to apply directly through our website at https://www.futuresecure.ai/. There, you can watch a video about AI workers and explore the career opportunities we have available."
-88077286,Engineering Lead - Data,Lendi Group,https://www.seek.com.au/job/88077286?type=standard&ref=search-standalone&origin=jobCard#sol=4907e911d5e21e63352534bdbaded0df635c494e,10h ago,10.0,2025-10-23T18:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+88077286,Engineering Lead - Data,Lendi Group,https://www.seek.com.au/job/88077286?type=standard&ref=search-standalone&origin=jobCard#sol=a7f952f026463f443125a375cc3767b4c9ab3f63,11h ago,11.0,2025-10-23T18:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
@@ -695,7 +792,7 @@ Lendi Group is a 2024 Circle Back Initiative Employer; we value a positive candi
 Feeling like you don’t meet all the skills listed? That’s ok; we are always on the lookout for different skills, experience, and qualities and so we’d still like to hear from you.
 
 #Lendigroup #LI-GR2 #LI-Hybrid"
-88077124,Senior AI Engineer,Virtusa,https://www.seek.com.au/job/88077124?type=standard&ref=search-standalone&origin=jobCard#sol=41c07a104250612adee1eec9b1e9ba480c818fa5,11h ago,11.0,2025-10-23T17:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Extensive experience in designing and implementing scalable, maintainable and reliable software solutions
+88077124,Senior AI Engineer,Virtusa,https://www.seek.com.au/job/88077124?type=standard&ref=search-standalone&origin=jobCard#sol=e4cc58de8674a9a8c585bf20fb9c19373aba3e79,11h ago,11.0,2025-10-23T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Extensive experience in designing and implementing scalable, maintainable and reliable software solutions
 Working knowledge of AI/ML and Gen AI applications and how they can enhance software engineering processes to improve productivity
 Experience building RAGs using LlamaIndex, LangChain, or similar frameworks 
 Experience building Agentic AI systems using AutoGen, SemanticKernel, Pydantic, or similar frameworks is preferred
@@ -705,7 +802,7 @@ Knowledge of or experience in Anthropic Claude, Llama, LiteLLM, Cursor, windsurf
 Strong technical leadership skills and ability to collaborate with stakeholders to solve business-critical problems
 Ability to provide technical direction to teams, reviewing designs and code to ensure best practices
 Proficiency in agile development methodologies and iterative experimentation from ideation to prototype to pilot to product"
-88074815,Senior Embedded Software Engineer,Conry Tech Development Pty Ltd,https://www.seek.com.au/job/88074815?type=standard&ref=search-standalone&origin=jobCard#sol=ed31d8ffc1ca7baa336f791413c2d6b6a75b46bc,15h ago,15.0,2025-10-23T13:00:00+00:00,"Chirnside Park, Yarra Valley & High Country VIC",Engineering - Software (Information & Communication Technology),Full time,"$120,000 – $150,000 per year","About Us
+88074815,Senior Embedded Software Engineer,Conry Tech Development Pty Ltd,https://www.seek.com.au/job/88074815?type=standard&ref=search-standalone&origin=jobCard#sol=93bf31c33dd63e47b4d4b86183eefb599041d2d5,16h ago,16.0,2025-10-23T13:00:00+00:00,"Chirnside Park, Yarra Valley & High Country VIC",Engineering - Software (Information & Communication Technology),Full time,"$120,000 – $150,000 per year","About Us
 
 Conry Tech is reinventing air-conditioning to improve comfort and efficiency through our patented BullAnt technology — a hyper-efficient, decentralised HVAC system designed and built here in Melbourne. Our mission is to decarbonise the built environment and make air-conditioning more sustainable.
 
