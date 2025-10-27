@@ -1,5 +1,255 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88127265,Research & Technology Engineer - HVAC,Daikin Australia Pty Limited,https://www.seek.com.au/job/88127265?type=standard&ref=search-standalone&origin=jobCard#sol=ad61f18a52ad932aa645f6f627702da77c042f23,1h ago,1.0,2025-10-27T04:00:00+00:00,"Chipping Norton, Sydney NSW",Mechanical Engineering (Engineering),Full time,,"Our Company
+88129919,AI Computer Vision Developer – 6-Month Contract,Private Advertiser,https://www.seek.com.au/job/88129919?type=standard&ref=search-standalone&origin=jobCard#sol=3d53d93526471463a124ef1b1cc8b1728f2d2eba,1h ago,1.0,2025-10-27T05:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"We’re seeking a Computer Vision Developer on a 6-month contract to accelerate model development, edge deployment, and system integration. You’ll work directly with the founder and technical advisors to turn real-world venue data into a production-ready system.
+
+
+
+
+What You’ll Do:
+
+Develop and train deep learning models for behavioural and anomaly detection using video data.
+
+Fine-tune pre-trained backbones (e.g. I3D, SlowFast, ViViT, YOLOv8-Pose) with real-world footage.
+
+Deploy and optimise models for edge inference (NVIDIA Jetson / Coral TPU).
+
+Build data pipelines: ingest RTSP streams → preprocess → infer → alert.
+
+Design APIs and dashboards to log, visualise, and audit incidents.
+
+Apply privacy-by-design principles (no facial recognition; anonymised logs).
+
+Collaborate on pilot venue installations and system troubleshooting.
+
+Maintain CI/CD and model-versioning pipelines for ongoing iteration.
+
+
+
+
+Startup Operating Environment:
+
+Off Tap Watch is a fast-moving startup — we operate on short, iterative build / test / deploy cycles.
+You’ll be expected to:
+
+Participate in regular stand-ups and progress reviews (Slack / video calls).
+
+Provide concise technical reporting and demos of new features or model performance.
+
+Rapidly test, deploy, and refine features based on real pilot data and feedback.
+
+This role suits someone who thrives under tight feedback loops, values speed, and can deliver robust outcomes in evolving conditions.
+
+
+
+
+You'll Bring:
+
+Core Skills
+
+Proven experience in Computer Vision / Machine Learning (Python, PyTorch/TensorFlow, OpenCV).
+
+Background in video action or anomaly detection.
+
+Familiarity with datasets such as UCF-Crime, Hockey Fight, or UR Fall Detection.
+
+Understanding of temporal modelling, object tracking, and pose estimation.
+
+Experience deploying on edge devices or low-latency video systems.
+
+Working knowledge of Docker, FastAPI/Flask, PostgreSQL/MongoDB, and basic frontend integration(React/Next.js preferred).
+
+Awareness of Australian privacy and CCTV compliance requirements.
+
+Bonus Skills
+
+Experience with AWS Panorama, Azure Video Indexer, or GCP Vertex AI Edge.
+
+Background in IoT / smart-camera pipelines.
+
+Exposure to incident detection, retail analytics, or security AI systems.
+
+
+
+
+Who You Are
+
+Thrive in lean, agile startup environments.
+
+Prioritise real-world outcomes over theoretical accuracy.
+
+Communicate clearly with technical and non-technical stakeholders.
+
+Believe in building responsible, safety-enhancing AI."
+88128936,Automation Engineer,VISY,https://www.seek.com.au/job/88128936?type=standard&ref=search-standalone&origin=jobCard#sol=96f34f84636eeafa13b158a9c3bfc16489aba5a7,1h ago,1.0,2025-10-27T05:00:00+00:00,"Smithfield, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"Role Details 
+
+Working as an Automation Engineer in our Smithfield Pulp and Paper mill, you’ll play a key role in optimizing system uptime and reliability. You’ll provide breakdown and call-out support, enhance control loop performance and drive minor modifications and improvements. Experience with DCS and paper machine systems is essential.
+
+What you'll do 
+
+Provide automation support across I/O blocks, DCS, QCS, PLC systems, and OSI PI Historian. 
+Perform hands-on tasks in a fast-paced, high-pressure environment with a small engineering team. 
+Manage and service automation systems with deep understanding of process and field equipment impact. 
+Ensure accurate real-time data for decision-making and optimize equipment to support strategic goals. 
+
+This plant operates on a 24/7-day basis and you will need to be flexible to work additional hours as required including being on our call-out roster.
+
+What You Will Bring 
+
+A highly motivated engineer with a proactive approach, enthusiasm for troubleshooting and take accountability for tasks, you will also have: 
+
+Diploma in Engineering, Bachelor of Electrical Engineering, Process Chemical Engineering (or equivalent) 
+3 years’ minimum experience within a continuous process environment (preferably within the Paper, Aluminum, Steel, Mining, FMCG, Heavy industries) 
+At least 3 years' experience in electrical, instrument, and control system fields 
+Distributed Control Systems (DCS)?and Programmable Control Logic (PLC) experience 
+Experience with automation systems, server hardware, and supporting infrastructure 
+Experience with maintaining computer operating systems, Oracle databases, and TCP/IP networking 
+Virtualization knowledge and experience 
+
+ 
+
+What you’ll love when you join us:
+
+Sustainability: Contribute to sustainability initiatives that make a difference.? 
+Supportive Environment: Be part of a team that values safety, respect, and collaboration.? 
+Leave: Opportunity to purchase additional leave? 
+Visy discounts: Take advantage of discounts with RSEA, Avis, Harvey Norman and other retailers.? 
+
+ 
+
+About Visy? 
+
+Visy is powering the circular economy, closing the loop between packaging, remanufacturing and recycling. As Australia’s leading recycled and kraft paper manufacturer, Visy Pulp and Paper is a big part of our business. Our integrated recycling and manufacturing operations means we collect paper and cardboard from households and businesses and turn it into up to 100% recycled paper. We are also home to the world’s most environmentally friendly kraft paper mill in Tumut, providing high-quality kraft paper for domestic and international markets. The paper we produce supplies our board facilities across Australia and New Zealand, where it is remanufactured into cardboard packaging for the food and beverage industry.? 
+
+Ready to make a difference? Apply now and be a key player in shaping our future!?? 
+
+Please contact Nicholas Strang on Nicholas.strang@visy.com for a confidential discussion or apply now.? 
+
+You will be required to meet Visy’s employment criteria which will include a criminal history check and pre-employment medical (including drug & alcohol testing)?? 
+
+Visy is an equal opportunity employer committed to providing a working environment that embraces and values diversity and inclusion.? 
+
+These roles are only open to candidates currently residing in Australia with full working rights.?"
+88128882,Solution Architect,Peoplebank Australia QLD,https://www.seek.com.au/job/88128882?type=standard&ref=search-standalone&origin=jobCard#sol=43bb8d17ae956b08d9190135eff4932edd8c3521,1h ago,1.0,2025-10-27T05:00:00+00:00,Brisbane QLD,Architecture (Design & Architecture),Contract/Temp,Competitive Market Rate,"Solutions Architect Contract Opportunity | Enterprise Environment | Focus on Automation & Integration
+
+We are seeking an experienced Automation Solutions Architect to join a large-scale internal program focused on uplifting IT automation capabilities. This role will play a key part in designing and delivering automation and integration solutions across a complex enterprise environment.
+
+Role: Solution Architect 
+Client: Rio Tinto
+Duration: 03/11/2025 to 02/11/2026 - 12 Month Contract
+Location: Brisbane CBD
+
+Key Responsibilities
+Develop current and future state architecture blueprints across a portfolio of 10 work packages.
+Design monitoring tools and contribute to the introduction of an AI Ops MVP solution.
+Create automation pattern designs and cross-platform automation patterns to support IT service delivery.
+Build infrastructure cost models to estimate savings from decommissioning systems.
+Submit designs to CAB/ARB and chair Design Authority reviews.
+Collaborate with Cybersecurity, IDM, Networks, and other teams to resolve complex automation use cases.
+Maintain documentation in SharePoint and contribute input to roadmap planning.
+Participate in Agile ceremonies and work flexibly across time zones.
+About You
+Proven experience in automation architecture and integration, particularly with Azure.
+Strong understanding of ServiceNow and IT process automation.
+Excellent written and verbal communication skills.
+Ability to navigate complex, matrixed environments and manage diverse stakeholder groups.
+Experience working in large enterprise environments with shifting priorities.
+Comfortable contributing to strategy and roadmap discussions, while focusing on execution.
+Please apply now or reach out to myself at chantelle.lee@peoplebank.com.au / 07 3291 5405 for a confidential chat. 
+
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+88128525,AI Platform Engineer,Correlate Resources,https://www.seek.com.au/job/88128525?type=standard&ref=search-standalone&origin=jobCard#sol=a4b13e3b7845e399ca600d402db2fc75fa3694fc,1h ago,1.0,2025-10-27T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We’re looking for a talented AI Platform Engineer to help design and build the core infrastructure that powers next-generation AI solutions. This role focuses on creating the scalable, automated, and secure platform that enables rapid experimentation, reliable deployment, and seamless integration of AI technologies across the business. You’ll be part of the team that turns AI ideas into production-ready systems—ensuring every solution operates efficiently, safely, and at scale.
+
+Key Responsibilities
+Deployment and automation
+
+Design, build, and maintain CI/CD pipelines for AI workloads using GitOps practices
+Automate deployments and manage the full release lifecycle for AI and ML models
+Cloud and infrastructure management
+
+Manage containerised environments (Docker, Kubernetes) and optimise cloud resources for scale and cost
+Develop systems for managing data pipelines, model artefacts, and versioning with proper governance
+Internal platform enablement
+
+Build modular frameworks, SDKs, templates, and self-service tools that empower teams to develop and deploy AI applications independently
+Establish standards and automation that make AI delivery faster, safer, and more consistent
+Monitoring, security, and compliance
+
+Implement observability and model performance monitoring systems
+Engineer compliance, security, and governance directly into pipelines, ensuring full auditability and responsible AI practices
+Cross-platform integration
+
+Design and maintain integrations that enable AI systems to work seamlessly across cloud and on-premise environments
+About You
+2–4 years of experience in MLOps, DevOps, or AI infrastructure engineering
+Strong hands-on experience with AWS, Azure, or GCP, and Docker/Kubernetes
+Proficient in Python or Bash scripting, with a solid grasp of Infrastructure as Code (Terraform, CloudFormation)
+Experience implementing GitOps methodologies for version-controlled, auditable environments
+Skilled in building developer enablement tools such as SDKs, CLIs, or internal templates
+Knowledge of data governance, security controls, and compliance in production systems
+Exposure to LLM-based architectures (e.g. RAG, vector databases) and frameworks such as LangGraph, LangSmith, or Langfuse is advantageous
+Collaborative mindset with strong problem-solving ability and curiosity for emerging AI technologies
+Why You’ll Love Working Here
+Flexible leave options including wellbeing, birthday, and volunteer days
+Hybrid and pet-friendly environment with on-site parking
+Professional development support including study leave and LinkedIn Learning access
+Recognition programs, incentive pay, and wellbeing initiatives"
+88128381,AI Engineer - Applied AI and LLM Solutions,Correlate Resources,https://www.seek.com.au/job/88128381?type=standard&ref=search-standalone&origin=jobCard#sol=6d173be813f020e155cab8fbd125a5205e084a59,1h ago,1.0,2025-10-27T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About the Role Are you passionate about using AI to solve real business problems and create meaningful impact? We’re looking for an AI Engineer who can bridge the gap between cutting-edge AI capabilities and practical, scalable solutions that transform the way people work and interact.
+You’ll collaborate closely with stakeholders across the organisation to design, prototype, and deploy AI applications that make workflows smarter, decisions faster, and experiences better. This is a hands-on role where you’ll see your work directly improve efficiency and outcomes.
+
+What You’ll Do
+Design and build AI solutions using LLMs, RAG architectures, OCR, RPA, and API integrations.
+Develop human-in-the-loop systems and feedback loops to keep outputs accurate, relevant, and valuable over time.
+Partner with business teams to understand their processes and pain points, ensuring every solution drives measurable improvement.
+Define and track KPIs for your AI products, taking ownership from concept to deployment.
+Upskill and educate others by running workshops and training sessions that make AI accessible across the organisation.
+Champion responsible and ethical AI, embedding governance, fairness, and data privacy principles into every project.
+What You’ll Bring
+2 to 4 years of experience in AI, data science, or machine learning, with a proven ability to deliver real-world AI applications.
+Strong technical skills in Python and SQL, plus hands-on experience deploying LLMs and RAG solutions.
+Deep understanding of the trade-offs between different LLMs (cost, performance, accuracy) and how to select the right model for each use case.
+Excellent problem-solving and communication skills, with the ability to translate complex AI concepts into plain language.
+Experience engaging stakeholders and driving adoption across both technical and non-technical teams.
+Familiarity with cloud platforms (AWS, Azure, or GCP) and API-based deployments.
+Knowledge of ethical AI, governance, and risk mitigation frameworks.
+Exposure to MLOps practices, LangChain, or BI tools is a plus.
+Why You’ll Love It Here
+Purpose-driven work: Everything you build delivers real impact.
+Curiosity and growth: You’ll have the space to experiment, learn, and innovate.
+Collaboration and ownership: Be part of a team that supports each other and celebrates success together.
+Inclusive culture: Bring your whole self to work and be valued for your perspective and expertise."
+88128101,Head of Algorithm Engineering,Advanced Navigation,https://www.seek.com.au/job/88128101?type=standard&ref=search-standalone&origin=jobCard#sol=30e51df341073f5b9353c21fd1f59cdcd0d00b9b,2h ago,2.0,2025-10-27T04:00:00+00:00,Sydney NSW,Management (Engineering),Full time,,"Advanced Navigation - It's In The Name
+
+Advanced Navigation is a global leader in APNT and autonomous system technologies. By leveraging capabilities in software-defined hardware, every solution delivers unrivaled capabilities and exceptional performance across land, air, sea and space applications where GPS is unreliable. 
+
+Made possible with extensive research, testing and vertically integrated manufacturing, the company has progressed into deep technology fields, including robotics, inertial, photonic and quantum sensing, artificial intelligence, underwater acoustics, and GPS antennas and receivers. Customers choose Advanced Navigation for rapid product delivery and unmatched technical field expertise.
+
+Headquartered in Sydney, Australia, with research and production facilities nationwide and offices globally. Backed by KKR, In-Q-Tel (IQT), former Australian Prime Minister Malcolm Turnbull and  General David H. Petraeus (US Army, Ret.), Advanced Navigation supports AUKUS by collaborating with UK and US partners to drive innovation, fortify supply chains, and enhance allied resilience and interoperability in defense. #JoinTheAutonomyRevolution
+
+About the role
+
+We are seeking a visionary technical leader to join our engineering team as the Head of Algorithm Engineering. This is a pivotal role responsible for defining and executing the technical strategy for our core navigation algorithms and autonomy software. You will be the chief technical architect for these systems, leading a dedicated team of specialists to push the boundaries of performance and capability. The ideal candidate is a hands-on leader with extensive experience in architecting complex software solutions and a proven track record of leveraging AI and machine learning to solve real-world navigation challenges.
+
+What you'll do
+
+Technical Leadership & Architecture: Serve as the ultimate technical authority for all navigation and autonomy software. Design, architect, and oversee the development of robust, scalable, and high-performance algorithms.
+AI & ML Implementation: Drive the strategy and implementation of AI and machine learning techniques to enhance our navigation solutions, from the research and development phase through to product deployment.
+Team Leadership & Mentoring: Lead, manage, and mentor a high-calibre team of software and algorithm engineers. Foster a culture of innovation, technical excellence, and continuous improvement.
+Cross-Functional Collaboration: Work closely with hardware, firmware, and systems engineering teams to ensure seamless integration and optimal performance across our entire product range, from low-cost to high-end systems.
+Roadmap & Strategy: Collaborate with product and executive teams to define the long-term technical roadmap for our core software IP, ensuring it aligns with our strategic goals and market leadership in performance and time to market.
+Quality & Performance: Establish best practices for software development, testing, and validation to ensure our solutions meet the rigorous demands of our global customers in markets like North America, Europe, and Asia and compliant with company policies and relevant software standards.
+
+Ideal Candidate Profile and Past Experience
+
+10+ years of experience in software development with at least 5 years in a senior leadership or technical architect role focused on navigation, robotics, or autonomous systems.
+Deep expertise in estimation theory, sensor fusion, SLAM (Simultaneous Localization and Mapping), VIO (Visual-Inertial Odometry), and control systems.
+Proven experience in applying AI and machine learning principles to navigation and autonomy challenges in a commercial or defence environment.
+Demonstrated experience leading and mentoring high-performing engineering teams.
+Exceptional ability to architect complex, real-time software systems.
+Australian citizens are desirable for security reasons, ADF experience is highly regarded and Veterans are encouraged to apply 
+Advanced degree (Master's or PhD) in Computer Science, Robotics, Aerospace Engineering, or a related technical field.
+Any experience within the defence, aerospace, or autonomous vehicle industries is highly desirable.
+Familiarity with hardware-software integration and developing for embedded systems, a strong portfolio of relevant projects, publications, or patents and experience working in a high-growth, venture-backed technology company is beneficial but not essential."
+88127265,Research & Technology Engineer - HVAC,Daikin Australia Pty Limited,https://www.seek.com.au/job/88127265?type=standard&ref=search-standalone&origin=jobCard#sol=b7a5dcf1204364f1c106ed3086c92689f7aeb231,2h ago,2.0,2025-10-27T04:00:00+00:00,"Chipping Norton, Sydney NSW",Mechanical Engineering (Engineering),Full time,,"Our Company
 
 Daikin has a solid history and reputation in holding its number 1 position in the global market for air conditioning.  The foundation of its success and continued growth is truly in our people, who strive and are encouraged to do remarkable things, including thinking differently and being open to new possibilities. 
 
@@ -135,7 +385,7 @@ Ready to Apply?
 If you're a self-motivated individual who can manage your own workload, escalate issues when need, and contribute to a productive team environment, we want to hear from you. This is an excellent opportunity to gain valuable experience and become a vital part of our team.
 
 Apply today to join a company that values its employees and offers a great work environment!"
-88124190,Systems Engineer,JL2 Group,https://www.seek.com.au/job/88124190?type=standard&ref=search-standalone&origin=jobCard#sol=62f20f42d6f0fe4e513c51ffcd86a1bce3f70f59,2h ago,2.0,2025-10-27T03:00:00+00:00,Canberra ACT,Systems Engineering (Engineering),Full time,,"About JL2 Defence Services
+88124190,Systems Engineer,JL2 Group,https://www.seek.com.au/job/88124190?type=standard&ref=search-standalone&origin=jobCard#sol=49f82bd484bd1c8ab16409cc5a788405cb868a79,3h ago,3.0,2025-10-27T03:00:00+00:00,Canberra ACT,Systems Engineering (Engineering),Full time,,"About JL2 Defence Services
 
 JL2 Defence Services (JL2) is a wholly Australian owned professional services company with roots in the ACT, NSW and QLD. JL2 specialises in the delivery of Organisational Change, Program Management, Enterprise Architecture consultancy services, as well as services in systems engineering, ICT consulting, project management, government acquisition management and aviation maintenance services. The JL2 team of professionals work primarily across federal government and Defence organisations.
 
@@ -220,7 +470,7 @@ Security Requirements
 MUST be an Australian citizen and have the ability to obtain and maintain a minimum Australian Government Security Vetting Agency clearance of Negative Vetting 1.
 
 ** This position description is not an exhaustive list of responsibilities and you will be expected to perform different tasks which fit with your skills, abilities and knowledge as may be necessitated by the changing business environment and the overall objectives of the organisation."
-88122665,Senior Data Engineer - Snowflake/Databricks,Simplyai,https://www.seek.com.au/job/88122665?type=standard&ref=search-standalone&origin=jobCard#sol=7809ba0674e90647bf421c373d8476908a3c0752,3h ago,3.0,2025-10-27T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$170,000 – $190,000 per year","About the role
+88122665,Senior Data Engineer - Snowflake/Databricks,Simplyai,https://www.seek.com.au/job/88122665?type=standard&ref=search-standalone&origin=jobCard#sol=c0322dee7a13d82fc1de961d25b71649ac1d213f,4h ago,4.0,2025-10-27T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$170,000 – $190,000 per year","About the role
 
 
 Simplyai' is seeking an experienced Senior Data Engineer to join our growing team. In this full-time position based in Sydney, NSW, you will be responsible for designing, building and maintaining scalable data pipelines and infrastructure on the Snowflake platform. This is a strategic role that will have a significant impact on the company's ability to leverage data insights to drive business decision-making.
@@ -292,7 +542,7 @@ About us
 Simplyai' is a leading provider of AI-powered data solutions. Our mission is to empower organisations to make data-driven decisions that drive business growth and innovation. We're a fast-paced, dynamic company with a strong focus on delivering exceptional results for our clients. If you're passionate about data and want to be part of a team that is shaping the future of the industry, we'd love to hear from you.
 
 Apply now"
-88122322,Technical Innovation Lead,Sterling Group,https://www.seek.com.au/job/88122322?type=standard&ref=search-standalone&origin=jobCard#sol=a2e6dc4e41eebddb7aa1fb188b0174b1e7c32d18,3h ago,3.0,2025-10-27T02:00:00+00:00,"Kensington, Melbourne VIC (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"This newly created Technical Innovation Lead position offers an exciting opportunity to shape the future of asset management within transportation infrastructure. You will play a key role in driving the adoption of cutting-edge technologies, with a strong focus on the digitisation of inspections, data capture, modelling, and analysis to enhance efficiency and decision-making.
+88122322,Technical Innovation Lead,Sterling Group,https://www.seek.com.au/job/88122322?type=standard&ref=search-standalone&origin=jobCard#sol=f5bed0aacdf1b624944048a7adbed22cb717770f,4h ago,4.0,2025-10-27T02:00:00+00:00,"Kensington, Melbourne VIC (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"This newly created Technical Innovation Lead position offers an exciting opportunity to shape the future of asset management within transportation infrastructure. You will play a key role in driving the adoption of cutting-edge technologies, with a strong focus on the digitisation of inspections, data capture, modelling, and analysis to enhance efficiency and decision-making.
 
 The role is responsible for identifying and implementing innovative solutions that transform traditional practices, while ensuring commercial success through the achievement of revenue and profitability targets associated with new technologies and methods.
 
@@ -346,7 +596,7 @@ How to Apply
 To submit your application please click on the apply button below and follow the prompts.
 
 Note: Only shortlisted candidates will be contacted."
-88121992,Software Engineer,Ecal,https://www.seek.com.au/job/88121992?type=standard&ref=search-standalone&origin=jobCard#sol=6558253f5aa49e2acde398f11d3d8689b0ed0f6f,3h ago,3.0,2025-10-27T02:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"About Us
+88121992,Software Engineer,Ecal,https://www.seek.com.au/job/88121992?type=standard&ref=search-standalone&origin=jobCard#sol=48e94460f903548ec8961a2016c0809955fde3c1,4h ago,4.0,2025-10-27T02:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"About Us
 ECAL is the world's leading calendar marketing software platform (SaaS), that allows publishers to deliver rich and dynamic content directly into the personal calendar program of users, to keep them up-to-date and engaged. ECAL is relied upon by 400+ major brands globally, across sports, entertainment, media / streaming, ticketing, payments and more, with an end-user audience of over 25 million.
 
 Our client partners include the likes of Premier League, Formula 1, NBA, Major League Baseball, NHL, NASCAR, ICC Cricket, World Rugby, England Cricket Board, The FA, LaLiga, FC Barcelona, Liverpool FC, Arsenal FC, Tottenham FC, Fox Sports, Ticketek, AFL, NRL, Cricket Australia, NBL, and many others.
@@ -431,7 +681,23 @@ ReactJS.
 
 Interested? What to do next
 If you meet the criteria above, and the role sounds exciting to you, and a wonderful next step in your career, then we'd love to hear from you."
-88118055,Staff/Lead Data Engineer (AWS & AI),Commonwealth Bank – Technology,https://www.seek.com.au/job/88118055?type=standard&ref=search-standalone&origin=jobCard#sol=8fd0fe3e2769e42e57dda373ea7a8e239af449b4,6h ago,6.0,2025-10-26T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Annual Bonus,"Staff Data Engineer (AWS & AI)
+88131991,L2 Engineer,The Missing Link,https://www.seek.com.au/job/88131991?type=standard&ref=search-standalone&origin=jobCard#sol=926a79b644d5a1c901ed27476a6b8351838c3d03,7h ago,7.0,2025-10-26T23:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Networks & Systems Administration (Information & Communication Technology),Full time,,"Be part of a purpose-driven team making a real impact.
+Work in a supportive, inclusive, and agile environment.
+Access to ongoing learning, certifications and professional development.
+Flexible hybrid work options and great benefits.
+
+We’re seeking a highly skilled and experienced Systems Engineer to join our dynamic team. This role is ideal for someone who thrives on solving complex technical issues, providing advanced support across infrastructure, networks, and systems, and mentoring junior team members. You’ll be responsible for managing escalated support requests, implementing robust IT solutions, and ensuring the stability and security of our technology environment for our clients.
+
+If you’re passionate about innovation, proactive problem-solving, and delivering exceptional service, we’d love to hear from you.
+
+About Us
+
+We’re The Missing Link - one of Australia’s most awarded IT providers, now backed by global powerhouse Infosys. For over 28 years, we’ve helped businesses succeed with cutting-edge Cyber Security, IT & Cloud, and Automation solutions. With 200+ team members and a culture built on inclusion, innovation, and impact, we offer a workplace where you’re valued, challenged, and supported to grow.
+
+We are THE MISSING LINK between where you are and where you want to be.
+
+This is a great time to join our Service Operations Team as it embarks on a transformational journey to support the growth of our business. Reporting to our Service Operations Manager, you will be a key member of our fast-paced team."
+88118055,Staff/Lead Data Engineer (AWS & AI),Commonwealth Bank – Technology,https://www.seek.com.au/job/88118055?type=standard&ref=search-standalone&origin=jobCard#sol=f0bff151efd4dd850fe46ab580ff132e893d379c,7h ago,7.0,2025-10-26T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Annual Bonus,"Staff Data Engineer (AWS & AI)
 
 
 You are passionate to stay ahead of the latest AWS Cloud, and Data Lake technologies
@@ -539,7 +805,7 @@ Our people bring their diverse backgrounds and unique perspectives to build a re
 At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
 
 We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career."
-88117713,Staff Engineer - Data,Woolworths Group,https://www.seek.com.au/job/88117713?type=standard&ref=search-standalone&origin=jobCard#sol=e7f615d31f8fab270e473b08429f136fefbe7c23,6h ago,6.0,2025-10-26T23:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,.,"Sydney based role with hybrid working
+88117713,Staff Engineer - Data,Woolworths Group,https://www.seek.com.au/job/88117713?type=standard&ref=search-standalone&origin=jobCard#sol=fd15a392692d5f8db3df8192ad6f59fad43fa952,7h ago,7.0,2025-10-26T23:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,.,"Sydney based role with hybrid working
 Opportunity to work with the latest and greatest technologies
 Help drive the innovation across our products
 
@@ -606,7 +872,7 @@ A range of programs to help you prioritise and manage your wellbeing, including 
 A progressive and competitive leave policy that gives you more space for what matters to you.  
 
 Team discounts across our range of Woolworths Group brands you know and love and a robust rewards program that celebrates and incentivises purpose-driven work."
-88117460,"Manager, AI and Data Science",Metro South Health,https://www.seek.com.au/job/88117460?type=standard&ref=search-standalone&origin=jobCard#sol=1d1e2551ec96e5347d1b7df4081448bc3f45c8c4,6h ago,6.0,2025-10-26T23:00:00+00:00,Brisbane QLD,"Management (Information & Communication Technology)
+88117460,"Manager, AI and Data Science",Metro South Health,https://www.seek.com.au/job/88117460?type=standard&ref=search-standalone&origin=jobCard#sol=8ff3bc6aafa30ce408e6ef90c9d71d5f9b106dc2,7h ago,7.0,2025-10-26T23:00:00+00:00,Brisbane QLD,"Management (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$150,906 to $159,677 plus up to 12.75% super","About your role
 
 As part of the Data & Analytics Service within Digital Advisory & Transformation, you'll lead the design, development, and delivery of advanced AI, machine learning, and analytics solutions.
@@ -660,7 +926,7 @@ We are the major public healthcare provider for Brisbane's south side, Logan, Re
 We are bold, innovative, collaborative, inspiring. We save lives, change lives, and make the world a better place. We are part of and proud of the community we serve.
 
 We are better together."
-88117185,Simulation and Test Engineer (Conversational AI),Andromeda Robotics,https://www.seek.com.au/job/88117185?type=standard&ref=search-standalone&origin=jobCard#sol=bdde9197d9ee2773c99eed350c7ee4a415f5e6c3,6h ago,6.0,2025-10-26T23:00:00+00:00,"South Melbourne, Melbourne VIC",Other (Engineering),Full time,,"About Us
+88117185,Simulation and Test Engineer (Conversational AI),Andromeda Robotics,https://www.seek.com.au/job/88117185?type=standard&ref=search-standalone&origin=jobCard#sol=6a7ef103958bda4758bf22a3aa760c302e354793,8h ago,8.0,2025-10-26T22:00:00+00:00,"South Melbourne, Melbourne VIC",Other (Engineering),Full time,,"About Us
 
 Andromeda Robotics is an ambitious social robotics company with offices in Melbourne and San Francisco, dedicated to creating robots that seamlessly and intelligently interact with the human world. Our first robot, Abi, is a testament to this vision—a custom-built platform designed from the ground up to be a helpful aid and intuitive partner in aged care homes. We are a passionate, collaborative team of engineers who solve some of the most challenging problems in AI and robotics. To accelerate our development and ensure Abi's reliability, we are seeking a foundational member to build out our capabilities to train and test our robot in simulation. 
 
@@ -750,7 +1016,7 @@ The salary for this position may vary depending on factors such as job-related k
 If you’re excited about this role but don’t meet every requirement, that’s okay—we encourage you to apply. At Andromeda Robotics, we celebrate diversity and are committed to creating an inclusive environment for all employees. Let’s build the future together.
 
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
-88116495,Solution Architect Smart Meters,Emmbr,https://www.seek.com.au/job/88116495?type=standard&ref=search-standalone&origin=jobCard#sol=ed3c1c3fdecf0866e79caff7691cd1e27cb63626,7h ago,7.0,2025-10-26T22:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,$1175 - $1225 p.d.,"Architect future-focused digital energy and grid-edge capabilities
+88116495,Solution Architect Smart Meters,Emmbr,https://www.seek.com.au/job/88116495?type=standard&ref=search-standalone&origin=jobCard#sol=c2a3e9618e0b83d4992cfae2cab3993d75807d5d,9h ago,9.0,2025-10-26T21:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,$1175 - $1225 p.d.,"Architect future-focused digital energy and grid-edge capabilities
 Lead solutions across smart metering, DER, VPP and EV-charging enablement
 6-month initial contract with strong extension options in a multi-year program
 
@@ -776,7 +1042,7 @@ Ability to present complex solutions clearly to technical and business audiences
 Track record uplifting enterprise platforms or delivering major transformation
 
 Please apply asap as we are shortlisting this week!"
-88116493,Lead Data Engineer – AWS / Big Data / Cloud Transformation,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88116493?type=standard&ref=search-standalone&origin=jobCard#sol=cc5b93e350d0f264fb661fb0c1cc4e40f0110747,7h ago,7.0,2025-10-26T22:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 190000 - 200000 per annum,"Join a high-performing Data team that’s driving a large-scale transformation program within the banking and financial services industry. This is an excellent opportunity for an ambitious and technically strong Data Engineer to play a lead role in shaping a modern, cloud-based data platform.
+88116493,Lead Data Engineer – AWS / Big Data / Cloud Transformation,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88116493?type=standard&ref=search-standalone&origin=jobCard#sol=7bf4df6db65357359692335515349a0bf85a0cf8,9h ago,9.0,2025-10-26T21:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 190000 - 200000 per annum,"Join a high-performing Data team that’s driving a large-scale transformation program within the banking and financial services industry. This is an excellent opportunity for an ambitious and technically strong Data Engineer to play a lead role in shaping a modern, cloud-based data platform.
 
 You’ll be joining a collaborative, forward-thinking environment where innovation, problem-solving, and technology excellence are at the heart of everything they do.
 
@@ -795,7 +1061,7 @@ Strong AWS experience across EC2, S3, RDS, and EMR.
 Sound understanding of data modelling, metadata management, lineage, and data quality frameworks.
 Hands-on Python experience, particularly in automation and AI integration.
 Why apply You’ll be part of an organisation that values collaboration, innovation, and technical excellence. This is a key leadership opportunity for someone passionate about modern data engineering, automation, and cloud transformation within a leading financial institution."
-88115606,Data Modeler,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/88115606?type=standard&ref=search-standalone&origin=jobCard#sol=006c90196f25b3782e04c1f3247039ae7bab8b6a,14h ago,14.0,2025-10-26T15:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+88115606,Data Modeler,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/88115606?type=standard&ref=search-standalone&origin=jobCard#sol=139f344e568e8384a3faed63302ea387c001684e,15h ago,15.0,2025-10-26T15:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
 
 The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
 
