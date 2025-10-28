@@ -1,5 +1,149 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88158407,Principal Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/88158407?type=standard&ref=search-standalone&origin=jobCard#sol=66359b4b233430fe8ff9636ebc0a83c832a3b028,1h ago,1.0,2025-10-28T06:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
+88160290,Network Automation Developer,Clicks IT Recruitment (NSW),https://www.seek.com.au/job/88160290?type=standard&ref=search-standalone&origin=jobCard#sol=62ca8d8d11dbbc6916d2ae6661c1887f2277d60f,1h ago,1.0,2025-10-28T07:00:00+00:00,Sydney NSW (Hybrid),Engineering - Network (Information & Communication Technology),Contract/Temp,$1200 p.d. + super,"About Our Client
+
+We are currently partnering with a large Australian banking organisation based in the Sydney CBD, currently undertaking a major network modernisation and automation program. This initiative is focused on enhancing the bank's infrastructure reliability, security, and scalability through advanced Infrastructure as Code (IaC) and network automation practices.
+
+Role Purpose
+
+This role offers an exciting opportunity for an experienced Network Automation Specialist with a background in Python to play a key role in the bank's infrastructure transformation. You will design, build, and operate automation pipelines that convert complex network data into deployable, auditable firewall configurations - driving efficiency and security across mission-critical banking systems.
+
+Key Responsibilities
+
+Design, build, and maintain Python-based ETL and automation services that process MS SQL NetFlow data and generate network configuration artifacts.
+
+Develop Infrastructure as Code (IaC) solutions for automated deployment across on-prem and hybrid network environments.
+
+Generate and deploy Cisco ASA (CSM) and Cisco ACI (APIC) artifacts, ensuring idempotency, rollback safety, and compliance.
+
+Implement simulation, replay testing, and deployment verification tools to ensure reliable and controlled rollouts.
+
+Maintain end-to-end audit lineage linking data flows → rules → device deployments, including GraphViz visualisation outputs.
+
+Collaborate with Network, Data, and Systems teams to align automation standards, object models, and deployment safety protocols.
+
+Drive continuous improvement and promote best practices in network automation and governance.
+
+Essential Knowledge, Skills, and Experience
+
+Proven experience developing Python automation and orchestration pipelines in enterprise or financial environments.
+
+Strong background in Infrastructure as Code (IaC) with deployment experience across on-prem and/or cloud networks.
+
+Deep understanding of network technologies, firewalls, and configuration management principles.
+
+Hands-on experience with Cisco ASA/ACI, Tidal, or similar orchestration tools.
+
+Strong working knowledge of MS SQL, ETL, and data integration processes.
+
+Experience with CI/CD pipelines, automation frameworks, and rollback-safe deployments.
+
+Excellent analytical, troubleshooting, and communication skills, with the ability to collaborate across technical and business teams.
+
+What's on Offer
+
+Opportunity to join a major banking organisation at the forefront of network automation and infrastructure transformation.
+
+Work on high-visibility projects with real impact on operational security and performance.
+
+Collaborative, technically advanced team environment.
+
+Sydney CBD-based role with hybrid work flexibility
+
+If you wish to apply for this position, please submit your resume by clicking the 'Apply Now' button. For further information please contact Olivia Costello at Clicks IT Recruitment on +61 419 740 399.
+
+At Clicks we embrace diversity, inclusion and equal opportunity. First Nations people are encouraged to apply.
+
+We provide reasonable adjustments, including alternate formats to the recruitment process for individuals with disability. If you require an adjustment to be made during the recruitment process, please call 1300 254 257 or email adjustments@clicks.com.au"
+88160091,L2 Support Engineer,Ambition,https://www.seek.com.au/job/88160091?type=standard&ref=search-standalone&origin=jobCard#sol=a084844c1207d9441cd1be23e63c845667ef8c9a,1h ago,1.0,2025-10-28T07:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Salary plus super,"L2 Support Engineer
+
+Permanent role / full time work
+Work from home options / Sydney based
+Start ASAP
+
+I'm partnering with a long-standing client to hire a L2 Support Engineer for their managed services team. This role is suitable for an experienced IT professional who enjoys solving complex problems across multiple clients, driving improvements, and is keen to progress their career. You'll work closely with other L2 and L3 Engineers, handling escalated incidents, and technical challenges while ensuring best practice and process-driven outcomes.
+
+Why this role and this team?
+
+Work alongside experienced engineers with strong client and business knowledge.
+Exposure to a wide range of technologies and industries.
+Culture of learning, company paid certifications, and career development.
+Supportive environment where collaboration is valued, and micromanagement is avoided.
+Regular team lunches and activities that create space to share ideas, collaborate, and learn from each other.
+
+Responsibilities include:
+
+Provide Level 2 support across multiple client environments, resolving escalated incidents and managing workloads.
+Troubleshoot escalated incidents across endpoints, servers, networks, and M365
+Manage user accounts, permissions, and identity issues
+Provide support across Microsoft technologies, Azure cloud services, Entra ID, Intune, Hyper-V, and networking.
+Ensure security best practices in cloud and on-premises environments, particularly around Active Directory, Exchange Online, Mimecast, and endpoint management.
+Resolve issues with laptops, desktops, printers and mobile devices
+Communicate clearly with internal and external stakeholders - explain not just what was fixed, but why it's important.
+Contribute to ITIL-based change management processes.
+
+What we're looking for:
+
+Proven experience in a Level 2 Support role, supporting multiple clients with broad knowledge across networking, security, and cloud best practices.
+Good knowledge of Microsoft 365 administration including Teams, SharePoint, Exchange Online, and OneDrive
+Hands-on experience with Active Directory, Group Policy, and identity management (Azure AD / Entra ID)
+Exposure to server technologies such as Windows Server, VMware or Hyper-V
+Ability to diagnose and resolve network issues including DHCP, DNS, VPN and switching
+Understanding of security best practices across cloud and on-prem environment
+Experience managing ticket queues, escalations, and SLA expectations
+Excellent communication skills and stakeholder engagement experience.
+A collaborative team player who asks the right questions, seeks to understand, and learns quickly.
+
+If you're someone who enjoys what they do, passionate about new tech and continuously looking to upskill and grow, I'd love to hear from you!"
+88159604,Fabric Data Engineer - Lead,DATAIQ,https://www.seek.com.au/job/88159604?type=standard&ref=search-standalone&origin=jobCard#sol=950a54302038b8db58ab0690a26f3861b542dd16,1h ago,1.0,2025-10-28T07:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About the role
+
+Join DataIQ as we expand our Data & AI practice to build modern data products on Microsoft Fabric. You'll own ingestion, orchestration and transformation using Data Factory in Fabric and Spark, delivering a variety of services to clients that power enterprise semantic models and reports.
+
+Australian work rights are required for this position.
+
+What you'll do
+
+Lead, build and manage the Microsoft Fabric platform for client engagements, including governance, capacity planning, and performance optimisation.
+
+Build and Oversee the Reporting function, ensuring timely delivery of semantic models and Power BI reports aligned with business needs.
+
+Ingest and transform data using Fabric Data Factory, pipelines, and Spark notebooks (PySpark).
+
+Model curated Delta tables and medallion layers optimized for Direct Lake and semantic models.
+
+Automate reliability: parameterized pipelines, scheduling, monitoring, alerting; build runbooks for recovery.
+
+Tune performance and cost (partitioning strategies, incremental refresh, capacity awareness).
+
+Own performance, cost, and reliability decisions (capacity planning, refresh patterns, incremental strategies, observability).
+
+Support pre-sales: scope, estimates, SoWs, and executive briefings; contribute to POVs and demos.
+
+Mentor and manage team members; uplift delivery standards and reusable assets (templates, pipelines, model patterns).
+
+Collaborate with stakeholders to align data products with strategic goals and reporting requirements.
+
+What you'll bring
+
+Hands-on experience with Microsoft Fabric (Data Factory, Synapse Data Engineering) and Spark/PySpark, with a minimum of 5 years' experience with Data Factory.
+
+A minimum of 2 years hands-on Microsoft Fabric experience is required.
+
+Strong SQL and Delta Lake experience; medallion architecture patterns.
+
+Deep knowledge of OneLake, Data Factory in Fabric, Synapse Data Engineering/Spark, Real-Time Analytics, and Power BI (Service, Desktop).
+
+Experience managing enterprise reporting functions and aligning data models with business KPIs.
+
+CI/CD and deployment pipelines knowledge; Git familiarity.
+
+Nice to have: KQL, streaming/Eventstreams, Databricks/Azure background, Purview lineage.
+
+Certification preferred: Fabric Data Engineer Associate (or DP-203 legacy) and PL-300 familiarity.
+
+How to apply
+
+Apply with your CV and a short cover letter highlighting recent Fabric/Spark projects. Portfolio or Git links welcome."
+88158407,Principal Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/88158407?type=standard&ref=search-standalone&origin=jobCard#sol=0384aed432a2b86056bc0d222b80ff7b94086d16,2h ago,2.0,2025-10-28T06:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 In 2025, we have been awarded
 
 
@@ -45,7 +189,7 @@ Join a renowned organisation delivering projects to some of Australia’s leadin
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-88158387,Senior Machine Learning Engineer - AI Inference Platform,Canva,https://www.seek.com.au/job/88158387?type=standard&ref=search-standalone&origin=jobCard#sol=d69e2fa467d5887b368c17b5bda4334d027b15ba,1h ago,1.0,2025-10-28T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Job Description
+88158387,Senior Machine Learning Engineer - AI Inference Platform,Canva,https://www.seek.com.au/job/88158387?type=standard&ref=search-standalone&origin=jobCard#sol=b581f1e488ff8020f938dbaba71824e3ead985b4,2h ago,2.0,2025-10-28T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Job Description
 
 
 Join the team redefining how the world experiences design.
@@ -127,7 +271,7 @@ We make hiring decisions based on your experience, skills and passion, as well a
 We celebrate all types of skills and backgrounds at Canva, so even if you don't feel like your skills quite match what's listed above—we still want to hear from you!
 
 Please note that interviews are conducted virtually."
-88158148,ScientificbSoftware Engineer,Bureau Of Meteorology,https://www.seek.com.au/job/88158148?type=standard&ref=search-standalone&origin=jobCard#sol=32c9c2bea588be1be8e96274215ec31ec64cf56d,1h ago,1.0,2025-10-28T06:00:00+00:00,Darwin NT,"Engineering - Software (Information & Communication Technology)
+88158148,ScientificbSoftware Engineer,Bureau Of Meteorology,https://www.seek.com.au/job/88158148?type=standard&ref=search-standalone&origin=jobCard#sol=54f24bcf694519fedf90048df2f8467f2746be65,2h ago,2.0,2025-10-28T06:00:00+00:00,Darwin NT,"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$94,563 - $105,910 per annum + 15.4% super","Scientific Software Engineer
 
 APS Level 6 
@@ -149,7 +293,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=F49C66E5-61E1-6FCA-79D8-E44ECF8864EC"
-88158099,ScientificbSoftware Engineer,Bureau Of Meteorology,https://www.seek.com.au/job/88158099?type=standard&ref=search-standalone&origin=jobCard#sol=cda925c47dd323fd4ff772e325ffcdb14c425dc1,1h ago,1.0,2025-10-28T06:00:00+00:00,Adelaide SA,"Engineering - Software (Information & Communication Technology)
+88158099,ScientificbSoftware Engineer,Bureau Of Meteorology,https://www.seek.com.au/job/88158099?type=standard&ref=search-standalone&origin=jobCard#sol=fdafa96a33f37f7ceea08fe96bff7a987c39fcdb,2h ago,2.0,2025-10-28T06:00:00+00:00,Adelaide SA,"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$94,563 - $105,910 per annum + 15.4% super","Scientific Software Engineer
 
 APS Level 6 
@@ -171,7 +315,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=F49C66E5-61E1-6FCA-79D8-E44ECF8864EC"
-88156890,Automation Engineer / Robot Programmer,Private Advertiser,https://www.seek.com.au/job/88156890?type=standard&ref=search-standalone&origin=jobCard#sol=5d441a53e1d22000e90a71ce2258e791df7e38fd,2h ago,2.0,2025-10-28T05:00:00+00:00,"Eagle Farm, Brisbane QLD",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $140,000 per year","Our client ""Industrial Automation Australia"" is seeking an Automation Engineer / Robot Programmer to join their team!
+88156890,Automation Engineer / Robot Programmer,Private Advertiser,https://www.seek.com.au/job/88156890?type=standard&ref=search-standalone&origin=jobCard#sol=fb49991da11cfbee0e63ab5357f2de7696295c7d,3h ago,3.0,2025-10-28T05:00:00+00:00,"Eagle Farm, Brisbane QLD",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $140,000 per year","Our client ""Industrial Automation Australia"" is seeking an Automation Engineer / Robot Programmer to join their team!
 
 This is an exceptional opportunity for a top-tier robotics professional to join one of Australia's fastest-growing automation firms. You'll work on cutting-edge robotic systems and automation solutions for leading manufacturers, taking on complex technical challenges that will shape the future of Australian industry. This senior, well-compensated role offers the chance to work with world-class KUKA robotics technology and lead innovative automation projects from concept to commissioning.
 
@@ -238,7 +382,7 @@ Ready to join this role? Click Apply now to submit your resume and share your av
 We encourage applications from all qualified professionals who are passionate about robotics and automation technology.
 
 All information received will be kept strictly confidential and will be used only for employment-related purposes."
-88156663,"Manager, Data Analytics, AI and Governance",Standards Australia Ltd,https://www.seek.com.au/job/88156663?type=standard&ref=search-standalone&origin=jobCard#sol=7117e54f7412c54a35f194a5c00984e643b19f4f,2h ago,2.0,2025-10-28T05:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,"Permanent, Full-Time role","Who are we? 
+88156663,"Manager, Data Analytics, AI and Governance",Standards Australia Ltd,https://www.seek.com.au/job/88156663?type=standard&ref=search-standalone&origin=jobCard#sol=39129231df517d5eca9cf417aaf31244f47c51df,3h ago,3.0,2025-10-28T05:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,"Permanent, Full-Time role","Who are we? 
  
 Standards Australia (SA) is the peak standards development organisation in Australia, with a rich history that dates back to 1922. We proudly employ over 200 professionals dedicated to helping shape Australia’s future and enabling the safe and sustainable progress of Australian communities. 
  
@@ -288,7 +432,7 @@ What's next? 
 If Standards Australia sounds like the place for you, please submit your CV outlining your experience and suitability to this role. Eligible applicants must be Australian Citizens, Permanent Residents or have legal rights to work in Australia. Shortlisted applicants will be contacted within 15 business days of their application. 
  
 At Standards Australia, we are proud to be an equal opportunity employer and we are committed to fostering a working environment that values diversity, inclusion, and belonging. We strive to create an organisation that genuinely reflects and respects the diversity of the communities we serve; putting people at the heart of all we do. We welcome applications from people of all cultural and linguistic groups, people of all ages and genders, people of Aboriginal and/or Torres Strait Islander background, people with a disability, and people from the LGBTQIA+ community. Should you need any adjustments to be made to our recruitment process, please contact recruitment@standards.org.au"
-88155712,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155712?type=standard&ref=search-standalone&origin=jobCard#sol=abbdc1f3d5d8fb1e325de6b994cca12848d4b495,2h ago,2.0,2025-10-28T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
+88155712,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155712?type=standard&ref=search-standalone&origin=jobCard#sol=c4b3c1d86df9fc1426ee3160bea3c1e512ef0d43,4h ago,4.0,2025-10-28T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
 
 This role is ideal for someone who thrives in cross-functional teams, enjoys translating experimental models into scalable systems, and is passionate about automation, governance, and performance in AI delivery.
 
@@ -362,7 +506,7 @@ A note to recruitment agencies: We’ve got this role covered, so no need to get
 NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
 
 We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
-88155710,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155710?type=standard&ref=search-standalone&origin=jobCard#sol=cd03833911845332f46bfe02f66ace0e7c28d677,2h ago,2.0,2025-10-28T05:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
+88155710,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155710?type=standard&ref=search-standalone&origin=jobCard#sol=d6b5dffc34c17c8bf16103fae83275a9afa16730,4h ago,4.0,2025-10-28T04:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
 
 This role is ideal for someone who thrives in cross-functional teams, enjoys translating experimental models into scalable systems, and is passionate about automation, governance, and performance in AI delivery.
 
@@ -436,7 +580,7 @@ A note to recruitment agencies: We’ve got this role covered, so no need to get
 NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
 
 We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
-88155705,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155705?type=standard&ref=search-standalone&origin=jobCard#sol=a0813b97530f6d1de4d37032d3c63c6ca929487b,2h ago,2.0,2025-10-28T05:00:00+00:00,Sydney NSW,"Modelling & Simulation (Science & Technology)
+88155705,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155705?type=standard&ref=search-standalone&origin=jobCard#sol=bffe80e73f2fcaa26dfc00375ce2a1bad36fa2d2,4h ago,4.0,2025-10-28T04:00:00+00:00,Sydney NSW,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -458,7 +602,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155697,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155697?type=standard&ref=search-standalone&origin=jobCard#sol=a168116fb56ebc06ed219cc33b7f3b03a1a86664,2h ago,2.0,2025-10-28T05:00:00+00:00,Melbourne VIC,"Modelling & Simulation (Science & Technology)
+88155697,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155697?type=standard&ref=search-standalone&origin=jobCard#sol=77b0380663d7dc11ccc3237d4b4c3d6841922bec,4h ago,4.0,2025-10-28T04:00:00+00:00,Melbourne VIC,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -480,7 +624,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155691,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155691?type=standard&ref=search-standalone&origin=jobCard#sol=ac29f98adcc8c0e6869998e7d599abf051957b06,2h ago,2.0,2025-10-28T05:00:00+00:00,Brisbane QLD,"Modelling & Simulation (Science & Technology)
+88155691,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155691?type=standard&ref=search-standalone&origin=jobCard#sol=b66f7bfe30aeb04ab207af54912caa39600b78d5,4h ago,4.0,2025-10-28T04:00:00+00:00,Brisbane QLD,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -502,7 +646,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155686,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155686?type=standard&ref=search-standalone&origin=jobCard#sol=c7527ec1f8a67750ba6f426e66e176e81ec4bbe6,2h ago,2.0,2025-10-28T05:00:00+00:00,Perth WA,"Modelling & Simulation (Science & Technology)
+88155686,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155686?type=standard&ref=search-standalone&origin=jobCard#sol=ddd40c2c977c42e0af4780bbe79bdab7dfe68c7f,4h ago,4.0,2025-10-28T04:00:00+00:00,Perth WA,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -524,7 +668,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155676,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155676?type=standard&ref=search-standalone&origin=jobCard#sol=1e2d7c5b8adbbd7649ae7f4391a37d1d7254fe29,2h ago,2.0,2025-10-28T05:00:00+00:00,Adelaide SA,"Modelling & Simulation (Science & Technology)
+88155676,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155676?type=standard&ref=search-standalone&origin=jobCard#sol=62c847c490175238be3b40b31e7f9b1e1537cc3b,4h ago,4.0,2025-10-28T04:00:00+00:00,Adelaide SA,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -546,7 +690,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155671,ML Ops & AI Platform Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155671?type=standard&ref=search-standalone&origin=jobCard#sol=58b4a1b021d9d22329a1bb9236fa90de566d5405,2h ago,2.0,2025-10-28T05:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"This is a unique opportunity to shape the future of AI at NGM Group, with the chance to influence platform design, deployment standards, and operational excellence from the ground up.
+88155671,ML Ops & AI Platform Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155671?type=standard&ref=search-standalone&origin=jobCard#sol=3b3ee4ed745ebbc246d40bd5218db3e2ea33c7f0,4h ago,4.0,2025-10-28T04:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"This is a unique opportunity to shape the future of AI at NGM Group, with the chance to influence platform design, deployment standards, and operational excellence from the ground up.
 
 We are seeking a technically driven ML Ops / AI Platform Engineer to lead the operational delivery of machine learning and generative AI solutions. This role is critical in bridging the gap between experimentation and production, ensuring our AI systems are secure, scalable, and reliable.
 
@@ -630,7 +774,7 @@ NGM Group is committed to delivering trusted banking to enable our customers and
 
 
 We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
-88155667,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155667?type=standard&ref=search-standalone&origin=jobCard#sol=48ac5f98fa7761a112149703a2b3e188369774af,2h ago,2.0,2025-10-28T05:00:00+00:00,Hobart TAS,"Modelling & Simulation (Science & Technology)
+88155667,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155667?type=standard&ref=search-standalone&origin=jobCard#sol=af55d527680d42311a0ce2706282376ddfb91292,4h ago,4.0,2025-10-28T04:00:00+00:00,Hobart TAS,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -652,7 +796,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155646,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155646?type=standard&ref=search-standalone&origin=jobCard#sol=88fd158d3bd1d8dcb45b9b08e0d21488e473310b,2h ago,2.0,2025-10-28T05:00:00+00:00,Canberra ACT,"Modelling & Simulation (Science & Technology)
+88155646,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155646?type=standard&ref=search-standalone&origin=jobCard#sol=abc77d302c26c5fcb766acbc55b96f769cb2105d,4h ago,4.0,2025-10-28T04:00:00+00:00,Canberra ACT,"Modelling & Simulation (Science & Technology)
 Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
 
 Executive Level 1
@@ -674,7 +818,7 @@ Application Closing Date: Tuesday, 11 November 2025
 For further information please review the position description on 
 
 https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88154534,AI Engineer - Agentic AI,Opus Recruitment Solutions,https://www.seek.com.au/job/88154534?type=standard&ref=search-standalone&origin=jobCard#sol=52599203d5af8f5f4cf06013e346afa7cfee299f,3h ago,3.0,2025-10-28T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $200k per year + super,"About the job
+88154534,AI Engineer - Agentic AI,Opus Recruitment Solutions,https://www.seek.com.au/job/88154534?type=standard&ref=search-standalone&origin=jobCard#sol=06a8f1b3b43f08e0b0d437272f4c4944443ac835,4h ago,4.0,2025-10-28T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $200k per year + super,"About the job
 
 
 
@@ -737,7 +881,7 @@ Background in deploying and operating production-scale applications
 How to Apply
 
 If you're passionate about AI and excited to work on cutting-edge systems, we’d love to hear from you. Please submit your resume and a cover letter outlining your interest in AI technologies and any relevant projects or experiences."
-88154159,Senior Data Scientist,Commonwealth Bank - Retail Banking Services,https://www.seek.com.au/job/88154159?type=standard&ref=search-standalone&origin=jobCard#sol=365f4bf49f7cf7e6c107fb3d70a66e6f5560718b,3h ago,3.0,2025-10-28T04:00:00+00:00,"Eveleigh, Sydney NSW",Other (Engineering),Full time,,"Do work that matters
+88154159,Senior Data Scientist,Commonwealth Bank - Retail Banking Services,https://www.seek.com.au/job/88154159?type=standard&ref=search-standalone&origin=jobCard#sol=d11c5e7a72adfc917033f44245a198a254192599,4h ago,4.0,2025-10-28T04:00:00+00:00,"Eveleigh, Sydney NSW",Other (Engineering),Full time,,"Do work that matters
 
 As a Data Scientist within Home Buying, you will assist in the development, monitoring, implementation and management of AI and Machine Learning models supporting one of the largest Retail Banking divisions in Australia.
 
@@ -777,7 +921,7 @@ Our people bring their diverse backgrounds and unique perspectives to build a re
 At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
 
 We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career."
-88153761,Observability Engineer (Elastic) - Financial Services,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88153761?type=standard&ref=search-standalone&origin=jobCard#sol=1d9d9de5bd456a0bc6f3ebc82a1835e52a94e970,3h ago,3.0,2025-10-28T04:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,$150000.00 - $175000.00 p.a.,"A leading Financial Services provider is seeking an Observability Engineer with strong Elastic (Elasticsearch, Logstash, Kibana etc) experience to join their team on a permanent basis.
+88153761,Observability Engineer (Elastic) - Financial Services,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88153761?type=standard&ref=search-standalone&origin=jobCard#sol=3d7906f4849a0e33a5cfec29f79358ab8f6eec35,4h ago,4.0,2025-10-28T04:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,$150000.00 - $175000.00 p.a.,"A leading Financial Services provider is seeking an Observability Engineer with strong Elastic (Elasticsearch, Logstash, Kibana etc) experience to join their team on a permanent basis.
 
 Joining a newly created team, you will be responsible for supporting and maintaining their observability platforms which are used across their entire application and infrastructure environments. This includes proactive monitoring, anomaly detection and triaging and root cause analysis using the Elastic Stack.
 
@@ -805,7 +949,7 @@ Attractive salary package
 Fantastic team environment
 
 To be considered for this exciting opportunity, please apply online now!"
-88148103,Systems Engineer,Emmbr,https://www.seek.com.au/job/88148103?type=standard&ref=search-standalone&origin=jobCard#sol=bf04234db6dc9e7b361066681c908eec3dd8c5ad,5h ago,5.0,2025-10-28T02:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Contract/Temp,,"Organisation going through large tech transformation
+88148103,Systems Engineer,Emmbr,https://www.seek.com.au/job/88148103?type=standard&ref=search-standalone&origin=jobCard#sol=0dda97f5d5b412c1f5a6a05f08f467eb206b23e7,7h ago,7.0,2025-10-28T01:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Contract/Temp,,"Organisation going through large tech transformation
 Hybrid working - Melbourne CBD
 12-month fixed term contract (+ likely extension)
 
@@ -832,7 +976,7 @@ Collaborating closely with the Service Desk and Security team to streamline oper
 Being actively encouraged to automate/simplify tasks to improve team efficiency.
 
 If you're looking for your next opportunity to apply your Systems Engineering skills in a high-impact environment, apply now!"
-88147325,Software Implementation Consultant - Global SaaS Fintech - North Sydney,MVSI OnBoard,https://www.seek.com.au/job/88147325?type=standard&ref=search-standalone&origin=jobCard#sol=3bc66f09448f52079550ed6a7c3b35350a06c72d,6h ago,6.0,2025-10-28T01:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Consultants (Information & Communication Technology),Full time,,"About MVSI:
+88147325,Software Implementation Consultant - Global SaaS Fintech - North Sydney,MVSI OnBoard,https://www.seek.com.au/job/88147325?type=standard&ref=search-standalone&origin=jobCard#sol=6616cfbec4432180770683ad2a7bf48800bed34b,7h ago,7.0,2025-10-28T01:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Consultants (Information & Communication Technology),Full time,,"About MVSI:
 Meet MVSI, Managed Verification Services International.
 
 At MVSI, we are redefining compliance, risk management, and innovation on a global scale. With a presence across Australia, Europe, the US, and Asia, we operate in a fast-paced, high-growth environment where precision, accountability, and forward-thinking leadership drive everything we do. Our team thrives on setting new benchmarks, exceeding expectations, and delivering solutions that shape the future of the industry. If you’re looking for an opportunity to make a meaningful impact and grow with a company that moves fast and leads with purpose, MVSI is where you belong.
@@ -880,7 +1024,7 @@ Competitive pay + professional development support
 Hybrid opportunities available after probation
 
 Free snacks in our North Sydney head office, and a quarterly staff team building outing"
-88146187,Observability Engineer- Elastic Stack- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88146187?type=standard&ref=search-standalone&origin=jobCard#sol=15e99775d33fab4535a6d8a8742bce6236d19594,6h ago,6.0,2025-10-28T01:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,"$170,000-$175,000 + super + bonus","A major bank in Sydney is seeking a Senior Observability Engineer to join their team on a permanent basis.
+88146187,Observability Engineer- Elastic Stack- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88146187?type=standard&ref=search-standalone&origin=jobCard#sol=38c21af4da7e853dc55835d4aa79d13adec7bf0f,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,"$170,000-$175,000 + super + bonus","A major bank in Sydney is seeking a Senior Observability Engineer to join their team on a permanent basis.
 The purpose of the Observability Engineer role is to support and maintain an enterprise-grade observability platform using the Elastic Stack. This role ensures full-stack visibility across infrastructure and applications, enabling proactive monitoring, anomaly detection, and root cause analysis to support operational excellence and business continuity.
 Responsibilities:
 
@@ -904,7 +1048,7 @@ Automation/Coding.
 Experience with containerised environments.
  
 If interested please respond ASAP with your latest resume"
-88149483,AI Platform Support Specialist,EML Group,https://www.seek.com.au/job/88149483?type=standard&ref=search-standalone&origin=jobCard#sol=5e31bb6f20866b9bd1a65db5da2ccd8605b3f758,6h ago,6.0,2025-10-28T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"EML is a leading Workers Compensation and Personal Injury Claims Management business. Our goal is to help people get their lives back through ongoing support during their return-to-work journey. We continue to experience ongoing growth and now have over 4,000 dedicated employees. We foster a learning culture that allows for us to continually invest in our employees ensuring a long-term career here at EML.
+88149483,AI Platform Support Specialist,EML Group,https://www.seek.com.au/job/88149483?type=standard&ref=search-standalone&origin=jobCard#sol=8820c429118bb2e1f19f0ede4af7e55d15991f04,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"EML is a leading Workers Compensation and Personal Injury Claims Management business. Our goal is to help people get their lives back through ongoing support during their return-to-work journey. We continue to experience ongoing growth and now have over 4,000 dedicated employees. We foster a learning culture that allows for us to continually invest in our employees ensuring a long-term career here at EML.
 
 THE OPPORTUNITY
 
@@ -969,7 +1113,7 @@ Up to 16 weeks paid parental leave, plus super
 
 
 We value our people and are committed to supporting our employees by investing in their professional development and providing generous employee benefits. If this position is of interest to you, please apply now."
-88145959,Agentic/ Gen AI Engineer,Delivery Centric Pty Ltd,https://www.seek.com.au/job/88145959?type=standard&ref=search-standalone&origin=jobCard#sol=1035fbdbe6252f8dd6df0a4ac49bf9969af847dc,7h ago,7.0,2025-10-28T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About the Role
+88145959,Agentic/ Gen AI Engineer,Delivery Centric Pty Ltd,https://www.seek.com.au/job/88145959?type=standard&ref=search-standalone&origin=jobCard#sol=610654ee9d7c7db7f8ec1a7da366f6b998e1577a,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About the Role
 
 We’re looking for an experienced Senior Generative AI Engineer to design, build, and deploy enterprise-grade GenAI and agent-based solutions in cloud environments.
 You’ll work on cutting-edge projects integrating LLM frameworks, multi-agent orchestration, and secure cloud architectures, helping transform AI innovation into scalable enterprise applications.
@@ -1019,7 +1163,7 @@ Frontend: React, Next.js
 Additional Languages: Scala, Java, R
 
 Domain Experience: Banking, financial services, fraud detection, or conversational AI"
-88145804,Lead Architect,CircuIT Recruitment Group,https://www.seek.com.au/job/88145804?type=standard&ref=search-standalone&origin=jobCard#sol=0c4b4926da7e78b54e9f9a29a853ebf99b7a4f53,7h ago,7.0,2025-10-28T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Lead Architect - Major EMR Transformation
+88145804,Lead Architect,CircuIT Recruitment Group,https://www.seek.com.au/job/88145804?type=standard&ref=search-standalone&origin=jobCard#sol=a669ffb7bdd7b6b4a53a9c52bd925d0ab7d6c6c8,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Lead Architect - Major EMR Transformation
 
 The Opportunity
 An exciting and high impact & visibility opportunity to join the team as Lead Solutions Architect for a large-scale EMR implementation program. You'll design the end-to-end solutions architecture for this major healthcare transformation from the ground up. With the program still in the design phase, you'll have genuine opportunity to shape strategy and architecture
@@ -1056,7 +1200,7 @@ Ready to Apply?
 If you've got EMR implementation experience, deep technical expertise in healthcare integration standards, and thrive in collaborative, fast-moving environments - I want to hear from you. 
  
 Please apply to the link below"
-88145337,Entra ID- SME x 2 – Up to $1350 + super per day- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88145337?type=standard&ref=search-standalone&origin=jobCard#sol=18cb11db1218f609da50b468c2aa30eb1b65458d,7h ago,7.0,2025-10-28T00:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,AUD 1300 - 1400 per day,"A major bank is currently seeking 2 Senior Entra ID SME's Engineers.
+88145337,Entra ID- SME x 2 – Up to $1350 + super per day- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88145337?type=standard&ref=search-standalone&origin=jobCard#sol=e3a0168803029bd4e808dc751d7f1663baa87357,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,AUD 1300 - 1400 per day,"A major bank is currently seeking 2 Senior Entra ID SME's Engineers.
 
 These are initial 6 month contract that can be based in Sydney or Melbourne.
 
@@ -1080,7 +1224,7 @@ Experience working with Infrastructure as Code using tools
 CI/CD and automation tools like Github, GitHub Actions, TeamCity, CI/CD pipeline desirable.
 Financial Services desirable
 Please reply ASAP with your latest CV if interested"
-88145336,Entra ID- SME x 2 – Up to $1350 + super per day- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88145336?type=standard&ref=search-standalone&origin=jobCard#sol=772e602098e2ef399da81e06a7a05fa2908fc1d9,7h ago,7.0,2025-10-28T00:00:00+00:00,Melbourne VIC,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,AUD 1300 - 1400 per day,"A major bank is currently seeking 2 Senior Entra ID SME's Engineers.
+88145336,Entra ID- SME x 2 – Up to $1350 + super per day- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88145336?type=standard&ref=search-standalone&origin=jobCard#sol=97cfbf031894889b2f74b50307b40862455b8919,8h ago,8.0,2025-10-28T00:00:00+00:00,Melbourne VIC,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,AUD 1300 - 1400 per day,"A major bank is currently seeking 2 Senior Entra ID SME's Engineers.
 
 These are initial 6 month contract that can be based in Sydney or Melbourne.
 
@@ -1104,7 +1248,7 @@ Experience working with Infrastructure as Code using tools
 CI/CD and automation tools like Github, GitHub Actions, TeamCity, CI/CD pipeline desirable.
 Financial Services desirable
 Please reply ASAP with your latest CV if interested"
-88144856,Solution Architect - IT Automation,Brunel,https://www.seek.com.au/job/88144856?type=standard&ref=search-standalone&origin=jobCard#sol=976be74feed946a7ed847a0bedb7c7411a2be011,8h ago,8.0,2025-10-27T23:00:00+00:00,Brisbane QLD,Architects (Information & Communication Technology),Contract/Temp,Competitive day rate,"As the IT Automation Solutions Architect, you will be responsible for designing, developing, and implementing the current and future state architecture blueprints for the IT Automation Chapter across the Rio Tinto portfolio. This role plays a pivotal part in shaping the automation strategy, ensuring alignment with Rio's Digital Strategy and governance frameworks, and driving the successful adoption of AI Ops, monitoring, and cross-platform automation initiatives. You will bridge the gap between business objectives and technical delivery translating complex requirements into scalable, secure, and cost-efficient solutions that enable operational excellence and digital transformation across IT and OT environments.
+88144856,Solution Architect - IT Automation,Brunel,https://www.seek.com.au/job/88144856?type=standard&ref=search-standalone&origin=jobCard#sol=6db4e8dc903da6961f79f74157dd4befafdf532c,9h ago,9.0,2025-10-27T23:00:00+00:00,Brisbane QLD,Architects (Information & Communication Technology),Contract/Temp,Competitive day rate,"As the IT Automation Solutions Architect, you will be responsible for designing, developing, and implementing the current and future state architecture blueprints for the IT Automation Chapter across the Rio Tinto portfolio. This role plays a pivotal part in shaping the automation strategy, ensuring alignment with Rio's Digital Strategy and governance frameworks, and driving the successful adoption of AI Ops, monitoring, and cross-platform automation initiatives. You will bridge the gap between business objectives and technical delivery translating complex requirements into scalable, secure, and cost-efficient solutions that enable operational excellence and digital transformation across IT and OT environments.
 
 The Role May Need To:
 
@@ -1151,7 +1295,7 @@ Brunel is proud to be equal opportunity employer and encourages applications fro
 Do you have questions?
 
 If you have any questions or would like to discuss the details of this role, please contact Terence Gomes on t.gomes@brunel.net"
-88144604,Senior ETL developer,Ignite,https://www.seek.com.au/job/88144604?type=standard&ref=search-standalone&origin=jobCard#sol=ff74532d6628564fd7437fcf309b24d2d8eb5e02,8h ago,8.0,2025-10-27T23:00:00+00:00,"Bruce, Canberra ACT",Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive,"We’re seeking an experienced ETL Developer to join a large federal government department’s Data Integration & Engineering team. You’ll play a key role in designing, developing, and supporting ETL processes that enable accurate, timely, and secure data insights across multiple domains.
+88144604,Senior ETL developer,Ignite,https://www.seek.com.au/job/88144604?type=standard&ref=search-standalone&origin=jobCard#sol=8c5be858fc0f7123bfd0a95a9147428de72acf28,9h ago,9.0,2025-10-27T23:00:00+00:00,"Bruce, Canberra ACT",Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive,"We’re seeking an experienced ETL Developer to join a large federal government department’s Data Integration & Engineering team. You’ll play a key role in designing, developing, and supporting ETL processes that enable accurate, timely, and secure data insights across multiple domains.
 
 About the Role
 
