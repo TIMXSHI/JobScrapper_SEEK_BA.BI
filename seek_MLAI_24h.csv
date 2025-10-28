@@ -1,1331 +1,156 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88160290,Network Automation Developer,Clicks IT Recruitment (NSW),https://www.seek.com.au/job/88160290?type=standard&ref=search-standalone&origin=jobCard#sol=62ca8d8d11dbbc6916d2ae6661c1887f2277d60f,1h ago,1.0,2025-10-28T07:00:00+00:00,Sydney NSW (Hybrid),Engineering - Network (Information & Communication Technology),Contract/Temp,$1200 p.d. + super,"About Our Client
+88168512,Configuration Engineer,Civmec Construction & Engineering,https://www.seek.com.au/job/88168512?type=standard&ref=search-standalone&origin=jobCard#sol=d35b2867adfd5c4d151f8c8e42f2040d7b33778f,6h ago,6.0,2025-10-28T14:00:00+00:00,"Henderson, Perth WA",Other (Engineering),Full time,,"The Company
 
-We are currently partnering with a large Australian banking organisation based in the Sydney CBD, currently undertaking a major network modernisation and automation program. This initiative is focused on enhancing the bank's infrastructure reliability, security, and scalability through advanced Infrastructure as Code (IaC) and network automation practices.
+Civmec is an Australian-owned, integrated, multidisciplinary heavy engineering and construction services provider to the energy, resources, infrastructure, marine and defence sectors. Our diversification enables us to operate extensively across the nation, supporting a wide range of landmark projects and providing variety and career development opportunities for our workforce.
 
-Role Purpose
+The Role
 
-This role offers an exciting opportunity for an experienced Network Automation Specialist with a background in Python to play a key role in the bank's infrastructure transformation. You will design, build, and operate automation pipelines that convert complex network data into deployable, auditable firewall configurations - driving efficiency and security across mission-critical banking systems.
+Civmec is seeking a talented and detail-driven Configuration Engineer to support the Configuration Management Team in delivering robust configuration control across a complex defence shipbuilding program.
 
-Key Responsibilities
 
-Design, build, and maintain Python-based ETL and automation services that process MS SQL NetFlow data and generate network configuration artifacts.
+This is a key technical role focused on implementing configuration processes, managing product lifecycle data, and supporting system integration. The successful candidate will ensure accurate reporting and full traceability of configuration items from design through to delivery — contributing directly to the integrity and success of one of Australia's most significant defence programs.
 
-Develop Infrastructure as Code (IaC) solutions for automated deployment across on-prem and hybrid network environments.
+Duties and Responsibilities
 
-Generate and deploy Cisco ASA (CSM) and Cisco ACI (APIC) artifacts, ensuring idempotency, rollback safety, and compliance.
+Collaborate with the Configuration Management Lead to implement and maintain configuration management processes
+Serve as the technical expert for PLM systems including data modelling, integrations, and automation.
+Develop and maintain Configuration Status Accounting and Baseline Reports using scripting and analytical tools.
+Administer and optimise configuration management tools such as Teamcenter, TCRA, Jira, and Power BI.
+Perform advanced data analysis to support configuration audits, hange impact assessments, and baseline integrity checks.
+Support Engineering Change Proposal (ECP) workflows, ensuring accurate data traceability across digital systems.
+Automate reporting and dashboarding solutions to provide real-time visibility into configuration status and metrics.
 
-Implement simulation, replay testing, and deployment verification tools to ensure reliable and controlled rollouts.
+About You
 
-Maintain end-to-end audit lineage linking data flows → rules → device deployments, including GraphViz visualisation outputs.
+To be successful in the role you will possess the following:
 
-Collaborate with Network, Data, and Systems teams to align automation standards, object models, and deployment safety protocols.
+Degree in Engineering, Information Systems, or a related technical discipline.
+Strong analytical mindset with excellent attention to detail and data integrity.
+Excellent communication skills for cross-functional collaboration and technical documentation.
+Good understanding of IT system landscapes, including server environments, scheduled tasks, and basic troubleshooting.
+Hands-on experience with PLM systems, especially Siemens Teamcenter.
+Proficiency in SQL and Python for data extraction, transformation, and analysis.
 
-Drive continuous improvement and promote best practices in network automation and governance.
+Due to the Security Clearance required for this position, applicants must be an Australian Citizen and eligible to obtain and uphold a Baseline Security Clearance through the Australian Department of Defence.
 
-Essential Knowledge, Skills, and Experience
+Civmec + You
 
-Proven experience developing Python automation and orchestration pipelines in enterprise or financial environments.
+At Civmec, we offer an inclusive workplace built on family values, with a ‘Never Assume' culture, sustained by our experienced and supportive management team. We believe our workforce is our greatest asset, and that's why we provide an environment rich in career development opportunities to upskill and develop professionally. Our generous Reward and Recognition scheme recognises employees that go the extra mile. Our staff benefits scheme gives you access to accident and sickness insurance, and a range of travel, entertainment, vehicle and lifestyle discounts.
 
-Strong background in Infrastructure as Code (IaC) with deployment experience across on-prem and/or cloud networks.
+How to Apply
 
-Deep understanding of network technologies, firewalls, and configuration management principles.
+Please click the ""apply"" link to start your application. We look forward to starting the pathway to your career with Civmec.
 
-Hands-on experience with Cisco ASA/ACI, Tidal, or similar orchestration tools.
+Alternatively, please email recruitment@civmec.com.au for a confidential chat or call our Recruitment Team on (08) 6595 5888.
 
-Strong working knowledge of MS SQL, ETL, and data integration processes.
+Civmec is an equal opportunity employer and encourages applications from Aboriginal and Torres Strait Islanders. Defence force experience is desirable, and veterans are encouraged to apply. We respectfully request no agency submissions.
+Follow us on LinkedIn, Facebook and Instagram for news, updates and career opportunities!"
+88168414,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/88168414?type=standard&ref=search-standalone&origin=jobCard#sol=cd0ee3b0b1370dba2550292d247e688d05df100f,6h ago,6.0,2025-10-28T14:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 
-Experience with CI/CD pipelines, automation frameworks, and rollback-safe deployments.
-
-Excellent analytical, troubleshooting, and communication skills, with the ability to collaborate across technical and business teams.
-
-What's on Offer
-
-Opportunity to join a major banking organisation at the forefront of network automation and infrastructure transformation.
-
-Work on high-visibility projects with real impact on operational security and performance.
-
-Collaborative, technically advanced team environment.
-
-Sydney CBD-based role with hybrid work flexibility
-
-If you wish to apply for this position, please submit your resume by clicking the 'Apply Now' button. For further information please contact Olivia Costello at Clicks IT Recruitment on +61 419 740 399.
-
-At Clicks we embrace diversity, inclusion and equal opportunity. First Nations people are encouraged to apply.
-
-We provide reasonable adjustments, including alternate formats to the recruitment process for individuals with disability. If you require an adjustment to be made during the recruitment process, please call 1300 254 257 or email adjustments@clicks.com.au"
-88160091,L2 Support Engineer,Ambition,https://www.seek.com.au/job/88160091?type=standard&ref=search-standalone&origin=jobCard#sol=a084844c1207d9441cd1be23e63c845667ef8c9a,1h ago,1.0,2025-10-28T07:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Salary plus super,"L2 Support Engineer
-
-Permanent role / full time work
-Work from home options / Sydney based
-Start ASAP
-
-I'm partnering with a long-standing client to hire a L2 Support Engineer for their managed services team. This role is suitable for an experienced IT professional who enjoys solving complex problems across multiple clients, driving improvements, and is keen to progress their career. You'll work closely with other L2 and L3 Engineers, handling escalated incidents, and technical challenges while ensuring best practice and process-driven outcomes.
-
-Why this role and this team?
-
-Work alongside experienced engineers with strong client and business knowledge.
-Exposure to a wide range of technologies and industries.
-Culture of learning, company paid certifications, and career development.
-Supportive environment where collaboration is valued, and micromanagement is avoided.
-Regular team lunches and activities that create space to share ideas, collaborate, and learn from each other.
-
-Responsibilities include:
-
-Provide Level 2 support across multiple client environments, resolving escalated incidents and managing workloads.
-Troubleshoot escalated incidents across endpoints, servers, networks, and M365
-Manage user accounts, permissions, and identity issues
-Provide support across Microsoft technologies, Azure cloud services, Entra ID, Intune, Hyper-V, and networking.
-Ensure security best practices in cloud and on-premises environments, particularly around Active Directory, Exchange Online, Mimecast, and endpoint management.
-Resolve issues with laptops, desktops, printers and mobile devices
-Communicate clearly with internal and external stakeholders - explain not just what was fixed, but why it's important.
-Contribute to ITIL-based change management processes.
-
-What we're looking for:
-
-Proven experience in a Level 2 Support role, supporting multiple clients with broad knowledge across networking, security, and cloud best practices.
-Good knowledge of Microsoft 365 administration including Teams, SharePoint, Exchange Online, and OneDrive
-Hands-on experience with Active Directory, Group Policy, and identity management (Azure AD / Entra ID)
-Exposure to server technologies such as Windows Server, VMware or Hyper-V
-Ability to diagnose and resolve network issues including DHCP, DNS, VPN and switching
-Understanding of security best practices across cloud and on-prem environment
-Experience managing ticket queues, escalations, and SLA expectations
-Excellent communication skills and stakeholder engagement experience.
-A collaborative team player who asks the right questions, seeks to understand, and learns quickly.
-
-If you're someone who enjoys what they do, passionate about new tech and continuously looking to upskill and grow, I'd love to hear from you!"
-88159604,Fabric Data Engineer - Lead,DATAIQ,https://www.seek.com.au/job/88159604?type=standard&ref=search-standalone&origin=jobCard#sol=950a54302038b8db58ab0690a26f3861b542dd16,1h ago,1.0,2025-10-28T07:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About the role
-
-Join DataIQ as we expand our Data & AI practice to build modern data products on Microsoft Fabric. You'll own ingestion, orchestration and transformation using Data Factory in Fabric and Spark, delivering a variety of services to clients that power enterprise semantic models and reports.
-
-Australian work rights are required for this position.
-
-What you'll do
-
-Lead, build and manage the Microsoft Fabric platform for client engagements, including governance, capacity planning, and performance optimisation.
-
-Build and Oversee the Reporting function, ensuring timely delivery of semantic models and Power BI reports aligned with business needs.
-
-Ingest and transform data using Fabric Data Factory, pipelines, and Spark notebooks (PySpark).
-
-Model curated Delta tables and medallion layers optimized for Direct Lake and semantic models.
-
-Automate reliability: parameterized pipelines, scheduling, monitoring, alerting; build runbooks for recovery.
-
-Tune performance and cost (partitioning strategies, incremental refresh, capacity awareness).
-
-Own performance, cost, and reliability decisions (capacity planning, refresh patterns, incremental strategies, observability).
-
-Support pre-sales: scope, estimates, SoWs, and executive briefings; contribute to POVs and demos.
-
-Mentor and manage team members; uplift delivery standards and reusable assets (templates, pipelines, model patterns).
-
-Collaborate with stakeholders to align data products with strategic goals and reporting requirements.
-
-What you'll bring
-
-Hands-on experience with Microsoft Fabric (Data Factory, Synapse Data Engineering) and Spark/PySpark, with a minimum of 5 years' experience with Data Factory.
-
-A minimum of 2 years hands-on Microsoft Fabric experience is required.
-
-Strong SQL and Delta Lake experience; medallion architecture patterns.
-
-Deep knowledge of OneLake, Data Factory in Fabric, Synapse Data Engineering/Spark, Real-Time Analytics, and Power BI (Service, Desktop).
-
-Experience managing enterprise reporting functions and aligning data models with business KPIs.
-
-CI/CD and deployment pipelines knowledge; Git familiarity.
-
-Nice to have: KQL, streaming/Eventstreams, Databricks/Azure background, Purview lineage.
-
-Certification preferred: Fabric Data Engineer Associate (or DP-203 legacy) and PL-300 familiarity.
-
-How to apply
-
-Apply with your CV and a short cover letter highlighting recent Fabric/Spark projects. Portfolio or Git links welcome."
-88158407,Principal Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/88158407?type=standard&ref=search-standalone&origin=jobCard#sol=0384aed432a2b86056bc0d222b80ff7b94086d16,2h ago,2.0,2025-10-28T06:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 In 2025, we have been awarded
 
-
 ✓ Best Performing Partner in Australia for S/4 HANA Public Cloud
+
 ✓ Best Performing Partner in Australia for Speed of Delivery
+
 ✓ Best Performing Partner in Mid-Market
+
 ✓ Highest Selling Partner in Australia
 
 About the Role:
-As a Principal Consulting AI / Data Engineer, you will design, build, and optimise enterprise-scale data and AI solutions, while also leading engagements with executive stakeholders. This role requires both technical depth and consulting acumen: you will be expected to explain complex technical concepts clearly to non-technical directors, C-suite executives, and senior customer stakeholders. You’ll play a critical role in shaping DyFlex’s growing Data and AI practice, delivering innovative, business-aligned solutions that drive measurable outcomes.
+As a Consulting AI / Data Engineer, you will design, build, and optimise enterprise-scale data solutions, helping our clients unlock the value of their data and accelerate performance. This role blends hands-on technical delivery with client-facing consulting, giving you the opportunity to shape scalable solutions using Databricks, cloud platforms, and modern data engineering practices. You’ll play a key role in building DyFlex’s emerging Data and AI capability, ensuring our clients achieve meaningful business outcomes through innovative data solutions.
 
 Your tasks and responsibilities:
 
-Design, build, and maintain scalable data and AI solutions using Databricks, cloud platforms, and modern frameworks
-Lead solution architecture discussions with clients, ensuring alignment of technical delivery with business strategy
-Present to and influence executive-level stakeholders, including boards, C-suite, and senior directors
-Translate highly technical solutions into clear business value propositions for non-technical audiences
-Mentor and guide teams of engineers and consultants to deliver high-quality solutions
-Champion best practices across data engineering, MLOps, and cloud delivery
-Build DyFlex’s reputation as a trusted partner in Data & AI through thought leadership and client advocacy
+Build and maintain scalable data pipelines for ingesting, transforming, and delivering data
+Manage and optimise databases, warehouses, and cloud storage solutions
+Implement data quality frameworks and testing processes to ensure reliable systems
+Design and deliver cloud-based solutions (AWS, Azure, or GCP)
+Take technical ownership of project components and lead small development teams
+Engage directly with clients, translating business requirements into technical solutions
+Champion best practices including version control, CI/CD, and infrastructure as code
 
 Your qualifications and experience:
 
-Proven expertise in delivering enterprise-grade data engineering and AI solutions in production environments
-Strong proficiency in Python and SQL, plus experience with Spark, Airflow, dbt, Kafka, or Flink
-Experience with cloud platforms (AWS, Azure, or GCP) and Databricks
-Ability to confidently communicate and present at C-suite level, simplifying technical concepts into business impact
-Track record of engaging senior executives and influencing strategic decisions
-Strong consulting and stakeholder management skills with client-facing experience
-Background in MLOps, ML pipelines, or AI solution delivery highly regarded
+Hands-on data engineering experience in production environments
+Strong proficiency in Python and SQL; experience with at least one additional language (e.g. Java, Typescript/Javascript)
+Experience with modern frameworks such as Apache Spark, Airflow, dbt, Kafka, or Flink
+Background in building ML pipelines, MLOps practices, or feature stores is highly valued
+Proven expertise in relational databases, data modelling, and query optimisation
+Demonstrated ability to solve complex technical problems independently
+Excellent communication skills with ability to engage clients and stakeholders
 Degree in Computer Science, Engineering, Data Science, Mathematics, or a related field
 
 What we offer:
 
 Work with SAP’s latest technologies on cloud as S/4HANA, BTP and Joule, plus Databricks, ML/AI tools and cloud platforms
 A flexible and supportive work environment including work from home
-Competitive remuneration and benefits including novated lease, birthday leave, salary packaging, wellbeing programme, additional purchased leave, and company-provided laptop
-Comprehensive training budget and paid certifications (Databricks, SAP, cloud platforms)
-Structured career advancement pathways with opportunities to lead large-scale client programs
-Exposure to diverse industries and client environments, including executive-level engagement
+Competitive remuneration and benefits including novated lease, birthday leave, remote working, additional purchased leave, and company-provided laptop
+Competitive remuneration and benefits including novated lease, birthday leave, salary packaging, wellbeing programme, additional purchased leave, and company-provided laptop Comprehensive training budget and paid certifications (Databricks, SAP, cloud platforms)
+Structured career advancement pathways with mentoring from senior engineers
+Exposure to diverse industries and client environments
+
 Join a renowned organisation delivering projects to some of Australia’s leading enterprises
 
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-88158387,Senior Machine Learning Engineer - AI Inference Platform,Canva,https://www.seek.com.au/job/88158387?type=standard&ref=search-standalone&origin=jobCard#sol=b581f1e488ff8020f938dbaba71824e3ead985b4,2h ago,2.0,2025-10-28T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Job Description
+88149317,Data Architect,INTERWORKS AUS PTY LTD,https://www.seek.com.au/job/88149317?type=standard&ref=search-standalone&origin=jobCard#sol=8ef9551fa9497cb0f3abc61077668fafb84f13b8,7h ago,7.0,2025-10-28T13:00:00+00:00,Perth WA (Hybrid),Architects (Information & Communication Technology),Full time,"$150,000 – $190,000 per year","Are you passionate about data strategy, architecture, and empowering businesses with data-driven insights? Do you enjoy designing scalable solutions and guiding organizations through complex data challenges? At InterWorks, we’re looking for a Data Architect who thrives in dynamic environments and is ready to help shape the future of data for our clients.
 
+This role blends the rigor of enterprise data architecture and governance with the energy of consulting and solution-building. You’ll work with clients across industries to build robust data platforms, define standards, and implement governance frameworks that create lasting value.
 
-Join the team redefining how the world experiences design.
-Hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte!
-Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+Please be advised that this role is required to be located in the Perth, Australia InterWorks office. Remote work or telecommuting arrangements outside of this jurisdiction are not permissible for this position.
 
-Where and how you can work
+Salary range commensurate with experience and qualifications.
 
-Our flagship campus is in Sydney. We also have a campus in Melbourne and co-working spaces in Brisbane, Perth and Adelaide. But you have choice in where and how you work—we trust our Canvanauts to choose the balance that empowers them and their team to achieve their goals.
+What You’ll Do
 
-What you'd be doing in this role
+Architect and implement enterprise-level data solutions that align with business goals and compliance requirements.
 
-As Canva scales, change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+Design and optimize data models, storage solutions, and integration pipelines across various platforms (Snowflake, Databricks, etc.).
 
-At the moment, this role is focused on:
+Partner directly with clients to develop scalable data platforms, data governance frameworks, and analytics strategies.
 
-Designing and architecting Inference platform components that are composable and deliver value for a variety of use cases.
+Create and oversee ETL/ELT processes and advise on best practices for data quality, security, and accessibility.
 
-Building and scaling Canva’s Inference platform components to handle rapid growth.
+Serve as a strategic liaison between business and IT to bridge gaps and ensure alignment.
 
-Working closely with other teams to understand how we can improve our existing services and platforms, or introduce new ones, in order to optimise their efficiency.
+Manage project timelines, expectations, and deliverables with clear communication and strong stakeholder engagement.
 
-Providing tooling and libraries for the MLEs to use LLM providers reliably and easily.
+What You’ll Need
 
-Managing LLM provider platforms.
+Must-Haves
 
-Implementing changes that uplift ML Services to be on par with Backend Services.
+5+ years of experience in data architecture, data engineering, or a related field
 
-Working towards “platformizing” new capabilities or enhancing existing ones, such as model observability.
+High proficiency in SQL and strong data modeling skills
 
-Continuing to explore opportunities for our platform teams to better leverage each other in order to optimise for delivery of both product and R&D teams.
+Experience in data governance, compliance standards, and enterprise data strategy
 
-You're probably a match if
+Excellent communication skills—written, verbal, and interpersonal
 
-You have a deep understanding of machine learning inference, including model serving, optimization, and scaling challenges.
+Ability to thrive in client-facing environments and lead cross-functional teams
 
-You have experience in building high-performance, large-scale ML systems.
+Adaptability and problem-solving mindset in fast-paced and ambiguous situations
 
-You possess deep expertise in Python and Java development, with experience in designing and building ML components as microservices being a plus.
+Proven experience with data lakehouse architecture including the storage and processing of semi-structured and unstructured file types
 
-You have a deep understanding of ML Framework internals and inference frameworks such as vLLM and SGLang.
+Proven support for data science initiatives
 
-You are passionate about engineering excellence, systems architecture, and meeting non-functional requirements.
+Understanding of pipeline and cost monitoring and optimisation
 
-You understand Computer Science/Engineering fundamentals and first principles, covering system design, data structures, architecture, and design patterns.
+Comfortable leading business engagements to source requirements or refine data models
 
-You have excellent collaboration, communication, and stakeholder management skills.
+Experience with Azure & AWS CSP's preferable
 
-It would be preferable if
+What We’d Like You to Have
 
-You are familiar with LLM inference optimisation techniques such as prefill-decode disaggregation and KV cache management.
+Experience with BI and visualization tools (e.g., Tableau, Power BI)
 
-You have exposure to the AWS ecosystem, including EKS and ECR.
+Familiarity with modern data warehouses and cloud platforms (e.g., Snowflake, Databricks)
 
-About the team
+ETL tool experience (e.g., dbt, Matillion, Informatica, Fivetran)
 
-Canva's GenAI Platform Group is responsible for the delivery of capabilities that support ML and AI features, from early ideation and prototyping, through to scaling to meet the needs of millions of Canva users in production. We empower thousands of engineers and product managers to deliver amazing product features that harness the power of cutting-edge technologies. 
+Knowledge of AI/ML concepts and their role in data platforms
 
-As an AI Inference Engineer, you'll be at the forefront of building and optimising the inference systems that power Canva's generative AI features used by over 240 million monthly active users worldwide. This role sits at the intersection of ML Engineering and Platform Engineering, requiring both technical depth in the AI Inference Stack and the ability to implement platform capabilities.
-
-You'll work within our AI Platform Group, which serves as the foundation for AI innovation across Canva, supporting Machine Learning Engineers and AI researchers across all of Canva.
-
-What's in it for you?
-
-Achieving our crazy big goals motivates us to work hard—and we do—but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a range of benefits to set you up for every success in and outside of work.
-
-Here's a taste of what's on offer:
-• Equity packages – we want our success to be yours too
-• Inclusive parental leave policy that supports all parents & carers
-• An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
-• Flexible leave options that empower you to be a force for good, take time to recharge and support you personally
-
-Check out lifeatcanva.com for more info.
-
-Other stuff to know
-
-We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
-
-We celebrate all types of skills and backgrounds at Canva, so even if you don't feel like your skills quite match what's listed above—we still want to hear from you!
-
-Please note that interviews are conducted virtually."
-88158148,ScientificbSoftware Engineer,Bureau Of Meteorology,https://www.seek.com.au/job/88158148?type=standard&ref=search-standalone&origin=jobCard#sol=54f24bcf694519fedf90048df2f8467f2746be65,2h ago,2.0,2025-10-28T06:00:00+00:00,Darwin NT,"Engineering - Software (Information & Communication Technology)
-Government - Federal (Government & Defence)",Full time,"$94,563 - $105,910 per annum + 15.4% super","Scientific Software Engineer
-
-APS Level 6 
-
-All Bureau capital city office locations will be considered
-
-Position Overview 
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=F49C66E5-61E1-6FCA-79D8-E44ECF8864EC"
-88158099,ScientificbSoftware Engineer,Bureau Of Meteorology,https://www.seek.com.au/job/88158099?type=standard&ref=search-standalone&origin=jobCard#sol=fdafa96a33f37f7ceea08fe96bff7a987c39fcdb,2h ago,2.0,2025-10-28T06:00:00+00:00,Adelaide SA,"Engineering - Software (Information & Communication Technology)
-Government - Federal (Government & Defence)",Full time,"$94,563 - $105,910 per annum + 15.4% super","Scientific Software Engineer
-
-APS Level 6 
-
-All Bureau capital city office locations will be considered
-
-Position Overview 
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=F49C66E5-61E1-6FCA-79D8-E44ECF8864EC"
-88156890,Automation Engineer / Robot Programmer,Private Advertiser,https://www.seek.com.au/job/88156890?type=standard&ref=search-standalone&origin=jobCard#sol=fb49991da11cfbee0e63ab5357f2de7696295c7d,3h ago,3.0,2025-10-28T05:00:00+00:00,"Eagle Farm, Brisbane QLD",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $140,000 per year","Our client ""Industrial Automation Australia"" is seeking an Automation Engineer / Robot Programmer to join their team!
-
-This is an exceptional opportunity for a top-tier robotics professional to join one of Australia's fastest-growing automation firms. You'll work on cutting-edge robotic systems and automation solutions for leading manufacturers, taking on complex technical challenges that will shape the future of Australian industry. This senior, well-compensated role offers the chance to work with world-class KUKA robotics technology and lead innovative automation projects from concept to commissioning.
-
-About Our Client
-
-Industrial Automation Australia (IAA) is one of the fastest-growing robotics and automation firms in the country. Based in Brisbane with decades of engineering and fabrication experience, they design and deliver cutting-edge robotic systems, automation cells, and advanced manufacturing solutions to leading manufacturers across Australia. Their comprehensive capabilities span concept design, 3D simulation, fabrication, robotic integration, programming, and commissioning. As a KUKA Robotics partner, IAA is currently rolling out pilot projects with world-class automation technology that redefine how Australian manufacturers work.
-
-What you'll be doing?
-
-Robot Programming Excellence - Program and optimize industrial robots using advanced techniques, with preference for KUKA systems, ensuring peak performance across complex automation projects
-
-System Integration Leadership - Design, integrate, and commission complete robotic automation systems from initial concept through to fully operational production lines
-
-Technical Problem Solving - Apply high-level problem-solving skills to overcome complex technical challenges and optimize robotic system performance
-
-Electrical Implementation - Undertake electrical hookup, wiring, and comprehensive testing of sophisticated robotic systems
-
-Quality Assurance - Lead FAT and SAT processes to ensure automation projects meet the highest standards and client expectations
-
-Team Development - Guide and potentially manage small technical teams, sharing expertise and fostering professional growth
-
-Simulation and Programming - Utilize robot simulation software and offline programming to develop efficient, reliable automation solutions
-
-Who are they looking for?
-
-Extensive Robotics Experience - Minimum 5+ years of hands-on experience programming industrial robots, demonstrating proven expertise in complex automation projects
-
-KUKA Expertise Preferred - Strong capability with KUKA robotics systems, though exceptional candidates with other platforms will be considered
-
-PLC Integration Skills - Solid understanding of PLC programming and integration to ensure seamless automation system operation
-
-Simulation Proficiency - Experience with robot simulation software and offline programming techniques for efficient project development
-
-System Assembly Expertise - Proven track record in assembling, testing, and optimizing complete robotic systems from ground up
-
-Australian Residency - Must already be based in Australia, with interstate relocation support available for exceptional candidates
-
-Leadership Potential - Demonstrated ability to guide teams and take ownership of complex technical projects
-
-Why you should consider this opportunity?
-
-Our client offers an attractive remuneration package and other benefits, such as:
-
-Competitive Senior-Level Salary - Well-paid position reflecting the high-level expertise and experience required
-
-Cutting-Edge Technology Access - Work with world-class KUKA robotics technology and advanced automation systems
-
-Career Growth Potential - Leadership opportunities with ability to guide and manage technical teams
-
-Diverse Project Portfolio - Exposure to complex, high-profile automation projects across various industries
-
-Interstate Relocation Support - Assistance with relocation for exceptional candidates from other states
-
-Fast-Growing Company Environment - Join a rapidly expanding firm with significant growth opportunities
-
-Technical Challenge Variety - Work on projects spanning concept design through to full commissioning
-
-Industry Leadership Role - Contribute to redefining how Australian manufacturers operate through innovative automation
-
-How to apply
-
-Ready to join this role? Click Apply now to submit your resume and share your availability and expected salary with us!
-
-We encourage applications from all qualified professionals who are passionate about robotics and automation technology.
-
-All information received will be kept strictly confidential and will be used only for employment-related purposes."
-88156663,"Manager, Data Analytics, AI and Governance",Standards Australia Ltd,https://www.seek.com.au/job/88156663?type=standard&ref=search-standalone&origin=jobCard#sol=39129231df517d5eca9cf417aaf31244f47c51df,3h ago,3.0,2025-10-28T05:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,"Permanent, Full-Time role","Who are we? 
- 
-Standards Australia (SA) is the peak standards development organisation in Australia, with a rich history that dates back to 1922. We proudly employ over 200 professionals dedicated to helping shape Australia’s future and enabling the safe and sustainable progress of Australian communities. 
- 
-Our organisation brings experts together to create national and international standards that serve as essential guidelines for products and services, ultimately benefiting the Australian community. Our vision is to be the trusted voice that delivers confidence in a changing world. 
- 
-About the role 
-
-As a hybrid people manager role, you will lead a small team across three main functions: data science, analytics engineering, and AI governance focusing on building a robust work program with clear return on investment for the organisation. You will utilise your demonstrated hands-on experience to implemented trusted solutions that drive business change. 
-  
-What you’ll do
-
-Manage a small team - Analytics & Data Engineer, Data Scientist, Data Governance Analyst
-Create and deliver a comprehensive data strategy for the organisation, in alignment with corporate goals and in collaboration with other stakeholders
-Establish processes for governing the identification, collection, and use of corporate metadata; ensure metadata accuracy and validity.
-Contribute to thought leadership and demonstrate technical expertise in advanced analytics and associated technologies
-Lead the design and implementation of end-to-end advanced analytical models, including machine learning models and AI solutions in close collaboration with IT, Security, and Infrastructure Teams
-Oversee the build and deployment of analytical models that contribute to the strategy of Standards Australia
-Provide mentorship and guidance to a team of all technical aspects of AI, ML, and other areas of advanced analytics
-Create and deliver a comprehensive AI strategy for the organisation, in alignment with corporate goals and in collaboration with other stakeholders
-Oversee the design of automated data pipelines and data operations processes
-Design and develop processes, guidelines, and procedures for working with different tools, e.g., SQL, Python, Git, etc., data solutions, and data platforms
-Lead the design, development, and implementation of critical business intelligence initiatives and projects enabling strategic decision-making across the organisation
-Develop and lead the team to create dashboards, reports, and control systems to support critical business needs
-Provide detailed analysis to assist in identifying root causes of problems and model potential solutions using statistically valid methods
-Oversee the design and implementation of data cloud infrastructure, services and data platform components
-About you
-
-Minimum of 7 years relevant work experience in statistical modelling, advanced analytics and/or deep learning within a relevant industry 
-At least 3 years in leadership roles
-An advanced degree (MA/MSc or PhD) in a quantitative degree e.g., STEM related
-A consultative, customer-centric approach to work and demonstrated ability to communicate complex data to non-technical audience
-Proven track record of developing and implementing data strategies and governance frameworks
-Demonstrated experience in investigating, recommending and integrating/deploying third party solutions
-Strong understanding of data architecture, data warehousing, and data governance principles.
-Demonstrate a high level of analytical and problem-solving capability, with the ability to deal with complex business requirements, analysis, and processes
-Experience in leading business intelligence initiatives and developing dashboards and reports
-Strong analytical and problem-solving skills with the ability to translate complex data into actionable insights
-Proficiency in data analytics tools and platforms such as SQL, Python, Power BI, Git, GitHub, and cloud technologies and platforms, specifically Azure
-Culture & Benefits 
- 
-Standards Australia is proud to have been awarded the prestigious Employer of Choice Award for two consecutive years, 2023 and 2024. This recognition highlights our commitment to creating an exceptional workplace and fostering a culture of excellence. Our iCARE values form the basis of all we do - Integrity, Courage, Accountability, Respect, and Excellence. 
- 
-We offer a range of People Perks that support flexibility, wellbeing, career growth, and recognition—helping you thrive at work and beyond.
-
-What's next? 
- 
-If Standards Australia sounds like the place for you, please submit your CV outlining your experience and suitability to this role. Eligible applicants must be Australian Citizens, Permanent Residents or have legal rights to work in Australia. Shortlisted applicants will be contacted within 15 business days of their application. 
- 
-At Standards Australia, we are proud to be an equal opportunity employer and we are committed to fostering a working environment that values diversity, inclusion, and belonging. We strive to create an organisation that genuinely reflects and respects the diversity of the communities we serve; putting people at the heart of all we do. We welcome applications from people of all cultural and linguistic groups, people of all ages and genders, people of Aboriginal and/or Torres Strait Islander background, people with a disability, and people from the LGBTQIA+ community. Should you need any adjustments to be made to our recruitment process, please contact recruitment@standards.org.au"
-88155712,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155712?type=standard&ref=search-standalone&origin=jobCard#sol=c4b3c1d86df9fc1426ee3160bea3c1e512ef0d43,4h ago,4.0,2025-10-28T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
-
-This role is ideal for someone who thrives in cross-functional teams, enjoys translating experimental models into scalable systems, and is passionate about automation, governance, and performance in AI delivery.
-
-What will your key responsibilities include?
-
-Translate prototype models into production-ready pipelines that are modular and reproducible
-
-Build and maintain data pipelines for training, scoring, and inference across environments
-
-Package and version models using Databricks Asset Bundles (DAB) for deployment
-
-Collaborate with data scientists to understand modelling requirements and constraints
-
-Work closely with platform engineers to align deployment strategies and CI/CD practices
-
-Implement model validation, performance monitoring, and drift detection frameworks
-
-Document workflows, data dependencies, and deployment configurations
-
-Ensure compliance with internal governance standards around security, reproducibility, and versioning
-
-What are we looking for?
-
-Success in this role requires resilience, adaptability, and the ability to lead in a dynamic, fast-paced environment. We value individuals who embrace change and continuously evolve with emerging technologies and methods. To thrive in this role, you will bring:
-
-Strong proficiency in Python for ML engineering and data workflows
-
-Experience with Databricks and ML lifecycle tools such as MLflow
-
-Familiarity with CI/CD pipelines and DevOps practices
-
-Understanding of secure deployment protocols (e.g., OAuth, RBAC)
-
-Ability to work across experimental and production environments
-
-Experience managing model performance over time, including drift detection and retraining strategies
-
-Excellent problem-solving mindset with a focus on automation and reliability
-
-Strong communication and collaboration skills across technical and non-technical teams
-
-Why join us?
-
-Beyond the expected perks that we’re proud to offer like fitness passports, corporate health insurance, and paid parental leave, we go the extra mile to offer benefits that truly enhance your work-life balance, career growth, and sense of belonging.
-
-Boredom? Never heard of it. We’re all about challenging, stimulating work that sparks innovation, fuels passion, and keeps you inspired every day.
-
-We’re all about bringing people together - whether it’s through open conversations, a culture of respect, or just having a laugh in a truly inclusive workplace.
-
-Learning never stops here. Whether it’s LinkedIn Learning, formal training, career coaching, study leave, or even a great podcast rec, we support every kind of growth—professional and personal.
-
-About us
-
-As one of Australia’s largest customer-owned banks, we’re a driving force in customer owned banking, operating under the trusted brands Greater Bank and Newcastle Permanent. With over 200 years of combined experience, we’ve helped hundreds of thousands of Australians achieve home ownership and providing a genuine alternative to the big banks—all while strengthening the communities we serve. At the heart of everything we do are our core values:
-
-Lead with heart – We genuinely care about achieving better outcomes for our customers and communities.
-
-Own the action – We build trust by doing things the right way, with honesty and transparency.
-
-Embrace opportunity – We look ahead, focusing on our strengths and expertise to challenge the status quo.
-
-Thrive together – By working as one, we create the best possible future for our customers and communities
-
-And we’re just getting started. Join a team shaping the future of trusted banking and make a real impact where it matters most.
-
-
-
-
-A note to recruitment agencies: We’ve got this role covered, so no need to get in touch! As such, we are unable to accept unsolicited CVs and will not be liable for any associated fees. Thank you for your understanding!
-
-NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
-
-We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
-88155710,Machine Learning Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155710?type=standard&ref=search-standalone&origin=jobCard#sol=d6b5dffc34c17c8bf16103fae83275a9afa16730,4h ago,4.0,2025-10-28T04:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We are seeking a hands-on and technically driven Machine Learning Engineer to bridge the gap between data science experimentation and platform engineering. You’ll play a critical role in operationalising machine learning models, building scalable and reproducible pipelines, and enabling seamless collaboration across the AI development lifecycle.
-
-This role is ideal for someone who thrives in cross-functional teams, enjoys translating experimental models into scalable systems, and is passionate about automation, governance, and performance in AI delivery.
-
-What will your key responsibilities include?
-
-Translate prototype models into production-ready pipelines that are modular and reproducible
-
-Build and maintain data pipelines for training, scoring, and inference across environments
-
-Package and version models using Databricks Asset Bundles (DAB) for deployment
-
-Collaborate with data scientists to understand modelling requirements and constraints
-
-Work closely with platform engineers to align deployment strategies and CI/CD practices
-
-Implement model validation, performance monitoring, and drift detection frameworks
-
-Document workflows, data dependencies, and deployment configurations
-
-Ensure compliance with internal governance standards around security, reproducibility, and versioning
-
-What are we looking for?
-
-Success in this role requires resilience, adaptability, and the ability to lead in a dynamic, fast-paced environment. We value individuals who embrace change and continuously evolve with emerging technologies and methods. To thrive in this role, you will bring:
-
-Strong proficiency in Python for ML engineering and data workflows
-
-Experience with Databricks and ML lifecycle tools such as MLflow
-
-Familiarity with CI/CD pipelines and DevOps practices
-
-Understanding of secure deployment protocols (e.g., OAuth, RBAC)
-
-Ability to work across experimental and production environments
-
-Experience managing model performance over time, including drift detection and retraining strategies
-
-Excellent problem-solving mindset with a focus on automation and reliability
-
-Strong communication and collaboration skills across technical and non-technical teams
-
-Why join us?
-
-Beyond the expected perks that we’re proud to offer like fitness passports, corporate health insurance, and paid parental leave, we go the extra mile to offer benefits that truly enhance your work-life balance, career growth, and sense of belonging.
-
-Boredom? Never heard of it. We’re all about challenging, stimulating work that sparks innovation, fuels passion, and keeps you inspired every day.
-
-We’re all about bringing people together - whether it’s through open conversations, a culture of respect, or just having a laugh in a truly inclusive workplace.
-
-Learning never stops here. Whether it’s LinkedIn Learning, formal training, career coaching, study leave, or even a great podcast rec, we support every kind of growth—professional and personal.
-
-About us
-
-As one of Australia’s largest customer-owned banks, we’re a driving force in customer owned banking, operating under the trusted brands Greater Bank and Newcastle Permanent. With over 200 years of combined experience, we’ve helped hundreds of thousands of Australians achieve home ownership and providing a genuine alternative to the big banks—all while strengthening the communities we serve. At the heart of everything we do are our core values:
-
-Lead with heart – We genuinely care about achieving better outcomes for our customers and communities.
-
-Own the action – We build trust by doing things the right way, with honesty and transparency.
-
-Embrace opportunity – We look ahead, focusing on our strengths and expertise to challenge the status quo.
-
-Thrive together – By working as one, we create the best possible future for our customers and communities
-
-And we’re just getting started. Join a team shaping the future of trusted banking and make a real impact where it matters most.
-
-
-
-
-A note to recruitment agencies: We’ve got this role covered, so no need to get in touch! As such, we are unable to accept unsolicited CVs and will not be liable for any associated fees. Thank you for your understanding!
-
-NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
-
-We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
-88155705,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155705?type=standard&ref=search-standalone&origin=jobCard#sol=bffe80e73f2fcaa26dfc00375ce2a1bad36fa2d2,4h ago,4.0,2025-10-28T04:00:00+00:00,Sydney NSW,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155697,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155697?type=standard&ref=search-standalone&origin=jobCard#sol=77b0380663d7dc11ccc3237d4b4c3d6841922bec,4h ago,4.0,2025-10-28T04:00:00+00:00,Melbourne VIC,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155691,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155691?type=standard&ref=search-standalone&origin=jobCard#sol=b66f7bfe30aeb04ab207af54912caa39600b78d5,4h ago,4.0,2025-10-28T04:00:00+00:00,Brisbane QLD,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155686,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155686?type=standard&ref=search-standalone&origin=jobCard#sol=ddd40c2c977c42e0af4780bbe79bdab7dfe68c7f,4h ago,4.0,2025-10-28T04:00:00+00:00,Perth WA,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155676,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155676?type=standard&ref=search-standalone&origin=jobCard#sol=62c847c490175238be3b40b31e7f9b1e1537cc3b,4h ago,4.0,2025-10-28T04:00:00+00:00,Adelaide SA,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155671,ML Ops & AI Platform Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/88155671?type=standard&ref=search-standalone&origin=jobCard#sol=3b3ee4ed745ebbc246d40bd5218db3e2ea33c7f0,4h ago,4.0,2025-10-28T04:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"This is a unique opportunity to shape the future of AI at NGM Group, with the chance to influence platform design, deployment standards, and operational excellence from the ground up.
-
-We are seeking a technically driven ML Ops / AI Platform Engineer to lead the operational delivery of machine learning and generative AI solutions. This role is critical in bridging the gap between experimentation and production, ensuring our AI systems are secure, scalable, and reliable.
-
-You’ll work closely with data scientists, platform engineers, and external partners to build the infrastructure that powers our AI journey. With several ML pilots already in use—including mortgage retention and deposit forecasting—you’ll help us move from proof-of-concept to robust, enterprise-grade delivery.
-
-What will your key responsibilities include?
-
-Translate prototype models into production-ready pipelines that are modular and reproducible
-
-Build and maintain data pipelines for training, scoring, and inference across environments
-
-Package and version models using Databricks Asset Bundles (DAB) for deployment
-
-Collaborate with data scientists to understand modelling requirements and constraints
-
-Work closely with platform engineers to align deployment strategies and CI/CD practices
-
-Implement model validation, performance monitoring, and drift detection frameworks
-
-Document workflows, data dependencies, and deployment configurations
-
-Ensure compliance with internal governance standards around security, reproducibility, and versioning
-
-What are we looking for?
-
-Success in this role requires a systems mindset, a passion for automation, and the ability to bring structure to fast-moving AI initiatives. You’ll be instrumental in shaping our production environment, supporting the deployment of ML and GenAI solutions, and ensuring our infrastructure evolves alongside our ambitions. To thrive in this role, you will bring:
-
-Proven experience in cloud engineering or DevOps roles
-
-Strong hands-on expertise with CI/CD tools, preferably GitHub integrated with Databricks
-
-Familiarity with Databricks deployment models and infrastructure configuration
-
-Proficiency in Python and API development frameworks
-
-Experience with Terraform and infrastructure-as-code practices
-
-Knowledge of monitoring tools and secure deployment protocols
-
-Ability to manage version control of open-source packages and prevent breaking changes
-
-Excellent communication skills and a collaborative mindset
-
-Comfort working with ambiguity and evolving environments
-
-Why join us?
-
-Beyond the expected perks that we’re proud to offer like fitness passports, corporate health insurance, and paid parental leave, we go the extra mile to offer benefits that truly enhance your work-life balance, career growth, and sense of belonging.
-
-Boredom? Never heard of it. We’re all about challenging, stimulating work that sparks innovation, fuels passion, and keeps you inspired every day.
-
-We’re all about bringing people together - whether it’s through open conversations, a culture of respect, or just having a laugh in a truly inclusive workplace.
-
-Learning never stops here. Whether it’s LinkedIn Learning, formal training, career coaching, study leave, or even a great podcast rec, we support every kind of growth—professional and personal.
-
-About us
-
-As one of Australia’s largest customer-owned banks, we’re a driving force in customer owned banking, operating under the trusted brands Greater Bank and Newcastle Permanent. With over 200 years of combined experience, we’ve helped hundreds of thousands of Australians achieve home ownership and providing a genuine alternative to the big banks—all while strengthening the communities we serve. At the heart of everything we do are our core values:
-
-Lead with heart – We genuinely care about achieving better outcomes for our customers and communities.
-
-Own the action – We build trust by doing things the right way, with honesty and transparency.
-
-Embrace opportunity – We look ahead, focusing on our strengths and expertise to challenge the status quo.
-
-Thrive together – By working as one, we create the best possible future for our customers and communities
-
-And we’re just getting started. Join a team shaping the future of trusted banking and make a real impact where it matters most.
-
-
-
-
-A note to recruitment agencies: We’ve got this role covered, so no need to get in touch! As such, we are unable to accept unsolicited CVs and will not be liable for any associated fees. Thank you for your understanding!
-
-
-
-
-NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a National Police Check.
-
-
-
-
-We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
-88155667,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155667?type=standard&ref=search-standalone&origin=jobCard#sol=af55d527680d42311a0ce2706282376ddfb91292,4h ago,4.0,2025-10-28T04:00:00+00:00,Hobart TAS,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88155646,Senior Scientific Software Engineer/Scientific Modeller,Bureau Of Meteorology,https://www.seek.com.au/job/88155646?type=standard&ref=search-standalone&origin=jobCard#sol=abc77d302c26c5fcb766acbc55b96f769cb2105d,4h ago,4.0,2025-10-28T04:00:00+00:00,Canberra ACT,"Modelling & Simulation (Science & Technology)
-Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832 per annum + 15.4% super","Senior Scientific Software Engineer/Scientific Modeller
-
-Executive Level 1
-
-All Bureau capital city locations will be considered
-
-Position Overview﻿
-
-The Bureau's Science and Innovation Group delivers world-class research and development enabling the Bureau to lead to deliver better climate, oceans, water, weather and earth system prediction information and insights to its customers. The Research to Operations Program (R2O) is one of two programs within the Science and Innovation Group. It brings science into practice by accelerating the transfer of research into real-world application. 
-
-The Weather, Marine and Climate Models team in Research to Operations is responsible for transitioning research candidates to operations in four modelling areas: weather, marine, climate and dispersion. The main role of this team is to develop and maintain high quality operational numerical prediction systems so that the associated products can be used effectively by Bureau-wide operations and external users.
-
-We are looking for highly motived scientific software engineers / scientific numerical modellers to join our team. Our ideal candidate will make significant contributions to operationalisation and support of new and upgraded software systems across multiple modelling areas. This is a great opportunity to work on meaningful numerical prediction applications for the public good. 
-
-The R2O Weather, Marine and Climate Model team shares responsibilities amongst its members as needs and priorities change. Members of the team have opportunities to work in the Bureau's High-Performance Computing (HPC) environment, stretch their analytical and programming skills in solving challenging problems, develop expertise in a wide range of operational numerical prediction systems. 
-
-Application Closing Date: Tuesday, 11 November 2025
-
-For further information please review the position description on 
-
-https://bomcareers.nga.net.au/?jati=429BDAAB-87C7-D2AB-255D-E44ECDD105D6"
-88154534,AI Engineer - Agentic AI,Opus Recruitment Solutions,https://www.seek.com.au/job/88154534?type=standard&ref=search-standalone&origin=jobCard#sol=06a8f1b3b43f08e0b0d437272f4c4944443ac835,4h ago,4.0,2025-10-28T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $200k per year + super,"About the job
-
-
-
-
-A forward-thinking AI consultancy is seeking a talented AI Engineer to join their Melbourne-based team. This is a unique opportunity to work at the forefront of generative AI and agentic automation, building intelligent systems that drive real impact across enterprise environments.
-
-
-
-
-About the Role
-
-As an AI Engineer, you’ll be instrumental in designing, developing, and deploying production-grade AI agents and applications. You’ll work with large language models, integrate them into enterprise systems, and build secure, scalable solutions that are both innovative and reliable.
-
-This role sits within a collaborative, fast-paced engineering team that values autonomy, experimentation, and shared learning. You’ll be trusted to take ownership of your work while contributing to a culture of openness and curiosity. Ideas move quickly from prototype to production, and your contributions will be felt across ambitious client organisations.
-
-
-
-
-Key Responsibilities
-
-Develop and deploy AI-powered applications and agent-based systems
-
-Integrate LLMs with enterprise data sources and APIs using orchestration frameworks
-
-Implement observability, evaluation, and monitoring tools to ensure reliability and compliance
-
-Collaborate with cross-functional teams to define features and deliver incremental value
-
-Prototype new capabilities and contribute to internal tooling and frameworks
-
-Support DevOps practices including Terraform, CI/CD, and infrastructure-as-code
-
-
-
-
-What We’re Looking For
-
-Strong full-stack engineering experience with a track record of building complex applications
-
-Proficiency in Python and modern front-end frameworks (e.g., React, TypeScript)
-
-Hands-on experience with LLM and agent frameworks (e.g., LangGraph, ADK)
-
-Solid understanding of cloud infrastructure and deployment practices (e.g., containerisation, serverless, Terraform)
-
-Familiarity with agile methodologies and software architecture best practices
-
-
-
-
-Bonus Skills
-
-Experience with observability and evaluation tools for LLMs
-
-Background in deploying and operating production-scale applications
-
-
-
-
-How to Apply
-
-If you're passionate about AI and excited to work on cutting-edge systems, we’d love to hear from you. Please submit your resume and a cover letter outlining your interest in AI technologies and any relevant projects or experiences."
-88154159,Senior Data Scientist,Commonwealth Bank - Retail Banking Services,https://www.seek.com.au/job/88154159?type=standard&ref=search-standalone&origin=jobCard#sol=d11c5e7a72adfc917033f44245a198a254192599,4h ago,4.0,2025-10-28T04:00:00+00:00,"Eveleigh, Sydney NSW",Other (Engineering),Full time,,"Do work that matters
-
-As a Data Scientist within Home Buying, you will assist in the development, monitoring, implementation and management of AI and Machine Learning models supporting one of the largest Retail Banking divisions in Australia.
-
-From applying models and analytical techniques to better support decision management functions, to activating agent-oriented AI design patterns for better automation and driving real results, you will be familiar with the latest and most exciting patterns in AI and Data Science development that may support this mission objective.
-
-
-See yourself in the team
-
-Our team values collaboration, growth, and learning. We proactively share the latest ideas and innovations, and we are passionate about data and modelling. Together, we creatively solve a wide variety of challenges united by our passion to deliver what customers want in a rapidly changing world.
-
-You will work closely with key stakeholders to ensure that models are accurate and aligned with the strategic direction of the business. Your AI and Data Science perspective will be informed by your experience in the financial services or financial technology domains.
-
-
-We are seeking people who are:
-
-Passionate about developing market-leading commercial applications that utilise the latest AI techniques to improve work productivity and provide the best customer service!
-Excited about tackling new, challenging business problems in AI, as well as evolving existing products and capabilities.
-Adept at using a combination of commercial and technical AI models to find unique solutions that add strategic value to the business.
-Collaborative in nature, working with product teams, curious enough to solve real-world problems, and courageous in positively influencing senior stakeholders.
-Self-motivated and driven leaders of work that can effectively collaborate and support teams of other data scientists.
-
-Tech skills:
-
-We use a broad range of tools, languages, and frameworks, and appreciate the fast-evolving industry we are in. While we don't expect you to know them all, hands-on experience or exposure to Generative AI and Agentic AI will set you up for success in this role, with demonstration of successful AI applications and business cases in commercial and/or retail settings highly preferred.
-
-A minimum of 5 years of solid foundational experience delivering projects within Data Science, ML models, and/or AI within a Technology or Financial Services organisation (or equivalent large-scale organisation) is preferred.
-Proficiency in statistical machine learning using Python and SQL for big data analysis. Experience using Cloud platforms such as AWS SageMaker, Microsoft Azure, Snowflake and/or Google Cloud Platform (GCP) would also be beneficial.
-Expertise in designing and constructing Machine Learning models, including but not limited to experience in feature engineering, model selection, hyperparameter tuning, model evaluation, deployment and monitoring. Proficiency in leveraging AI-enhanced data science pipelines, e.g. Roocode/Cline, etc. would also be beneficial.
-
-
-If this role sounds like you - Apply now!
-
-Whether you're passionate about customer service, driven by data, or called by creativity, a career here is for you.
-
-Our people bring their diverse backgrounds and unique perspectives to build a respectful, inclusive and flexible workplace. We are working hard to build a team of people who represent the rich diversity of our customers and communities. If you're excited about this opportunity but you don't meet every single requirement, or your experience doesn't align perfectly, we still want to encourage you to apply. You may just be the perfect candidate for this opportunity or another within CommBank.
-
-At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
-
-We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career."
-88153761,Observability Engineer (Elastic) - Financial Services,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88153761?type=standard&ref=search-standalone&origin=jobCard#sol=3d7906f4849a0e33a5cfec29f79358ab8f6eec35,4h ago,4.0,2025-10-28T04:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,$150000.00 - $175000.00 p.a.,"A leading Financial Services provider is seeking an Observability Engineer with strong Elastic (Elasticsearch, Logstash, Kibana etc) experience to join their team on a permanent basis.
-
-Joining a newly created team, you will be responsible for supporting and maintaining their observability platforms which are used across their entire application and infrastructure environments. This includes proactive monitoring, anomaly detection and triaging and root cause analysis using the Elastic Stack.
-
-Other responsibilities will include:
-
-Developing / maintaining Kibana dashboards
-Integrating logs, metrics, traces and synthetics into the observability pipeline
-Implementing machine learning models for anomaly detection and predictive insights
-Maintaining the health of the observability system
-Supporting incident response with actionable insights for post-mortem analysis
-
-To be successful in this role you will need:
-
-Tertiary qualifications and/or relevant industry certifications
-Demonstrated experience working within observability and/or monitoring within large, complex environments
-Advanced knowledge and hands-on experience with the Elastic Stack (Elasticsearch, Logstash, Kibana, Beats, APM)
-Solid scripting skills with the ability to build CI/CD pipelines
-Exceptional problem solving and troubleshooting skills
-Excellent verbal and written communication skills
-
-In return my client is offering:
-
-Hybrid work from home / office
-Attractive salary package
-Fantastic team environment
-
-To be considered for this exciting opportunity, please apply online now!"
-88148103,Systems Engineer,Emmbr,https://www.seek.com.au/job/88148103?type=standard&ref=search-standalone&origin=jobCard#sol=0dda97f5d5b412c1f5a6a05f08f467eb206b23e7,7h ago,7.0,2025-10-28T01:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Contract/Temp,,"Organisation going through large tech transformation
-Hybrid working - Melbourne CBD
-12-month fixed term contract (+ likely extension)
-
-This is an amazing opportunity for a Systems Engineer to join a critical infrastructure team in a newly created role, focused on driving operational efficiency and supporting a multi-year digital transformation.
-
-This Engineer will be a crucial part of the infrastructure function, responsible for the support, implementation, and maintenance of the IT systems.
-
-About You
-
-Strong experience with Windows servers, and VMware
-Hands-on experience with core M365 services, including Entra ID (Azure AD) and permissions management.
-Experience with Intune for App packaging/deployment and device management.
-Knowledge of Vulnerability Patch Management and security remediation tasks.
-Hands on Azure experience viewed favourably.
-Skilled in Level 3 troubleshooting of complex infrastructure incidents.
-Take pleasure in automating and simplifying tasks.
-
-About the Role
-
-Working on both BAU tasks (e.g. daily health checks, L3 escalations) whilst also contributing to infrastructure focussed projects.
-Providing Level 3 troubleshooting and incident resolution for infrastructure tickets.
-Developing and managing Conditional Access Policies.
-Collaborating closely with the Service Desk and Security team to streamline operations.
-Being actively encouraged to automate/simplify tasks to improve team efficiency.
-
-If you're looking for your next opportunity to apply your Systems Engineering skills in a high-impact environment, apply now!"
-88147325,Software Implementation Consultant - Global SaaS Fintech - North Sydney,MVSI OnBoard,https://www.seek.com.au/job/88147325?type=standard&ref=search-standalone&origin=jobCard#sol=6616cfbec4432180770683ad2a7bf48800bed34b,7h ago,7.0,2025-10-28T01:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Consultants (Information & Communication Technology),Full time,,"About MVSI:
-Meet MVSI, Managed Verification Services International.
-
-At MVSI, we are redefining compliance, risk management, and innovation on a global scale. With a presence across Australia, Europe, the US, and Asia, we operate in a fast-paced, high-growth environment where precision, accountability, and forward-thinking leadership drive everything we do. Our team thrives on setting new benchmarks, exceeding expectations, and delivering solutions that shape the future of the industry. If you’re looking for an opportunity to make a meaningful impact and grow with a company that moves fast and leads with purpose, MVSI is where you belong.
-
-Are you a problem-solver who thrives at the intersection of tech and client success? Want to work remotely for a fast-growing global SaaS company that's transforming how organizations handle compliance and onboarding?
-
-At MVSI (Managed Verification Services International), we help major enterprises across the globe streamline their KYC, AML, and compliance processes with powerful, flexible software solutions. We're growing fast and looking for smart, driven Implementation Consultants to help us keep up the momentum.
-
-Candidates with around 3 years of experience implementing SaaS solutions will thrive in this role. We value those who can bring proven experience to the table while remaining hungry to learn, grow, and tackle new challenges alongside an evolving team.
-
-What You’ll Do:
-
-You will be 'hands on' managing client onboarding and implementation of our SaaS platform, from discovery through to go-live.
-
-Understand client needs (especially in compliance spaces like KYC and AML) and configure the software to meet them.
-
-Collaborate with internal teams (Product, Dev, Support) to ensure smooth integrations and rollouts.
-
-Manage data migrations and timelines with precision.
-
-Deliver client training, support, and documentation to ensure adoption and long-term success.
-
-Act as a trusted advisor and solution expert to clients around the world.
-
-What You Bring:
-
-Experience implementing SaaS platforms or enterprise software solutions.
-
-Confidence managing multiple projects and stakeholders at once.
-
-Familiarity with system integrations, data mapping, and configuration.
-
-Excellent communication and client-facing skills — you're calm under pressure and love problem-solving.
-
-Bonus: experience in fintech, compliance, or onboarding solutions.
-
-Why MVSI?
-
-International exposure - clients and colleagues around the world
-
-High-growth company - opportunities for career advancement as we scale
-
-Competitive pay + professional development support
-
-Hybrid opportunities available after probation
-
-Free snacks in our North Sydney head office, and a quarterly staff team building outing"
-88146187,Observability Engineer- Elastic Stack- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88146187?type=standard&ref=search-standalone&origin=jobCard#sol=38c21af4da7e853dc55835d4aa79d13adec7bf0f,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,"$170,000-$175,000 + super + bonus","A major bank in Sydney is seeking a Senior Observability Engineer to join their team on a permanent basis.
-The purpose of the Observability Engineer role is to support and maintain an enterprise-grade observability platform using the Elastic Stack. This role ensures full-stack visibility across infrastructure and applications, enabling proactive monitoring, anomaly detection, and root cause analysis to support operational excellence and business continuity.
-Responsibilities:
-
-Integrating logs, metrics, traces, and synthetics into a unified observability pipeline
-Developing and maintaining Kibana dashboards, visualizations, and alerting mechanisms aligned with SLIs and SLOs.
-Implementing machine learning models for anomaly detection and predictive insights, as well as optimizing data ingestion, transformation, and storage to enhance system performance.
-Maintaining the health of the observability system and supporting incident response with actionable insights for post-mortem analysis will also be key responsibilities.
-Key Skills / Experience:
-
-5+ years proven experience with Elastic Stack (Elasticsearch, Logstash, Kibana, Beats, APM) 
-Strong knowledge of observability concepts: logs, metrics, traces, SLIs/SLO.
-Experience with data ingestion pipelines, parsing, enrichment, and indexing.
-ML/Anomaly detection strategies.
-Desirable:
-
-OTEL experience.
-App D
-ITIL
-CI/CD
-Automation/Coding.
-Experience with containerised environments.
- 
-If interested please respond ASAP with your latest resume"
-88149483,AI Platform Support Specialist,EML Group,https://www.seek.com.au/job/88149483?type=standard&ref=search-standalone&origin=jobCard#sol=8820c429118bb2e1f19f0ede4af7e55d15991f04,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"EML is a leading Workers Compensation and Personal Injury Claims Management business. Our goal is to help people get their lives back through ongoing support during their return-to-work journey. We continue to experience ongoing growth and now have over 4,000 dedicated employees. We foster a learning culture that allows for us to continually invest in our employees ensuring a long-term career here at EML.
-
-THE OPPORTUNITY
-
-As we expand, our Technology team is growing rapidly, driving innovation in AI for Workers Compensation. We're transforming the industry with cutting-edge solutions that enhance claims management, improve outcomes, and streamline processes.
-
-At EML, we foster a learning culture, investing in our people to build long-term careers while shaping the future of technology in our sector.
-
-The AI Platform Support Specialist (Prompts & Workspaces) is responsible for maintaining and optimising LLM-powered applications from a front-end perspective, ensuring document repositories are curated to deliver accurate results while also developing and fine-tuning the prompts that power each workspace.
-
-Working closely with Product, AI/ML, and Operations teams, you will play a key part in shaping how knowledge is managed and surfaced across the platform ensuring delivery of a reliable, intuitive and effective application experience.
-
-This position sits within the broader M365/Modern Apps team, which oversees and supports platforms such as M365, SharePoint, Power Automate, and Atlassian applications. As part of the role, you will also gain exposure to these areas, with roughly 25% of your time dedicated to contributing to their build, governance and support.
-
-This will be a permanent, full time position based in the Sydney office, with flexibility to work from home up to 3 days per week.
- 
-
-YOUR RESPONSIBILITIES
-
-Maintain and support AI/LLM platforms, ensuring performance, usability, and security compliance.
-Act as the key contact for user and incident support, resolving issues and documenting fixes.
-Design, test, and refine prompts to optimise AI model accuracy and user experience.
-Manage document repositories and technical documentation, including runbooks and diagrams.
-Collaborate with developers, DevOps, and product teams to deliver platform improvements.
-Contribute to process, security, and compliance enhancements aligned with APRA CPS 234 and ISO 27001.
- 
-
-ABOUT YOU
-
-3–5 years’ experience in application or platform support, ideally within AI, data, or tech environments.
-Strong understanding of LLMs, APIs, integrations, and general cloud-based application management.
-Proven ability to troubleshoot complex issues and deliver timely, high-quality resolutions.
-Experience with documentation, knowledge management, or technical writing.
-Familiarity with security and compliance frameworks such as APRA CPS 234 or ISO 27001.
-Collaborative mindset with excellent communication skills and a passion for innovation.
-
-WHAT WE OFFER
-
-
-We stand together as equals. EML is an equal opportunity employer so by coming to work for us, you will be part of a culture that celebrates diversity and inclusion. We are committed to maintaining a workplace where everyone feels valued and where we show respect, integrity and honesty.
-
-
-EML provides career opportunities and great employee benefits, including:
-
-A vibrant, collaborative innovative team culture
-
-Flexibility with opportunity to WFH when you are fully trained in your role.
-
-A corporate wellbeing program with discounted health insurance and gym membership
-
-Access to discounts at over 350 retailers through our Rewards Hub program
-
-Entitlement to an annual tenure and performance-based recognition reward
-
-Comprehensive learning and development support
-
-Companywide events to celebrate success.
-
-Quarterly Reward and Recognition Awards
-
-Up to 16 weeks paid parental leave, plus super
-
-
-
-We value our people and are committed to supporting our employees by investing in their professional development and providing generous employee benefits. If this position is of interest to you, please apply now."
-88145959,Agentic/ Gen AI Engineer,Delivery Centric Pty Ltd,https://www.seek.com.au/job/88145959?type=standard&ref=search-standalone&origin=jobCard#sol=610654ee9d7c7db7f8ec1a7da366f6b998e1577a,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About the Role
-
-We’re looking for an experienced Senior Generative AI Engineer to design, build, and deploy enterprise-grade GenAI and agent-based solutions in cloud environments.
-You’ll work on cutting-edge projects integrating LLM frameworks, multi-agent orchestration, and secure cloud architectures, helping transform AI innovation into scalable enterprise applications.
-
-This is a hands-on engineering role ideal for someone passionate about Python, AWS, and modern AI frameworks, with a strong focus on security, observability, and performance.
-
-Key Responsibilities
-
-Build and deploy Generative AI and Agentic AI systems using LangChain, LangGraph, and Semantic Kernel.
-
-Design scalable ML pipelines using AWS SageMaker and integrate with AWS Bedrock for model hosting and inference.
-
-Develop and secure backend APIs using FastAPI, implementing OAuth and RBAC for access control.
-
-Containerize and orchestrate workloads using Docker and Kubernetes (EKS/ECS).
-
-Apply prompt engineering, fine-tuning, and model optimization for real-world use cases.
-
-Integrate data solutions with PostgreSQL and Snowflake.
-
-Contribute to CI/CD pipelines, ensuring enterprise-grade observability and testing standards.
-
-Work closely with cross-functional teams to deliver AI-driven solutions in regulated environments such as banking and finance.
-
-Must-Have Skills
-
-Languages: Python (primary), FastAPI
-
-Containers: Docker, Kubernetes (EKS/ECS)
-
-Security Models: OAuth, RBAC
-
-LLM Frameworks: LangChain, LangGraph, Semantic Kernel
-
-Machine Learning Platform: AWS SageMaker (model build, train, deploy)
-
-Model Hosting: AWS Bedrock; Hugging Face experience is advantageous
-
-Databases: PostgreSQL, Snowflake
-
-Cloud Expertise: AWS (AI and infrastructure services)
-
-Nice-to-Have Skills
-
-Frontend: React, Next.js
-
-Additional Languages: Scala, Java, R
-
-Domain Experience: Banking, financial services, fraud detection, or conversational AI"
-88145804,Lead Architect,CircuIT Recruitment Group,https://www.seek.com.au/job/88145804?type=standard&ref=search-standalone&origin=jobCard#sol=a669ffb7bdd7b6b4a53a9c52bd925d0ab7d6c6c8,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Lead Architect - Major EMR Transformation
-
-The Opportunity
-An exciting and high impact & visibility opportunity to join the team as Lead Solutions Architect for a large-scale EMR implementation program. You'll design the end-to-end solutions architecture for this major healthcare transformation from the ground up. With the program still in the design phase, you'll have genuine opportunity to shape strategy and architecture
-  
-This is a significant program with board-level visibility. Working within a flat, collaborative team structure, you'll have direct executive exposure through regular leadership reporting, while working alongside heavily skilled members who've delivered EMR implementations before. You'll have high autonomy with genuine ownership of your domain!
-
-The Role
-Contract: 12 months fixed-term with high confidence for extension
-Salary: Up to $250K including Super for the right candidate
-Location: Based anywhere in Australia with full working rights; Sydney metro area preferred
-
-What You'll Need
-Must-Have Technical Experience:
-
-Proven EMR implementation experience 
-Experience with major EMR platforms (Epic, Oracle/Cerner, or similar) 
-Strong understanding of healthcare technology architecture and standards
-Deep expertise in HL7, FHIR, APIs, and healthcare integration standards
-Experience with Identity and Access Management (IAM) design
-Networking and infrastructure architecture knowledge
-End-to-end solution design capabilities
-Design & Communication Capabilities:
-
-Create architecture diagrams (high-level to low-level)
-Write technical design documentation
-Translate complex technical concepts to executives in simple, clear language
-Strong executive presence and stakeholder management
-The ideal candidate
-This program is in the design phase with requirements coming through in stages, creating an opportunity to genuinely shape the architecture direction. We're looking for someone who's comfortable in evolving environments and enjoys collaborative problem-solving within our flat team structure.
-
-You'll be a proactive communicator who's confident engaging with stakeholders across all levels - from technical teams to executives - and can articulate complex concepts in simple, clear language. A team-player approach is essential, along with the persistence and ownership mindset to drive solutions forward. If you're energised by building something from the ground up and thrive in dynamic, high-visibility environments, this is your opportunity.
-  
-Ready to Apply?
-If you've got EMR implementation experience, deep technical expertise in healthcare integration standards, and thrive in collaborative, fast-moving environments - I want to hear from you. 
- 
-Please apply to the link below"
-88145337,Entra ID- SME x 2 – Up to $1350 + super per day- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88145337?type=standard&ref=search-standalone&origin=jobCard#sol=e3a0168803029bd4e808dc751d7f1663baa87357,8h ago,8.0,2025-10-28T00:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,AUD 1300 - 1400 per day,"A major bank is currently seeking 2 Senior Entra ID SME's Engineers.
-
-These are initial 6 month contract that can be based in Sydney or Melbourne.
-
-The organisation is embarking on a significant modernisation and transformation program focused on AI, Microsoft Copilot, and next-generation digital workplace solutions.
-
-Responsibilities:
-
-Take the lead in complex work projects, including estimation, design, installation, configuration, integration and productionising
-Prioritise rapid, automated and safe deployment of technical solutions.
-Drive the modernisation of authentication and authorisation frameworks across enterprise systems.
-Contribute to the continuous improvement of DevSecOps practices and CI/CD pipelines.
- 
-Tech skills
-
-Expert EntraID, Modern Authentication and Authorisation protocols. -Architecure, Design and delivery
-AI experience
-Strong DevSec Ops experience
-Expert Scripting/Powershell skills
-Expert IAM principles and ecosystem
-Experience working with Infrastructure as Code using tools
-CI/CD and automation tools like Github, GitHub Actions, TeamCity, CI/CD pipeline desirable.
-Financial Services desirable
-Please reply ASAP with your latest CV if interested"
-88145336,Entra ID- SME x 2 – Up to $1350 + super per day- Major Bank,Bluefin Resources Pty Limited,https://www.seek.com.au/job/88145336?type=standard&ref=search-standalone&origin=jobCard#sol=97cfbf031894889b2f74b50307b40862455b8919,8h ago,8.0,2025-10-28T00:00:00+00:00,Melbourne VIC,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,AUD 1300 - 1400 per day,"A major bank is currently seeking 2 Senior Entra ID SME's Engineers.
-
-These are initial 6 month contract that can be based in Sydney or Melbourne.
-
-The organisation is embarking on a significant modernisation and transformation program focused on AI, Microsoft Copilot, and next-generation digital workplace solutions.
-
-Responsibilities:
-
-Take the lead in complex work projects, including estimation, design, installation, configuration, integration and productionising
-Prioritise rapid, automated and safe deployment of technical solutions.
-Drive the modernisation of authentication and authorisation frameworks across enterprise systems.
-Contribute to the continuous improvement of DevSecOps practices and CI/CD pipelines.
- 
-Tech skills
-
-Expert EntraID, Modern Authentication and Authorisation protocols. -Architecure, Design and delivery
-AI experience
-Strong DevSec Ops experience
-Expert Scripting/Powershell skills
-Expert IAM principles and ecosystem
-Experience working with Infrastructure as Code using tools
-CI/CD and automation tools like Github, GitHub Actions, TeamCity, CI/CD pipeline desirable.
-Financial Services desirable
-Please reply ASAP with your latest CV if interested"
-88144856,Solution Architect - IT Automation,Brunel,https://www.seek.com.au/job/88144856?type=standard&ref=search-standalone&origin=jobCard#sol=6db4e8dc903da6961f79f74157dd4befafdf532c,9h ago,9.0,2025-10-27T23:00:00+00:00,Brisbane QLD,Architects (Information & Communication Technology),Contract/Temp,Competitive day rate,"As the IT Automation Solutions Architect, you will be responsible for designing, developing, and implementing the current and future state architecture blueprints for the IT Automation Chapter across the Rio Tinto portfolio. This role plays a pivotal part in shaping the automation strategy, ensuring alignment with Rio's Digital Strategy and governance frameworks, and driving the successful adoption of AI Ops, monitoring, and cross-platform automation initiatives. You will bridge the gap between business objectives and technical delivery translating complex requirements into scalable, secure, and cost-efficient solutions that enable operational excellence and digital transformation across IT and OT environments.
-
-The Role May Need To:
-
-Develop Current State and Future State Architecture Blueprints for the IT Automation Chapter, factoring in ten (10) work packages across the portfolio with supporting capability analysis and technical specifications.
-Design and document Monitoring Tool Architectures, including the introduction of new AI Ops MVP solutions and Event Management Monitoring Tools, detailing existing build states within the Rio Tinto environment.
-Develop and maintain Automation Pattern Designs to capture current-to-future state transitions, collaborating closely with the AMSR Team and key dependency groups.
-Create Cross-Platform Automation Design Patterns to align customer service lines with IT Automation delivery objectives and ensure architectural consistency.
-Develop Infrastructure Cost Models to support cost estimation for decommissioning or optimization scenarios (e.g., when VMs, servers, or networks are switched off).
-Proactively identify gaps in architecture processes within the Automation Chapter and propose practical solutions to improve governance, standardization, and efficiency.
-Chair Design Authority reviews for automation pattern publishing and provide technical leadership across design submissions, including CAB and ARB governance forums.
-Provide timely technical advice and tangible solutions to automation challenges across Cyber, IDM, and Network domains, ensuring dependencies are managed and delivery risks are mitigated.
-Maintain architecture documentation and design artefacts within the defined SharePoint structure, ensuring traceability and alignment with project work packages.
-Develop a 12-month Architecture Roadmap highlighting key automation and monitoring initiatives by priority and business impact.
-Actively participate in team syncs, workshops, and ADO Kanban ceremonies, collaborating effectively with global teams across multiple time zones.
-
-Profile
-
-About You:
-
-Relevant tertiary qualifications in Information Technology, Computer Science, Engineering, or a related field.
-Demonstrated experience delivering automation and monitoring architecture solutions within large-scale enterprise or mining industry environments.
-Strong understanding of AI Ops, event management, and monitoring tool architectures, with proven experience in developing automation patterns and frameworks.
-Proven ability to lead architectural design sessions, governance forums (CAB, ARB), and cross-functional solution reviews.
-Excellent analytical, communication, and stakeholder management skills, with the ability to translate business needs into clear, actionable technical outcomes.
-Strong collaboration skills to engage with cyber security, identity management, and networking teams to resolve complex automation dependencies.
-Experience working with Microsoft Azure, automation frameworks (e.g., Power Automate, Ansible, Terraform), and ITSM platforms is highly desirable.
-Flexibility to work with global teams across time zones and adapt to evolving priorities in a dynamic environment.
-The IT Automation Solutions Architect Will Also Have At Least 10 Years' Experience
-
-Job Offer
-
-Salary sacrificing
-Employee Assistance Program (EAP)
-Corporate discounts
-
-About Brunel:
-
-Brunel is a recruitment and flexible workforce solution provider which connects talented people with opportunities throughout Australasia and around the world. We specialise in highly skilled roles across a variety of technical, professional, trades and craft disciplines, pairing candidates with industry-leading projects and organisations on a contract, permanent or secondment basis.
-
-Operating in Australasia since 1997, Brunel has major bases of operation in Perth, Sydney, Brisbane, Melbourne and Port Moresby, which are further backed by the strength and reach of a truly global network spanning over 45 countries, 120 offices and 50 years of successful operation.
-
-Brunel is proud to be equal opportunity employer and encourages applications from Aboriginal and Torres Strait Islander and female candidates.
-
-Do you have questions?
-
-If you have any questions or would like to discuss the details of this role, please contact Terence Gomes on t.gomes@brunel.net"
-88144604,Senior ETL developer,Ignite,https://www.seek.com.au/job/88144604?type=standard&ref=search-standalone&origin=jobCard#sol=8c5be858fc0f7123bfd0a95a9147428de72acf28,9h ago,9.0,2025-10-27T23:00:00+00:00,"Bruce, Canberra ACT",Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive,"We’re seeking an experienced ETL Developer to join a large federal government department’s Data Integration & Engineering team. You’ll play a key role in designing, developing, and supporting ETL processes that enable accurate, timely, and secure data insights across multiple domains.
-
-About the Role
-
-In this role, you will:
-
-Develop, enhance and support ETL procedures for data integration and reporting.
-Analyse and resolve production incidents, perform data profiling and impact analysis.
-Design, develop, test and document ETL processes and database components.
-Collaborate with cross-functional teams to deliver quality data solutions and improvements.
-Provide technical guidance, documentation, and knowledge transfer to internal staff.
-About You
-
-You’re a hands-on Software Engineer who thrives in a data-focused environment and enjoys problem-solving across large-scale, complex systems.
-
-You will bring:
-
-Proven experience developing and supporting ETL workflows and data pipelines.
-Strong SQL skills and experience with enterprise data warehouse platforms.
-Experience with IBM DataStage or similar ETL tools.
-Familiarity with scripting tools (Perl, SQL, UNIX Shell) and Python.
-Understanding of SDLC, CI/CD, and ITIL frameworks.
-NV1 or Baseline security clearance (or the ability to obtain one).
-What’s on Offer
-up to June 30 2026 with 12 months potential extensions.
-Canberra-based, flexible work arrangements available.
-Work on high-impact federal data integration projects.
-Collaborative and supportive technical environment.
-If you’re an experienced ETL Developer or Software Engineer looking to contribute to major data initiatives across government, we’d love to hear from you.
-
-Apply now or contact Sarah Alamillo at Ignite on (02) 6113 7537 or sarah.alamillo@igniteco.com for a confidential discussion.
-
-
-Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
+Degree in Computer Science, IT, or a related field (preferred)"
