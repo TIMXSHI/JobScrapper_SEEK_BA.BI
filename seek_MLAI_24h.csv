@@ -1,5 +1,171 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88220342,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/88220342?type=standard&ref=search-standalone&origin=jobCard#sol=5d2ebc5ea74e52348cc1586077cfec136daaf6d8,9h ago,9.0,2025-10-30T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Consultants (Information & Communication Technology)
+88226455,Senior Embedded Software Engineer,Johnson Controls,https://www.seek.com.au/job/88226455?type=standard&ref=search-standalone&origin=jobCard#sol=50c51057f5c18dbc086718689960f86f34267b26,1h ago,1.0,2025-10-31T01:00:00+00:00,"Rydalmere, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"The company:
+
+Johnson Controls is a global diversified technology and multi-industrial leader serving a wide range of customers in more than 150 countries. Our 135,000 employees create intelligent buildings, efficient energy solutions, integrated infrastructure and next generation transportation systems that work seamlessly together to deliver on the promise of smart cities and communities. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat. We are committed to helping our customers win and creating greater value for all of our stakeholders through strategic focus on our buildings and energy growth platforms. For additional information, please visit www.johnsoncontrols.com or follow us @johnsoncontrols on Twitter.
+
+We are seeking a highly motivated self-starter with a “can do” approach and solid embedded C software design and development skills to join our Traffic and Transportation division in the Traffic Product Development Team. This role is ideal for someone with a solid foundation in safety critical real time controls systems who thrives on providing innovative solutions for our customers.
+
+In this role, you will be working very closely with a multidisciplinary engineering team in a hands-on role at Rydalmere. This is an exciting opportunity to highlight your software real time design and development skills.
+
+If you’re passionate about delivering exceptional new and improved designs and want to be part of a business that values proactive thinking — this is the opportunity for you!
+
+About this opportunity:
+
+We need a Senior Embedded Software Engineer to perform the design and development of embedded control systems for Traffic Signal Controllers. This role requires expertise in safety-critical embedded software, digital hardware integration, and control systems design, with an emphasis on compliance with SIL2 (IEC 61508) safety standards.
+
+The successful candidate will combine strong low-level C programming skills with the ability to understand and influence hardware design (primarily digital electronics), while ensuring fail-safe and reliable performance for Traffic Signal Controllers.
+
+How you will do it:
+
+Design and implement safety-critical embedded software for Traffic Signal Controllers in compliance with SIL2 (IEC 61508 / ISO 26262).
+
+Develop and validate conflict monitoring, phase control, and lamp monitoring algorithms for Traffic Signal Controllers.
+
+Collaborate with hardware engineers in the design of fault-tolerant digital interfaces (GPIO, latching outputs, watchdogs, memory functionality, reliable flash chip programming).
+
+Lead system integration across MCUs, SoCs, and RTOSs
+
+Develop and execute debug code to verify designs/ customer requirements.
+
+Implement and maintain communication protocols (SCATS, NEMA TS2, ITS standards, CAN, Ethernet) for roadside devices and central system integration.
+
+Develop web-based interfaces for local and remote-control functionality.
+
+Ensure robust secure communications, OTA firmware updates, and diagnostics for long-term field deployments.
+
+Participate in safety case documentation: hazard analysis, FMEA/FMELA, traceability, and compliance with certification bodies.
+
+Mentor junior software engineers and perform peer reviews of designs and code.
+
+Produce design, architecture, verification, validation and software release documentation.
+
+What we look for:
+
+Essential:
+
+Proven experience (10 years+) developing embedded software for SIL2 (or higher) safety-critical systems, preferably in transportation, rail, or industrial control.
+
+Strong C programming skills for MCUs and real-time operating systems, with demonstrable ability implementing algorithms and debugging hardware/ software interactions using oscilloscopes, logic analysers, and bus analysers.
+
+Deep understanding of digital electronics and I/O design, including watchdogs, fail-safe states, redundancy, and EMC considerations.
+
+Familiarity with protocols and standards in the traffic and transport domain (SCATS, NEMA TS2, ITS, CAN, Ethernet, Modbus, RS-485).
+
+Hands-on experience with real-time simulation, and fault injection for validation of safety systems.
+
+Contribution to safety case documentation and engagement with external certification authorities/auditors.
+
+Demonstrated ability to integrate embedded Linux (desirable) for communications/ UI while keeping safety functions isolated on RT cores/ MCUs.
+
+Desirable:
+
+Experience with traffic control algorithms, conflict detection, phase timing, and intergreen intervals.
+
+Experience in secure boot, OTA update frameworks (RAUC/OSTree), and cybersecurity for embedded systems.
+
+Exposure to Yocto/Buildroot, RTOS (Micrium, FreeRTOS), or dual-core MCU + Linux SoC designs.
+
+Prior work in roadside, rail, transport systems or medical fields with harsh environment constraints.
+
+Only those candidates the Company (recruitment Agency Company) introduces to JCI by resumes on JCI’s Talent Acquisitions team’s explicit request will be deemed a candidate referred by the Company.
+
+Please note pre-employment checks – including reference checks, medical, criminal record check, and drug & alcohol testing – will form part of the eligibility process.
+
+Only applicants who have a current right to work in Australia will be considered.
+
+How to Apply:
+
+Click on the APPLY button to submit your application in confidence.
+
+#LI-JS4"
+88226374,Ab Initio Data Engineer,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/88226374?type=standard&ref=search-standalone&origin=jobCard#sol=21e5f4b03607f7e41cf271ab738e8ffa70096a8c,1h ago,1.0,2025-10-31T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
+
+Are you ready to be an important part of this ever-transformational journey?
+
+At HCLTech Australia, we value the unique perspective and contributions of all individual and we actively encourage applications from Aboriginal and Torres Strait Islander people to apply for this role.
+
+Job Role Overview:
+
+Hands-on experience (at least 4-5 years, up to ~10 years) with building graphs/plans in Ab Initio, could be Continuous Flows or Batch or both. Recent/current experience preferred.
+
+Experience in improving Ab Initio graph performance.
+
+Experience in source control, code promotion techniques in Ab Initio.
+
+Hands-on experience using SQL (any RDBMS) and at least basic understanding of shell scripting.
+
+Understanding of database concepts – at least at a basic level.
+
+Fundamental knowledge on computing, network related concepts.
+
+Excellent analytical/aptitude skills - be able to quickly understand and comprehend problem statements and suggest appropriate technical solutions.
+
+Exposure to working in an Agile team structure.
+
+Excellent communication skills – Note that this doesn’t mean “excellent language skills”, we’re looking someone that can put across their thoughts clearly and respectfully.
+
+Preferred skills:
+
+Real-time applications and API driven development.
+
+Continuous Flows experience/strong conceptual knowledge.
+
+Experience with cloud hosted Ab Initio solutions.
+
+Secure coding practices.
+
+Why Us
+
+We are one of the fastest-growing large tech companies in the world, with offices in 50+ countries across the globe and 219,000 employees.
+
+Our company is extremely diverse with 165 nationalities represented.
+
+We offer the opportunity to work with colleagues across the globe.
+
+We offer a virtual-first work environment, promoting a good work-life integration and real flexibility.
+
+We offer comprehensive benefits for all employees.
+
+We are a certified great place to work and a top employer in 17 countries, offering a positive work environment that values employee recognition and respect.
+
+Equality & Opportunity for All
+
+Representing 165 nationalities across the globe, we pride ourselves on being an equal opportunity employer, committed to providing equal employment opportunities to all applicants and employees regardless of race, religion, sex, color, age, national origin, pregnancy, sexual orientation, physical disability or genetic information, military or veteran status, Aboriginal and Torres Strait Islander people or any other protected classification, in accordance with federal, state, and/or local law.
+
+Candidate Data Privacy Notice | HCL Technologies
+
+We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data.  By replying to this email or submitting any personal data to HCLTech, you acknowledge that you have read and understood the candidate privacy notice and  have  provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”."
+88226080,Senior Data Engineer,Morgan McKinley,https://www.seek.com.au/job/88226080?type=standard&ref=search-standalone&origin=jobCard#sol=da42b87dbc066fac0a2462cb3eeb982bf36d45a9,1h ago,1.0,2025-10-31T01:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,$1080 - $1090 p.d. + + Super,"AWS Data Engineer (Data Pipeline & Migration Focus)
+
+The senior data engineer will establish and implement the data engineering capability on a new AWS-based data platform.
+The engineer will design and build data pipelines, reporting solutions, and ETL processes, migrating data from legacy platforms (Omnia, Teradata) to strategic AWS-based data systems.
+
+Core Responsibilities
+
+Design, build, and maintain ETL/data pipelines using AWS native tools (Glue, Redshift, S3, Lambda, Step Functions).
+
+Support data migration from Teradata/Omnia to AWS.
+
+Develop and optimize Spark ETL jobs and data transformation logic.
+
+Deliver reporting data sets and data models for analytics teams.
+
+Collaborate with platform and analytics teams to ensure data reliability, scalability, and governance.
+
+Evaluate and propose improvements in data engineering and pipeline design.
+
+Key Requirements:
+
+5-10 years' experience in data engineering, with hands-on experience in AWS.
+
+Proven track record of building data pipelines and migrating from on-prem/legacy systems.
+
+Strong SQL, Spark, and Python developer.
+
+AWS Glue, Redshift, S3, Spark, PySpark, SQL, ETL orchestration."
+88220342,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/88220342?type=standard&ref=search-standalone&origin=jobCard#sol=ea298ea8ef7f4a3bc2b12d3275aeac7f64074caa,12h ago,12.0,2025-10-30T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Consultants (Information & Communication Technology)
 Government - State (Government & Defence)",Contract/Temp,"$136,035 - $145,990 per annum + super","What you'll do  
 
 Manage the design, planning and implementation of technical solutions, ensuring alignment with best practice IM/ICT design and delivery frameworks.
@@ -45,7 +211,7 @@ Our commitment to cultural safety, equity, diversity and inclusion means we unde
 Ready to apply? 
 
 For further information on how to apply please review the attached Role Description."
-88219666,AWS Data Engineer,Accenture,https://www.seek.com.au/job/88219666?type=standard&ref=search-standalone&origin=jobCard#sol=db8862e1bcacf15128b8454c94e618c9a115e708,10h ago,10.0,2025-10-30T13:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Job Description
+88219666,AWS Data Engineer,Accenture,https://www.seek.com.au/job/88219666?type=standard&ref=search-standalone&origin=jobCard#sol=ac97c3d12eed656adfdb82efb23a8b83e6070b83,12h ago,12.0,2025-10-30T14:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Job Description
 
 Great humans needed. Combine the best of your ingenuity and Cloud technologies to build a better world and manage clients towards change. Join us and do extraordinary things. 
  
@@ -113,7 +279,7 @@ We encourage applications from all people with the relevant skillset, and we are
 
 
 Learn how Accenture protects your personal data and know your rights in relation to your personal data. Read more about our Privacy Statement."
-88219665,AWS Data Engineer,Accenture,https://www.seek.com.au/job/88219665?type=standard&ref=search-standalone&origin=jobCard#sol=38bdc23fa4c3bbd6f6295911000a68f7a7dbf12e,10h ago,10.0,2025-10-30T13:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Full time,,"Job Description
+88219665,AWS Data Engineer,Accenture,https://www.seek.com.au/job/88219665?type=standard&ref=search-standalone&origin=jobCard#sol=d91c5e098dd38b5d4d81c9959a439315edee1abd,12h ago,12.0,2025-10-30T14:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Full time,,"Job Description
 
 Great humans needed. Combine the best of your ingenuity and Cloud technologies to build a better world and manage clients towards change. Join us and do extraordinary things. 
  
@@ -181,7 +347,7 @@ We encourage applications from all people with the relevant skillset, and we are
 
 
 Learn how Accenture protects your personal data and know your rights in relation to your personal data. Read more about our Privacy Statement."
-88219662,AWS Data Engineer,Accenture,https://www.seek.com.au/job/88219662?type=standard&ref=search-standalone&origin=jobCard#sol=682e28eab088e5da4cac4563bd9f346732cbbc89,10h ago,10.0,2025-10-30T13:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Job Description
+88219662,AWS Data Engineer,Accenture,https://www.seek.com.au/job/88219662?type=standard&ref=search-standalone&origin=jobCard#sol=222df41784b0b5b0a1d0c7a462c362f71a3f3fd7,12h ago,12.0,2025-10-30T14:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Job Description
 
 Great humans needed. Combine the best of your ingenuity and Cloud technologies to build a better world and manage clients towards change. Join us and do extraordinary things. 
  
