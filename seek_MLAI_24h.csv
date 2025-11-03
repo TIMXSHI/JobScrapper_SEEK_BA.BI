@@ -1,1 +1,824 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+88262831,Data Engineer,Six Degrees Executive Pty Ltd,https://www.seek.com.au/job/88262831?type=standard&ref=search-standalone&origin=jobCard#sol=34e9665262cc62e141169890d71b0986e4465190,1h ago,1.0,2025-11-03T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"A highly-regarded retail business is looking for a Data Engineer to help modernise their data platform and build out the next phase of their analytics capability. It’s a great opportunity for someone who enjoys being hands-on with cloud tech, driving data best practices, and partnering closely with business stakeholders to deliver meaningful insights. You’ll be joining a small but growing data team with strong leadership support and plenty of technical autonomy. This role will require 4 days per week in the office.
 
+The role
+You’ll design, build, and maintain scalable data pipelines in Azure Data Factory and Databricks, helping migrate legacy systems into a modern cloud data environment. There’s a strong focus on data quality, governance, and performance optimisation, so you’ll play a key role in shaping how the business collects, stores, and uses its data. Expect plenty of variety from optimising ETL processes to collaborating with analysts and DevOps to automate workflows and improve reliability across the data ecosystem.
+
+What you’ll bring
+5+ years’ experience in data engineering or related roles
+Solid experience with Azure Data Factory, Databricks, Microsoft Fabric, and SQL Server
+Strong understanding of data modelling, data warehousing, and ETL design
+Confident in SQL and Python, with some scripting (PowerShell or Bash)
+Experience building and maintaining data pipelines and APIs
+Understanding of data governance, security, and best practice design principles
+A collaborative, problem-solving mindset and ability to explain technical concepts clearly
+This role would suit someone who likes a mix of strategy and delivery. Someone who can roll up their sleeves to code, but also think critically about long-term data architecture and business impact.
+If you’re an experienced data engineer keen to join a collaborative team modernising their cloud data stack, I’d love to chat.
+
+Six Degrees Executive acknowledges the Traditional Custodians of the lands on which we work and live. We are also committed to equal opportunity and strive to promote diversity, inclusion, belonging, flexibility, and accessibility in all that we do.
+
+Should you require assistance in your interactions with us or through a recruitment process, please let us know so we can provide adjustments for you."
+88262615,Integration Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88262615?type=standard&ref=search-standalone&origin=jobCard#sol=e27531377c9c1462b945c619a84fe2bca2c72a7e,1h ago,1.0,2025-11-03T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,Competitive Salary + Great everyday discounts,"About us:
+
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
+
+
+About the role:
+
+As a Systems Integration & Test Engineer on the AIR6500 program, you’ll play a key role in integrating and validating the Joint Air Battle Management System (JABMS) – a next-generation capability that will connect Defence platforms, systems, sensors and effectors across the land, air, sea, space, and cyber domains. 
+
+In this role, you’ll take software builds from the development team and deploy them into integration environments and mission systems, supporting the creation and uplift of the Software Integration Lab. You’ll work across software, hardware, and infrastructure to ensure seamless system performance in complex operational environments. 
+
+Key Responsibilities
+
+Integrate, deploy and maintain complex Defence systems across multi-domain environments.
+
+Support the setup, maintenance and monitoring of integration environments and mission systems.
+
+Implement and manage CI/CD pipelines, automation and Infrastructure as Code (IaC).
+
+Conduct system integration thread tests and defect analysis, automating where possible.
+
+Support the configuration, audit and continuous improvement of integration environments.
+
+Collaborate within an agile team to plan, test and demonstrate system functionality and readiness. 
+
+ 
+
+About you:
+
+You’re an experienced integration engineer who thrives in complex, mission-critical environments. You’re comfortable bridging software and hardware, working across ICT networks, Linux environments, and modern DevSecOps pipelines. You bring:
+
+Strong background in Systems Integration and Test & Evaluation.
+
+Expertise in Linux System Administration, networking, scripting, and automation.
+
+Hands-on experience with CI/CD, IaC (Ansible, Terraform), and containerisation (Kubernetes, Docker).
+
+Experience working within Defence or complex engineering programs.
+
+Excellent problem-solving skills and a collaborative, solution-focused mindset.
+
+An active NV-1 security clearance and ability to handle Export Controlled information. 
+
+ 
+
+Why Join Us
+
+This is your opportunity to be part of an innovative program that’s redefining how Australia’s Defence systems interconnect and operate. You’ll work alongside some of the best minds in systems engineering and integration, contributing to a capability of national significance.
+
+
+How we reward and support you: 
+
+When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
+
+We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
+
+Flexible work & Hybrid work options
+
+Access to our online discounts program offering immediate discounts or cashback
+
+A variety of leave options including Purchase Leave to support you and your family  
+
+Additional benefits such as Annual Flu Vaccinations, Novated Leasing and Fitness Programs
+
+
+Special Requirements:
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace:
+
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
+
+Equal Opportunity Statement:
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees' unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+88262510,Azure Data Engineer,Cirql,https://www.seek.com.au/job/88262510?type=standard&ref=search-standalone&origin=jobCard#sol=e7a9863f485415154ec4b8690911628ae1f88267,1h ago,1.0,2025-11-03T01:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,"$150,000 - $180,000 + Superannuation","Job Summary
+
+Azure Data Engineer, design and maintain a modern Azure data platform for a community-focused org, shaping analytics and insights that drive real impact.
+
+ 
+
+About 
+
+Join a community-focused organisation that’s investing in its data to deliver better outcomes for the people and communities it serves. This is a place where data is used to understand real-world challenges, improve services, and enable evidence-based decisions.
+
+The organisation is undergoing a significant data transformation, modernising its analytics platform and connecting systems to create trusted, actionable insights. You’ll be part of a small, collaborative team that values curiosity, problem-solving, and practical engineering, with the opportunity to shape scalable, resilient, and cost-effective solutions that support business intelligence and operational decision-making.
+
+ 
+
+The Opportunity
+
+This is a hands-on role with responsibility for designing, building, and maintaining a modern enterprise data platform on Microsoft Azure. You’ll work closely with analysts, developers, and business stakeholders to ensure data is accurate, reliable, and accessible.
+
+The role suits someone who enjoys solving complex data problems, mentoring peers, and shaping scalable, cost-effective, and resilient data solutions.
+
+ 
+
+What You'll Do
+
+As an Azure Data Engineer, you’ll manage the organisation’s cloud data platform and support BI and analytics initiatives. Your work will ensure data is accessible, accurate, and ready for analysis, while also mentoring junior team members and collaborating with business teams.
+
+Design, develop, and manage a Data Warehouse on Microsoft Azure using SQL, Data Lake, and Data Factory.
+Build scalable, secure, and efficient ETL/ELT pipelines for multiple source systems.
+Model data to support reporting, dashboards, and operational insights.
+Ensure data quality, governance, and compliance across the platform.
+Mentor junior engineers and support BI developers and analysts.
+Monitor and optimise platform performance and cost efficiency.
+Collaborate with stakeholders, vendors, and service teams to support integration and analytics initiatives.
+Evaluate and implement new tools, processes, and best practices to continuously improve the platform.
+ 
+
+What You'll Bring
+
+You’ll combine deep technical expertise with a collaborative, problem-solving approach and an eye for quality and efficiency.
+
+5+ years’ experience in data engineering, with strong focus on Microsoft Azure (Azure SQL, Data Factory, Data Lake).
+Experience with ETL/ELT pipeline development and dimensional modelling.
+Strong SQL and T-SQL tuning experience.
+Knowledge of modern Data Warehouse architecture.
+Understanding of data governance, quality, and compliance practices.
+Strong communication skills,  able to explain technical concepts to non-technical stakeholders.
+Collaborative mindset and ability to mentor or guide peers.
+ 
+
+Desirable
+
+Microsoft Azure certifications (e.g., DP-203).
+Exposure to DevOps, CI/CD, and automated testing for data solutions.
+Knowledge of Power Platform or Dynamics 365 data architecture
+ 
+
+Why Join Us
+
+Be part of a team building cloud data solutions that directly improve service outcomes and support better decision-making. Work in a collaborative, values-driven environment that encourages curiosity, problem-solving, and professional growth.
+
+ 
+
+Not sure if you meet these requirements? Please apply — we are happy to discuss your individual circumstances."
+88062306,Data and Systems Developer,maxon motor Australia Pty Ltd,https://www.seek.com.au/job/88062306?type=standard&ref=search-standalone&origin=jobCard#sol=91599740135aee8580293ac26d6d71b2c34080a8,1h ago,1.0,2025-11-03T01:00:00+00:00,"Mount Kuring-Gai, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About the Company
+
+maxon makes electric DC motors for the coolest applications in the world. Google us. 
+
+
+
+
+The job
+
+We're looking for a software developer who thrives on solving real problems, improving tools, and learning as they go. If you take pride in your work, enjoy understanding how things tick, from hardware to high-level code, and prefer building over buzzwords, you'll fit right in.
+
+Our projects span digital and physical domains. You might be writing Python to automate a system, diving into C++ for embedded control, or helping connect sensors to cloud services. We work with mechanical systems, robotics, embedded layers, and front-end interfaces, so curiosity and adaptability are key.
+
+We care about how you think. If you've built things, broken them, fixed them better, and can explain why, we should have a chat.
+
+
+
+
+What You'll Work With
+
+Core technologies: Python and the C family (C/C++/C#).
+
+Cloud deployment, databases, documentation, and source control.
+
+Systems that bridge software and hardware — real machines, sensors, and designs.
+
+Collaboration happens on site where you'll engage directly with the engineering team.
+
+
+
+
+What We Value
+
+Eagerness to learn new technologies and improve old ones.
+
+Pride in craftsmanship and job performance.
+
+Willingness to innovate and help the team level up.
+
+Enjoyment of tackling challenges and solving problems that matter.
+
+Some of our work connects the digital and physical worlds. Your work could involve building software that connects with sensors, controls mechanical systems, or interfaces with robotics. If the idea of software interacting with real machines excites you, you'll find plenty to dig into here.
+
+
+
+
+Why Join Us
+
+We're a team that experiments, learns, and builds with purpose. We value clear thinking, honest communication, and pride in results. You'll have room to grow, space to contribute, and support to do your best work.
+
+If this sounds like you, let's talk.
+
+
+
+
+maxon is an equal opportunity employer. Stay healthy. Be nice.
+
+Australian work rights are required for this position."
+88260848,APS6 Senior Engineer and EL1 Lead Engineer,Australian Transaction Reports and Analysis Centre (AUSTRAC),https://www.seek.com.au/job/88260848?type=standard&ref=search-standalone&origin=jobCard#sol=2e5a5827dcf24f9b24d00c5d0fed5d3db73352d2,2h ago,2.0,2025-11-03T00:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"$101,303 – $140,935 per year","About the opportunity
+
+AUSTRAC is hiring for positions to join the Intelligence Analytics team where our purpose is to service the data analytics needs of the Intelligence Division and provide data analytics support for the intelligence needs of partner agencies.
+
+These roles offer a unique opportunity to innovate at the forefront of next generation data enablement and delivery of emerging AI technology and capability for AUSTRAC's future priorities.
+
+APS6 Senior Engineer, Artificial Intelligence
+
+As a Senior AI Engineer, you’ll be hands-on in developing and delivering high-impact AI and ML model automation. You'll play a crucial role in building and optimising AI and ML models that transform data into financial information and intelligence. As a curious thinker, you'll thrive on experimenting with models and systems and willing to explore innovative ways to compose AI-powered solutions for SMEs across AUSTRAC.
+
+At the APS6 level, we're looking for:
+
+Programming Skills - Excellent software engineering skills, including experience in delivering production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+Knowledge and experience in AI and Machine Learning Operations and model development Operations, Containerization and orchestration tools (Docker, Kubernetes). Cloud platforms experience is also desirable
+
+Communication - ability to understand and manage client expectations to effectively manage and monitor models in production. Ability to communicate transparently, troubleshoot issues and effectively manage change processes.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+EL1 Lead Engineer, Artificial Intelligence
+
+As Lead Engineer AI, you'll provide strategic direction and technical leadership across AI initiatives.
+
+You'll be a pivotal, technical lead and the driving force behind developing and delivering scalable, and secure AI solutions. As an established AI/ML engineer, you will architect and lead the implementation of and strategically deploy AI/ML models that support AUSTRAC's operational and strategic priorities.
+
+At the EL1 level, we're looking for:
+
+Extensive experience in AI/ML development, with recent experience on implementing large language models with assurance and quality metrics for use of automated agents.
+
+Programming skills - Excellent software engineering skills, including experience leading the delivery of production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+AI/ML engineering - experience working with model management, model evaluation, and ML pipelines along with creating large, complex datasets that improve business outcomes.
+
+Applied knowledge of cloud-based services (eg: AWS, GCP, Azure), containerization (eg: Docker), and orchestration tools (eg: Kubernetes).
+
+Exceptional leadership and communication skills – to inspire teams and explain complex AI concepts clearly to both technical and non-technical audiences.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+The key duties of the positions include:
+
+Depending on the role you've applied for, you may be expected to:
+
+Model Development and Optimisation
+
+·  Design, develop and maintain scalable, assured machine learning models.
+
+·  Implement and apply data preprocessing, feature engineering, and optimisation techniques to enhance model accuracy and performance.
+
+· Establish and maintain model training, validation, and evaluation metrics to ensure quality and consistency.
+
+Integration and Infrastructure Management
+
+·  Build and maintain API integration points to operationalise model outputs.
+
+·  Manage and optimise model-serving and ML infrastructure in collaboration with platform teams.
+
+· Collaborate with multi-disciplinary teams to align AI solutions with business and technical needs.
+
+Monitoring and Continuous Improvement
+
+· Implement and action monitoring, alerting, and troubleshooting processes to ensure system reliability and performance.
+
+· Drive workflow improvements through automation and prompt-engineering optimisation.
+
+· Evaluate and refine models and systems to improve scalability, efficiency, and value delivery.
+
+Governance and Integrity
+
+·  Ensure adherence to data security, privacy, policy and compliance.
+
+Affirmative Measures
+
+This vacancy is being advertised concurrently under a general round, an affirmative measures disability round and an affirmative measures indigenous round.
+
+Evidence of eligibility will be requested if your application progresses under an affirmative measures process.
+
+ We offer competitive remuneration and great conditions, including:
+
+Annual leave of 4 weeks (20 days) per year + additional paid Christmas close down.
+
+·  Cultural, Ceremonial and NAIDOC leave.
+
+· 18 days of paid personal leave per year.
+
+·  15.4% superannuation, which continues through paid parental leave.
+
+·  18 weeks of paid parental leave.
+
+·  Competitive APS salaries with access to annual salary progression.
+
+·  Study assistance - up to $6,000 per annum and up to 120 hours of study leave.
+
+View the AUSTRAC Enterprise Agreement for more information about current salaries and other conditions of employment.
+
+About Us
+
+AUSTRAC, Australia’s financial intelligence agency and anti-money laundering and terrorism financing regulator, is undergoing a significant transformation to enhance its role in combating money laundering and terrorism financing. This includes proposed expansion of its regulatory regime and a broader digital transformation to support our growing agency. As we embrace these changes and grow, our focus is on fostering innovation, collaboration, and effective problem-solving within an inclusive and supportive work environment. At AUSTRAC, you’ll be part of a team dedicated to maintaining the integrity of Australia’s financial system and making a real impact in preventing financial crime.
+
+Closing Date and further details 
+
+Applications close at 11:30 pm on Sunday 16 November 2025.
+
+For enquiries, please contact: Data.Recruitment@austrac.gov.au
+
+Please note, we can only accept applications via the AUSTRAC Careers Portal"
+88260832,APS6 Senior Engineer and EL1 Lead Engineer,Australian Transaction Reports and Analysis Centre (AUSTRAC),https://www.seek.com.au/job/88260832?type=standard&ref=search-standalone&origin=jobCard#sol=fb2dfd6011932813e37af555ec8bd90991394258,2h ago,2.0,2025-11-03T00:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"$101,303 – $140,935 per year","About the opportunity
+
+AUSTRAC is hiring for positions to join the Intelligence Analytics team where our purpose is to service the data analytics needs of the Intelligence Division and provide data analytics support for the intelligence needs of partner agencies.
+
+These roles offer a unique opportunity to innovate at the forefront of next generation data enablement and delivery of emerging AI technology and capability for AUSTRAC's future priorities.
+
+APS6 Senior Engineer, Artificial Intelligence
+
+As a Senior AI Engineer, you’ll be hands-on in developing and delivering high-impact AI and ML model automation. You'll play a crucial role in building and optimising AI and ML models that transform data into financial information and intelligence. As a curious thinker, you'll thrive on experimenting with models and systems and willing to explore innovative ways to compose AI-powered solutions for SMEs across AUSTRAC.
+
+At the APS6 level, we're looking for:
+
+Programming Skills - Excellent software engineering skills, including experience in delivering production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+Knowledge and experience in AI and Machine Learning Operations and model development Operations, Containerization and orchestration tools (Docker, Kubernetes). Cloud platforms experience is also desirable
+
+Communication - ability to understand and manage client expectations to effectively manage and monitor models in production. Ability to communicate transparently, troubleshoot issues and effectively manage change processes.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+EL1 Lead Engineer, Artificial Intelligence
+
+As Lead Engineer AI, you'll provide strategic direction and technical leadership across AI initiatives.
+
+You'll be a pivotal, technical lead and the driving force behind developing and delivering scalable, and secure AI solutions. As an established AI/ML engineer, you will architect and lead the implementation of and strategically deploy AI/ML models that support AUSTRAC's operational and strategic priorities.
+
+At the EL1 level, we're looking for:
+
+Extensive experience in AI/ML development, with recent experience on implementing large language models with assurance and quality metrics for use of automated agents.
+
+Programming skills - Excellent software engineering skills, including experience leading the delivery of production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+AI/ML engineering - experience working with model management, model evaluation, and ML pipelines along with creating large, complex datasets that improve business outcomes.
+
+Applied knowledge of cloud-based services (eg: AWS, GCP, Azure), containerization (eg: Docker), and orchestration tools (eg: Kubernetes).
+
+Exceptional leadership and communication skills – to inspire teams and explain complex AI concepts clearly to both technical and non-technical audiences.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+The key duties of the positions include:
+
+Depending on the role you've applied for, you may be expected to:
+
+Model Development and Optimisation
+
+·  Design, develop and maintain scalable, assured machine learning models.
+
+·  Implement and apply data preprocessing, feature engineering, and optimisation techniques to enhance model accuracy and performance.
+
+· Establish and maintain model training, validation, and evaluation metrics to ensure quality and consistency.
+
+Integration and Infrastructure Management
+
+·  Build and maintain API integration points to operationalise model outputs.
+
+·  Manage and optimise model-serving and ML infrastructure in collaboration with platform teams.
+
+· Collaborate with multi-disciplinary teams to align AI solutions with business and technical needs.
+
+Monitoring and Continuous Improvement
+
+· Implement and action monitoring, alerting, and troubleshooting processes to ensure system reliability and performance.
+
+· Drive workflow improvements through automation and prompt-engineering optimisation.
+
+· Evaluate and refine models and systems to improve scalability, efficiency, and value delivery.
+
+Governance and Integrity
+
+·  Ensure adherence to data security, privacy, policy and compliance.
+
+Affirmative Measures
+
+This vacancy is being advertised concurrently under a general round, an affirmative measures disability round and an affirmative measures indigenous round.
+
+Evidence of eligibility will be requested if your application progresses under an affirmative measures process.
+
+ We offer competitive remuneration and great conditions, including:
+
+Annual leave of 4 weeks (20 days) per year + additional paid Christmas close down.
+
+·  Cultural, Ceremonial and NAIDOC leave.
+
+· 18 days of paid personal leave per year.
+
+·  15.4% superannuation, which continues through paid parental leave.
+
+·  18 weeks of paid parental leave.
+
+·  Competitive APS salaries with access to annual salary progression.
+
+·  Study assistance - up to $6,000 per annum and up to 120 hours of study leave.
+
+View the AUSTRAC Enterprise Agreement for more information about current salaries and other conditions of employment.
+
+About Us
+
+AUSTRAC, Australia’s financial intelligence agency and anti-money laundering and terrorism financing regulator, is undergoing a significant transformation to enhance its role in combating money laundering and terrorism financing. This includes proposed expansion of its regulatory regime and a broader digital transformation to support our growing agency. As we embrace these changes and grow, our focus is on fostering innovation, collaboration, and effective problem-solving within an inclusive and supportive work environment. At AUSTRAC, you’ll be part of a team dedicated to maintaining the integrity of Australia’s financial system and making a real impact in preventing financial crime.
+
+Closing Date and further details 
+
+Applications close at 11:30 pm on Sunday 16 November 2025.
+
+For enquiries, please contact: Data.Recruitment@austrac.gov.au
+
+Please note, we can only accept applications via the AUSTRAC Careers Portal"
+88260815,APS6 Senior Engineer and EL1 Lead Engineer,Australian Transaction Reports and Analysis Centre (AUSTRAC),https://www.seek.com.au/job/88260815?type=standard&ref=search-standalone&origin=jobCard#sol=67277946ed38914df63907021e84065531543e81,2h ago,2.0,2025-11-03T00:00:00+00:00,Sydney NSW,Government - Federal (Government & Defence),Full time,"$101,303 – $140,935 per year","About the opportunity
+
+AUSTRAC is hiring for positions to join the Intelligence Analytics team where our purpose is to service the data analytics needs of the Intelligence Division and provide data analytics support for the intelligence needs of partner agencies.
+
+These roles offer a unique opportunity to innovate at the forefront of next generation data enablement and delivery of emerging AI technology and capability for AUSTRAC's future priorities.
+
+APS6 Senior Engineer, Artificial Intelligence
+
+As a Senior AI Engineer, you’ll be hands-on in developing and delivering high-impact AI and ML model automation. You'll play a crucial role in building and optimising AI and ML models that transform data into financial information and intelligence. As a curious thinker, you'll thrive on experimenting with models and systems and willing to explore innovative ways to compose AI-powered solutions for SMEs across AUSTRAC.
+
+At the APS6 level, we're looking for:
+
+Programming Skills - Excellent software engineering skills, including experience in delivering production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+Knowledge and experience in AI and Machine Learning Operations and model development Operations, Containerization and orchestration tools (Docker, Kubernetes). Cloud platforms experience is also desirable
+
+Communication - ability to understand and manage client expectations to effectively manage and monitor models in production. Ability to communicate transparently, troubleshoot issues and effectively manage change processes.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+EL1 Lead Engineer, Artificial Intelligence
+
+As Lead Engineer AI, you'll provide strategic direction and technical leadership across AI initiatives.
+
+You'll be a pivotal, technical lead and the driving force behind developing and delivering scalable, and secure AI solutions. As an established AI/ML engineer, you will architect and lead the implementation of and strategically deploy AI/ML models that support AUSTRAC's operational and strategic priorities.
+
+At the EL1 level, we're looking for:
+
+Extensive experience in AI/ML development, with recent experience on implementing large language models with assurance and quality metrics for use of automated agents.
+
+Programming skills - Excellent software engineering skills, including experience leading the delivery of production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+AI/ML engineering - experience working with model management, model evaluation, and ML pipelines along with creating large, complex datasets that improve business outcomes.
+
+Applied knowledge of cloud-based services (eg: AWS, GCP, Azure), containerization (eg: Docker), and orchestration tools (eg: Kubernetes).
+
+Exceptional leadership and communication skills – to inspire teams and explain complex AI concepts clearly to both technical and non-technical audiences.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+The key duties of the positions include:
+
+Depending on the role you've applied for, you may be expected to:
+
+Model Development and Optimisation
+
+·  Design, develop and maintain scalable, assured machine learning models.
+
+·  Implement and apply data preprocessing, feature engineering, and optimisation techniques to enhance model accuracy and performance.
+
+· Establish and maintain model training, validation, and evaluation metrics to ensure quality and consistency.
+
+Integration and Infrastructure Management
+
+·  Build and maintain API integration points to operationalise model outputs.
+
+·  Manage and optimise model-serving and ML infrastructure in collaboration with platform teams.
+
+· Collaborate with multi-disciplinary teams to align AI solutions with business and technical needs.
+
+Monitoring and Continuous Improvement
+
+· Implement and action monitoring, alerting, and troubleshooting processes to ensure system reliability and performance.
+
+· Drive workflow improvements through automation and prompt-engineering optimisation.
+
+· Evaluate and refine models and systems to improve scalability, efficiency, and value delivery.
+
+Governance and Integrity
+
+·  Ensure adherence to data security, privacy, policy and compliance.
+
+Affirmative Measures
+
+This vacancy is being advertised concurrently under a general round, an affirmative measures disability round and an affirmative measures indigenous round.
+
+Evidence of eligibility will be requested if your application progresses under an affirmative measures process.
+
+ We offer competitive remuneration and great conditions, including:
+
+Annual leave of 4 weeks (20 days) per year + additional paid Christmas close down.
+
+·  Cultural, Ceremonial and NAIDOC leave.
+
+· 18 days of paid personal leave per year.
+
+·  15.4% superannuation, which continues through paid parental leave.
+
+·  18 weeks of paid parental leave.
+
+·  Competitive APS salaries with access to annual salary progression.
+
+·  Study assistance - up to $6,000 per annum and up to 120 hours of study leave.
+
+View the AUSTRAC Enterprise Agreement for more information about current salaries and other conditions of employment.
+
+About Us
+
+AUSTRAC, Australia’s financial intelligence agency and anti-money laundering and terrorism financing regulator, is undergoing a significant transformation to enhance its role in combating money laundering and terrorism financing. This includes proposed expansion of its regulatory regime and a broader digital transformation to support our growing agency. As we embrace these changes and grow, our focus is on fostering innovation, collaboration, and effective problem-solving within an inclusive and supportive work environment. At AUSTRAC, you’ll be part of a team dedicated to maintaining the integrity of Australia’s financial system and making a real impact in preventing financial crime.
+
+Closing Date and further details 
+
+Applications close at 11:30 pm on Sunday 16 November 2025.
+
+For enquiries, please contact: Data.Recruitment@austrac.gov.au
+
+Please note, we can only accept applications via the AUSTRAC Careers Portal"
+88260799,APS6 Senior Engineer and EL1 Lead Engineer,Australian Transaction Reports and Analysis Centre (AUSTRAC),https://www.seek.com.au/job/88260799?type=standard&ref=search-standalone&origin=jobCard#sol=c7f2ff41d9d0d0f78d59ca68a6549b46503a9e73,2h ago,2.0,2025-11-03T00:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"$101,303 – $140,935 per year","About the opportunity
+
+AUSTRAC is hiring for positions to join the Intelligence Analytics team where our purpose is to service the data analytics needs of the Intelligence Division and provide data analytics support for the intelligence needs of partner agencies.
+
+These roles offer a unique opportunity to innovate at the forefront of next generation data enablement and delivery of emerging AI technology and capability for AUSTRAC's future priorities.
+
+APS6 Senior Engineer, Artificial Intelligence
+
+As a Senior AI Engineer, you’ll be hands-on in developing and delivering high-impact AI and ML model automation. You'll play a crucial role in building and optimising AI and ML models that transform data into financial information and intelligence. As a curious thinker, you'll thrive on experimenting with models and systems and willing to explore innovative ways to compose AI-powered solutions for SMEs across AUSTRAC.
+
+At the APS6 level, we're looking for:
+
+Programming Skills - Excellent software engineering skills, including experience in delivering production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+Knowledge and experience in AI and Machine Learning Operations and model development Operations, Containerization and orchestration tools (Docker, Kubernetes). Cloud platforms experience is also desirable
+
+Communication - ability to understand and manage client expectations to effectively manage and monitor models in production. Ability to communicate transparently, troubleshoot issues and effectively manage change processes.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+EL1 Lead Engineer, Artificial Intelligence
+
+As Lead Engineer AI, you'll provide strategic direction and technical leadership across AI initiatives.
+
+You'll be a pivotal, technical lead and the driving force behind developing and delivering scalable, and secure AI solutions. As an established AI/ML engineer, you will architect and lead the implementation of and strategically deploy AI/ML models that support AUSTRAC's operational and strategic priorities.
+
+At the EL1 level, we're looking for:
+
+Extensive experience in AI/ML development, with recent experience on implementing large language models with assurance and quality metrics for use of automated agents.
+
+Programming skills - Excellent software engineering skills, including experience leading the delivery of production-grade software in mainstream general-purpose languages such as Python, and Java or JavaScript.
+
+AI/ML engineering - experience working with model management, model evaluation, and ML pipelines along with creating large, complex datasets that improve business outcomes.
+
+Applied knowledge of cloud-based services (eg: AWS, GCP, Azure), containerization (eg: Docker), and orchestration tools (eg: Kubernetes).
+
+Exceptional leadership and communication skills – to inspire teams and explain complex AI concepts clearly to both technical and non-technical audiences.
+
+Qualifications - Graduate degree in computer or data science or relevant professional industry certifications is desirable.
+
+The key duties of the positions include:
+
+Depending on the role you've applied for, you may be expected to:
+
+Model Development and Optimisation
+
+·  Design, develop and maintain scalable, assured machine learning models.
+
+·  Implement and apply data preprocessing, feature engineering, and optimisation techniques to enhance model accuracy and performance.
+
+· Establish and maintain model training, validation, and evaluation metrics to ensure quality and consistency.
+
+Integration and Infrastructure Management
+
+·  Build and maintain API integration points to operationalise model outputs.
+
+·  Manage and optimise model-serving and ML infrastructure in collaboration with platform teams.
+
+· Collaborate with multi-disciplinary teams to align AI solutions with business and technical needs.
+
+Monitoring and Continuous Improvement
+
+· Implement and action monitoring, alerting, and troubleshooting processes to ensure system reliability and performance.
+
+· Drive workflow improvements through automation and prompt-engineering optimisation.
+
+· Evaluate and refine models and systems to improve scalability, efficiency, and value delivery.
+
+Governance and Integrity
+
+·  Ensure adherence to data security, privacy, policy and compliance.
+
+Affirmative Measures
+
+This vacancy is being advertised concurrently under a general round, an affirmative measures disability round and an affirmative measures indigenous round.
+
+Evidence of eligibility will be requested if your application progresses under an affirmative measures process.
+
+ We offer competitive remuneration and great conditions, including:
+
+Annual leave of 4 weeks (20 days) per year + additional paid Christmas close down.
+
+·  Cultural, Ceremonial and NAIDOC leave.
+
+· 18 days of paid personal leave per year.
+
+·  15.4% superannuation, which continues through paid parental leave.
+
+·  18 weeks of paid parental leave.
+
+·  Competitive APS salaries with access to annual salary progression.
+
+·  Study assistance - up to $6,000 per annum and up to 120 hours of study leave.
+
+View the AUSTRAC Enterprise Agreement for more information about current salaries and other conditions of employment.
+
+About Us
+
+AUSTRAC, Australia’s financial intelligence agency and anti-money laundering and terrorism financing regulator, is undergoing a significant transformation to enhance its role in combating money laundering and terrorism financing. This includes proposed expansion of its regulatory regime and a broader digital transformation to support our growing agency. As we embrace these changes and grow, our focus is on fostering innovation, collaboration, and effective problem-solving within an inclusive and supportive work environment. At AUSTRAC, you’ll be part of a team dedicated to maintaining the integrity of Australia’s financial system and making a real impact in preventing financial crime.
+
+Closing Date and further details 
+
+Applications close at 11:30 pm on Sunday 16 November 2025.
+
+For enquiries, please contact: Data.Recruitment@austrac.gov.au
+
+Please note, we can only accept applications via the AUSTRAC Careers Portal"
+88260653,Senior Automate Virtualise Infrastructure Engineer,Whizdom,https://www.seek.com.au/job/88260653?type=standard&ref=search-standalone&origin=jobCard#sol=2fd71407159856fd7ac53eb8e4697a6d0b18b142,2h ago,2.0,2025-11-03T00:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Contract/Temp,"AUD 140 - 160 per hour, Same Day Pay","Senior Automate Virtualise Infrastructure Engineer
+
+About the Client: Join a forward-thinking Australian government department where your expertise in automation and virtualisation will shape mission-critical infrastructure, drive innovation, and make a national impact—while enjoying flexible work arrangements and long-term career growth.
+
+About the Role: Take the lead in shaping cutting-edge infrastructure as a Senior Automation and Virtualisation Specialist, where you'll manage and evolve enterprise-grade platforms including Aria Automation, NSX, Aria Operations and Site Recovery Manager. You'll also drive the performance and resilience of VMware vSphere and Cloud Foundation environments, working hands-on with rack-mounted and blade server infrastructure. This role offers the opportunity to produce high-impact design and operations documentation, share knowledge across teams and mentor the next generation of engineers—all within a dynamic and forward-looking technical environment.
+
+The Successful Candidate:
+
+Demonstrated experience in few of the following technologies: Aria Automation, Aria Orchestrator, VMware NSX, Aria Operations, SiteRecovery Manager, VMware vSphere and Cloud Foundation
+Demonstrated scripting and coding experience in few of the following: PowerShell, PowerCLI, YAML, JavaScript
+Ability to produce design, build and operations documents for processes and procedures.
+Excellent communication (verbal and written) and collaboration skills to work with skilled technical people, including making presentations to staff and stakeholders and coaching staff.
+Desirable criteria
+
+
+Experience in administering Veeam Backup and Replication
+ 
+What is on Offer for the Role:
+Hourly Rate: $140.00-$160.00 per hour
+Location:
+This role is based in Canberra
+Contract Term: 12 months plus 12-month extension option
+Security Requirements: 
+Applicants must be Australian Citizens and hold a baseline security clearance.
+
+How to Apply
+Please upload your resume to apply. Please provide a supporting statement highlighting your skills, experience, and capability against the position description to complete this application process. We will be in touch with instructions for suitably skilled candidates. Submissions close COB Thursday the 6th of November 2025.
+
+Please call Lisa Berjak on 0480 011 550 for any further information. Candidates will need to be willing to undergo pre-employment screening checks which may include, ID and work rights, security clearance verification, and any other client-requested checks
+ 
+Why partner with Whizdom?
+We’re Whizdom. We view you as an extension of our strong, dependable brand and have differentiators which really are different! The Whizdom way!
+
+
+We pay our contractors same day you submit your timesheet!
+We are Level 3, DISP certified and have signed the Veteran Employment Commitment and been awarded the highest level of compliance to this important initiative, proactively assisting veterans transitioning from the forces to civilian roles. We’ve been lucky enough to win industry awards for our high level of process compliance and are ISO 9001 certified. Our commitment to reducing Greenhouse Gas Emissions has been accredited in line with large global organisations.
+We value diversity and welcome applications from Indigenous Australians, people from diverse cultural and linguistic backgrounds and people living with a disability.
+Our team of talented people are passionate about your experience, doing the right thing always, with a focus on your long-term career goals. We even give you a best in industry merch pack! Even if this role isn’t the exact fit for you, we would love a chat, contact us to find out more!"
+88260626,Plant Engineer -,Ignite,https://www.seek.com.au/job/88260626?type=standard&ref=search-standalone&origin=jobCard#sol=696a954d1052aff42e19af2ef86e0960503733f3,2h ago,2.0,2025-11-03T00:00:00+00:00,"Lalor Park, Sydney NSW","Assembly & Process Work (Manufacturing, Transport & Logistics)",Full time,AUD 100000 - 120000 per annum,"Plant Engineer - Start immediately!
+
+Are you an experienced and proactive engineer with a passion for maintaining and optimizing manufacturing processes?
+With sector experience in battery/ energy storage / electronic or Pharmaceutical manufacturing sector experience!
+We are seeking a skilled Plant Engineer to join our dynamic team in Seven Hills. In this role, you will be instrumental in maintaining and programming our production line, ensuring smooth operations and continuous improvement.
+
+What You’ll Do:
+
+Lead the maintenance, troubleshooting, and optimization of the production line to maximize efficiency and minimize downtime.
+Program and configure PLC drives (Omron, Mitsubishi, and others), working comfortably with both Japanese and English interfaces—language is not a barrier.
+Develop and implement preventative maintenance schedules to ensure equipment reliability.
+Work independently and proactively, identifying potential issues before they affect production.
+Collaborate with operations management to support continuous process improvements.
+Maintain detailed records of maintenance activities, modifications, and system performance.
+Ensure all work complies with safety standards and industry regulations.
+What We’re Looking For:
+
+Proven experience in maintaining and programming manufacturing automation equipment, ideally with PLCs (Omron, Mitsubishi, etc.).
+Strong mechanical, electrical, and control systems troubleshooting skills.
+Ability to work independently with minimal supervision in a fast-paced environment.
+Knowledge of programming environments and technical documentation.
+Excellent problem-solving abilities and attention to detail.
+Effective communicator who can clearly articulate technical issues and solutions.
+Ability to adapt to new technologies and learning new systems quickly.
+Qualifications:
+
+Bachelor’s degree in Mechanical, Electrical, Mechatronics, or a related engineering field.
+Minimum of 3-5 years' experience in manufacturing maintenance or automation.
+Experience working with PLC systems, HMI panels, servo drives, and related control equipment.
+Proficiency in troubleshooting electrical, mechanical, and pneumatic systems.
+Why Join Us?
+
+Competitive salary range of up to AUD 120,000 dep. on exp. plus superannuation.
+Opportunity to work on diverse automation systems with international technology.
+A collaborative environment that encourages innovation and professional growth.
+Reports directly to our Operation Manager,  providing clear avenues for career development.
+If you are a self-motivated engineer ready to make an impact in a manufacturing environment, we’d love to hear from you.
+
+Call Michael Knight on 0432 795163 to discuss - No overseas application unless you have an Australian Visa in place.
+
+Apply now and become part of a forward-thinking team committed to excellence.
+
+
+Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
+88260153,Chief Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88260153?type=standard&ref=search-standalone&origin=jobCard#sol=4578b0c55f4a0657041a4a470d0d478379218ead,3h ago,3.0,2025-11-02T23:00:00+00:00,Sydney NSW,Other (Banking & Financial Services),Full time,$260k - $275k + super p.a.,"Our client is looking for a Chief Data Engineer to join their leadership team. The Chief Data Engineer will lead the design, implementation, and governance of enterprise data solutions that support the organization's strategic objectives. This role combines deep technical expertise in data engineering, Informatica, and cloud-based data lakes with strong strategic leadership to shape the company's data roadmap and enable data-driven decision-making across the business.
+
+Responsibilities
+Define and execute the organization's data engineering strategy aligned with business and technology goals.
+Architect scalable, secure, and high-performance data platforms and pipelines to support analytics, AI, and operational needs.
+Develop and maintain enterprise data lake and data warehouse environments (e.g., AWS, Azure, or GCP).
+Lead and mentor data engineering teams, setting best practices for data ingestion, transformation, and integration.
+Drive the Informatica ecosystem (PowerCenter, IDMC, IICS) for ETL/ELT, data quality, and metadata management.
+Partner with data governance and compliance teams to enforce data standards, lineage, and security protocols.
+Ensure adherence to regulatory requirements and internal policies (e.g., GDPR, APRA, or ISO standards).
+Implement automated data quality frameworks and observability tools.
+Collaborate with business, analytics, and IT stakeholders to understand data needs and deliver actionable solutions.
+Communicate complex technical concepts to non-technical audiences, enabling informed business decisions.
+Build a culture of innovation, data stewardship, and continuous improvement.
+Requirements
+15+ years of experience in data engineering, with at least 5+ years in a Excutive Manager or Head of-level role.
+Proven experience building and managing enterprise data lakes and ETL/ELT pipelines at scale.
+Expertise in Informatica tools (PowerCenter, IICS, IDMC, MDM).
+Strong hands-on experience with cloud platforms (AWS, Azure, or GCP) and modern data lake architectures (Delta Lake, Iceberg, Lakehouse).
+Experience defining and executing data strategies, frameworks, and roadmaps for large organizations.
+Familiarity with governance, cataloging, and lineage tools (e.g., Collibra, Alation, or Informatica EDC).
+Excellent leadership, stakeholder engagement, and communication skills.
+Experience working in Banking or financial services.
+
+If you think you have the above skills and experiences, click the 'Apply' button or send your resume to alex.nguyen@talentinternational.com"
+88259708,Technical Specialists and Technical Managers,Office of National Intelligence,https://www.seek.com.au/job/88259708?type=standard&ref=search-standalone&origin=jobCard#sol=19947123e66bf6895ec2d4a04ed1e52cecc727c3,3h ago,3.0,2025-11-02T23:00:00+00:00,"Barton, Canberra ACT",Business/Systems Analysts (Information & Communication Technology),Full time,"$127,665 - $175,329 plus superannuation","The team
+
+In the Digital and Data Division, our focus is on designing, delivering, managing and protecting technology solutions and services that underpin ONI’s day-to-day operations, as well as broader National Intelligence Community initiatives. We also develop solutions for accessing and analysing information and data that contributes to assessments and business intelligence for decision making customers.
+
+We are responsible for delivering stable, reliable, secure, and scalable hybrid cloud and on-premises environments that support the operational and strategic missions of both ONI and the broader NIC. With a healthy appetite to make the most of cutting-edge technology (including AI), the team is at the forefront of technological development, advancement, innovation and transformation. We are also focused on resilience and strengthening ONI’s cyber security posture, including the Australian Cyber Security Centre (ACSC) Essential Eight mitigation strategies.
+
+Who we are looking for
+
+We’re looking for adaptable, collaborative professionals who thrive in a fast-paced, mission-driven environment. You’ll be part of a team that values good culture, curiosity, initiative, and continuous learning.
+
+We value individuals who are:
+
+Clear communicators across technical and non-technical contexts.
+Comfortable navigating ambiguity and shifting priorities.
+Committed to teamwork, inclusion, and public service.
+Motivated to contribute to national intelligence outcomes.
+The roles
+
+Technical Specialists are expected to work independently and collaboratively to solve complex technical problems, mentor others, and translate technical concepts for non-technical audiences. You’ll be proactive in staying current with emerging technologies and applying them to secure government systems.
+
+Technical Managers are expected to lead by example – building team capability, managing delivery cycles, and coordinating across stakeholders. You’ll be responsible for the day-to-day operations including planning, communication and engagement, recruitment, budgeting, and agile delivery.
+
+We are looking to fill a range of Technical Specialist and Technical Manager positions across a range of functions such as:
+
+Enterprise Strategy & Architecture
+
+Shape digital strategy and lead enterprise architecture to uplift technical capability, drive transformation, and influence cross-agency technology planning. This position shapes long-term strategic direction, aligns ICT initiatives with organisational goals, and influences cross-agency planning across the NIC.
+
+Networks and Unified Communications
+
+You’ll help deliver secure, resilient and high-performing infrastructure that supports ONI’s hybrid cloud and on-premises environments. This includes maintaining critical network systems and video teleconferencing services to enable seamless, secure communication across ONI and the NIC. You’ll contribute to the design, implementation and support of technologies essential to mission success, while ensuring alignment with national cyber security standards.
+
+Artificial Intelligence, Data Science & Machine Learning
+
+Lead, design and implement AI/ML solutions to enhance ONI’s analytical capabilities. Apply advanced techniques to extract insights from complex data, enabling secure, scalable, and intelligence-driven decision-making across ONI and the NIC.
+
+Cloud & Infrastructure
+
+Design and maintain hybrid cloud environments using automation and Infrastructure as Code, ensuring performance, reliability, and integration across platforms.
+
+Cyber Security
+
+Lead and implement secure system design, incident response, and governance frameworks that protect sensitive environments and meet accreditation standards.
+
+Systems & Platforms
+
+Engineer and manage virtualised infrastructure, enterprise platforms, and core systems to ensure operational stability and scalability across ONI’s technology landscape. Design, build, and manage infrastructure, platforms, applications, and data systems using engineering, DevOps, and automation practices to ensure scalability, reliability, and insight-driven operations.
+
+IT Service Management
+
+Lead and deliver reliable, secure, and user-focused technology services that support ONI’s mission. You’ll manage service operations, drive continuous improvement, and ensure alignment with best-practice frameworks such as ITIL.
+
+Key attributes
+
+To be successful in this role you will need:
+
+Technical Expertise: Demonstrated skills in a nominated technology field, with experience working in secure government environments.
+Problem-Solving and Analytical Thinking: Strong analytical and problem-solving skills, with the ability to resolve issues and provide strategic advice.
+Project and Time Management: Ability to set priorities, monitor progress, and deliver outcomes within defined timeframes.
+Collaboration and Stakeholder Engagement: Proven ability to work collaboratively and liaise effectively with internal and external stakeholders, clients, and service providers.
+Communication and Adaptability: Excellent written and verbal communication skills, with a driven, enthusiastic, and resilient approach to challenges.
+
+Desirable but not essential:
+
+Relevant tertiary qualifications, or relevant industry qualifications.
+Extensive professional experience with demonstrated leadership and management capabilities.
+
+For further information about these opportunities and how to apply, please download a candidate information kit from the careers page of ONI's website."
