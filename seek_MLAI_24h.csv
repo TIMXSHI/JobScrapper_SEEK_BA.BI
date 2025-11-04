@@ -1,5 +1,463 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88294648,Power Electronics Engineer,Moon Recruitment,https://www.seek.com.au/job/88294648?type=standard&ref=search-standalone&origin=jobCard#sol=974a5cfa435b5e937bb91cadb9d77f5fba10dbdc,2h ago,2.0,2025-11-04T03:00:00+00:00,"Canning Vale, Perth WA",Electrical/Electronic Engineering (Engineering),Full time,AUD 150000 - 155000 per annum,"Join a fast-growing tech team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards.
+88299041,Observability Engineer,Endeavour Group Limited,https://www.seek.com.au/job/88299041?type=standard&ref=search-standalone&origin=jobCard#sol=aa7830065a32b0b7c351ee5d846049eee4ccddfa,1h ago,1.0,2025-11-04T06:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"About Us
+
+Let’s create a more sociable future together
+
+At Endeavour, we’re totally into what we do. With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, we love to bring people together. Together we share our passion for our products and industry; it’s what inspires us to dream big, and continue to create new experiences for our customers and teams across Australia. If you thrive on positive energy, we want to meet you!
+
+About the Role
+
+Bring your passion and feel the energy 
+Hybrid ways of working
+Corporate Benefits
+
+Are you a passionate and skilled engineer ready to shape the future of observability? Endeavour Group, Australia’s largest retail drinks network and a leading hotel portfolio, is seeking an Observability Engineer to be a driving force in our Corporate Technology team in Sydney.
+
+In this pivotal role, you'll be at the forefront of our observability strategy, leading the expansion and deep integration of Dynatrace across our diverse organization. You'll transform raw telemetry data into actionable, business-centric insights, empowering our development, operations, and product teams. This is a unique opportunity to build our observability practice on a greenfield foundation, defining standards, automating critical processes, and championing a culture of proactive, data-driven problem-solving.
+
+Sound good? Read on.
+
+Here is a taster of what you can expect in this role:
+
+Observability Adoption
+
+Drive Dynatrace Adoption: Lead the expansion of the Dynatrace platform across new business units and applications through collaboration with development teams and application owners to ascertain business objectives and ensure comprehensive visibility into our distributed systems operating across various clouds and data centers.
+Build the Foundation: Collaborate with engineering teams to define and implement standards for instrumentation, logging, and tracing. You will be instrumental in establishing our first Service Level Objectives (SLOs) and error budgets.
+Consultation & Education: Provide expert guidance and training to internal teams on Dynatrace best practices, empowering them to effectively utilise observability data for application performance understanding.
+Run Observability enablement sessions to demo new Dynatrace features and pair on DQL to raise the organisation’s observability literacy.
+
+Observability Instrumentation and Onboarding
+
+Automate to Innovate: Design and implement automated problem remediation workflows using Dynatrace's capabilities to handle repetitive incidents, reduce manual toil, and improve system resilience.
+Master the Data with DQL: Become the go-to expert for Dynatrace Query Language (DQL). You will build and maintain advanced dashboards, notebooks, and custom alerts that provide clear, actionable insights tailored to various stakeholders.
+Observability Agent Instrumentation: Automate the deployment and configuration of observability agents across all supported platforms and infrastructure across cloud, on-premises, and hybrid environments, collaborating with product owners, DevOps, infrastructure, and cybersecurity teams, and provide comprehensive documentation for future self-sufficient deployments.
+Embedding observability in the software development life cycle and ITSM processes including change management, release management and service transition. 
+
+Incident Management and Problem Management
+
+Proactive Anomaly Detection: Proactively identify and drive resolution of anomalies or performance degradation of key user journeys through relevant reporting, alerting and telemetry data.
+Incident Response Expertise: Act as a subject matter expert during production incidents, leveraging observability data to expedite root cause analysis and minimise Mean Time to Resolution (MTTR).
+
+Observability Maintenance & Continuous Improvement
+
+Configure & Optimise: Continuously refine and tune the Dynatrace environment, such as Detection Rules, Davis Anomaly Detection, Integrations, OpenPipeline and Workflows to ensure we are capturing the right data (Metrics, Events, Logs and Traces) and minimising noise.
+Observability Practice: Help facilitate the functions and initiatives of the Observability Centre of Excellence, including Technical Knowledge Articles, Documentation and the Observability Framework.
+Observability Support Channels: Assist stakeholders with their support requests via chat channels or ServiceNOW tickets.
+Maturing Observability Practice: Proactively identifies areas for improvement, focusing on streamlining processes and enhancing service quality.
+
+
+.
+
+What do we need from you
+
+Now let’s talk about you: 
+
+Significant experience (at least 3 years) in software engineering, system design, or DevOps, with a focus on observability and monitoring in production environments.
+Deep understanding of metrics, logs, and distributed traces, and how they interrelate.
+Dynatrace Associate or Professional certification, with proven hands-on experience in administering and using the Dynatrace platform.
+In-depth knowledge of Dynatrace Query Language (DQL).
+Strong knowledge of cloud environments (Azure or GCP) and containerized architectures (Docker, Kubernetes).
+Excellent problem-solving skills and the ability to perform deep-dive analysis in complex, distributed systems.
+Exceptional verbal and written communication skills, capable of translating technical terms for diverse business stakeholders.
+A natural curiosity and structured approach to troubleshooting, turning data points into clear narratives.
+Solid understanding of ITIL 4 principles.
+Skilled in creating reports and dashboards for data-driven decision-making.
+Familiarity with JavaScript, Glide API, and ServiceNow automation workflows is a plus.
+Proficiency in Infrastructure as Code (Terraform, Dynatrace Monaco, Ansible) and experience with CI/CD concepts (Azure DevOps, GitHub Actions) are highly desirable.
+Demonstrated experience in implementing OpenTelemetry and familiarity with defining and tracking SLOs/SLIs and error budgets are also a plus.
+
+If you're ready to make a significant impact and grow your career in a dynamic and supportive environment, we encourage you to apply! We are committed to fostering a diverse and inclusive workplace where all voices are heard and valued.
+
+The benefits are good too! 
+
+We offer flexible working in every sense
+An exclusive discount card for BWS, Dan Murphy’s, Woolworths, BIG W and other Endeavour Group brands, including our ALH pubs
+Monthly meeting-free days 
+Your health and wellbeing is your most important asset, and as one of our valued team members, it’s our first priority. You will have a range of free services to help you live well and support your physical, mental and financial wellbeing
+Endeavour Group is full of opportunities - use our dedicated learning and development options to grow an idea, yourself, and your career. This is just the start, so dream big.
+
+At Endeavour, we value being a workplace where everyone’s welcome - if you meet a number of the requirements (and not all), we encourage you to apply.
+
+What's in it for you?
+
+We are together creators
+
+With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, Endeavour Group is big on sociability. Together we create the moments that bring millions of people together. And together we have more fun, create more opportunities, and score a lot more goals. We’re serious about creating a safe, inclusive and fun place to rock up to where equal opportunity is key, and flexibility is part of how we roll.  
+
+We’re all about creating a more sociable future - for our customers and each other. If this job excites you - and you’re close-enough on the requirements, reach out, we’d love to hear from you.
+
+You can learn more about working with us on LinkedIn or at endeavourgroupcareers.com.au.
+
+Our Talent Team and Hiring Leaders kindly request no unsolicited resumes or approaches from Recruitment Agencies. Endeavour Group is not responsible for any fees related to unsolicited resumes.
+
+#WeAreTogetherCreators #ComeAsYouAre #DreamBig #FeelTheEnergy #LeaveYourMark #EndeavourGroup"
+88298444,Observability Engineer,Endeavour Group,https://www.seek.com.au/job/88298444?type=standard&ref=search-standalone&origin=jobCard#sol=37329c1d6be7ec9eb4144904e6b3b3a8d2031c6a,2h ago,2.0,2025-11-04T05:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"Company Description
+
+Let’s create a more sociable future together
+
+At Endeavour, we’re totally into what we do. With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, we love to bring people together. Together we share our passion for our products and industry; it’s what inspires us to dream big, and continue to create new experiences for our customers and teams across Australia. If you thrive on positive energy, we want to meet you!
+
+Job Description
+Bring your passion and feel the energy 
+Hybrid ways of working
+Corporate Benefits
+
+Are you a passionate and skilled engineer ready to shape the future of observability? Endeavour Group, Australia’s largest retail drinks network and a leading hotel portfolio, is seeking an Observability Engineer to be a driving force in our Corporate Technology team in Sydney.
+
+In this pivotal role, you'll be at the forefront of our observability strategy, leading the expansion and deep integration of Dynatrace across our diverse organization. You'll transform raw telemetry data into actionable, business-centric insights, empowering our development, operations, and product teams. This is a unique opportunity to build our observability practice on a greenfield foundation, defining standards, automating critical processes, and championing a culture of proactive, data-driven problem-solving.
+
+ 
+
+Sound good? Read on.
+
+Here is a taster of what you can expect in this role:
+
+ 
+
+ 
+
+Observability Adoption
+
+Drive Dynatrace Adoption: Lead the expansion of the Dynatrace platform across new business units and applications through collaboration with development teams and application owners to ascertain business objectives and ensure comprehensive visibility into our distributed systems operating across various clouds and data centers.
+Build the Foundation: Collaborate with engineering teams to define and implement standards for instrumentation, logging, and tracing. You will be instrumental in establishing our first Service Level Objectives (SLOs) and error budgets.
+Consultation & Education: Provide expert guidance and training to internal teams on Dynatrace best practices, empowering them to effectively utilise observability data for application performance understanding.
+Run Observability enablement sessions to demo new Dynatrace features and pair on DQL to raise the organisation’s observability literacy.
+
+Observability Instrumentation and Onboarding
+
+Automate to Innovate: Design and implement automated problem remediation workflows using Dynatrace's capabilities to handle repetitive incidents, reduce manual toil, and improve system resilience.
+Master the Data with DQL: Become the go-to expert for Dynatrace Query Language (DQL). You will build and maintain advanced dashboards, notebooks, and custom alerts that provide clear, actionable insights tailored to various stakeholders.
+Observability Agent Instrumentation: Automate the deployment and configuration of observability agents across all supported platforms and infrastructure across cloud, on-premises, and hybrid environments, collaborating with product owners, DevOps, infrastructure, and cybersecurity teams, and provide comprehensive documentation for future self-sufficient deployments.
+Embedding observability in the software development life cycle and ITSM processes including change management, release management and service transition. 
+
+Incident Management and Problem Management
+
+Proactive Anomaly Detection: Proactively identify and drive resolution of anomalies or performance degradation of key user journeys through relevant reporting, alerting and telemetry data.
+Incident Response Expertise: Act as a subject matter expert during production incidents, leveraging observability data to expedite root cause analysis and minimise Mean Time to Resolution (MTTR).
+
+ 
+
+Observability Maintenance & Continuous Improvement
+
+Configure & Optimise: Continuously refine and tune the Dynatrace environment, such as Detection Rules, Davis Anomaly Detection, Integrations, OpenPipeline and Workflows to ensure we are capturing the right data (Metrics, Events, Logs and Traces) and minimising noise.
+Observability Practice: Help facilitate the functions and initiatives of the Observability Centre of Excellence, including Technical Knowledge Articles, Documentation and the Observability Framework.
+Observability Support Channels: Assist stakeholders with their support requests via chat channels or ServiceNOW tickets.
+Maturing Observability Practice: Proactively identifies areas for improvement, focusing on streamlining processes and enhancing service quality.
+
+
+.
+
+Qualifications
+
+Now let’s talk about you: 
+
+Significant experience (at least 3 years) in software engineering, system design, or DevOps, with a focus on observability and monitoring in production environments.
+Deep understanding of metrics, logs, and distributed traces, and how they interrelate.
+Dynatrace Associate or Professional certification, with proven hands-on experience in administering and using the Dynatrace platform.
+In-depth knowledge of Dynatrace Query Language (DQL).
+Strong knowledge of cloud environments (Azure or GCP) and containerized architectures (Docker, Kubernetes).
+Excellent problem-solving skills and the ability to perform deep-dive analysis in complex, distributed systems.
+Exceptional verbal and written communication skills, capable of translating technical terms for diverse business stakeholders.
+A natural curiosity and structured approach to troubleshooting, turning data points into clear narratives.
+Solid understanding of ITIL 4 principles.
+Skilled in creating reports and dashboards for data-driven decision-making.
+Familiarity with JavaScript, Glide API, and ServiceNow automation workflows is a plus.
+Proficiency in Infrastructure as Code (Terraform, Dynatrace Monaco, Ansible) and experience with CI/CD concepts (Azure DevOps, GitHub Actions) are highly desirable.
+Demonstrated experience in implementing OpenTelemetry and familiarity with defining and tracking SLOs/SLIs and error budgets are also a plus.
+
+If you're ready to make a significant impact and grow your career in a dynamic and supportive environment, we encourage you to apply! We are committed to fostering a diverse and inclusive workplace where all voices are heard and valued.
+
+The benefits are good too! 
+
+We offer flexible working in every sense
+An exclusive discount card for BWS, Dan Murphy’s, Woolworths, BIG W and other Endeavour Group brands, including our ALH pubs
+Monthly meeting-free days 
+Your health and wellbeing is your most important asset, and as one of our valued team members, it’s our first priority. You will have a range of free services to help you live well and support your physical, mental and financial wellbeing
+Endeavour Group is full of opportunities - use our dedicated learning and development options to grow an idea, yourself, and your career. This is just the start, so dream big.
+
+At Endeavour, we value being a workplace where everyone’s welcome - if you meet a number of the requirements (and not all), we encourage you to apply.
+
+Additional Information
+
+We are together creators
+
+With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, Endeavour Group is big on sociability. Together we create the moments that bring millions of people together. And together we have more fun, create more opportunities, and score a lot more goals. We’re serious about creating a safe, inclusive and fun place to rock up to where equal opportunity is key, and flexibility is part of how we roll.  
+
+We’re all about creating a more sociable future - for our customers and each other. If this job excites you - and you’re close-enough on the requirements, reach out, we’d love to hear from you.
+
+You can learn more about working with us on LinkedIn or at endeavourgroupcareers.com.au.
+
+Our Talent Team and Hiring Leaders kindly request no unsolicited resumes or approaches from Recruitment Agencies. Endeavour Group is not responsible for any fees related to unsolicited resumes.
+
+#WeAreTogetherCreators #ComeAsYouAre #DreamBig #FeelTheEnergy #LeaveYourMark #EndeavourGroup"
+88298091,Data Engineer,Endeavour Group,https://www.seek.com.au/job/88298091?type=standard&ref=search-standalone&origin=jobCard#sol=5a78d54233966c3b256d5ae15a5315f5334fc659,2h ago,2.0,2025-11-04T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+Let’s create a more sociable future together
+
+At Endeavour, we’re totally into what we do. With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, we love to bring people together. Together we share our passion for our products and industry; it’s what inspires us to dream big, and continue to create new experiences for our customers and teams across Australia. If you thrive on positive energy, we want to meet you!
+
+Job Description
+Be a part of a passionate team of data enthusiasts
+Hybrid and flexible ways of working
+Team discounts across Endeavour Group
+
+The Data Engineer - D & AI is a key member of the Group Data Practices team within the D & AI function. This role has line management into the Data Engineering Chapter Lead but receives daily tasks from their delivery squad. 
+
+Endeavour operates an Agile, matrixed environment, with Practices/Chapters providing people management and capabilities, whilst Product squads deliver business missions. Chapter members are embedded in cross-functional delivery squads, bringing their specific skill to that squad. 
+
+Your primary role is to design, build, and deploy technology solutions, as a hands-on technology expert with specialist skills building data products. Depending on the needs of the business, this could be a data service/application and/or product, ML model implementation, Data lake/warehouse data pipelines (cloud GCP, cloud Azure, SQL Server), ETL/ELT, data retention and governance tools implementation, master data management tech implementation, visualisation tools, and analytics tools implementations.
+
+Sitting within cross-functional delivery squads, this role works closely with Business Analysts, Developers, Integration Engineers, Solution Architects, Data Architects, Machine Learning Engineers, Data Scientists, Data Analysts, and domain SMEs to deliver on Tribe missions.
+
+Sound good? Read on.
+
+Here is a taster of what you can expect in this role:
+
+You’re customer-focused and passionate about being part of a tribe of great people and you actively contribute to your workplace community.
+
+With a growth mindset, you orient around doing what’s meaningful, purposeful and delivers value. You’re excited about being part of a data-led transformation at one of Australia’s biggest companies.
+
+You’re curious and empathetic. You have an eye for the bigger picture while also ensuring the details are in order. You deal with complexity by collaborating with colleagues, listening to customers, testing ideas and continuously learning. You take authorship for what you create.
+
+Work with team members and business SMEs to understand the requirements including business problem or opportunity, data requirements, and technology requirements 
+
+Contribute to documentation of requirements and user stories in Jira/Confluence, as required
+
+Build and deploy back-end software services, data applications/services and/or APIs, data pipelines on the data platform
+
+Productionise ML models
+
+Document relevant information required for knowledge sharing across the team and for operational support handover
+
+Knowledge sharing amongst the data engineering chapter and project/squad team members
+
+Collaborate with team and stakeholders to ensure successful delivery
+
+Adhere to technology standards, data governance & privacy policies and security standard, corporate governance policies
+
+Attend/contribute to squad agile ceremonies (e.g. standups, sprint planning etc) , project meetings and deliverables
+
+Build and deploy using devops and infrastructure as code
+
+Provide input into handover to the support team for new builds/enhancements
+
+3rd level support for incidents relating to appropriate productionised data products/services
+
+Comply with the change process and provide inputs, as required, and attend CAB, where required
+
+Qualifications
+
+Now let’s talk about you: 
+
+Software development skills and experience
+
+Back-end development skills, such as APIs
+
+Experience with distributed programming (e.g. Apache Spark)
+
+Cloud data pipeline build, deploy and maintain/support skills
+
+Strong understanding of DBT ( Data Build tool) , Python and PySpark skills, SQL skills
+
+An in-depth understanding of common databases and data structures.
+
+Experience working with big data cloud platforms (Azure, Google Cloud Platform, AWS), Cloud Infrastructure
+
+Experience working in an agile environment
+
+DevOps experience and CI/CD experience
+
+Infrastructure as code experience
+
+Experience with Java and/or C#
+
+Experience with Object-Oriented programming (OOP) , Unit Testing, test driven development (TDD)
+
+Desired: 
+
+Google Cloud Platform experience
+
+Azure Databricks experience
+
+Experience with secure coding practices
+
+Experience working with retail offline (e.g. store sales) and online data sets (e.g. ecommerce)
+
+Experience working with Personally Identifiable Information (PII) data
+
+Experience working with unstructured data
+
+Data science knowledge and/or experience productioning ML models
+
+Retail industry experience
+
+ 
+
+The benefits are good too! 
+
+Flexibility first with hybrid work and ways of working that support you, your family and your lifestyle.
+
+Exclusive team discounts across BWS, Dan Murphy’s, Woolworths and more, plus discounts at our ALH Hotels.
+
+Meeting free days, giving you space to focus, grow and recharge.
+
+Health and wellbeing support including free and confidential services including counselling, nutrition and lifestyle advice, financial coaching, family and legal support, to help build confidence resilience and connection
+
+Paid and unpaid leave options including up to 24 months parental leave, personal and carer’s leave, emergency services leave, and gender affirmation leave.
+
+Career growth with learning and development pathways, plus career assist programs to support your goals.
+
+Inclusive culture! We are building a place where everyone belongs, can dream big and leave their mark.
+
+At Endeavour, you will also be connected to our internal inclusion and community networks, including:
+
+EmpowerHER – our women in technology and leadership network, supporting women and allies to grow, connect and lead.
+
+Proud at Endeavour Hub – celebrating and supporting our LGBTQ+ community.
+
+Reconciliation Hub – driving our commitment to First Nations inclusion, recognition and partnership.
+
+Jawun Partner Site – offering unique secondment opportunities to collaborate with First Nations organisations and communities.
+
+Social Crew – bringing our teams together through fun, social and community building events
+
+At Endeavour, we value being a workplace where everyone’s welcome - if you meet a number of the requirements (and not all), we encourage you to apply.
+
+Additional Information
+
+We are together creators
+
+With a portfolio that includes Dan Murphy’s, BWS, ALH Hotels, Pinnacle Drinks and more, Endeavour Group is big on sociability. Together we create the moments that bring millions of people together. And together we have more fun, create more opportunities, and score a lot more goals. We’re serious about creating a safe, inclusive and fun place to rock up to where equal opportunity is key, and flexibility is part of how we roll.  
+
+We’re all about creating a more sociable future - for our customers and each other. If this job excites you - and you’re close-enough on the requirements, reach out, we’d love to hear from you.
+
+You can learn more about working with us on LinkedIn or at endeavourgroupcareers.com.au.
+
+Our Talent Team and Hiring Leaders kindly request no unsolicited resumes or approaches from Recruitment Agencies. Endeavour Group is not responsible for any fees related to unsolicited resumes.
+
+#WeAreTogetherCreators #ComeAsYouAre #DreamBig #FeelTheEnergy #LeaveYourMark #EndeavourGroup"
+88297430,Data Engineer (Consultant) - Sydney | Microsoft Fabric / Azure Data Factory,NTT DATA,https://www.seek.com.au/job/88297430?type=standard&ref=search-standalone&origin=jobCard#sol=e7a726e7f31329fadd2c292433a861c7e948f2f4,2h ago,2.0,2025-11-04T05:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Make an impact with NTT DATA
+Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it's a place where you can grow, belong and thrive.
+
+Your day at NTT DATA
+The Data Engineer (Consultant) is a seasoned subject matter expert, responsible for the transformation of data into a structured format that can be easily analyzed in a query or report.
+
+This role is responsible for developing structured data sets that can be reused or complimented by other data sets and reports.
+
+This role analyzes the data sources and data structure and designs and develops data models to support the analytics requirements of the business which includes management / operational / predictive / data science capabilities.
+
+Key responsibilities:
+
+Creates data models in a structured data format to enable analysis thereof.
+
+Designs and develops scalable extract, transformation and loading (ETL) packages from the business source systems and the development of ETL routines to populate data from sources,
+
+Participates in the transformation of object and data models into appropriate database schemas within design constraints.
+
+Interprets installation standards to meet project needs and produce database components as required.
+
+Creates test scenarios and be responsible for participating in thorough testing and validation to support the accuracy of data transformations.
+
+Accountable for running data migrations across different databases and applications, for example MS Dynamics, Oracle, SAP and other ERP systems.
+
+Works across multiple IT and business teams to define and implement data table structures and data models based on requirements.
+
+Accountable for analysis, and development of ETL and migration documentation.
+
+Collaborates with various stakeholders to evaluate potential data requirements.
+
+Accountable for the definition and management of scoping, requirements, definition, and prioritization activities for small-scale changes and assist with more complex change initiatives.
+
+Collaborates with various stakeholders, contributing to the recommendation of improvements in automated and non-automated components of the data tables, data queries and data models.
+
+To thrive in this role, you need to have:
+
+The skills we require are:
+- ETL Design and Development (Microsoft Fabric Data Factory, Databricks, Snowflake)
+- Cloud and On-Prem Data Engineering / Warehousing (Azure SQL, Snowflake, Databrick, SSMS/SSIS)
+- Programming languages (SQL, Python)
+- Version Control (Azure Dev Ops, GIT)
+- Data Visualisation (Power BI)
+- Data Analysis and Mapping
+
+Seasoned knowledge of the definition and management of scoping requirements, definition and prioritization activities.
+
+Seasoned understanding of database concepts, object and data modelling techniques and design principles and conceptual knowledge of building and maintaining physical and logical data models.
+
+Seasoned expertise in Microsoft Azure Data Factory, SQL Analysis Server.
+
+Minimum 5+ years of hands-on experience with Microsoft Azure Data Factory or Microsoft Fabric is essential for this role.
+
+Seasoned understanding of data architecture landscape between physical and logical data models
+
+Analytical mindset with excellent business acumen skills.
+
+Problem-solving aptitude with the ability to communicate effectively, both written and verbal.
+
+Ability to build effective relationships at all levels within the organization.
+
+Seasoned expert in programing languages (Perl, bash, Shell Scripting, Python, etc.).
+
+Academic qualifications and certifications:
+
+Bachelor's degree or equivalent in computer science, software engineering, information technology, or a related field.
+
+Relevant certifications preferred.
+
+Certified Data Engineer, Certified Professional certification preferred.
+
+Required experience:
+
+Minimum 5 years of experience as Data Engineer (Consultant).
+
+Seasoned experience as a data engineering, data mining within a fast-paced environment.
+
+Proficient in building modern data analytics solutions that delivers insights from large and complex data sets with multi-terabyte scale.
+
+Seasoned experience with architecture and design of secure, highly available and scalable systems.
+
+Seasoned proficiency in automation, scripting and proven examples of successful implementation.
+
+Seasoned proficiency using scripting language (Perl, bash, Shell Scripting, Python, etc.).
+
+Seasoned proficiency in working with SQL, MySQL databases and Microsoft SQL.
+
+Some of our benefits
+
+NTT DATA is a Global and Australian Top Employer, and holds Family Friendly Workplace accreditation. We believe in bringing out the best in you by providing an environment and flexibility that enables you to thrive at work and at home.
+
+As part of the NTT DATA family, here is a small sample of the benefits you will enjoy:
+
+Flexible and hybrid working
+
+Leave options that allow you to contribute to your community, study, or just take time to recharge.
+
+A parental leave policy that supports parents and carers.
+
+Income protection insurance
+
+A comprehensive wellbeing program and associated benefits
+
+Everyone is welcome here
+
+For us, diversity is a strength that is nurtured through an inclusive and fair environment. We're committed to building a diverse workforce, including all and providing everyone with equal opportunities to thrive in their careers.
+
+Workplace type
+
+Hybrid Working
+
+About NTT DATA
+
+NTT DATA is a $30+ billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long-term success. We invest over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure, and connectivity. We are also one of the leading providers of digital and AI infrastructure in the world. NTT DATA is part of NTT Group and headquartered in Tokyo.
+
+Equal Opportunity Employer
+
+NTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us.
+
+Australian work rights are required as visa sponsorship will not be considered for this position.
+
+Apply today!"
+88294648,Power Electronics Engineer,Moon Recruitment,https://www.seek.com.au/job/88294648?type=standard&ref=search-standalone&origin=jobCard#sol=ecf923fd0b7d602959ce6bcaac23b62be4fdbb07,4h ago,4.0,2025-11-04T03:00:00+00:00,"Canning Vale, Perth WA",Electrical/Electronic Engineering (Engineering),Full time,AUD 150000 - 155000 per annum,"Join a fast-growing tech team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards.
 
 Our client is a leader in next-generation, smart composite materials and is at the forefront of innovation in the manufacturing sector. As they experience rapid expansion, they are looking for a Power Electronics Engineer to join their dynamic team in Canning Vale, W.A.
 
@@ -44,7 +502,7 @@ Degree in Electrical & Electronics Engineering, Power Electronics Engineering or
 If you are interested in this role, please send in an updated CV by Clicking the APPLY NOW Button
 
 Join a fast-growing tech team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards."
-88293776,Control Systems Engineer,Moon Recruitment,https://www.seek.com.au/job/88293776?type=standard&ref=search-standalone&origin=jobCard#sol=8b800bd62f28905f4147f3f2dda047dcb4b75b3f,2h ago,2.0,2025-11-04T03:00:00+00:00,"Canning Vale, Perth WA",Electrical/Electronic Engineering (Engineering),Full time,AUD 140000 - 150000 per annum,"Join a fast-growing tech team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards.
+88293776,Control Systems Engineer,Moon Recruitment,https://www.seek.com.au/job/88293776?type=standard&ref=search-standalone&origin=jobCard#sol=ddffcbdfa3a4c700e4882596f75d2a9ce61ba86d,4h ago,4.0,2025-11-04T03:00:00+00:00,"Canning Vale, Perth WA",Electrical/Electronic Engineering (Engineering),Full time,AUD 140000 - 150000 per annum,"Join a fast-growing tech team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards.
 
 Our client is a leader in next-generation, smart composite materials and is at the forefront of innovation in the manufacturing sector. As they experience rapid expansion, they are looking for a Control Systems Engineer to join their dynamic team in Canning Vale, W.A.
 
@@ -80,7 +538,7 @@ Desirable:
    At least 3 years of automation/control systems engineering experience within a mining or industrial setting.
 
 If you are interested in this role, please send in an updated CV by Clicking the APPLY NOW Button"
-88292550,Data and Analytics Engineer - 12-month max. term contract,Beaumont People,https://www.seek.com.au/job/88292550?type=standard&ref=search-standalone&origin=jobCard#sol=85f41eb002c0823e3eb55e46a73723c466d0ab3f,3h ago,3.0,2025-11-04T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Data and Analytics Engineer - 12-month max. term contract
+88292550,Data and Analytics Engineer - 12-month max. term contract,Beaumont People,https://www.seek.com.au/job/88292550?type=standard&ref=search-standalone&origin=jobCard#sol=652ddafad767a6cf4ed3f7d0584ef0918d518e59,5h ago,5.0,2025-11-04T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Data and Analytics Engineer - 12-month max. term contract
   
 
 Newly created role, leverage analytical and technical skills to implement innovative solutions.
@@ -129,7 +587,7 @@ Applications will be assessed as they arrive, please apply immediately if you ar
 At Beaumont People we believe a diverse workplace is a happy workplace, and we love working with organisations that feel the same way.  We encourage applications from people of all different backgrounds, including Aboriginal and Torres Strait Islander peoples, people from CALD backgrounds and people with disabilities.
   
 We do not discriminate on the basis of race, religion, sexual orientation, gender identity, national origin, age, disability, marital or parental status. Should you require a reasonable accommodation to be made for your application to be assessed we would be more than happy to discuss how that can be arranged."
-88291158,Systems Engineer,Recruit Collective,https://www.seek.com.au/job/88291158?type=standard&ref=search-standalone&origin=jobCard#sol=7157a7fbb2b05646d4aef9eb63d4e7fbc5a1fb4d,3h ago,3.0,2025-11-04T02:00:00+00:00,Melbourne VIC,Systems Engineering (Engineering),Full time,Salary,"The Role 
+88291158,Systems Engineer,Recruit Collective,https://www.seek.com.au/job/88291158?type=standard&ref=search-standalone&origin=jobCard#sol=0b725cd34500dc2eea07918caeabcaa5518c5114,5h ago,5.0,2025-11-04T02:00:00+00:00,Melbourne VIC,Systems Engineering (Engineering),Full time,Salary,"The Role 
 
 
 We are seeking a Systems Integration Engineer (Level 3) with a background in Mechanical, Electrical, or Mechatronic Engineering and demonstrated expertise in communications systems integration. 
@@ -211,7 +669,7 @@ Next Steps? 
 
 
 If this sounds like the right opportunity for you, please send through your updated CV to MirandaC@Humanresources.com.au or call 075507 7759 for a confidential conversation."
-88287890,Application Security Specialist- AI,Correlate Resources,https://www.seek.com.au/job/88287890?type=standard&ref=search-standalone&origin=jobCard#sol=9dd1950f600f16c306637855934042c844a6f804,6h ago,6.0,2025-11-03T23:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Contract/Temp,,"Our Fin serviced client is looking for a talented Solution Architect to join our team, serving as the primary driver of our architectural strategy across traditional applications, LLMs, and AI.
+88287890,Application Security Specialist- AI,Correlate Resources,https://www.seek.com.au/job/88287890?type=standard&ref=search-standalone&origin=jobCard#sol=3230b745fa7b0e2c6354eab606f7ec5c58e57fcc,8h ago,8.0,2025-11-03T23:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Contract/Temp,,"Our Fin serviced client is looking for a talented Solution Architect to join our team, serving as the primary driver of our architectural strategy across traditional applications, LLMs, and AI.
 
 In this role you’ll be the last line of defence, making sure all applications are secure by design.
 
@@ -238,7 +696,7 @@ Cloud Security: Strong experience with GCP, including IAM, network security, and
 Problem-Solving: Analytical and proactive in identifying and mitigating complex security threats.
 Communication: Excellent interpersonal skills, able to influence and collaborate with engineering teams across the organization.
 Please contact kate@correlateresources.com if you are interested in this role!"
-88287158,Senior AI / Machine Learning Engineer – Leading Finance Organization,The Recruitment Company,https://www.seek.com.au/job/88287158?type=standard&ref=search-standalone&origin=jobCard#sol=fb0977c564cbfe3823c889bc6e77bbe9fc72e223,7h ago,7.0,2025-11-03T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Great Salary plus a bonus of up to 15% on top,"Join a fast-moving financial services organisation as a Senior AI / Machine Learning Engineer, where you’ll design and deliver advanced AI systems that create meaningful impact across digital experiences, customer touchpoints, fraud detection, and operational automation.
+88287158,Senior AI / Machine Learning Engineer – Leading Finance Organization,The Recruitment Company,https://www.seek.com.au/job/88287158?type=standard&ref=search-standalone&origin=jobCard#sol=ca97cfd91927cfa906de2bcb152a5aab72c69db6,9h ago,9.0,2025-11-03T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Great Salary plus a bonus of up to 15% on top,"Join a fast-moving financial services organisation as a Senior AI / Machine Learning Engineer, where you’ll design and deliver advanced AI systems that create meaningful impact across digital experiences, customer touchpoints, fraud detection, and operational automation.
 
 
 You’ll work alongside talented Engineers and Data Scientists to shape and deliver AI-driven solutions that enhance customer experience, digital channels, and operational efficiency — delivering tangible, measurable outcomes for the business.
