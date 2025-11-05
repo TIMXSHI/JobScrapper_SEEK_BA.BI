@@ -1,1 +1,150 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+88315473,Senior Digital Signal Processing Communications Engineer (AU),DroneShield,https://www.seek.com.au/job/88315473?type=standard&ref=search-standalone&origin=jobCard#sol=2ee773cf4fb4e6ac74fa360cb883704ad18aeb49,1h ago,1.0,2025-11-05T01:00:00+00:00,Adelaide SA (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Work with cutting edge technology, making the world a safer and more secure place. DroneShield (ASX:DRO) offers an opportunity to solve some of world's most challenging technical problems in the Electronic Warfare, Artificial Intelligence and Machine Learning, RF sensing, Sensor Fusion and distributed systems. Working with high profile customers across militaries, government agencies, airports, critical infrastructure, law enforcement and many others.
 
+With one of the largest listed defence company market capitalisations in Australia and having raised approximately $250m in 2024 alone, DroneShield is undergoing hypergrowth stage, fuelled by rapidly increasing use of drones for nefarious applications, from battlefield, to terrorism, to contraband delivery and commercial espionage.
+
+This role will be based within a new DroneShield facility based in the Adelaide CBD. Droneshield has approximately 390 staff based within its Sydney headquarters and is scheduled to grow to 500 staff in Australia by end of 2026. Overseas on the ground presence includes Virginia (USA), Denmark, Germany and Dubai, as well as distributors in over 70 countries globally.
+
+
+
+
+About the role
+
+DroneShield is seeking a Senior DSP Communications Engineer with relevant experience to join the team in Adelaide, South Australia. The position will report to the principal Architect within the Sensors and Effectors Team.
+
+
+
+
+The Sensors and Effectors team at Droneshield is focused on providing fully operational and qualified modular devices to enable new product development of high-end RF based sensors and effectors. These modules are re-used across various product configurations including man-portable, vehicle mounted and fixed site. Key technical challenges for the electronics aspect of these modules include the design of complex wide-band RF circuitry, high speed digital interface and high-power radio frequency output. DroneShield designs and builds the full signal chain from signal generation to antenna.
+
+
+
+
+The primary focus of the role is to research and develop DroneShield's next generation of Capabilities, working closely with ML/AI, Data Science, RF and infrastructure teams to innovate and enhance DroneShield's world leading Anti-Drone technology.
+
+
+
+
+Responsibilities, Duties and Expectations
+
+Analyse real-world wireless signals to identify modulation schemes (OFDM, QPSK, QAM, FSK, etc.), waveform/protocol parameters and packet structures.
+Analyse and decode physical layer MIMO signal waveforms for LTE, 5G NR, Wi-Fi, and other wireless technologies.
+Understand and analyse frequency-hopped TDMA, OFDMA and SC-FDMA packet structures, including frame layouts, signal transmission patterns, pilots and preambles, and control/data channels.
+Develop algorithms for signal demodulation, synchronization, detection and decoding.
+Develop and maintain evaluation pipelines for validating PHY layer protocols against real-world over-the-air captures.
+Translate high-level signal processing algorithms into optimized, production-ready implementations for resource-constrained platforms.
+Develop, optimise, and maintain DSP software embedded systems, ensuring high performance and low latency.
+Implement and maintain CI/CD pipelines for DSP software development.
+Provide technical guidance on DSP software architecture, ensuring scalability, maintainability, and performance.
+Design and implement new software features for embedded Linux-based systems
+Ensure software is designed for performance and reliability on resource constrained targets
+Collaborate with multi-disciplinary teams to deliver on user and business requirements
+Work with the broader engineering team to ensure reliable and robust end to end system operation
+Write and maintain internal documentation for implemented features
+
+Qualifications, Experience and Skills
+
+Bachelor's (or higher) degree in Electrical Engineering, Computer Science, or a related technical field, or equivalent practical experience.
+At least 5 years of experience in DSP software development, with a focus on embedded systems and resource-constrained platforms.
+High proficiency with Python, including familiarity with Scipy, Numpy, Numba.
+Firm understanding of Digital Signal Processing concepts, including filtering, FFTs, modulation/demodulation, and adaptive signal processing.
+Knowledge of modern software development practices, DevSecOps, Test-Driven Development (TDD), version control (e.g., Git), automated testing, system monitoring and CI/CD pipelines.
+Ability to work effectively in a multidisciplinary team, including collaborating with algorithms, hardware, and software engineers.
+Ability to turn complex algorithms and mathematical models into high-performance software, operating on sensor data.
+Working knowledge of modern architectural patterns and software design patterns.
+Experience using modern C++ and/or Python to develop complex applications
+Familiarity with developing under Linux (embedded Linux would be advantageous)
+Experience with multi-process architectures (including IPC mechanisms)
+Proficiency with multiple programming languages, especially C++, Python, and Go
+Exposure to software architecture and design patterns
+Experience with development tools including Git, Jira, Confluence, GitLab CI/CD, Docker, Poetry, Pyenv
+The following would also be highly desirable:
+Experience with concurrent computing and code optimisation
+Strong proficiency with Docker
+Experience with ML, RF, FPGA, and DSP technologies
+
+
+
+
+Note for recruitment agencies: we do not accept floated candidates from external recruiters unless they were instructed to do so.
+
+
+
+
+
+PI279424390"
+88313140,Principal RF Protocols Engineer (AU),DroneShield,https://www.seek.com.au/job/88313140?type=standard&ref=search-standalone&origin=jobCard#sol=493964d0acaee1ec92088484a5284f05a12c1100,3h ago,3.0,2025-11-04T23:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Work with cutting edge AI technology, making the world a safer and more secure place. DroneShield (ASX:DRO) offers an opportunity to solve some of world's most challenging technical problems in the rapidly growing counterdrone sector. Our customers are militaries, government agencies, airports, critical infrastructure, law enforcement and many others.
+
+
+
+
+With one of the largest listed defence company market capitalisations in Australia, part of the ASX200 index, and having raised approximately $250m in 2024 alone, DroneShield is undergoing hypergrowth stage, fuelled by rapidly increasing use of drones for nefarious applications, from battlefield, to terrorism, to contraband delivery and commercial espionage.
+
+
+
+
+This role will be based within a new DroneShield facility based in the Adelaide CBD. Droneshield has approximately 300 staff based within its Sydney headquarters and is scheduled to grow to 400 staff in Australia by end of 2026. Overseas on the ground presence includes Virginia (USA), Denmark, Germany and Dubai, as well as distributors in over 70 countries globally.
+
+
+
+
+
+
+
+About the role
+
+DroneShield is seeking a Principal Radio-Frequency (RF) Protocols Engineer with relevant experience to join the team in Adelaide, South Australia.
+
+
+
+
+The position will report to the Director of Engineering, Sensors and Effectors.
+
+
+
+
+This challenging role will have you working on production algorithms and features used in the EW space with a focus on driving both new and current capabilities forward with modern design practices.
+
+
+
+
+Responsibilities, Duties and Expectations
+
+Architecting and driving the Design and development of jamming systems for countering unmanned aerial systems (UAS).
+Working closely with the product development team to integrate jamming technology into portable, vehicle-mounted, and stationary anti-drone systems.
+Adapting to the evolving landscape of drone technology and counter-drone measures to ensure that jamming systems remain effective against new threats.
+Optimising RF system performance by analysing and resolving interference issues, and improving signal quality, to increase range and reliability.
+Performing field tests of jammer systems to validate their effectiveness in real-world scenarios and environments.
+Collaborating with cross-functional teams, including hardware engineers, software engineers, and project managers, to ensure that RF design considerations are integrated into the overall system design from the outset.
+Staying up-to-date with the latest RF technologies and industry trends to ensure that designs are innovative and competitive.
+Reading and interpreting technical specifications that describe communications protocols.
+
+Qualifications, Experience and Skills
+
+Bachelor (or higher) degree in Electronic Engineering, Computer Science, or a similar technical field of study or equivalent practical experience
+10+ years of experience in RF, communication protocols, and digital signal processing, preferably in the context of counter-UAS or electronic warfare systems. Demonstrable in-depth hobbyist experience also considered.
+The following attributes would be essential:
+Strong understanding of practical RF systems, including modulation, demodulation, and signal propagation.
+Extensive knowledge of RF communication protocols and modulation schemes such as Wi-Fi, LTE, 4G, 5G, FHSS, FSK, PSK, QAM, etc.
+Knowledge of multi-antenna techniques and procedures such as MIMO, beamforming, etc.
+Knowledge of positioning and ranging based services and solutions.
+Knowledge of Digital Signal Processing (DSP) fundamentals and applications.
+Experience with RF test equipment, including spectrum analyzers, signal generators, VNAs, oscilloscopes, etc.
+The following attributes would be highly desirable:
+Knowledge of electronic warfare (EW) systems and counter-UAS technologies.
+Knowledge of machine learning concepts and how they are applied to solve problems in RF sensing.
+Programming experience in Python, MATLAB, C++, or similar languages for signal processing and analysis.
+
+
+
+
+Note for recruitment agencies: We do not accept unsolicited candidates from external recruiters unless specifically instructed.
+
+
+
+
+
+
+
+
+PI279424298"
