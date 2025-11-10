@@ -1,5 +1,75 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88423362,AI Engineering and Strategy Lead,SALT SEARCH PTY LTD,https://www.seek.com.au/job/88423362?type=standard&ref=search-standalone&origin=jobCard#sol=5f50fa1f9bd1421cfd37a47b272b5994acb66cb9,1h ago,1.0,2025-11-10T06:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Help shape the next generation of AI platforms - driving real-world impact across price, risk, and customer.
+88426892,Data Engineer,Pathway Search,https://www.seek.com.au/job/88426892?type=standard&ref=search-standalone&origin=jobCard#sol=455af6e3fca23b128776c1489ddde9bb586c7db5,1h ago,1.0,2025-11-10T07:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Data Engineer – Databricks / AWS (Mid–Senior Level) Sydney | Hybrid Work | Fintech Scale-Up Environment
+
+Are you a Data Engineer who loves building scalable data pipelines and enabling real-time machine learning systems?
+
+Join a fast-growing tech company that’s transforming how Australians interact with data-driven products — using cutting-edge cloud and ML infrastructure to deliver seamless digital experiences.
+
+You’ll be part of a high-impact Data & ML Engineering team responsible for the platforms, pipelines, and frameworks that power real-time insights and intelligent customer experiences.
+
+What You’ll Do
+Design, build, and maintain data pipelines and ETL frameworks in Databricks and AWS
+Support real-time inference and model deployment pipelines for low-latency ML systems
+Collaborate with Data Scientists and ML Engineers to productionise models and improve reliability
+Implement best practices in data quality, testing, observability, and version control
+Contribute to evolving the data platform architecture and engineering standards
+What We’re Looking For
+3–6+ years’ experience in Data Engineering or similar roles
+Strong hands-on experience with Databricks (Spark, Delta Lake, dbt or similar)
+Solid background with AWS data stack (S3, Glue, Lambda, Redshift, Kinesis, etc.)
+Skilled in Python and SQL for data transformation and automation
+Understanding of MLOps concepts (model deployment, monitoring, automation)
+Experience or exposure to real-time / online inference pipelines and streaming data
+Strong engineering principles — CI/CD, version control, testing, performance optimisation
+Bonus: experience with MLflow, Airflow, or Terraform
+Why You’ll Love It Here
+Be part of a modern data culture where your work directly supports ML-driven products in production
+Work alongside a collaborative, high-performing team passionate about data and impact
+Hybrid work flexibility (Sydney-based)
+Competitive salary + potential equity
+Real opportunity for career growth as the team scales"
+88425398,Systems Reliability Engineer,Macquarie Technology Group,https://www.seek.com.au/job/88425398?type=standard&ref=search-standalone&origin=jobCard#sol=9f023c7f67a03280aa78c7ed5753e73e64c4c5c5,2h ago,2.0,2025-11-10T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About us
+
+We’re proud to be Australia's #1 Technology Great Place to Work 2025 for the second year running! This is in addition to being Great Place to Work Certified 2024. We've also won the 2024 Gallup Exceptional Workplace Award globally!
+
+Macquarie Cloud Services are the Australian specialists in cloud services for business and government. Locally owned and operated, with an industry-leading customer service model, we’re trusted by our customers to provide the services that enable their business success.
+
+We have made it our challenge to make our people feel good and love the work they do. Because of this, our people are energised and motivated in their work. 
+
+We believe that collaboration & team connection is key for success. This role will be based in Sydney with a blended working arrangement of 3 days in our CBD offices & the remaining working from home. #LI-Hybrid
+
+The Opportunity
+
+Be part of a new and growing capability at Macquarie Cloud Services, helping to shape it from the ground up. Join a dedicated team that’s driving innovation, automation, and exceptional outcomes for our customers.
+
+As a Systems Reliability Engineer (SRE), you’ll work across hybrid projects 60% software development, 40% infrastructure building and automating Azure environments through code. From Infrastructure as Code (IaC) and Identity Management to Data & AI, you’ll deliver impactful solutions with strong automation focus that help customers modernise their cloud operations.
+
+If you’re passionate about automation, cloud innovation, and making a real impact this is a great opportunity to join Australia’s number one MSP. You will get exposure to cutting-edge cloud automation and data pipeline projects.
+
+In this role, you’ll bridge the gap between software development and IT operations by designing, building, and automating Azure environments through code. Working in an agile environment, you’ll deliver continuous improvements that enhance reliability and align with customer goals and the Azure Well-Architected Framework.
+
+You’ll also strengthen our internal capability by improving knowledge bases, runbooks, and delivery templates to drive faster, more consistent outcomes across Macquarie Cloud Services.
+
+Azure and other Technical Skills required
+
+Compute: Virtual Machines (Windows & Linux), Virtual Machine Scale Sets, App Services, Web Apps, Function Apps, Logic Apps, Azure Kubernetes Service, Azure Arc.
+Networking: Application Gateway, Azure Bastion, DDoS Protection, Azure DNS, Azure ExpressRoute, Azure Firewall, Azure Front Door, Content Delivery Network, Azure Private Link, Load Balancer, Network Security Groups, Traffic Manager, VPN Gateway, Virtual Network, Virtual WAN, Web Application Firewall (WAF), Network Watcher.
+Storage: Storage Accounts, Storage Explorer, Archive Storage, Azure Backup, Azure Files, Azure NetApp Files, Blob Storage, Disk Storage, Managed Disks, Queue Storage, Table Storage..
+Identity: Entra ID, AAD Connect, Entra Domain Services (AADDS).
+Management and Governance: Automation, Azure Advisor, Azure Blueprints, Azure Monitor, Azure Policy, ARM & Templates, Azure Service Health, Azure Site Recovery, Cloud Shell.
+Integration: API Management.
+Migration: Azure Migrate, Azure Database Migration Service.
+Security: Key Vault, Security Center.
+Database: SQL Server on VMs, Azure Cache for Redis, Azure SQL Database, Azure Database for MySQL, PostgreSQL.
+Data & AI: Azure AI Foundry, Azure AI Services, Microsoft Fabric, Azure Synapse Analytics.
+Scripting & Automation: PowerShell, Terraform (Desired), Bicep (Optional – willing to learn), Git, Common CI/CD platforms.
+Operating Systems: Advanced knowledge of Microsoft Server operating systems, MCSE certified 2003/8 or higher. Strong Unix / Linux knowledge.
+Broad Technical Knowledge: Advanced knowledge of DNS, Mail and WWW services.
+Agile tools: Jira, Azure DevOps, GitHub Issues, ServiceNow.
+Software development: An understanding of application deployment methodologies for common programming languages: .NET Core (C#), Python, Java.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+88423362,AI Engineering and Strategy Lead,SALT SEARCH PTY LTD,https://www.seek.com.au/job/88423362?type=standard&ref=search-standalone&origin=jobCard#sol=6c7e5725cd1839b9435d1c77ec392d88d5edd634,2h ago,2.0,2025-11-10T06:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Help shape the next generation of AI platforms - driving real-world impact across price, risk, and customer.
 
 We're seeking a hands-on AI leader who can design, build, and scale enterprise AI systems - not just talk about them. You'll work across data, engineering, and business teams to deliver production-grade AI and ML capabilities that make a difference.
 
@@ -34,7 +104,7 @@ We pay our respects to all First Nations Australians and their Elders past and p
 We're proud to have won the Best Mid-Sized Recruitment Company to Work For at the 2023 TIARA Recruitment Awards, and to have been finalists, for the second year in a row, in the Client Service and Recruitment Leader of the Year categories! At Salt, our mission is Creating Futures by putting our clients, candidates, partners, and team members at the heart of everything we do. We extend our sincere appreciation to everyone who has contributed to our continued success.
 
 Salt acknowledges the Traditional Owners of the lands across Australia as the continuing custodians of country and culture. We pay our respects to all First Nations Australians and their Elders past and present."
-88422855,AI Engineer,Opus Recruitment Solutions,https://www.seek.com.au/job/88422855?type=standard&ref=search-standalone&origin=jobCard#sol=c643eb4c8edb371a43d5652c39395e15f2bf6131,1h ago,1.0,2025-11-10T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $170k + super,"Role:
+88422855,AI Engineer,Opus Recruitment Solutions,https://www.seek.com.au/job/88422855?type=standard&ref=search-standalone&origin=jobCard#sol=e1369a38f5e24f02c0b2661f36b83a26381acc45,2h ago,2.0,2025-11-10T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $170k + super,"Role:
 
 AI Engineer (Software Engineer Background)
 
@@ -125,7 +195,7 @@ Apply now!
 *Please note: Sponsorship is unavailable for this role
 
 *Research or Graduate positions will not count towards experience requirements"
-88420687,Electronics Specialists L4-6,Australian Secret Intelligence Service,https://www.seek.com.au/job/88420687?type=standard&ref=search-standalone&origin=jobCard#sol=f5bdef59174bb3f8275f7c5c1f858251777f9714,2h ago,2.0,2025-11-10T05:00:00+00:00,Canberra ACT,"Help Desk & IT Support (Information & Communication Technology)
+88420687,Electronics Specialists L4-6,Australian Secret Intelligence Service,https://www.seek.com.au/job/88420687?type=standard&ref=search-standalone&origin=jobCard#sol=f5303fc36d8eace5b75839661c8bdfd135fb5060,4h ago,4.0,2025-11-10T04:00:00+00:00,Canberra ACT,"Help Desk & IT Support (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$97,148 - $133,968 plus superannuation","ASIS is seeking specialists to join a small team that provides a variety of bespoke capabilities to support ASIS operations. We are seeking electronics technicians and related trades who can contribute to the manufacture of highly sensitive and unique capabilities that provide ASIS with an operational advantage.
 
  
@@ -191,7 +261,7 @@ o  Radio Frequency (RF) principles and application
 o  Micro Soldering and Component Assembly
 
 o  Microcontrollers, for example Arduino / RPi / STM / PIC"
-88420685,Server Engineers L5-6,Australian Secret Intelligence Service,https://www.seek.com.au/job/88420685?type=standard&ref=search-standalone&origin=jobCard#sol=a5113e18d116828b3957bc3ce7e71437fda1182e,2h ago,2.0,2025-11-10T05:00:00+00:00,Canberra ACT,"Networks & Systems Administration (Information & Communication Technology)
+88420685,Server Engineers L5-6,Australian Secret Intelligence Service,https://www.seek.com.au/job/88420685?type=standard&ref=search-standalone&origin=jobCard#sol=cc6b2a758dd2c4243cfef0861581cda1449c6436,4h ago,4.0,2025-11-10T04:00:00+00:00,Canberra ACT,"Networks & Systems Administration (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$105,013 - $133,968 plus superannuation","Role: Server Engineers – (L5-L6)
 
 We are seeking Server Engineers with the requisite skills and experience who are excited about applying their skills across a variety of operational and corporate technology areas in a fast-paced and complex global environment. These roles will see you providing essential services to ASIS as you work within highly experienced teams.
@@ -250,7 +320,7 @@ Experience in the following would be beneficial, but not essential:
 ·        Microsoft Exchange
 
 Desktop and SOE support and development"
-88417842,AI Enablement Lead,BGL Corporate Solutions Pty Ltd,https://www.seek.com.au/job/88417842?type=standard&ref=search-standalone&origin=jobCard#sol=591b268eb40e07ffd17d21eb7dd3f3f332f347d2,4h ago,4.0,2025-11-10T03:00:00+00:00,"Canterbury, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,"From $145,000 package (inc super)","About the role
+88417842,AI Enablement Lead,BGL Corporate Solutions Pty Ltd,https://www.seek.com.au/job/88417842?type=standard&ref=search-standalone&origin=jobCard#sol=c5de8688aee52e8c8c824e378e26748e393ae1eb,5h ago,5.0,2025-11-10T03:00:00+00:00,"Canterbury, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,"From $145,000 package (inc super)","About the role
 
 We are seeking an experienced AI Enablement Lead to champion the adoption of AI-powered tools and automation across BGL’s product and engineering teams. In this strategic and hands-on role, you’ll work at the cutting edge of technology, partnering with stakeholders to drive meaningful, organisation-wide transformation.
 
@@ -311,7 +381,7 @@ Paid volunteering leave
 Please note we are only able to consider applicants with full working rights in Australia.
 
 We review applications on an ongoing basis so encourage you to apply as soon as possible."
-88417741,Senior Data Scientist,Ethos BeathChapman,https://www.seek.com.au/job/88417741?type=standard&ref=search-standalone&origin=jobCard#sol=0499b4ecb25a552c2112d468bb89ebf1aa8ebe98,4h ago,4.0,2025-11-10T03:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,AUD 180000 - 190000 per annum,"Senior / Lead Data Scientist – GenAI & Agentic AI Focus
+88417741,Senior Data Scientist,Ethos BeathChapman,https://www.seek.com.au/job/88417741?type=standard&ref=search-standalone&origin=jobCard#sol=01a23e97f666714f077bceb5f60198ff791e775a,5h ago,5.0,2025-11-10T03:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,AUD 180000 - 190000 per annum,"Senior / Lead Data Scientist – GenAI & Agentic AI Focus
 Location: Sydney
 Salary: Up to $190K + Super
 I'm working closely with a well-established client in Sydney who is at the forefront of AI innovation. They’ve already deployed multiple production-grade Generative AI models and are now deep into their Agentic AI journey. With a strong, technically mature data science team in place, they’re looking to bring on a Senior or Lead Data Scientist to help drive the next phase of intelligent system development.
@@ -336,7 +406,7 @@ A mature, well-resourced data science team and strong engineering support.
 The chance to work on real-world, high-impact AI projects.
 Clear pathways for growth, leadership, and innovation.
 If you're a senior data scientist ready to take the lead in a company that’s already delivering cutting-edge AI solutions, I’d love to hear from you."
-88416965,AI Senior Architect,FinXL IT Professional Services,https://www.seek.com.au/job/88416965?type=standard&ref=search-standalone&origin=jobCard#sol=96060cfecae8f5126de8c08a8e4e933ae8180904,4h ago,4.0,2025-11-10T03:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Contract/Temp,,"AI Senior Architect
+88416965,AI Senior Architect,FinXL IT Professional Services,https://www.seek.com.au/job/88416965?type=standard&ref=search-standalone&origin=jobCard#sol=acd61943af85ace56aa66501790d913a21ee0286,5h ago,5.0,2025-11-10T03:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Contract/Temp,,"AI Senior Architect
 Leading Telco client (consulting through FinXL)
 
 FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
@@ -388,7 +458,7 @@ Next Steps
 If you would like to apply for this opportunity, please submit your CV via SEEK.
 
 Please note that due to the volume of responses, only shortlisted consultants will be contacted."
-88416471,Project Engineer (Variable Drive System),Rockwell Automation,https://www.seek.com.au/job/88416471?type=standard&ref=search-standalone&origin=jobCard#sol=111e7f58c02efc65116975353ec24e22c9761aec,4h ago,4.0,2025-11-10T03:00:00+00:00,Sydney NSW (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,"$103,200 – $140,000 per year","Why Join Us?
+88416471,Project Engineer (Variable Drive System),Rockwell Automation,https://www.seek.com.au/job/88416471?type=standard&ref=search-standalone&origin=jobCard#sol=06c30ab249249392455250ceefd73f7312c70885,5h ago,5.0,2025-11-10T03:00:00+00:00,Sydney NSW (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,"$103,200 – $140,000 per year","Why Join Us?
 
 As a Project Engineer you will be part of a high-performing team delivering advanced guide control solutions across Australia and New Zealand. You'll work on impactful projects in heavy industries, contributing to digital transformation. You will report to engineering manager based in Australia.
 
@@ -489,7 +559,7 @@ At Rockwell Automation we are dedicated to building a diverse, inclusive and aut
 You may be just you or other roles.
 
 #LI-Hybrid #LI-NC1"
-88415529,Graduate AI Engineer (Backend + LLM),Brokerpedia,https://www.seek.com.au/job/88415529?type=standard&ref=search-standalone&origin=jobCard#sol=95ee486f00c9a37b602b0733a7f151ab74f040bd,5h ago,5.0,2025-11-10T02:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,"₱60,000 – ₱90,000 per year (PHP)","About Us:
+88415529,Graduate AI Engineer (Backend + LLM),Brokerpedia,https://www.seek.com.au/job/88415529?type=standard&ref=search-standalone&origin=jobCard#sol=e3c48b5368b7c6581d1275f89303b62b4f83693e,6h ago,6.0,2025-11-10T02:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,"₱60,000 – ₱90,000 per year (PHP)","About Us:
 For some 30 years, our Sydney-based firm has delivered trusted mortgage and credit solutions to Australian clients. With 15 dedicated professionals and a focus on innovation, we combine decades of expertise with cutting-edge technology
 
 We've spent decades deep in Australian lending. Now we're building RobinAI – a scenario engine that lets brokers test real loan applications against real lender rules and get answers they can trust. We're looking for one exceptional early-career engineer to help build the brain of this system. You'll work directly with a Principal Engineer and a Senior Credit Manager, on real applied AI, decisioning, and financial systems used by brokers every day. This is a fast-track role: big ownership, proper mentoring, and clear upside as you prove impact what you'll do.
@@ -661,7 +731,7 @@ one project you're proud of,
 what you actually built,
 
 why you want to work on RobinAI's scenario engine."
-88413625,Software Engineer,TL Consulting Group,https://www.seek.com.au/job/88413625?type=standard&ref=search-standalone&origin=jobCard#sol=d2579ede98d4a9a9e51f49c91b456eb554eae439,5h ago,5.0,2025-11-10T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At TL Consulting, we simplify modern complexity with advanced, sustainable engineering. As a proudly Australian-owned consultancy with over 15 years of experience, we empower businesses to innovate and achieve measurable outcomes through scalable, cloud-native solutions. Our 50+ consultants operate across key sectors including banking, financial services & insurance (BFSI), government, retail, education, and entertainment. This cross-industry expertise allows us to deliver customer-centric solutions that combine deep technical capability with a clear understanding of each client’s strategic vision. Our approach leverages proven, scalable blueprints tailored to your business direction—enabling accelerated outcomes, maximized ROI, and sustainable long-term adoption.
+88413625,Software Engineer,TL Consulting Group,https://www.seek.com.au/job/88413625?type=standard&ref=search-standalone&origin=jobCard#sol=b53c47eae9cfaa59599fe4159dc4377339f9798e,7h ago,7.0,2025-11-10T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At TL Consulting, we simplify modern complexity with advanced, sustainable engineering. As a proudly Australian-owned consultancy with over 15 years of experience, we empower businesses to innovate and achieve measurable outcomes through scalable, cloud-native solutions. Our 50+ consultants operate across key sectors including banking, financial services & insurance (BFSI), government, retail, education, and entertainment. This cross-industry expertise allows us to deliver customer-centric solutions that combine deep technical capability with a clear understanding of each client’s strategic vision. Our approach leverages proven, scalable blueprints tailored to your business direction—enabling accelerated outcomes, maximized ROI, and sustainable long-term adoption.
 
 
 
@@ -748,7 +818,7 @@ This is a Sydney based, permanent opportunity and will be hybrid in nature. No a
 
 
 TL Consulting Group understands the importance of fostering a diverse and inclusive workplace. We are committed to ensuring that everyone, no matter their gender, identity, sexual orientation, race, ethnicity, religion, disability, or age, has equal access to opportunities. We warmly welcome applications from all individuals, including Aboriginal and Torres Strait Islander peoples, members of the LGBTQI+ community, and individuals with disabilities."
-88413633,Senior Automation Engineer,CSL Limited,https://www.seek.com.au/job/88413633?type=standard&ref=search-standalone&origin=jobCard#sol=76381e0d6b110f9ea3019c0a133d2ccd05c12917,5h ago,5.0,2025-11-10T02:00:00+00:00,"Broadmeadows, Melbourne VIC",Other (Information & Communication Technology),Full time,Competitive Salary + Super + Overtime,"CSL Behring's plasma base fractionation facility at Broadmeadows in Victoria, Australia, was recently named 2025 Facility of the Year by the International Society for Pharmaceutical Engineering (ISPE) for its “full-scale application and integration of robotics and automation technologies.
+88413633,Senior Automation Engineer,CSL Limited,https://www.seek.com.au/job/88413633?type=standard&ref=search-standalone&origin=jobCard#sol=fad7a4c7f502608e817d19600cac75ce85d4ad79,7h ago,7.0,2025-11-10T01:00:00+00:00,"Broadmeadows, Melbourne VIC",Other (Information & Communication Technology),Full time,Competitive Salary + Super + Overtime,"CSL Behring's plasma base fractionation facility at Broadmeadows in Victoria, Australia, was recently named 2025 Facility of the Year by the International Society for Pharmaceutical Engineering (ISPE) for its “full-scale application and integration of robotics and automation technologies.
 
 Your Role
 
@@ -840,7 +910,7 @@ At CSL, Inclusion and Belonging is at the core of our mission and who we are. It
 
 
 Do work that matters at CSL Behring!"
-88412180,Full Stack Engineer | AI Startup,Voxworks Technologies Pty Ltd,https://www.seek.com.au/job/88412180?type=standard&ref=search-standalone&origin=jobCard#sol=f6702f0d3ebf9fbf6ca44a64e0bc1e86d2422410,6h ago,6.0,2025-11-10T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$130,000 – $150,000 per year","About Voxworks
+88412180,Full Stack Engineer | AI Startup,Voxworks Technologies Pty Ltd,https://www.seek.com.au/job/88412180?type=standard&ref=search-standalone&origin=jobCard#sol=93ccee285fc59cb3e96ad504ed0ac924761e276a,7h ago,7.0,2025-11-10T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$130,000 – $150,000 per year","About Voxworks
 
 Voxworks is an Australian AI company building the future of human–machine conversation.
 
@@ -919,7 +989,7 @@ Own Big Projects – Take engineering projects from concept to launch. Leading t
 Craft Great UX – Collaborate with designers, PMs, and other engineers to create fast, intuitive, and beautiful intuitive user experiences.
 
 Partner With Customers – Work directly with users to support onboarding, debug tough issues, and turn feedback into features that drive trust and long-term success."
-88410012,Staff Cloud Engineer,Lookahead,https://www.seek.com.au/job/88410012?type=standard&ref=search-standalone&origin=jobCard#sol=cd69a9e5e512c67128421c5500f061b6cfabe3dc,8h ago,8.0,2025-11-09T23:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,$1200 to $1350 per day including super,"The role
+88410012,Staff Cloud Engineer,Lookahead,https://www.seek.com.au/job/88410012?type=standard&ref=search-standalone&origin=jobCard#sol=3af821b72fac512f30292b0cb8f645b1432e6389,10h ago,10.0,2025-11-09T22:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,$1200 to $1350 per day including super,"The role
 You'll be part of a small Australian team within a US based tech company building a platform using AI to develop mapping of global supply chains. You’ll architect and build infrastructure and internal developer platforms, working mainly with Python, Terraform, AWS and Kubernetes, with some Azure. 
 
 About you
