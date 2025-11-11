@@ -1,5 +1,274 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88447001,Senior Systems Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/88447001?type=standard&ref=search-standalone&origin=jobCard#sol=94cda6671cf82ccb31cecdd806bb9a92b037dde0,1h ago,1.0,2025-11-11T03:00:00+00:00,Canberra ACT,Engineering - Hardware (Information & Communication Technology),Full time,Base + Super + Leidos Life Days,"Life Days are the Leidos way of recognising that we all need extra time to take care of life. By working slightly more than the minimum weekly hours (2 hours per week for full-timers), you can accrue up to 12 days of leave per year.
+88449365,Machine Learning Engineer - ML Ops,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/88449365?type=standard&ref=search-standalone&origin=jobCard#sol=fa529f065dcf0a65696f8ad361f90af90902c6a2,1h ago,1.0,2025-11-11T04:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
+
+Harnessing its own patented camera systems, imagery capture, AI, geospatial tools, and advanced SaaS platforms, Nearmap stands as the definitive source of truth that shapes the livable world.
+
+Job Description
+
+
+The Machine Learning (ML) Systems Engineer is a key architect of the platform that empowers our teams to build, deploy, and operate AI models at scale. You will design and build the core infrastructure, pipelines, and tools supporting everything from traditional ML to Large Language Models (LLMs). This is a high-impact software engineering role for those passionate about building robust, scalable systems that improve developer velocity and enable the effective application of AI across the organization.
+
+Key Responsibilities
+
+Build the Core Platform: Design, build, and operate our ML infrastructure on Kubernetes for model training and inference.
+Develop Force-Multiplier Tools: Create tooling to streamline the end-to-end ML/LLM lifecycle (e.g., experiment tracking, RAG systems, model observability).
+Drive Best Practices: Design and implement MLOps and AIOps principles to improve automation, reliability, and security.
+Collaborate and Enable: Work closely with Data Scientists and ML Engineers as your internal customers to understand their needs and accelerate their work.
+
+Personal Attributes we love to see:
+
+Pragmatism: While extensive knowledge of ML theory is highly valued, pragmatism wins over elaborate theory when it comes to shipping products that work.
+Collaboration: We believe data science is a team sport, and are after candidates who can communicate well, share knowledge, and be open to taking on ideas from anyone in the team. Having worked on shared code-bases in a commercial environment is a big plus, but it's the attitude that matters most.
+Technical Skills: A decent base of python and linux are key to a role in the team. Other than that, we're pretty flexible - we know tools are changing rapidly, and will continue to do so for many years to come. Experience with tools like Kubernetes, Helm, PyTorch, Terraform, Prometheus etc. are highly valued, but not mandatory.
+Attention to detail: Showing attention to detail when it counts is important.
+
+Qualifications
+
+
+Key Requirements
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+2+ years of experience in software engineering, writing production-grade code.
+Strong proficiency in Python within a Linux/Unix environment.
+Hands-on experience with containerization (Docker) and orchestration (Kubernetes).
+Solid grasp of modern software development practices (Git, CI/CD, automated testing).
+Highly Desirable
+Experience building or managing infrastructure on a major cloud platform (AWS, GCP, Azure).
+Familiarity with Infrastructure as Code (IaC) tools like Terraform or Pulumi.
+Practical experience with the MLOps/LLMOps lifecycle and its ecosystem (e.g., vector DBs, serving frameworks).
+Experience with observability stacks (Prometheus, Grafana) or managing large-scale GPU workloads.
+
+Additional Information
+
+
+Some of our benefits
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Access to LinkedIn Learning
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+
+Read the product documentation for Nearmap AI:
+
+https://docs.nearmap.com/display/ND/NEARMAP+AI
+
+For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
+88449370,Machine Learning Engineer - Agentic AI,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/88449370?type=standard&ref=search-standalone&origin=jobCard#sol=bfb08c9c010e635dd6451da71546242adb1084e7,1h ago,1.0,2025-11-11T04:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
+
+Harnessing its own patented camera systems, imagery capture, AI, geospatial tools, and advanced SaaS platforms, Nearmap stands as the definitive source of truth that shapes the livable world.
+
+Job Description
+
+
+The Machine Learning (ML) Engineer will undertake technical work to design, prototype and develop LLM-based products that utilise Earth Observation data, primarily Nearmap imagery and AI data. Where a data scientist will typically focus more on the meaning in the data, and producing accurate models, the ML Engineer focusses on integrating models and data into complex workflows that autonomously solve problems. The role requires solving a variety of challenging problems in software engineering, agentic AI design and evaluation, and close collaboration with data scientists as a peer.
+
+Key Responsibilities
+
+Performs software engineering tasks required by an end-to-end AI system.
+Designing, building and maintaining subcomponents of an AI system, in collaboration with data scientists: microservices, APIs, working with technologies such as Docker, Kubernetes, MCP.
+Collaborating with other engineering teams and DevOps to ensure consistent best practices and integration of systems.
+Reviews code and work of peers.
+
+Personal Attributes we love to see:
+
+Pragmatism: While extensive knowledge of ML theory is highly valued, pragmatism wins over elaborate theory when it comes to shipping products that work.
+Collaboration: We believe data science is a team sport, and are after candidates who can communicate well, share knowledge, and be open to taking on ideas from anyone in the team. Having worked on shared code-bases in a commercial environment is a big plus, but it's the attitude that matters most.
+Technical Skills: A decent base of python and linux are key to a role in the team. Other than that, we're pretty flexible - we know tools are changing rapidly, and will continue to do so for many years to come. Experience with tools like Kubernetes, Helm, PyTorch, Terraform, Prometheus etc. are highly valued, but not mandatory.
+Attention to detail: Showing attention to detail when it counts is important.
+
+Qualifications
+
+
+Key Requirements
+
+Formal education in a technical, data related field (Bachelor’s degree in computer science, engineering, statistics, physics, etc.), with an emphasis on software development.
+Ideally at least 2 years experience writing production grade commercial software in a team environment.
+Machine learning knowledge and experience with LLM-powered systems is highly desirable, but a passion to learn more is sufficient. We see ML engineering as a sub-field of software engineering, that benefits greatly from a good
+Mandatory
+Programming/Tech Environments: Ability to code in scientific python, using a linux environment, and git for source control.
+Machine Learning: Appreciation of machine learning fundamentals.
+Engineering Approach: Follow best practices in modern software engineering, applying them to build robust, scalable machine learning systems.
+Highly Desirable
+Domain Knowledge – NLP/LLM: Working on Machine Learning problems applied to text data.
+Software Engineering: Working on shared codebases to produce production quality code.
+Cloud Computing: Working on AWS or GCP using distributed virtual machines, docker containers, etc.
+GPU: Using GPUs to accelerate scientific computing.
+Deep Learning: Applying modern artificial neural networks to solve machine learning problems.
+Scale: Working with large data sets, where data sets don’t fit into memory, and require multiple nodes to compute efficiently.
+
+Additional Information
+
+
+Some of our benefits
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Access to LinkedIn Learning
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+
+Read the product documentation for Nearmap AI:
+
+https://docs.nearmap.com/display/ND/NEARMAP+AI
+
+For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
+88448406,Senior AI Research Computing Engineer,Monash University,https://www.seek.com.au/job/88448406?type=standard&ref=search-standalone&origin=jobCard#sol=dd67c68c7313a1b531d8d676115238f755ccb605,1h ago,1.0,2025-11-11T04:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+Other (Education & Training)",Full time,"$140,157 - $148,769 pa HEW Level 09 plus 17% super","Job No.: 686114
+
+Location: Clayton campus
+
+Employment Type: Full-time
+
+Duration:  3 year fixed-term appointment
+
+Remuneration: $140,157 - $148,769 pa HEW Level 09 (plus 17% employer superannuation) although a competitive remuneration package can be applied for an experienced candidate
+
+Amplify your impact at a world top 50 University
+Join our inclusive, collaborative community
+Be surrounded by extraordinary ideas - and the people who discover them
+
+The Opportunity
+
+Project MAVERIC is a Monash-led initiative pioneering the next generation of AI-driven research infrastructure. Its mission is to accelerate discovery in addressing some of humanity's most pressing challenges, from combating disease to advancing environmental science. By uniting high-performance computing, large-scale data systems, and cutting-edge AI infrastructure, MAVERIC is redefining how researchers develop, train, and scale artificial intelligence to solve complex real-world problems. 
+
+We are seeking Senior AI Research Computing Engineers to play a pivotal technical leadership role in bringing this vision to life. In this position, you will act as the critical link between ambitious research goals and the powerful computing systems that enable them. You will architect, implement, and support the distributed AI platforms that form the foundation of MAVERIC’s mission, empowering researchers to push the limits of generative AI, computational science, and cross-disciplinary innovation. 
+
+This role suits someone who excels at the intersection of software engineering, high-performance computing, and applied artificial intelligence. You'll work very closely with researchers to translate and accelerate their research using AI, turning complex scientific challenges into breakthrough computational solutions.
+
+Key Responsibilities
+
+Partner with researchers across diverse domains (drug discovery, healthcare, computer vision, and beyond) to translate scientific goals into scalable AI/ML solutions
+Architect and optimise sophisticated AI models for high performance computing (HPC) environments, implementing distributed training strategies and performance tuning at scale
+Lead development of automated MLOps pipelines using containerisation, orchestration platforms, and CI/CD practices.
+Benchmark, profile, and optimise AI applications across software and hardware layers to maximise GPU cluster efficiency
+Build research community capability through expert consultation, training programs, and technical documentation.
+Evaluate and apply emerging AI/ML technologies to novel research problems.
+
+What We're Looking For
+
+Extensive experience applying AI/ML techniques (deep learning, natural language processing, computer vision, reinforcement learning) to complex scientific problems
+Expert Python programming with major ML frameworks (TensorFlow, PyTorch or equivalent)
+Proven experience designing and deploying AI workflows on HPC/GPU systems, including distributed training frameworks
+Linux system administration and HPC environment troubleshooting
+Ability to collaborate with researchers from diverse disciplines and work independently with minimal supervision
+
+Highly Regarded Skills/Experience
+
+Postgraduate degree in Computer Science, Data Science, Engineering, or related discipline with extensive relevant experience; OR equivalent combination of experience and education in AI/ML and research computing
+MLOps experience: containerisation (Docker, Singularity), orchestration (Kubernetes, Slurm), CI/CD pipelines
+Knowledge of GPU architecture, performance optimisation, and profiling tools
+
+About Monash University
+
+At Monash, work feels different. There’s a sense of belonging, from contributing to something ground breaking – a place where great things happen.
+
+We value difference and diversity, and welcome and celebrate everyone's contributions, lived experience and expertise. That’s why we champion an inclusive and respectful workplace culture where everyone is supported to succeed.
+
+Some 20,000 staff work for Monash around the world. We have 95,000 students, four Australian campuses, and campuses in Malaysia and Indonesia. We also have a major presence in India and China, and a significant centre and research foundation in Italy.
+
+In our short history, we have skyrocketed through global university rankings and established ourselves consistently among the world's best tertiary institutions. We rank in the world’s top-50 universities in rankings including the QS World University Rankings 2026.
+
+Learn more about Monash.
+
+Today, we have the momentum to create the future we need for generations to come. Accelerate your change here. 
+
+Monash supports flexible and hybrid working arrangements. We have a range of policies in place enabling staff to combine work and personal commitments. This includes supporting parents.
+
+To Apply
+
+For instructions on how to apply, please refer to 'How to apply for Monash Jobs'.
+
+Diversity is one of our greatest strengths at Monash. We encourage applications from Aboriginal and Torres Strait Islander people, culturally and linguistically diverse people, people with disabilities, neurodivergent people, and people of all genders, sexualities, and age groups.
+
+We are committed to fostering an inclusive and accessible recruitment process at Monash. If you need any reasonable adjustments, please contact us at hr-recruitment@monash.edu in an email titled 'Reasonable Adjustments Request' for a confidential discussion.
+
+Your employment is contingent upon the satisfactory completion of all pre-employment and/or background checks required for the role, as determined by the University.
+
+Enquiries: Joseph Pineda, Infrastructure Delivery Lead, joseph.pineda@monash.edu 
+
+Position Description: Senior AI Research Computing Engineer
+
+Applications Close: Tuesday 25 November 2025, 11:55pm AEST"
+88447667,Assistant Managers - Artificial Intelligence (AI),Clean Energy Regulator,https://www.seek.com.au/job/88447667?type=standard&ref=search-standalone&origin=jobCard#sol=638dea62d239991fe66102081a8afc017b11295f,1h ago,1.0,2025-11-11T04:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"The Clean Energy Regulator
+
+We are an economic regulator accelerating carbon abatement for Australia. We do this by administering Australian Government schemes to measure, manage, reduce and offset carbon emissions in Australia.
+
+Our role is determined by climate change law. We administer schemes that contribute to the Australian Government climate target of reducing emissions to 43% below 2005 levels by 2030 and Net Zero by 2050.
+
+Find out more about the Clean Energy Regulator and what we have to offer, please visit our website and for the latest update on activities, you can follow us on LinkedIn.
+
+Work with us
+
+Working with us isn’t just a job, it's a chance to have a rewarding career. We're looking for people with diverse skills, expertise and experience to work with us to reduce carbon emissions and increase the use of clean energy in Australia.
+
+About the Roles
+
+We are seeking Assistant Managers to join the Artificial Intelligence (AI) function.
+
+The AI Team is structured around two teams:
+
+AI Technical Capability Development
+
+This section leads the design, development, and deployment of AI solutions across the Agency. It provides technical leadership, supports pilot programs, and ensures alignment with IT architecture and data governance. The team is responsible for delivering robust solutions, developing and refining AI models, and integrating AI platforms into the Agency’s digital environment. Their work ensures that AI systems are secure, scalable, and aligned with CER architecture standards, supporting both operational efficiency and innovation.
+
+AI Adoption
+
+This section focuses on enabling the workforce to confidently and ethically engage with AI technologies. It delivers training, builds communities of practice, and supports the development of AI use cases through business analysis and stakeholder engagement. This section ensures AI is adopted in a way that is inclusive, people-centric, and aligned with the Agency’s values and operational goals.
+
+Together, these teams support the Chief AI Officer in delivering strategic leadership, uplifting AI literacy, managing risk, and ensuring the Agency remains adaptive and innovative.
+
+Positions are available in both AI Technical Capability Development section and AI Adoption section.
+
+The Assistant Manager, AI Technology Implementation supports the AI Business Unit and AI Technical Manager. This involves providing technical oversight and ensuring all AI initiatives are fit for purpose, align with the Agency’s IT architecture and data governance frameworks.
+
+The Assistant Manager AI Adoption supports the implementation of strategic initiatives to integrate artificial intelligence (AI) technologies across the agency, ensuring alignment with government priorities, ethical standards, and operational goals. This role involves stakeholder engagement, change management, and cross-functional coordination to harness AI opportunities and drive innovation. It also has a focus on managing the lifecycle of AI initiatives and ensuring business process re-engineering work informs efficiency or quality improvements for existing Agency processes.
+
+How to Apply
+
+To learn more about these roles, please click on 'Apply' to view the Clean Energy Regulator Careers page.
+
+Other Benefits
+
+Great work-life balance.
+Competitive salary packaging and leave options, including purchase leave.
+Diverse, supportive, inclusive and agile work environment, with staff at all levels being part of conversations with the senior executive and being offered the opportunity to experience different types of work.
+A wide range of learning and development opportunities.
+
+Applications close 11.30pm on Monday, 24 November 2025."
+88447001,Senior Systems Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/88447001?type=standard&ref=search-standalone&origin=jobCard#sol=e602244a734f41463101983ae924ace8bb806195,1h ago,1.0,2025-11-11T04:00:00+00:00,Canberra ACT,Engineering - Hardware (Information & Communication Technology),Full time,Base + Super + Leidos Life Days,"Life Days are the Leidos way of recognising that we all need extra time to take care of life. By working slightly more than the minimum weekly hours (2 hours per week for full-timers), you can accrue up to 12 days of leave per year.
 Due to the nature of the role, you must be an Australian Citizen and hold an active NV-1 AGVSA Security Clearance.
 
 Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers
@@ -48,7 +317,7 @@ Applicants may also need to meet International Traffic in Arms Regulations (ITAR
 We are committed to making our recruitment process accessible to all candidates. Please get in touch with our Careers team careers.au@au.leidos.com if you'd like to discuss any additional support during your application or throughout the recruitment process. 
 
 We're not looking for perfectly polished resumes or perfect fits. We're looking for people who break limits, ask hard questions, and don't wait to be told what's next. At Leidos, we're not following the roadmap - we're redrawing it."
-88445909,Manager Data Engineering Practice,Australian Unity,https://www.seek.com.au/job/88445909?type=standard&ref=search-standalone&origin=jobCard#sol=6e8940fd162deedfb2f353398c57e205aa81a52b,1h ago,1.0,2025-11-11T03:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
+88445909,Manager Data Engineering Practice,Australian Unity,https://www.seek.com.au/job/88445909?type=standard&ref=search-standalone&origin=jobCard#sol=553333e60a116f94fd33253ab82d4e14455e9a0e,2h ago,2.0,2025-11-11T03:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -105,7 +374,7 @@ Available access to LinkedIn Learning courses through our great Learning platfor
 For further benefits visit: https://www.australianunity.com.au/careers/culture
 
 Australian Unity is an Equal Opportunity employer and we encourage applications from all members of the community, including people of Aboriginal and Torres strait Islander descent, culturally and linguistically diverse backgrounds and, mature aged people."
-88438007,"Senior Software Engineer - Full Stack, Cloud & AI",Trellis Technologies,https://www.seek.com.au/job/88438007?type=standard&ref=search-standalone&origin=jobCard#sol=b168cf6b7532884e1cb8a00e2fdf2fdc8e95e616,5h ago,5.0,2025-11-10T23:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Software Engineer (Full Stack, Cloud & AI)
+88438007,"Senior Software Engineer - Full Stack, Cloud & AI",Trellis Technologies,https://www.seek.com.au/job/88438007?type=standard&ref=search-standalone&origin=jobCard#sol=f3c1190e8ce019d920e759769001098fdb09eae5,6h ago,6.0,2025-11-10T23:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Software Engineer (Full Stack, Cloud & AI)
 
 Our Business
 
@@ -172,7 +441,7 @@ While based in the vibrant and well-equipped Lot Fourteen, team members enjoy fl
 We are committed to professional development and learning, offering opportunities to engage with emerging technologies and trends that can enhance both our products and your career trajectory.
 
 Experience a leadership style that is focused on empowerment and accountability, supporting both personal and professional growth."
-88437952,Integration Engineer,Emmbr,https://www.seek.com.au/job/88437952?type=standard&ref=search-standalone&origin=jobCard#sol=034e38dd3f13ffe16ef3f9154e8ef6bd7c2e491f,5h ago,5.0,2025-11-10T23:00:00+00:00,"Docklands, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,+ Super,"Integration Engineer | Azure / .NET
+88437952,Integration Engineer,Emmbr,https://www.seek.com.au/job/88437952?type=standard&ref=search-standalone&origin=jobCard#sol=5d0c4b87b4710b427630e3f446517ae0579470c5,6h ago,6.0,2025-11-10T23:00:00+00:00,"Docklands, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,+ Super,"Integration Engineer | Azure / .NET
 
 We're looking for a technically strong Integration Engineer who lives and breathes connectivity, building the APIs, services, and pipelines that keep enterprise systems talking. You'll be hands-on in code, designing and delivering scalable, secure integrations across a modern Azure and .NET environment.
 
@@ -207,7 +476,7 @@ A collaborative mindset with the ability to own technical outcomes and drive bes
 Why this role
 
 If you're passionate about making systems work seamlessly together, this role will let you put that expertise to work. You'll help shape how a large enterprise connects its core platforms and deliver integrations that drive real business impact. Expect complex challenges, modern tools, and a team that values smart engineering and clean, maintainable code."
-88437843,Back-End Engineer (3DX),Invenio Pty Ltd,https://www.seek.com.au/job/88437843?type=standard&ref=search-standalone&origin=jobCard#sol=5577ee2486b01d1d0c9d3dd0694e8ec6f8cea07e,5h ago,5.0,2025-11-10T23:00:00+00:00,"Richmond, Richmond & Hawkesbury NSW",Developers/Programmers (Information & Communication Technology),Contract/Temp,$100 - $160/ hour + super,"Invenio Pty Ltd is supporting a leading Australian defence company in delivering next-generation digital engineering, PLM, and product lifecycle solutions.
+88437843,Back-End Engineer (3DX),Invenio Pty Ltd,https://www.seek.com.au/job/88437843?type=standard&ref=search-standalone&origin=jobCard#sol=e9ef22b17f2ec9b7b59ff5b7f3e11715b2de2be9,6h ago,6.0,2025-11-10T23:00:00+00:00,"Richmond, Richmond & Hawkesbury NSW",Developers/Programmers (Information & Communication Technology),Contract/Temp,$100 - $160/ hour + super,"Invenio Pty Ltd is supporting a leading Australian defence company in delivering next-generation digital engineering, PLM, and product lifecycle solutions.
 
 
  We’re looking for an experienced 3DEXPERIENCE (3DX) Back-End Engineer to design, develop, and maintain secure, high-performance systems across 3DEXPERIENCE, CATIA, and SOLIDWORKS platforms. 
@@ -289,7 +558,7 @@ Apply now and be part of an innovative team delivering world-class defence solut
 
 
 Requirements"
-88434930,"Software Engineer, Laptops and Tablets, Android",Google,https://www.seek.com.au/job/88434930?type=standard&ref=search-standalone&origin=jobCard#sol=176ce4940c8d993fa7c0b3cbc4ac126f8093122a,12h ago,12.0,2025-11-10T16:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+88434930,"Software Engineer, Laptops and Tablets, Android",Google,https://www.seek.com.au/job/88434930?type=standard&ref=search-standalone&origin=jobCard#sol=1bc8b5bbbc5180fd6a7af5576dc56dcf60e06aad,12h ago,12.0,2025-11-10T17:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
