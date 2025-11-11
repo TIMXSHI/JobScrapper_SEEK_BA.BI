@@ -1,5 +1,355 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88451867,Finance Business Partner,FourQuarters Recruitment,https://www.seek.com.au/job/88451867?type=standard&ref=search-standalone&origin=jobCard#sol=2a76676aef7d4b72845b98037ae65ae87c52ca4b,1h ago,1.0,2025-11-11T05:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Analysis & Reporting (Accounting),Full time,,"Business
+88453610,AI Devops Consultant,Ethan Talent,https://www.seek.com.au/job/88453610?type=standard&ref=search-standalone&origin=jobCard#sol=26a398da274f42f24a1d262f0df41bbf8060324f,1h ago,1.0,2025-11-11T06:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Contract/Temp,,"Are you an experienced Data Scientist with a passion for cutting-edge technology? Do you have expertise in large-scale data modeling, AI-driven solutions, and the Microsoft technology stack? We are seeking a Senior Data Scientist to join our dynamic team and help drive our data-driven initiatives to the next level!
+What You'll Do:
+Design & Architect: Lead the design and architecture of advanced data models and AI solutions, optimizing data flow and performance across the Microsoft technology stack, with a focus on Azure.
+Work with Large Data Sets: Handle large-scale datasets to build robust predictive models, identifying trends and driving actionable insights across various domains.
+AI & Machine Learning: Leverage AI technologies to create and deploy advanced algorithms, enhancing business intelligence and decision-making processes.
+Collaborate Across Teams: Work closely with cross-functional teams (including product, engineering, and business) to turn complex data into actionable strategies.
+Optimization: Continuously monitor, improve, and optimize data infrastructure and models to ensure efficiency, scalability, and accuracy.
+Skills & Experience:
+Advanced Data Science: Strong experience in building, deploying, and optimizing machine learning models for large-scale data sets.
+Microsoft Stack Expertise: Hands-on experience with the Microsoft technology stack, especially Azure, including Azure Machine Learning, Data Factory, and SQL-based services.
+Large Data Models: Proven experience in designing, developing, and working with large-scale data models to solve business challenges.
+Database Expertise: Familiarity with PostgreSQL and Azure Cosmos DB for distributed database management and performance tuning.
+AI/ML Development: Expertise in Artificial Intelligence, deep learning, and advanced algorithms for real-world applications.
+Architecture & Design: Strong background in designing and architecting complex data systems, ensuring scalability, reliability, and efficiency.
+Problem-Solving & Innovation: Ability to approach complex business problems with creative, data-driven solutions.
+Bonus Skills:
+Experience with Python, R, SQL, and other data science tools.
+Familiarity with cloud-native architecture, microservices, and distributed computing.
+Background in Big Data technologies (e.g., Spark, Hadoop) is a plus.
+Why Join Us?
+Innovative Environment: Work on exciting, high-impact projects that will shape the future of AI and data science.
+Career Growth: Opportunities for advancement and professional development in a rapidly growing tech company.
+Collaborative Culture: Join a team of experts who are passionate about pushing the boundaries of technology and data science.
+Competitive Compensation & Benefits: Enjoy a comprehensive package that rewards your expertise and contributions.
+If you are a Senior Data Scientist with a passion for AI, large data models, and the Microsoft tech stack (including Azure), we would love to hear from you! Apply today and be a part of our innovative journey."
+88453122,Senior Data and Analytics Platform Administrator,MinterEllison,https://www.seek.com.au/job/88453122?type=standard&ref=search-standalone&origin=jobCard#sol=3bba0906e591279eb467e9c1c2ad4022b00fd52e,1h ago,1.0,2025-11-11T06:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Your Role
+
+We have an exciting opportunity for a full-time permanent Senior Data & Analytics Platform
+
+Administrator to join our collaborative Digital team. In this role, you will be responsible for the configuration, administration, and optimisation of the firm's data and analytics platforms, ensuring they are secure, performant, and scalable as the firm expands its use of data, reporting, and AI.
+
+This role sits within the Digital team and provides the technical depth and hands-on expertise required to maintain, optimise and evolve the Microsoft Power BI and Microsoft Fabric environments, in partnership with the firm's Data Analytics and Insights team, Data Engineering, IT Applications and Cloud & Infrastructure. This role is available in our Sydney office with hybrid working arrangements available.
+
+Responsibilities of your role include but are not limited to:
+
+Data Platform Ownership & Configuration
+
+Administer, configure and optimise Microsoft Power BI and Microsoft Fabric platforms, including capacity management, workspace governance and provisioning, gateway configuration, and tenant settings.
+Manage role-based access control (RBAC), permissions, and data gateway connectivity across on-prem, Azure, and AWS environments.
+Implement and maintain Fabric components such as Dataflows, Lakehouse, Warehouse, and Synapse integration to enable and support the Data Analytics and Insights capability.
+Configure and enable new Fabric and Power BI features in accordance with IT change control and security policies.
+Monthly software updates
+
+Deployment, Version Control & Release Management
+
+Build and maintain deployment pipelines (CI/CD) for Power BI and Fabric assets, integrating with Git (Azure DevOps or GitHub).
+Manage branching strategies (feature, release, hotfix), pull requests, merge conflict resolution, and automated deployment workflows.
+Enforce versioning and release standards, ensuring consistent promotion of content across development, test, and production environments.
+Maintain deployment documentation and configuration baselines for audit and recovery.
+
+Monitoring, Troubleshooting & Administration
+
+Monitor Fabric and Power BI capacities, dataset refreshes, and workspace health using Fabric monitoring tools, APIs, and PowerShell.
+Diagnose and resolve refresh failures, performance bottlenecks, and capacity spikes, performing root-cause analysis and remediation.
+Implement automated monitoring and auditing scripts for capacity usage, workspace provisioning, and governance reporting.
+Apply incident management procedures, ensuring service continuity and documented resolution of technical issues.
+Liaise with Microsoft and third-party vendors to resolve platform or capacity-related issues.
+
+Performance Tuning & Validation
+
+Conduct performance tuning for datasets, reports, and semantic models using DAX Studio, Tabular Editor, and Performance Analyzer.
+Perform final review of self-service data models to validate performance, data accuracy, and adherence to platform standards.
+Optimise data refresh schedules and query performance to reduce capacity consumption and improve user experience.
+
+Data Integration & Orchestration
+
+Develop and maintain data ingestion and transformation pipelines using Microsoft Fabric Dataflows and Azure Databricks (SQL, PySpark).
+Integrate Fabric, Power BI, and Databricks endpoints to enable live analytics and support for data science workloads.
+Ensure secure and reliable data connectivity between hybrid sources across Azure, AWS, and on-prem environments.
+
+Cross Team Collaboration & Service Excellence
+
+Foster strong relationships with Data Analytics & Insights team, IT Applications, and Data engineering to ensure stability of Data platforms and maximise value.
+Build a strong bridge between Data Engineering, IT Applications, and Security teams to uphold high standards of service delivery and platform reliability.
+Ensure alignment to firm policies, procurement, and development guidelines; manage vendor/partner relationships where relevant.
+
+More About You
+
+We welcome applications from professionals who possess:
+
+5+ years' experience in Data & Analytics roles, with hands-on technical delivery and thought leadership.
+Expert in configuring and ensuring stability of Power BI environments (Desktop, Service, Admin/Tenant)
+Expert knowledge of Microsoft Fabric (OneLake, Lakehouse, Delta, Data Factory pipelines, notebooks, Spark/PySpark) with strong understanding of Azure data services.
+Relevant Azure and Fabric certifications is nice to have (DP700, DP600, PL300 etc).
+Strong experience with cloud-based Data Warehouse and Data Lake environments (Azure/AWS/GCP).
+Proficient in T-SQL, Python and PySpark for data transformation, orchestration and automation.
+Skilled in implementing Git-based workflows and CI/CD pipelines for BI and data assets using Azure DevOps or GitHub.
+Solid background in data architecture, governance and solution design, including medallion architecture, reusable data products and security/privacy by design.
+Exposure to AI and machine learning concepts, including LLMs (OpenAI, Bedrock), Azure AI Foundry
+
+
+
+
+How to apply
+
+We encourage applications from people of all ages, abilities, cultural backgrounds, genders (including trans or gender diverse), LGBTQ+ people and those with carer responsibilities. We particularly encourage Aboriginal and Torres Strait Islander people to apply.
+
+We prefer to connect with people directly, so please submit your CV by clicking on the 'Apply' button. We encourage all applications, including if you do not meet all the criteria listed for the role. Your application will also enable us to consider you for other opportunities that may be available at MinterEllison.
+
+If you are currently a MinterEllison employee, please apply through the internal careers page.
+
+If you would like further information, require any adjustments throughout the recruitment process or for a confidential discussion, please contact Alexandra.Hussain@minterellison.com."
+88452991,Senior Property Finance Analyst,ORIX Australia Corporation Limited,https://www.seek.com.au/job/88452991?type=standard&ref=search-standalone&origin=jobCard#sol=341a73aa5c76b8326a2762c1736ae7b13dea2233,1h ago,1.0,2025-11-11T06:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Corporate Finance & Investment Banking (Banking & Financial Services),Full time,,"As the Senior Property Finance Analyst, you’ll play a key role in supporting the growth of a newly established private credit business, focused on providing finance to private property developers and investors across Australia.
+
+You’ll help identify and analyse lending opportunities, build strong relationships across the property finance ecosystem, and provide guidance to Tokyo colleagues on the nuances of the Australian market.
+
+It’s a formative role - perfect for someone who enjoys variety, autonomy, and the chance to make a real impact in a business that’s just getting started.
+
+INCLUDED IN WHAT YOU'LL DO:
+Support the Head of Property Finance in building a strong pipeline of loan opportunities through relationships with brokers, lenders and property developers
+Conduct detailed analysis and assessments of potential lending transactions, highlighting key risks and mitigants
+Prepare high-quality credit submissions for internal and Tokyo Head Office review
+Liaise with internal stakeholders including Treasury, Legal and Finance, as well as external partners such as solicitors, valuers and quantity surveyors
+Provide education and insights to Tokyo Head Office on Australian real estate finance practices
+Monitor active development transactions, including attendance at Project Control Group meetings and managing monthly drawdowns
+Contribute to the development of underwriting and compliance standards as the business matures
+WHAT YOU HAVE:
+
+You’re an analytical and commercially minded professional with a solid foundation in property lending or credit risk. You thrive in environments where no two days are the same and enjoy the mix of operational delivery, relationship building and project work that comes with helping grow a new business function.
+
+You’ll also bring:
+
+3+ years’ experience in property lending or development finance (preferably residential)
+Experience within a bank or non-bank lending institution
+Strong understanding of credit risk and real estate market trends
+Excellent communication skills, with confidence in engaging senior stakeholders
+A collaborative mindset, strong attention to detail, and resilience in a dynamic environment
+
+If you’re looking for a rare opportunity to combine property finance expertise with strategic impact, this is the perfect next step. APPLY NOW!
+
+Frankie"
+88452953,Senior Business Analyst-Finance,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88452953?type=standard&ref=search-standalone&origin=jobCard#sol=ec245c6363f1b733e63652276811bf6706121ffb,1h ago,1.0,2025-11-11T06:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Our client, a leading organisation within the education sector, is undertaking a large-scale digital transformation program modernising its Finance and ERP systems. As part of this initiative, they are seeking an experienced Senior Business Analyst - Finance to join their project team on an initial 6-month contract, with a strong view to extend.
+
+In this role, you'll collaborate closely with business and technology stakeholders to analyse, document, and optimise finance processes, ensuring a smooth transition to new digital platforms.
+
+Key Responsibilities
+
+Lead the analysis and documentation of finance processes across GL, AP, AR, and asset management functions
+Facilitate workshops to define business requirements, user stories, and acceptance criteria
+Support the configuration, integration, and testing of new ERP solutions (e.g. SAP, Oracle)
+Collaborate with implementation partners to ensure deliverables meet quality and compliance standards
+Contribute to change management, UAT, and post-implementation support activities
+
+Key Requirements
+
+Proven experience as a Senior Business Analyst in Finance or ERP transformation projects
+Strong understanding of finance operations, reporting, and compliance requirements
+Strong knowledge of various ERP modules such as Finance (GL, AP, AR, AA), Procurement, Invoicing and Billing, Group Reporting
+Hands-on experience with major ERP platforms (SAP, Oracle, or equivalent)
+Excellent stakeholder engagement and documentation skills
+Ability to work collaboratively in large, cross-functional teams
+
+If you would like to know more, please contact Milly Kerei-Keepa at milly.kerei-keepa@talentinternational.com or hit Apply Now"
+88452774,Senior Business Analyst &#8211; Payroll,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88452774?type=standard&ref=search-standalone&origin=jobCard#sol=17d06eae6598f589427929ccd412b1ce437b1c25,1h ago,1.0,2025-11-11T06:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Our client, a large organisation within the education industry, is delivering a 5-year program to transform their enterprise systems - and they're seeking a Senior Business Analyst - Payroll to play a key role in the delivery of a new payroll system.
+
+This position will focus on the end-to-end analysis and optimisation of payroll processes, ensuring business and technical alignment across HR, finance, and systems teams.
+
+Key Responsibilities
+
+Analyse, document, and improve payroll business processes and data flows
+Define requirements and support system configuration for payroll system implementation
+Collaborate with vendors and internal teams to validate functionality and integrations
+Prepare user stories, acceptance criteria, and process documentation
+Support the data migration team in mapping the legacy data to SAP ERP Systems
+Bring in the functional expertise in the Finance Payroll toolset that is being implemented where applicable
+Support testing, change management, and go-live readiness activities
+
+Key Requirements
+
+Proven experience as a Business Analyst working on Payroll or HRIS system implementations
+Strong knowledge of payroll operations, compliance, and award interpretation.
+Experience with ERP or payroll platforms (SAP, Oracle, ADP, or equivalent)
+Experience with SAP SuccessFactors employee central will be highly regarded
+Excellent analytical, communication, and facilitation skills
+Strong documentation skills and attention to detail
+Bachelor's degree in Business, IT, or a related discipline
+
+If you would like to know more, please contact Milly Kerei-Keepa at milly.kerei-keepa@talentinternational.com or hit Apply Now"
+88452734,Business Analyst - Government,APG Workforce,https://www.seek.com.au/job/88452734?type=standard&ref=search-standalone&origin=jobCard#sol=928f09164928bd4951edfa27980c642f3d8b3615,1h ago,1.0,2025-11-11T06:00:00+00:00,"Eveleigh, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Casual/Vacation,$900 Per Day + Super,"Business Analyst 
+
+Location: Eveleigh, NSW (Hybrid – office and remote)
+Rate: $900 per day + superannuation
+Duration: 12 months (with potential for extension)
+Hours: 8 hours per day / 40 hours per week
+Start Date: Pending pre-employment checks
+Checks Required: 2x Reference Checks, National Police Check, Working With Children Check
+About the Role
+The NSW Department of Education is seeking an experienced Business Analyst to define business requirements, identify improvement opportunities, and support the delivery of digital transformation initiatives within the Planning, Performance & Delivery unit.
+
+You’ll collaborate with cross-functional teams to deliver innovative online systems and ensure business needs are translated into actionable outcomes that enhance service delivery and user experience.
+
+Key Responsibilities
+Elicit, analyse, and document business and system requirements using Agile methodologies.
+Collaborate closely with developers, testers, and UX/UI teams to implement solutions.
+Manage and refine product backlogs in partnership with Product Owners.
+Conduct gap analyses and trace requirements through to delivery to ensure alignment with strategic objectives.
+Identify and communicate risks, dependencies, and improvement opportunities.
+Contribute to user documentation, training materials, and change management initiatives.
+About You To be successful in this role, you will have:
+
+3–5 years’ experience as a Business Analyst in a large, complex ICT environment.
+Proven experience in Agile delivery, writing user stories, and defining acceptance criteria.
+Strong collaboration and stakeholder management skills.
+Exposure to UI/UX design and service design principles.
+Excellent communication, analytical, and documentation skills.
+Experience across all phases of the project lifecycle.
+Knowledge of cloud solutions and systems integration (desirable).
+Key Challenges
+Managing competing priorities in a fast-paced environment.
+Building and maintaining productive relationships across diverse teams and stakeholders.
+Translating complex business needs into clear, actionable technical requirements.
+This is an exciting opportunity to contribute to high-profile digital transformation projects within NSW Education — driving innovation, efficiency, and better outcomes for students and families.
+
+Apply now to join a dynamic and collaborative delivery team based in Eveleigh."
+88452472,Senior Data Engineer,Wotton Kearney,https://www.seek.com.au/job/88452472?type=standard&ref=search-standalone&origin=jobCard#sol=9dc43fcaa048e8f265cef6efab4a594ce6de082d,1h ago,1.0,2025-11-11T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Data Engineer – Sydney (Hybrid)
+
+Shape the future of data at one of Australasia’s leading law firms
+
+At Wotton Kearney, we are known as much for our people as we are for our legal expertise. With 750+ lawyers across Australia, New Zealand and Asia, we partner with the world’s biggest insurers and businesses to solve complex problems. Behind the scenes, our IT team is helping to transform how we use technology and data and we are now looking for a Senior Data Engineer to play a key role in building that future.
+
+The role
+
+As Senior Data Engineer, you will design, build and maintain the data platforms that underpin smarter decision making across the firm. This is a hands-on role where you will work closely with stakeholders in legal, finance, operations and IT to deliver scalable solutions and unlock the value of data.
+
+Your day to day will include:
+
+• Designing and developing scalable data pipelines and ETL processes
+• Building and optimising medallion data architectures for analytics, reporting and machine learning
+• Partnering with analysts, data scientists and business stakeholders to understand needs and deliver robust solutions
+• Ensuring data quality, integrity and security across systems
+• Integrating data from internal and external platforms including practice management and document management systems
+• Contributing to a modern cloud-based data platform using Azure (or similar)
+• Evaluating and implementing new tools and technologies to enhance the firm’s data capabilities
+
+What we are looking for
+
+We want someone who is not just technical, but also curious and collaborative – a data engineer who can turn business problems into smart data solutions. You will bring:
+
+• 4+ years experience in data engineering or similar roles
+• Strong SQL and Python skills
+• Experience with cloud data platforms (ideally Azure) and modern data stack tools (Databricks, Snowflake, dbt etc.)
+• Knowledge of data warehousing, data lakes and real-time processing
+• An understanding of data governance, privacy and compliance
+• Experience in professional services (legal, consulting, finance) is highly regarded
+
+Why Wotton Kearney?
+  
+At Wotton Kearney, we’re not your typical law firm. We are forward-thinking pioneers, creative strategists, and genuine professionals reshaping insurance law. We thrive on collaboration, bold ideas, and unwavering support. Here’s what sets us apart:
+
+Industry Leaders & Innovation Pioneers - We don’t just keep up with change; we drive it. We were the first Australian law firm to launch Cicero, the country’s first AI product built for legal professionals.
+Recognised Excellence - Ranked Australia’s best insurance law firm (Best Lawyers 2026) and consistently ranked Band 1 across legal directories.
+FLEX for all -We care about client outcomes, quality, and business and cultural contributions. If you can make that work by working part-time, working “irregular hours” or working from home - then so can we.
+Growth & Mentoring - We invest in you with hands-on mentoring, training, and career development, keeping you ahead in the legal and insurance industries.
+A Culture That Sets Us Apart - Open, collegiate, and passionate about everything we do. We don’t just talk about culture ;we live it.
+Giving Back - From building homes in Cambodia to fun runs and bake sales, there are plenty of ways to make an impact beyond the office.
+Leaders of the Pack - As one of Australia’s fastest-growing law firms, we know where we’re headed and we want you on the journey with us.
+Putting People First - We offer generous parental leave up to 26 weeks, purchased annual leave, home office allowances, health and wellbeing benefits, education assistance and more.
+How to apply
+  
+Please navigate via the “apply now” link.
+  
+We are committed to fostering an inclusive and diverse workplace at Wotton Kearney. As part of our dedication to accessibility, we strive to support candidates with disabilities throughout the interview process. If you require any accommodations or assistance during the application and interview stages please contact us at join.us@wottonkearney.com
+  
+Important note to recruitment agencies
+  
+Wotton Kearney only considers agency submissions from agencies we've directly contacted through our Talent Acquisition Team. Please do not forward resumes or profiles directly to Wotton Kearney Partners, hiring managers, or other employees. Introductions are only established upon acceptance by our Talent Acquisition team. We reserve the right to retain any unsolicited CV's received outside of this process without incurring any associated fees."
+88452419,Senior Business Analyst,Osborne Richardson,https://www.seek.com.au/job/88452419?type=standard&ref=search-standalone&origin=jobCard#sol=6319f6f7b043fc0ba6b63f40e56d5eec30f37a41,1h ago,1.0,2025-11-11T06:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Osborne Richardson are public sector recruitment specialists with over 30 years’ experience.  Our IT Division is headed up by an IT Project Manager with over 20 years experience running complex projects, so when you engage with Osborne Richardson, you are working with a recruitment consultancy who has walked the walk!
+
+Initial 6-month contract
+
+$900/day + Super
+
+Malvern / Hybrid
+
+19 Jan 2026 start
+
+Responsibilities:
+
+Lead discovery and process mapping, identifying pain points, controls, and compliance gaps.
+
+Produce right-sized artefacts (current/future state maps, user stories, decision papers) and maintain living traceability from requirement → design → test → release → benefits.
+
+Partner with Change/Training to convert requirements into role-based procedures, help content, and UAT scenarios; ensure business ownership and sign-off.
+
+Set up and run SME engagement plans with SLAs for feedback/approvals; monitor and escalate slippage early with data.
+
+Support UAT and go-live/hypercare: defect triage inputs, workaround definition, and readiness checklists.
+
+Contribute to benefits definitions (e.g., cycle-time reduction, first-contact resolution, compliance assurance) and track post-release outcomes with the PMO/Value team.Organise and attend requirement gathering workshops, develop, document, and communicate requirements.   
+
+Assist with procurement documentation to support Council’s procurement requirements.
+
+Assist in the writing test scripts and scenarios in line with requirements. 
+
+Experience:
+
+Proven BA track record delivering requirements from elicitation to approval and maintaining traceability through design, build, test, and deployment; crafts well-formed epics/stories with acceptance criteria.
+
+Council-context fluency: understands Rates/Property/Permits/Compliance/Customer processes and constraints; translates legislation/policy into operational rules and service design.
+
+Experience managing requirements documentation from stakeholder elicitation to approval to requirements tractability in design, build and deployment.
+
+Exceptional written/oral communication; produces readable artefacts (executive summaries, visuals, story maps) and tight pre-reads that reduce meeting time and enable quick decisions.
+
+Skilled at facilitating workshops (discovery, process mapping, backlog refinement, decision forums) and converting outcomes into concise artefacts (BRDs, user stories, decision logs, RACI).
+
+Information & data literacy: understands data quality, lineage, reporting, and decision-making needs; partners with Data/Analytics to define fit-for-purpose models.
+
+Tooling: advanced Excel/Word/PowerPoint/Teams, Jira/Azure Boards for backlog/traceability; Visio/Miro/FigJam for mapping; familiarity with TechOne/GIS advantageous.
+
+Thank you for your interest. We regret that, due to the number of applications received, we will not be able to respond to all applicants."
+88452148,Group FP&A Manager: $150 -180k + Super,Reo Group,https://www.seek.com.au/job/88452148?type=standard&ref=search-standalone&origin=jobCard#sol=b45f8464b6ff416390b44a8875d1802e3ef94a5f,1h ago,1.0,2025-11-11T06:00:00+00:00,Melbourne VIC (Hybrid),Management Accounting & Budgeting (Accounting),Full time,$160k - $180k p.a. + parking,"Location: Melbourne, Southeastern Suburbs
+Salary Package: $150 - 180k + Super
+Role Highlights: Reporting to leadership team; APAC focus; Directly supporting exec with reporting for strategic decision making
+
+Role Overview
+Reporting directly into the Group Financial Controller, this Group FP&A Manager will have full responsibility for providing timely and accurate financial analysis and operational recommendations to the ANZ leadership and management teams. In addition, they will work closely with the local and regional FP&A team in implementing standardised management reporting packs for the ANZ region. On a day-to-day basis, this Group FP&A Manager will be responsible for the preparation of weekly and monthly management reports summarising operating results whilst reviewing for process optimisation. From a corporate perspective your work will extend to assisting the senior management team in coordinating and preparing annual budgets, the 12-months rolling forecasts and strategic planning. From a reporting perspective this FP&A Manager will be responsible for the preparation of the monthly ANZ P&L and Balance sheet results and manage the submission to the ELT.
+
+Responsibilities:
+
+Drive the design, build, and implementation of financial models and BI dashboards to enhance business analysis and support growth initiatives.
+Oversee and consolidate the Group's annual budgeting process, ensuring strategic alignment and financial discipline across all segments.
+Manage quarterly forecasts, coordinating inputs across divisions to deliver accurate and timely projections.
+Chair the Investment Committee, evaluating business cases and providing recommendations on capital allocation and investment priorities.
+Maintain and refine the Group's long-term financial model to inform strategic planning and scenario testing.
+Produce and present monthly performance reports, delivering meaningful analysis and commentary on results, trends, and variances.
+Prepare and deliver insightful board reporting that supports executive decision-making and governance requirements.
+Partner closely with business unit leaders to embed robust FP&A practices and ensure financial insight supports operational decision-making.
+Standardise and streamline financial templates and reporting tools across the Group to drive efficiency and consistency.
+Interpret financial performance to identify emerging risks, commercial opportunities, and areas for improvement.
+Deliver detailed commercial analysis and due diligence on strategic investments, M&A, and capital transactions.
+Collaborate with the Senior Manager - Strategy and Corporate Development on strategic reviews and business improvement projects.
+Support Group reporting processes, including monthly management accounts, half-year and year-end reporting, ASX releases, and statutory disclosures.
+Contribute to the Group's technical accounting excellence by helping shape accounting policies, interpreting standards, and upskilling finance teams.
+
+
+Candidate Profile
+
+You are a CPA/CA qualified professional currently working as an FP&A Manager or aspiring Senior FP&A Analyst with extensive budgeting and forecasting experience in a complex multinational business. You have excellent analytical and problem-solving skills and are a strong driver for positive change. Your personality is energetic and you have robust influencing skills. Technically you feel comfortable challenging business models and you have extensive budgeting and forecasting experience. Experience across multiple ERP systems would be advantageous. You will also bring technical expertise in TM1, Power BI and visualisations for presentations to the ELT.
+
+Culture & Benefits
+An exciting opportunity has arisen for an FP&A Manager to join an innovative ASX listed giant and be part of a team that supports business growth. This organisation is known for being people-focused and prides itself on being committed to serving its loyal customer base across heavy industry and mechanical products. This Group FP&A Manager will directly support the ELT in managing the management reporting and planning function across the ANZ regions. This is an excellent opportunity for an experienced FP&A professional with extensive management reporting and budgeting and forecasting experience to join a listed brand name in an environment that fosters a standard of excellence.
+
+Plenty of promotion and lateral moves available as team grows
+Salary package above market $150-180k + Super
+Flexible working environment rewarding flexibility for performance
+
+Apply
+
+If this sounds like you, please send your resume by clicking the ""apply"" link below. The reference number for this role is NGFPA64827. Please allow for 3 - 5 working days for us to process all the applications. All applicants will hear back from us, either via email or a telephone call."
+88451867,Finance Business Partner,FourQuarters Recruitment,https://www.seek.com.au/job/88451867?type=standard&ref=search-standalone&origin=jobCard#sol=879f18fa75cb20808553c8f1f907d25a5faa0273,1h ago,1.0,2025-11-11T06:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Analysis & Reporting (Accounting),Full time,,"Business
 We’re partnering with a well-established, growing organisation that operates across multiple service areas. They are focused on long-term growth and making a meaningful impact, while maintaining a strong and supportive culture.
 
 Role
@@ -21,7 +371,7 @@ Confident communicator who can influence senior operational leaders.
 Self-motivated and able to manage competing priorities.
 Next Steps
 Please apply through the below link or email your up-to-date CV to Lewis: lblack@fourquarters.com.au"
-88451663,Customer Insights Specialist,CSR,https://www.seek.com.au/job/88451663?type=standard&ref=search-standalone&origin=jobCard#sol=d48931253069c41048598804cb8d420226d63173,1h ago,1.0,2025-11-11T05:00:00+00:00,"Ryde, Sydney NSW",Market Research & Analysis (Marketing & Communications),Full time,,"About this role
+88451663,Customer Insights Specialist,CSR,https://www.seek.com.au/job/88451663?type=standard&ref=search-standalone&origin=jobCard#sol=5df5c5680e4f10d420b0c8cad1bccfb197f0688c,1h ago,1.0,2025-11-11T06:00:00+00:00,"Ryde, Sydney NSW",Market Research & Analysis (Marketing & Communications),Full time,,"About this role
 
 
 At CSR, we're building a better future together.
@@ -89,7 +439,7 @@ How to Apply:
 Just click on the Apply for this job button and help us shape a more customer-centric future.
 
 To find out more about us, visit www.csr.com.au"
-88451307,Senior Health Economist,Health Technology Analysts Pty Ltd,https://www.seek.com.au/job/88451307?type=standard&ref=search-standalone&origin=jobCard#sol=49a73eed6fd9be31979a62f44ec82016093e401b,1h ago,1.0,2025-11-11T05:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Other (Consulting & Strategy),Full time,Salary based on experience and qualifications.,"About Us
+88451307,Senior Health Economist,Health Technology Analysts Pty Ltd,https://www.seek.com.au/job/88451307?type=standard&ref=search-standalone&origin=jobCard#sol=97aacfa33164267e9d3377dd0853fff4f349ed9b,2h ago,2.0,2025-11-11T05:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Other (Consulting & Strategy),Full time,Salary based on experience and qualifications.,"About Us
 
 HTANALYSTS is a specialist consultancy in health economics and outcomes research (HEOR), market access, and policy advisory. We work across healthcare, public health, and the broader social sector, generating compelling economic evidence that supports access to innovation and investment in better outcomes for people and communities.
 
@@ -144,7 +494,7 @@ For more information about HTANALYSTS and our work, visit www.htanalysts.com.au.
 We Value Diversity
 
 HTANALYSTS is an equal opportunity employer. We encourage applications from Aboriginal and Torres Strait Islander peoples, people from culturally and linguistically diverse backgrounds, people with disability, and those with lived experience in health or social services."
-88451211,"Manager, Visualisations",QIC,https://www.seek.com.au/job/88451211?type=standard&ref=search-standalone&origin=jobCard#sol=bc31eff6b2a4bd3d5815eb928028a0bc60e5c5ad,1h ago,1.0,2025-11-11T05:00:00+00:00,Brisbane QLD,Analysts (Real Estate & Property),Contract/Temp,,"About the Role 
+88451211,"Manager, Visualisations",QIC,https://www.seek.com.au/job/88451211?type=standard&ref=search-standalone&origin=jobCard#sol=0bcd3d311db487bb2f0545ed1aff49ea424d8f97,2h ago,2.0,2025-11-11T05:00:00+00:00,Brisbane QLD,Analysts (Real Estate & Property),Contract/Temp,,"About the Role 
 We are seeking a Manager, Visualisations to join QIC Real Estate for a 12-month maternity leave contract. This pivotal role leads the Power BI product strategy, governance, and delivery for QIC Real Estate, ensuring the ongoing development and optimisation of Power BI as the core data visualisation and reporting platform. 
 
 
@@ -183,7 +533,7 @@ Preferred Criteria 
 Experience in commercial real estate, investment management, or other complex asset-based industries. 
 
 ..."
-88451055,National Intelligence Analyst,Management and Training Corporation Pty Ltd,https://www.seek.com.au/job/88451055?type=standard&ref=search-standalone&origin=jobCard#sol=a74b2ab8dddece4563f8b47f94c27c7d01c6171b,1h ago,1.0,2025-11-11T05:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"MTC is a global leader in the corrections, detention, training and education sectors operating Job Corps centres, correctional facilities, detention centres, detention medical departments and workforce development sites globally.
+88451055,National Intelligence Analyst,Management and Training Corporation Pty Ltd,https://www.seek.com.au/job/88451055?type=standard&ref=search-standalone&origin=jobCard#sol=ff0aedf8f57288daa1ef6757d2ba83a241184f23,2h ago,2.0,2025-11-11T05:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"MTC is a global leader in the corrections, detention, training and education sectors operating Job Corps centres, correctional facilities, detention centres, detention medical departments and workforce development sites globally.
 
  Our Vision is to be a leader in social impact by transforming lives and strengthening communities. We are proud of the incredible work our employees do providing support, giving hope, and providing opportunities for a better life.
 
@@ -240,7 +590,7 @@ Please submit your up-to-date resume and a cover letter addressing the criteria 
 Proudly promoting a culture of Safety, Respect and Dignity, Secure Journeys instils the BIONIC (Believe It Or Not I Care) philosophy in all our centres. BIONIC means promoting a caring culture for change based upon safety, respect and dignity.
 
 We celebrate diversity in our workplace and therefore welcome applications from all people who believe they have the skills and abilities to truly make a difference for our business."
-88451024,Senior Lecturer in Business Information Systems,The Australian National University,https://www.seek.com.au/job/88451024?type=standard&ref=search-standalone&origin=jobCard#sol=5bb7b11b5361a79a1acf85810ca3eef69d54d576,1h ago,1.0,2025-11-11T05:00:00+00:00,Canberra ACT,"Teaching - Tertiary, Other (Education & Training)",Full time,"$146,007 - $162,281 per annum plus 17% super","Classification: Academic Level C
+88451024,Senior Lecturer in Business Information Systems,The Australian National University,https://www.seek.com.au/job/88451024?type=standard&ref=search-standalone&origin=jobCard#sol=b352f8ec9ec01715cb6a31d1499d35101d8d7d6a,2h ago,2.0,2025-11-11T05:00:00+00:00,Canberra ACT,"Teaching - Tertiary, Other (Education & Training)",Full time,"$146,007 - $162,281 per annum plus 17% super","Classification: Academic Level C
 Salary package: $146,007 - $162,281 per annum plus 17% superannuation 
 
 Terms: Full time, Continuing
@@ -286,7 +636,7 @@ Applications which do not address the selection criteria may not be considered f
 Please note: The successful candidate will be required to undergo a background check during the recruitment process.  An offer of employment is conditional on satisfactory results.
 
  Closing date: Thursday, 15 January 2026, 11.55 (Canberra Time)"
-88450767,Business Analyst - S/4 HANA,Mura Connect Pty Ltd,https://www.seek.com.au/job/88450767?type=standard&ref=search-standalone&origin=jobCard#sol=d4e5a31a6dc17ef2292574cf18d04b5ee9a6204f,1h ago,1.0,2025-11-11T05:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"About the Role
+88450767,Business Analyst - S/4 HANA,Mura Connect Pty Ltd,https://www.seek.com.au/job/88450767?type=standard&ref=search-standalone&origin=jobCard#sol=ab6e9905f768d7b0a11629208e8f386d58811c6b,2h ago,2.0,2025-11-11T05:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"About the Role
 We are seeking an experienced Business Analyst to support process transformation within a large Queensland Government department. This role focuses on analysing, documenting, and improving business and system processes across finance and procurement functions.
   
 You’ll work closely with internal stakeholders and shared service partners to bridge current (AS-IS) and future (TO-BE) state processes, contributing to a successful S/4 HANA implementation.
@@ -312,7 +662,7 @@ Experience within Queensland Government or similar public sector environments is
 Business Analyst certification (e.g. CBAP) and familiarity with SAP Signavio are desirable but not essential.
   
 If this sounds like a role for you, apply now! Or please don’t hesitate to reach out to Riley on 0423 579 300 or email riley.o@muraconnect.com.au."
-88450569,Senior Manager Risk Culture,Robert Walters,https://www.seek.com.au/job/88450569?type=standard&ref=search-standalone&origin=jobCard#sol=78f20076280419516e89186c9dab10cfa876c773,1h ago,1.0,2025-11-11T05:00:00+00:00,Melbourne VIC (Hybrid),Compliance & Risk (Banking & Financial Services),Full time,$160k - $200k p.a. + super & benefits,"Join a financial services busineness as Senior Manager Risk Culture, leading reviews that assess how behaviours, attitudes, and organisational dynamics influence risk outcomes. Work with a multidisciplinary team in psychology, behavioural science, analytics, and audit to provide actionable insights, engage senior leaders, and shape decision-making. Enjoy hybrid working, competitive pay and clear pathways to senior roles while driving meaningful cultural change across the organisation.
+88450569,Senior Manager Risk Culture,Robert Walters,https://www.seek.com.au/job/88450569?type=standard&ref=search-standalone&origin=jobCard#sol=d0eda9c8d20c86d595a0d03d22d7664da86ee0d7,2h ago,2.0,2025-11-11T05:00:00+00:00,Melbourne VIC (Hybrid),Compliance & Risk (Banking & Financial Services),Full time,$160k - $200k p.a. + super & benefits,"Join a financial services busineness as Senior Manager Risk Culture, leading reviews that assess how behaviours, attitudes, and organisational dynamics influence risk outcomes. Work with a multidisciplinary team in psychology, behavioural science, analytics, and audit to provide actionable insights, engage senior leaders, and shape decision-making. Enjoy hybrid working, competitive pay and clear pathways to senior roles while driving meaningful cultural change across the organisation.
 
 This newly created Senior Manager Risk Culture position offers a unique opportunity to shape the future of risk management by focusing on the behavioural drivers that underpin organisational decision-making. Unlike traditional audit roles, this position is dedicated to evaluating how attitudes, behaviours, and cultural dynamics influence risk outcomes across the enterprise. You will join a multidisciplinary team renowned for their expertise in organisational psychology, behavioural science, data analytics, and audit, providing you with exposure to diverse business areas and the chance to make a meaningful impact at scale. The role promises a collaborative and intellectually curious environment where your insights will directly inform leadership decisions and drive practical action plans. With flexible hybrid working arrangements, generous remuneration, and clear pathways for career progression into risk, people & culture, or programme management roles, this is an exceptional opportunity for those passionate about fostering a risk-aware culture.
 
@@ -362,7 +712,7 @@ If you are ready to make a lasting impact on organisational culture while advanc
 Aboriginal and Torres Strait Islander Peoples are encouraged to apply.
 
 To apply please click apply or call Wouter De Vries on 61 3 8628 2262 for a confidential discussion."
-88450098,AI Implementation Leader,Talenza,https://www.seek.com.au/job/88450098?type=standard&ref=search-standalone&origin=jobCard#sol=2cfdaa15ee6b17d9ff45ae2a547d91483336fb58,1h ago,1.0,2025-11-11T05:00:00+00:00,Adelaide SA,Other (Information & Communication Technology),Contract/Temp,$180k - $220k + super,"AI Implementation Leader
+88450098,AI Implementation Leader,Talenza,https://www.seek.com.au/job/88450098?type=standard&ref=search-standalone&origin=jobCard#sol=170e34071f712c3a5f87c0efa937eafa59c36054,2h ago,2.0,2025-11-11T05:00:00+00:00,Adelaide SA,Other (Information & Communication Technology),Contract/Temp,$180k - $220k + super,"AI Implementation Leader
 
 Adelaide
 
@@ -422,7 +772,7 @@ Work in a strategic, high-impact role directly supporting executive leaders.
 Competitive salary package and flexible working arrangements.
 
 Join a collaborative, purpose-driven team making a tangible difference."
-88449096,Business Analyst | 2 year contract,UpperGround by Hudson,https://www.seek.com.au/job/88449096?type=standard&ref=search-standalone&origin=jobCard#sol=ad6e258e89e9f47d7afb2968431ecdeb55844608,2h ago,2.0,2025-11-11T04:00:00+00:00,Brisbane QLD (Hybrid),Government - State (Government & Defence),Contract/Temp,AUD 115 per hour,"Initial contract 05/01/2026 to 24/12/2027 with possible extension paying $920/day
+88449096,Business Analyst | 2 year contract,UpperGround by Hudson,https://www.seek.com.au/job/88449096?type=standard&ref=search-standalone&origin=jobCard#sol=32e0ad8e89c59e4f21b528000eda66f4a24d321f,3h ago,3.0,2025-11-11T04:00:00+00:00,Brisbane QLD (Hybrid),Government - State (Government & Defence),Contract/Temp,AUD 115 per hour,"Initial contract 05/01/2026 to 24/12/2027 with possible extension paying $920/day
 Brisbane CBD Location with flexibility to WFH 2 days per week
 More than 5 years of experience as a Business Analyst with focus on large complex system implementations preferally within a QLD Government environment 
 Our client, Department of Education, are currently seeking a Business Analyst for an initial 2-year contract.  The contractor may be directed to work on one or more projects within their Information Technology Branch, providing a high level of business analysis services as requirements emerge throughout the term of the engagement.
@@ -460,7 +810,7 @@ Hudson is committed to helping you find a workplace where you feel respected, su
 
 Casual Loading 
 Please note for all Australian based contract and temporary roles only, the pay rate is inclusive of mandatory 25% casual loading. This excludes permanent and fixed term roles."
-88448832,Business Analyst - ERP Program (HCM | Payroll/Time & Attendance | Supply Chain),Sharp & Carter Digital and Technology,https://www.seek.com.au/job/88448832?type=standard&ref=search-standalone&origin=jobCard#sol=65e19f7339234780ef4b3222a8f4a74d3383fa5a,2h ago,2.0,2025-11-11T04:00:00+00:00,Adelaide SA (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Analyst – ERP Program (HCM | Payroll/Time & Attendance | Supply Chain)
+88448832,Business Analyst - ERP Program (HCM | Payroll/Time & Attendance | Supply Chain),Sharp & Carter Digital and Technology,https://www.seek.com.au/job/88448832?type=standard&ref=search-standalone&origin=jobCard#sol=7a59fd1940b19b6a4f2cb2dc1e0eff719be0c0ff,3h ago,3.0,2025-11-11T04:00:00+00:00,Adelaide SA (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Analyst – ERP Program (HCM | Payroll/Time & Attendance | Supply Chain)
 Location: Adelaide
 Contract: Hybrid
 
@@ -487,7 +837,7 @@ Play a key role in a major ERP transformation.
 Join a supportive team with strong collaboration across all workstreams.
 Hybrid working – Adelaide based.
 Competitive daily rate and immediate start available."
-88447810,Finance Transformation Lead,Mulpha Australia Limited,https://www.seek.com.au/job/88447810?type=standard&ref=search-standalone&origin=jobCard#sol=9c808f9ae82fa08fb2b6758a250d029425653cec,2h ago,2.0,2025-11-11T04:00:00+00:00,Sydney NSW,Strategy & Planning (Consulting & Strategy),Full time,Attractive Package and Benefits,"THE ROLE
+88447810,Finance Transformation Lead,Mulpha Australia Limited,https://www.seek.com.au/job/88447810?type=standard&ref=search-standalone&origin=jobCard#sol=5fadb6d868e871ffb97313088822b0270f90cae7,3h ago,3.0,2025-11-11T04:00:00+00:00,Sydney NSW,Strategy & Planning (Consulting & Strategy),Full time,Attractive Package and Benefits,"THE ROLE
 
  
 
@@ -543,7 +893,7 @@ Free Car Parking/Car Parking Discounts at some of our Offices/Venues
 APPLICATIONS
 
 Please apply online if this role. We are looking forward to receiving your application"
-88447763,Business Analyst,Eden Ritchie Recruitment,https://www.seek.com.au/job/88447763?type=standard&ref=search-standalone&origin=jobCard#sol=44b74082a73fa6fe2f6e31a9b16759df6a63d457,2h ago,2.0,2025-11-11T04:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"2 year role with possible extension
+88447763,Business Analyst,Eden Ritchie Recruitment,https://www.seek.com.au/job/88447763?type=standard&ref=search-standalone&origin=jobCard#sol=e5846750f50a0a6a6cad154badb48673c4b04f09,3h ago,3.0,2025-11-11T04:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"2 year role with possible extension
 Brisbane CBD based
 Our Queensland Government client is seeking an experienced Business Analyst for the Customer Engagement team, to lead investigative work to determine business requirements and specify effective business processes.
 
@@ -561,7 +911,7 @@ Undertake research activities in relation to best practice processes and framewo
 Closing Date: 17 November 2025
 
 For more information, please contact Angela Anderson at angela.a@edenritchie.com.au"
-88447636,Business Analyst Procurement,Randstad Digital,https://www.seek.com.au/job/88447636?type=standard&ref=search-standalone&origin=jobCard#sol=5d0c9e1a52355b75e7143af43a358471d529929a,2h ago,2.0,2025-11-11T04:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We are seeking an experienced Senior Business Analyst for a 6-month contract, with the possibility of extension. To work on a Procurement implementation system project.
+88447636,Business Analyst Procurement,Randstad Digital,https://www.seek.com.au/job/88447636?type=standard&ref=search-standalone&origin=jobCard#sol=f06eff14dc39777b07d4071c2af2c511ecffbbc1,3h ago,3.0,2025-11-11T04:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We are seeking an experienced Senior Business Analyst for a 6-month contract, with the possibility of extension. To work on a Procurement implementation system project.
 Key Responsibilities:
 Collaborate with stakeholders to understand their needs and translate them into functional and technical specifications.
 Provide functional expertise in the procurement toolset being implemented.
@@ -576,7 +926,7 @@ Apply today by using the link below or email Leonie.woodfine@randstad.com.au
 
 
 At Randstad Digital, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background."
-88447567,Agile Lead,TAC,https://www.seek.com.au/job/88447567?type=standard&ref=search-standalone&origin=jobCard#sol=acdd8cfcef8238e6e018b2699bac12eedcf1d8df,2h ago,2.0,2025-11-11T04:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)","Programme & Project Management (Information & Communication Technology)
+88447567,Agile Lead,TAC,https://www.seek.com.au/job/88447567?type=standard&ref=search-standalone&origin=jobCard#sol=196b2f7a7ec909837dab029618dcc840e8e55270,3h ago,3.0,2025-11-11T04:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)","Programme & Project Management (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"circa salary of $150,000 + super","Agile Lead
 
 Full time, fixed position until 30 September 2026
@@ -650,7 +1000,7 @@ Child Safety
 At the TAC we are committed to the safety of children and young people. For more information regarding our commitment to child safety, please visit our website. 
 
  TACD24-73709 Position Description - Agile Lead.pdf"
-88446328,Business Analyst Payroll,Randstad Digital,https://www.seek.com.au/job/88446328?type=standard&ref=search-standalone&origin=jobCard#sol=cdadc8396e939991192d605ad0fce28865626d13,3h ago,3.0,2025-11-11T03:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Are you an experienced Senior Business Analyst with a strong background in Payroll system projects, and possess a keen eye for optimizing financial and payroll processes? If so, we have an exciting opportunity for you!
+88446328,Business Analyst Payroll,Randstad Digital,https://www.seek.com.au/job/88446328?type=standard&ref=search-standalone&origin=jobCard#sol=9cdab8c062b6ac3136f3d317d1564049a6f71de8,4h ago,4.0,2025-11-11T03:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Are you an experienced Senior Business Analyst with a strong background in Payroll system projects, and possess a keen eye for optimizing financial and payroll processes? If so, we have an exciting opportunity for you!
 We are seeking a highly skilled Senior Business Analyst for a 6-month contract, with the option to extend, to support a critical payroll project within an IT Transformation program.
 About the Role:
 As the Senior Business Analyst for Payroll, you will play a crucial role in ensuring the payroll systems are efficient, accurate, and compliant. You will collaborate with stakeholders to understand their needs, translate them into technical specifications, and support the implementation of robust payroll solutions. This role involves optimizing processes, facilitating testing, and ensuring seamless data migration and integration.
@@ -668,7 +1018,7 @@ Apply today by using the link or email Leonie.woodfine@randstad.com.au
 
 
 At Randstad Digital, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background."
-88445909,Manager Data Engineering Practice,Australian Unity,https://www.seek.com.au/job/88445909?type=standard&ref=search-standalone&origin=jobCard#sol=76eea2b5ee0d3d719e648bc098120155cf2daaf6,3h ago,3.0,2025-11-11T03:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
+88445909,Manager Data Engineering Practice,Australian Unity,https://www.seek.com.au/job/88445909?type=standard&ref=search-standalone&origin=jobCard#sol=3fc53ff2f7bed2606b1309725a367fa366768971,4h ago,4.0,2025-11-11T03:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -725,7 +1075,7 @@ Available access to LinkedIn Learning courses through our great Learning platfor
 For further benefits visit: https://www.australianunity.com.au/careers/culture
 
 Australian Unity is an Equal Opportunity employer and we encourage applications from all members of the community, including people of Aboriginal and Torres strait Islander descent, culturally and linguistically diverse backgrounds and, mature aged people."
-88445439,Business Analyst Finance,Randstad Digital,https://www.seek.com.au/job/88445439?type=standard&ref=search-standalone&origin=jobCard#sol=9f6ba3ff30a0e40ca8a16fdeb2c021159ae7d39b,3h ago,3.0,2025-11-11T03:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Are you an experienced Senior Business Analyst with a proven track record in large-scale ERP transformation programs, particularly with systems like SAP? Do you possess solid financial knowledge across modules such as GL, AP, AR, and AA? If so, we have an exciting opportunity for you!
+88445439,Business Analyst Finance,Randstad Digital,https://www.seek.com.au/job/88445439?type=standard&ref=search-standalone&origin=jobCard#sol=38e4c7dc5505b91ea0165779b92ba22e12c83bc4,4h ago,4.0,2025-11-11T03:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Are you an experienced Senior Business Analyst with a proven track record in large-scale ERP transformation programs, particularly with systems like SAP? Do you possess solid financial knowledge across modules such as GL, AP, AR, and AA? If so, we have an exciting opportunity for you!
 We are seeking a highly skilled Senior Business Analyst for a 6-month contract, with the option to extend, to support a critical finance project within an IT Transformation Program in the education sector.
 About the Role:
 As the Senior Business Analyst for Finance, you will play a pivotal role in bridging the gap between business and technology. You will be responsible for analyzing business requirements, optimizing financial processes, and ensuring system configurations align with business needs. Working closely with stakeholders, you will drive system and process enhancements while ensuring compliance with financial regulations.
@@ -748,7 +1098,7 @@ Apply today by using the link below or email Leonie.woodfine@randstad.com.au
 
 
 At Randstad Digital, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background."
-88445183,Senior Data Engineer - Data & Analytics,KPMG,https://www.seek.com.au/job/88445183?type=standard&ref=search-standalone&origin=jobCard#sol=1b08540c862bb75749d40a37228ca1fff4c449bf,3h ago,3.0,2025-11-11T03:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Full time,Our people build skills for the future,"Job Description
+88445183,Senior Data Engineer - Data & Analytics,KPMG,https://www.seek.com.au/job/88445183?type=standard&ref=search-standalone&origin=jobCard#sol=1909b6f06bf9f26b7dfb9ca72a44a5e5c0602566,4h ago,4.0,2025-11-11T03:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Full time,Our people build skills for the future,"Job Description
 
 Our Connected Technology Group (CTG) defines and drives the digital, data and technology strategy for KPMG. We have an important advocacy role for technology in the market and across KPMG, working with our technology leaders to build our market presence. We cultivate collaboration and integrate tech execution across our business, driving a firmwide approach to how we go-to-market and build the capability of our people and attract new talent. 
 
@@ -859,7 +1209,7 @@ At KPMG, you’ll take control over how you work. We’re embracing a new way of
 Diverse candidates have diverse needs. During your recruitment journey, information will be provided about adjustment requests. If you require additional support before submitting your application, please contact the Talent Attraction Support Team.
 
 At KPMG every career is different, and we look forward to seeing how you grow with us."
-88443891,Manager – Workforce Consulting - Enterprise,KPMG,https://www.seek.com.au/job/88443891?type=standard&ref=search-standalone&origin=jobCard#sol=b8e9463f9714ea18af8de54ca41266834c0faf00,4h ago,4.0,2025-11-11T02:00:00+00:00,Melbourne VIC,Management (Information & Communication Technology),Full time,Our people build skills for the future,"Company Description
+88443891,Manager – Workforce Consulting - Enterprise,KPMG,https://www.seek.com.au/job/88443891?type=standard&ref=search-standalone&origin=jobCard#sol=f32ad1f8a88ca152d713c7993081329c3afa38d7,5h ago,5.0,2025-11-11T02:00:00+00:00,Melbourne VIC,Management (Information & Communication Technology),Full time,Our people build skills for the future,"Company Description
 
 KPMG’s Human Capital Risk and Compliance (HCRC) Practice is a multidisciplinary team delivering end-to-end services across organisation assessment and development, HR and Payroll governance and risk, industrial relations, employment law, and data analytics. We support clients across all market segments to manage human capital risk and improve performance.
 
@@ -922,7 +1272,7 @@ At KPMG, you’ll take control over how you work. We’re embracing a new way of
 Diverse candidates have diverse needs. During your recruitment journey, information will be provided about adjustment requests. If you require additional support before submitting your application, please contact the Talent Attraction Support Team.
 
 At KPMG every career is different, and we look forward to seeing how you grow with us."
-88442246,Senior Digital Business Analyst,Localsearch,https://www.seek.com.au/job/88442246?type=standard&ref=search-standalone&origin=jobCard#sol=2c047063cacc4c38469d3e0d97cdf4f59af28d0a,4h ago,4.0,2025-11-11T02:00:00+00:00,"Robina, Gold Coast QLD",Business/Systems Analysts (Information & Communication Technology),Full time,,"Who are we?
+88442246,Senior Digital Business Analyst,Localsearch,https://www.seek.com.au/job/88442246?type=standard&ref=search-standalone&origin=jobCard#sol=5d5d927df408012bb87a2a50911db7905ca92823,5h ago,5.0,2025-11-11T02:00:00+00:00,"Robina, Gold Coast QLD",Business/Systems Analysts (Information & Communication Technology),Full time,,"Who are we?
 
 At Localsearch, we’ve been empowering Australian businesses with top-tier digital marketing solutions since 1993. Today, we stand as one of the largest digital marketing powerhouses in Australia, helping over 300,000 businesses grow online. Based in the heart of Robina, just steps from Robina Town Centre, our modern office is equipped with everything you need to thrive—including an on-site café with barista-made coffee, high-tech tools, and a collaborative, fun culture where your skills will shine!
 
@@ -973,7 +1323,7 @@ Why it’s great to work with us!
 APPLY NOW!
 
 At Localsearch we are committed to providing an inclusive workplace and are proud to be an equal-opportunity employer. We celebrate, support, and thrive on diversity. We seek to recruit, develop, and retain the most talented people based on merit, competence, and performance. Our goal is to represent, at all job levels, the clients we serve."
-88439500,Senior Insights Analyst,Tech & Data People,https://www.seek.com.au/job/88439500?type=standard&ref=search-standalone&origin=jobCard#sol=4cdca72aa9d5be2dc091d07a622018be350561be,6h ago,6.0,2025-11-11T00:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,"$180,000 plus bonus and benefits","Senior Insights Analyst – Sydney - $180,000 - Gain Gen AI - Strong Career Development
+88439500,Senior Insights Analyst,Tech & Data People,https://www.seek.com.au/job/88439500?type=standard&ref=search-standalone&origin=jobCard#sol=83700bee77b1357becd117a1bd5150a19f66ae97,7h ago,7.0,2025-11-11T00:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,"$180,000 plus bonus and benefits","Senior Insights Analyst – Sydney - $180,000 - Gain Gen AI - Strong Career Development
 
 Tech and Data People are partnering with a respected organisation seeking a Senior Insights Analyst to join their business performance and analytics function. This is a senior individual contributor role, delivering insight-driven analysis to support strategic and operational decision-making across a complex, data-rich environment.
 
@@ -1012,7 +1362,7 @@ Gain Gen AI
 Work in a data-driven, commercially focused environment
 Opportunity to shape insights that influence business strategy and marketing performance
 If you are a skilled analyst who thrives at turning data into actionable insights and influencing decision-making, we would love to hear from you. Apply now or reach out for a confidential conversation."
-88439351,FP&A Analyst,ABN Group,https://www.seek.com.au/job/88439351?type=standard&ref=search-standalone&origin=jobCard#sol=41b421909b8c1a83162194b55fdd780c8238012a,6h ago,6.0,2025-11-11T00:00:00+00:00,"Leederville, Perth WA",Analysis & Reporting (Accounting),Full time,,"About Us 
+88439351,FP&A Analyst,ABN Group,https://www.seek.com.au/job/88439351?type=standard&ref=search-standalone&origin=jobCard#sol=8510db94500a732e3e0197b7be2d80ff4d661058,7h ago,7.0,2025-11-11T00:00:00+00:00,"Leederville, Perth WA",Analysis & Reporting (Accounting),Full time,,"About Us 
 
 For over 45 years, ABN Group has helped thousands in Western Australia and Victoria realise the dream of homeownership. From first homes to luxury residences, we've built over 90,000 homes while earning the trust of our community. Our team of 1,900 employees and 3,000+ suppliers and subcontractors share our core values: Relentless, Fun, Authentic, Passion, Excellence, and Leadership.  
 
@@ -1056,7 +1406,7 @@ Parental leave: Additional paid parental leave for both primary and non-primary 
 What’s Next?
 
 Ready to make an impact? Apply today and join us at ABN Group – where we build more than homes, we build futures."
-88439284,Senior Business Analyst,Civeo,https://www.seek.com.au/job/88439284?type=standard&ref=search-standalone&origin=jobCard#sol=2a2c4933d157b3c48504529731280f08c373707e,6h ago,6.0,2025-11-11T00:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position overview –
+88439284,Senior Business Analyst,Civeo,https://www.seek.com.au/job/88439284?type=standard&ref=search-standalone&origin=jobCard#sol=fc238c9bba05cf62a817c242d16974514efc77ca,7h ago,7.0,2025-11-11T00:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position overview –
 
 Due to substantial growth, we are currently seeking a highly motivated and detail-orientated Senior Business Analyst to join our team. In this role, you will be instrumental in analysing business processes, identifying improvement opportunities and implementing solutions to enhance efficiency and effectiveness.
 
@@ -1100,7 +1450,7 @@ Civeo Australia, a division of Civeo Corporation, provides workforce accommodati
 We're committed to fostering sustainable partnerships and inclusive opportunities in all the communities we operate in. By actively engaging with Traditional Owners and First Nations Businesses, we're not just operating accommodation villages, we're nurturing relationships that honour the rich cultural heritage of the land.
 
 We're safe, welcoming and proud to encourage Aboriginal & Torres Strait Islander people to join us."
-88439119,Data Governance Manager (2881),Commonwealth Superannuation Corporation (CSC),https://www.seek.com.au/job/88439119?type=standard&ref=search-standalone&origin=jobCard#sol=1ad6253a0c28fa8302ad15b36bed145b31ae4980,6h ago,6.0,2025-11-11T00:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Job title: Data Governance Manager
+88439119,Data Governance Manager (2881),Commonwealth Superannuation Corporation (CSC),https://www.seek.com.au/job/88439119?type=standard&ref=search-standalone&origin=jobCard#sol=8929bd03f9bef6070ffda7659a20d56bf1378237,7h ago,7.0,2025-11-11T00:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Job title: Data Governance Manager
 
 Position Type: Full Time, Permanent
 
@@ -1172,7 +1522,7 @@ To ensure all applications are considered in the review process, we request you 
 Applications close - 24 Nov 2025
 
 For any other questions about this role, contact recruitment@csc.gov.au."
-88439018,Senior Data Engineer (Snowflake),Redwolf + Rosch,https://www.seek.com.au/job/88439018?type=standard&ref=search-standalone&origin=jobCard#sol=cd3c73377c6d7fe942562da3c899cb6612170312,6h ago,6.0,2025-11-11T00:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are seeking an experienced Senior Data Engineer who is passionate about automation and committed to building scalable, repeatable processes. Your efforts will focus on optimising workflows and reducing manual interventions in Snowflake data pipelines. The robust, efficient systems you create will evolve as our organisation’s needs grow.
+88439018,Senior Data Engineer (Snowflake),Redwolf + Rosch,https://www.seek.com.au/job/88439018?type=standard&ref=search-standalone&origin=jobCard#sol=3fb1947513c1e5fca0c8e51a5dd777514e41a2b6,7h ago,7.0,2025-11-11T00:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are seeking an experienced Senior Data Engineer who is passionate about automation and committed to building scalable, repeatable processes. Your efforts will focus on optimising workflows and reducing manual interventions in Snowflake data pipelines. The robust, efficient systems you create will evolve as our organisation’s needs grow.
  
 ROLE
 
@@ -1197,7 +1547,7 @@ If it sounds like you, apply now!
 
   
 Redwolf + Rosch invite and encourage applications from all backgrounds of gender, disability, culture, and race. If you are a person with a disability and require modifications to the recruitment process, please contact the Recruitment Consultant."
-88438970,"Analytics and Insights Manager - Sydney - $210,000 - Gain Gen AI",Tech & Data People,https://www.seek.com.au/job/88438970?type=standard&ref=search-standalone&origin=jobCard#sol=bfb5968399dfac6b88f1e9e648930ac17c204bab,6h ago,6.0,2025-11-11T00:00:00+00:00,Sydney NSW,Management (Information & Communication Technology),Full time,"$210,000 plus bonus and benefits","Analytics and Insights Manager – Sydney - $210,000 - Gain Gen AI
+88438970,"Analytics and Insights Manager - Sydney - $210,000 - Gain Gen AI",Tech & Data People,https://www.seek.com.au/job/88438970?type=standard&ref=search-standalone&origin=jobCard#sol=907dbea7f0af8cb966374e8b3b8cae5fc0b040a5,7h ago,7.0,2025-11-11T00:00:00+00:00,Sydney NSW,Management (Information & Communication Technology),Full time,"$210,000 plus bonus and benefits","Analytics and Insights Manager – Sydney - $210,000 - Gain Gen AI
 
 Tech and Data People are partnering with a respected organisation seeking an experienced Analytics and Insights Manager to lead their business performance function. This is a leadership role sitting within finance, driving strategic decision-making and performance improvement across a complex, data-rich environment.
 
@@ -1241,7 +1591,7 @@ Work in a data-driven, commercially focused environment with executive visibilit
 Opportunity to lead transformation across analytics, performance, and strategic decision support
 If you are an experienced analytics leader who thrives at the intersection of data, strategy, and commercial performance, we would love to hear from you.
 Apply now or reach out for a confidential conversation."
-88438787,"Senior Analytics Specialist, Attribution",Aware Super,https://www.seek.com.au/job/88438787?type=standard&ref=search-standalone&origin=jobCard#sol=01ee73f8a2ac08391c988ded8b8d6dd353c45c74,7h ago,7.0,2025-11-10T23:00:00+00:00,Sydney NSW (Hybrid),Corporate Finance & Investment Banking (Banking & Financial Services),Full time,,"Your SUPER career starts here
+88438787,"Senior Analytics Specialist, Attribution",Aware Super,https://www.seek.com.au/job/88438787?type=standard&ref=search-standalone&origin=jobCard#sol=08c26e08f70a5bc6baf594e14bb51b2268045039,7h ago,7.0,2025-11-11T00:00:00+00:00,Sydney NSW (Hybrid),Corporate Finance & Investment Banking (Banking & Financial Services),Full time,,"Your SUPER career starts here
 
 As one of Australia's largest profit-for-members superannuation funds, we always remember whose money it is and whose future we're looking after. We work to reimagine a new way forward for our 1.1 million members and their communities. Each other. And our world.
 
@@ -1291,7 +1641,7 @@ Feel super cared for: We'll support your wellbeing today, as well as in the futu
 The Aware Super difference
 
 At Aware Super, we believe that diversity of thought, background and experience creates better outcomes for our members and communities and a stronger sense of belonging for our people. We value a diverse workplace and strongly encourage women, Aboriginal & Torres Strait Islander people, people with cultural and linguistic diversity, LGBTQIA+ individuals, people with disabilities, and mature-age individuals to apply. We are proud to be consistently recognised as an Employer of Choice for Gender Equality and our CEO, Deanne Stewart, is a Pay Equity Ambassador."
-88438339,Credit Analyst,Mason Stevens,https://www.seek.com.au/job/88438339?type=standard&ref=search-standalone&origin=jobCard#sol=fa2e5c3af2159a5df3bdf6922c99eb9a639252a0,7h ago,7.0,2025-11-10T23:00:00+00:00,Sydney NSW (Hybrid),Funds Management (Banking & Financial Services),Full time,,"About Mason Stevens
+88438339,Credit Analyst,Mason Stevens,https://www.seek.com.au/job/88438339?type=standard&ref=search-standalone&origin=jobCard#sol=654f64a24de2eb41091f8d62dfb7393f2bcaf7da,8h ago,8.0,2025-11-10T23:00:00+00:00,Sydney NSW (Hybrid),Funds Management (Banking & Financial Services),Full time,,"About Mason Stevens
 
 Mason Stevens is a leading provider of integrated wealth platform technology, that uniquely focuses on investor portfolio outcomes. More than just an administration platform, the innovative technology, paired with experienced investment specialist support, empowers advisers to deliver on their clients’ investment objectives via an unconstrained investment universe, and backed by exceptional client service.
 
@@ -1376,7 +1726,7 @@ We believe in keeping our ‘minds wide open’ and empowering people with the r
 Above all, we know you will be a great fit for us if you value people, show kindness and play fair.
 
 Kindly note that Australian full work rights are required for this application."
-88438107,Business Analyst (SAP S/4HANA),Randstad Digital,https://www.seek.com.au/job/88438107?type=standard&ref=search-standalone&origin=jobCard#sol=50203ae5779ea3a5fe57306b00ee499de1eb52d5,7h ago,7.0,2025-11-10T23:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$100 - $105 p.h.,"🚀 Business Analyst - S/4 HANA Transformation Project (Finance & Procurement Focus)
+88438107,Business Analyst (SAP S/4HANA),Randstad Digital,https://www.seek.com.au/job/88438107?type=standard&ref=search-standalone&origin=jobCard#sol=340f31cbe1920f4a298042f589bf7427a3f823a1,8h ago,8.0,2025-11-10T23:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$100 - $105 p.h.,"🚀 Business Analyst - S/4 HANA Transformation Project (Finance & Procurement Focus)
 
 Location: Brisbane CBD (Government Client)
 
@@ -1435,7 +1785,7 @@ This is a critical role essential to a major government transformation. If you a
 Note: Due to the nature of the client, only applicants with valid Australian working rights based from Brisbane will be considered.
 
 At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background."
-88437915,Senior Business Analyst,Harvey Norman,https://www.seek.com.au/job/88437915?type=standard&ref=search-standalone&origin=jobCard#sol=538b9251f2c6254f118e8dcac7c7029c9d9ccdc0,7h ago,7.0,2025-11-10T23:00:00+00:00,"Homebush, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Harvey Norman’s Information Technology Department’s core focus is to deliver innovative IT solutions by delivering crucial projects to achieve the strategic goals of the business.
+88437915,Senior Business Analyst,Harvey Norman,https://www.seek.com.au/job/88437915?type=standard&ref=search-standalone&origin=jobCard#sol=a110157e9f45e23e942f58d909a4b5915ac64666,8h ago,8.0,2025-11-10T23:00:00+00:00,"Homebush, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Harvey Norman’s Information Technology Department’s core focus is to deliver innovative IT solutions by delivering crucial projects to achieve the strategic goals of the business.
 
 About the role  
 
@@ -1481,7 +1831,7 @@ Apply now to be considered to join our dedicated team.  
 Please note that only people with the right to work in Australia should apply for this position.  
 
 Recruitment Agencies – thank you for thinking of us, however we do endeavour to fill our opportunities through direct channels wherever possible. If we find that we do need agency assistance, we’ll be in touch."
-88437494,Senior FP&A Analyst,4DTalent,https://www.seek.com.au/job/88437494?type=standard&ref=search-standalone&origin=jobCard#sol=1ca1f9c11df4b45045638ad309965a7d6e165af7,8h ago,8.0,2025-11-10T22:00:00+00:00,Brisbane QLD (Hybrid),Analysis & Reporting (Accounting),Full time,"$130,000 - $150,000 + Superannuation","About the Client:
+88437494,Senior FP&A Analyst,4DTalent,https://www.seek.com.au/job/88437494?type=standard&ref=search-standalone&origin=jobCard#sol=aa435a3c4b746d7663e95db20f047842d881ce32,9h ago,9.0,2025-11-10T22:00:00+00:00,Brisbane QLD (Hybrid),Analysis & Reporting (Accounting),Full time,"$130,000 - $150,000 + Superannuation","About the Client:
 
 Join a Private Equity-backed growing healthcare group at a pivotal stage of transformation, where you’ll help shape how the business plans, reports, and makes decisions. This is a newly created role with genuine scope to build the FP&A and performance reporting across a network of clinics.
 
@@ -1521,7 +1871,7 @@ Flexible hybrid working arrangements
 Supportive, growth-oriented culture focused on innovation and continuous improvement
 Next Steps:
 If this sounds like the next step in your career, please apply online today. For a confidential discussion, contact Campbell Hurry at c.hurry@4dtalent.com.au"
-88437194,Data Business Analyst,Experis AU,https://www.seek.com.au/job/88437194?type=standard&ref=search-standalone&origin=jobCard#sol=2b7943f7fdc60f57050360c63d2da27af64a4448,8h ago,8.0,2025-11-10T22:00:00+00:00,Canberra ACT (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Location: Canberra, ACT
+88437194,Data Business Analyst,Experis AU,https://www.seek.com.au/job/88437194?type=standard&ref=search-standalone&origin=jobCard#sol=952dfa7db686502e4f6bd61c8cd82f1b50376a99,9h ago,9.0,2025-11-10T22:00:00+00:00,Canberra ACT (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Location: Canberra, ACT
 Contract Type: Full-time Contract
 Security Clearance: NV1 (must be an Australian Citizen and willing to upgrade to NV2 if required)
 
@@ -1561,7 +1911,7 @@ Aboriginal and Torres Strait Islander people are encouraged to apply.
 By submitting your resume and other personal information with this application you are consenting to this information being collected in line with our privacy policy. Follow the link to learn more - www.manpowergroup.com.au/privacy-policy
 
 State: QLD, licensee/s Manpower Services (Australia) Pty Ltd, LHL-02026-D5L4Q. State: QLD, LHL-02014-Y5F6D. State: SA, licensee/s Manpower Services (Australia) Pty Ltd, LHS 288856"
-88436459,Business Analyst,Talenza,https://www.seek.com.au/job/88436459?type=standard&ref=search-standalone&origin=jobCard#sol=facc630858d2734f7098ded8ae64c550d2bdf328,10h ago,10.0,2025-11-10T20:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$800 - $850 p.d. + plus super,"Business Analyst - Finance Transformation
+88436459,Business Analyst,Talenza,https://www.seek.com.au/job/88436459?type=standard&ref=search-standalone&origin=jobCard#sol=221e951e55a957a905b9ca09a504ecea3351abe1,11h ago,11.0,2025-11-10T20:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$800 - $850 p.d. + plus super,"Business Analyst - Finance Transformation
 
 Location: Sydney, NSW (Hybrid - 3 days per week in office)
 Contract Type: Day Rate Contract
@@ -1619,7 +1969,7 @@ Rate: Competitive day rate (commensurate with experience)
 Location: Sydney CBD / Hybrid (3 days in office, 2 days remote)
 
 Candidates MUST have full Australian work rights to be considered for this position."
-88434443,Senior Data Analyst (Sydney),Prospa,https://www.seek.com.au/job/88434443?type=standard&ref=search-standalone&origin=jobCard#sol=f2d71211d823afa268cee1302290e73d7e00ff7d,15h ago,15.0,2025-11-10T15:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Location: Sydney
+88434443,Senior Data Analyst (Sydney),Prospa,https://www.seek.com.au/job/88434443?type=standard&ref=search-standalone&origin=jobCard#sol=d3ebed1383937504bf77d65e897f464094685aa9,16h ago,16.0,2025-11-10T15:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Location: Sydney
 
 
 At Prospa, we exist to unleash the potential of small business. We are building the future of small business and simplifying cashflow by building a leading platform that helps customers make payments, fund growth and reduce admin. Join us!
@@ -1673,7 +2023,7 @@ Why Prospa?
 We’re proud to be a certified Great Place to Work and recognised as a Best Workplace for Women, Best Workplace in Technology, and Best Workplace in Australia. We embrace diversity in people and ideas, fostering a collaborative, inclusive, and respectful environment where we celebrate who you naturally are.
 
 Don’t just take our word for it, check out Prospa’s culture code to see it for yourself."
-88434174,Analyst – Tech M&A – Leading Global Investment Bank,East Partnership,https://www.seek.com.au/job/88434174?type=standard&ref=search-standalone&origin=jobCard#sol=90e91e7f5339404a6d75ff9f3dae250260d21dc9,16h ago,16.0,2025-11-10T14:00:00+00:00,Sydney NSW,Corporate Finance & Investment Banking (Banking & Financial Services),Full time,,"Active pipeline of high-profile tech M&A transactions.
+88434174,Analyst – Tech M&A – Leading Global Investment Bank,East Partnership,https://www.seek.com.au/job/88434174?type=standard&ref=search-standalone&origin=jobCard#sol=49e4a858620bf303adb8ba2b7ceb91790a82c711,16h ago,16.0,2025-11-10T15:00:00+00:00,Sydney NSW,Corporate Finance & Investment Banking (Banking & Financial Services),Full time,,"Active pipeline of high-profile tech M&A transactions.
 Opportunity to work directly with senior bankers across local and cross border transactions.
 Dynamic platform with a strong growth trajectory in Australia.
 
