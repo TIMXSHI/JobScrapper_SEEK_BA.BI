@@ -1,5 +1,183 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88497946,Data Engineer / Scientist (Healthcare Analytics),Gold Coast Primary Health Network (GCPHN),https://www.seek.com.au/job/88497946?type=standard&ref=search-standalone&origin=jobCard#sol=e3513396d5b3918972af8acb2c644189ef1b406a,1h ago,1.0,2025-11-13T01:00:00+00:00,"Robina, Gold Coast QLD (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We are seeking a Data Engineer / Scientist (Healthcare Analytics) to lead the charge in designing and delivering innovative, scalable data solutions that power secure data management and advanced analytics across the health sector. In this pivotal role, you will drive a landmark data linkage project connecting general practice and hospital data—unlocking insights that enable smarter, evidence-based decisions. Your work will transform health outcomes not only for the Gold Coast community but across Queensland, improving the health system at scale.
+88502919,Data Scientist,sportsbet.com.au,https://www.seek.com.au/job/88502919?type=standard&ref=search-standalone&origin=jobCard#sol=736644a9dd66c12f2a7082aa5c2c5524175b454f,1h ago,1.0,2025-11-13T03:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"About Us
+
+At Sportsbet, we’re all about bringing excitement to life for our 2.4 million customers. As part of the global Flutter Group, we’re a tight-knit team of 1,300 in Melbourne, Sydney, and Darwin, passionate about challenging the status quo. We’re proud to be recognized as one of LinkedIn’s Top 25 Companies and one of the Top 10 Workplaces for Women. We’re an inclusive employer who celebrates diversity and is committed to helping you thrive. Whether you’re looking for flexibility, career growth, or a supportive environment, we’re here to help you succeed.
+
+Committed To Responsible Gambling
+
+Our commitment to responsible gambling is genuine and demonstrated through the wide range of responsible gambling initiatives and tools. We’re proud to be the leaders in responsible gambling in our industry, not just locally, but globally.
+
+The Team
+
+In Data Science we work collaboratively with teams across the organisation to create and evolve end to end solutions that have Data Science at their core. From sports modelling to product personalisation, our team thrives on unleashing the power of data to improve the quality, speed and complexity of the decisions and actions they drive. Our models not only power many of the products our customers get to enjoy, but they also take many of our internal processes to the next level.
+
+We care for things we have built and look at ways to continuously improve them; but we also love to innovate. We are known pioneers and have introduced a number of world first ML-driven customer-facing products. They come from insights, experience but often, just from someone thinking outside of the box – we play a key role in exploring these ideas and making them a reality. Not only we innovate with product, but also in the way we build, develop, deploy and maintain our solutions and how we leverage evolving platforms partnerships.
+
+The Role
+
+Joining the Customer Growth team, the duties and responsibilities include:
+
+Work with key stakeholders from across the business to ensure that business requirements are explored, understood and considered when designing and building models.
+Communicate complex technical information in an easy-to-understand way to keep stakeholders engaged and aligned to progress.
+Design and deploy models in accordance with MLOps best principles to deliver high quality and supportable products.
+Contribute in designing ways to test, track and communicate the ongoing impact of the solutions we deliver.
+
+You - some of the talents we’re looking to find:
+
+Experience with conceiving, designing, building, deploying and monitoring machine learning models, with an excellent eye for detail.
+Commercially minded – track record of unlocking data to drive commercial value.
+Broad knowledge of statistical and computational methods for identifying patterns, extracting insights, and making predictions from complex datasets.
+Strong programming skills (e.g. proficient in Python, R etc with experience in Spark and Databricks a plus).
+Degree in a quantitative discipline (e.g. Mathematics, Statistics, Physics, Computer Science).
+Good communication skills with the ability to explain complex concepts to a wide variety of audiences, both verbally and written.
+
+Why You’ll Love Working Here
+
+Along with a competitive salary and generous performance-based bonus, here’s some of our other benefits:
+25 days annual leave (plus flexible working options)
+$1050 work-from-home allowance
+Access to outstanding career development programs, including expert-led internal training and external learning opportunities
+Onsite concierge services, free meals, social events and access to the Sportsbet Salon
+Generous parental leave and return-to-work benefits
+Hack Days: Participate in our hack days, where creativity and collaboration lead to exciting new ideas and projects.
+
+What’s the Green Tick Feeling?
+
+Well, it’s different for everyone, yet unites us all. It’s the feeling you get when you succeed, no matter what success looks like to you. It could be developing your career, it could be working on an industry leading project, or it could be making it to school pick up in time. It's all the little and big things that make you feel like you’re thriving when working at Sportsbet.
+
+We’re an inclusive employer who welcomes you for who you are, as you are – so, if you require adjustments to the recruitment process, please let us know in your application. We also know flex means different things to different people, so let us know how we can support you to be your best.
+
+We review applications quickly, so apply soon! Check out our Life@Sportsbet Instagram, LinkedIn, and careers website for more about our inclusive culture.
+
+Ready for your Green Tick Feeling? Apply now."
+88499688,Data Engineer | AWS | Snowflake | Redshift | DBT,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/88499688?type=standard&ref=search-standalone&origin=jobCard#sol=ed450619289c39dd3b632b0508ccc9ebe66cbaef,2h ago,2.0,2025-11-13T02:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
+
+Are you ready to be an important part of this ever-transformational journey?
+
+At HCLTech Australia, we value the unique perspective and contributions of all individual and we actively encourage applications from Aboriginal and Torres Strait Islander people to apply for this role.
+
+Job Role Overview:
+
+Primary Skills - (AWS+RED SHIFT) + DBT + Snowflake
+
+Secondary Skills – Teradata + Snowflake
+
+AWS + Snowflake - Key Responsibilities:
+
+• Understand customer requirements and render those as architectural models that will operate at large scale and high performance. Where customers have architectures prepared, validate them against non-functional requirements and finalize the build model.
+
+• Experience in creating and monitoring SNOW PIPE for continuous data ingestion from source.
+
+• Experience in Loading data into snowflake tables from the internal stage using Snow SQL (CLI)
+
+• Work alongside customers to build data management platforms using AWS products like Elastic Map Reduce (EMR), Redshift, Kinesis, Amazon Machine Learning, Amazon Athena, Lake Formation, S3, AWS Glue, DynamoDB, ElastiCache and the Relational Database Service (RDS)
+
+• Hands on experience in Python.
+
+• Well experience on other AWS services EC2, EMR, Redshift, S3, Streaming services like Kafka, Kinesis, HDFS.
+
+• Experience in AWS + Snowflake/Redshift implementation is must.
+
+• Security of EMR cluster using KMS keys or customer managed keys
+
+• Deep experience on Snowflakes/AWS native data services including Glue, Glue Catalog, EMR, PySpark-EMR, Data Sync, RDS, Data Exchange, Lake Formation, Athena, Apache Airflow and dbt.
+
+• (Secondary) Knowledge on Teradata SQL, Teradata Utilities – TPT, FASTLOAD, MLOAD, FASTEXPORT, TPUMP and Scripting - Bteq & Unix shell scripting
+
+• (Secondary) Knowledge of database technologies Teradata, DataStage, Cloudera, Big data Hadoop
+
+• Render working, high performance data management solutions, as CloudFormation and reusable artifacts for implementation by the customer. Bootstrap using user data scripts will be added advantage
+
+• Prepare architecture and design briefs that outline the key features and decision points of the application built in the Data Lab
+
+• Work with customers to advise on changes as they put these systems live on AWS
+
+• Extract best-practice knowledge, reference architectures, and patterns from these engagements for sharing with the worldwide AWS solution architect community
+
+
+
+
+Basic Qualifications:
+
+· 5 to 10 years of IT experience with 5+ years of experience in Data Engineering and 5+ years of hands-on experience in Snowflake Data/AWS Services (e.g. S3, Glue, Glue Catalog, Lake Formation)
+
+· Strong understanding of Snowflake architecture.
+
+· Strong understanding of Teradata or DataStage architecture. (Secondary)
+
+· Experience with data migration tools like Glue, Data Sync.
+
+· Excellent knowledge of data modeling, data warehousing, ETL processes, and other Data management systems.
+
+· Strong understanding of security and compliance requirements in cloud.
+
+· Experience in Agile development methodologies and version control systems.
+
+· Excellent communication an leadership skills. Ability to work effectively across internal and external organizations and virtual teams.
+
+· AWS Certified Data Analytics – Specialty.
+
+· Experience on Containerization and serverless computing.
+
+· Familiarity with DevOps practices and automation tools.
+
+
+
+
+
+
+
+Preferred Qualifications:
+
+· Technical degrees in computer science, software engineering, or mathematics
+
+· Cloud and Data Engineering background with Migration experience.
+
+
+
+
+Other Skills:
+
+· A critical thinker with strong research, analytics and problem-solving skills
+
+· Self-motivated with a positive attitude and an ability to work independently and or in a team
+
+· Able to work under tight timeline and deliver on complex problems.
+
+· Must be able to work flexible hours (including weekends and nights) as needed.
+
+· A strong team player
+
+
+
+
+
+
+
+Why Us
+
+We are one of the fastest-growing large tech companies in the world, with offices in 50+ countries across the globe and 219,000 employees.
+
+Our company is extremely diverse with 165 nationalities represented.
+
+We offer the opportunity to work with colleagues across the globe.
+
+We offer a virtual-first work environment, promoting a good work-life integration and real flexibility.
+
+We offer comprehensive benefits for all employees.
+
+We are a certified great place to work and a top employer in 17 countries, offering a positive work environment that values employee recognition and respect.
+
+Equality & Opportunity for All
+
+Representing 165 nationalities across the globe, we pride ourselves on being an equal opportunity employer, committed to providing equal employment opportunities to all applicants and employees regardless of race, religion, sex, color, age, national origin, pregnancy, sexual orientation, physical disability or genetic information, military or veteran status, Aboriginal and Torres Strait Islander people or any other protected classification, in accordance with federal, state, and/or local law.
+
+Candidate Data Privacy Notice | HCL Technologies
+
+We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data.  By replying to this email or submitting any personal data to HCLTech, you acknowledge that you have read and understood the candidate privacy notice and  have  provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”."
+88497946,Data Engineer / Scientist (Healthcare Analytics),Gold Coast Primary Health Network (GCPHN),https://www.seek.com.au/job/88497946?type=standard&ref=search-standalone&origin=jobCard#sol=f35a8fd29fddefb93e13655170b7f24f0d4f807d,3h ago,3.0,2025-11-13T01:00:00+00:00,"Robina, Gold Coast QLD (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We are seeking a Data Engineer / Scientist (Healthcare Analytics) to lead the charge in designing and delivering innovative, scalable data solutions that power secure data management and advanced analytics across the health sector. In this pivotal role, you will drive a landmark data linkage project connecting general practice and hospital data—unlocking insights that enable smarter, evidence-based decisions. Your work will transform health outcomes not only for the Gold Coast community but across Queensland, improving the health system at scale.
 
 About Us
 
@@ -58,7 +236,7 @@ To apply, please submit a cover letter addressing the selection criteria along w
 Applications close Thursday 27th November at 9:00am.
 
 Please note that the successful candidate will be required to undergo National Police Clearance."
-88496320,Solution Architect,I-MED Radiology Network,https://www.seek.com.au/job/88496320?type=standard&ref=search-standalone&origin=jobCard#sol=89dad660dd44ea273d791c4865030b54e09b006f,2h ago,2.0,2025-11-13T00:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"I-MED Radiology Network is Australia's largest and a global leader of diagnostic imaging, with circa 5,000 employees, located in more than 240 clinics across metropolitan, regional, and rural communities throughout Australia. We offer medical imaging and radiology services including x-ray, PET, CT, MRI, Nuclear Medicine, Ultrasound, Mammography and interventional procedures and each year across the network we perform more than 5 million patient procedures.
+88496320,Solution Architect,I-MED Radiology Network,https://www.seek.com.au/job/88496320?type=standard&ref=search-standalone&origin=jobCard#sol=5ba2b22d5944309f67cdbdac6fc45a083c4f287f,4h ago,4.0,2025-11-13T00:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"I-MED Radiology Network is Australia's largest and a global leader of diagnostic imaging, with circa 5,000 employees, located in more than 240 clinics across metropolitan, regional, and rural communities throughout Australia. We offer medical imaging and radiology services including x-ray, PET, CT, MRI, Nuclear Medicine, Ultrasound, Mammography and interventional procedures and each year across the network we perform more than 5 million patient procedures.
 
 About The Role
 
@@ -107,7 +285,7 @@ A competitive remuneration package plus a range of employee benefits such as fre
 At I-MED we have an all-inclusive culture that puts our patients at the foremost of everything we do. As a diverse group of professionals, we are committed to working together as one team to make a real difference in the lives of our patients. Our positive working environment and hybrid work policy promotes flexibility and work/life balance. We believe the quality of our people, state-of-the art systems and technology, and imaging and diagnosis, sets us apart.
 
 If you're seeking an opportunity to join a growing healthcare business, in a role that offers fast-paced, interesting and varied work, we encourage you to apply today."
-88493501,Software Engineer (AI Systems),The University of New England,https://www.seek.com.au/job/88493501?type=standard&ref=search-standalone&origin=jobCard#sol=30670d8a8a962635d1017a26dab3364fc8064881,4h ago,4.0,2025-11-12T22:00:00+00:00,"Armidale, Tamworth & North West NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$110,591 – $128,345 per year","Software Engineer (AI Systems)
+88493501,Software Engineer (AI Systems),The University of New England,https://www.seek.com.au/job/88493501?type=standard&ref=search-standalone&origin=jobCard#sol=c4405ae79b0ea600026ea12f10d8ba4b1e93bf28,7h ago,7.0,2025-11-12T21:00:00+00:00,"Armidale, Tamworth & North West NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$110,591 – $128,345 per year","Software Engineer (AI Systems)
 
 LabNext70
 
@@ -192,7 +370,7 @@ At UNE, we are committed to employing individuals who meet the requirements of t
 National Police Check
 
 If you are the successful candidate for this role you will be required to provide UNE with a National Police Check prior to your commencement. Please note that people with criminal records are NOT automatically barred from applying for this position (unless there is a particular requirement under law)."
-88493377,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/88493377?type=standard&ref=search-standalone&origin=jobCard#sol=b288163088bd97f788536eee37e350ff9ccf8d19,4h ago,4.0,2025-11-12T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
+88493377,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/88493377?type=standard&ref=search-standalone&origin=jobCard#sol=b9887076822202edbf57ad46fe3929ae0ac63c9d,7h ago,7.0,2025-11-12T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
 Salary: $180,000 to $275,000 + share options
 
 About the Role
