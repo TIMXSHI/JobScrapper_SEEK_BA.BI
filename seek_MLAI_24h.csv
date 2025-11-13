@@ -1,5 +1,113 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88493501,Software Engineer (AI Systems),The University of New England,https://www.seek.com.au/job/88493501?type=standard&ref=search-standalone&origin=jobCard#sol=21705fa97409ee641c4041071454daa8a45db9d5,1h ago,1.0,2025-11-12T22:00:00+00:00,"Armidale, Tamworth & North West NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$110,591 – $128,345 per year","Software Engineer (AI Systems)
+88497946,Data Engineer / Scientist (Healthcare Analytics),Gold Coast Primary Health Network (GCPHN),https://www.seek.com.au/job/88497946?type=standard&ref=search-standalone&origin=jobCard#sol=e3513396d5b3918972af8acb2c644189ef1b406a,1h ago,1.0,2025-11-13T01:00:00+00:00,"Robina, Gold Coast QLD (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We are seeking a Data Engineer / Scientist (Healthcare Analytics) to lead the charge in designing and delivering innovative, scalable data solutions that power secure data management and advanced analytics across the health sector. In this pivotal role, you will drive a landmark data linkage project connecting general practice and hospital data—unlocking insights that enable smarter, evidence-based decisions. Your work will transform health outcomes not only for the Gold Coast community but across Queensland, improving the health system at scale.
+
+About Us
+
+Gold Coast Primary Health Network (GCPHN) is an independent, not-for-profit company, one of 31 Primary Health Networks established by the Australian Government. We identify the health needs of our local community, then fund and improve primary health services to keep people well and out of hospital. GCPHN is building ‘one world-class health system for the Gold Coast’ and we know we can’t do it alone.
+
+What We Offer
+
+Remuneration package of $134,367 - $148,824 + Super
+Flexible work arrangements that support work-life balance, including access to remote or hybrid working policy, with the requirement to travel to the office as needed
+Salary packaging (Fringe Benefit Tax exemptions) up to $15,900 p.a. + $2,650 p.a. meal and entertainment (tax-free income)
+Exceptional organisational reputation with established relationships in primary health care
+Additional benefits of 5 weeks of annual leave per year, paid parental leave, plus annual CPI salary increases
+Benchmarked 'Soaring' workplace culture, with a supportive and collaborative team
+Convenient location at Robina (Gold Coast) with free onsite parking
+
+About the Role
+
+As the Data Engineer / Scientist, you will play a key role in transforming how health data is collected, linked, and analysed to support strategic decision-making and improve health outcomes. Working within a centralised Azure-based data infrastructure, you will lead the development of data pipelines, implement privacy-preserving record linkage, and apply advanced analytics and machine learning techniques to generate actionable insights.
+
+You will play a pivotal role in delivering secure, scalable data solutions that power innovation across the Gold Coast and influence statewide and national initiatives. Collaborating closely with internal teams and external partners, you will drive projects that not only transform integrated care locally but set the standard for health outcomes across Queensland. This is your opportunity to make a lasting impact—regionally and beyond.
+
+Key Responsibilities
+
+Design and maintain scalable data engineering solutions using Microsoft Azure tools (Synapse, Fabric, Data Factory)
+Lead the linkage of general practice and hospital data using Privacy Preserving Record Linkage (PPRL)
+Develop and optimise ETL pipelines and integrate APIs to support robust data workflows
+Apply machine learning and AI techniques to support predictive modelling and advanced analytics
+Build and maintain Power BI dashboards and productivity tools to support data-driven decision-making
+Ensure data governance, privacy, and security standards are upheld (e.g., ISO27001, FHIR)
+Collaborate with cross-functional teams and communicate complex data insights to non-technical stakeholders
+Support analytics maturity uplift across the organisation and contribute to strategic projects
+
+Eligibility Criteria
+
+Essential:
+
+Tertiary qualifications in Data Science, Computer Science, Information Systems, Software Engineering, Statistics, or a related discipline
+Minimum 3 years’ experience managing and optimising data repositories within the Microsoft Azure ecosystem
+Strong experience with ETL tools (Azure Data Factory, Synapse, Fabric) and API integration
+Demonstrated expertise in privacy-preserving data linkage and healthcare data environments
+Advanced proficiency in SQL and database design
+Experience with Power BI and scripting (e.g., PowerShell)
+Familiarity with ISO27001, FHIR standards, and privacy legislation
+Excellent communication skills with the ability to present complex data to diverse audiences
+Strong organisational and project management skills
+
+Desirable:
+
+Azure certification (e.g., Azure Data Engineer Associate)
+Proficiency in Python, R, DAX, Java, or C# Experience in primary health care or epidemiological data analysis
+
+How to Apply
+
+To apply, please submit a cover letter addressing the selection criteria along with your current resume. Your cover letter should include specific examples that demonstrate your relevant experience, knowledge, and capabilities for the role.
+
+Applications close Thursday 27th November at 9:00am.
+
+Please note that the successful candidate will be required to undergo National Police Clearance."
+88496320,Solution Architect,I-MED Radiology Network,https://www.seek.com.au/job/88496320?type=standard&ref=search-standalone&origin=jobCard#sol=89dad660dd44ea273d791c4865030b54e09b006f,2h ago,2.0,2025-11-13T00:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"I-MED Radiology Network is Australia's largest and a global leader of diagnostic imaging, with circa 5,000 employees, located in more than 240 clinics across metropolitan, regional, and rural communities throughout Australia. We offer medical imaging and radiology services including x-ray, PET, CT, MRI, Nuclear Medicine, Ultrasound, Mammography and interventional procedures and each year across the network we perform more than 5 million patient procedures.
+
+About The Role
+
+We're looking for a Solution Architect with a hands-on approach to join our development team and help design and implement innovative solutions in the healthcare space. While your primary focus will be on architecting solutions in AWS, you'll also roll up your sleeves and assist the team with building and delivering these solutions.
+
+Our core technology stack includes AWS, Java, Python, and PostgreSQL, with opportunities to work across other platforms and solutions within the business. You'll join an established team where your expertise will influence technical direction and ensure robust, scalable, and secure architectures.
+
+You'll bring a positive, collaborative, and forward-thinking mindset, with a passion for delivering high-quality solutions and supporting both internal and external stakeholders.
+
+Key Accountabilities:
+
+
+Design and document AWS-based solution architectures aligned with business requirements and best practices.
+Collaborate with stakeholders to translate business needs into technical designs.
+Assist in hands-on development, testing, and deployment of software solutions.
+Participate in code reviews, agile ceremonies, and contribute to continuous improvement initiatives.
+Provide technical leadership, mentor team members, and guide best practices in cloud architecture and development.
+Identify opportunities for automation, scalability, and performance improvements across the solution landscape.
+
+Key selection criteria:
+
+
+Proven experience as a Solution Architect with strong AWS expertise (including services such as Lambda, API Gateway, ECS/EKS, RDS, S3, IAM).
+Solid development experience with Java and/or Python and related frameworks.
+Familiarity with front-end frameworks (e.g., React) is advantageous.
+Strong understanding of RESTful API design and integration.
+Competent with PostgreSQL and relational database design.
+Experience with modern architectures: microservices, serverless, containerization.
+Ability to balance high-level design with hands-on implementation.
+Excellent problem-solving and analytical skills.
+Strong communication skills, both written and verbal.
+AWS Certification or related IT architecture certification desirable.
+Knowledge of healthcare IT standards (HL7, DICOM) is beneficial.
+Exposure to AI/ML solution implementation is a plus.
+
+What can I-MED offer you?
+
+
+Supportive and professional working environment in our brand-new head office(s)
+Opportunity to work within a large-scaled and advanced technology environment
+Commitment to your health and well-being with access to our employee assistance program. I-MED's Lifeworks portal gives employees access to a number of resources, plus exclusive offers on everyday purchases from well-known companies
+Strong commitment to continual professional development
+Flexible work arrangements and a hybrid work model
+A competitive remuneration package plus a range of employee benefits such as free parking (Melbourne office), paid parental leave, salary packaging options, discounted health insurance and gym memberships, banking, and travel benefits and much more
+
+At I-MED we have an all-inclusive culture that puts our patients at the foremost of everything we do. As a diverse group of professionals, we are committed to working together as one team to make a real difference in the lives of our patients. Our positive working environment and hybrid work policy promotes flexibility and work/life balance. We believe the quality of our people, state-of-the art systems and technology, and imaging and diagnosis, sets us apart.
+
+If you're seeking an opportunity to join a growing healthcare business, in a role that offers fast-paced, interesting and varied work, we encourage you to apply today."
+88493501,Software Engineer (AI Systems),The University of New England,https://www.seek.com.au/job/88493501?type=standard&ref=search-standalone&origin=jobCard#sol=30670d8a8a962635d1017a26dab3364fc8064881,4h ago,4.0,2025-11-12T22:00:00+00:00,"Armidale, Tamworth & North West NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$110,591 – $128,345 per year","Software Engineer (AI Systems)
 
 LabNext70
 
@@ -84,7 +192,7 @@ At UNE, we are committed to employing individuals who meet the requirements of t
 National Police Check
 
 If you are the successful candidate for this role you will be required to provide UNE with a National Police Check prior to your commencement. Please note that people with criminal records are NOT automatically barred from applying for this position (unless there is a particular requirement under law)."
-88493377,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/88493377?type=standard&ref=search-standalone&origin=jobCard#sol=76a029ac3b9b7d93d0918c008f2de03acff18c16,2h ago,2.0,2025-11-12T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
+88493377,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/88493377?type=standard&ref=search-standalone&origin=jobCard#sol=b288163088bd97f788536eee37e350ff9ccf8d19,4h ago,4.0,2025-11-12T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
 Salary: $180,000 to $275,000 + share options
 
 About the Role
