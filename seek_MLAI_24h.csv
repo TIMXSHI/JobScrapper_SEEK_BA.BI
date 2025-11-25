@@ -1,5 +1,399 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88731661,Senior Data Architect & AI Engineer,Foundation Education Pty. Ltd.,https://www.seek.com.au/job/88731661?type=standard&ref=search-standalone&origin=jobCard#sol=1596656f35cab1eb380e6649df1bd0a0a6c8a8cc,1h ago,1.0,2025-11-24T22:00:00+00:00,"Bowen Hills, Brisbane QLD (Hybrid)",Architects (Information & Communication Technology),Full time,"$160,000 – $180,000 per year","About the Role
+88735118,Data Engineer,HorizonOne Recruitment,https://www.seek.com.au/job/88735118?type=standard&ref=search-standalone&origin=jobCard#sol=5716ddb1a50a3b4e37c663c5d1310bca6931062b,1h ago,1.0,2025-11-25T01:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Full time,"$121,253 + 15% Super","HorizonOne are excited to be partnering with Icon Water to recruit new team members into their Digital Technology Group. 
+
+Wholly owned by the ACT Government, Icon Water has delivered essential services to Canberra for over 100 years. While primarily a water and sewerage provider, it also invests in electricity and gas through private partnerships, operating across both government and commercial sectors. Icon Water is focused on sustainability, playing a key role in addressing climate change, protecting the environment, and achieving net zero emissions by 2045.
+ 
+Serving approximately 190,000 customers, the business manages over $3.2 billion in assets—including dams, treatment plants, reservoirs, and networks of mains and pumps—and generates around $490 million in annual revenue.
+ 
+The Opportunity
+
+Icon Water is progressing through a significant digital and data transformation, making this a highly impactful time to join. In this permanent, ongoing role, you will help build on the foundation for the organisation’s self-service analytics capability an area with high business engagement and demand.
+
+This is a great permanent opportunity for a data analytics engineer to join a small, growing team where you will directly influence data capability, architecture decisions, and the future direction of the function.
+
+Help define the direction of data-driven decision-making and uplift the organisation’s use of data
+Strong demand from business teams for better data insights. You’ll be stepping into a role where your work is immediately valued and needed.
+Work on genuinely interesting data problems, connecting information from multiple sources to uncover insights.
+Exciting pipeline of interesting data projects to influence and be part of
+Please view the candidate information page for this role here: bit.ly/H1DTGrecruitment   
+ 
+The Role
+
+Key responsibilities include:
+
+Collect and clarify reporting and dashboard requirements, identify data sources, and secure required access from data owners
+Extract, integrate, clean and transform data from SQL, on-prem, API and cloud systems using Power Query (M), ADF, SSIS and dataflows to build reusable semantic models
+Apply dimensional modelling (star/Kimball) and optimise models for refresh, performance and organisation-wide reuse while minimising duplication
+Automate data extraction at source by developing SQL/OData queries and Power Automate flows, reducing manual processes and shifting transformations upstream
+Maintain and enhance existing dataflows and semantic models, ensuring alignment with business needs and managing endorsement, permissions and governance
+Support business users through training, walkthroughs and documentation, and develop reports where Power BI capability is limited
+The Ideal Person
+
+You bring your intermediate or above skills in Power BI (in particular DAX, data flows and semantic models) and are comfortable working with SQL and cloud-based data environments.
+
+You take a thoughtful approach to data, ensuring models and reports are accurate, reliable, and fit for purpose, and you can translate what a business asks for into what they truly need in a clear and approachable way. You take a methodical approach to your work an understand the importance of careful documentation, and data governance.
+
+You’re positive, curious and are looking for a long term role that you can grow, develop within as you continue to deepen your knowledge of the organisation, data and people so you can help others get the most from their data.
+ 
+Salary / Rate
+
+The salary band starts at $121,253 + 15% Super.
+ 
+In addition to an attractive renumeration package, Icon Water offer great employee benefits including flexible working arrangements, career development opportunities, health and wellbeing contributions and salary sacrifice options to name a few. 
+ 
+How to Apply
+
+To apply online, please click on the appropriate link.
+ 
+Alternatively, for a confidential discussion, please contact Lucas Walker on 02 6108 4878 quoting ref no. 21160
+
+Applications close Sunday 7th December at 11:59pm (AEDT). Early applications are encouraged, as we will review them as they are received.
+ 
+HorizonOne is committed to building a diverse and inclusive workforce and we encourage applications from people of all cultures, capabilities and backgrounds."
+88734931,Data Engineer and Reporting Specialist,Melbourne Polytechnic,https://www.seek.com.au/job/88734931?type=standard&ref=search-standalone&origin=jobCard#sol=ec67a4b314885e0ea89acf89069c26dae50af827,1h ago,1.0,2025-11-25T01:00:00+00:00,"Preston, Melbourne VIC (Hybrid)","Business/Systems Analysts (Information & Communication Technology)
+Other (Education & Training)",Full time,"$140,000 – $150,000 per year","Vacancy Number: 143
+
+Position Title: Data Engineer and Reporting Specialist
+
+Employment Status: Fixed Term Contract, Full Time (Ending 28 August 2027)
+
+Department: ED People and Student Success
+
+Location: Preston
+
+Award Classification: Melbourne Polytechnic Academic Professional Staff Agreement
+
+Salary: $140,000 - $150,000 per annum plus superannuation
+
+Hours per Week: 38
+
+Applications Close: Monday 8 December 2025
+
+
+
+
+Why Join Us
+
+Melbourne Polytechnic has been a leader in practical, real-world education since 1912. We offer:
+
+Industry-led, hands-on training
+
+Inclusive, future-focused environments
+
+A strong commitment to staff wellbeing
+
+A culture built on curiosity, collaboration, and care
+
+
+
+
+About the Role
+
+Melbourne Polytechnic is seeking a dynamic Data Engineer and Reporting Specialist to play a key role in the implementation of our new Student Management System (SMS). Reporting to the SMS Finance & Reporting Domain Lead, you will lead the development of a reporting strategy, automate operational and business intelligence reporting, and ensure data integrity across the student lifecycle.
+
+This is an exciting opportunity to contribute to Melbourne Polytechnic’s Strategic Plan and Digital Strategy by delivering high-quality reporting solutions and dashboards that support informed decision-making.
+
+
+
+
+Key Responsibilities
+
+Develop and implement a comprehensive reporting strategy for the new SMS.
+
+Design and support data integrations using Azure services (ADF, SQL Database, Data Lake, Synapse).
+
+Lead reconciliation and gap analysis of reporting requirements across domains.
+
+Design and build reports, dashboards, and templates using tools such as Power BI.
+
+Build and optimise complex SQL queries and data warehouse models.
+
+Collaborate with internal stakeholders and vendors to ensure timely delivery of reporting solutions.
+
+Provide documentation, training, and post-go-live support for reporting tools.
+
+
+
+
+Skills and Experience Required
+
+Tertiary qualifications in IT, Business, or related field, or extensive experience in similar roles.
+
+Strong experience in data engineering, ETL/ELT pipelines, and star-schema modelling.
+
+Advanced SQL skills and experience with Azure services.
+
+Proven ability to develop and publish Power BI dashboards and reports in an enterprise environment.
+
+Exceptional stakeholder engagement and communication skills.
+
+Ability to manage complex projects on time and on budget.
+
+
+
+
+Additional Requirements
+
+Successful candidate will be required to provide:
+
+A valid Victorian Employee Working with Children Check (WWCC)
+
+A National Police Check
+
+How to Apply
+
+Please note: This is a re-advertisement of the SMS Business and Reporting Specialist position. If you have previously applied for this role during the first round of advertising, we kindly ask that you do not reapply.
+
+Click Apply to submit your application through Melbourne Polytechnic’s careers portal. There, you will be able to view the full Position Description and upload your documents.
+
+Please:
+
+Complete all pre-screening questions
+
+Upload your CV and a brief cover letter (maximum 2 pages) outlining how your skills, experience, and personal attributes align with the Key Skills and Experience in the PD
+
+File Requirements:
+
+Each file must be under 2MB. PDF is preferred (Word .doc or .docx also accepted). Avoid special characters in filenames (e.g., ! @ # % *).
+
+Selection Process
+
+Our process includes:
+
+An interview (in-person or via Microsoft Teams)
+
+Reference checks
+
+Employment and qualification verification
+
+Questions?
+
+Contact: Recruitment Team
+
+Email: recruitment@melbournepolytechnic.edu.au
+
+Diversity and Inclusion
+
+Melbourne Polytechnic is an equal opportunity and child-safe employer. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples, people with a disability, people from diverse cultural backgrounds and gender identities.
+
+
+
+
+Recruitment Agencies
+
+Melbourne Polytechnic manages all recruitment directly. We do not accept unsolicited applications from agencies unless engaged through the State Purchasing Contract and with prior written approval."
+88734280,Asset Data Quality Lead,AGL,https://www.seek.com.au/job/88734280?type=standard&ref=search-standalone&origin=jobCard#sol=22e620c64ea304f974a4bf8f40f3f42e878dd85b,1h ago,1.0,2025-11-25T01:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Full time,,"Join the change. Electrify your future!
+
+We've been proudly Aussie since 1837, always finding new ways to innovate in energy and essential services. Now, we're moving towards a sustainable future through electrification and investing in renewable energy-and we'd like you to join us. Whether you're on-site, in the office, or somewhere in between, you'll find opportunities to grow your career here. You'll work with a team that's passionate about powering Australian lives, in a culture that values inclusivity, respect, and learning. Help us create a cleaner energy future, and we'll back you every step of the way as you build your career.
+
+
+About the role
+
+An exciting opportunity has become available for an Asset Data Quality Lead to join our Asset Services team based in Melbourne.
+Reporting to the Manager, Asset Data and Governance, this is a unique opportunity to shape the future of Data and AI governance within our Energy Assets group. As our Data Quality Lead, you'll be the champion for turning industrial and enterprise data into our trusted assets. You'll design and deliver the frameworks, tools and processes that keep our data accurate, consistent and reliable.
+
+
+Key responsibilities
+
+Manage practical frameworks, tools and standards that improve the accuracy, consistency and
+reliability of data.
+Create clear data quality metrics and dashboards that give actionable insights.
+Implement root cause fixes and sustainable solutions to data issues, preventing repeat problems.
+Promote strong collaboration across business and technical teams to embed data quality and data management practices into everyday practice.
+Translate strategic vision into actionable outcomes and embed data quality elements into
+high-impact initiatives.
+Become a trusted advisor, offering expert guidance on emerging risks, compliance requirements,
+policies and guidelines that are integral to good data management practices.
+
+
+About You
+
+You're a collaborative data leader who helps teams embrace governance standards, and champions continuous improvement to deliver reliable, high-quality data and measurable business outcomes. Additionally, you will have most of the following:
+
+Tertiary qualifications in Data Management, Computer Science, Information Systems, Statistics, Mathematics, or equivalent professional experience.
+Demonstrated background and experience working in Data Management Practices,
+particularly in Data Quality.
+Advanced understanding of data quality's value, user adoption strategies, and
+management.
+Experience interpreting and analyzing data, using and managing data quality tools,
+dashboards, and validation processes.
+Prior experience with various technology products and services such as Azure products,
+cloud storage, SQL servers, SAP, Power BI.
+Good working knowledge of the energy market and the convergence of Operational Technology and Information Technology.
+
+
+Applications close on 7 December 2025
+
+
+Inclusion at AGL
+
+At AGL, we value diversity and welcome applicants from various backgrounds, including Aboriginal and/or Torres Strait Islander peoples, individuals with disabilities, culturally diverse individuals, and members of the LGBTQ+ community. AGL is dedicated to maintaining a diverse workforce and encourages applicants to share their lived experiences.
+We offer reasonable adjustments throughout the recruitment process and respect the privacy of those who choose not to disclose. To learn more visit: www.agl.com.au/careers
+
+AGL is proud to be a WORK180 Endorsed Employer for All Women.
+
+Our pre-employment screening process includes a Nationally Coordinated Criminal History Check and a medical assessment if necessary.
+The information provided as part of your application to AGL will be managed in accordance with the AGL Privacy Policy.
+AGL does not accept agency submissions unless approval has been granted by a member of the Talent Acquisition team. Candidates submitted by an agency without approval will not be considered by AGL."
+88733079,Data Engineer - Cloud Migration - Government,APG Workforce,https://www.seek.com.au/job/88733079?type=standard&ref=search-standalone&origin=jobCard#sol=8640a7a391e19d796ce4ed99ce20a2599c444b81,2h ago,2.0,2025-11-25T00:00:00+00:00,"Carseldine, Brisbane QLD",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Data Engineer – Cloud Migration
+
+Location: Carseldine QLD 4034
+Pay Rate: $84.56 per hour + super
+Start: ASAP
+Duration: 12 Months 
+
+About the Role We are seeking an experienced Data Engineer to support a major cloud migration and deliver high-quality enterprise data solutions. This role is focused on sourcing, integrating, and making data accessible for BI analysts, data scientists, and wider business users. You will use modern cloud-based technologies to design, build, and deliver an enterprise-wide data consumption model.
+
+Key Responsibilities
+Develop and implement cloud-based data ingestion and integration solutions.
+Design, build and deliver secure, high-quality enterprise data marts.
+Lead migration of data platforms from Azure to AWS, including ingestion patterns, security controls and architecture supporting AI/ML initiatives.
+Migrate existing Azure Data Factory and Databricks pipelines to AWS Redshift and AWS Glue.
+Repoint migrated solutions to existing Tableau and Power BI dashboards.
+Source and ingest data from SQL and NoSQL databases into AWS.
+Build scalable, automated data pipelines and data marts in Redshift, Glue, Snowflake and Matillion. (Note: Data warehousing experience alone is not sufficient; data mart build experience is essential.)
+Develop test scripts and implement government-grade data security controls to ensure data integrity and quality.
+Produce documentation for all delivered data solutions using TMR templates.
+Curate optimised data models aligned with business requirements.
+Extract, integrate and model data from diverse data sources to support enterprise-wide consumption models.
+Collaborate with business architects on information architecture documentation.
+Design and implement cloud solutions enabling self-service analytics, AI and ML integration.
+Develop patterns that support adoption of AWS, Microsoft and Google Marketplace solutions.
+Perform additional duties as required.
+About You The ideal candidate will have:
+
+Proven experience delivering cloud-based data engineering solutions across complex environments.
+Strong hands-on experience with AWS, Azure, Redshift, Glue, Snowflake, Matillion and modern data engineering tools.
+Demonstrated experience building enterprise-grade data marts (required).
+Experience working across both public and private sector environments (highly desirable).
+Strong documentation, data modelling and solution-design skills.
+How to Apply Please ensure your application details all relevant skills and experience that match the role requirements.
+Ready to apply your expertise to a major cloud transformation program?
+
+Apply Now."
+88732519,AI Data Engineer,Credit Corp Group Limited,https://www.seek.com.au/job/88732519?type=standard&ref=search-standalone&origin=jobCard#sol=7d53e21b7689d6e1b5d9232e81a26941244dbc12,3h ago,3.0,2025-11-24T23:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Credit Corp is Australia's largest provider of sustainable financial services to the credit impaired consumer segment. We are an ASX200 listed company with over 2000 staff in multiple locations in Australia, USA, New Zealand and Philippines. We work closely with regulators to provide sustainable financial solutions with the objective of improving our customers’ circumstances as a pathway to mainstream financial inclusion.
+
+The Role:
+
+We're seeking an expert Data Engineer who is passionate about building scalable data infrastructure to support cutting-edge AI. You are a hands-on engineer who understands that trusted AI is built on a foundation of high-quality, reliable data. You have a proven track record of designing and implementing complex data pipelines, integrating diverse data sources, and ensuring data governance and quality in a production environment.
+
+You are methodical, detail-oriented, and thrive on solving complex data challenges. As Credit Corp executes an ambitious roadmap to expand its AI capabilities, this role is critical. You will have the unique opportunity to build the data architecture and best practices that will underpin our AI future, creating a lasting impact on the organization.
+
+
+You will have:
+
+Exceptional communication skills
+5+ years of hands-on experience in data engineering, with a proven track record of building and managing production data pipelines.
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+Deep expertise in cloud data platforms, particularly GCP (BigQuery, Dataflow, Pub/Sub, Cloud Storage).
+Strong proficiency in SQL and programming languages like Python for data manipulation and pipeline development.
+Experience with data modelling, ETL/ELT design, and data warehousing concepts.
+Familiarity with containerization (Docker) and orchestration (Kubernetes).
+Knowledge of data governance, data quality frameworks, and best practices for managing data in regulated environments.
+Experience with real-time data streaming technologies and event-driven architectures is highly desirable.
+Excellent organisation and time management skills
+
+In order to be successful in this role you will be driven, highly motivated and eager to learn.
+
+If you’re looking for an opportunity to work for a financial services organisation which offers growth and development and has a great culture, then this is the role for you."
+88732472,Principal Software Engineer - Gen AI,Commonwealth Bank,https://www.seek.com.au/job/88732472?type=standard&ref=search-standalone&origin=jobCard#sol=2ccbb343ffbd3e31ffabcdef8471babc182d3d49,3h ago,3.0,2025-11-24T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Do Work That Matters
+
+
+
+
+As part of Business Banking Technology, you’ll be at the forefront of innovation, working with emerging technologies to deliver world-class engineering capability that supports CommBank’s strategy.
+
+See Yourself in Our Team
+
+
+
+
+You’ll join the Virtual Relationship Distribution Channel Crew, whose mission is to design AI-powered customer experiences and create seamless self-service journeys. We collaborate to empower business customers to focus on what matters most: building meaningful connections.
+
+In This Role
+
+
+
+
+As a Principal Engineer, you’ll play a key role in shaping solutions that empower businesses and enhance customer experiences. Your contributions will create meaningful impact for customers, communities, and the future of banking:
+
+Contributing to data-driven, customer-centric features and fostering a culture of innovation.
+
+Exploring emerging AI-assisted tools and working closely with engineering squads across the Group.
+
+Helping shape architectural standards and partnering on exciting design challenges.
+
+Translating ideas into practical engineering solutions and supporting squad members.
+
+Sharing knowledge through code reviews, documentation, and problem-solving.
+
+Mentoring and coaching engineers, helping them grow their careers.
+
+We’d love to hear from you if you have:
+
+
+
+
+Core Technical Skills
+
+Experience applying AI/ML to accelerate product development.
+
+Proficiency in Python, Java, or similar languages.
+
+Familiarity with AI tools and frameworks such as Anthropic Claude, Llama, LiteLLM, Cursor, Windsurf / Codeium, VO Vercel, Continue, Aider, Cline, LangChain, LangGraph, Hugging Face.
+
+Knowledge of AWS (including Sagemaker, Bedrock) and Azure.
+
+Understanding of microservices architecture, containerisation (Docker/Kubernetes), and cloud-native solutions.
+
+Experience with Infrastructure as Code (IaC), CI/CD pipelines, and modern DevSecOps practices.
+
+Agile development and iterative experimentation from prototype to production.
+
+Leadership & Collaboration
+
+A passion for supporting and developing others, sharing knowledge, and helping engineers grow.
+
+Ability to build strong relationships across teams and align technical decisions with business goals.
+
+Experience contributing to architectural standards and solving design challenges collaboratively.
+
+Working with us
+
+Whether you’re passionate about customer service, driven by data, or called by creativity, a career here is for you. At CommBank, we advocate and facilitate a culture of inclusion and respect, celebrating all cultures, abilities, genders, expressions of gender and sexual orientation. Read more about our commitment to inclusion and diversity on our careers website.
+
+Our people bring their diverse backgrounds and unique perspectives to build a respectful, inclusive and flexible workplace. We are working hard to recruit people who represent the diversity of our customers and our society. If you're excited about this opportunity but you don't meet every single requirement, or your experience doesn't align perfectly, we still want to encourage you to send in your application. You may just be the perfect candidate for this opportunity or another within CommBank.
+
+At CommBank we will inspire you with work that makes a difference, surround you with talented people that respect and value each other, and empower you to grow professionally and personally. Most of all, making a positive impact for customers, communities and each other is part of our every day.
+
+We’re determined to make a real difference for Australia’s first peoples. We encourage all interested applicants to apply. If you’re already part of the Commonwealth Bank Group (including BankWest), you’ll need to apply through Sidekick to submit a valid application. We’re keen to support you with the next step in your career.
+
+APPLY NOW to do your best work and live your best life with us."
+88732425,AI Operations Engineer,Credit Corp Group Limited,https://www.seek.com.au/job/88732425?type=standard&ref=search-standalone&origin=jobCard#sol=10a291ff621bd4064c1e62c676528f2bddba66f5,3h ago,3.0,2025-11-24T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Credit Corp is Australia's largest provider of sustainable financial services to the credit impaired consumer segment. We are an ASX200 listed company with over 2000 staff in multiple locations in Australia, USA, New Zealand and Philippines. We work closely with regulators to provide sustainable financial solutions with the objective of improving our customers’ circumstances as a pathway to mainstream financial inclusion.
+
+The Role:
+
+We're seeking an experienced AI Operations Engineer who is passionate about building reliable, scalable systems that enable AI at scale. You're someone who thinks operationally—not just in code—and understands that great AI products require more than just good models; they require robust infrastructure, meticulous monitoring, and disciplined incident management. You should be detail-oriented and methodical, comfortable working in ambiguity, and thrive in a collaborative environment.
+
+Most importantly, you're eager to grow as we scale our AI capabilities. Credit Corp is at an exciting inflection point in our AI journey. We currently have our first AI products in production serving real customers, and we're executing an ambitious roadmap to expand our AI capabilities across multiple business units and product lines. This is the critical phase of establishing robust operational foundations that will support significant growth. In this role, you'll have the unique opportunity to shape how we operationalize AI across the organization and establish the best practices and processes that will serve us for years to come—essentially building the operational playbook for Credit Corp's AI future.
+
+
+You will have:
+
+Exceptional communication skills
+5+ years MLOps/DevOps/SRE experience - with demonstrated success in deploying and managing AI/ML models in production environments
+Bachelor's or Master's degree in Computer Science, Software Engineering, Data Science, or related field
+Cloud-native ML platforms - particularly GCP and Vertex AI, including model deployment, scaling, and infrastructure management
+DevOps engineering practices - CI/CD pipelines, infrastructure-as-code, containerization (Docker), orchestration (Kubernetes), and automation scripting (Python/bash)
+Monitoring and observability - comprehensive systems for production AI/ML services, including model performance tracking, data drift, and system health metrics
+ML governance frameworks - model versioning, compliance requirements, and operational best practices for regulated environments
+Data quality and streaming - monitoring frameworks, data validation tools, event-driven architectures, and real-time data streaming patterns
+Regulated industry experience - particularly financial services (highly desirable)Excellent organisation and time management skills
+
+In order to be successful in this role you will be driven, highly motivated and eager to learn.
+
+If you’re looking for an opportunity to work for a financial services organisation which offers growth and development and has a great culture, then this is the role for you."
+88731661,Senior Data Architect & AI Engineer,Foundation Education Pty. Ltd.,https://www.seek.com.au/job/88731661?type=standard&ref=search-standalone&origin=jobCard#sol=48881cb0df659e58974ba6b403c0e9cd7d788303,4h ago,4.0,2025-11-24T22:00:00+00:00,"Bowen Hills, Brisbane QLD (Hybrid)",Architects (Information & Communication Technology),Full time,"$160,000 – $180,000 per year","About the Role
 
 We are seeking a Senior Data Architect & AI Engineer to lead the design, development, and optimization of scalable data architectures and intelligent data pipelines. This pivotal role will establish a single source of truth across the organization, enabling advanced analytics and AI-driven decision-making.
 
@@ -58,7 +452,7 @@ Error rate reduction and system uptime
 Deployment speed and team productivity
 
 Stakeholder satisfaction and collaboration outcomes"
-88723673,Data Migration & Fabric Data Warehouse – Multiple Roles,IM SYSTEMS,https://www.seek.com.au/job/88723673?type=standard&ref=search-standalone&origin=jobCard#sol=5e11438078fc90915a660bfc9215af1e05ea55f5,3h ago,3.0,2025-11-24T20:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"IM Systems (IMS) is a strategic innovation consultancy specialising in aligning technology, data, and people to unlock real business potential. 
+88723673,Data Migration & Fabric Data Warehouse – Multiple Roles,IM SYSTEMS,https://www.seek.com.au/job/88723673?type=standard&ref=search-standalone&origin=jobCard#sol=5c1ec0a48f94b4d4874483be1664b6d88602c4d6,6h ago,6.0,2025-11-24T20:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"IM Systems (IMS) is a strategic innovation consultancy specialising in aligning technology, data, and people to unlock real business potential. 
 
 We partner with many of Australia’s most recognised public and private organisations, providing both strategic direction and hands-on expertise across digital, data and AI initiatives. 
 
