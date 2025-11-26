@@ -1,152 +1,640 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88758960,Senior Identity Analyst - SailPoint,Talenza,https://www.seek.com.au/job/88758960?type=standard&ref=search-standalone&origin=jobCard#sol=aeba43b9b891da9e5e79decbb32fe45addb08e65,1h ago,1.0,2025-11-25T22:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,"$140,000 - $155,000 + super","About the company
+88761520,Senior Data Engineer,Custom Fleet,https://www.seek.com.au/job/88761520?type=standard&ref=search-standalone&origin=jobCard#sol=f1919a78c4f66338c71043697a6558c5b4b794e7,1h ago,1.0,2025-11-26T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$150,000 – $170,000 per year","ABOUT US
+At Custom Fleet, we’ve been using our smarts to make the complex simple for over 40 years. It’s the driving force that continues to make us the fleet and leasing leader in Australia and New Zealand today.
 
-Leading financial services business
-New role in their Cyber team
-Help build out their IAM capability
+When you join Custom Fleet, you’re joining a business that is Going Places. With us, what you do and who you are matter. Being part of our diverse crew means you’ll feel welcome, empowered, and have lots of fun celebrating our success (and that sure does feel good!). We are a crew of accountable go-getters on a journey of continuous improvement – we collaborate and support each other, working hard to win for our customers, for our business, and for each other. Whilst winning isn’t everything, we are proud of our success and love it when we reach the #1 spot.
 
-​​
-About the role
-This is a newly created role in a financial services who are building up an internal IAM function. Your work will be split across project related work and BAU on a yet to be determined identity platform. This could be anything from basic troubleshooting, configuration, onboarding new applications or enhancement related work. You will report into a Head of IAM who is working through product and supplier selection, the supplier will handle the design and initial implementation phase of the project.
+ABOUT THE ROLE
+We are looking for a Senior Data Engineer to join our growing team and help shape the future of our cloud-native data platform. This is a Greenfield role giving you the opportunity to design and build solutions from the ground up, influence architecture decisions and set best practices for the future.
 
-We are looking for deep hands-on SailPoint experience. We are not seeking a Technical BA.
+In this role you will design and develop scalable ETL/ELT pipelines in Azure ensuring data is reliable, secure and ready to power insights across the business. You will collaborate with BI Developers, Analysts and stakeholders to deliver high-quality solutions that drive smarter decisions and better outcomes for our customers.
 
-Culture / Benefits
+Essential Duties
 
-Hybrid set up, results first and mature culture and environment
-Work closely with ""Head of"" on initial implementation for the whole business
-Tight knit and collaborative team
+Design and build scalable ETL/ELT pipelines to ingest, transform and load data into our Azure cloud data warehouse.
+
+Develop and maintain data engineering solutions using Azure and selected cloud-based platforms and tools.
+
+Collaborate with BI Developers, Analysts and Business Stakeholders to understand data requirements and deliver reliable solutions.
+
+Implement data quality checks, monitoring and governance practices across pipelines.
+
+Work with cross-functional teams (Architecture, Infrastructure, Security) to ensure alignment with enterprise standards.
+
+Participate in all stages of the data engineering lifecycle: design, development, testing, deployment and documentation.
+
+Other Duties
+
+Shape and evolve the architecture of our cloud data platform, ensuring it scales with business growth.
+
+Contribute to the development of best practices and reusable frameworks for data ingestion and transformation.
+
+ABOUT YOU
+
+Essential
+
+Proven experience in cloud-based ETL/ELT development, ideally in Azure.
+
+Strong proficiency in Python for data engineering tasks.
+
+Hands-on experience with Databricks and Spark.
+
+Solid understanding of data warehousing principles and best-practice modelling.
+
+Ability to work independently and manage complexity in a dynamic environment.
+
+Strong problem-solving skills and attention to detail.
+
+Other
+
+Experience with CI/CD pipelines.
+
+Exposure to other cloud platforms and a range of data ingestion tools.
+
+Familiarity with data governance and security frameworks.
+
+Education & Experience
+
+Essential
+
+Minimum 5 years of experience in data engineering or related fields.
+
+Tertiary qualification in Computer Science, Data Engineering or a related discipline.
+
+Other
+
+Experience with Databricks, Python, Azure Data Factory, and SQL Server is highly desirable.
+
+Experience ingesting real-time data (telemetry data) would be a bonus.
+
+FOR YOU
+
+We offer industry leading 'Custom Perks' including:
+
+Annual performance bonus 
+
+Take 5 program - potential to earn an extra week of annual leave
+
+Gender-neutral Parental Leave - 12 weeks paid entitlement
+
+Collaborative Hybrid work environment – 3 days in office
+
+Company funded social events
+
+Dress for your day policy 
+
+Employee discounts
+
+Intersection – our Diversity Network
+
+Cultural Leave swap
+
+Ongoing investment in your growth including access to our digital learning platform - Degreed
+
+Reward and recognition programs
+
+Volunteer and community engagement opportunities
+
+Wellbeing leave
+
+HOW TO APPLY
+
+Please submit your resume and cover letter by clicking ‘Apply Now’.
+
+At Custom Fleet we are committed to growing a team made up of diverse people, skills, and experiences. We encourage applications from all backgrounds, communities, and industries.
+
+OUR DIVERSE CREW
+
+Research shows that women and people of diverse backgrounds are less likely to apply for roles if they don't meet every qualification. If after reading this, you’re not sure you tick every single criteria box, but have the passion to get behind our values, we think you should click that apply button anyway. We're passionate about building a diverse and inclusive team, and love hearing from people like you!
+
+If you have a disability that requires support including an alternate job ad format, interview arrangements or adjustments, please let us know by emailing our recruitment team at careers@customfleet.com.au or call our Customer Service Team on 1800 812 681 - they will take your details and arrange for a return call from a member of the Talent Team.
+
+Unlawful Conduct Commitment
+
+Custom Fleet is dedicated to maintaining a culture of respect where there is zero-tolerance of any form of discrimination, harassment, and victimisation. We are committed to eliminating unlawful conduct in the workplace and uphold the highest standards of ethical behaviour and compliance with applicable laws and regulations.
+
+Our careers team and hiring leaders kindly request no unsolicited resumes or approaches from recruitment agencies. Custom Fleet is not responsible for any fees related to unsolicited resumes."
+88761484,AO8 Manager of Business Services,Kingston Human Capital,https://www.seek.com.au/job/88761484?type=standard&ref=search-standalone&origin=jobCard#sol=4b30a70c473f9d46137227f4a4ca7279a27c5787,1h ago,1.0,2025-11-26T01:00:00+00:00,Brisbane QLD (Hybrid),Financial Managers & Controllers (Accounting),Contract/Temp,Competitive hourly rate: $96.23 - $101.69 + Super,"Are you an experienced finance professional who thrives in a governance-focused environment and enjoys advising senior executives?
+
+What's in it for you?
+
+High visibility and influence, working directly with a Deputy Director-General on critical financial and governance matters.
+Competitive hourly rate: $96.23 - $101.69 + Super
+3 to 6 month contract | Potential view to Permanency | ASAP start
+CBD Location | Possible flexible working arrangements
+About the opportunity 
+This is a key opportunity to work alongside a Deputy Director-General within a large Queensland Government department to lead effective divisional governance, performance, and resource management by delivering accurate analysis, reporting and business insights. Working closely with corporate finance, HR and program areas, the position ensures informed decision-making, governance, and coordinated delivery across diverse programs and initiatives.
+
+Key Responsibilities
+
+Provide high-level financial, business and HR advice to the DDG to support divisional operations, planning and governance.
+Supports others to embrace and operate within legislative and policy frameworks that guide everyday practice.
+Prepare clear, timely and evidence-based advice reports to inform executive decision-making.
+Collaborate with divisional finance to coordinate financial reporting, budget monitoring and performance insights required by the DDG.
+Develop and maintain analytical models and Power BI dashboards to support decision-making.
+Undertake financial tasks such as accruals, journals, grants oversight and financial analysis when required.
+Support HR matters, including workforce planning and performance management, where required.
+Ensure effective coordination, communication and workflow within the DDG's office and across the division.
+Requirements:
+
+Proven experience providing financial, analytical and business support in a Queensland Government or large public sector environment.
+Demonstrated strong governance capability
+Skilled in financial reporting, analysis and modelling, with proficiency in Power BI.
+Strong working knowledge of SAP (experience with SAP S/4HANA highly regarded).
+Demonstrated ability to prepare clear, evidence-based advice and reports for senior executives.
+Excellent interpersonal skills with the ability to support HR and business matters sensitively and effectively.
+Next Step Click APPLY NOW and upload your resume in MS Word format.
+  
+For a confidential discussion, contact:
+Angela Burchett
+Senior Recruitment Consultant, Finance
+Kingston Human Capital
+angela.burchett@kingstonhumancapital.com.au"
+88761143,Oracle Cloud SAAS Manager,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/88761143?type=standard&ref=search-standalone&origin=jobCard#sol=2368a6cbfc8d32c45bf60055a6b40d19042c7e13,1h ago,1.0,2025-11-26T01:00:00+00:00,Melbourne VIC,Consultants (Information & Communication Technology),Full time,,"Company description:
 
 
-Duties
 
-Implementation and support based work for identity products
-Enhancement, onboarding, configuration and support
-Stakeholder engagement internally - up to senior level
-Help grow the function and team
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.
 
 
-Skills and experience
 
-Prior experience with SailPoint
-Ability to work on initial configuration and support
-Enhancement experience, able to onboard new apps to the chosen solution
-Strong stakeholder engagement skills and ability
-​​​​​​​Exceptional communication skills - written and verbal
-​​​​​​​Industry certifications are highly regarded."
-88758572,Senior Data Scientist,Precision Sourcing,https://www.seek.com.au/job/88758572?type=standard&ref=search-standalone&origin=jobCard#sol=22983bb5533a6a0b8425474d9f3f92d328401152,1h ago,1.0,2025-11-25T22:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,$160k - $220k p.a. + super + benefits,"Senior Data Scientist | NLP & LLM Focus | Financial Services
+Job description:
 
-We're partnering with a leading financial services organisation to find a technically strong Senior Data Scientist to join their analytics function.
+Your Role
+Client Advisory: Provide expert guidance on process improvements and efficiencies achievable through Oracle SaaS solutions.
+Stakeholder Engagement: Work closely with senior client stakeholders, process owners, and product owners to help them understand Oracle Cloud SaaS capabilities and support their cloud journey.
+Delivery Leadership: Oversee support, enhancement, and implementation activities, including proposition development, solution design, and functional consulting leadership.
+Operational Focus: Manage business-as-usual operations across the SaaS portfolio, with emphasis on ERP, EPM, PPM, and PRC processes.
 
-What We're Looking For:
+Your Profile
+Proven experience as a Lead on major Oracle SaaS transformation programs, including at least 4 full implementation cycles.
+Strong understanding of Oracle SaaS applications and processes across multiple pillars (ERP, EPM, PPM, PRC), with a focus on ERP and Finance.
+Experience managing large teams of functional consultants across SaaS pillars.
+Awareness of Oracle's SaaS strategy and ability to articulate the benefits of SaaS deployments.
+Desirable: Oracle Cloud Implementation Specialisation certification."
+88761092,APS6 & EL1 Data & Systems Specialists,Ignite,https://www.seek.com.au/job/88761092?type=standard&ref=search-standalone&origin=jobCard#sol=b32c48b4794e59ae8188b9d03a8c227097e20b5e,1h ago,1.0,2025-11-26T01:00:00+00:00,Sydney NSW,Government - Federal (Government & Defence),Full time,AUD 98000 - 154000 per annum,"Continue to Grow Your Career in 2026! Join a newly established Financial Operations team within a leading Australian Government agency and play a vital role in delivering accurate, compliant, and responsive financial services that make a real difference. Whether you’re ready to step into leadership or deepen your technical expertise, we have opportunities for you.
 
-You're a Data Scientist who excels at productionising models and deploying robust, scalable solutions. Your strength lies in taking NLP and LLM projects from experimentation through to production, with deep technical expertise and strong engineering fundamentals. You're pragmatic, outcomes-focused, and thrive in technical environments where quality code and reliable deployments matter.
+The Details
+Classifications: APS6 & EL1
+Salary: APS6: $98,314 – $121,026 + super & EL1: $126,341 – $154,000 + super
+Locations: Sydney, Melbourne, Brisbane
+Start Date: 19 January
+Type: Non-ongoing, 12-month term (possible extension)
+Security: Existing Baseline clearance required
+Why You’ll Love These Roles
+Be part of a modern, in-house financial operations function.
+Work in a collaborative environment that values professionalism, innovation, and impact.
+About the Roles We are seeking Data & Systems Specialists at APS6 and EL1 levels to support major government and departmental initiatives.
 
-The Technical Essentials:
+Key Accountabilities
 
-Education: Master's or PhD in Data Science, Mathematics, Statistics, Computer Science or related discipline
-Production Focus: Proven track record of productionising data science solutions in commercial environments
-NLP Expertise: Hands-on commercial experience with modern NLP techniques-supervised learning using LSTM/CNN/Transformers, topic modelling, and production implementations
-LLM & GenAI: Real-world experience deploying GPT-based solutions (langchain, llamaindex, RAG pipelines, multi-agent frameworks)
-Technical Chops: Advanced SQL proficiency and strong Python development capabilities, particularly in NLP contexts
-Engineering Fundamentals: Experience building, deploying, and maintaining models in production environments
-Research-Minded: You stay current with the latest LLM research and can apply it practically
+Conduct statistical and data analysis to inform briefings, submissions, policy papers, and reports.
+Communicate findings clearly through concise written and verbal reports.
+Provide accurate, timely advice to stakeholders with varying levels of data literacy.
+Collaborate with partner agencies on data extraction, quality assurance, and complex analysis.
+Ensure compliance with data governance standards.
+Support the development of data analytics capability across the department through resources, training, and communication of findings.
+For EL1 roles, you will also:
 
-What Makes You Stand Out:
+Lead strategic data initiatives and oversee project delivery.
+Provide high-level advice to senior executives and influence decision-making.
+Manage stakeholder relationships and mentor team members.
+Key Challenges
+Manage competing priorities in a high-volume environment while maintaining quality and timeliness.
+Apply judgment and initiative to deliver solutions, even with incomplete information.
+Drive cultural and technological change to enhance data-driven decision-making (EL1).
+Important: These roles require an existing Baseline clearance. Candidates without this clearance cannot be considered.
 
-You're technically sharp with a strong engineering mindset. You understand the full model lifecycle and can write production-quality code. You communicate clearly enough to collaborate effectively within technical teams, are open to feedback, and comfortable operating in agile, fast-paced environments."
-88758496,"Business Analyst - AI, CTP, General Insurance",FinXL IT Professional Services,https://www.seek.com.au/job/88758496?type=standard&ref=search-standalone&origin=jobCard#sol=e783a6eb1079a6771fa9827aaa2f45109c567870,2h ago,2.0,2025-11-25T21:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Analyst - AI and General Insurance
-Company: FinXL by Randstad Digital
-Location: Sydney CBD and Work from home
-Immediate Start
-6 Months +
+Make a Meaningful Impact Take this opportunity to bring your expertise to a team committed to supporting Indigenous Australians. Apply now and help shape a better future.
+For questions, contact Fatuma on (02) 9250 8046.
 
-About Us:
 
-FinXL by Randstad Digital focuses on accelerating client's digital and AI transformation journeys by providing specialised skills, managed programs, and strategic consulting across various industries.
+Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
+88760572,Supply Chain Data Manager,Gepard Supply Chain,https://www.seek.com.au/job/88760572?type=standard&ref=search-standalone&origin=jobCard#sol=56c41bd32e381aa3d3332c5ed9a2518e29d1b895,1h ago,1.0,2025-11-26T01:00:00+00:00,"Burton, Adelaide SA",Developers/Programmers (Information & Communication Technology),Full time,"$130,000 – $150,000 per year","Gepard Supply Chain Pty Ltd is a fast and reliable third-party logistics solutions business founded and headquartered in South Australia’s Barossa Valley. Our Burton depot, located at 15 Penner Ave, Burton, SA 5110, serves as the hub for our expanding operations Australia Chamber of Commerce. As we launch kongfumall.com, a next-generation data-driven logistics platform, we are seeking a seasoned data leader to join our team.
 
-We solve complex technological and business challenges with highly talented people.
+A sales oriented experience would be an advange.
 
-We are seeking an experienced Business Analyst - with an AI and CTP- General Insurance background.
+Key Responsibilities
 
-Qualifications:
+Strategy and Planning
 
-Business Analyst background
-Experience in CTP, General Insurance and AI knowledge
-Experience in creating rule documentation for AI agent development
-Experience in validating and updating business rules
-Experience in Heuristic rules: ie translating rules into structured documentation for use by the Technical Business Analyst and Machine Learning Engineer
-Experience creating process documentation as required
-Experience in gathering and organising business artefacts for rule conversion.
-Experience in facilitating workshops and discussions to capture business rules and processes.
+Develop, direct, and implement the supply chain data management and analytics strategy in line with company objectives
 
-Next Steps
+Lead the design and delivery of analytical solutions to support the launch and ongoing operation of kongfumall
 
-If you would like to apply to this fantastic opportunity please apply online.
+Data Operations and Intelligence
 
-Please note that due to the volume of response only short-listed candidates will be contacted.
+Manage the collection, processing, and quality assurance of supply chain data to produce actionable intelligence for operations and business development
 
-Code: S12"
-88758032,Data and Insights Manager,xceltium,https://www.seek.com.au/job/88758032?type=standard&ref=search-standalone&origin=jobCard#sol=b893f5b4a38af536293e807ae6a00d2ffdbdf45d,4h ago,4.0,2025-11-25T19:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,"c. $200,000 - $210,000 including superannuation.","You’re ready for more
+Oversee day-to-day data operations, ensuring systems and processes meet performance and compliance standards
 
-You’re a proven data leader. You’ve built teams, uplifted capability, and helped business stakeholders see the real value of data. But maybe you’re stuck somewhere overly reactive, under-resourced, or unclear on direction.
+Team Leadership and Development
 
-You want to lead a function with purpose. You want influence, access, and the opportunity to get it right, not just maintain what’s already there.
+Recruit, train, and manage a small data and analytics team, including performance management and professional development
 
-This is that role.
+Provide leadership in liaising with internal stakeholders (operations, IT, finance) and external clients or partners
 
-You’ll step into an organisation investing heavily in technology, modernisation, and member experience. Data is one of the core pillars of a large transformation program, and you’ll be at the centre of it, shaping the future state, guiding decision-making, and creating a proactive, insight-led data culture.
+Reporting and Management
 
-The role
+Liaise with contracts, accounts, and finance personnel to ensure financial timelines and targets are met
 
-Reporting to the CIO, you’ll lead a combined team of data engineers and BI specialists, approximately ten people with two direct reports. Your remit spans strategy, architecture, governance, reporting, and capability uplift.
+Qualifications and Experience
 
-You’ll unite two teams under one operating model, redesign the Microsoft Fabric environment, and establish the frameworks, processes, and standards that will set the company up for long-term success.
+Minimum of 2 years’ recent and relevant work experience in data management or analytics within supply chain or logistics; Qualifications preferred in data science, information systems, or related field."
+88760492,Head of Consumer Insurance Risk,Suncorp,https://www.seek.com.au/job/88760492?type=standard&ref=search-standalone&origin=jobCard#sol=a79a46a565e156d4677f99f16a2b470b47139d2d,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW (Hybrid),Risk Consulting (Insurance & Superannuation),Full time,Competitive salary and bonus with great benefits,"As Head of Consumer Insurance Risk, you’ll provide strategic leadership to uplift risk maturity and embed robust frameworks across the division. You’ll influence decision-making at all levels, deliver actionable insights, and ensure compliance with regulatory obligations while fostering a high-performance culture.
 
-You’ll work closely with executives, program leads, and external vendors across a major two-year investment program. This is not a hands-on role, but you’ll need enough depth to guide, challenge, and protect the integrity of the data environment.
+What You’ll Do
 
-The role requires someone who listens first, communicates well, and can translate technical concepts into simple, meaningful business language. Someone who can influence at senior levels without ego. Someone who can build trust quickly.
+Define and execute the Consumer Insurance Risk Strategy, aligning with business objectives and regulatory requirements
+Lead initiatives to uplift risk capability and maturity, embedding consistent practices across the division
+Provide expert advice on governance, frameworks, and risk appetite to strengthen decision-making
+Deliver insights from internal and external data to inform strategic decisions and improve resilience
+Partner with cross-functional teams to integrate risk insights into operational and strategic priorities
+Inspire and develop risk teams, building capability through coaching and targeted development programs
+Maintain regulator engagement through proactive communication, risk-based approaches and transparency
+Regularly evaluating the design and operational effectiveness of internal controls to ensue they effectively mitigate risks
 
-What you’ll lead
+What You’ll Bring
 
-Define the enterprise data and analytics strategy and roadmap.
-Bring together data engineering and BI under one clear operating model.
-Redesign and uplift the Microsoft Fabric environment.
-Oversee data architecture, modelling, pipelines, and integration.
-Strengthen data governance, data quality, and stewardship.
-Establish an enterprise reporting framework and reduce ad hoc work.
-Partner with executives and transformation leaders across all program streams.
-Lift organisational data literacy and champion insight-led decision-making
+Deep expertise in enterprise risk frameworks, insurance-specific risks, and regulatory obligations
+Proven ability to set and execute risk strategies and influence senior leaders
+Strong analytical skills to interpret data trends and deliver actionable insights
+Experience engaging with regulators and managing governance and compliance requirements
 
-What you’ll bring
+What You’ll Enjoy
 
-Strong experience leading data, BI, or analytics teams.
-Deep understanding of Microsoft Fabric, Azure, Power BI, and governance frameworks.
-Ability to communicate simply with senior stakeholders.
-Experience shaping data strategy and improving enterprise reporting.
-Calm, composed leadership style built on listening and clarity; and
-A values-aligned approach and genuine interest in building capability
+Access our award-winning Shine platform – your central hub for exclusive perks, wellbeing support, career development, and recognition. Shine has been recognised for excellence in employee experience, making it easier than ever to access what matters most to you.
 
-Why now
+Hybrid working, flexible leave, 20 weeks paid parental leave, and up to 5 days paid flexible leave annually
+Paid study support, career breaks, on-the-job learning, and a $1,000 referral bonus for eligible employees
+Free wellbeing coaching, a dedicated Employee Council, and confidential EAP access
+Discounts at 400+ retailers, insurance savings, gym memberships, and reduced super fees
+Paid volunteer leave, donation matching, and unlimited emergency response leave
+Performance-based bonuses and Suncorp shares for eligible employees
+Diversity is celebrated through employee resource groups and inclusive policies for all families
 
-You’re joining at exactly the right time: the organisation is modernising its entire digital ecosystem, and data is central to the program’s success. There’s clarity of direction, strong executive support, and significant runway to build something meaningful.
+Explore our full benefits: www.suncorpgroup.com.au/careers/benefits
 
-You’ll work with a CIO who values communication, leadership presence, and authenticity. You’ll have influence, visibility, and the chance to leave a lasting impact on how data is used across the organisation.
+At Suncorp we believe we are our best when our workforce is as diverse, talented and passionate as the communities in which we live and operate, and where our people feel included, valued and connected. We are passionate about inspiring our people by creating a diverse, accessible, and inclusive culture, offering flexible work, career development and internal mobility, and building connected relationships amongst our team members and with our customers.
 
-You’ll also join a values-driven, people-centred environment with flexibility, development, and a clear commitment to purpose.
+If you require any support and adjustments to participate equitably in our recruitment process or in the workplace, we encourage you to contact liam.saif@suncorp.com.au for a confidential conversation. To apply for this opportunity, please submit your application directly via the link provided."
+88760491,Head of Consumer Insurance Risk,Suncorp,https://www.seek.com.au/job/88760491?type=standard&ref=search-standalone&origin=jobCard#sol=61cfefced2c875654bfa13e85066ae5abf0aae6f,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW (Hybrid),Management (Insurance & Superannuation),Full time,Competitive salary and bonus with great benefits,"As Head of Consumer Insurance Risk, you’ll provide strategic leadership to uplift risk maturity and embed robust frameworks across the division. You’ll influence decision-making at all levels, deliver actionable insights, and ensure compliance with regulatory obligations while fostering a high-performance culture.
 
-Salary and benefits
+What You’ll Do
 
-$200,000 - $210,000 including superannuation.
-Receive not for profit salary packaging benefits.
-Hybrid model: three days WFH, two days in office.
-Five weeks of paid annual leave including Christmas to New Year closure.
-Birthday leave and the ability to purchase additional leave.
-Strong focus on learning and professional development.
-CBD offices with modern facilities.
+Define and execute the Consumer Insurance Risk Strategy, aligning with business objectives and regulatory requirements
+Lead initiatives to uplift risk capability and maturity, embedding consistent practices across the division
+Provide expert advice on governance, frameworks, and risk appetite to strengthen decision-making
+Deliver insights from internal and external data to inform strategic decisions and improve resilience
+Partner with cross-functional teams to integrate risk insights into operational and strategic priorities
+Inspire and develop risk teams, building capability through coaching and targeted development programs
+Maintain regulator engagement through proactive communication, risk-based approaches and transparency
+Regularly evaluating the design and operational effectiveness of internal controls to ensue they effectively mitigate risks
 
-Next steps
+What You’ll Bring
 
-For a confidential discussion, contact Steven Fulop at xceltium on 0418 994 446.
+Deep expertise in enterprise risk frameworks, insurance-specific risks, and regulatory obligations
+Proven ability to set and execute risk strategies and influence senior leaders
+Strong analytical skills to interpret data trends and deliver actionable insights
+Experience engaging with regulators and managing governance and compliance requirements
 
-Every applicant will receive a prompt and respectful response."
+What You’ll Enjoy
+
+Access our award-winning Shine platform – your central hub for exclusive perks, wellbeing support, career development, and recognition. Shine has been recognised for excellence in employee experience, making it easier than ever to access what matters most to you.
+
+Hybrid working, flexible leave, 20 weeks paid parental leave, and up to 5 days paid flexible leave annually
+Paid study support, career breaks, on-the-job learning, and a $1,000 referral bonus for eligible employees
+Free wellbeing coaching, a dedicated Employee Council, and confidential EAP access
+Discounts at 400+ retailers, insurance savings, gym memberships, and reduced super fees
+Paid volunteer leave, donation matching, and unlimited emergency response leave
+Performance-based bonuses and Suncorp shares for eligible employees
+Diversity is celebrated through employee resource groups and inclusive policies for all families
+
+Explore our full benefits: www.suncorpgroup.com.au/careers/benefits
+
+At Suncorp we believe we are our best when our workforce is as diverse, talented and passionate as the communities in which we live and operate, and where our people feel included, valued and connected. We are passionate about inspiring our people by creating a diverse, accessible, and inclusive culture, offering flexible work, career development and internal mobility, and building connected relationships amongst our team members and with our customers.
+
+If you require any support and adjustments to participate equitably in our recruitment process or in the workplace, we encourage you to contact liam.saif@suncorp.com.au for a confidential conversation. To apply for this opportunity, please submit your application directly via the link provided."
+88760233,Staff Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/88760233?type=standard&ref=search-standalone&origin=jobCard#sol=37f81b7b85c42a0bacacf95cf5893dd75a615a09,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Staff Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+
+About the Role
+As a Lead or Principal Data Scientist, you will play a crucial role in developing and deploying machine learning models, optimising AI performance, and influencing key business decisions. Your expertise in NLP, LLMs, and MLOps will drive innovation, while your ability to communicate complex AI concepts to executives will ensure AI initiatives align with business objectives.
+This is a high-visibility role where you’ll work across teams, bridging the gap between technical execution and business strategy—helping senior stakeholders understand the power of AI and how to apply it effectively.
+
+Key Responsibilities
+AI Strategy & Business Alignment – Work closely with executives and business leaders to integrate AI-driven solutions into company strategy.
+Technical Leadership – Design, develop, and optimise machine learning models, with a focus on NLP and large-scale AI applications.
+Executive Stakeholder Influence – Translate complex AI concepts into clear, actionable insights for non-technical leaders.
+MLOps & AI Engineering – Implement best practices for model deployment, monitoring, and performance optimisation at scale.
+Data-Driven Decision Making – Drive high-impact AI initiatives by leveraging advanced analytics on structured and unstructured data.
+Research & Innovation – Stay ahead of AI trends, applying cutting-edge techniques to enhance business performance and operational efficiency.
+What You’ll Bring
+8+ years of experience (Staff Level) in data science, AI, and machine learning, with strong expertise in NLP and LLMs.
+A track record of engaging with C-suite and senior business stakeholders, influencing AI strategy and execution.
+Expert-level Python and SQL skills, with deep experience in building and deploying machine learning models at scale.
+Hands-on experience with MLOps best practices, cloud-based AI solutions, and large-scale data processing.
+A strategic mindset, with the ability to translate AI advancements into business impact.
+Exceptional communication and influencing skills, able to simplify complex concepts for non-technical audiences.
+What’s in It for You?
+Work at the forefront of AI innovation, shaping strategy at a high-growth tech company.
+Partner directly with executives and business leaders to drive enterprise-wide AI transformation.
+Join a team that values curiosity, technical excellence, and real-world AI applications.
+Hybrid work model (Sydney-based, 2-3 days in-office).
+If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
+88760225,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/88760225?type=standard&ref=search-standalone&origin=jobCard#sol=fd811f8e1988ecf29e9bfe3d3882a29c2dec1c30,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+
+About the Role
+Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Key Responsibilities
+LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
+GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
+MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
+Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
+Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
+What You’ll Bring
+4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
+Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
+Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
+Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
+Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
+What’s in It for You
+Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
+Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
+Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
+Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
+
+If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
+88760215,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/88760215?type=standard&ref=search-standalone&origin=jobCard#sol=7ee6dd6c77e1fb47b2a834b621c6455c6fdfc92b,2h ago,2.0,2025-11-26T00:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+
+About the Role
+Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Key Responsibilities
+LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
+GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
+MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
+Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
+Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
+What You’ll Bring
+4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
+Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
+Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
+Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
+Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
+What’s in It for You
+Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
+Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
+Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
+Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
+
+If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
+88760116,Senior Commercial Analyst,Perigon Group Pty Limited,https://www.seek.com.au/job/88760116?type=standard&ref=search-standalone&origin=jobCard#sol=20818103082fafb2ec408abcbbc7c33eef9568ff,2h ago,2.0,2025-11-26T00:00:00+00:00,"Fairfield, Sydney NSW (Hybrid)",Analysis & Reporting (Accounting),Full time,$135-145K + super + bonus,"This is an excellent opportunity for an energetic, dynamic Senior Commercial Analyst to join a successful, global construction group.
+
+Reporting into the CFO you'll act as a business partner to operational stakeholders, providing commercial, financial & analytical support, to help drive decisions & business performance.
+
+Your analytical scope will encompass areas such as category sales, discounting, gross margins, pre & post promotional analysis and wages. You'll create financial models in order to provide meaningful insights into business performance issues, challenging decisions where necessary.
+
+You'll also prepare and distribute weekly & monthly reports, with associated commentary, for use by the business. And will hold regular meetings with Category Managers and the Commercial Director, to review monthly sales, margin results etc.
+
+Additionally, you'll play a key role in business planning for new stores, budgeting, forecasting and other ad hoc analysis when required.
+
+You are an experienced Financial or Commercial Analyst - who will be ready to step into a Commercial Manager role in the next 1-2 years. Circa 5 years experience in Commercial Finance role/s would be ideal.
+
+You'll have proven analytical skills, combined with a background in business partnering. You will also have advanced Excel / modelling skills, whilst experience using a BI tool and working with large data sets.
+
+For more information, please contact Schenuk Wijesekera on 02 9775 5916. Or to apply, hit the ""apply"" button."
+88759908,Senior Pricing Analyst,Honey Insurance,https://www.seek.com.au/job/88759908?type=standard&ref=search-standalone&origin=jobCard#sol=0d3600a029bc7f5beca8d92eab85bb522ad352c3,2h ago,2.0,2025-11-26T00:00:00+00:00,"The Rocks, Sydney NSW (Hybrid)",Management (Insurance & Superannuation),Full time,,"We’re looking for a talented and commercially minded Senior Pricing Analyst to join our growing team and play a key role in shaping pricing, portfolio performance and strategic growth across our home and motor insurance products. This role blends actuarial rigour, data analytics, and cross-functional collaboration to drive confident decisions that enhance customer value, support underwriting partnerships, and strengthen Honey’s product portfolio.
+
+Who We Are
+
+We're shaking up the home insurance industry! As a disruptor in the insurance space, we combine smart technology with exceptional service to create home insurance that's simpler, faster, and more customer-friendly. Our innovative approach includes smart sensors that help prevent incidents before they happen, a streamlined digital experience, and genuine human support when customers need it most.
+
+About The Role
+
+We’re seeking a Senior Pricing Analyst with strong actuarial capability, sharp commercial thinking, and a passion for data-driven decision-making. You’ll build and maintain pricing models, analyse portfolio performance, develop predictive models, and support strategic initiatives across product development, partnerships, and regulatory matters. You’ll work closely with teams across Product, Engineering, Finance and Operations, translating complex insights into clear and actionable recommendations.
+
+Key Responsibilities
+
+Pricing and portfolio analysis
+
+Build and maintain pricing models across home, and motor insurance products
+Analyse loss ratios, claim rates, and customer behaviour across segments to inform pricing decisions
+Support pricing negotiations with underwriting partners by supporting actuarial analysis and business cases
+
+Data analytics and reporting
+
+Deliver regular reporting on portfolio performance, claims trends, and customer metrics across all product lines
+Conduct deep-dive analyses on emerging risks, customer cohorts, and product performance
+Develop predictive models to identify risk factors and optimise customer interventions
+Create dashboards and visualisations to communicate insights to stakeholders
+
+Strategic projects
+
+Support product development and market entry decisions with actuarial analysis
+Evaluate new partnership opportunities and distribution channels
+Contribute to business cases for technology investments and product enhancements
+Collaborate on regulatory and compliance matters requiring actuarial input
+
+Stakeholder engagement
+
+Translate complex actuarial and data concepts into actionable recommendations for non-technical audiences
+Build relationships across product, engineering, operations, and finance teams
+
+What You'll Bring
+
+Must haves
+
+Associate (AIAA) or near-Associate level (Part II complete) with the Actuaries Institute
+3-5 years of experience in general insurance (ideally across multiple product lines such as home, motor or pet)
+Strong understanding of actuarial principles, loss reserving, and risk assessment
+Advanced SQL for data extraction and transformation
+Python or R for statistical analysis and modelling (pandas, scikit-learn, statsmodels)
+Experience with data visualisation tools (Tableau, Looker, or similar)
+Comfortable working with cloud data platforms
+Understanding of modern data infrastructure and version control
+
+What sets you apart
+
+Ability to balance actuarial rigour with commercial pragmatism
+Curiosity, comfort with ambiguity and able to work autonomously
+Strong communication skills - you can explain technical concepts to diverse audiences
+Detail-oriented but don't lose sight of the bigger picture
+Interest in insurtech and how technology is reshaping insurance
+
+Why You'll Love Honey
+
+Competitive salary package with performance-based incentives
+Opportunity to shape and lead a critical function in a high-growth company
+Enviable company culture of innovation, collaboration and high performance
+Hybrid work model blending office collaboration with remote flexibility
+Monthly team lunches, celebrations, social events & initiatives
+
+Our Hive Culture
+
+At Honey, we do things differently. You'll notice this from your first interaction with our team through to your first day with us. We challenge expectations, seek better ways of working, and value innovation at every turn.
+
+We're exceptional at what we do, and every team member brings unique talent to our hive. As an equal opportunity employer, we're committed to diversity and inclusion, it's in our DNA, not just something we talk about.
+
+A Few Formalities
+
+Because we're an AFSL-regulated business, this role requires background checks (including a National Police Check) and meeting ""good fame and character"" standards. Candidates must be Sydney-based.
+
+Ready to lead the transformation of customer support in insurance?
+
+Apply now and help us build something extraordinary. If you`d like to find out more, you can contact us at people@honeyinsurance.com.
+
+No recruitment agencies, please. We've got this covered."
+88759800,Senior Business Analyst // ServiceNow HR,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88759800?type=standard&ref=search-standalone&origin=jobCard#sol=ffed76d8298843055e176e4d69b99b195d857e5d,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW,Other (Banking & Financial Services),Contract/Temp,$800 - $900 p.d. Inclusive of super,"Talent is recruiting for our Financial Services client for a Senior Business Analyst (ServiceNow HR) to join their team on an 8-month daily rate contract.
+
+Our client is seeking a Business Analyst to work on transforming their digital employee experience through ServiceNow HR technology.
+
+Responsibilities Include:
+
+Lead business analysis across HR digital initiatives, including requirements gathering, process mapping, and change impact assessment
+Support the delivery of ServiceNow HR enhancements through discovery, design, build, testing and implementation
+Translate complex technical issues into clear insights for stakeholders
+Coordinate functional and regression testing cycles and support defect management
+Work with multiple stakeholders to understand priorities, influence outcomes, and ensure alignment with business objectives
+Contribute to continuous improvement by identifying opportunities to streamline and uplift HR processes and system capability
+Apply Agile delivery methods and contribute to user story development and backlog refinement
+
+Experience Required:
+
+Previous experience with ServiceNow HR modules (A Must)
+Experience within Financial Services (Beneficial)
+Hands-on expertise with functional testing activities
+Confident communicator with the ability to engage business and technical teams effectively
+Analytical, solution-focused mindset with strong documentation and communication skills
+
+If you are interested, please apply now. For a confidential discussion, please reach out to Josh.costigan@talentinternational.com"
+88759681,PMO Analyst,IBC Recruitment,https://www.seek.com.au/job/88759681?type=standard&ref=search-standalone&origin=jobCard#sol=b6ea4694a3c199cca98a53c2ac851ec86f7abb83,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW (Hybrid),Programme & Project Management (Information & Communication Technology),Contract/Temp,,"Senior PMO Analyst – 12 Month Contract
+Location: Sydney, NSW (3 days onsite, 2 days WFH)
+Rate: Up to $950/day inc super
+
+The Opportunity
+My client is embarking on a major transformation program and is seeking an experienced Senior PMO Analyst to support delivery. This is an initial 12-month contract with strong potential to extend, working in a growing PMO function.
+Key Responsibilities
+
+Provide hands-on PMO support across a complex program.
+Manage and maintain program logs, including risks, issues, dependencies, and decision registers.
+Prepare and deliver high-quality status and progress reports for senior stakeholders.
+Support governance processes and ensure program standards are adhered to.
+Work flexibly with the project team, stepping in to assist with ad-hoc tasks where needed.
+About You
+
+Proven experience as a Senior PMO Analyst.
+Must have exposure to large scale programs (strategy, analytics, governance, or migration).
+Strong background in reporting and governance (risks/issues, RAID, dashboards, status packs).
+Confident using Jira and MS Office tools (Power BI or similar would be a plus).
+A collaborative, proactive team player who can work with pace and adaptability.
+What’s On Offer
+
+$950/day (inc super)
+Hybrid work model – 3 days in modern CBD offices.
+Exciting transformation with significant scope for contract extension.
+Chance to join the team at the ground level as the PMO grows."
+88759672,Manager of Strategy and Architecture,Halcyon Knights Pty Ltd,https://www.seek.com.au/job/88759672?type=standard&ref=search-standalone&origin=jobCard#sol=dc5fa25036f2c8c897c620e22d121c2f88bc2a01,2h ago,2.0,2025-11-26T00:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"About the Role You’ll drive the organisation’s technology strategy, uplift architecture capability, and oversee digital roadmaps across core systems, platforms, and enterprise solutions.
+
+This is a senior leadership role, partnering with executives to influence investment decisions and guide long-term technology direction.
+
+What You’ll Do
+• Define and maintain enterprise architecture strategy and principles.
+• Lead a 10–15 person Architecture & Business Analysis practice.
+• Build roadmaps across core systems, digital platforms, cloud, integration, and data.
+• Run architectural governance and ensure alignment with business strategy.
+• Assess new technologies and drive innovation opportunities.
+• Uplift delivery frameworks, templates, and capability across the practice.
+
+What You Bring
+• Strong background in enterprise architecture and technology strategy.
+• Experience leading architecture or digital practices in complex environments.
+• Excellent stakeholder and executive engagement skills.
+• Ability to shape governance, frameworks, and roadmaps across multiple domains.
+• Strategic thinker with commercial awareness and a collaborative leadership style."
+88759668,Senior Analyst - AI Hub,AMP Services,https://www.seek.com.au/job/88759668?type=standard&ref=search-standalone&origin=jobCard#sol=0f99067a0a94025fe9aae966758915a22d1cc65c,2h ago,2.0,2025-11-26T00:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,,"If you live in Australia or New Zealand, you've likely heard of AMP. But at a time when society is changing, we are too. We're now a nimbler business with new leadership and thinking.
+
+For us, these are exciting times. There's a real potential for big thinkers to help us redefine what financial services could be. And turn our legacy into something even more positive and powerful for the future.
+
+Help people create their tomorrow, while you create yours
+
+We help people with their banking, super, retirement and finances. Through upturns, downturns, recessions, and major life transitions. Every day, we help people see and make more of their financial potential, so that they can create their tomorrow. And we've been doing it for over 170 years.
+
+If we do our job well, we genuinely add to the prosperity of our country and its people.
+
+How you'll make an impact
+
+This is a key role in the 'Core team' within the AI Hub supporting the Head Of AI and other team members. As a Senior Business Analyst in the team you will lead analysis, develop insights, together with business requirements, producing materials that help deliver the agreed AI Hub Strategy, Roadmap and OKRs.
+
+You will work closely with the business to lead and shape AI / Generative AI / Agentic AI use cases including conducting cost benefit analysis, conduct user research to define problem / opportunities, work with Product Owners to define user stories and features, support risk and other assessments applicable to AI Lifecycle, and support the development and implementation of Pilots / PoCs as applicable.
+
+For whole-of-enterprise and / or highly novel AI systems you may also work as the Product Owner - making decisions in conjunction with stakeholders (e.g. customers) about features, functionality and other product aspects.
+
+
+
+You'll combine deep analytical capability with a collaborative mindset to thrive in this dynamic environment. On the technical side, you bring skills in business analysis, including requirements gathering, process mapping and user story development. Familiarity with agile delivery frameworks, design thinking, and project methodologies is essential, along with a natural curiosity for emerging technologies such as Generative AI, LLMs, and agentic systems.
+
+On the soft skills front, you're a strong communicator who can translate complex ideas into clear, actionable insights for stakeholders at all levels. You excel at building relationships, influencing decisions and navigating ambiguity with confidence. Your ability to think strategically while maintaining attention to detail sets you apart. You're a self-starter who thrives under pressure, prioritises effectively and brings a ""can-do"" attitude to every challenge. Above all, you're passionate about innovation and eager to contribute to a high-performing team that's shaping the future of AI at AMP.
+
+You'll thrive here if…
+
+If you can adapt from BAU to the ambiguous with ease, you'll do well here. Change is never easy, so bring your commitment, grit and growth mindset.
+
+Because we run lean, you'll be expected to jump in and deliver across a variety of areas. Meaning, you'll be closer to the action and executive decisions that influence where we go next.
+
+If you're someone that can hold their own, you'll find AMP quite liberating.
+
+Why we think you'll love working at AMP
+
+Doing what we've always done is not an option, so your clever ideas will get airtime here. You'll be encouraged to speak up and try new things. If they don't work, we move on - better for it.
+
+We know there's no one way of doing things. So, you won't have to sacrifice who you are or how you work to fit in here. We're inclusive and flexible in many of the ways you'd expect. And in some of the ways you wouldn't. As long as your health and wellbeing come first - at home and at work.
+
+In fact, most of what makes AMP such a welcoming, enjoyable place to work are our people. Wherever you go, you'll find moments to connect, feel valued and do meaningful work.
+
+Whether it's through our first-class leaders who are invested in you and your success. Through year-round opportunities to volunteer, fundraise and give back to the community. Or in the everyday challenges you face as we work together to strengthen this great organisation. Challenges that will stretch you, amplify your potential and compound the impact you have.
+
+We believe in the power of inclusion and diversity
+
+We're dedicated to fostering inclusion, diversity, and a warm feeling of belonging at AMP. It sparks creativity, ignites innovation, and turns up the dial on the quality of our decisions and performance. This not only makes our workplace more engaged, but also leads to better connections with our customers.
+
+We're your allies in the search for the perfect fit - when you apply, let us know how we can support you to put your best self forward during our selection process.
+
+We're also committed to enhancing employment opportunities for Aboriginal and Torres Strait Islander people, so we enthusiastically encourage candidates from these backgrounds to apply and explore our Reconciliation Plan on our website
+
+Ready to create your tomorrow?
+
+If you're someone who sees opportunity where others see challenge, come and work with us in smart, progressive ways as we transform an iconic Australian brand for the future. And, through a series of career-defining moments, create your own tomorrow.
+
+Don't procrastinate! We review applications when we get them, and if we discover the ideal candidate, we may close the role earlier than the advertised close date.
+
+Looking forward to meeting you."
+88759589,Data Migration Specialist,Paxus,https://www.seek.com.au/job/88759589?type=standard&ref=search-standalone&origin=jobCard#sol=7050888f797bbe56e9c764e30758dc238ee11f58,3h ago,3.0,2025-11-25T23:00:00+00:00,Brisbane QLD (Remote),Government - State (Government & Defence),Full time,$131 - $132 p.h.,"DATA MIGRATION SPECIALIST - SAP S4HANA UPGRADE
+
+A major Finance Transformation Program is underway, transitioning from SAP ECC6 to SAP S/4HANA. We are seeking an experienced Data Migration Specialist to support the delivery of this upgrade by driving data analysis, mapping, modelling, cleansing, testing and migration activities across complex financial datasets.
+
+This role will work closely with Business Analysts, finance and ICT stakeholders, and technical SME's to ensure all data is understood, transformed and migrated effectively to support the uplift to S/4HANA.
+
+KEY RESPONSIBILITIES
+Develop data migration artefacts including strategy, plan, approach, mapping specifications, test cases and data archiving considerations.
+Execute data migration activities including extraction, transformation, cleansing, auditing, and reconciliation.
+Conduct data profiling and remediation across in-scope datasets.
+Build logical and physical data models aligned to business and finance processes.
+Produce source-to-target mappings and document complex transformation rules.
+Provide expert advice on data quality, business impacts, risk, scope and requirements.
+Support User Acceptance Testing and work within established project methodologies.
+Collaborate with a wide range of stakeholders across the program.
+ABOUT YOU
+Demonstrated experience delivering data migration for large SAP finance projects.
+Strong background in SAP ECC6 and an understanding of S/4HANA capabilities (FI/CO, Universal Journal, Fiori).
+Advanced analytical, problem solving and modelling skills.
+Ability to write complex SQL/scripts and perform data extraction and transformation.
+Strong communication skills with the ability to build relationships across technical and business teams.
+Experience working under pressure with tight timeframes and changing priorities.
+
+If you have the experience and capability to support a major SAP S/4HANA transformation, we would love to hear from you.
+
+To be considered for the role click the 'apply' button or for more information about this and other opportunities please contact Jack McDougall 07 3339 5611 or email: jmcdougall@paxus.com.au and quote the above job reference number.
+
+Paxus values diversity and welcomes applications from Indigenous Australians, people from diverse cultural and linguistic backgrounds and people living with a disability. If you require an adjustment to the recruitment process, including the application form in an alternate format, please contact me on the above contact details."
