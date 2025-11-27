@@ -1,5 +1,80 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88806230,Extended Reality Technology Manager - Black Hawk,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88806230?type=standard&ref=search-standalone&origin=jobCard#sol=d0a93eac84e2928f43d146c8e57ef80f2e49191b,1h ago,1.0,2025-11-27T06:00:00+00:00,"Oakey, Toowoomba & Darling Downs QLD",Other (Government & Defence),Full time,,"At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
+88807268,Principal Enterprise Architect - Data & Knowledge,Technology One Limited,https://www.seek.com.au/job/88807268?type=standard&ref=search-standalone&origin=jobCard#sol=74b89b9cd13bfff0639e3de01d97e129e348ec0a,2h ago,2.0,2025-11-27T06:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,,"Principal Enterprise Architect - Data & Knowledge
+
+TechnologyOne is on a mission to transform how enterprise software is architected and delivered. As the Principal Enterprise Architect - Data & Knowledge, you will design and lead the modern data and knowledge architecture underpinning TechnologyOne's Data & AI Platform. You will establish the platform's unified data models, semantic foundations, vector-based retrieval pipelines, and industry-ready ontologies - enabling trusted, context-aware, AI-led operations across all products.
+
+What you'll be doing…
+
+1. Lead the Data Foundation Architecture
+
+Architect modern lakehouse and data-fabric patterns using Snowflake, Databricks, Palantir, and AWS native services.
+Define unified metadata, lineage, quality, and interoperability frameworks.
+Design reusable data products for internal teams, customers, and marketplace developers.
+Drive scalable ingestion for structured, unstructured, streaming, and synthetic data.
+Ensure strong data management and governance aligned to platform standards.
+
+2. Build the Enterprise Knowledge & Context Layer
+
+Design semantic models, ontologies, and canonical entities used across domains.
+Develop and maintain knowledge graphs (e.g., Neo4j, AWS Neptune).
+Lead architecture for vector stores, RAG pipelines, embeddings, and chunking strategies (Pinecone, Weaviate, pgvector, ES vector).
+Create the semantic and contextual grounding needed for AI assistants, agents, and analytics.
+
+3. Enable AI, Agents & Intelligent Workflows
+
+Integrate data and knowledge layers into AI orchestration, tool use, memory, and agent frameworks.
+Collaborate with AI engineering on LLM/SLM switchboards, retrieval, grounding, and evaluation.
+Support development of cross-module intelligent workflows for Finance, HR, Asset, Student, and platform-level agents.
+Ensure reliability, observability, and explainability of AI features through strong context and data governance.
+
+4. Governance, Quality & Trust by Design
+
+Embed policy, lineage, and model/data governance across pipelines.
+Implement standards for accuracy, explainability, auditability, and risk controls.
+Partner with compliance and product teams to ensure platform-wide data and AI trust.
+
+5. Leadership, Influence & Technical Excellence
+
+Mentor engineers, data scientists, and architects.
+Set technical direction, patterns, and reference architectures.
+Work with product and industry teams to define workflow-aligned ontologies and data/knowledge products.
+Champion modern data engineering, semantic modelling, and AI-driven design across the organisation.
+
+Your Talents…
+
+Deep practitioner experience with modern data platforms:
+Snowflake, Databricks, Palantir, Lakehouse, data fabric patterns.
+Hands-on technical expertise with metadata, governance, lineage, and data quality systems.
+Strong architecture experience with knowledge graphs, ontologies, semantic models.
+Practical experience designing vector search, embeddings, chunking, RAG pipelines.
+Excellent understanding of cloud-native services, especially AWS (Redshift, Glue, Neptune, Sagemaker, Step Functions, Lambda, Bedrock/Anthropic models).
+Experience working with or building agentic AI systems, retrieval grounding, or multi-agent orchestration.
+Ability to translate complex architectures into clear platform roadmaps.
+A builder mindset - comfortable designing, prototyping, and guiding engineering execution.
+
+Why Join us?
+
+TechnologyOne is proud to be an Equal Opportunity Employer who values diversity and an inclusive workplace. We aim to recruit a diverse range of people with a diverse range of talents to help us deliver on our mission to better our community. Our core values and culture unleash the boundless potential of creativity, innovation and the entrepreneurial spirit within our people. When you experience Life at TechnologyOne you'll see that our team enjoys an extensive array of benefits, including foundation charity activities, which all cultivate a vibrant workplace our people are very proud to be involved with.
+
+Benefits…
+
+Competitive remuneration package
+Access to our industry leading employee share plan
+Salary packaging options
+Up to 10 days of additional leave via our Purchase Leave program
+Amazing Culture: 8 x Australian Business Awards ""Employer of Choice"" winner
+We love our team events & celebrate diversity
+Flexible hours: we are family-friendly and value life outside of work
+Free gym membership in your region (or, if you are located at HQ, we have a new state of the art Gym onsite, exclusive and available 24/7).
+Additional 2.5 days of leave per year dedicated to volunteering at a charity of your choice
+Free breakfast and coffee on-site
+Accelerate your growth with full access to LinkedIn Learning and a clear career framework that maps your path to success.
+
+
+Who we are…
+
+At TechnologyOne (ASX: TNE), we're more than Australia's largest top 50 ASX enterprise SaaS company; we're a team driven by purpose! Our global SaaS ERP solution powers over 1,300 leading organisations, including government, education, health, and financial services. We take full responsibility for delivering outcomes - reducing time, cost, and risk; therefore, our customers can focus on what matters most. For over 38 years, we've been helping communities and organisations thrive by making life simple through innovative technology. Ready to make a real difference? Join us and help shape the future of enterprise technology while building a career that matters."
+88806230,Extended Reality Technology Manager - Black Hawk,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88806230?type=standard&ref=search-standalone&origin=jobCard#sol=683b5ed96ccfce68acc0517551a7fda7c1063bdc,2h ago,2.0,2025-11-27T06:00:00+00:00,"Oakey, Toowoomba & Darling Downs QLD",Other (Government & Defence),Full time,,"At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
 Following  the decision by the Australian Government to acquire UH-60M Black Hawk helicopters from the US Government, Lockheed Martin Australia  has established a core team of experienced military Rotary Wing professionals to support the initial procurement and ongoing sustainment activities. The modern-day, 3rd Generation UH-60M Black Hawk helicopter is the world’s leading multi-role battlefield and special operations helicopter with a proven legacy of exceptional capability and reliability. Lockheed Martin Australia is looking forward to being a key contributor to the Australian UH-60M Black Hawk program and encourages you to come join us in delivering a sovereign sustainment capability.
 
 We are pleased to invite applications for the position of Extended Reality Technology Manager to join our UH-60M Black Hawk team based in Oakey.
@@ -49,7 +124,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-88805551,Data Engineer,TL Consulting Group,https://www.seek.com.au/job/88805551?type=standard&ref=search-standalone&origin=jobCard#sol=62cb04d5958d60642fb06569d02bc8c17257033e,1h ago,1.0,2025-11-27T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At TL Consulting, we simplify modern complexity with advanced, sustainable engineering. As a proudly Australian-owned consultancy with over 15 years of experience, we empower businesses to innovate and achieve measurable outcomes through scalable, cloud-native solutions. Our 50+ consultants operate across key sectors including banking, financial services & insurance (BFSI), government, retail, education, and entertainment. This cross-industry expertise allows us to deliver customer-centric solutions that combine deep technical capability with a clear understanding of each client’s strategic vision. Our approach leverages proven, scalable blueprints tailored to your business direction—enabling accelerated outcomes, maximized ROI, and sustainable long-term adoption.
+88805551,Data Engineer,TL Consulting Group,https://www.seek.com.au/job/88805551?type=standard&ref=search-standalone&origin=jobCard#sol=6b5e192ff3920f6c7781cbd1e43ff8c00e7ee642,2h ago,2.0,2025-11-27T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At TL Consulting, we simplify modern complexity with advanced, sustainable engineering. As a proudly Australian-owned consultancy with over 15 years of experience, we empower businesses to innovate and achieve measurable outcomes through scalable, cloud-native solutions. Our 50+ consultants operate across key sectors including banking, financial services & insurance (BFSI), government, retail, education, and entertainment. This cross-industry expertise allows us to deliver customer-centric solutions that combine deep technical capability with a clear understanding of each client’s strategic vision. Our approach leverages proven, scalable blueprints tailored to your business direction—enabling accelerated outcomes, maximized ROI, and sustainable long-term adoption.
 
 
 
@@ -209,7 +284,7 @@ This is a Sydney based, permanent opportunity and will be hybrid in nature. No a
 
 
 TL Consulting Group understands the importance of fostering a diverse and inclusive workplace. We are committed to ensuring that everyone, no matter their gender, identity, sexual orientation, race, ethnicity, religion, disability, or age, has equal access to opportunities. We warmly welcome applications from all individuals, including Aboriginal and Torres Strait Islander peoples, members of the LGBTQI+ community, and individuals with disabilities."
-88804193,Data Engineer,HealthCare Logic,https://www.seek.com.au/job/88804193?type=standard&ref=search-standalone&origin=jobCard#sol=07209d87bdc3feb5d444ae199165eebb0d52a3a3,2h ago,2.0,2025-11-27T05:00:00+00:00,"Bundall, Gold Coast QLD",Engineering - Software (Information & Communication Technology),Full time,,"About HealthCare Logic:
+88804193,Data Engineer,HealthCare Logic,https://www.seek.com.au/job/88804193?type=standard&ref=search-standalone&origin=jobCard#sol=db025a580a1d700ccc7183f89bd7fcc85ab3163c,3h ago,3.0,2025-11-27T05:00:00+00:00,"Bundall, Gold Coast QLD",Engineering - Software (Information & Communication Technology),Full time,,"About HealthCare Logic:
 
 HealthCare Logic is a high growth emerging leader in hospital intelligence. We provide purpose-built intelligence platforms, experiences and services to help hospital systems achieve peak performance. We empower Public and Private, individual hospitals to networks, regions, State and National, to Departments of Health.
 
@@ -282,7 +357,7 @@ To apply please submit your current CV and cover letter. Applications close 28th
 At HealthCare Logic we celebrate diversity and strive to create an inclusive environment where all individuals feel valued and empowered. We encourage applications from candidates of all backgrounds, including those from underrepresented groups, to join our dynamic team.
 
 We believe diverse perspectives create stronger teams. If your experience doesn’t perfectly match this description, but you believe you’d bring value to the role, we encourage you to apply."
-88799860,Senior Deep Learning Engineer – Medical Computer Vision (Clinical AI),ayzaderm pty ltd,https://www.seek.com.au/job/88799860?type=standard&ref=search-standalone&origin=jobCard#sol=5517fea7e49ad53d27bab8cb611e7c3edda3c4b8,3h ago,3.0,2025-11-27T04:00:00+00:00,"Mackay, Mackay & Coalfields QLD",Engineering - Software (Information & Communication Technology),Full time,"$160,000 – $190,000 per year + Super + Bonuses","Build Clinical AI That Saves Lives – From Day One
+88799860,Senior Deep Learning Engineer – Medical Computer Vision (Clinical AI),ayzaderm pty ltd,https://www.seek.com.au/job/88799860?type=standard&ref=search-standalone&origin=jobCard#sol=b1f3da03fa65012c1493ae428f6909e15f23a66c,4h ago,4.0,2025-11-27T04:00:00+00:00,"Mackay, Mackay & Coalfields QLD",Engineering - Software (Information & Communication Technology),Full time,"$160,000 – $190,000 per year + Super + Bonuses","Build Clinical AI That Saves Lives – From Day One
 
 We are a newly established Australian MedTech company founded by a specialist clinician, focused on developing a clinical-grade Artificial Intelligence system for early melanoma detection using dermoscopy.
 
@@ -401,7 +476,7 @@ Applications without a genuine, thoughtful cover letter will not be reviewed.
 
 ✅ Local Australian applicants only
 ✅ No overseas sponsorship available"
-88798462,Senior Networks Engineer - F5,Peoplebank Australia NSW,https://www.seek.com.au/job/88798462?type=standard&ref=search-standalone&origin=jobCard#sol=26076976918020b3f3255f6c937f32447cb93688,4h ago,4.0,2025-11-27T03:00:00+00:00,"North Shore, Port Macquarie & Mid North Coast NSW (Remote)",Engineering - Network (Information & Communication Technology),Contract/Temp,Competitive Remuneration,"About the Company:
+88798462,Senior Networks Engineer - F5,Peoplebank Australia NSW,https://www.seek.com.au/job/88798462?type=standard&ref=search-standalone&origin=jobCard#sol=5f87b0922794929638f8a9af606eed8be54a7347,5h ago,5.0,2025-11-27T03:00:00+00:00,"North Shore, Port Macquarie & Mid North Coast NSW (Remote)",Engineering - Network (Information & Communication Technology),Contract/Temp,Competitive Remuneration,"About the Company:
  
 Our client an iconic Australian organisation providing products and services to millions of customers. They are pioneering, progressive and are leaders in their field.
  
@@ -431,7 +506,7 @@ For a confidential discussion, please contact Pravin on pravin.manandhar@peopleb
 
 
 Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
-88797724,Senior Research Computing Engineer,Monash University,https://www.seek.com.au/job/88797724?type=standard&ref=search-standalone&origin=jobCard#sol=4c37e9234bb94bed63219e6e12dd9afde75ea1e1,4h ago,4.0,2025-11-27T03:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+88797724,Senior Research Computing Engineer,Monash University,https://www.seek.com.au/job/88797724?type=standard&ref=search-standalone&origin=jobCard#sol=846352976802e88732bac80fec8e5a9e48ae0351,5h ago,5.0,2025-11-27T03:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,"$120,138 - $132,610 pa (plus 17% super)","Job No.: 685037
 
 Location: Clayton campus
@@ -502,7 +577,7 @@ Enquiries: Joseph Pineda, Infrastructure Delivery Lead, joseph.pineda@monash.edu
 Position Description: Senior Research Computing Engineer
 
 Applications Close: Thursday 11 December 2025, 11:55pm AEST"
-88794104,Performance and Systems Engineer,Triple Eight Race Engineering,https://www.seek.com.au/job/88794104?type=standard&ref=search-standalone&origin=jobCard#sol=6cc3e9418d8ff060b6b989ae318331bab001fbf6,5h ago,5.0,2025-11-27T02:00:00+00:00,"Banyo, Brisbane QLD",Automotive Engineering (Engineering),Full time,,"Join Australia’s most successful motorsport team!
+88794104,Performance and Systems Engineer,Triple Eight Race Engineering,https://www.seek.com.au/job/88794104?type=standard&ref=search-standalone&origin=jobCard#sol=5d9cc69207e806d5f3ea6bf7a4d84d4e5ce89ecd,6h ago,6.0,2025-11-27T02:00:00+00:00,"Banyo, Brisbane QLD",Automotive Engineering (Engineering),Full time,,"Join Australia’s most successful motorsport team!
 Triple Eight Race Engineering is seeking a driven, highly organised, and team-oriented Performance & Systems Engineer to help us deliver championship-winning results.
 
 As an engineering company with racing in our DNA, Triple Eight has dominated Australian motorsport history, competing in the Supercars Championship, GT World Challenge, and more. We pride ourselves on technical excellence and innovation both on and off the track.
@@ -565,7 +640,7 @@ Ready to take the next step in your motorsport career?
 Apply now and join a team that sets the benchmark for success.
 
 Please note: We anticipate a high volume of applications. Only shortlisted candidates will be contacted for the next stage of the recruitment process."
-88794003,Data Centre Facilities Technician (Associate) - Electrical / Mechanical Engineer,Macquarie Technology Group,https://www.seek.com.au/job/88794003?type=standard&ref=search-standalone&origin=jobCard#sol=dc0e56fe47531eb089c611619df31643eb0e97dc,5h ago,5.0,2025-11-27T02:00:00+00:00,"Macquarie Park, Sydney NSW",Mechanical Engineering (Engineering),Full time,,"About us:
+88794003,Data Centre Facilities Technician (Associate) - Electrical / Mechanical Engineer,Macquarie Technology Group,https://www.seek.com.au/job/88794003?type=standard&ref=search-standalone&origin=jobCard#sol=fe31a51a47438743237f6cf2195d5f558dacbd57,6h ago,6.0,2025-11-27T02:00:00+00:00,"Macquarie Park, Sydney NSW",Mechanical Engineering (Engineering),Full time,,"About us:
 
 Macquarie Data Centre are Australia most experienced Data Centre Provider and experts in seriously secure, sovereign and compliant data centres.
 
@@ -610,7 +685,7 @@ Sovereign, world-class data centre facilities
 Cutting-edge engineering & critical systems exposure
 
 Apply now and future proof your career and accelerate your future in advanced engineering + mission-critical operations."
-88793507,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88793507?type=standard&ref=search-standalone&origin=jobCard#sol=e59c4c0af84a7582ac58d01b969f184357b9187d,6h ago,6.0,2025-11-27T01:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
+88793507,Asset Performance Analyst,Emeco International Pty Ltd,https://www.seek.com.au/job/88793507?type=standard&ref=search-standalone&origin=jobCard#sol=a776ecd1c50b51f7ace94c20deb67531a653dddf,7h ago,7.0,2025-11-27T01:00:00+00:00,Brisbane QLD,"Analysis & Reporting (Mining, Resources & Energy)",Full time,Attractive Salary!,"Are you a pro at Data Analysis? Do you enjoy problem solving and have a passion for optimising performance and maximising value? We want YOU!
 
 Emeco are looking for an experienced Asset Performance Analyst to join our Brisbane team on a permanent full-time basis.
 
@@ -641,7 +716,7 @@ Experience with Cloud based platforms/services. Experience with the Databricks�
 Demonstrated experience of analytical skills, critical thinking abilities, problem solving, predictive analytics and machine learning (highly regarded).
 
 If you have any questions regarding the role, please contact Chloe Connor chloe.connor@emecogroup.com"
-88791695,Data Science and AI Manager,Techtronic Industries,https://www.seek.com.au/job/88791695?type=standard&ref=search-standalone&origin=jobCard#sol=90fb4dbe25525f5ac0a53f5916dcb9c42f018d4b,7h ago,7.0,2025-11-27T00:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"Data Science & AI Manager
+88791695,Data Science and AI Manager,Techtronic Industries,https://www.seek.com.au/job/88791695?type=standard&ref=search-standalone&origin=jobCard#sol=b64a7cc0a5a18f15a499c72919555d7fab569d6f,8h ago,8.0,2025-11-27T00:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"Data Science & AI Manager
 
 So…who are we?
 
@@ -722,7 +797,7 @@ Paid parental leave, and more!
 
 
 If you're ready to lead the future of data and AI at TTI, STOP… look no further and APPLY NOW!"
-88790791,Solution Architect,M&T Resources,https://www.seek.com.au/job/88790791?type=standard&ref=search-standalone&origin=jobCard#sol=f4ae8069994ad5f4b0438fa075b22c3c236010d6,7h ago,7.0,2025-11-27T00:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"Location: Melbourne
+88790791,Solution Architect,M&T Resources,https://www.seek.com.au/job/88790791?type=standard&ref=search-standalone&origin=jobCard#sol=a67d31534ecca70e2d45132c177053cd411adc1e,8h ago,8.0,2025-11-27T00:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"Location: Melbourne
 Daily rate: Circa $1200p.d.+GST
 
 About the role:
@@ -740,7 +815,7 @@ Strong knowledge of architecture frameworks, governance models, and design metho
 Proven ability to engage with senior stakeholders, business leaders, and delivery teams to achieve architectural alignment and adoption.
 Excellent analytical, communication, and documentation skills.
 Does this sound like you? If you have the skills and experience we're looking for please click 'Apply Now', or please send your updated CV to suniva.rego@mtr.com.au Alternatively please call Suniva Rego on 03 9643 3720 for a confidential discussion about the role."
-88790050,Asset Systems Engineer,UGL - Services - Defence,https://www.seek.com.au/job/88790050?type=standard&ref=search-standalone&origin=jobCard#sol=8bedceff06db3e6c59ee9d0d74e4f7cddfd8a1bd,7h ago,7.0,2025-11-27T00:00:00+00:00,Sydney NSW (Hybrid),Maintenance (Engineering),Full time,,"Help us shape the nation.
+88790050,Asset Systems Engineer,UGL - Services - Defence,https://www.seek.com.au/job/88790050?type=standard&ref=search-standalone&origin=jobCard#sol=5087f781539a1eac6156b7897f95111175e825be,8h ago,8.0,2025-11-27T00:00:00+00:00,Sydney NSW (Hybrid),Maintenance (Engineering),Full time,,"Help us shape the nation.
 
 UGL has a strategic partnership with the Department of Defence across the Defence Fuels Network for Fuels Management, Asset Management, Operations and Maintenance. An opportunity now exists to join our business in what is an exciting and unique opportunity to work in Australia’s Defence environment and support national security requirements of the Nation.
 
@@ -840,7 +915,7 @@ We welcome applicants of all backgrounds and abilities. If you have a disability
  
 
 #LI-RL"
-88788944,PLC and Automation Engineer,Glencore Coal,https://www.seek.com.au/job/88788944?type=standard&ref=search-standalone&origin=jobCard#sol=132bd862985815b9e09815f358a83035654f1ab4,8h ago,8.0,2025-11-26T23:00:00+00:00,"Ulan, Blue Mountains & Central West NSW","Mining - Operations (Mining, Resources & Energy)",Full time,Competitive salary package and lifestyle benefits,"Advancing careers. Advancing everyday life.
+88788944,PLC and Automation Engineer,Glencore Coal,https://www.seek.com.au/job/88788944?type=standard&ref=search-standalone&origin=jobCard#sol=1ad5be6fa348fcb5c2bc4f50889312d0cf706c9d,9h ago,9.0,2025-11-26T23:00:00+00:00,"Ulan, Blue Mountains & Central West NSW","Mining - Operations (Mining, Resources & Energy)",Full time,Competitive salary package and lifestyle benefits,"Advancing careers. Advancing everyday life.
 
 Glencore is committed to providing an environment that adheres to the Respect at Work Legislation.
 
@@ -895,7 +970,7 @@ Applications Close:
 For further information please contact: Marli Hungerford, HR Officer on (02) 6372 5175
 
 Glencore provides unrivalled career and development prospects, great communities and the opportunity to work with leaders in your field."
-88787480,Forward Deployed Engineer - Sydney,Aircall,https://www.seek.com.au/job/88787480?type=standard&ref=search-standalone&origin=jobCard#sol=153104c5bbe2facf41b43d6c9ba0d7a0902f7841,9h ago,9.0,2025-11-26T22:00:00+00:00,Sydney NSW,Product Management & Development (Information & Communication Technology),Full time,,"Aircall is a unicorn AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, faster resolutions, and scale. We’re redefining what a customer communications platform can be—by combining voice, SMS, WhatsApp, and AI into one seamless workspace.
+88787480,Forward Deployed Engineer - Sydney,Aircall,https://www.seek.com.au/job/88787480?type=standard&ref=search-standalone&origin=jobCard#sol=8eaa70a17a09dc67eefe47e923bc78d5ee38897d,10h ago,10.0,2025-11-26T22:00:00+00:00,Sydney NSW,Product Management & Development (Information & Communication Technology),Full time,,"Aircall is a unicorn AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, faster resolutions, and scale. We’re redefining what a customer communications platform can be—by combining voice, SMS, WhatsApp, and AI into one seamless workspace.
 
 Our momentum comes from a simple but powerful idea: help every customer-facing team work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call tasks, and AI Assist Pro delivers real-time guidance that helps people do their best work. The result—companies grow revenue, deliver faster resolutions, and scale service.
 
@@ -955,7 +1030,7 @@ At Aircall, we believe diversity, equity and inclusion, irrespective of origins,
 We promote active inclusion to foster a strong sense of belonging which is one of our main strengths as a business. We strive to assemble diverse people that can enrich and learn from each other. We pledge to make sure everyone not only has a seat at the table but is valued at the table -- providing equal opportunities to develop and thrive.
 
 We will constantly challenge ourselves to make sure that we live up to our ambitions around diversity, equity and inclusion, and keep this conversation open because we realize that we have work to do and much to learn."
-88787385,Control Systems Specialist,Lower Murray Water,https://www.seek.com.au/job/88787385?type=standard&ref=search-standalone&origin=jobCard#sol=36bcdf767192ef3d74ac65e719e9d9d843f96dfe,9h ago,9.0,2025-11-26T22:00:00+00:00,"Mildura, Mildura & Murray VIC","Electrical/Electronic Engineering (Engineering)
+88787385,Control Systems Specialist,Lower Murray Water,https://www.seek.com.au/job/88787385?type=standard&ref=search-standalone&origin=jobCard#sol=1c5f99b3ee36f3e028bd2b44ed1569cc0002526a,10h ago,10.0,2025-11-26T22:00:00+00:00,"Mildura, Mildura & Murray VIC","Electrical/Electronic Engineering (Engineering)
 Government - State (Government & Defence)",Full time,"Band 4 Commencing from $95,745 per year","Control Systems Specialist
 
 Make a difference and grow your career in a dynamic and supportive environment in the water industry.
@@ -1049,7 +1124,7 @@ We pride ourselves on our inclusive and diverse workforce and celebrate that eve
 About us
 
 LMW delivers essential water services to approximately 80,000 urban and rural customers along the Murray River. Our service region spans the traditional lands of First Nations Peoples, from Barapa Barapa at Koondrook through Latji Latji in Mildura to Ngintait near the South Australian border. We operate both urban and rural water businesses, supporting households, commercial enterprises and large-scale irrigation. As a regional leader, LMW plays a key role in driving social, environmental and economic outcomes which strengthen community prosperity."
-88783710,Senior Data Engineer,Atlassian,https://www.seek.com.au/job/88783710?type=standard&ref=search-standalone&origin=jobCard#sol=c07838b5155bd2f9395995eaa638faa741419217,15h ago,15.0,2025-11-26T16:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Our Data Engineering Team is comprised of data experts. We build world-class data solutions and applications that power crucial business decisions throughout the organisation. We manage multiple analytical data models and pipelines across Atlassian, covering finance, growth, product analysis, customer analysis, sales and marketing, and so on. We maintain Atlassian's data lake that provide a unified way of analysing our customers, our products, our operations, and the interactions among them.
+88783710,Senior Data Engineer,Atlassian,https://www.seek.com.au/job/88783710?type=standard&ref=search-standalone&origin=jobCard#sol=057f47c4d19e198a54560d5007230210516bfaed,16h ago,16.0,2025-11-26T16:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Our Data Engineering Team is comprised of data experts. We build world-class data solutions and applications that power crucial business decisions throughout the organisation. We manage multiple analytical data models and pipelines across Atlassian, covering finance, growth, product analysis, customer analysis, sales and marketing, and so on. We maintain Atlassian's data lake that provide a unified way of analysing our customers, our products, our operations, and the interactions among them.
 
 We're hiring a Senior Data Engineer, reporting to the Data Engineering Manager based in Sydney. Here, you'll enable a world-class engineering practice, drive the approach with which we use data, develop backend systems and data models to serve the needs of insights, and help build Atlassian's data-driven culture. You love thinking about the ways the business can consume data and then figuring out how to build it
 
@@ -1098,7 +1173,7 @@ We believe that the unique contributions of all Atlassians create our success. T
 To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
 
 To learn more about our culture and hiring process, visit go.atlassian.com/crh."
-88783145,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/88783145?type=standard&ref=search-standalone&origin=jobCard#sol=d90273b32f17abc65fecbe25c66cdd8f497e09cc,16h ago,16.0,2025-11-26T15:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+88783145,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/88783145?type=standard&ref=search-standalone&origin=jobCard#sol=c44774e70e304791a4456d2818804455ec4af458,17h ago,17.0,2025-11-26T15:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 
 
