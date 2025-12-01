@@ -1,937 +1,152 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88873915,Senior AI Engineer,Clicks IT Recruitment (ACT),https://www.seek.com.au/job/88873915?type=standard&ref=search-standalone&origin=jobCard#sol=cc70338089f5a9bbad0e64f970f1a534ca03b88b,2h ago,2.0,2025-12-01T06:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,$125 - $150.00,"Australian Citizenship Mandatory
-Multiple locations available
-12 months with 2 *12 months extensions
+88882853,Senior Data Engineer,CGI,https://www.seek.com.au/job/88882853?type=standard&ref=search-standalone&origin=jobCard#sol=a56602699af262d05f5fc75b6f6e18cfd8c07910,1h ago,1.0,2025-12-01T19:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Position Description:
 
-Our client seeking a highly experienced Senior AI Cloud Engineer to design and deliver enterprise-grade AI solutions leveraging Generative AI, advanced Data Engineering, and cloud platforms. You'll lead strategic solution design, mentor teams, and ensure secure, scalable, and ethical AI systems that deliver real business impact.
 
-Key Responsibilities
+Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
 
-Design and build Generative AI and advanced AI solutions using modern frameworks.
-Apply strong Data Engineering principles to AI solution development.
-Architect secure, resilient, and cost-optimized AI solutions on cloud platforms.
-Translate complex requirements into practical technical solutions and communicate effectively to technical and non-technical audiences.
-Stay ahead of emerging AI and cloud trends and provide expert advice on tool selection.
-Collaborate across teams and mentor junior engineers.
+We are looking for a Senior Data Engineer who will focuse on developing robust solutions for data ingestion, transformation, and optimization while ensuring performance, governance, and long-term sustainability. You’ll act as a technical lead, collaborating across teams to deliver high-quality data capabilities that empower analytics and business intelligence across the organization.
 
-What We're Looking For
+Flexible work is available including hybrid work from client’s site at Port Melbourne
 
-Bachelor's degree in Computer Science, Software Engineering, or related field.
-7+ years' experience delivering AI, ML, and Data Engineering solutions at scale.
-Expertise in Generative AI, LLMs/SLMs, RAG, model fine-tuning, and prompt engineering.
-Strong knowledge of MLOps and full ML lifecycle deployment.
-Experience with LangChain, LangGraph, and agentic AI solutions.
-Proficiency in Python, containerization (Kubernetes), and AWS cloud services.
-Solid understanding of ethical AI principles and governance.
-Excellent communication and stakeholder engagement skills.
+Your future duties and responsibilities:
 
-Why Join Us?
 
-Work on high-impact AI transformation projects.
-Opportunities for leadership, innovation, and career growth.
-Flexible locations: Brisbane, Adelaide, Canberra, Melbourne, Sydney.
+• Lead the design, development, and continuous improvement of data pipelines, frameworks, and architecture that support complex transformation and modelling requirements.
+• Define, document, and maintain data processing logic, ensuring clarity across requirements, solutions, reconciliation steps, and ETL/ELT processes.
+• Translate business needs into practical, scalable data models and engineering solutions that can be reused across multiple systems and domains.
+• Partner with other engineers and cross-functional teams to guide the creation of data solutions, ensuring consistency, scalability, and security.
+• Support project execution through regular progress updates, issue tracking, and risk management reporting.
+• Identify and recommend improvements to existing data platforms, leveraging emerging cloud features and capabilities.
+• Work closely with architecture and engineering teams to optimise performance, availability, and cost across Azure environments.
+• Maintain and refine data quality and governance frameworks to uphold integrity and compliance across all data products.
+• Foster strong communication channels with stakeholders, ensuring transparency, collaboration, and mutual understanding of project goals.
+• Provide technical leadership, mentorship, and guidance to data engineers, promoting best practices in design, development, and delivery.
+• Collaborate with project managers and senior stakeholders to prioritise workloads and align technical deliverables with strategic objectives.
+• Build trusted relationships across teams by proactively communicating updates, challenges, and improvement opportunities.
 
-If you wish to apply for this position, please submit your resume by clicking the 'Apply Now' button. For further information please contact Abhi Naik at Clicks IT Recruitment on +61 427 997 851.
+Required qualifications to be successful in this role:
 
-At Clicks we embrace diversity, inclusion and equal opportunity. First Nations people are encouraged to apply.
 
-We provide reasonable adjustments, including alternate formats to the recruitment process for individuals with a disability. If you require an adjustment to be made during the recruitment process, please call 1300 254 257 or email adjustments@clicks.com.au"
-88873690,Python Developer - Data & AI Engineering,Arcadian Digital Pty Ltd,https://www.seek.com.au/job/88873690?type=standard&ref=search-standalone&origin=jobCard#sol=e9b8a6ceb79023d69c76f1ddffc114519ea40cd3,2h ago,2.0,2025-12-01T06:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,"$90,000 – $110000 per year","Arcadian Digital is expanding our AI engineering capability and we’re looking for a Python Developer who’s strong with data, automation, and LLM-driven applications.
+• Strong technical foundation with a solid understanding of database concepts, along with hands-on experience using data development tools (ETL frameworks) and programming languages such as SQL and Python to design, build, and document data extraction, transformation, and loading processes.
+• Demonstrated ability to analyse business operations in depth, translate requirements into actionable solutions, and design and implement tools that address specific business needs while continuously building on existing knowledge.
+• Proficiency with several of the following technologies and programming tools:
+o Azure Data Lake
+o Azure Data Factory
+o Azure Databricks (including SQL and Python)
+o Azure SQL Server
+o Azure DevOps / Git
+• Excellent communication and interpersonal skills, with the capability to clearly explain technical information and data concepts to both technical and non-technical audiences.
+• A creative problem-solver with the confidence to design innovative solutions where standard approaches or precedents may not exist.
+• A proactive approach to learning and professional growth — keen to experiment with new ideas, share insights, and support the development of others within the team.
 
-You’ll help extend our internal AI automation platform and build AI-powered tools for clients using OpenAI, Claude, Bedrock and managed LLM deployments. If you love designing smart systems, working with complex datasets, and shipping production-ready AI solutions, you’ll thrive here.
+Skills:
 
-About the Role
+Azure Data Factory
+Azure Data Lake
+Azure DevOps
+Python
+What you can expect from us:
 
-You’ll work on a mix of internal products and client-facing automation solutions, including:
 
-Extending our internal AI orchestration and automation platform
+Together, as owners, let’s turn meaningful insights into action.
 
-Building Python-based data pipelines, integrations, and ETL workflows
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
 
-Developing AI/LLM tools (RAG, agents, prompt chains, analysis engines)
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
 
-Working with OpenAI, Claude, Bedrock and managed LLMs
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
 
-Integrating AI features into our web applications
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
 
-Contributing to architecture decisions and proposing smarter solutions
+Come join our team—one of the largest IT and business consulting services firms in the world."
+88882851,Data Engineer,CGI,https://www.seek.com.au/job/88882851?type=standard&ref=search-standalone&origin=jobCard#sol=6ae66038349deaad9ece7b30d36bee84d6052eb1,1h ago,1.0,2025-12-01T19:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position Description:
 
-Helping shape emerging AI workflows and engineering standards
 
+Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
 
+We are looking for a Data Engineer who will play a vital role in transforming business needs into practical data-driven solutions. You’ll be responsible for collecting, preparing, and optimizing data through modelling, transformation, and integration activities.
 
+Flexible work is available including hybrid work from client’s site at Port Melbourne
 
-What You’ll Need
-Core Technical Skills
+Your future duties and responsibilities:
 
-Strong Python experience (APIs, integration work, automation scripts, data handling)
 
-Experience building ETL/data pipelines, processing and normalising structured/unstructured data
+• Take ownership of data design and delivery — ensuring the accuracy, reliability, and security of data managed across various platforms.
 
-Solid understanding of REST APIs, authentication, and external service integrations
+• Contribute to the analysis, design, and build of repeatable frameworks for data ingestion, transformation, migration, and integration
 
-Experience working with LLMs (OpenAI, Claude, Bedrock) including prompt design and API usage
+• Develop, test, and maintain ETL processes and data pipelines that support ongoing and future business requirements.
 
-Ability to build Python-based services using FastAPI/Flask/Django (any is fine)
+• Produce and maintain documentation that captures data flows, transformation logic, and underlying requirements in line with agreed organisational standards.
 
-Strong problem-solving skills and the ability to design scalable, maintainable solutions
+• Translate business data requirements into effective, scalable technical solutions that can be adopted throughout the organisation.
 
-Experience with vector databases, embeddings, or RAG workflows (nice but not essential)
+• Collaborate with senior engineers, architects, and delivery teams to plan workloads, estimate effort, and deliver solutions that meet performance and design expectations.
 
-Understanding of how to productionise AI features safely and efficiently
+• Support project reporting by sharing progress updates, highlighting potential risks or issues, and responding to information requests from project leadership.
 
-Familiarity with agent frameworks or automation tooling is a bonus
+• Apply and uphold established Data Quality and Data Governance standards, ensuring that all solutions meet compliance, accuracy, and reliability benchmarks.
 
-Strong communicator, able to translate technical concepts for PMs and clients, AI is still new and clients need help understanding solutions
+• Maintain open and transparent communication with stakeholders, promoting collaboration, trust, and alignment throughout delivery cycles.
 
+Required qualifications to be successful in this role:
 
 
+• Solid technical understanding of database design and operation, along with practical experience using ETL tools and programming languages such as SQL and Python to extract, transform, and load data efficiently.
 
-Why Join Arcadian?
+• Ability to analyse and interpret business processes, translating them into technical specifications and robust data solutions.
 
-Arcadian is an innovative team that builds AI-driven products, automations, and business platforms for fast-moving Australian companies. You'll work across diverse industries, solving high-impact problems with modern tools.
+• Experience working with several of the following platforms and technologies:
+o Azure Data Lake
+o Azure Data Factory
+o Azure Databricks (including SQL and Python)
+o Azure SQL Server
+o Azure DevOps / Git
 
-We offer:
+• Strong communication and interpersonal skills, with the capability to explain technical details clearly to both technical and non-technical audiences.
+• A collaborative and curious mindset — eager to learn new technologies, share insights, and continuously improve existing solutions.
+• Creative and analytical problem-solving ability, with a focus on designing innovative, fit-for-purpose data solutions.
 
-Hybrid work model + Melbourne CBD office
+Skills:
 
-Exposure to cutting-edge AI tech across multiple vendors
+Analytical Thinking
+Data Quality Management
+What you can expect from us:
 
-A collaborative environment where new ideas are encouraged
 
-Opportunities to shape emerging internal AI products
+Together, as owners, let’s turn meaningful insights into action.
 
-A chance to make a visible impact across the agency and our clients
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
 
-If you’re excited about AI, love Python, and want to build tools that actually get used, apply with your CV and a short cover letter explaining why you'd be a great fit."
-88871840,Senior AI Engineer,face2face Recruitment,https://www.seek.com.au/job/88871840?type=standard&ref=search-standalone&origin=jobCard#sol=1abb7e05d5feec7c00fc98ca909984839575120e,2h ago,2.0,2025-12-01T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$130.00 – $140.00 p/h,"Closing Date: 4/12/25
-face2face reference: 663190 
-Locations: Brisbane, Adelaide, Canberra, Melbourne and Sydney 
-Contract Duration: 12 months + 12 - 2 month extension/s
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
 
-Why Join?
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
 
-Design and deliver high-impact AI solutions shaping government digital capability
-Lead enterprise-grade GenAI, ML and cloud engineering across major initiatives
-Influence technical direction and drive ethical, scalable AI adoption
-Work with cutting-edge LLMs, SLMs, agentic frameworks and modern MLOps stacks
-Collaborate with senior specialists across AI, data, cloud and engineering streams
-Grow your expertise in large-scale AWS deployments and advanced AI tooling 
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
 
-About the Role
+Come join our team—one of the largest IT and business consulting services firms in the world."
+88881763,"Software Engineer, Google Photos",Google,https://www.seek.com.au/job/88881763?type=standard&ref=search-standalone&origin=jobCard#sol=3009529887776c8d257fdb8006b2babae16807be,7h ago,7.0,2025-12-01T13:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"Applicants to this role must have work authorization in Australia as this role is not eligible for work visa sponsorship.
 
-Working with modern AI, ML and cloud technologies, this role designs and builds scalable GenAI and standard AI solutions that meet high standards of performance, security, responsibility and digital accessibility. You will partner with technical teams and business areas to shape solution architecture, guide tool selection, and deliver robust, production-ready AI systems across large cloud environments.
+Minimum qualifications:
 
-Key Responsibilities
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+Preferred qualifications:
 
-Design and build GenAI and standard AI solutions using modern concepts
-Apply strong data engineering practices across pipelines and ML workflows
-Translate complex requirements into clear, high-impact technical solutions
-Develop scalable, secure and cost-optimised AI architectures
-Guide strategic solution design, tool selection and engineering standards
-Work collaboratively, validating ideas and proposing well-reasoned alternatives
+Master's degree or PhD in Computer Science, or a related technical field.
+2 years of experience with Java/C++, performance, large-scale systems data analysis, visualization tools or debugging.
+2 years of experience with data structures or algorithms in either an academic or industry setting.
+Experience in code and system health, diagnosis and resolution, and software test engineering.
+Experience developing accessible technologies.
 
-Skills & Experience
+About the job
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.Google Photos is a photo sharing and storage service developed by Google. Photos is one of the most sought after products at Google and is looking for both client-side (web and mobile), with server-side (search, storage, serving) and machine intelligence (learning, computer vision) Software Engineers. We are dedicated to making Google experiences centered around the user.
 
- 7+ years building AI, ML and data engineering solutions at scale
-Deep experience with LLMs, SLMs, RAG, model distillation and prompt engineering
-Strong Python skills and expertise in MLOps and full ML lifecycle delivery
-Hands-on experience with Kubernetes, containerisation and orchestration
-Proficiency with AWS cloud services including Bedrock and related ML tooling
-Advanced critical thinking, stakeholder engagement and team mentoring ability 
+Responsibilities
 
-Australian Citizenship is a mandatory requirement for this position. 
-
-Existing Baseline security clearance is a mandatory requirement for this position. 
-
-If you have any questions or would like more details, don’t hesitate to reach out to
-
-Urvish Kahar at urvish.kahar@f2frecruitment.com.au. 
-
-
-
-null"
-88871421,AI Engineer,Whizdom,https://www.seek.com.au/job/88871421?type=standard&ref=search-standalone&origin=jobCard#sol=790f93b14c23152e77edd8fa5b1fa9737d154b39,3h ago,3.0,2025-12-01T05:00:00+00:00,Canberra ACT (Hybrid),Engineering - Hardware (Information & Communication Technology),Contract/Temp,Competitive,"The Role:
-
-Seeking a dedicated AI Cloud Engineer to join our dynamic development team. You will be working on a large group of technical specialists across different areas and will be instrumental in designing and delivering critical AI solutions, ensuring they meet the highest standards for performance, security, responsibility and digital accessibility. It is essential that the candidate has experience in creating solutions using AWS and other cloud ready technologies, and modern concepts to implement Gen AI and Data Engineering solutions.
-
- 
-
-Primary Duties: 
-
-•       Design and build Gen AI and Standard AI solutions employing the most up to date concepts in the field.
-
-•       Apply solid Data Engineering concepts where applicable in the creation of AI solutions.
-
-•       Apply domain expertise and innovative ideas to design solutions.
-
-•       Identify customer needs and understand business goals to envisage the high-level solution.
-
-•       Design and build scalable AI solutions considering ethics, security, performance and cost optimisation.
-
-•       Keep abreast of the latest advances in cloud computing applicable to AI and Data Engineering.
-
-•       Work collaboratively with other teams and business areas.
-
- 
-
-Skills and Experience Required: 
-
-•        (4+Years of experience):
-
-•       Strong understanding of end-to-end AI Solutions and modern Data Engineering.
-
-•       RAG, Model Distillation, Model Fine Tuning.
-
-•       Strong experience building Agentic AI solutions.
-
-•       Prompt Engineering.
-
-•       Strong experience with LangChain and LangGraph Frameworks.
-
-•       Strong understanding of ML concepts and methodologies.
-
-•       Advanced Python programming.
-
-•       Strong understanding of LLMs and their capabilities and how to evaluate them.
-
-•       Applying Responsible/Ethical AI controls.
-
-•       Knowledge of relational and non-relational databases.
-
-•       AWS Cloud computing.
-
-•       Knowledge of platform-specific AI/ML services (e.g. Kubeflow, AWS Bedrock. AWS Comprehend)
-
-•       DevOps applied to the delivery of AI solutions.
-
-•       Unit testing.
-
-•       Experience with containerisation technologies (e.g. Kubernetes).
-
-•       Proficiency in designing APIs and backend services.
-
-•       Automation design and implementation.
-
-•       Cloud security
-
- 
-
-
-Location and Contract Term: This role is based in Canberra, Adelaide, Brisbane, Melbourne or Sydney.  12 month contract with 2x12-month extension options pending budget and delegate approval.
-
-
-Security Requirements: Applicants must be Australian Citizens and hold a baseline security clearance or the ability to obtain and maintain
-
-
-How to Apply: Applications close 9am 5  December.
-
- 
-
-Please upload your resume to apply. Candidates will need to be willing to undergo pre-employment screening checks which may include, ID and work rights, security clearance verification and any other client requested checks
-
-Please note you may need to complete selection criteria to complete this application process. We will be in touch with instructions for suitably skilled candidates
-
-Call Kelly 0480 002 457  or email kelly@whizdom.com.au for any further information"
-88871097,Senior AI Engineer,Whizdom,https://www.seek.com.au/job/88871097?type=standard&ref=search-standalone&origin=jobCard#sol=aa25b6f8bff3991c36fbac5c54cb040b42b7a2b3,3h ago,3.0,2025-12-01T05:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,AUD 150 - 180 per hour,"Seeking a Senior AI Cloud Engineer with 7+Years experience with delivering AI, ML and Data Engineering solutions at scale with high regard for security, fault tolerance, governance, and cost optimisation.
-
-Our agency is seeking a dedicated Senior AI Cloud Engineer to join our dynamic development team. You will be working on a large group of technical specialists across different areas and will be instrumental in designing and delivering critical AI solutions, ensuring they meet the highest standards for performance, security, responsibility, and digital accessibility. It is critical that the candidate has senior level experience in creating enterprise class solutions with a vast knowledge of Generative AI, Data Engineering and Cloud Technology.
-
-Key Responsibilities:
-
-• Design and build Gen AI and Standard AI solutions employing the most up to date concepts in the field.
-
-• Apply solid Data Engineering concepts where applicable in the creation of AI solutions.
-
-• Apply domain expertise and innovative ideas to design solutions.
-
-• Identify customer needs and understand business goals to envisage the high-level solution, and translate complex concepts and requirements into technical solutions but also being able to communicate them to technical and non-technical audiences.
-
-• Design and build scalable AI solutions considering ethics, security, performance, and cost optimisation.
-
-• Keep abreast of the latest advances in cloud computing applicable to AI and Data Engineering.
-
-• Provide expert advice on matters related to strategic solution design and tool selection.
-
-• Work collaboratively with other teams and business areas. Validate or challenge proposals or ideas and present viable well thought out alternatives
- 
-
-Skills and experience:
-
-• Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or a related quantitative discipline
-
-• (7+Years of experience) with a proven record of delivering AI, ML and Data Engineering solutions at scale with high regard for security, fault tolerance, governance, and cost optimisation.
-
-• Strong understanding of end-to-end AI Solutions and modern Data Engineering, using cloud technology.
-
-• Advanced Machine Learning and expertise in the full lifecycle of ML model deployment, from staging to production (MLOps).
-
-• Data engineering: Skills in data preprocessing, feature engineering, and working with big data tools.
-
-• Knowledge of modern AI applications, including strong understanding of Large or Small Language Models (LLMs and SLMs), fine-tuning them and how to methodically evaluate them, observability, and monitoring.
-
-• RAG, Model Distillation, and applying advanced Prompt Engineering techniques.
-
-• Containerisation and orchestration (Kubernetes)
-
-• Strong experience building Agentic AI solutions.
-
-• Strong experience with LangChain, LangGraph or similar open Frameworks.
-
-• Good understanding of Python programming.
-
-• Applying Responsible/Ethical AI controls.
-
-• Knowledge of relational and non-relational databases.
-
-• AWS Cloud computing.
-
-• Knowledge of platform-specific AI/ML services (e.g. Kubeflow, AWS Bedrock. AWS Comprehend)
-
-• Automation design and implementation.
-
-• Data pipelines for different purposes (ingestion, curation, organisation, build other structures, containers creation, etc.), ETL, ELT, pipelines orchestration.
-
-• Ability to provide expert advice on matters related to solutions design and tool selection.
-
-• Highly developed strategic thinking, able to see past current situations and enable approaches that can solve today’s and tomorrow's problems.
-
-• Advanced critical thinking skills with a capacity to face unknown challenges with an ability to work independently.
-
-• Ability to guide teams, set technical direction, and mentor junior engineers.
-
-• Highly adaptable and keep abreast of modern concepts and trends that may be of use to the organisation.
-
-• Be able to mediate between different teams, team members, or business areas whenever disagreements occur and propose potential solutions.
-
-• Proactively identify issues, customer or technological needs and propose solution that may address them withing established organisational parameters.
-
-• Experience in large organisations and large cloud deployments.
-
-• Open minded and able to pivot to other priorities managing the unexpected if needed.
-
-• Good communication (written and oral) and people skills.
-
-• Strong relationship and team collaboration focus, with willingness and ability to actively teach and upskill other team members.
-
-• Able to build and maintain professional relationships with other teams and stakeholders.
-
-• Focus on influencing others to adopt new methodologies, being more practical than prescriptive.
-
-• Able to work in a project and adhere to SCRUM framework
-
- 
-
-Contract: 12 Month Contract with 2 x 12 months extension  
-
-Security Required: Baseline security Clearance required
-
-Location- Brisbane, Adelaide, Canberra, Melbourne and Sydney
-
-How to Apply - Please upload your resume to apply. Candidates will need to be willing to undergo pre-employment screening checks which may include, ID and work rights, security clearance verification and any other client requested checks
-
-Closing date:  Friday 5 December 2025 by 9am
-
-Call Joanne Finchett on 0480 002454 or email Joanne@whizdom.com.au for any further information"
-88870147,Configuration Manager,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88870147?type=standard&ref=search-standalone&origin=jobCard#sol=61f51525e657dbe8ff6a6097aed2a3233d5b824f,3h ago,3.0,2025-12-01T05:00:00+00:00,"Williamtown, Newcastle, Maitland & Hunter NSW",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us:
-
-At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
-
-
-About the role:
-
-As Lockheed Martin Australia continues to grow its engineering capability, we are seeking an experienced Configuration & Data Management Manager to provide technical leadership, governance, and strategic direction across the Configuration & Data Management (CDM) domain.
-
-This role plays a pivotal part in ensuring our programs meet configuration, data governance, and digital engineering standards, while developing and supporting a high-performing CDM workforce.
-
-You will guide and mentor CDM professionals, uplift capability across people, processes, tools and training, and ensure consistent execution of CDM practices across multiple complex programs. This is a genuine leadership opportunity with influence across portfolios, projects, and business functions.
-
- 
-
-Your key responsibilities will include, but not limited to:
-
-Provide technical leadership, direction, and strategy for configuration and data management across LMA programs
-
-Drive cohesive CDM governance aligned with EIA-649C, ISO 10007, customer requirements, and internal standards
-
-Lead capability development across people, processes, tools, and training
-
-Mentor CDM analysts and team members to build consistency, quality, and technical excellence
-
-Support Engineering & Technology in new business pursuits, bids, and proposals
-
-Coordinate configuration and data management activities across multi-disciplinary program teams
-
-Apply robust configuration management principles to maintain product integrity and support digital engineering initiatives
-
-Provide specialist expertise in PLM systems to integrate configuration data across tools and environments
-
-Engage engineering, program, and customer stakeholders to champion best practice in configuration and data governance
-
-Contribute to continuous improvement and enhancement of CDM processes, methods, and the Information Management Process Asset Library
-
-
-
-
-About you:
-
-To be successful in this role, you will have:
-
-Demonstrated full spectrum leadership capability
-
-Strong experience in Configuration & Data Management within complex engineering or systems environments
-
-Experience mentoring and influencing technical professionals
-
-Excellent communication, stakeholder engagement, and relationship-building skills
-
-Proven ability to manage competing priorities, drive outcomes, and support multiple programs simultaneously
-
- 
-
-Desirable
-
-Experience estimating basis-of-effort for CDM activities
-
-Familiarity with PLM tools such as Windchill or similar
-
-Background in Defence, aerospace, or other highly regulated engineering sectors
-
- 
-
-If you’re passionate about technical leadership, governance, and developing high-performing teams, and want to play a key role in delivering complex Defence capability, this is an opportunity to contribute at both strategic and program execution levels.
-
-
-How we reward and support you: 
-
-When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
-
-We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
-
-Flexible work & Hybrid work options
-
-Access to our online discounts program offering immediate discounts or cashback
-
-A variety of leave options including Purchase Leave to support you and your family  
-
-Additional benefits such as Annual Flu Vaccinations, Novated Leasing and Fitness Programs
-
-
-Special Requirements:
-
-Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
-
-A Veteran-friendly Workplace:
-
-Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
-
-Equal Opportunity Statement:
-
-Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees' unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
-
-As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
-
-We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-88867981,PLM System Analyst (Application Developer),BAE Systems,https://www.seek.com.au/job/88867981?type=standard&ref=search-standalone&origin=jobCard#sol=03ba18390dca0de8720241dbc4ec01b41e01c8ee,4h ago,4.0,2025-12-01T04:00:00+00:00,Melbourne VIC,Engineering - Hardware (Information & Communication Technology),Full time,,"Job description
-
-
-At BAE Systems Australia
-
-Do interesting work that MATTERS
-ENJOY what you do
-GROW your career
-Be YOU
-
-We work in a thriving sector – one that puts us at the forefront of exciting and meaningful work. Every day we push boundaries to produce some of the world's most innovative and ground breaking technology. Individually we all contribute to our success. Collectively we make the impossible possible.
-
-Recognised for delivering projects of global and national significance that help keep Australia safe, it is our shared passion that shapes our culture, and our people that make it a great place to work.
-
-About the OPPORTUNITY
-
-We are seeking an experienced PLM Application Developer with expertise in CAD/CAM ship design suit to develop, customize, automate and integrate Foran modules to support structural modelling, outfitting, electrical systems and engineering workflows. The successful candidate will have strong technical skills in (Perl, Python), hands on experience with FORAN ship design software (modules such as FDESIGN, FSRUCT, FOUTFUT, FPIPE etc).
-
-PRINCIPAL ACCOUNTABILITIES:
-
-Foran license management and project backup management
-Ability to develop and maintain custom script using script language Perl or Python, macros and automation tools within Foran.
-Foran server installation, configuration and maintenance
-Foran application configuration, patches and maintenance
-Ability to develop integration between FORAN and PLM tools
-Support import/export of 3D models, drawings and manufacturing data
-Provide technical support and troubleshooting to design and engineering teams
-Work ship design engineers to understand requirements and translate them in technical solutions.
-Implement validation checks to ensure data consistency across discipline.
-
-About YOU
-
-Bachelor's degree in Computer ScienceEngineering, or equivalent experience.
-4+ years of experience with FORAN ship design software
-Proficiency in scripting language Python and Perl
-Experience with DevOps tools (Git, BitBucket CI/CD) for managing Engineering scripts and templates.
-Experience with other PLM tools like Windchill, Creo
-Possess Agile methodology skill sets (Scrum and Kanban) and ability to use BAE toolsets (Jira and Confluence) to plan and deliver technical changes via sprint activities.
-Ability to work with cross-functional teams to gather requirements and translate them into technical solutions
-Possess strong analytical, problem-solving and proven time-management skills with focus on good customer service, stakeholder management and ability to collaborate with diverse engineering teams.
-Defence security clearance or eligibility to obtain
-
-We believe in hiring for potential, we know that some candidates hesitate if they don't tick all the boxes.  If this role interests you, but you don't meet all the criteria, we still encourage you to apply.
-
-About US
-
-You will be joining a workplace that truly cares about your wellbeing.
-
-Our people are diverse and we value the variety of perspectives this brings, we know that a culture that is inclusive and fosters a sense of belonging is a place we can all make the most of our unique talents and be our best.
-
-As Australia's largest defence company in a rapidly growing sector, you will be connected into a global team and encouraged to explore where your career might take you whether that is a traditional career path or squiggly one, there are infinite possibilities for you at BAE Systems Australia. 
-
-BAE Systems recognises the sacrifices of those who have served our Nation and their families.  We support our veteran community through our internal veteran network (VetNet Australia) and strong charitable partnerships, internal offerings including reserve service leave, a Veteran Mentoring Program and other exclusive offerings available through our strategic partners.
-
-We welcome applicants from all people regardless of sex, gender identity, race, ethnicity, disability, pregnancy, age, or other lived experience; and strongly encourage applications from Aboriginal and Torres Strait Islander people for all positions.
-
-We are proud to be recognised as an employer of choice for women by WORK180.
-
-Awarded the 2024 Quarter 1 Benchmarcx Triple R- Excellence In Candidate Experience Certification. As a member of the Circle Back Initiative we commit to respond to every applicant.
-
-To learn more about our competitive employee benefits, flexibility, other employment opportunities and what to expect from our recruitment process please visit: www.baesystemscareers.com.au
-
-Clearances
-
-As a Defence security clearance is required for this role, applicants must be Australian citizens and either possess or be eligible to obtain and maintain appropriate clearances. Further information regarding security clearances.
-
-#BAESystemsTechCareers"
-88866178,Senior AI Engineer (Contract) - $1100 Per Day,Preacta Recruitment,https://www.seek.com.au/job/88866178?type=standard&ref=search-standalone&origin=jobCard#sol=a48989a7b31cd0c6c52f391890f3494b6a26d099,5h ago,5.0,2025-12-01T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior AI Engineer x 2 – Build Enterprise-Scale Agentic Systems
-Sydney | ⏱ 6-12-month contract
-
-$1100 Per Day (Including Super)
-
-This business is building a full enterprise platform to power agentic automation across every function of the organisation. You’ll join a newly formed engineering unit tasked with building the foundations: enterprise agents, reasoning systems, knowledge graph integration, and the underlying cloud-native platform.
-
-This is greenfield, high-impact engineering where your work becomes the backbone of large-scale automation across thousands of users.
-
-What you’ll work on You’ll be building the core capabilities needed for an enterprise to operate AI-first:
-
-Ingesting large codebases and systems so agents can reason, plan, and take action
-Building scalable backend services and AI pipelines in Python, Java, and GCP
-Integrating with Vertex AI, orchestration tools, and knowledge graph services
-Shaping the architecture for a unified platform that future AI products will be built on
-Shipping production-quality engineering that supports mission-critical operations
-What you bring We’re looking for engineers who can operate at a senior level across software, AI systems, and cloud fundamentals:
-
-Core Engineering (Need to have)
-5+ years software engineering (Python preferred; Java welcome)
-Strong SDLC experience, building and supporting production systems
-Experience with CI/CD, Docker, Kubernetes, and cloud-native design (GCP ideal)
-Experience with Google ADK, Neo4j, or other graph-based systems
-Ability to work across ingestion, orchestration, and platform components
-AI & Agentic Systems (Nice to have)
-Experience building or integrating LLM-powered systems
-Hands-on experience with agentic frameworks (LangChain, LangGraph, LlamaIndex, ADK, similar)
-Ability to design and implement RAG, vector search, and retrieval patterns
-Understanding of LLMOps, model deployment, monitoring, and experimentation"
-88865023,Platform Manager AI/ML,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88865023?type=standard&ref=search-standalone&origin=jobCard#sol=57d10998132299cd11ae53652419cd4a417c3f4c,6h ago,6.0,2025-12-01T02:00:00+00:00,"Hawthorn East, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"Join one of Australia's leading national retailers as an AI/ML Platform Engineering Manager, where you will play a pivotal role in shaping and scaling the organisation's next-generation machine learning capabilities. This is a permanent leadership opportunity overseeing a high-performing team of six engineers and driving end-to-end ownership of the AI/ML platform.
-
-About the Role
-
-In this role, you will lead the design, development, and delivery of critical AI/ML platform components supporting enterprise-wide machine learning initiatives. You will partner closely with data scientists, ML engineers, software developers, and platform teams to translate business needs into scalable and secure platform capabilities.
-
-Key Responsibilities
-
-Lead the architecture and development of AI/ML platform components including model training environments, feature stores, model registries, deployment pipelines, and monitoring frameworks.
-Manage end-to-end delivery of platform enhancements, ensuring scalability, reliability, and high performance across all ML workloads.
-Collaborate cross-functionally with technical and non-technical stakeholders to gather requirements and enable seamless delivery of AI/ML solutions.
-Implement and champion best practices in MLOps, including model versioning, lifecycle management, CI/CD, observability, and platform security.
-Drive continuous improvement by integrating new tools, frameworks, and automation to streamline and accelerate ML workflows.
-Oversee platform reliability, incident response, operational support, and capacity planning to maintain enterprise-grade availability.
-Ensure all platform capabilities adhere to organisational data governance, security standards, and relevant regulatory requirements.
-Provide regular reporting, insights, and strategic recommendations to senior leadership on platform performance, risks, and future opportunities.
-
-
-About You
-
-You are a technical leader with a passion for building robust, scalable AI/ML platforms and empowering teams to deliver impactful machine learning outcomes. You thrive in a fast-paced, collaborative environment and bring deep experience in MLOps, automation, and cloud-native engineering.
-
-What's on Offer
-
-Permanent leadership role in a high-growth AI/ML environment
-Opportunity to shape a major retailer's enterprise ML ecosystem
-Lead and develop a team of six talented engineers
-Competitive salary, benefits, and long-term career pathways
-
-For more information contact Melissa Haddad at melissa.haddad@talentinternational.com"
-88863830,BI Developer - Healthcare experienced,Milestone Information Technology,https://www.seek.com.au/job/88863830?type=standard&ref=search-standalone&origin=jobCard#sol=2bdb75216679d61025f81ea4aa69163e0eb8deac,6h ago,6.0,2025-12-01T02:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Are you a Business Intelligence Developer ready to make a significant impact in the vital healthcare sector?
-Milestone IT has partnered with a leading Healthcare Organization renowned for its commitment to innovative patient care and data-driven decision-making. We are seeking a talented and experienced BI Developer to join their dynamic team and help transform complex clinical and operational data into actionable insights.
-This is an opportunity to directly influence the quality, efficiency, and future of healthcare delivery.
-  
-As the BI Developer, you will be crucial in designing, developing, and maintaining scalable BI solutions that support key organizational functions, from patient outcomes to resource management.
-  
-✨ What You Will Be Doing   
-
-Design & Develop: Create and optimize robust ETL processes, data models, dashboards, and reports using the Microsoft BI Stack and related technologies.
-Data Translation: Collaborate with clinical, operational, and administrative stakeholders to translate complex business requirements into technical specifications and data solutions.
-Performance Tuning: Ensure the optimal performance, reliability, and scalability of BI solutions and data warehouses.
-Quality Assurance: Implement data governance and quality practices to ensure the integrity and accuracy of healthcare data.
-Innovation: Research and recommend new technologies and methods to enhance the BI architecture and reporting capabilities.
-  
-�� What You'll Need to Succeed (Your Skills)   
-
-Proven Experience: Minimum of 5+ years of experience as a BI Developer.
-BI Tool Proficiency: Expert-level skills in the Microsoft BI Stack (SSIS, SSAS, SSRS, SQL Server).
-Data Visualization: Strong experience with Power BI (or equivalent tools like Tableau, QlikView) for dashboard and report creation.
-SQL Mastery: Advanced proficiency in writing and optimizing complex SQL queries and stored procedures.
-Healthcare Experience (Crucial): Direct, demonstrable experience working with healthcare data (e.g., EMR/EHR systems, patient demographics, clinical data, claims data, hospital operations, HL7/FHIR standards).
-Data Warehousing: Solid understanding of data warehousing concepts, including Kimball/Inmon methodologies.
-Soft Skills: Excellent communication, problem-solving, and stakeholder management skills."
-88862997,Laboratory Technician - Robotics & Intelligent Systems Specialist,The University Of Melbourne,https://www.seek.com.au/job/88862997?type=standard&ref=search-standalone&origin=jobCard#sol=903a0fc1861a6aeb8a4620e306117af292e456b7,6h ago,6.0,2025-12-01T02:00:00+00:00,"Parkville, Melbourne VIC","Industrial Engineering (Engineering)
-Other (Education & Training)",Full time,$100k - $110k p.a. + 17% super,"Role type: Full-time; Continuing
-Faculty: Engineering & Information Technology
-Department: Laboratory and Technical Services
-Salary: UoM 6 - $100,847 - $109,163 p.a. plus 17% super
-
-
-Deliver expert technical support / Collaborate in multidisciplinary research / Enhance cutting-edge laboratory operations
-Apply today to become an integral part of our team, driving innovation and excellence in laboratory services!
-Investing in you - benefits package including salary packaging, health and wellbeing programs, discounted services, and professional development opportunities.
-
-
-The University of Melbourne
-We take pride in our people, who all contribute to our mission to benefit society through the transformative impact of education and research. Discover more via our website and stay connected with our stories and people on LinkedIn.
-
-Your next career opportunity
-As a Laboratory Technician, you'll play a pivotal role in supporting the day-to-day operations of diverse laboratories within the Mechatronics, Electronics, and Digital Cluster. You will ensure the smooth facilitation of teaching and research activities by maintaining equipment, providing technical expertise, and supporting academic staff. This role offers you the chance to work across various technical fields, including robotics, AI, and cybersecurity, enhancing your skills and contributing to groundbreaking research.
-
-Your responsibilities will include:
-
-
-Provide Expert Technical Support: Deliver specialised services and support to teaching and research activities, ensuring effective use of laboratory equipment.
-Manage Laboratory Operations: Oversee equipment maintenance, facilitate purchases, and ensure compliance with OHS requirements.
-Support Teaching and Research: Assist staff and students with equipment usage, prepare for practical classes, and maintain accurate laboratory records.
-Ensure Safety and Compliance: Conduct inspections, develop risk assessments, and manage lab bookings and inductions.
-
-You may be a great fit if:
-
-You hold a relevant qualification or equivalent experience in Robotics, Mechatronics, Electronics, Mechanical Engineering, or Computer Science, with expertise in automation, intelligent systems, and research support. You have strong knowledge of robotics and automation technologies, motion control, sensor integration, and microcontroller programming, along with hands-on experience in electronics prototyping, PCB design, CAD/CAM, and 3D printing. Proficiency with ROS, SLAM, and related simulation tools, as well as experience in motion tracking and sensing systems, is desirable. You demonstrate strong problem-solving, communication, and teamwork skills, while maintaining high standards of technical support, safety, and professional integrity.
-
-You may also:
-
-
-Expertise in robotics and automation systems, including motion control and sensor integration, and experience with robotics and machine learning development environments such as ROS, SLAM, and reinforcement learning frameworks
-Proficiency in microcontroller programming, electronics prototyping, PCB design, and 3D printing, as well as competence in CAD/CAM design and rapid prototyping
-Experience with motion tracking, LiDAR, and sensing systems for data acquisition and analysis
-Excellent communication, teamwork, and organisational abilities in dynamic, multidisciplinary settings
-Commitment to professional integrity, high service standards, and compliance with OHS and laboratory regulations
-
-For further information please refer to the attached PD.
-
-What we offer you!
-We offer the opportunity to be part of a vibrant community and enjoy a comprehensive range of benefits to support your success and sense of fulfillment, including:
-
-
-Supportive flexible work arrangements underpinned by our commitment to inclusion and well-being
-Progressive, considerate leave provisions to empower your work-life balance
-Salary packaging and access to a range of discounted services including Bupa health insurance
-Health and well-being services including a leading Employee Assistance Program
-
-For more information check out our benefits page!
-
-Your new team - The Faculty of Engineering and Information
-The Faculty of Engineering and Information Technology (FEIT) has been the leading Australian provider of engineering and IT education and research for over 150 years. We are a multidisciplinary Faculty organised into three key areas; Computing and Information Systems (CIS), Chemical and Biomedical Engineering (CBE) and Electrical, Mechanical and Infrastructure Engineering (EMI). FEIT continues to attract top staff and students with a global reputation and has a commitment to knowledge for the betterment of society. FEIT has never been better positioned as a global leader, anchored in the dynamic Asia Pacific region, creating and curating knowledge to address some of the world's biggest challenges. Through our students and our relationships with communities, we can not only respond to society's needs but anticipate and create engineering and IT solutions for the future. https://eng.unimelb.edu.au/ https://eng.unimelb.edu.au/about/join-feit Our ten-year strategy, FEIT 2025, is our School's commitment to bring to life the University-wide strategy Advancing Melbourne and reinforce the University of Melbourne's position as one of the best in the world. To achieve our ambitions, we will continue to build new infrastructure to enable our teaching, research and engagement; we continue to recruit outstanding people from around the world; and we continue to attract high-quality students from across the globe who are at the heart of our enterprise. https://eng.unimelb.edu.au/about/feit-2025
-
-Be Yourself
-The University of Melbourne is an Equal Opportunity Employer and a child-safe organisation. We are committed to creating an inclusive and equitable workplace where all individuals feel valued, respected, and have the opportunity to thrive regardless of gender identity, ethnicity, sexual orientation, disability, age, being a parent or having caring responsibilities.
-
-The University of Melbourne is committed to fostering a barrier-free and inclusive recruitment process. We are dedicated to providing reasonable adjustments for candidates throughout the application and interview stages, including accessible document formats and alternative application methods. To discuss your specific requirements, please feel free to contact Bec Tucker - 0416 888 299 or send an email titled 'Reasonable Adjustments' to hr-careers@unimelb.edu.au. You can find more information for applicants requiring reasonable adjustments on our Careers website: https://about.unimelb.edu.au/careers
-
-Aboriginal and Torres Strait Islander Applicants
-We aspire to be the University of choice for Indigenous Australians, with unprecedented investment to attract, nurture and retain Aboriginal and Torres Strait Islander students and staff. Tangible support through a range of programs and initiatives will ensure that you personally succeed and flourish while at the University of Melbourne.
-
-For further information, including our 2023-2027 Indigenous strategy please visit -https://about.unimelb.edu.au/reconciliation/murmuk-djerring
-
-If you are a member of an Aboriginal and/or Torres Strait Islander community and would like any support, please feel free to contact our Indigenous Employment & Development team via email at oied-hr@unimelb.edu.au.
-
-Working at the University - what you need to know
-This role requires the successful candidate to maintain a Working with Children Check The successful candidate can apply for the WWCC as part of the onboarding process. In the case the selected candidate doesn't have a valid Working with Children Check, they will be able to apply for the WWCC as part of the initial onboarding procedures.
-
-Please note: Visa sponsorship is not available for this position. This role requires current valid work rights for Australia.
-
-Join Us and unlock your career potential!
-Is this the perfect opportunity for you? Apply today! Including the following documents:
-
-
-Resume
-Cover Letter outlining your interest and experience
-The responses against the Selection Criteria^ (found in the Position Description)
-
-^For information to help you with compiling short statements to answer the selection criteria and competencies, please go to http://about.unimelb.edu.au/careers/selection-criteria
-
-If you have any questions regarding the recruitment process, please feel free to contact Brett Verity via email at hr-careers@unimelb.edu.au, ensuring that you include the Position Number and the Job Title as the subject. Please do not share your application to this email address.
-
-If you have any particular questions regarding the job please follow the details listed on the Position Description.
-
-Position Description: JR-005948 - Laboratory Technician - Robotics & Intelligent Systems Specialist PD.pdf"
-88861731,Application & Innovation Engineer,Stiebel Eltron (Aust) Pty Ltd,https://www.seek.com.au/job/88861731?type=standard&ref=search-standalone&origin=jobCard#sol=936fbd3b44196a45831b2c6a8686e430c7b3815f,7h ago,7.0,2025-12-01T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Other (Engineering),Full time,,"Application & Innovation Engineer
-
-
-
-
-About the Role
-
-Join a global leader in sustainable energy solutions as an Application and Innovation Engineer. This role blends hands-on engineering with customer-focused project planning. You will design advanced energy-efficient systems, plan and coordinate custom builds for customers, and create detailed technical documentation to ensure flawless execution.
-
-If you enjoy solving complex engineering problems, working on innovative technologies, and supporting strategic projects, this is your opportunity to make an impact.
-
-Key Responsibilities
-
-Design and model advanced energy-efficient solutions such as heat pump systems and ventilation.
-
-Perform thermodynamic and mechanical calculations; develop simulation tools for ROI and efficiency analysis.
-
-Build and test prototypes in collaboration with our labs.
-
-Plan and coordinate custom builds for customers, ensuring compliance with technical standards and timelines.
-
-Prepare and maintain technical documentation, schematics, installation manuals, and project reports.
-
-Support customer projects by defining and presenting tailored technical solutions.
-
-Research new technologies and components; assist in sourcing and supplier engagement.
-
-Communicate technical options clearly to stakeholders and customers.
-
-What We’re Looking For
-
-Degree in Mechanical Engineering or related field.
-
-Strong knowledge of thermodynamics and heat pump systems.
-
-Hands-on experience with design, simulation, and prototype development.
-
-Analytical mindset with attention to detail and clear communication skills.
-
-Ability to work independently and collaborate with cross-functional teams.
-
-Familiarity with digital tools (Power Automate, Power BI) is a plus.
-
-Why Join Us?
-
-Be part of a global leader driving sustainable energy innovation.
-
-Work on challenging projects that combine technical depth with customer impact.
-
-Opportunity to shape solutions and contribute to strategic growth across Asia-Pacific."
-88861724,Data Scientist,University of New South Wales,https://www.seek.com.au/job/88861724?type=standard&ref=search-standalone&origin=jobCard#sol=6a4cfb5e6232543d0266198dbc0c31bd41f26add,7h ago,7.0,2025-12-01T01:00:00+00:00,"Randwick, Sydney NSW (Hybrid)","Database Development & Administration (Information & Communication Technology)
-Other (Education & Training)",Full time,"$127,351 base, plus 17% superannuation","Data Scientist
-
-Employment Type: Full - time (35 hours a week)
-Duration: 18 Month Fixed Term contract (with the possibility of extension)
-Remuneration: $127,351 base, plus 17% superannuation and leave loading 
-Work rights required: Visa sponsorship is not available for this position. Candidates must hold full rights to work in Australia to be considered for this position.
-Location: Hybrid, Randwick, Sydney (Health Translation Hub)
-
-About UNSW:
-
-UNSW Medicine & Health is a national leader in learning, teaching and research, with close affiliations to several of Australia’s finest hospitals, research institutes and health care organisations. With a strong presence at UNSW Sydney campus, the faculty have staff and students in teaching hospitals in Sydney as well as regional and rural areas of NSW including Albury/Wodonga, Wagga Wagga, Coffs Harbour and Port Macquarie. 
-
-Details of the role
-
-This Data Scientist role offers a unique opportunity to work at the intersection of artificial intelligence, machine learning, and healthcare. The role will contribute to designing and implementing AI-driven solutions to automate ICD-11 coding from Emergency Department (ED) data, which include structured fields and free text clinical notes.
-
-The appointee will lead the fine-tuning of advanced Large Language Models (LLMs) while ensuring the reliability, accuracy, and compliance of the solution. Your expertise will help create a pipeline that contributes to reporting of injury related presentations to EDs, predominantly by jurisdictional health departments. 
-
-The role will collaborate with clinicians, coders, engineers, and researchers to align solutions with healthcare workflows, working closely with the broader research team partners including CSIRO and AIHW. .
-
-The role reports to the Senior Research Fellow and Chief Investigator of this MRFF National Critical Research Infrastructure grant funded work with a dotted reporting line to a Senior Data Scientist at the CSIRO. There are no direct reports. 
-
-Some key skills required:
-
-PhD or Master’s in Data Science, Computer Science, Biostatistics, or related field with relevant experience or equivalent competence gained through any combination of education, training and experience.
-Fine-tune and validate Large Language Models (LLMs) to assign ICD-11 codes, evaluating their performance using precision, recall, F1, ROC-AUC, cross-validation, and other metrics.
-Detect and mitigate potential bias in AI models and uphold ethical AI standards by recommending and implementing strategies for bias detection and mitigation.
-Ensure compliance with privacy regulations (HIPAA, GDPR, local laws) and adhere to robust data governance practices for handling sensitive PHI and PII.
-Work with Emergency Department datasets, including structured fields and unstructured free-text data (e.g., triage notes).
-Assist in the development of Data Management Plans, Statistical Analysis Plans and other project related documentation. Demonstrated experience building machine learning pipelines; ≥2 years in healthcare, with knowledge of clinical data and medical vocabulary.
-Programming: Python (PyTorch, spaCy), SQL, shell scripting, and relevant knowledge in Natural Language Processing (NLP), including Transformer architecture and prompting methods.
-Excellent written and verbal communication skills, with proven ability to interact effectively with diverse stakeholders and present findings clearly to technical and non-technical audiences.
-
-Desirable skills:
-
-Experience in clinical NLP, especially multi-label classification.
-Understanding of medical terminologies, coding systems, and standards (e.g., ICD-10/11, SNOMED CT).
-Knowledge of regulatory requirements and their implications for developing AI/ML solutions in healthcare.
-Experience in popular fine-tuning libraries of LLMs: Hugging Face transformers, Unsloth
-Experience with cloud-based platforms (AWS, GCP, or Azure).
-
-Please refer to the position description for full details.
-
-Pre-employment checks required for this position:
-
-Verification of Qualifications
-
-UNSW Benefits and Culture 
-
-17% Superannuation and leave loading​ 
-Flexible working ​ 
-Additional 3 days of leave over the Christmas Period​ 
-Access to lifelong learning and career development ​ 
-Progressive HR practices​ 
-
-More information on the great staff benefits and culture can be found here.  
-
-How to apply:
-
-Please click on Apply now to apply online. Applications should not be sent to the contact listed below. Please provide a resume and a separate document addressing the skills and experience listed in the Position Description. A copy of the Position Description can be found on JOBS@UNSW.
-
-Interviews are expected to take place mid-January 2026 due to the UNSW shutdown (which is Dec 22nd - January 5th).
-
-Contact
-
-Frank McHenry, Talent Acquisition Associate
-
-E:  f.mchenry@unsw.edu.au    
-
-Applications close: Monday 15th December before 11.30pm Sydney time
-
-UNSW is committed to equity diversity and inclusion. Applications from women, people of culturally and linguistically diverse backgrounds, those living with disabilities, members of the LGBTIQ+ community; and people of Aboriginal and Torres Strait Islander descent, are encouraged. UNSW provides workplace adjustments for people with disability, and access to flexible work options for eligible staff. The University reserves the right not to proceed with any appointment."
-88859981,Senior Data Scientist,Sydney Water,https://www.seek.com.au/job/88859981?type=standard&ref=search-standalone&origin=jobCard#sol=6bb99d08855d0d9daf76f2c5848090657b54f594,9h ago,9.0,2025-11-30T23:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Water & Waste Engineering (Engineering),Full time,,"Why join us
-
-At Sydney Water, we’re passionate about making a difference to the lives of our customers and communities, and our employees. We have a proud heritage and a progressive future, providing world class drinking water and beautiful waterways from the mountains to the sea. Our people and their jobs are as diverse as the communities we serve.
-
-If you’re passionate about data science and want to influence how technology powers sustainability and innovation, this is your opportunity to make a lasting impact.
-
-Support Sydney Water’s AI/ML Transformation journey
-Facilitate complex data interpretation and improve business efficiency
-Permanent role, Parramatta location, with hybrid work arrangements available
-
-
-
-
-About the role
-
-In this role, you’ll be at the forefront of innovation—transforming how Sydney Water uses data. We’re moving beyond traditional reporting to deliver advanced analytics and actionable insights that drive smarter decisions for our growing city.
-
-As a key member of the team, you will:
-
-Lead the creation of Sydney Water’s AI/ML Centre of Excellence, setting the vision and building a community of practice.
-Champion best practices in AI/ML, acting as a trusted advisor and subject matter expert across the business.
-Shape enterprise-wide AI/ML initiatives, delivering impactful solutions that make a real difference.
-
-Key Responsibilities will include:
-
-Working with Data Architects and Data Engineers to source the data needed to build analytic model.
-Organising data into usable formats
-Building predictive models
-Building machine learning algorithms
-Enhancing the data collection process
-Processing, cleansing & verifying of data.
-Analysing data for trends and patterns and to find answers to specific questions.
-Generating information and insights from data sets and identifying trends and patterns
-Selecting appropriate datasets and data representation methods
-Defining, scoping, and planning data, information and analytics projects to meet business requirements.
-
-About you
-
-Degree qualifications in Data Science, Computer Science, Mathematics, or a similar field, or equivalent experience in Data Science field. Master’s degree qualifications will be highly regarded but are not essential.
-At least 2 years’ experience as a Data Scientist or similar role
-Good understanding of mathematics, probability, statistics, and algorithms
-Strong expertise and experience with data structures, data modelling and ETL process
-Experienced in generating information and insights from data sets and identifying trends and patterns
-Experience with data visualisation tools such as Microsoft Power BI or Tableau
-Good scripting and programming skills in Python, R, SQL
-
-Applicants must be Australian Citizens or Permanent Residents.
-
-Dive into Our Great Benefits: 
-
-Competitive Remuneration: We’ll ensure that your skills and contributions are valued and rewarded appropriately. 
-24/7 Wellbeing Support: Access for you and your family to free and confidential mental health and general health support through our EAP portal. 
-Discounted Private Health Insurance: Unlock affordable access to top-tier health coverage with our discounted insurance plans. 
-Fitness Passport: Achieve your physical fitness goals using our Fitness Passport, granting you access to a multitude of gyms and pools across NSW. 
-Novated Leasing: Get in the driver's seat of your financial future with our novated lease options. 
-
-Closing date: 14th Dec 2025
-
-For more information, or to request an accommodation information, you can contact sunil.nagarajan@sydneywater.com.au
-
-At Sydney Water, we are passionate about making a difference to the lives of our customers and communities. We have a proud heritage and progressive future providing world class drinking water and services that are vital to our customers’ quality of life and safeguarding Sydney’s future. We see the world is changing, so we are changing too. 
-
-Our vision is to create better lives through world-class services, and we believe that starts with our people. Our people and their jobs are as diverse as the communities we serve. Our diverse skills, mindsets and backgrounds work together on exciting and challenging projects that make a difference and help ensure Sydney remains one of the most iconic and liveable cities in the world.
-
-We welcome and encourage applications from diverse backgrounds, including First Nations people, LGBTQIA+ people, people with disability, people with caring responsibilities, people from culturally and linguistically diverse backgrounds, and veterans. 
-
-As part of the application process, Sydney Water will be collecting your personal information to assess your suitability for the role. We will also use your personal information to establish a LiveHire talent profile in our Talent Community. We look at our Talent Community first when new opportunities come up when you apply for a role. Your personal information will be collected in accordance with LiveHire’s Terms, Privacy Policy and Sydney Water’s Privacy Collection Statement – Job Application. Please see the position description for the role’s full accountabilities."
-88859315,Insights Solution Architect,CIRCANA (AU) PTY LTD,https://www.seek.com.au/job/88859315?type=standard&ref=search-standalone&origin=jobCard#sol=9c5754a1a44ed76af2219646c6da51a299b3f883,9h ago,9.0,2025-11-30T23:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Market Research & Analysis (Marketing & Communications),Full time,,"Let’s be unstoppable together!
-
-At Circana, we are fueled by our passion for continuous learning and growth, we seek and share feedback freely, and we celebrate victories both big and small in an environment that is flexible and accommodating to our work and personal lives.  We’re a global company dedicated to fostering inclusivity and belonging. We value and celebrate the unique experiences, cultures, and viewpoints that each individual brings. By embracing a wide range of backgrounds, skills, expertise, and beyond, we create a stronger, more innovative environment for our employees, clients, and communities. With us, you can always bring your full self to work.  Join our inclusive, committed team to be a challenger, own outcomes, and stay curious together.
-
-Circana is proud to be Certified™ by Great Place To Work®. This prestigious award is based entirely on what current employees say about their experience working at Circana.
-
-Learn more at www.circana.com.
-
-What will you be doing?
-
-Help us turn big questions into smart answers! We’re looking for a creative problem-solver who loves data, analytics, and AI. In this role, you’ll design Brainwaves; our new AI tool that transforms raw data into clear, actionable insights that help clients make better decisions, faster.
-
-If you’re passionate about innovation, thrive on solving complex business challenges, and want to shape how AI drives smarter strategies, this is your chance to make an impact.
-
-Job Responsibilities
-
-Design Brainwaves: You’ll be the creative force behind the next generation of Circana Brainwaves; building solutions that fuel our future growth and help clients make smarter decisions
-
-Translate complex problems: Turn complex and unstructured business challenges into clear, actionable processes that make decision-making faster and easier for our clients
-
-Leverage data and solutions: Tap into Circana’s rich data assets (and even client or third-party data) to design Brainwaves that answer the toughest business questions
-
-Deep Dive into Data: Analyse and interpret data from multiple sources to uncover insights that really matter, and use them to shape powerful Brainwaves
-
-Develop AI Prompts: Craft strong, effective prompts for our AI models so they deliver accurate, meaningful insights and recommendations that drive action
-
-Collaborate with stakeholders: Work closely with internal teams and clients to make sure every Brainwave design hits the mark and delivers real commercial value 
-
-Requirements
-
-7+ years experience in insights, with a strong background in data analysis and thought leadership, ideally gained in CPG or Retail industries
-
-In-depth familiarity with Circana tools, and experience creating Unify reports and designing impactful data visualisations
-
-Proven ability to leverage data in innovative ways to best solve client problems, including cause/effect analysis
-
-Willingness to embrace new technologies and a passion for leveraging innovative solutions to drive business value
-
-Proven ability to build strong relationships and earn trust with both internal and client stakeholders, positioning yourself as a credible and trusted advisor
-
-Proven track record of interacting with clients, understanding their needs, and delivering solutions that meet or exceed their expectations
-
-Excellent verbal and written communication skills, with the ability to articulate complex concepts in a clear and concise manner
-
-Preferred Requirements:
-
-Familiarity with Large Language Model capabilities: Some usage of LLM-based technologies, such as ChatGPT or other solutions that leverage generative artificial intelligence
-
-Ready to make an impact?
-
-If you're passionate about insights, thrive in a collaborative environment, and want to be part of a company that values your growth—we’d love to hear from you! Apply now and let’s build something great together.
-
-If you require accessibility support or would like to request reasonable adjustments during the recruitment process, we encourage you to reach out to us at accessibility@circana.com
-
-Prospective candidates may be asked to consent to background checks (in accordance with local legislation and our candidate privacy notice). Your current employer will not be contacted without your permission."
-88858903,ServiceNow SME,M&T Resources,https://www.seek.com.au/job/88858903?type=standard&ref=search-standalone&origin=jobCard#sol=e73790a47347e91bb5aa635734218de91b0e114b,10h ago,10.0,2025-11-30T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the role:
-Our client is seeking an experienced ServiceNow professional to drive technical excellence and governance across their DSO program.
-
-Location: Melbourne
-Daily rate: $800p.d. incl super 
-
-Roles & Responsibilities
-Provide technical consultations for Architects, BAs, BCLs, and Service+ program teams
-Conduct Out-of-the-Box vs Customisation Impact Assessments
-Deliver peer reviews and feedback on Architecture Solution Context and Epic acceptance criteria
-Lead DSO pre-PI planning for business epics, including impact assessment and bottom-up estimation
-Support DSO managers in planning tech debt and innovation epics
-Drive design governance, review, and acceptance during implementation
-Guide DSO pod teams with technical direction to resolve build/test issues
-Required skills and experience
-
-5+ years (7+ preferred) of hands-on ServiceNow development and upgrade experience
-Strong knowledge of ServiceNow best practices & methodologies (NowCreate, BusinessSmart customisation, Healthcheck metrics, ATF, Performance Troubleshooting)
-Skilled in stakeholder management across business, architects, and engineering teams
-A positive work attitude and true one-team mindset
-
-If this sounds like you—or someone in your network, please feel free to reach out to me on suniva.rego@mtr.com.au or contact me on 03 96433720 for a confidential discussion about the role."
+Write product or system development code.
+Participate in, or lead design reviews with peers and stakeholders to decide among available technologies.
+Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
