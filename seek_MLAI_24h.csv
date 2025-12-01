@@ -1,5 +1,114 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88884089,Embedded Systems Engineer x 3,TheDriveGroup,https://www.seek.com.au/job/88884089?type=standard&ref=search-standalone&origin=jobCard#sol=6bc7b538d0269af74f95538b959e885b306b3d99,1h ago,1.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Full time,$130k to $170k + super,"We’re on the lookout for a number of Embedded Systems Engineers to join a product development team in Sydney. Reporting to the Systems Engineering Manager, these roles offer the opportunity to make a direct impact in a niche, fast-growing defence technology sector.
+88884649,Data Solution Designer,Ambition,https://www.seek.com.au/job/88884649?type=standard&ref=search-standalone&origin=jobCard#sol=9fbe24d498a2569eef4d92c2008693ca4983c86e,1h ago,1.0,2025-12-01T22:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Contract/Temp,$700 - $750 p.d.,"Job Type: Contract (6 months likely extension)
+
+Salary: 750 per day
+
+We are seeking an experienced Data Solution Designer to lead our modern data platform, manage high-performing teams, and drive end-to-end delivery of enterprise analytics solutions. You will define strategy, implement scalable cloud-native data platforms, and partner with business & product teams to enable data-driven decision making.
+
+Key Responsibilities
+
+Define and deliver the enterprise Data & Analytics strategy, quarterly roadmaps, and long-term platform vision.
+Lead and mentor Analytics Engineers, Data Engineers, BI Developers and Analysts.
+Partner with Product, Marketing, Finance, and Tech teams to align data priorities.
+Drive governance, data quality, security, platform lifecycle management and FinOps optimisation.
+Own architecture & operations of Snowflake/GCP/AWS analytics platforms.
+Oversee ingestion pipelines, ELT/ETL development, modelling and analytics layer design.
+Implement DataOps, MLOps and Infrastructure-as-Code practices (Terraform).
+Ensure reliability, scalability, cost-efficiency of the full data stack.
+
+Key Skills & Experience
+
+Snowflake, BigQuery or AWS data platforms
+dbt (Core/Cloud), Fivetran, Segment
+Data Lake architecture (S3/GCS/ADLS)
+Streaming (Kafka, Pub/Sub)
+Terraform / IaC / GitOps
+Data modelling (star, vault, semantic models)
+Looker, Tableau or equivalent
+Experience enabling Data Science teams (Feature Stores, ML pipelines)"
+88884607,AWS Data Engineer,Ambition,https://www.seek.com.au/job/88884607?type=standard&ref=search-standalone&origin=jobCard#sol=ea5f083eb65cc38be2e71b8a1ab0c07dba52fc72,1h ago,1.0,2025-12-01T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$700 - $750 p.d.,"Location: Sydney (Hybrid)
+
+Type: Contract (6 months with potential extension)
+
+We are seeking an experienced Senior Data Engineer to design, develop, and optimise data pipelines and cloud-based platform components within a modern data ecosystem. This position blends hands-on technical delivery with leadership across data projects, enabling scalable and reusable data assets to support analytics, insights, and operational use cases.
+
+As a senior member of the Data Platform Engineering team, you'll help shape engineering standards, mentor junior engineers, and work closely with cross-functional teams to ensure solutions are high quality, performant, and production-ready.
+
+Key Responsibilities
+
+Design, build, and maintain reliable and efficient data pipelines using AWS services (Glue, Lambda, S3) and Snowflake
+Translate solution and modelling specifications into robust technical implementations
+Participate in design discussions, peer reviews, and contribute to code quality improvements
+Implement logging, monitoring, and error-handling features across all data pipelines
+Apply CI/CD best practices and collaborate with DevOps to automate build, test, and deployment workflows
+Develop solutions with scalability and reusability in mind
+Mentor junior engineers and contribute to documentation and team knowledge sharing
+Work with Data Ops teams to optimise performance and ensure deployment readiness
+Partner with Solution Designers and Data Modellers to deliver fit-for-purpose data assets
+Act as a technical liaison between engineering teams and broader project stakeholders
+
+Collaboration
+
+You'll work closely with:
+
+Solution Designers and Data Modellers to ensure alignment between design and delivery
+DevOps Engineers to implement CI/CD and deployment pipelines
+Data Ops and Test Engineers to support monitoring, troubleshooting, and validation processes
+Technical Leads and Managers to deliver scalable and maintainable data solutions
+
+Qualifications & Experience
+
+Essential:
+
+Bachelor's degree in Computer Science, Software Engineering, Data Engineering, or related field
+Strong SQL and Python skills
+Experience with data pipeline orchestration, transformation, and cloud-native tools (Snowflake, AWS Glue, Lambda, S3)
+Familiarity with CI/CD and version control practices
+5+ years' experience in data engineering or related development roles
+Proven ability to deliver end-to-end data solutions in cloud environments
+Demonstrated leadership across data delivery workstreams
+
+Desirable:
+
+Snowflake and/or AWS certifications
+Exposure to data quality frameworks or tools such as dbt or Great Expectations
+Experience building modular and reusable data frameworks
+Background in public sector, insurance, or regulated industries
+Familiarity with real-time or machine learning data workflows
+Experience working within Agile delivery environments"
+88884358,Embedded Software Engineer,TheDriveGroup,https://www.seek.com.au/job/88884358?type=standard&ref=search-standalone&origin=jobCard#sol=5cc3297ff250485c23f476fe00c95d565e40de13,1h ago,1.0,2025-12-01T22:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,$160k to $180k + super,"We’re looking for a talented and driven Embedded Software Engineer to help build, scale, and support complex sensor systems operating in real-world environments. In this role, you’ll design and implement embedded software that runs on Linux-based systems, contributing to projects that push the boundaries of real-time data processing, RF signal detection, and automated response.
+  
+You’ll work closely with teams spanning AI/ML, data science, hardware engineering, and cloud infrastructure to create robust solutions capable of handling mission-critical workloads. The software you build will directly support applications in security, defence, and remote surveillance.
+
+What You’ll Be Doing
+
+Develop and maintain embedded software features on Linux-based edge systems
+Collaborate across disciplines to meet operational and performance requirements
+Ensure code is designed for resource-constrained, high-uptime environments
+Implement features using modern C++ and Python, depending on project needs
+Participate in software design discussions, code reviews, and performance tuning
+Work on inter-process communication mechanisms for modular, scalable architectures
+Create and maintain high-quality technical documentation for implemented components
+Contribute to the continuous integration pipeline and system testing frameworks
+Support system monitoring, logging, and observability in production deployments
+Engage with DevOps and infrastructure specialists to improve deployment workflows
+Your Background
+
+Degree in Computer Science, Software Engineering, or a related technical field
+Proven experience developing applications in modern C++ 
+Strong understanding of Linux development (embedded Linux preferred)
+Familiarity with multi-process systems and IPC mechanisms
+Exposure to Docker, Git, CI/CD pipelines (e.g., GitLab), and versioning tools
+Experience with design patterns, testing, and scalable software architecture
+Bonus Points For
+
+Knowledge of concurrency, performance optimisation, or low-latency systems
+Hands-on experience with Go programming
+Background in machine learning, RF signal processing, or DSP
+Exposure to FPGA, sensor integration, or systems running in remote deployments
+Understanding of DevOps practices, including observability and automated deployments
+Interested candidates should click Apply and send through their details, or you can email me at farid@thedrivegroup.com.au for more info or call me on 0435777965!"
+88884089,Embedded Systems Engineer x 3,TheDriveGroup,https://www.seek.com.au/job/88884089?type=standard&ref=search-standalone&origin=jobCard#sol=dd77abf111e513069349624343bb5a6af3499cb2,2h ago,2.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Full time,$130k to $170k + super,"We’re on the lookout for a number of Embedded Systems Engineers to join a product development team in Sydney. Reporting to the Systems Engineering Manager, these roles offer the opportunity to make a direct impact in a niche, fast-growing defence technology sector.
   
 You’ll be at the heart of developing current and next-generation products, bridging the gap between stakeholder needs and engineering outcomes. This means gathering, analysing, and managing requirements, ensuring complex systems come together seamlessly, and empowering development teams to work towards common goals. If you thrive on autonomy, responsibility, and collaboration, this role is for you.
   
@@ -29,7 +138,7 @@ Experience conducting product demonstrations, gathering end-user feedback, or su
 This is a fantastic opportunity for systems-minded engineers ready to take on a diverse, high-impact role within a company at the forefront of counter-threat and autonomous system technologies.
 
 For more info you can contact me at farid@thedrivegroup.com.au or click Apply and send through your details and I'll be in touch!"
-88884024,Infrastructure Engineer,TheDriveGroup,https://www.seek.com.au/job/88884024?type=standard&ref=search-standalone&origin=jobCard#sol=7382cda92a0dd7e90c4dc99f978ef459d0e9367f,1h ago,1.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$160k + super,"We’re looking for a Senior Infrastructure Engineer with extensive experience running Kubernetes at scale to join the team as they build out a market-first K8s cluster running on top of globally distributed data centers. 
+88884024,Infrastructure Engineer,TheDriveGroup,https://www.seek.com.au/job/88884024?type=standard&ref=search-standalone&origin=jobCard#sol=1ff435e0e9150a3e92051dc37cb7a4d84987b9aa,2h ago,2.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$160k + super,"We’re looking for a Senior Infrastructure Engineer with extensive experience running Kubernetes at scale to join the team as they build out a market-first K8s cluster running on top of globally distributed data centers. 
 
 This rapidly growing organization is at the forefront of developing technologies to counter the increasing use of drones for nefarious purposes, including battlefield scenarios, terrorism, contraband delivery, and commercial espionage. The company is poised for significant growth in the coming years with a substantial team based in their Sydney headquarters and a global presence in the USA, Europe, and the Middle East.
 
@@ -51,7 +160,7 @@ Expertise in configuration management tools such as Ansible, Puppet, or Chef
 Strong experience with AWS
 Solid understanding of networking and security
 Interested candidates are encouraged to apply promptly. Or you can email me at farid@thedrivegroup.com.au for more details."
-88883593,Algorithms Team Lead,TheDriveGroup,https://www.seek.com.au/job/88883593?type=standard&ref=search-standalone&origin=jobCard#sol=91f4926805c46ea9120593eb44e6beee85c8da49,1h ago,1.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200k + super,"A global leader in defence technology is seeking an Algorithms Team Lead to head its core algorithms group in Sydney. This team develops the intelligence behind advanced detection and electronic warfare systems, digital signal processing, and software engineering to deliver breakthrough performance in real-world environments.
+88883593,Algorithms Team Lead,TheDriveGroup,https://www.seek.com.au/job/88883593?type=standard&ref=search-standalone&origin=jobCard#sol=68b3413823f9b34394f204eacbd8657a597861c2,2h ago,2.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200k + super,"A global leader in defence technology is seeking an Algorithms Team Lead to head its core algorithms group in Sydney. This team develops the intelligence behind advanced detection and electronic warfare systems, digital signal processing, and software engineering to deliver breakthrough performance in real-world environments.
   
 Reporting to senior engineering leadership, this position is equal parts technical strategy, people leadership, and execution. The successful candidate will define the vision for algorithmic innovation, drive delivery across complex projects, and mentor a high-performing team of engineers and scientists.
   
@@ -81,7 +190,7 @@ Ideal Candidate
 You’re an engineering leader who thrives on solving complex technical problems and bringing ideas to life through collaboration. You stay ahead of emerging trends in AI and signal processing, and you know how to turn theory into deployed capability. You lead by example, mentor others, and take pride in building systems that make a tangible difference.
   
 For more info, you can either apply here, or contact me on 0435777965 or farid@thedrivegroup.com.au"
-88882853,Senior Data Engineer,CGI,https://www.seek.com.au/job/88882853?type=standard&ref=search-standalone&origin=jobCard#sol=fef4f002d7abdafe545a72f159c83b22c47938ea,3h ago,3.0,2025-12-01T19:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Position Description:
+88882853,Senior Data Engineer,CGI,https://www.seek.com.au/job/88882853?type=standard&ref=search-standalone&origin=jobCard#sol=f388050e21b2b286334e27421851bcebeadae53b,4h ago,4.0,2025-12-01T19:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Position Description:
 
 
 Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
@@ -141,7 +250,7 @@ Your work creates value. You’ll develop innovative solutions and build relatio
 You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
 
 Come join our team—one of the largest IT and business consulting services firms in the world."
-88882851,Data Engineer,CGI,https://www.seek.com.au/job/88882851?type=standard&ref=search-standalone&origin=jobCard#sol=ac009a4c2471714bcbbbb4d2d07571d24754c72d,3h ago,3.0,2025-12-01T19:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position Description:
+88882851,Data Engineer,CGI,https://www.seek.com.au/job/88882851?type=standard&ref=search-standalone&origin=jobCard#sol=1e40f6b10d6aed95f721081534abb37095106346,4h ago,4.0,2025-12-01T19:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position Description:
 
 
 Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
@@ -207,7 +316,7 @@ Your work creates value. You’ll develop innovative solutions and build relatio
 You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
 
 Come join our team—one of the largest IT and business consulting services firms in the world."
-88881763,"Software Engineer, Google Photos",Google,https://www.seek.com.au/job/88881763?type=standard&ref=search-standalone&origin=jobCard#sol=ada905c9d8e389825d3a8bf392d9598906c189e4,9h ago,9.0,2025-12-01T13:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"Applicants to this role must have work authorization in Australia as this role is not eligible for work visa sponsorship.
+88881763,"Software Engineer, Google Photos",Google,https://www.seek.com.au/job/88881763?type=standard&ref=search-standalone&origin=jobCard#sol=4231474e9e00dafa604daf2b9a393e33460d2df6,10h ago,10.0,2025-12-01T13:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"Applicants to this role must have work authorization in Australia as this role is not eligible for work visa sponsorship.
 
 Minimum qualifications:
 
