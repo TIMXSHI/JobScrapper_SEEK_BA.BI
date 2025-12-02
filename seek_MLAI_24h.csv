@@ -1,5 +1,109 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88898068,AWS Cloud Engineers,Ignite,https://www.seek.com.au/job/88898068?type=standard&ref=search-standalone&origin=jobCard#sol=40dd8c5bd96cef61279e7d49f618934884f2e42a,1h ago,1.0,2025-12-02T05:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive,"I'm working with a large Federal Government department to find multiple AWS Cloud Engineers.
+88899283,AI Engineering Lead,Virgin Australia,https://www.seek.com.au/job/88899283?type=standard&ref=search-standalone&origin=jobCard#sol=ebd5649280a36c9c98b9e240f92e0189e129bd10,1h ago,1.0,2025-12-02T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+
+What you’ll be doing:
+
+You’ll be at the forefront of shaping how AI transforms our business. In this role, you’ll take ideas from concept to reality partnering with stakeholders to uncover opportunities designing intelligent systems that solve complex problems and building solutions that scale. From architecting non-deterministic systems to crafting the “last mile” of data science and engineering, you’ll work across the full stack and lifecycle. You’ll also lead the integration and operation of advanced AI models, including LLMs and agents, ensuring they deliver real impact in commercial environments. 
+
+You’ll be great in this role if you:
+
+Hold a Bachelor’s degree or higher in Computer Science, Software Engineering or Data Science or have equivalent applied experience
+Have completed AI systems design courses or specialisations (e.g., deeplearning.ai, fast.ai)
+Bring 5+ years of experience designing, building and operating production-grade AI systems
+Have 2+ years of experience leading engineering teams
+Delivered hands on solutions with LLMs and agentic systems (RAG, tool/function calling, planning)
+Implemented MLOps/LLMOps practices: CI/CD for models/prompts, registries, automated evaluations, observability
+Worked cross functionally with Product, Engineering, Security, Legal/Privacy and Operations teams.
+Are fluent in Python and frameworks like FastAPI / FastMCP
+Have experience with LangGraph / LangChain, Databricks, pgvector, and AWS Cognitive Search (or equivalents)
+Understand advanced RAG techniques, retrieval strategies, context packing, tool orchestration, safety/guardrails
+Know observability practices (metrics, logs, traces) and security/privacy fundamentals (IAM, secrets, network isolation, PII handling)
+Thrive in Agile delivery environments owning roadmaps, estimation and stakeholder communication across technical and executive audiences
+
+It’s even better if you also:
+
+Hold certifications in AWS, Databricks, Kubernetes, Terraform/IaC, security or Responsible AI
+Have deployed AI solutions on AWS and Databricks (including MLflow/Mosaic)
+Bring experience in airline/travel operations or high-growth tech environments
+Understand optimisation, operations research, reinforcement learning or simulation
+Are familiar with React, TypeScript, experimentation platforms, A/B testing and causal inference at scale
+Know FinOps strategies for managing model/LLM usage efficiently
+Understand agent-based architectures, embeddings and vector databases
+Apply MLOps/LLMOps patterns like CI/CD, registries, automated evaluations and canary/shadow deployments
+Have knowledge of AWS cloud concepts for secure, scalable AI workloads
+Follow software engineering best practices: testing strategies, CI/CD, code health, design reviews
+Understand modern data lakehouse patterns and event-streaming concepts
+Stay informed on Responsible AI, safety patterns, model governance and privacy law/data residency considerations
+
+What you’ll get from us:
+
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
+
+Heavily discounted air travel for you and your loved ones (including $1000 worth of travel credits per year)
+Flexible working arrangements (including work hours and work from home)
+Discounts on travel insurance, car hire, accommodation and experiences worldwide
+Discounted Virgin Australia Lounge membership
+Hospitality, retail, technology, beauty services and wellness discounts
+Wellness support, including the Converge digital wellbeing platform
+A comprehensive Employee Assistance Program, which offers confidential coaching and support from qualified professionals for all aspects of life – physical, mental, social and financial
+Dress for Your Day – enjoy the freedom to wear whatever is appropriate for the type of work you do and the day you have ahead of you
+
+Equality rules:
+
+We’re all individuals. We love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
+
+Ready to apply? We’re ready to hear from you. Apply now."
+88898702,Senior AI Engineer,Virgin Australia,https://www.seek.com.au/job/88898702?type=standard&ref=search-standalone&origin=jobCard#sol=7e60144fc80fe7f3f61cf64f84b8a65e0d57fd47,1h ago,1.0,2025-12-02T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+
+What you’ll be doing:
+
+You’ll harness the power of Artificial Intelligence to enhance customer experiences, optimise operations for efficiency and reliability, uphold safety standards and enable our people to perform at their best. As an Senior AI Engineer you’ll bring hands on expertise in applied AI and full stack software engineering to design and deliver innovative solutions that make a real impact.
+
+You’ll be great in this role if you:
+
+Hold a Bachelor’s degree or higher in Computer Science, Software Engineering, Data Science or have equivalent applied experience
+Have completed AI systems design courses or specialisations (e.g., deeplearning.ai, fast.ai)
+Bring 3+ years of experience developing production-grade AI systems
+Have hands-on experience with LLMs and agentic systems (e.g., RAG, tool/function calling, planning)
+Thrive in cross-functional delivery with Product, Engineering, Security, Legal/Privacy and Operations teams.
+Are skilled in Python, FastAPI/FastMCP, and React + TypeScript
+Understand advanced RAG techniques, including retrieval strategies, context packing, tool orchestration and safety/guardrails
+Know your way around Databricks, pgvector, AWS Cognitive Search (or equivalents)
+Apply strong fundamentals in security and privacy (IAM, secrets, network isolation, PII handling, auditability)
+Communicate effectively across technical and executive audiences with experience in Agile delivery and roadmap ownership
+Have deep knowledge of agent based architectures, embeddings and vector databases
+Understand MLOps/LLMOps patterns (CI/CD, registries, automated evaluations, feature stores, canary/shadow deployments)
+Are familiar with AWS cloud concepts for secure, scalable AI workloads and software engineering best practices (testing, CI/CD, code health)
+
+It’s also a big plus if you…
+
+Love experimenting with cutting edge AI frameworks like LangGraph or LangChain
+Have deployed scalable AI solutions in the cloud and know your way around AWS or Databricks
+Bring industry insight from aviation, travel or other complex operational environments
+Thrive in fast paced, high-growth tech settings and enjoy solving big messy problems
+Have a knack for optimisation and simulation techniques to make systems smarter and more efficient
+Are passionate about data driven experimentation, A/B testing and causal inference at scale
+Stay curious about modern data architectures, event streaming and emerging AI patterns
+
+What you’ll get from us:
+
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
+
+Heavily discounted air travel for you and your loved ones (including $1000 worth of travel credits per year)
+Flexible working arrangements (including work hours and work from home)
+Discounts on travel insurance, car hire, accommodation and experiences worldwide
+Discounted Virgin Australia Lounge membership
+Hospitality, retail, technology, beauty services and wellness discounts
+Wellness support, including the Converge digital wellbeing platform
+A comprehensive Employee Assistance Program, which offers confidential coaching and support from qualified professionals for all aspects of life – physical, mental, social and financial
+Dress for Your Day – enjoy the freedom to wear whatever is appropriate for the type of work you do and the day you have ahead of you
+
+Equality rules:
+
+We’re all individuals. We love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
+
+Ready to apply? We’re ready to hear from you. Apply now."
+88898068,AWS Cloud Engineers,Ignite,https://www.seek.com.au/job/88898068?type=standard&ref=search-standalone&origin=jobCard#sol=8237f30c06ba31d5dc45f0d59ac09244153ba374,1h ago,1.0,2025-12-02T06:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive,"I'm working with a large Federal Government department to find multiple AWS Cloud Engineers.
 
 These are initial 12 month contracts with 2 x 12 month extension options. 
 
@@ -41,7 +145,7 @@ If this position sounds of interest to you, please APPLY NOW! For more informati
 
 
 Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
-88897320,AI Engineers,Ignite,https://www.seek.com.au/job/88897320?type=standard&ref=search-standalone&origin=jobCard#sol=d92537031aeed2b0c7f3b6338c1315ea0f5d4c1c,1h ago,1.0,2025-12-02T05:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Contract/Temp,Competitive,"AI Engineers
+88897320,AI Engineers,Ignite,https://www.seek.com.au/job/88897320?type=standard&ref=search-standalone&origin=jobCard#sol=950181584f9bf21a24b9e1416c33f9b09a4383fc,2h ago,2.0,2025-12-02T05:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Contract/Temp,Competitive,"AI Engineers
 Contract: 12 Months + extension option
 Location: Brisbane, Adelaide, Canberra, Melbourne and Sydney
 Security Clearance: Baseline
@@ -99,7 +203,7 @@ If you’re interested in discussing this opportunity further, please reach out 
 
 
 Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
-88897003,AI Team Leader,Flight Centre Travel Group,https://www.seek.com.au/job/88897003?type=standard&ref=search-standalone&origin=jobCard#sol=a6ad99fd3b7bec2bf9eaec6ff0765e85ac416098,1h ago,1.0,2025-12-02T05:00:00+00:00,"South Bank, Brisbane QLD",Team Leaders (Information & Communication Technology),Full time,,"We’re looking for a strategic and hands on AI Technical Leader to drive the design, development, and deployment of advanced AI and machine learning solutions across our organisation. This role is central to shaping our AI strategy, setting technical direction, and leading a team of engineers and data scientists in delivering scalable, production grade solutions.
+88897003,AI Team Leader,Flight Centre Travel Group,https://www.seek.com.au/job/88897003?type=standard&ref=search-standalone&origin=jobCard#sol=0e5d375f8b830c7a651a9c61bc627d285bbdefea,2h ago,2.0,2025-12-02T05:00:00+00:00,"South Bank, Brisbane QLD",Team Leaders (Information & Communication Technology),Full time,,"We’re looking for a strategic and hands on AI Technical Leader to drive the design, development, and deployment of advanced AI and machine learning solutions across our organisation. This role is central to shaping our AI strategy, setting technical direction, and leading a team of engineers and data scientists in delivering scalable, production grade solutions.
 
 You’ll play a pivotal role in guiding the implementation of Azure AI services, Databricks, and modern MLOps practices to support high-impact use cases across the business. This is a leadership role for someone who thrives at the intersection of AI innovation, engineering excellence, and practical business outcomes.
 
@@ -167,7 +271,7 @@ What you'll Enjoy:
 🙏🏼 Giving Back: Corporate Social Responsibility program supporting nominated charities through Workplace Giving, volunteering and fundraising; paid parental and volunteer leave
 
 💚Sustainability: The protection of our environment is essential to the future of tourism, as a leading travel group, we have made efforts to affect positive change to the environment"
-88896954,Full-Stack Data Engineer,Makita (Australia) Pty Ltd,https://www.seek.com.au/job/88896954?type=standard&ref=search-standalone&origin=jobCard#sol=e44c7f7482fd4448d042a5920c9fa1ef684028f4,1h ago,1.0,2025-12-02T05:00:00+00:00,"Pemulwuy, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"Build your future with Makita Australia!
+88896954,Full-Stack Data Engineer,Makita (Australia) Pty Ltd,https://www.seek.com.au/job/88896954?type=standard&ref=search-standalone&origin=jobCard#sol=5197741ac5cb047503e15d7a716ba063b039bbfd,2h ago,2.0,2025-12-02T05:00:00+00:00,"Pemulwuy, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"Build your future with Makita Australia!
 
 Location: Pemulwuy Sydney, NSW
 Full-time | Permanent Role | Great Company Perks
@@ -243,7 +347,7 @@ Successful candidates will be required to complete pre-employment checks such a
 All personal information received by us from you or about you will be stored, used and disclosed by us in accordance with our privacy policy, a copy of which can be found at www.makita.com.au/Company/privacy-policy.
 
 To all recruitment agencies: Makita does not accept agency resumes. Please do not forward resumes to our jobs alias, Makita employees or any other company location. Makita is not responsible for any fees related to unsolicited resumes."
-88896725,Founding Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88896725?type=standard&ref=search-standalone&origin=jobCard#sol=f8fe8f7be161b4e5fc9d91905f8fa4edfdc30ee2,1h ago,1.0,2025-12-02T05:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,Open to discussion,"Founding Engineer - North Sydney (Onsite, 5 days/week)
+88896725,Founding Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88896725?type=standard&ref=search-standalone&origin=jobCard#sol=86211bdb7114ded2a5851c3e366da7f32b4bdf5a,2h ago,2.0,2025-12-02T05:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,Open to discussion,"Founding Engineer - North Sydney (Onsite, 5 days/week)
 
 Talent International is partnering with a leading, hyper-growth AI company to hire their next Founding Engineer.
 
@@ -337,7 +441,7 @@ Think beyond TikTok/YouTube: this is entertainment that responds in real time.
 If this sounds like you, apply now.
 
 This is a career-defining opportunity to build at the frontier of AI with one of the most exciting engineering teams in Australia."
-88896631,Senior Algorithms Engineer,TheDriveGroup,https://www.seek.com.au/job/88896631?type=standard&ref=search-standalone&origin=jobCard#sol=4ecdc9b35613913999fbf5680ebf0cd129eaaf4e,2h ago,2.0,2025-12-02T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k + super,"A new opportunity is open for a Senior Algorithm Engineer to join a high-performance development team working on real-time RF and AI-based sensing systems. This role is ideal for an experienced engineer who enjoys turning advanced theory into practical solutions that operate at the edge.
+88896631,Senior Algorithms Engineer,TheDriveGroup,https://www.seek.com.au/job/88896631?type=standard&ref=search-standalone&origin=jobCard#sol=0ee152a4e3c96f2fb0893a16708dd258cd2ecffe,2h ago,2.0,2025-12-02T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k + super,"A new opportunity is open for a Senior Algorithm Engineer to join a high-performance development team working on real-time RF and AI-based sensing systems. This role is ideal for an experienced engineer who enjoys turning advanced theory into practical solutions that operate at the edge.
   
 The role involves designing, integrating, and optimising complex algorithms to power intelligent sensor platforms deployed in operational environments. It requires deep collaboration with software engineers, systems designers, and UI developers to ensure algorithmic outputs are both efficient and actionable.
 
@@ -370,7 +474,7 @@ A hands-on mindset and motivation to contribute in a fast-paced, mission-driven 
 This is a unique opportunity to work at the intersection of advanced analytics, signal intelligence, and real-time systems, with tangible impact across defence, surveillance, and security domains.
 
 For more info, feel free to contact me at farid@thedrivegroup.com.au or click Apply to send through your details and I'll be in touch."
-88894733,AI Solutions Engineer,oOh!,https://www.seek.com.au/job/88894733?type=standard&ref=search-standalone&origin=jobCard#sol=6ab8d32b385816d37e7dd167512e2ca0972fbc13,2h ago,2.0,2025-12-02T04:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"We are oOh!media (pronounced “oh!” media). 
+88894733,AI Solutions Engineer,oOh!,https://www.seek.com.au/job/88894733?type=standard&ref=search-standalone&origin=jobCard#sol=e258c99f1b1e5a72869e28127e04b5b1793af113,3h ago,3.0,2025-12-02T04:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"We are oOh!media (pronounced “oh!” media). 
 
 oOh!media is the #1 Out of Home company in Australia and New Zealand.  
 
@@ -429,7 +533,7 @@ If you’re curious, ready for a unique challenge, and want to make a real impac
 At oOh!, we celebrate diversity and strive for an inclusive environment. We welcome applications from all backgrounds, including Aboriginal and Torres Strait Islander peoples, people with disabilities, LGBTQIA+ individuals, and refugees. 
 
 To be considered, applicants must be Australian citizens or permanent residents with full working rights in Australia, and all offers of employment are subject to employer-funded pre-employment checks including police, reference, and work rights verification, with additional checks such as credit, bankruptcy, drug and alcohol screening, or driver’s licence verification required for some roles."
-88893921,APS6 Data Analytics Engineer,Australian Institute of Health and Welfare,https://www.seek.com.au/job/88893921?type=standard&ref=search-standalone&origin=jobCard#sol=77cdfd354c90b379c533f97ac52c5454e657cc34,3h ago,3.0,2025-12-02T03:00:00+00:00,Sydney NSW,Government - Federal (Government & Defence),Full time,"$97,702 - $108,007 plus 15.4% superannuation","The AIHW’s APS employee census results attest to our positive and supportive workplace culture. We are an inclusive, flexible, and productive workplace where people are treated with respect and courtesy, and diverse and unique attributes are recognised and valued. Our results also show that we achieved top ten rankings in staff engagement, communication, wellbeing and SES manager scales out of 107 APS agencies.
+88893921,APS6 Data Analytics Engineer,Australian Institute of Health and Welfare,https://www.seek.com.au/job/88893921?type=standard&ref=search-standalone&origin=jobCard#sol=39c3adc3c2356c2d305ca6308e56e123d8cd5261,3h ago,3.0,2025-12-02T04:00:00+00:00,Sydney NSW,Government - Federal (Government & Defence),Full time,"$97,702 - $108,007 plus 15.4% superannuation","The AIHW’s APS employee census results attest to our positive and supportive workplace culture. We are an inclusive, flexible, and productive workplace where people are treated with respect and courtesy, and diverse and unique attributes are recognised and valued. Our results also show that we achieved top ten rankings in staff engagement, communication, wellbeing and SES manager scales out of 107 APS agencies.
 
 We offer a range of benefits including:
 
@@ -467,7 +571,7 @@ Your application must include:
 A summary of your relevant skills and experience and explain why you would be the best person for
 the role. Your response should align with the position summary and selection criteria information above, and must be no more than 750 words.
 Your current CV and the names of two referees"
-88888494,Integration Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88888494?type=standard&ref=search-standalone&origin=jobCard#sol=3891c575d221a4dc5c0f341186ee8fe044989665,5h ago,5.0,2025-12-02T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,Competitive Salary + Great everyday discounts,"About us:
+88888494,Integration Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88888494?type=standard&ref=search-standalone&origin=jobCard#sol=c07ad2cb3b67971fbd614e3a941b85a200d1005d,6h ago,6.0,2025-12-02T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,Competitive Salary + Great everyday discounts,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -539,7 +643,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-88886412,Verification & Validation Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88886412?type=standard&ref=search-standalone&origin=jobCard#sol=c2dd95b4189337634d333a8d4715c6852256e1bd,6h ago,6.0,2025-12-02T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us:
+88886412,Verification & Validation Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88886412?type=standard&ref=search-standalone&origin=jobCard#sol=5c3676c7fbd0a7862582789313ccc1b32d7ddf47,7h ago,7.0,2025-12-02T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -613,7 +717,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-88886293,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/88886293?type=standard&ref=search-standalone&origin=jobCard#sol=1e2ea01152df58aed103500e740f6e59ed4aa586,6h ago,6.0,2025-12-02T00:00:00+00:00,Melbourne VIC (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. We’ve helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business - responsibly and at speed.
+88886293,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/88886293?type=standard&ref=search-standalone&origin=jobCard#sol=f13ca268cabeed47fc09c2dfdbf58bfb12b36088,7h ago,7.0,2025-12-02T00:00:00+00:00,Melbourne VIC (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. We’ve helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business - responsibly and at speed.
 
 But we’re just getting started. As we move into our next phase of growth, we’re looking for consultants who don’t just want to deliver great solutions - but help shape the future of data and AI capability across Australia.
 
@@ -675,7 +779,7 @@ Many socials and community groups
 Opportunity to drive projects that are of interest to you!
 
 You’ll work with a team that’s smart, kind, and ambitious. You’ll have real influence in your projects, your practice, and our business. And as we grow, so will you."
-88886276,AI Cloud Engineer,PRA,https://www.seek.com.au/job/88886276?type=standard&ref=search-standalone&origin=jobCard#sol=2746ce296380859e5e04b4e9f1f2b1bfea6be983,6h ago,6.0,2025-12-02T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,N,"AI + Cloud Engineer (12-Month Contract)
+88886276,AI Cloud Engineer,PRA,https://www.seek.com.au/job/88886276?type=standard&ref=search-standalone&origin=jobCard#sol=a3302da1aa0ea1a7e28177a430fe59ca1891056e,7h ago,7.0,2025-12-02T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,N,"AI + Cloud Engineer (12-Month Contract)
 
 Lead the build of enterprise-scale Generative AI solutions
 
@@ -706,7 +810,7 @@ Competitive rates + cutting-edge tech + real enterprise scale.
 If this sounds like you and you would like to hear more please APPLY below or email your CV to greg.perl@pra.com.au
 
 Australian working rights will ONLY be considered."
-88885922,"Azure Data Engineer - Data factory, Data modelling, Azure data services DevOps",Infinity Pro,https://www.seek.com.au/job/88885922?type=standard&ref=search-standalone&origin=jobCard#sol=850ae205c13c3c93b7984b6816b0af0218b8f86a,7h ago,7.0,2025-12-01T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,"$1000 to $1,200 per day - WFH Hybrid","Great Rates $1000 to $1,200 per day;
+88885922,"Azure Data Engineer - Data factory, Data modelling, Azure data services DevOps",Infinity Pro,https://www.seek.com.au/job/88885922?type=standard&ref=search-standalone&origin=jobCard#sol=cda8b47ed797c7607224bfdbf47694dbbeb4b9b3,8h ago,8.0,2025-12-01T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,"$1000 to $1,200 per day - WFH Hybrid","Great Rates $1000 to $1,200 per day;
 Initial Till end of June 2026 with strong prospect of renewal;
 Well-funded Contract with View for long Extension;
 Key position within Cybersecurity Delivery;
@@ -758,7 +862,7 @@ High-impact, enterprise-wide projects
 Best method to apply is using the application button on this advert. We can be contacted on (02) 9687 1025 for a confidential discussion but please ensure the resume has been sent.
   
 Please ensure all documents are sent in Microsoft word format."
-88884649,Data Solution Designer,Ambition,https://www.seek.com.au/job/88884649?type=standard&ref=search-standalone&origin=jobCard#sol=bb53273e78eb18138d2aa39b992d7ce5e3bc567a,8h ago,8.0,2025-12-01T22:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Contract/Temp,$700 - $750 p.d.,"Job Type: Contract (6 months likely extension)
+88884649,Data Solution Designer,Ambition,https://www.seek.com.au/job/88884649?type=standard&ref=search-standalone&origin=jobCard#sol=75f0d8b5190b8c0a0d437c529964352dda989cdb,9h ago,9.0,2025-12-01T22:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Contract/Temp,$700 - $750 p.d.,"Job Type: Contract (6 months likely extension)
 
 Salary: 750 per day
 
@@ -785,7 +889,7 @@ Terraform / IaC / GitOps
 Data modelling (star, vault, semantic models)
 Looker, Tableau or equivalent
 Experience enabling Data Science teams (Feature Stores, ML pipelines)"
-88884607,AWS Data Engineer,Ambition,https://www.seek.com.au/job/88884607?type=standard&ref=search-standalone&origin=jobCard#sol=f6e798c8671003313808a5d5a6a3caaeef2d8849,8h ago,8.0,2025-12-01T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$700 - $750 p.d.,"Location: Sydney (Hybrid)
+88884607,AWS Data Engineer,Ambition,https://www.seek.com.au/job/88884607?type=standard&ref=search-standalone&origin=jobCard#sol=be1f59a3edddc95908710f7c359bd22b98f9cf68,9h ago,9.0,2025-12-01T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$700 - $750 p.d.,"Location: Sydney (Hybrid)
 
 Type: Contract (6 months with potential extension)
 
@@ -835,7 +939,7 @@ Experience building modular and reusable data frameworks
 Background in public sector, insurance, or regulated industries
 Familiarity with real-time or machine learning data workflows
 Experience working within Agile delivery environments"
-88884358,Embedded Software Engineer,TheDriveGroup,https://www.seek.com.au/job/88884358?type=standard&ref=search-standalone&origin=jobCard#sol=8f1d3e5db4d8bc9083c38f030d72eeb459ec5f6a,9h ago,9.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,$160k to $180k + super,"We’re looking for a talented and driven Embedded Software Engineer to help build, scale, and support complex sensor systems operating in real-world environments. In this role, you’ll design and implement embedded software that runs on Linux-based systems, contributing to projects that push the boundaries of real-time data processing, RF signal detection, and automated response.
+88884358,Embedded Software Engineer,TheDriveGroup,https://www.seek.com.au/job/88884358?type=standard&ref=search-standalone&origin=jobCard#sol=9de86d82706501ea63b508b1bb5f41e61460f467,9h ago,9.0,2025-12-01T22:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,$160k to $180k + super,"We’re looking for a talented and driven Embedded Software Engineer to help build, scale, and support complex sensor systems operating in real-world environments. In this role, you’ll design and implement embedded software that runs on Linux-based systems, contributing to projects that push the boundaries of real-time data processing, RF signal detection, and automated response.
   
 You’ll work closely with teams spanning AI/ML, data science, hardware engineering, and cloud infrastructure to create robust solutions capable of handling mission-critical workloads. The software you build will directly support applications in security, defence, and remote surveillance.
 
@@ -867,7 +971,7 @@ Background in machine learning, RF signal processing, or DSP
 Exposure to FPGA, sensor integration, or systems running in remote deployments
 Understanding of DevOps practices, including observability and automated deployments
 Interested candidates should click Apply and send through their details, or you can email me at farid@thedrivegroup.com.au for more info or call me on 0435777965!"
-88884089,Embedded Systems Engineer x 3,TheDriveGroup,https://www.seek.com.au/job/88884089?type=standard&ref=search-standalone&origin=jobCard#sol=a73b3babe43d8f85e13b6dd086b848fe70f6888e,9h ago,9.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Full time,$130k to $170k + super,"We’re on the lookout for a number of Embedded Systems Engineers to join a product development team in Sydney. Reporting to the Systems Engineering Manager, these roles offer the opportunity to make a direct impact in a niche, fast-growing defence technology sector.
+88884089,Embedded Systems Engineer x 3,TheDriveGroup,https://www.seek.com.au/job/88884089?type=standard&ref=search-standalone&origin=jobCard#sol=7450a2fb9674f006e4f7c49d8a0a7b447607ad43,10h ago,10.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Full time,$130k to $170k + super,"We’re on the lookout for a number of Embedded Systems Engineers to join a product development team in Sydney. Reporting to the Systems Engineering Manager, these roles offer the opportunity to make a direct impact in a niche, fast-growing defence technology sector.
   
 You’ll be at the heart of developing current and next-generation products, bridging the gap between stakeholder needs and engineering outcomes. This means gathering, analysing, and managing requirements, ensuring complex systems come together seamlessly, and empowering development teams to work towards common goals. If you thrive on autonomy, responsibility, and collaboration, this role is for you.
   
@@ -897,7 +1001,7 @@ Experience conducting product demonstrations, gathering end-user feedback, or su
 This is a fantastic opportunity for systems-minded engineers ready to take on a diverse, high-impact role within a company at the forefront of counter-threat and autonomous system technologies.
 
 For more info you can contact me at farid@thedrivegroup.com.au or click Apply and send through your details and I'll be in touch!"
-88884024,Infrastructure Engineer,TheDriveGroup,https://www.seek.com.au/job/88884024?type=standard&ref=search-standalone&origin=jobCard#sol=271097e4a7b800bff9c1a646fa1c0a49665c1a71,9h ago,9.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$160k + super,"We’re looking for a Senior Infrastructure Engineer with extensive experience running Kubernetes at scale to join the team as they build out a market-first K8s cluster running on top of globally distributed data centers. 
+88884024,Infrastructure Engineer,TheDriveGroup,https://www.seek.com.au/job/88884024?type=standard&ref=search-standalone&origin=jobCard#sol=65abde82bfb4488b3058be69ad94dc437573374d,10h ago,10.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$160k + super,"We’re looking for a Senior Infrastructure Engineer with extensive experience running Kubernetes at scale to join the team as they build out a market-first K8s cluster running on top of globally distributed data centers. 
 
 This rapidly growing organization is at the forefront of developing technologies to counter the increasing use of drones for nefarious purposes, including battlefield scenarios, terrorism, contraband delivery, and commercial espionage. The company is poised for significant growth in the coming years with a substantial team based in their Sydney headquarters and a global presence in the USA, Europe, and the Middle East.
 
@@ -919,7 +1023,7 @@ Expertise in configuration management tools such as Ansible, Puppet, or Chef
 Strong experience with AWS
 Solid understanding of networking and security
 Interested candidates are encouraged to apply promptly. Or you can email me at farid@thedrivegroup.com.au for more details."
-88883593,Algorithms Team Lead,TheDriveGroup,https://www.seek.com.au/job/88883593?type=standard&ref=search-standalone&origin=jobCard#sol=d35c9af1ef5f566926e5c6709e2f78040d768c31,10h ago,10.0,2025-12-01T20:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200k + super,"A global leader in defence technology is seeking an Algorithms Team Lead to head its core algorithms group in Sydney. This team develops the intelligence behind advanced detection and electronic warfare systems, digital signal processing, and software engineering to deliver breakthrough performance in real-world environments.
+88883593,Algorithms Team Lead,TheDriveGroup,https://www.seek.com.au/job/88883593?type=standard&ref=search-standalone&origin=jobCard#sol=43d32dd9f26e1c8275900cbcd48560c83863c8f5,10h ago,10.0,2025-12-01T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200k + super,"A global leader in defence technology is seeking an Algorithms Team Lead to head its core algorithms group in Sydney. This team develops the intelligence behind advanced detection and electronic warfare systems, digital signal processing, and software engineering to deliver breakthrough performance in real-world environments.
   
 Reporting to senior engineering leadership, this position is equal parts technical strategy, people leadership, and execution. The successful candidate will define the vision for algorithmic innovation, drive delivery across complex projects, and mentor a high-performing team of engineers and scientists.
   
@@ -949,7 +1053,7 @@ Ideal Candidate
 You’re an engineering leader who thrives on solving complex technical problems and bringing ideas to life through collaboration. You stay ahead of emerging trends in AI and signal processing, and you know how to turn theory into deployed capability. You lead by example, mentor others, and take pride in building systems that make a tangible difference.
   
 For more info, you can either apply here, or contact me on 0435777965 or farid@thedrivegroup.com.au"
-88882853,Senior Data Engineer,CGI,https://www.seek.com.au/job/88882853?type=standard&ref=search-standalone&origin=jobCard#sol=16b25314e7d09f5a82fe4e50d872f76996e7e8eb,12h ago,12.0,2025-12-01T18:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Position Description:
+88882853,Senior Data Engineer,CGI,https://www.seek.com.au/job/88882853?type=standard&ref=search-standalone&origin=jobCard#sol=395030b4208c49a9199c8bc13029bbc6abf76c4c,13h ago,13.0,2025-12-01T18:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Position Description:
 
 
 Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
@@ -1009,7 +1113,7 @@ Your work creates value. You’ll develop innovative solutions and build relatio
 You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
 
 Come join our team—one of the largest IT and business consulting services firms in the world."
-88882851,Data Engineer,CGI,https://www.seek.com.au/job/88882851?type=standard&ref=search-standalone&origin=jobCard#sol=5ac0d148526c78af4aefb4c2f32b33fbd32ce1da,12h ago,12.0,2025-12-01T18:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position Description:
+88882851,Data Engineer,CGI,https://www.seek.com.au/job/88882851?type=standard&ref=search-standalone&origin=jobCard#sol=1c5b93e6adcbb1575ab62ff5b660893826287f65,13h ago,13.0,2025-12-01T18:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Position Description:
 
 
 Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
@@ -1075,7 +1179,7 @@ Your work creates value. You’ll develop innovative solutions and build relatio
 You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
 
 Come join our team—one of the largest IT and business consulting services firms in the world."
-88881763,"Software Engineer, Google Photos",Google,https://www.seek.com.au/job/88881763?type=standard&ref=search-standalone&origin=jobCard#sol=9838ff295284d75821a4200dd8a163b544364021,17h ago,17.0,2025-12-01T13:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"Applicants to this role must have work authorization in Australia as this role is not eligible for work visa sponsorship.
+88881763,"Software Engineer, Google Photos",Google,https://www.seek.com.au/job/88881763?type=standard&ref=search-standalone&origin=jobCard#sol=522b1b0e8282b954e05450532a1ab3cb540b043f,18h ago,18.0,2025-12-01T13:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,World Class Benefits,"Applicants to this role must have work authorization in Australia as this role is not eligible for work visa sponsorship.
 
 Minimum qualifications:
 
