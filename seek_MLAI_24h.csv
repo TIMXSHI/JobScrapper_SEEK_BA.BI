@@ -1,73 +1,46 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88925653,Lead Data Scientist - AI Architect,The Onset,https://www.seek.com.au/job/88925653?type=standard&ref=search-standalone&origin=jobCard#sol=8b5a3c782590f529c65c2e21f22213b438b15e34,Just now,0.0,2025-12-03T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$170,000 - $180,000 + Super","Some Data Scientists love research.
-Some prefer the safety of large corporate teams.
-Some chase FAANG logos.
+88921878,Principal Machine Learning Engineer,Pathway Search,https://www.seek.com.au/job/88921878?type=standard&ref=search-standalone&origin=jobCard#sol=e9e654d7112b47fff9f777d116a4548c0866c55f,1h ago,1.0,2025-12-03T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Principal Machine Learning Engineer – FinTech (Sydney)
+ASX-Listed
+Hybrid
 
-And then there are the ones who just want to do great work with real-world AI — wherever the challenge is.
+Up to $200k base + Super + Bonus + ESOP
 
-If you're in that last group, read on.
+A high-growth, product-led FinTech is looking for a Principal Machine Learning Engineer to shape, build, and scale their next generation of ML products – from real-time decisioning and risk models to personalised customer experiences.
 
-We're hiring a Data Scientist for a PE-backed AI consultancy with a growing national footprint (currently sub-10 people, but scaling fast). This team thrives on tackling high-impact, technically complex problems — from GenAI tooling to agent-based AI systems and government-grade infrastructure.
+Why this role is exciting
 
-This role is open only to Australian Citizens due to upcoming work with federal agencies — if you have experience in or exposure to government departments, that’s a plus (but not essential).
+Own the ML engineering vision for a modern B2C financial product
+Lead technically while staying hands-on in code
+Build on modern tooling: Python, cloud, Databricks, MLflow, event-driven architecture
+What you’ll do
+Set the ML engineering standards – model development, deployment, monitoring, and experimentation
+Design & build production ML systems – batch and real-time pipelines across credit, risk, fraud, and personalisation
+Own online inference – build low-latency, high-reliability serving for customer-facing decisions
+Translate business problems into ML use cases and ship solutions end-to-end
+Raise engineering quality – architecture, testing, observability, automation, CI/CD
+Mentor engineers and act as the senior technical authority across data/ML
+Explore new approaches in ML, MLOps, and GenAI where they can drive product impact
+Tech environment
 
-What you’ll be doing:
+Languages: Python (strong)
+Cloud & Data: Modern cloud platforms, Databricks/Lakehouse, event streaming
+MLOps: MLflow (or similar), Feature Stores, CI/CD, containerisation, monitoring/alerting
+Practices: Online inference, A/B testing, experimentation frameworks, model observability
+About you
 
-
-Building and deploying ML models and GenAI systems
-
-
-Working hands-on with AI agents, LLM pipelines, and secure environments
-
-
-Seeing your work go to production, not just proof-of-concept
-
-
-Collaborating with senior DS mentors who bring deep R&D and commercial expertise
-
-
-What you bring:
-
-
-5+ years hands-on experience in Data Science
-
-
-Strong Python skills across modelling and data wrangling
-
-
-Experience working with LLMs or AI agents (bonus points)
-
-
-Models in production (not just notebooks)
-
-
-PhD preferred, but not required
-
-
-Bonus: any background working on government or regulated data projects
-
-
-Azure experience is a big plus
-
-
-Location:
-
-
-Melbourne preferred
-
-
-Open to Sydney-based candidates for the right fit
-
-
-Must be an Australian Citizen (due to project security requirements)
-
-
-Want to work with smart people, ship real AI solutions, and get your hands dirty?
-
-Build, deploy, and enjoy.
-
-Contact ronny@theonset.com.au or call 0448 808 848 to learn more."
-88919966,Data & Analytics Lead,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88919966?type=standard&ref=search-standalone&origin=jobCard#sol=396901ae92a8700a81fb09efc000fb5c26ec044a,1h ago,1.0,2025-12-03T03:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,Start January 2026 | CBD/WFH hybrid,"Are you passionate about turning data into business-shaping impact? Do you thrive at the intersection of advanced analytics, cross-market execution, and stakeholder influence? If you're excited by driving digital transformation at scale, this is your opportunity to lead high-impact Data & Analytics initiatives across the APAC region for one of the world's most loved brands.
+7+ years in Machine Learning Engineering / Applied ML / MLOps
+Strong experience shipping production ML systems end-to-end
+Expert in Python with solid software engineering fundamentals
+Hands-on with cloud platforms and scalable data/ML tooling
+Experience with real-time model serving and high-volume systems
+Deep understanding of MLOps, CI/CD, monitoring, retraining workflows
+Comfortable operating as a principal/lead IC, influencing architecture and standards
+Strong communication and ability to partner across product, engineering, risk, and ops
+FinTech, lending, or transactional environments a plus (not mandatoryWhy this is a standout opportunity
+Huge scope to define a flagship ML capability from the ground up
+High ownership: your work directly impacts core customer journeys
+Modern tech stack and strong investment in ML-led product innovation"
+88919966,Data & Analytics Lead,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88919966?type=standard&ref=search-standalone&origin=jobCard#sol=70047720daa02d54792fba84dc9442c66231c3c9,2h ago,2.0,2025-12-03T03:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,Start January 2026 | CBD/WFH hybrid,"Are you passionate about turning data into business-shaping impact? Do you thrive at the intersection of advanced analytics, cross-market execution, and stakeholder influence? If you're excited by driving digital transformation at scale, this is your opportunity to lead high-impact Data & Analytics initiatives across the APAC region for one of the world's most loved brands.
 
 As the Data & Analytics Lead you will leading the full lifecycle of regional D&A projects and ensure that actionable insights, AI/ML models, and data-driven solutions land seamlessly into business workflows. You will play a pivotal role in shaping how APAC teams make decisions, realise value, and adopt digital tools.
 
@@ -92,7 +65,7 @@ Experience with cloud platforms (MS Azure, Databricks) highly regarded
 
 
 Apply now to secure an interview or contact Alistair Barr on 0480 804 583 for a confidential discussion."
-88919173,Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88919173?type=standard&ref=search-standalone&origin=jobCard#sol=0dfb21bf52167c6bd1b2cb6e8d255cfcc69b5bc9,1h ago,1.0,2025-12-03T03:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
+88919173,Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88919173?type=standard&ref=search-standalone&origin=jobCard#sol=13c4c287b8ade952228913d5d1c92865160c4263,2h ago,2.0,2025-12-03T03:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -174,7 +147,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-88916779,Staff Software Engineer - AI Powered Engineering,Commonwealth Bank,https://www.seek.com.au/job/88916779?type=standard&ref=search-standalone&origin=jobCard#sol=716de7d27d4dd9ff79cbaf59c6f1a86315b74441,2h ago,2.0,2025-12-03T02:00:00+00:00,"Eveleigh, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Staff Software Engineer - AI Powered Engineering 
+88916779,Staff Software Engineer - AI Powered Engineering,Commonwealth Bank,https://www.seek.com.au/job/88916779?type=standard&ref=search-standalone&origin=jobCard#sol=eee556cdaa71574065b27cab6176045a4fadc402,3h ago,3.0,2025-12-03T02:00:00+00:00,"Eveleigh, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Staff Software Engineer - AI Powered Engineering 
 
 **Sydney or Melbourne locations**
 
@@ -261,7 +234,7 @@ If this sounds like you, apply today! 
 
 
 We support flexibility with a hybrid approach—at least half your time each month connecting in office—plus options such as adjusted start/finish times, part‑time, and job share."
-88916130,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/88916130?type=standard&ref=search-standalone&origin=jobCard#sol=2f02045039410e766757cbb137b31336acf9667d,3h ago,3.0,2025-12-03T01:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+88916130,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/88916130?type=standard&ref=search-standalone&origin=jobCard#sol=a1e7c39b0e622baa5089bee5d46612c20a49285a,4h ago,4.0,2025-12-03T01:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -304,7 +277,7 @@ ITIL Foundation
 Apply today!
 
 Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem."
-88915268,Production Support Engineer,McMillan Shakespeare,https://www.seek.com.au/job/88915268?type=standard&ref=search-standalone&origin=jobCard#sol=7601a66a0364157429be7232f29fdc7621dff70c,3h ago,3.0,2025-12-03T01:00:00+00:00,Melbourne VIC,Engineering - Network (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
+88915268,Production Support Engineer,McMillan Shakespeare,https://www.seek.com.au/job/88915268?type=standard&ref=search-standalone&origin=jobCard#sol=d542654da2960f8c4989bb9fa1ed7953bc9f03cf,4h ago,4.0,2025-12-03T01:00:00+00:00,Melbourne VIC,Engineering - Network (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
 
 Here’s how you will make a difference in this role…
 
@@ -373,7 +346,7 @@ Please note all successful candidates will undergo background checks (including 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-88915160,Apache Flink Data Engineer,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/88915160?type=standard&ref=search-standalone&origin=jobCard#sol=f5a4e421d870261fd07ce55d6a6efbf0fb103c1c,3h ago,3.0,2025-12-03T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+88915160,Apache Flink Data Engineer,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/88915160?type=standard&ref=search-standalone&origin=jobCard#sol=d1f0e0cb197f803186c2b19b4b79893b23f5ba07,4h ago,4.0,2025-12-03T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
 
 The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
 
@@ -416,7 +389,7 @@ Representing 165 nationalities across the globe, we pride ourselves on being an 
 Candidate Data Privacy Notice | HCL Technologies
 
 We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data.  By replying to this email or submitting any personal data to HCLTech, you acknowledge that you have read and understood the candidate privacy notice and  have  provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”."
-88913922,"AI Team Leader - South Bank, QLD",Flight Centre Travel Group,https://www.seek.com.au/job/88913922?type=standard&ref=search-standalone&origin=jobCard#sol=8417dd2f48251782609c85fba25f5de36f15b028,4h ago,4.0,2025-12-03T00:00:00+00:00,"South Bank, Brisbane QLD",Management (Information & Communication Technology),Full time,,"We’re looking for a strategic and hands on AI Technical Leader to drive the design, development, and deployment of advanced AI and machine learning solutions across our organization. This role is central to shaping our AI strategy, setting technical direction, and leading a team of engineers and data scientists in delivering scalable, production grade solutions.
+88913922,"AI Team Leader - South Bank, QLD",Flight Centre Travel Group,https://www.seek.com.au/job/88913922?type=standard&ref=search-standalone&origin=jobCard#sol=ef9695a27b2f351e4c5a18c7f9a75fcbdadd9a41,5h ago,5.0,2025-12-03T00:00:00+00:00,"South Bank, Brisbane QLD",Management (Information & Communication Technology),Full time,,"We’re looking for a strategic and hands on AI Technical Leader to drive the design, development, and deployment of advanced AI and machine learning solutions across our organization. This role is central to shaping our AI strategy, setting technical direction, and leading a team of engineers and data scientists in delivering scalable, production grade solutions.
 
 You’ll play a pivotal role in guiding the implementation of Azure AI services, Databricks, and modern MLOps practices to support high-impact use cases across the business. This is a leadership role for someone who thrives at the intersection of AI innovation, engineering excellence, and practical business outcomes.
 
@@ -484,7 +457,7 @@ What you'll Enjoy:
 🙏🏼 Giving Back: Corporate Social Responsibility program supporting nominated charities through Workplace Giving, volunteering and fundraising; paid parental and volunteer leave
 
 💚Sustainability: The protection of our environment is essential to the future of tourism, as a leading travel group, we have made efforts to affect positive change to the environment"
-88913862,LabVIEW Engineer,SALT SEARCH PTY LTD,https://www.seek.com.au/job/88913862?type=standard&ref=search-standalone&origin=jobCard#sol=a9dbd63ad8b3697f98e0e8933c7a7878b88fde36,5h ago,5.0,2025-12-02T23:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,$120000.00 - $150000.00 p.a.,"Senior LabVIEW Engineer
+88913862,LabVIEW Engineer,SALT SEARCH PTY LTD,https://www.seek.com.au/job/88913862?type=standard&ref=search-standalone&origin=jobCard#sol=ffdbfc3e2a7092ba1b5cf6f6bbcca24d058eb012,5h ago,5.0,2025-12-03T00:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,$120000.00 - $150000.00 p.a.,"Senior LabVIEW Engineer
 
 Salt have partnered with an innovative tech company based in Sydney that are producing scientific products used globally in renewable energy research.
 
@@ -536,7 +509,7 @@ Salt respectfully acknowledges the Traditional Owners of the lands across Austra
 We pay our respects to all First Nations Australians and their Elders past and present.
 
 At Salt, our mission is Creating Futures by putting our clients, candidates, partners, and team members at the heart of everything we do. We extend our sincere appreciation to everyone who has contributed to our continued success."
-88913116,Systems Engineer - SCADA Controls,LAF Technologies Pty Ltd,https://www.seek.com.au/job/88913116?type=standard&ref=search-standalone&origin=jobCard#sol=352d6b1058e15d17eb83b0e887d4e61a194f0ee5,5h ago,5.0,2025-12-02T23:00:00+00:00,"Boronia, Melbourne VIC",Systems Engineering (Engineering),Full time,,"LAF Technologies is a leading provider of Environmental Monitoring Solutions (EMS) to customers in the Pharmaceutical, Life Sciences, and Healthcare sectors. Australian-owned with offices in VIC, QLD, and TAS. We are now looking to expand our technical team in VIC. We pride ourselves on delivering exceptional solutions and support to our clients.
+88913116,Systems Engineer - SCADA Controls,LAF Technologies Pty Ltd,https://www.seek.com.au/job/88913116?type=standard&ref=search-standalone&origin=jobCard#sol=29bcbb513fe0b25e8c1e47062e6b4475bd92d25b,6h ago,6.0,2025-12-02T23:00:00+00:00,"Boronia, Melbourne VIC",Systems Engineering (Engineering),Full time,,"LAF Technologies is a leading provider of Environmental Monitoring Solutions (EMS) to customers in the Pharmaceutical, Life Sciences, and Healthcare sectors. Australian-owned with offices in VIC, QLD, and TAS. We are now looking to expand our technical team in VIC. We pride ourselves on delivering exceptional solutions and support to our clients.
 
 
 
@@ -600,7 +573,7 @@ Benefits:
 
 
 Working within a pandemic-proof industry, with a company that has achieved constant growth over the years"
-88912368,Senior AI Engineer,Tenth Revolution Group,https://www.seek.com.au/job/88912368?type=standard&ref=search-standalone&origin=jobCard#sol=96d803d9dce0658df1853b60577a953d57cb26a0,7h ago,7.0,2025-12-02T21:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,$170k - $200k p.a. + Super,"TRG are partnering with a fast-growing technology organisation working at the intersection of AI, automation, and secure systems. This is a unique opportunity to join a newly formed team focused on enabling AI adoption across the business and driving innovation at scale.
+88912368,Senior AI Engineer,Tenth Revolution Group,https://www.seek.com.au/job/88912368?type=standard&ref=search-standalone&origin=jobCard#sol=524a569fb97a0ae720d10eb8444e3eeec7ead979,7h ago,7.0,2025-12-02T22:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,$170k - $200k p.a. + Super,"TRG are partnering with a fast-growing technology organisation working at the intersection of AI, automation, and secure systems. This is a unique opportunity to join a newly formed team focused on enabling AI adoption across the business and driving innovation at scale.
 
 
 About the Role
@@ -644,7 +617,7 @@ Neros Gorges
 n.gorges@jeffersonfrank.com
 
 #SCR-neros-gorges"
-88911469,Data Modeller,CGI,https://www.seek.com.au/job/88911469?type=standard&ref=search-standalone&origin=jobCard#sol=e4a72a50cfaae76da25cb35f92fd8c3c1b47d470,9h ago,9.0,2025-12-02T19:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Position Description:
+88911469,Data Modeller,CGI,https://www.seek.com.au/job/88911469?type=standard&ref=search-standalone&origin=jobCard#sol=faaa0a699faf8c4f99b00234a4758f6a5f9c96ab,10h ago,10.0,2025-12-02T19:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Position Description:
 
 
 Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.
