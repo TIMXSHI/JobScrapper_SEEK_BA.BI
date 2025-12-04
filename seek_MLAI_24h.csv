@@ -1,5 +1,296 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-88952537,Data Engineer,CGI,https://www.seek.com.au/job/88952537?type=standard&ref=search-standalone&origin=jobCard#sol=14daebbb27e2592a7d47b8244fe906982bf6b180,1h ago,1.0,2025-12-04T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.  
+88956869,AWS Data Engineer,Pathway Search,https://www.seek.com.au/job/88956869?type=standard&ref=search-standalone&origin=jobCard#sol=065d356139f130f63723837ab0edf4df57f4b3ae,1h ago,1.0,2025-12-04T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"AWS Data Engineer – Databricks | Technology & Change Consultancy | Melbourne | ~$800/day
+
+A leading technology, data, and change consultancy is seeking an experienced AWS Data Engineer with strong Databricks capability to support a major client program. This is a Melbourne-based hybrid contract offering around $800/day, working on large-scale, cloud-driven modernisation initiatives.
+
+The Role You’ll help shape and deliver cloud-first data engineering solutions on AWS, leveraging Databricks, Delta Lake, and modern engineering practices. You’ll work closely with cross-functional teams to design, build, and optimise scalable data platforms across a high-impact transformation program.
+
+What You’ll Do
+Design, build & maintain AWS-native data pipelines using Databricks, PySpark, SQL, Delta Lake
+Develop and optimise ETL/ELT workflows for both streaming and batch workloads
+Embed best practices across data modelling, quality, testing, CI/CD, governance, and security
+Partner with architects, engineers, and stakeholders to deliver fit-for-purpose, scalable solutions
+Drive performance tuning, monitoring, and ongoing platform improvements
+Contribute to the consultancy’s engineering patterns, frameworks, and reusable components
+Tech Stack / Experience Needed
+Strong hands-on experience with AWS (Glue, Lambda, Step Functions, S3, IAM, EMR/ECS, etc.)
+Deep capability with Databricks (PySpark, SQL, notebooks, jobs, Delta Lake)
+Experience with CI/CD, containerisation, and IaC (Terraform/CDK)
+Solid software engineering fundamentals – testing, version control, clean code
+Familiarity with data governance, cataloguing, lineage tools
+Ability to operate effectively in consulting or fast-paced delivery environments
+Strong communication and stakeholder engagement skills
+Why This Contract?
+Well-regarded consultancy focused on technology, data, and organisational change
+Opportunity to work across a major modernisation program with a modern AWS/Databricks stack
+Hybrid working model (Melbourne) with flexibility
+Competitive ~$800/day engagement
+Influence engineering approaches and deliver high-impact cloud solutions"
+88956854,Monitoring & Observability Engineer,Peoplebank Australia VIC,https://www.seek.com.au/job/88956854?type=standard&ref=search-standalone&origin=jobCard#sol=ceac8e80458ec64da61c262173e3721df4f66b53,1h ago,1.0,2025-12-04T06:00:00+00:00,"Burnley, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive daily rate,"Our client, a major Australian organisation undergoing significant digital and cloud transformation, is seeking a Monitoring & Observability Engineer to help build and enhance end-to-end visibility across a new cloud-based Sort Management platform. You’ll work closely with delivery teams, architects and vendors to uplift reliability, performance and service transparency across critical business systems.
+
+6 month contract + potential extensions 
+Located in Burnley
+3 days in office each week
+Leading Australian Organisation 
+
+About the role
+
+Develop, implement and maintain APM, logging and monitoring solutions (New Relic, Sumo Logic, ServiceNow ITOM).
+Define and refine SLIs/SLOs and drive service reliability and operational readiness.
+Support incident investigation, RCA and improvement of service performance.
+Contribute to the observability roadmap and uplift best practices across multiple teams.
+Collaborate with stakeholders and vendors on configuration, integration and support tasks.
+Maintain documentation, follow change processes and provide occasional after-hours support.
+
+About you
+
+3+ years’ experience in monitoring, observability, operations, DevOps or SRE roles.
+Strong hands-on experience with APM and logging tools (New Relic, AppDynamics, DataDog, Dynatrace, Sumo Logic, Splunk).
+Experience in large-scale cloud or hybrid enterprise environments.
+Excellent analytical, problem-solving and communication skills.
+Scripting experience (Python/JavaScript) and familiarity with Java/J2EE application environments.
+ServiceNow Event Management experience desirable.
+Why this role
+Work on a mission-critical platform used nationwide, within an organisation committed to uplift in engineering excellence, service reliability and modern observability practices.
+
+APPLY NOW
+Applications will be reviewed & shortlisted on Monday 8th December. If interested, please apply ASAP (no cover letter required) via the link. Quesitons can be sent to abi.morton@peoplebank.com.au. Reference number 269193
+
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+88956369,Data Modeller,CGI,https://www.seek.com.au/job/88956369?type=standard&ref=search-standalone&origin=jobCard#sol=565ccbc59983d528a577d2f8044bb393b9a5f72a,1h ago,1.0,2025-12-04T06:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.  
+
+We are looking to hire a Data Modeller who will focus on translating complex business requirements into clear, scalable, conceptual, logical, and physical data models that support analytics, reporting, and operational needs. Working closely with data engineers, analysts, and business stakeholders, the Data Modeller ensures that data is well-organized, standardized, and aligned with governance and quality frameworks to enable efficient data-driven decision-making across the organization.
+
+Flexible work is available including hybrid work from client’s site at Port Melbourne  
+
+Permanent and Fixed-Term Opportunities Available
+
+Your future role and responsibilities:
+
+Contribute to the design, development, and continuous refinement of conceptual, logical, and physical data models within the Data Transformation team.
+
+Create and maintain SQL DDL scripts, along with detailed mapping and ETL documentation, to support Data Engineers in constructing and loading data models.
+
+When required, carry out reverse engineering of existing data models from databases or SQL code to ensure alignment with current architecture and standards.
+
+Develop and update business documentation, including process maps, taxonomies, and ontology diagrams, to provide clarity and traceability of data flows.
+
+Maintain a strong emphasis on conceptual and business data modelling, ensuring that structures align with organisational objectives.
+
+Interpret and translate business requirements into scalable data models that support long-term analytical and operational needs.
+
+Assist in managing and maintaining controlled vocabularies and the corporate data catalogue to promote consistency and reuse of data assets.
+
+Participate in modelling workshops and collaborative sessions with other Data Modellers to align on best practices and design approaches.
+
+Adhere to existing Data Quality and Data Governance frameworks, contributing to their ongoing enhancement and ensuring compliance with modelling standards.
+
+Build and maintain effective working relationships with subject matter experts and business stakeholders across the organisation.
+
+Keep stakeholders and senior management informed of prioritisation decisions, project progress, and delivery timelines, managing expectations clearly and proactively.
+
+Experience required to be successful in this role:
+
+Sound understanding of data modelling methodologies, including Kimball, Inmon, Top-Sdown/Bottom-up, Relational and Dimensional Modelling, Data Warehousing, and 3NF approaches.
+
+Ability to think conceptually and apply modelling techniques such as generalisation, subtyping, and super-typing to create efficient and flexible models.
+
+Skilled in producing Entity Relationship Diagrams (ERDs) using a range of notations, such as Crow’s Foot and UML.
+
+Strong technical understanding of databases, ETL/ELT pipelines, and programming languages (typically SQL), with the ability to connect these technologies to data modelling practices. (This is a hands-on role involving active work with data.)
+
+Solid comprehension of business processes, with the ability to capture requirements accurately and translate them into effective technical designs.
+
+Confident communicator, capable of engaging in technical discussions with both technical and non-technical audiences across all organisational levels.
+
+Experience with cloud-based data technologies would be advantageous, particularly within the Microsoft Azure ecosystem, including:
+
+Azure Data Lake
+
+Azure Data Factory
+
+Azure Databricks (SQL and Python)
+
+Azure SQL Server
+
+Azure DevOps / Git
+
+ 
+
+Why work for CGI?
+
+Make a difference
+
+From utilities and cybersecurity to government and financial service, we provide high end IT and business consulting to the world’s most vital and exciting sectors. We’re proud to partner with our clients to bring real business value and contribute to their success by delivering practical innovation that helps them meet their goals.
+
+Your work is what you make it.
+
+We provide a working environment where our CGI Partners are empowered to shape their careers and take on new responsibilities. As owners, we have the opportunity to drive our careers, forge meaningful relationships with our clients, and benefit from a job well done.
+
+We enjoy what we do
+
+As owners, we’re invested in creating an environment where we enjoy working together and learning from each other. We work with teams from all across the world and celebrate our CGI Partners’ unique differences. We thrive on building strong relationships with our fellow CGI Partners and supporting each other to develop professionally and achieve our potential.
+
+Great benefits and work-life balance
+
+We strongly believe that work-life balance is crucial to our success and the success of our CGI Partners. At CGI, a positive work-life balance is encouraged and supported. We offer flexible work wherever possible and invest in benefits and services that are truly valued by our CGI Partners, such as our world leading health and wellbeing program, Oxygen.
+
+ 
+
+Diversity statement
+
+At CGI, we recognise the richness that diversity brings. We strive to create a work culture where everyone belongs, and we collaborate with clients in building more inclusive communities. As an equal opportunity employer, we empower all our CGI Partners to succeed and grow. 
+
+CGI is proud to be a Work180 endorsed employer for all women.
+
+We are committed to providing an inclusive, diverse and equal opportunity workplace. When you apply, please share any reasonable adjustments you may need during the interview process.
+
+Apply today for more information."
+88956100,Senior Data Engineer,CGI,https://www.seek.com.au/job/88956100?type=standard&ref=search-standalone&origin=jobCard#sol=51d81b3029d1fc77986925cb08f3074f695bc4b0,1h ago,1.0,2025-12-04T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.  
+
+We are looking for a Senior Data Engineer who will focuse on developing robust solutions for data ingestion, transformation, and optimization while ensuring performance, governance, and long-term sustainability. You’ll act as a technical lead, collaborating across teams to deliver high-quality data capabilities that empower analytics and business intelligence across the organization.
+
+Flexible work is available including hybrid work from client’s site at Port Melbourne  
+
+Your future role and responsibilities:
+
+Lead the design, development, and continuous improvement of data pipelines, frameworks, and architecture that support complex transformation and modelling requirements.
+
+Define, document, and maintain data processing logic, ensuring clarity across requirements, solutions, reconciliation steps, and ETL/ELT processes.
+
+Translate business needs into practical, scalable data models and engineering solutions that can be reused across multiple systems and domains.
+
+Partner with other engineers and cross-functional teams to guide the creation of data solutions, ensuring consistency, scalability, and security.
+
+Support project execution through regular progress updates, issue tracking, and risk management reporting.
+
+Identify and recommend improvements to existing data platforms, leveraging emerging cloud features and capabilities.
+
+Work closely with architecture and engineering teams to optimise performance, availability, and cost across Azure environments.
+
+Maintain and refine data quality and governance frameworks to uphold integrity and compliance across all data products.
+
+Foster strong communication channels with stakeholders, ensuring transparency, collaboration, and mutual understanding of project goals.
+
+Provide technical leadership, mentorship, and guidance to data engineers, promoting best practices in design, development, and delivery.
+
+Collaborate with project managers and senior stakeholders to prioritise workloads and align technical deliverables with strategic objectives.
+
+Build trusted relationships across teams by proactively communicating updates, challenges, and improvement opportunities.
+
+ 
+
+Experience required to be successful in this role:
+
+Strong technical foundation with a solid understanding of database concepts, along with hands-on experience using data development tools (ETL frameworks) and programming languages such as SQL and Python to design, build, and document data extraction, transformation, and loading processes.
+
+Demonstrated ability to analyse business operations in depth, translate requirements into actionable solutions, and design and implement tools that address specific business needs while continuously building on existing knowledge.
+
+Proficiency with several of the following technologies and programming tools:
+
+Azure Data Lake
+
+Azure Data Factory
+
+Azure Databricks (including SQL and Python)
+
+Azure SQL Server
+
+Azure DevOps / Git
+
+Excellent communication and interpersonal skills, with the capability to clearly explain technical information and data concepts to both technical and non-technical audiences.
+
+A creative problem-solver with the confidence to design innovative solutions where standard approaches or precedents may not exist.
+
+A proactive approach to learning and professional growth — keen to experiment with new ideas, share insights, and support the development of others within the team.
+
+
+
+
+Why work for CGI?
+
+Make a difference
+
+From utilities and cybersecurity to government and financial service, we provide high end IT and business consulting to the world’s most vital and exciting sectors. We’re proud to partner with our clients to bring real business value and contribute to their success by delivering practical innovation that helps them meet their goals.
+
+Your work is what you make it.
+
+We provide a working environment where our CGI Partners are empowered to shape their careers and take on new responsibilities. As owners, we have the opportunity to drive our careers, forge meaningful relationships with our clients, and benefit from a job well done.
+
+We enjoy what we do
+
+As owners, we’re invested in creating an environment where we enjoy working together and learning from each other. We work with teams from all across the world and celebrate our CGI Partners’ unique differences. We thrive on building strong relationships with our fellow CGI Partners and supporting each other to develop professionally and achieve our potential.
+
+Great benefits and work-life balance
+
+We strongly believe that work-life balance is crucial to our success and the success of our CGI Partners. At CGI, a positive work-life balance is encouraged and supported. We offer flexible work wherever possible and invest in benefits and services that are truly valued by our CGI Partners, such as our world leading health and wellbeing program, Oxygen.
+
+ 
+
+Diversity statement
+
+At CGI, we recognise the richness that diversity brings. We strive to create a work culture where everyone belongs, and we collaborate with clients in building more inclusive communities. As an equal opportunity employer, we empower all our CGI Partners to succeed and grow. 
+
+CGI is proud to be a Work180 endorsed employer for all women.
+
+We are committed to providing an inclusive, diverse and equal opportunity workplace. When you apply, please share any reasonable adjustments you may need during the interview process.
+
+Apply today for more information."
+88956112,Senior AI Engineer - Director,Sirius Technology NSW,https://www.seek.com.au/job/88956112?type=standard&ref=search-standalone&origin=jobCard#sol=47dda37ccb7a116634d7b1fa4db0ea4e32512d09,1h ago,1.0,2025-12-04T06:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,AUD 900 - 1200 per annum,"I’m partnering with an innovative client scaling their AI capability across finance and back-office operations. We’re looking for Senior AI Engineers with strong software engineering fundamentals and hands-on experience in agentic workflows, RAG pipelines, and enterprise-grade GenAI solutions.
+You’ll work on automation solutions across Accounts Payable, Reconciliations, document processing, and exception handling, developing AI agents and workflows that materially uplift operational efficiency. This is a highly progressive environment moving quickly on new AI capabilities as they emerge.
+
+What You’ll Do
+
+Scope, design, and deliver enterprise-ready AI solutions across finance workflows
+Build and implement agentic workflows, including:
+Future state planning
+Tool/function calling
+Guardrails + safety controls
+Multi-agent handoffs
+Memory/state management
+Develop RAG workflows, optimising chunking and retrieval strategies for high-quality performance
+Build and deploy AI agents for invoice matching, AP triage, reconciliation logic, exception handling, and document understanding
+Integrate AI components into existing finance systems and back-office environments
+Use guardrails and safety frameworks to ensure reliable, safe AI behaviour at scale
+Run discovery sessions, scope PoCs/MVPs, communicate risks/assumptions, and collaborate with stakeholders
+Write clean, scalable, production-grade Python or TypeScript code
+Work end-to-end: data ingestion → orchestration → model integration → deployment
+What We’re Looking For
+
+Proficient in Python and/or TypeScript/Node.js
+Strong experience with embeddings, vector databases (Pinecone, pgvector, Weaviate), RAG pipelines, and chunking strategies
+Experience with agentic workflows using OpenAI Agents SDK and/or Google ADK
+Comfortable with LLM observability: tracing, evaluation, monitoring
+Familiar with FastAPI, Next.js, LangGraph, or similar frameworks
+Experience with cloud platforms (AWS, Azure, GCP)
+Understanding of authentication/security (JWT, OAuth)
+Knowledge of OpenAI, Anthropic, Databricks, MLflow or similar tools
+Excellent communication skills and the ability to work directly with stakeholders
+Passion for emerging AI technologies and building practical, scalable automation
+Why Join
+
+Work on cutting-edge GenAI/agentic systems
+Fast-moving, innovative engineering environment
+Build real solutions that create measurable impact on finance operations
+Opportunities for rapid learning and technical growth"
+88954226,Observability Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/88954226?type=standard&ref=search-standalone&origin=jobCard#sol=cc805fb80a6d091a4fd74031778b3e45811119a3,1h ago,1.0,2025-12-04T06:00:00+00:00,"Richmond, Melbourne VIC (Hybrid)",Networks & Systems Administration (Information & Communication Technology),Contract/Temp,$850.00 - $920.00 p.d.,"Our client is an iconic Australian organisation currently seeking an Observability Engineer to join in January and support a range of upcoming project work.
+
+Your new role will see you working with stakeholders internally and externally to define, enhance and build out the businesses monitoring and observability platform. Reporting to the Enterprise Monitoring and Observability Manager, this role will be responsible for the administration, support and maintenance of full stack monitoring solutions using several industry lead technologies including but not limited to Sumo Logic, New Relic and ServiceNow ITOM. With a background in any enterprise monitoring and SRE you will help the business in managing an increase in service demand over the course of the multi year program.
+
+Skills and Experience:
+
+Experience in enterprise monitoring and analytical capabilities such as: AppDynamics, Newrelic, DataDog and Dyntrace
+Prior experience with enterprise level infrastructure monitoring and Log Management Platforms such as Sumo Logic and Splunk
+Scripting experience with Python/JavaScript
+Experience working as a DevOps Engineer or Site Reliability Engineer (SRE) is ideal but not required
+
+Our client is offering an initial 6 month contract with the view to extension. Offices are based in Melbourne's inner suburbs with a requirement to be onsite 3 days per week.
+
+For more information feel free to contact Ben Austin at ben.austin@talentinternational.com
+
+For over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
+88952537,Data Engineer,CGI,https://www.seek.com.au/job/88952537?type=standard&ref=search-standalone&origin=jobCard#sol=5832290e6c0fbb7d0bcd9589f8ff84f2d424ee8f,2h ago,2.0,2025-12-04T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems.  
 
 We are looking for a Data Engineer who will play a vital role in transforming business needs into practical data-driven solutions. You’ll be responsible for collecting, preparing, and optimizing data through modelling, transformation, and integration activities.
 
@@ -83,7 +374,7 @@ CGI is proud to be a Work180 endorsed employer for all women.
 We are committed to providing an inclusive, diverse and equal opportunity workplace. When you apply, please share any reasonable adjustments you may need during the interview process.
 
 Apply today for more information."
-88951697,Consultant - Software Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/88951697?type=standard&ref=search-standalone&origin=jobCard#sol=1aaa7413ed51c2752dbc74258b0a7f357a9d1dd7,2h ago,2.0,2025-12-04T04:00:00+00:00,Sydney NSW (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. In the past few years, we’ve grown from a bold idea into a trusted partner for some of Australia’s most complex data and AI transformations. We’ve helped enterprises modernise legacy platforms, embed data governance into decision-making, and bring responsible AI into real-world operations; all while scaling rapidly and purposefully.
+88951697,Consultant - Software Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/88951697?type=standard&ref=search-standalone&origin=jobCard#sol=d204b1f915dcc07fabe9d29dbbd25bb8c503b77e,2h ago,2.0,2025-12-04T05:00:00+00:00,Sydney NSW (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. In the past few years, we’ve grown from a bold idea into a trusted partner for some of Australia’s most complex data and AI transformations. We’ve helped enterprises modernise legacy platforms, embed data governance into decision-making, and bring responsible AI into real-world operations; all while scaling rapidly and purposefully.
 
 As we deepen our footprint across Australia and APAC, we’re expanding our engineering capability in Sydney. We’re looking for a Software Engineer (Data Engineering Focus) who can design scalable architectures, build resilient data pipelines, and develop reliable software components that power analytics, governance, and AI initiatives.
 
@@ -136,7 +427,7 @@ We’re not just delivering AI and data projects - we’re humanising them. Curi
 At Intelligen, you’ll have real influence on your projects, on our engineering practice, and on the future of responsible AI in Australia and the region. As we scale, so will your opportunity to grow, lead, and shape the direction of our capabilities.
 
 If you’re ready to build meaningful systems, solve challenging problems, and help define the future of responsible AI and data engineering in Australia, we’d love to meet you."
-88950261,Senior Azure Cloud Customer Experience Engineer,Microsoft,https://www.seek.com.au/job/88950261?type=standard&ref=search-standalone&origin=jobCard#sol=d44825abeb189a8f7e0945acf035a1a59cb6b6b6,2h ago,2.0,2025-12-04T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
+88950261,Senior Azure Cloud Customer Experience Engineer,Microsoft,https://www.seek.com.au/job/88950261?type=standard&ref=search-standalone&origin=jobCard#sol=010e22c27668293c32b44f708c93a5701d33d1ed,3h ago,3.0,2025-12-04T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
 
 
 Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
@@ -211,7 +502,7 @@ Growth Mindset: Openness and ability to learn new skills and technologies in a f
 This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
 
 Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
-88950263,Data Engineer,TRS - Public Sector,https://www.seek.com.au/job/88950263?type=standard&ref=search-standalone&origin=jobCard#sol=84b138557a05f210183667af72b0c81558fc2af3,2h ago,2.0,2025-12-04T04:00:00+00:00,"Redfern, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,$1000 - $1100 per day + super,"Data Engineers
+88950263,Data Engineer,TRS - Public Sector,https://www.seek.com.au/job/88950263?type=standard&ref=search-standalone&origin=jobCard#sol=240aa509686d23ba2925fb9b607e69b78671b12a,3h ago,3.0,2025-12-04T04:00:00+00:00,"Redfern, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,$1000 - $1100 per day + super,"Data Engineers
 
 
 1x Data Engineer & 1x Senior Data Engineer with expertise in Microsoft Azure Data Platform required for NSW Government Department. Redfern + Parramatta + WFH. ASAP start; initial assignment until 30th June 2026.
@@ -237,7 +528,7 @@ Experience with Azure DevOps, branching and pipelines
 Experience delivering data solutions in projects with big data volumes
 Experience applying AI/LLMs to data engineering (nice to have)
 If you have the relevant skills and experience, please apply now with your up-to-date CV (in Word format)."
-88944849,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88944849?type=standard&ref=search-standalone&origin=jobCard#sol=0141c1cfaef07378f831ade7ec11dff14311ded7,5h ago,5.0,2025-12-04T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
+88944849,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/88944849?type=standard&ref=search-standalone&origin=jobCard#sol=c6c677a4e87fc1974b1f5c406c7d2f1c98b1d91a,6h ago,6.0,2025-12-04T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -333,7 +624,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-88942241,Lead Platform Engineer - Hawthorn East,Coles,https://www.seek.com.au/job/88942241?type=standard&ref=search-standalone&origin=jobCard#sol=2d007013c55423ead19747020bf436d2efc32606,7h ago,7.0,2025-12-03T23:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We’ve been proudly serving Australian communities since 1914 and have grown to become a top 30-listed company on the ASX with a portfolio of iconic homegrown brands. At the heart of our continued success is over 115,000 team members working across the country, all contributing to bringing our customers smiles. You’ll not only get to see your work make a difference, you’ll be part of a team working together to help Australians eat and live better every day.
+88942241,Lead Platform Engineer - Hawthorn East,Coles,https://www.seek.com.au/job/88942241?type=standard&ref=search-standalone&origin=jobCard#sol=fadc4b56d077acfefd39bfd29167c6c3139630c8,8h ago,8.0,2025-12-03T23:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We’ve been proudly serving Australian communities since 1914 and have grown to become a top 30-listed company on the ASX with a portfolio of iconic homegrown brands. At the heart of our continued success is over 115,000 team members working across the country, all contributing to bringing our customers smiles. You’ll not only get to see your work make a difference, you’ll be part of a team working together to help Australians eat and live better every day.
 
  
 
@@ -444,7 +735,7 @@ Job ID: 174718
  
 
 Employment Type: Full time"
-88942110,"Assistant Director, Data Engineer",National Archives of Australia,https://www.seek.com.au/job/88942110?type=standard&ref=search-standalone&origin=jobCard#sol=7d8e2b960175be7d7f052d1c7e1eeb3c384fccbf,7h ago,7.0,2025-12-03T23:00:00+00:00,Darwin NT,Government - Federal (Government & Defence),Full time,"$119,189 – $128,279 per year","About the role
+88942110,"Assistant Director, Data Engineer",National Archives of Australia,https://www.seek.com.au/job/88942110?type=standard&ref=search-standalone&origin=jobCard#sol=43dd2903be88018fe768ddda93973e7236330de9,8h ago,8.0,2025-12-03T23:00:00+00:00,Darwin NT,Government - Federal (Government & Defence),Full time,"$119,189 – $128,279 per year","About the role
 
 As part of the Digital First program, the Unified Data View (UDV) will provide a complete, accurate, and up-to-date data for Business Intelligence, data analysis, and enhanced collection search capability.
 
