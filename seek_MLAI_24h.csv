@@ -1,5 +1,94 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89008844,Data Engineer,DATAIQ,https://www.seek.com.au/job/89008844?type=standard&ref=search-standalone&origin=jobCard#sol=125cbbfe5cafbd6d2c29fc0f9c18bcbac1fb1bf7,1h ago,1.0,2025-12-08T03:00:00+00:00,"Norwest, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,"$130,000 – $135,000 per year","About the role
+89012047,AI Solutions Architect,PRA,https://www.seek.com.au/job/89012047?type=standard&ref=search-standalone&origin=jobCard#sol=8e2e7488da5050485e51c27f8ea8ed1a130613c9,1h ago,1.0,2025-12-08T04:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,$1000-$1200p/d,"12 Month Daily Rate Contract
+
+A large education organisationis looking to deliver an enterprise-wide AI Capability Uplift Program. We are looking for an experienced AI Solution Architect to lead technical design, governance, and architecture across a portfolio of AI initiatives.
+
+The role covers enterprise AI governance, operating models, capability frameworks, technology roadmaps and delivery of key AI use cases. You will work across Azure and AWS environments and guide high level strategy through to detailed design.
+
+What you will do
+Lead solution design for AI initiatives aligned to enterprise and government standards
+Develop architecture artefacts including solution outlines, integration patterns and roadmaps
+Shape AI governance, ethical guidelines and operating models
+Support delivery teams and provide technical leadership across use cases
+Engage with vendors and evaluate AI tools and platforms
+
+Experience
+Experience in AI Solutions Architecture
+Strong knowledge of AI technologies, data platforms, Azure AI services and AWS sandboxes
+Ability to design secure APIs, integration patterns and cloud-native solutions
+Experience with AI governance, ethical frameworks and compliance
+Strong stakeholder engagement and documentation skills
+Proven ability to guide delivery across complex technical programs
+
+If you are interested in this role and match the skills provided, apply now or get in touch at Jonny.Church@pra.com.au for more information"
+89011919,Senior Data Engineer / Data Engineer,Wirrigan Group,https://www.seek.com.au/job/89011919?type=standard&ref=search-standalone&origin=jobCard#sol=6bd97e5a94fe55d0f37292afddd3ed78efbabeb8,1h ago,1.0,2025-12-08T04:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$1000 – $1100 per day plus super,"Daily rate: $1000 - $1100 plus super
+
+ASAP - 30 June 2026 with extension option
+
+Location: Redfern / Parramatta, Hybrid work arrangements
+
+We are looking for a highly skilled Senior Data Engineer / Data Engineer with deep experience across the Microsoft Azure Data Platform to build modern, scalable data solutions that support reliable analytics and business decision-making.
+
+You will be a hands-on engineer with a strong architectural mindset, excellent problem-solving ability, and proven experience designing data models, building pipelines, and delivering governed, production-grade data platforms.
+
+Your responsibilities
+
+Design and develop scalable data models including facts, dimensions, and semantic layers using PySpark, Synapse, Fabric Lakehouse/Warehouse, and Power BI, ensuring alignment with analytical and best-practice standards.
+
+Build end-to-end ingestion and transformation pipelines using Synapse Pipelines and Azure Data Factory, and create robust ELT frameworks in Synapse and Fabric for complex, large-scale datasets.
+
+Deliver high-quality BI and analytics solutions by developing Power BI datasets, models, and reports that support accurate, self-service insights.
+
+Optimize performance, quality, and governance across Spark, SQL, and Fabric workloads while implementing strong governance, data quality controls, and platform standards.
+
+Collaborate and lead across teams, partnering with architects, analysts, and business stakeholders on data product design while mentoring engineers and promoting best-practice engineering.
+
+Your skills
+
+Demonstrated experience in data engineering, analytics, or data warehousing, with deep expertise in data warehousing, dimensional modelling, Power BI, SQL, and DAX.
+
+Advanced skills in PySpark and SQL, with strong hands-on experience across Azure Synapse and Microsoft Fabric (Spark + Pipelines).
+
+Strong knowledge of modern data architectures, including lakehouse patterns, data platform frameworks, and data mesh principles.
+
+Proven delivery experience across large-scale data solutions, big-data workloads, Azure migrations, data platform architecture, metadata-driven design, semantic modelling, and stakeholder engagement (Databricks experience beneficial).
+
+Experience with Azure DevOps including CI/CD and branching strategies, with bonus familiarity applying AI/LLMs within data engineering environments.
+
+Apply Now!"
+89011540,AI ENGINEER,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89011540?type=standard&ref=search-standalone&origin=jobCard#sol=e92202ef2cb06cda387e4c03e0820ef75b86bc7e,1h ago,1.0,2025-12-08T04:00:00+00:00,Perth WA (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,+ Super,"About the Team Join a cutting-edge Data & AI Platform group driving enterprise-wide adoption of scalable, secure and high-impact artificial intelligence. This specialist team builds the foundational capabilities that power machine learning, GenAI solutions, optimisation, and large-scale automation for a leading resources organisation.
+
+This role supports the design and delivery of an enterprise AI platform enabling ML, LLM and GenAI solutions. It works closely with technical teams to develop scalable, secure and reliable AI capabilities that deliver business value. The position contributes to platform engineering, solution integration and operational excellence.
+
+Key Responsibilities
+
+Develop and maintain reusable AI components, APIs and microservices
+Support ML and GenAI architecture delivery including retrieval pipelines and agent workflows
+Build capabilities for deployment, monitoring, evaluation and lifecycle management
+Integrate AI services into enterprise environments aligned with standards
+Collaborate with cross functional teams to deliver production grade AI solutions
+Support experimentation and prototyping activities
+Document patterns, best practices and procedures
+Contribute to continuous improvement and knowledge sharing
+
+Required Qualifications
+
+Bachelor's degree in Computer Science, Engineering, AI or related discipline
+2+ years' experience delivering AI or ML systems
+Proficiency in Python
+Experience with frameworks such as PyTorch, TensorFlow, Hugging Face or LangChain
+Exposure to embedding models, vector stores or retrieval approaches
+Cloud experience with AWS or Azure
+Experience with Docker, Kubernetes, Terraform and CI/CD
+Familiarity with data and platform engineering technologies including Snowflake, Kafka, S3, REST APIs or microservices
+Experience with Git and Agile workflows
+
+Skills & Competencies
+
+Strong analytical and problem solving skills
+Effective communication and documentation abilities
+Stakeholder engagement and collaboration skills"
+89008844,Data Engineer,DATAIQ,https://www.seek.com.au/job/89008844?type=standard&ref=search-standalone&origin=jobCard#sol=04cfb9a3cb47794f2020f8c6866d161f56571f26,2h ago,2.0,2025-12-08T03:00:00+00:00,"Norwest, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,"$130,000 – $135,000 per year","About the role
 
 Join DataIQ as we expand our Data & AI practice to build modern data products on Microsoft Fabric. You'll be part of the team that owns ingestion, orchestration and transformation Microsoft Fabric, Spark and Power BI, delivering a variety of services to our clients that power enterprise semantic models and reports.
 
@@ -42,7 +131,7 @@ Certification preferred: Fabric Data Engineer Associate and PL-300 familiarity.
 How to apply
 
 Apply with your CV and a short cover letter highlighting recent Fabric/Spark projects. Portfolio or Git links welcome."
-89006120,Data Engineer Lead,Perfection Fresh Australia Pty Ltd,https://www.seek.com.au/job/89006120?type=standard&ref=search-standalone&origin=jobCard#sol=9d81f324b1f7f8afb6f16610cfaaa9ebae1d893c,3h ago,3.0,2025-12-08T01:00:00+00:00,"Rhodes, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Our mission is to make fresh fruits and vegetables a more loved and essential part of everyone's life.
+89006120,Data Engineer Lead,Perfection Fresh Australia Pty Ltd,https://www.seek.com.au/job/89006120?type=standard&ref=search-standalone&origin=jobCard#sol=765a8892bb3d52761851dc19a7e8da536c5e98b2,4h ago,4.0,2025-12-08T01:00:00+00:00,"Rhodes, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Our mission is to make fresh fruits and vegetables a more loved and essential part of everyone's life.
 
 Perfection Fresh is one of Australia’s largest privately owned fresh produce companies that’s been on an exciting journey of innovation and growth since 1978.
 We’re an Australian-based business that grows, packs, and markets fresh produce both domestically and internationally. You’ll recognize our produce – Qukes®, Broccolini®, Calypso® mangoes, and more.
@@ -97,7 +186,7 @@ Demonstrated ability to lead technical teams, mentor engineers, and deliver in a
 
 Communication Skills
 Excellent ability to translate complex technical concepts into clear business outcomes and engage stakeholders at all levels."
-89004731,ML Engineer,Talenza,https://www.seek.com.au/job/89004731?type=standard&ref=search-standalone&origin=jobCard#sol=2bec797d072023a2bf80e4864782a3a39c8850d8,4h ago,4.0,2025-12-08T00:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,$140k - $150k p.a.,"📢 Job Opportunity: Machine Learning Engineer - Financial Services (Sydney)
+89004731,ML Engineer,Talenza,https://www.seek.com.au/job/89004731?type=standard&ref=search-standalone&origin=jobCard#sol=d99324bcc0af87da73ac9b9b88237b37a3341ec2,5h ago,5.0,2025-12-08T00:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,$140k - $150k p.a.,"📢 Job Opportunity: Machine Learning Engineer - Financial Services (Sydney)
 💰 Salary: $150,000 + Super
 🏢 Location: Sydney CBD (Hybrid)
 ☁️ Tech Focus: Azure | Python | SQL | AI Enablement
@@ -147,7 +236,7 @@ Strong career growth opportunities across data, cloud, and AI teams
 Competitive salary: $150k + Super
 
 If you'd like, I can also tailor this to a specific brand voice, shorten it for LinkedIn, or format it for a job board like Seek."
-89003931,Experienced AI Engineer,Studiosity,https://www.seek.com.au/job/89003931?type=standard&ref=search-standalone&origin=jobCard#sol=eb63a0e66f2bf7871302f404260624d1108d1184,5h ago,5.0,2025-12-07T23:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"How do we teach thinking in the age of commoditized intelligence? 
+89003931,Experienced AI Engineer,Studiosity,https://www.seek.com.au/job/89003931?type=standard&ref=search-standalone&origin=jobCard#sol=6678181922fb880d6921431ff3031c7f930c737a,6h ago,6.0,2025-12-07T23:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"How do we teach thinking in the age of commoditized intelligence? 
 
 
 Our Australia-based AI-first Ed-Tech is solving this!
@@ -211,7 +300,7 @@ Studiosity is an amazing place to work: In addition to our noble purpose of incr
 
 
 To express your interest please forward a cover letter accompanied by your current resume. Thanks for your consideration and we look forward to hearing from you."
-89003682,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003682?type=standard&ref=search-standalone&origin=jobCard#sol=d88f0453f4d2ae2a9bf4261002e1138166f5f9ce,5h ago,5.0,2025-12-07T23:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
+89003682,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003682?type=standard&ref=search-standalone&origin=jobCard#sol=fafac53877b9a8ef2ea851cf8e0793858e882021,6h ago,6.0,2025-12-07T23:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -292,7 +381,7 @@ How To Apply
 Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
 
 Respectfully, no recruitment agencies."
-89003634,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003634?type=standard&ref=search-standalone&origin=jobCard#sol=eb6a264aa05ddcd5d659f39d876077132d13c729,5h ago,5.0,2025-12-07T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
+89003634,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003634?type=standard&ref=search-standalone&origin=jobCard#sol=3e8eecfb9d5c6f866dcf74b04645982e82766b2d,6h ago,6.0,2025-12-07T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -373,7 +462,7 @@ How To Apply
 Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
 
 Respectfully, no recruitment agencies."
-89003590,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003590?type=standard&ref=search-standalone&origin=jobCard#sol=07afaf66c962b3cb300fb072d90d057f134a93f5,5h ago,5.0,2025-12-07T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
+89003590,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003590?type=standard&ref=search-standalone&origin=jobCard#sol=2ca49abc1ce0fe97fa30a2ffb02c19ed7dccb770,6h ago,6.0,2025-12-07T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -456,7 +545,7 @@ How To Apply
 Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
 
 Respectfully, no recruitment agencies."
-89003079,Senior Data Engineer / Snowflake / $160k + super,Allura Partners,https://www.seek.com.au/job/89003079?type=standard&ref=search-standalone&origin=jobCard#sol=646dca858613c1a56c342d7d4f90a60a94800ffa,6h ago,6.0,2025-12-07T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,160000,"Senior Data Engineer / Snowflake / Sydney / Permanent / $160,000 + super
+89003079,Senior Data Engineer / Snowflake / $160k + super,Allura Partners,https://www.seek.com.au/job/89003079?type=standard&ref=search-standalone&origin=jobCard#sol=4dfbef029bbf383b1c3adfd7fe6805e08625aa5f,7h ago,7.0,2025-12-07T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,160000,"Senior Data Engineer / Snowflake / Sydney / Permanent / $160,000 + super
 
 About the company
 
