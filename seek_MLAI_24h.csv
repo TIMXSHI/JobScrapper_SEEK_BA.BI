@@ -1,5 +1,48 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89006120,Data Engineer Lead,Perfection Fresh Australia Pty Ltd,https://www.seek.com.au/job/89006120?type=standard&ref=search-standalone&origin=jobCard#sol=8f81f9d30be210953ae48b63ea2fed1690963b31,2h ago,2.0,2025-12-08T01:00:00+00:00,"Rhodes, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Our mission is to make fresh fruits and vegetables a more loved and essential part of everyone's life.
+89008844,Data Engineer,DATAIQ,https://www.seek.com.au/job/89008844?type=standard&ref=search-standalone&origin=jobCard#sol=125cbbfe5cafbd6d2c29fc0f9c18bcbac1fb1bf7,1h ago,1.0,2025-12-08T03:00:00+00:00,"Norwest, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,"$130,000 – $135,000 per year","About the role
+
+Join DataIQ as we expand our Data & AI practice to build modern data products on Microsoft Fabric. You'll be part of the team that owns ingestion, orchestration and transformation Microsoft Fabric, Spark and Power BI, delivering a variety of services to our clients that power enterprise semantic models and reports.
+
+Australian work rights are required for this position.
+
+What you'll do
+
+Build and manage the Microsoft Fabric platform for client engagements, including governance, capacity planning, and performance optimisation.
+
+Build and Oversee the Reporting function, ensuring timely delivery of semantic models and Power BI reports aligned with business needs.
+
+Ingest and transform data using Fabric Data Factory, pipelines, and Spark notebooks (PySpark).
+
+Model curated Delta tables and medallion layers optimized for Direct Lake and semantic models.
+
+Automate reliability: parameterized pipelines, scheduling, monitoring, alerting; build runbooks for recovery.
+
+Tune performance and cost (partitioning strategies, incremental refresh, capacity awareness).
+
+Collaborate with stakeholders to align data products with strategic goals and reporting requirements.
+
+What you'll bring
+
+Hands-on experience with Microsoft Fabric (Data Factory, Synapse Data Engineering) and Spark/PySpark, with a minimum of 3 years' experience with Data Factory.
+
+A minimum of 1 years hands-on Microsoft Fabric experience is required.
+
+Strong SQL and Delta Lake experience; medallion architecture patterns.
+
+Deep knowledge of OneLake, Data Factory in Fabric, Synapse Data Engineering/Spark, Real-Time Analytics, and Power BI (Service, Desktop).
+
+Experience managing enterprise reporting functions and aligning data models with business KPIs.
+
+CI/CD and deployment pipelines knowledge; Git familiarity.
+
+Nice to have: KQL, streaming/Eventstreams, Databricks/Azure background, Purview lineage.
+
+Certification preferred: Fabric Data Engineer Associate and PL-300 familiarity.
+
+How to apply
+
+Apply with your CV and a short cover letter highlighting recent Fabric/Spark projects. Portfolio or Git links welcome."
+89006120,Data Engineer Lead,Perfection Fresh Australia Pty Ltd,https://www.seek.com.au/job/89006120?type=standard&ref=search-standalone&origin=jobCard#sol=9d81f324b1f7f8afb6f16610cfaaa9ebae1d893c,3h ago,3.0,2025-12-08T01:00:00+00:00,"Rhodes, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Our mission is to make fresh fruits and vegetables a more loved and essential part of everyone's life.
 
 Perfection Fresh is one of Australia’s largest privately owned fresh produce companies that’s been on an exciting journey of innovation and growth since 1978.
 We’re an Australian-based business that grows, packs, and markets fresh produce both domestically and internationally. You’ll recognize our produce – Qukes®, Broccolini®, Calypso® mangoes, and more.
@@ -54,7 +97,7 @@ Demonstrated ability to lead technical teams, mentor engineers, and deliver in a
 
 Communication Skills
 Excellent ability to translate complex technical concepts into clear business outcomes and engage stakeholders at all levels."
-89004731,ML Engineer,Talenza,https://www.seek.com.au/job/89004731?type=standard&ref=search-standalone&origin=jobCard#sol=cd44c108c35d575a8ea18018a20f7c9ec5e5b0ec,3h ago,3.0,2025-12-08T00:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,$140k - $150k p.a.,"📢 Job Opportunity: Machine Learning Engineer - Financial Services (Sydney)
+89004731,ML Engineer,Talenza,https://www.seek.com.au/job/89004731?type=standard&ref=search-standalone&origin=jobCard#sol=2bec797d072023a2bf80e4864782a3a39c8850d8,4h ago,4.0,2025-12-08T00:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,$140k - $150k p.a.,"📢 Job Opportunity: Machine Learning Engineer - Financial Services (Sydney)
 💰 Salary: $150,000 + Super
 🏢 Location: Sydney CBD (Hybrid)
 ☁️ Tech Focus: Azure | Python | SQL | AI Enablement
@@ -104,7 +147,7 @@ Strong career growth opportunities across data, cloud, and AI teams
 Competitive salary: $150k + Super
 
 If you'd like, I can also tailor this to a specific brand voice, shorten it for LinkedIn, or format it for a job board like Seek."
-89003931,Experienced AI Engineer,Studiosity,https://www.seek.com.au/job/89003931?type=standard&ref=search-standalone&origin=jobCard#sol=4be3f421525bcfc2c11c12ad2529c4ea68e6ff42,4h ago,4.0,2025-12-07T23:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"How do we teach thinking in the age of commoditized intelligence? 
+89003931,Experienced AI Engineer,Studiosity,https://www.seek.com.au/job/89003931?type=standard&ref=search-standalone&origin=jobCard#sol=eb63a0e66f2bf7871302f404260624d1108d1184,5h ago,5.0,2025-12-07T23:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"How do we teach thinking in the age of commoditized intelligence? 
 
 
 Our Australia-based AI-first Ed-Tech is solving this!
@@ -168,7 +211,7 @@ Studiosity is an amazing place to work: In addition to our noble purpose of incr
 
 
 To express your interest please forward a cover letter accompanied by your current resume. Thanks for your consideration and we look forward to hearing from you."
-89003682,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003682?type=standard&ref=search-standalone&origin=jobCard#sol=2e3c327a7d819fd5c9b8efe471440d99e5018ab3,4h ago,4.0,2025-12-07T23:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
+89003682,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003682?type=standard&ref=search-standalone&origin=jobCard#sol=d88f0453f4d2ae2a9bf4261002e1138166f5f9ce,5h ago,5.0,2025-12-07T23:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -249,7 +292,7 @@ How To Apply
 Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
 
 Respectfully, no recruitment agencies."
-89003634,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003634?type=standard&ref=search-standalone&origin=jobCard#sol=69fa837665461087bbed272b971d1e9aaf00f6ab,5h ago,5.0,2025-12-07T22:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
+89003634,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003634?type=standard&ref=search-standalone&origin=jobCard#sol=eb6a264aa05ddcd5d659f39d876077132d13c729,5h ago,5.0,2025-12-07T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -330,7 +373,7 @@ How To Apply
 Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
 
 Respectfully, no recruitment agencies."
-89003590,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003590?type=standard&ref=search-standalone&origin=jobCard#sol=95b9adb5822450f611d863592cb81bbcde5d5b2d,5h ago,5.0,2025-12-07T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
+89003590,Senior AI Architect & Developer,St Vincent's Health Australia,https://www.seek.com.au/job/89003590?type=standard&ref=search-standalone&origin=jobCard#sol=07afaf66c962b3cb300fb072d90d057f134a93f5,5h ago,5.0,2025-12-07T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,competitive salay packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -413,7 +456,7 @@ How To Apply
 Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
 
 Respectfully, no recruitment agencies."
-89003079,Senior Data Engineer / Snowflake / $160k + super,Allura Partners,https://www.seek.com.au/job/89003079?type=standard&ref=search-standalone&origin=jobCard#sol=9941d6f67a21b1c463f1e420d872a21e40d14e2c,5h ago,5.0,2025-12-07T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,160000,"Senior Data Engineer / Snowflake / Sydney / Permanent / $160,000 + super
+89003079,Senior Data Engineer / Snowflake / $160k + super,Allura Partners,https://www.seek.com.au/job/89003079?type=standard&ref=search-standalone&origin=jobCard#sol=646dca858613c1a56c342d7d4f90a60a94800ffa,6h ago,6.0,2025-12-07T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,160000,"Senior Data Engineer / Snowflake / Sydney / Permanent / $160,000 + super
 
 About the company
 
