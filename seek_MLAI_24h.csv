@@ -1,5 +1,317 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89033255,Data Control Officer,Cordel Pty Ltd,https://www.seek.com.au/job/89033255?type=standard&ref=search-standalone&origin=jobCard#sol=0c5ecfbab6dc8da2281af3dc4b0169ff035a0d81,1h ago,1.0,2025-12-09T02:00:00+00:00,"Newcastle West, Newcastle, Maitland & Hunter NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Do you have a sharp eye for detail and a commitment to producing reliable, high-quality data?
+89037409,Databricks Engineer - Data Engineer 12 Month Contract,PRA,https://www.seek.com.au/job/89037409?type=standard&ref=search-standalone&origin=jobCard#sol=6deeadf71b13c165c3fcfe6c575498539c65e51d,1h ago,1.0,2025-12-09T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,n,"Are you a seasoned Databricks Engineer ready to help build and operate a modern data platform?
+
+We’re engaging a skilled engineer to lead the rollout and operational management of a cloud-based data platform using Azure Databricks. This role will work closely with cross-functional teams to design and implement prioritized use cases and build scalable, secure data infrastructure.
+
+What you’ll do
+Design, build, and maintain data ingestion and transformation pipelines using Azure Databricks.
+Onboard new data sources, apply business rules, and produce analytical metrics to support business insights.
+Collaborate with stakeholders to design and implement dimensional data models using best-practice modelling techniques.
+Implement and maintain data governance, quality and security practices within the data lakehouse environment.
+Extend orchestration frameworks, platform design standards, and reusable engineering components.
+Monitor, maintain and troubleshoot existing pipelines to ensure reliability and optimum performance.
+Mentor and support other data engineers, sharing best practices and promoting a robust data engineering culture.
+What you bring
+Bachelor’s degree in Computer Science, Information Systems, or related discipline.
+3+ years’ hands-on experience with Azure Databricks.
+Solid experience with Azure cloud services — e.g. Azure Data Lake, Blob Storage, Azure Data Factory or similar.
+Strong knowledge of data architecture, ETL/ELT processes, data governance, quality, privacy and security.
+Proficiency in SQL, data analysis, and programming (e.g. Python).
+Strong analytical and problem-solving skills, with the ability to design and refine complex data systems.
+Familiarity with modern data architectures (e.g. Medallion Architecture) and best-practice data engineering principles.
+Why this role?
+Take a leading role in building a modern, cloud-native data platform — delivering real business impact.
+Work within a collaborative, data-driven team environment.
+12-month contract with competitive remuneration and hybrid working flexibility.
+Opportunity to mentor and grow a team of data engineers, and shape long-term platform standards and practices.
+If you’re a motivated Databricks engineer who thrives on building robust data infrastructure and delivering data-driven insights, apply now to join our data engineering team and help drive our data transformation journey."
+89037398,Head of Data Engineering,iSelect Ltd,https://www.seek.com.au/job/89037398?type=standard&ref=search-standalone&origin=jobCard#sol=0ed2a6266044b94e15ab31999b4d011399edda2e,1h ago,1.0,2025-12-09T04:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are 
+
+iSelect and Compare the Market are trusted, well-known brands dedicated to helping millions of Australians compare and buy personal finance and household products such as insurance, energy, and loans. Together, we provide a seamless, customer-focused experience that makes it easier for Australians to find the right products to suit their needs.
+
+What You’ll be doing
+
+As Head of Data Engineering, you will lead the development, scalability, and operational excellence of our core data platforms. You’ll drive best-in-class engineering practices, ensure data integrity and availability, and oversee automation, monitoring, and optimisation of data workflows. You will also shape modern data architectures, implement cloud-based big data solutions, and champion DataOps methodologies to deliver efficient, reliable, and innovative data capabilities.
+
+Define and deliver the data engineering roadmap, ensuring governance, security, and data quality.
+Architect, build and optimise scalable data solutions utilising Databricks as our Enterprise Date Platform. 
+Implement DataOps practices for automation, CI/CD, and testing.
+Build and lead high-performing teams while fostering collaboration and innovation.
+Stay ahead of emerging trends and adopt tools to enhance automation and cost efficiency.
+
+What’s in it for you
+
+At Compare the Market and iSelect we offer a dynamic and collaborative work environment where your talents will be recognised and rewarded. You’ll have the opportunity to make a meaningful impact and contribute to our continued success, we also provide:
+
+Vibrant and social community who have annual celebrations, family fun days and regular events.
+Enjoy flexible work arrangements, including the option of one day working from home each week or a 9-day fortnight.
+Enjoy additional “ME” leave days
+Employee discounts on Car, Home, Travel insurance.
+Income protection insurance provided to support you in the event of non-work-related illness or injury. 
+
+What Sets You Apart
+
+Demonstrated leadership and team-building skills, with experience managing high-performing engineering teams.
+Ability to develop strategy, influence senior stakeholders, and align data solutions with business objectives.
+Extensive experience with cloud-based data platforms (AWS, Azure, GCP) and data lake/lakehouse architectures.
+Expertise in big data frameworks (Apache Spark, Hadoop, Snowflake, Redshift, BigQuery, Delta Lake) and strong skills in Python, PySpark, SQL.
+Proven ability to design and optimise ETL/ELT pipelines for structured and unstructured data.
+Hands-on experience with DataOps practices, including CI/CD (Terraform, dbt, GitHub Actions, Azure DevOps) and orchestration tools (Airflow, Dagster, Prefect).
+Knowledge of real-time streaming technologies (Kafka, Kinesis, Delta Live Tables).
+Strong understanding of data governance, security, and compliance (Unity Catalog, GDPR, CCPA, HIPAA), including RBAC, encryption, and data masking.
+
+Sound like a good fit? Let’s talk.
+
+At Compare the Market and iSelect we’re proud to be an Equal Opportunity Employer and we embrace diversity.  
+
+This role is available to candidates with unlimited Australian working rights only. Sponsorship is not available.  
+
+Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
+89036741,Data Engineer - Databricks,The Aquarium,https://www.seek.com.au/job/89036741?type=standard&ref=search-standalone&origin=jobCard#sol=0c458fa6272c25f0aeec1e24d3b238cdc5780bf3,1h ago,1.0,2025-12-09T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Senior Databricks Engineer - Baseline
+
+12 Month Contract
+Hybrid Sydney 
+Security Clearance: Baseline, NV1 or NV2 required
+We are supporting a major Federal agency on a large-scale data modernisation program and are looking for 3 x Senior Databricks Engineers to join the team. This work sits inside a broader program uplift, focused on modernising core data assets and building a sustainable, enterprise-grade Databricks lakehouse environment on Azure.
+
+You will lead the rollout and ongoing operation of the Databricks platform, guide the design and delivery of key use cases, and mentor BAU engineers as the organisation transitions to a modern data architecture.
+ 
+Key Responsibilities
+
+- Build and maintain data ingestion and transformation pipelines in Azure Databricks
+- Add new data sources, implement business rules, and produce metrics that drive business decisions
+- Work with stakeholders to develop new data models using best practice dimensional modelling
+- Monitor and uplift data quality and security across the Databricks lakehouse
+- Extend orchestration frameworks and platform design principles as required
+- Troubleshoot and optimise existing Databricks workloads
+- Mentor and lead engineers on software engineering and platform best practice
+ 
+What You Bring
+
+- 3 plus years hands on experience with Databricks on Azure
+- Strong capability across Azure Data Lake, Blob Storage and Azure Data Factory
+- Solid understanding of data architecture, governance and quality frameworks
+- Proficiency in SQL, Python and modern ETL practices
+- Strong analytical and problem solving capability
+- Knowledge of Medallion Architecture or similar data frameworks
+- Bachelor's degree in Computer Science, Information Systems or related field
+ 
+Contract Details
+
+- 12 month contract
+- January or February start
+- Sydney based hybrid working
+- Baseline clearance or above required"
+89036519,Senior Machine Learning Engineer - Evaluations (Design Generation),Canva,https://www.seek.com.au/job/89036519?type=standard&ref=search-standalone&origin=jobCard#sol=0392b715f686313538aa9924874d8019499bf46a,1h ago,1.0,2025-12-09T04:00:00+00:00,Sydney NSW (Hybrid),Web & Interaction Design (Design & Architecture),Full time,,"Company Description
+
+
+Join the team redefining how the world experiences design.
+
+Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. 
+
+Where and how you can work
+
+Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide, and Auckland, NZ. You have flexibility in how and where you work — whether that's from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia or New Zealand, so you can choose the setup that empowers you and your team to do your best work.
+
+Job Description
+
+
+About the team:
+ 
+
+Canva's Design Generation systems use AI to create complete designs from text descriptions - turning user intent into layouts, images, typography, and color palettes. At scale, we generate millions of designs monthly, making reliable quality evaluation critical. The Design Generation Platform team (8 engineers) supports Design Generation infrastructure with focus on developer experience tooling, platform orchestration, and self-service capabilities. We own the plumbing that makes Design Generation systems observable, debuggable, and improvable.
+
+Our philosophy: Platform owns orchestration, not application logic. We build reusable infrastructure that scales across Design Generation rather than solving one-off problems. We emphasize collaborative decision-making, evidence-based approaches, and building capabilities that serve researchers and engineers across Design Generation.
+
+About the role:
+
+As the Design Generation Evaluation owner, you'll build the infrastructure that enables quality monitoring across Design Generation. You're the expert who both understands evaluation methodologies deeply AND builds the infrastructure to scale them across the organization.
+
+This role sits at the intersection of three critical areas:
+
+Evaluation Strategy & Expertise: You'll guide Design Generation teams on how to evaluate their systems effectively - which methods work for different scenarios, how to set up robust test sets, when to use LLM-as-Judge vs. 1st Party Quality Models vs. user signals, and how to balance cost with detection speed. You'll establish evaluation best practices and patterns that teams can adopt.
+
+Infrastructure & Scale: You'll build the platforms that make evaluation accessible and automated - alerting systems, continuous monitoring, production sampling, step-level harnesses. Your goal is enabling teams to run evaluations effortlessly, eventually integrating evaluation checks into Continuous Deployment so quality gates happen automatically.
+
+Ecosystem Integration: Canva has multiple evaluation tools. You'll articulate how these pieces fit together for Design Generation, define clear integration points, and build the connective tissue that makes the evaluation story coherent rather than fragmented.
+
+The challenge: Quality degradation in generative systems is subtle. Designs look slightly off-brand, layouts don't quite work, users stop publishing without clear signals. You'll need deep ML intuition to build detection systems that catch real issues while minimizing false positives. This role requires navigating ambiguity, making pragmatic architecture decisions, and building infrastructure that serves diverse evaluation needs across research and engineering.
+
+What you’ll do (responsibilities)
+
+Understand and optimize existing evaluation systems including LLM-as-Judge frameworks, visual quality models , and multi-dimensional scoring approaches - analyzing their strengths, limitations, and trade-offs to identify gaps in coverage and opportunities for improvement across brand adherence, visual appeal, layout quality, and functional correctness
+
+Design and implement automated evaluation pipelines that score generated designs at scale, balancing accuracy with computational cost
+
+Define evaluation strategies for different scenarios: pre-deployment validation, continuous monitoring, A/B experiment analysis, and model comparison
+
+Curate high-quality evaluation datasets and benchmark suites that represent diverse use cases, edge cases, and quality dimensions
+
+Integrate evaluation systems into continuous deployment pipelines, creating automated quality gates that catch regressions before production
+
+Reduce evaluation cycle time to enable teams to iterate faster on model improvements and launch experiments earlier
+
+Partner with research teams to understand evaluation needs for new model architectures and capabilities
+
+Define the evaluation ecosystem strategy: how different evaluation tools and methods compose together for Design Generation
+
+Guide teams on evaluation best practices, appropriate methodologies for their use cases, and interpretation of results
+
+What we're looking for
+
+Strong ML engineering fundamentals with experience building and maintaining production ML systems at scale
+
+Proven ability to build robust, scalable infrastructure (not just models) - you're a platform engineer who speaks ML
+
+Deep understanding of distributed systems, observability patterns, and monitoring best practices
+
+Python proficiency with production-quality coding standards, code reviews, and testing practices
+
+Experience with data pipelines, time-series data, and statistical analysis for detecting anomalies
+
+SQL fluency for querying and analyzing large datasets across data warehouse and analytics systems
+
+Track record of building self-service platforms or developer tooling that gets adoption
+
+Excellent collaboration skills - this role requires working across teams to understand needs and deliver solutions
+
+Experience with evaluation of Gen AI systems at scale (even better if that’s evaluation of systems with creative outputs!)
+
+Additional Information
+
+
+Don't tick all the boxes? Don't worry about that - nobody does!  We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you're excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!
+
+What's in it for you?
+
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
+
+Here's a taste of what's on offer:
+
+Equity packages - we want our success to be yours too
+Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
+
+Check out  lifeatcanva.com  for more info.
+
+Other stuff to know
+
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
+89035833,Mechatronics Project Engineer - Industrial Automation,Ignite,https://www.seek.com.au/job/89035833?type=standard&ref=search-standalone&origin=jobCard#sol=b91518e3aabc3df4fa4fcf05d54f6744ac013057,1h ago,1.0,2025-12-09T04:00:00+00:00,"Mosman, Sydney NSW (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,"AUD 135 - 145 per annum, Immediate start","Our client is working in the industrial automation space with cutting-edge, AI-driven technology — and they need an expereince Mechatronics hands-on Project Engineer to bring it all to life. Starting in January 2026!
+
+From concept design to site commissioning, you’ll own the entire lifecycle. (360 degree technical role)
+You’ll work on one-of-a-kind automated products using AI, advanced robotics, and deep learning. This role is for someone who thrives on solving tough problems, pushing the boundaries of what’s possible, and getting things done.
+
+Position Purpose
+
+The Project Engineer is responsible for contributing to the end-to-end delivery of advanced automation projects within the team, including the design, programming, integration, testing, and commissioning of systems incorporating AI, robotics, and vision-guidance technologies.
+The role requires a technically proficient, hands-on engineer who can operate across the full project lifecycle within a small, agile team working mainly within the Australian meat industry.
+This role will include travel to client sites located in Victoria, Queensland, and rural NSW during commissioning periods.
+ 
+ 
+Essential Qualifications and Experience
+
+Bachelor's degree in Mechatronics, Electronics, or equivalent.
+Minimum of 3 years professional experience in industrial automation, preferably in a project delivery capacity.
+Demonstrated contributions to the controls system in complex automation projects from design through to commissioning, including experience with concept development and testing/simulating.
+Must be able to demonstrate complex robotic systems experience and challenges you have faced before.
+Experience working on-site and willingness to travel as required.
+Must hold current Australian Drivers Licence.
+ 
+Preferred Skills and Attributes
+
+Industrial site commissioning experience
+Experience with robot programming
+Experience with PC programming
+The role requires being comfortable working across a range of industries, including manufacturing, meat processing and mining.
+Flexible hours may be required to meet project deadlines
+ 
+ 
+ Key Responsibilities
+
+Work closely with the team to concept develop novel industrial automation and robotics systems, often in applications which haven’t been automated before. Your input will be valued, particularly from the perspective of the control’s requirements.
+Contribute across the full lifecycle of automation projects, from concept development to onsite commissioning and support. 
+Design and implement industrial automation controls solutions and perform PLC programming, with experience and proficiency using Structured Text.
+Collaborate closely with internal stakeholders to refine product designs and meet project objectives. 
+Contribute to technical documentation, system specifications, and test procedures.
+Ensure all work complies with relevant safety and engineering standards.
+Active interest in learning and development, including an interest in exposure to robot and PC programming.
+ 
+ 
+If you have the required professional Industrial experience and skills to complete this amazing, exciting and challenge position , please send your word formatted resume via the link below.
+ 
+Only applicants with the right to work in Australia will be considered.
+ 
+Call Michael Knight on 0432 795163 is you have any questions
+
+
+Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
+89035002,Data Engineer,Enovis Surgical,https://www.seek.com.au/job/89035002?type=standard&ref=search-standalone&origin=jobCard#sol=1d26fd7850baf05f412f5747de5dd69c201089a8,1h ago,1.0,2025-12-09T04:00:00+00:00,Brisbane QLD,Engineering - Software (Information & Communication Technology),Full time,,"Enovis Corporation (NYSE: ENOV) is an innovation-driven medical technology company dedicated to creating a future of better care. Through groundbreaking products, software, and solutions, we help patients achieve extraordinary outcomes.
+
+Job Description
+
+Enabling Technologies is a fast-moving team focused on the development and integration of modern, technology-based solutions for orthopedic surgery at Enovis. It is driven by the goal of enabling surgeons to more effectively achieve desired performance metrics for procedures while also increasing patient satisfaction.
+
+We are seeking a skilled and mission-driven Data Engineer to join our team developing a cutting-edge cloud-based machine learning platform for medical devices. This role is critical to enabling scalable, secure, and compliant data pipelines that power training of machine learning and other models, real-time analytics, predictive modeling, and clinical insights.
+
+This role requires a deep understanding of cloud-native data architectures, healthcare data standards, and regulatory requirements. You’ll collaborate closely with data scientists, ML engineers, software developers..
+
+You will work with a multidisciplinary team to design and implement data pipelines that handle medical imaging, protected health information (PHI), personally identifiable information (PII), clinical notes, and patient outcomes—all within a regulated healthcare environment.
+
+Key Responsibilities:
+
+ Design and implement scalable, secure data pipelines for ingesting, transforming, and storing multimodal healthcare data including imaging (e.g., DICOM), structured EHR data, unstructured clinical notes, and outcomes. 
+
+Build and maintain data lake and warehouse architectures using modern cloud technologies. Ensure data privacy, integrity, and compliance with healthcare regulations such as HIPAA, GDPR, and FDA guidelines. 
+
+Collaborate with ML and software engineering teams to enable model training, deployment, and monitoring workflows. 
+
+Develop tools for data validation, lineage tracking, and auditability. 
+
+Support ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) processes, metadata management, and data cataloging. 
+
+Contribute to documentation, code reviews, and agile development practices.
+
+Required Qualifications:
+
+Bachelor’s or master’s degree in computer science, engineering, or related field. 
+
+5+ years of experience in data engineering, preferably in healthcare or regulated industries. 
+
+Knowledge & Skills:
+
+Proficiency in Python, SQL, and data pipeline frameworks (e.g., Data Verson Control, Apache Airflow). 
+
+Experience with cloud platforms (AWS, Azure, or GCP) and cloud-native data services (Docker and Containerization). 
+
+Strong understanding of data modeling, schema design, and data governance. 
+
+Familiarity with ML workflows and tools (e.g., TensorFlow, PyTorch, MLflow, DVC. 
+
+Experience handling PHI/PII and sensitive healthcare data securely and compliantly.
+
+Experience with medical imaging formats (e.g., DICOM) and healthcare data standards (e.g., FHIR, HL7), EHR/EMR systems. 
+
+Knowledge of DevOps practices, CI/CD pipelines, and infrastructure-as-code (preference for Pulumi), cloud applications (preference for AWS). 
+
+Exposure to real-time data streaming (e.g., Kafka, Kinesis). 
+
+Understanding of security and privacy best practices in medical data handling. 
+
+Excellent communication skills, adaptability and ability to work across a multidisciplinary team.
+
+At Enovis, we’re focused on Creating Better Together!
+We’re proud to be named one of The Healthcare Technology Report's Top 100 Healthcare Technology Companies of 2023.
+
+We embrace diversity, equity, and inclusion and are committed to creating a respectful and inclusive workplace where everyone belongs.
+
+Learn more about us:
+🌐 https://ourpurpose.enovis.com/
+🌐 https://enovis.com"
+89033255,Data Control Officer,Cordel Pty Ltd,https://www.seek.com.au/job/89033255?type=standard&ref=search-standalone&origin=jobCard#sol=d680e398aef00d2738f25d45a2b38111fd7a2e1e,2h ago,2.0,2025-12-09T03:00:00+00:00,"Newcastle West, Newcastle, Maitland & Hunter NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Do you have a sharp eye for detail and a commitment to producing reliable, high-quality data?
 
 If so, Cordel is seeking a meticulous Data Control Officer to help transform high-volume rail data into quality-assured outputs for customers around the world.
 
@@ -39,7 +351,7 @@ Cordel is a global rail-tech company using machine learning, automation and sens
 We will be reviewing applications and contacting applicants in the New Year, from 5 January 2026 onwards.
 
 If you have any queries regarding this role, please contact hr@cordel.ai"
-89030964,AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89030964?type=standard&ref=search-standalone&origin=jobCard#sol=7f723e4df0276d7d903418f664d60a8c6d3ac769,2h ago,2.0,2025-12-09T01:00:00+00:00,Sydney NSW,Other (Engineering),Contract/Temp,$850 - $900 p.d. Inclusive of super,"Our leading Aviation client is seeking an experienced AI Engineer to join their team on a 6-month initial contract. This role offers flexible working from home arrangements and pays up to $900 per day inclusive of super.
+89030964,AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89030964?type=standard&ref=search-standalone&origin=jobCard#sol=af306d76b1dcd701c3acd18e3a68bce512fb4bb6,3h ago,3.0,2025-12-09T02:00:00+00:00,Sydney NSW,Other (Engineering),Contract/Temp,$850 - $900 p.d. Inclusive of super,"Our leading Aviation client is seeking an experienced AI Engineer to join their team on a 6-month initial contract. This role offers flexible working from home arrangements and pays up to $900 per day inclusive of super.
 
 About the Role:
 
@@ -70,7 +382,7 @@ Knowledge of MLOps/LLMOps patterns, vector databases, agent-based architectures,
 Strong understanding of risk management, governance, and compliance frameworks as applied to AI.
 
 If you are interested, please apply now. For a confidential discussion, please reach out to Josh.costigan@talentinternational.com"
-89029433,Junior Ai Engineer,Lendi Group,https://www.seek.com.au/job/89029433?type=standard&ref=search-standalone&origin=jobCard#sol=ad7b32f1ba7540c3d0deb45e47987d7b130e1453,3h ago,3.0,2025-12-09T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89029433,Junior Ai Engineer,Lendi Group,https://www.seek.com.au/job/89029433?type=standard&ref=search-standalone&origin=jobCard#sol=6fadbd474cf3cb0a3e8ece0fbc78856c658b11e7,4h ago,4.0,2025-12-09T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 Lendi Group is a market-leading digital platform business focused on transforming the home loan industry. It operates the country’s #1 retail mortgage broker – the iconic Aussie Home Loans franchise – and the Australia’s #1 digital mortgage brand, Lendi.
 
@@ -131,7 +443,7 @@ Feeling like you don’t meet all the skills listed? That’s ok; we are always 
  
 
 #lendigroup #LI-GR2 #LI-hybrid"
-89029483,Data Engineer,Nine,https://www.seek.com.au/job/89029483?type=standard&ref=search-standalone&origin=jobCard#sol=8ca1e6363eac056f78f3e77360822ddbcb949963,3h ago,3.0,2025-12-09T00:00:00+00:00,"North Sydney, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+89029483,Data Engineer,Nine,https://www.seek.com.au/job/89029483?type=standard&ref=search-standalone&origin=jobCard#sol=cf9e30e20701faa8c933b5b29f06a9af57e8c77d,4h ago,4.0,2025-12-09T01:00:00+00:00,"North Sydney, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
 
 
 Nine is Australia’s largest locally owned media company. Working at Nine, you’ll have access to a unique range of experiences and opportunities, helping drive the success of the country’s most trusted television, radio, digital and publishing brands. 
@@ -220,7 +532,7 @@ Work rights: Please note to apply for this role you must already have the right 
 
 Our office will be closed for the annual End-of-Year shutdown from December 22nd to January 2nd.
 Applications will be reviewed upon our return from January 5th, 2026. Thank you in advance for your understanding while our Talent Acquisition team takes a break. We look forward to connecting with you in the New Year and wish you a safe and happy holiday."
-89029073,Senior AI Engineer,Australian Unity,https://www.seek.com.au/job/89029073?type=standard&ref=search-standalone&origin=jobCard#sol=c9702a4c8fa60702789a1f42ed2f46467b66a5a4,3h ago,3.0,2025-12-09T00:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
+89029073,Senior AI Engineer,Australian Unity,https://www.seek.com.au/job/89029073?type=standard&ref=search-standalone&origin=jobCard#sol=8ee586043e15266f1648edada66b941a0907dc4c,4h ago,4.0,2025-12-09T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -311,7 +623,7 @@ You will enjoy a range of great employee benefits and rewards including:
 For further benefits visit: https://www.australianunity.com.au/careers/culture
 
 Australian Unity is an Equal Opportunity employer and we encourage applications from all members of the community, including people of Aboriginal and Torres strait Islander descent, culturally and linguistically diverse backgrounds and, mature aged people."
-89028930,AI Engineer/Architect,Clicks IT Recruitment (VIC),https://www.seek.com.au/job/89028930?type=standard&ref=search-standalone&origin=jobCard#sol=e2d540edbe7a3e44d5069b7adc961b7682a46489,3h ago,3.0,2025-12-09T00:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,,"Join a cross‑functional squad improving academic rules at scale. You'll design and ship real LLM solutions end‑to‑end - no people management, just meaningful delivery. Work with modern tooling, vector databases, and cloud AI, with flexibility and extensions likely.
+89028930,AI Engineer/Architect,Clicks IT Recruitment (VIC),https://www.seek.com.au/job/89028930?type=standard&ref=search-standalone&origin=jobCard#sol=eb7d143603ae1f1c6308ee0af57f79a705968d2f,5h ago,5.0,2025-12-09T00:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,,"Join a cross‑functional squad improving academic rules at scale. You'll design and ship real LLM solutions end‑to‑end - no people management, just meaningful delivery. Work with modern tooling, vector databases, and cloud AI, with flexibility and extensions likely.
 
 Responsibilities
 
@@ -344,7 +656,7 @@ If you wish to apply for this position, please submit your resume by clicking th
 At Clicks we embrace diversity, inclusion and equal opportunity. First Nations people are encouraged to apply.
 
 We provide reasonable adjustments, including alternate formats to the recruitment process for individuals with disability. If you require an adjustment to be made during the recruitment process, please call 1300 254 257 or email adjustments@clicks.com.au"
-89027697,Data Engineer - Mid Level,Milestone Information Technology,https://www.seek.com.au/job/89027697?type=standard&ref=search-standalone&origin=jobCard#sol=9a92dc01d00ba64a9c63c351e88d45b1b1e03335,4h ago,4.0,2025-12-08T23:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Milestone IT is partnering with a leading healthcare organisation to deliver innovative, data-driven solutions that directly improve patient care and operational efficiency. We are currently seeking an experienced Data Engineer to join the team and play a key role in building scalable data pipelines, modernising data platforms and enabling advanced analytics across the business.
+89027697,Data Engineer - Mid Level,Milestone Information Technology,https://www.seek.com.au/job/89027697?type=standard&ref=search-standalone&origin=jobCard#sol=a0ef2cc67c3dc2635fa3a857d61070280b2c7438,6h ago,6.0,2025-12-08T23:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Milestone IT is partnering with a leading healthcare organisation to deliver innovative, data-driven solutions that directly improve patient care and operational efficiency. We are currently seeking an experienced Data Engineer to join the team and play a key role in building scalable data pipelines, modernising data platforms and enabling advanced analytics across the business.
 
 What you will be doing
 Design, build, and maintain robust ETL/ELT pipelines across multiple data sources
@@ -368,7 +680,7 @@ Opportunity to contribute to healthcare outcomes through data innovation
 Supportive team environment and career-growth opportunities
 Competitive rates and flexible working arrangements
 Apply Now If you’re passionate about building modern data solutions and want to make a meaningful impact in the healthcare sector, we’d love to hear from you."
-89027451,Integration Specialist (MuleSoft),Western Sydney Airport,https://www.seek.com.au/job/89027451?type=standard&ref=search-standalone&origin=jobCard#sol=0c741767a7d9189daa4362d34b2b8a2c741b9b5d,4h ago,4.0,2025-12-08T23:00:00+00:00,"Liverpool, Sydney NSW",Developers/Programmers (Information & Communication Technology),Full time,,"About Us
+89027451,Integration Specialist (MuleSoft),Western Sydney Airport,https://www.seek.com.au/job/89027451?type=standard&ref=search-standalone&origin=jobCard#sol=b6b78473f510374fe7c8aa3343cc1e84522350f6,6h ago,6.0,2025-12-08T23:00:00+00:00,"Liverpool, Sydney NSW",Developers/Programmers (Information & Communication Technology),Full time,,"About Us
 
 Western Sydney International (Nancy-Bird Walton) Airport is at the heart of the incredible transformation across Western Sydney. WSI will be a 24/7 hub for international, domestic and cargo services, create fantastic career opportunities in Sydney's cultural heartland.
 
@@ -444,7 +756,7 @@ To apply for this role, you must already have the right to lawfully work and liv
 If you're our preferred candidate, you'll be requested to undergo background and medical checks. You must be at least 18 years of age to work at WSI.
 
 For more information explore the WSI website https://wsiairport.com.au or our Facebook, Instagram or LinkedIn pages."
-89026920,AI Engineer (Data Science),Future Secure AI Pty Ltd,https://www.seek.com.au/job/89026920?type=standard&ref=search-standalone&origin=jobCard#sol=69961450f0375ff42013e38be608f6d80b52d9a4,5h ago,5.0,2025-12-08T22:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"About Us 
+89026920,AI Engineer (Data Science),Future Secure AI Pty Ltd,https://www.seek.com.au/job/89026920?type=standard&ref=search-standalone&origin=jobCard#sol=43d04e3307131d72a4b248cf7600a94136f14f62,6h ago,6.0,2025-12-08T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"About Us 
 
 Future Secure AI (FSAI) is a leading enterprise AI company that was created in deep partnership with one of the world's largest financial institutions.
 
@@ -509,7 +821,7 @@ Able to attend our beautiful Sydney CBD office 2-3 days a week
 If you're passionate about working with state-of-the-art technology, alongside experienced world-class leadership, and joining truly some of the best talent in the industry, we'd love to hear from you!
 
 For a quicker response, we encourage you to apply directly through our website at https://www.futuresecure.ai/. There, you can watch a video about AI workers and explore the career opportunities we have available."
-89026246,Controls & Automation Technician,Thomas Foods International,https://www.seek.com.au/job/89026246?type=standard&ref=search-standalone&origin=jobCard#sol=d7eca0dc10acc492d67bd3987f5bd697fd63e3c2,6h ago,6.0,2025-12-08T21:00:00+00:00,"Stawell, Horsham & Grampians VIC",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $130,000 per year","Family owned since 1988, Thomas Foods International (TFI) is one of Australia's largest food businesses. With teams across Australia, the US, Canada, China, Japan & Europe. TFI is an organisation that truly embodies its values-driven philosophy & positive working culture. Now, is the perfect time to join this innovative, growing global business.
+89026246,Controls & Automation Technician,Thomas Foods International,https://www.seek.com.au/job/89026246?type=standard&ref=search-standalone&origin=jobCard#sol=8e0d3851f69a22b52b4555a762abe59b5d81242c,7h ago,7.0,2025-12-08T22:00:00+00:00,"Stawell, Horsham & Grampians VIC",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $130,000 per year","Family owned since 1988, Thomas Foods International (TFI) is one of Australia's largest food businesses. With teams across Australia, the US, Canada, China, Japan & Europe. TFI is an organisation that truly embodies its values-driven philosophy & positive working culture. Now, is the perfect time to join this innovative, growing global business.
 
 Discover an exciting career opportunity at our Stawell meat processing plant, your gateway to the stunning Grampians region. You'll work with a passionate and diverse team that's empowered to achieve big things and deliver at pace.
 
@@ -580,7 +892,7 @@ Your next exciting career move awaits in Stawell! Here, you'll find the perfect 
 If this sound like the right opportunity for you, we would love for you to apply for the position.
 
 Thomas Foods Intenational recognise that creating tasty moments for a diverse range of consumers is only possible if our workforce reflects the consumers we serve. We are an equal opportunity employer - because it's right for our consumers, our business, and especially our people."
-89026197,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/89026197?type=standard&ref=search-standalone&origin=jobCard#sol=cb466a4d00608cb249e1eb2cb28d1fd9435f5096,6h ago,6.0,2025-12-08T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$135,000 + Super","Microsoft Fabric Data Engineer 
+89026197,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/89026197?type=standard&ref=search-standalone&origin=jobCard#sol=68e6b2ec3330bb6440aebcc7e3890b06d2f38454,8h ago,8.0,2025-12-08T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$135,000 + Super","Microsoft Fabric Data Engineer 
 
 $135,000 + Super
 
