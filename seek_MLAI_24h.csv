@@ -1,661 +1,401 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89089181,Software Engineer Analyst,Morgan McKinley,https://www.seek.com.au/job/89089181?type=standard&ref=search-standalone&origin=jobCard#sol=307041ee8367bc469df566d1c08e4df9c8118175,2h ago,2.0,2025-12-11T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,$600 - $800 p.d.,"Software Engineer Analyst
-Contract - 12 months
-About the Role
+89099105,Principal Solution Architect - Artificial Intelligence Solutions,NEC Australia Pty Ltd,https://www.seek.com.au/job/89099105?type=standard&ref=search-standalone&origin=jobCard#sol=209b1a4c6e7b833cb485668075c2d0e92336304c,5h ago,5.0,2025-12-11T15:00:00+00:00,Canberra ACT (Hybrid),Architects (Information & Communication Technology),Full time,Attractive salary on offer,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
 
-We are working with a leading financial services organisation that is undertaking a major modernisation of its Mortgage technology platforms. They are migrating a 20-year legacy Java codebase into a modern, cloud-native architecture and are looking for a highly capable Software Engineering Analyst who is deeply technical, self-sufficient, and experienced across both legacy and modern Java stacks.
 
-This role sits at the intersection of software engineering, solution implementation, cloud modernisation, and hands-on delivery. You will work alongside architects who have already defined the target state, and you will be responsible for executing the modernisation across backend, integration, and UI layers.
 
-Key Responsibilities
-Modernisation & Software Engineering
 
-Modernise and refactor legacy Java applications into a current-state Java/Spring Boot architecture.
+This role is pivotal in supporting the company’s vision and ensuring that our use of AI and offerings meet the evolving needs of our business across various use cases and applications. The successful candidate will work closely with internal teams, clients, and vendors to architect and enhance AI solutions, driving innovation and compliance with industry standards.
 
-Work across both old and new Java frameworks to ensure smooth migration and compatibility.
 
-Lead hands-on development efforts in Java, Spring Boot, APIs, React, and cloud-native services.
 
-Support migration of frontend components from older libraries into Spring + React.
 
-Cloud & Containerisation
-
-Build, deploy, and optimise applications on Microsoft Azure.
-
-Work extensively with Azure services including:
-
-Storage Accounts
-
-Service+
-
-Azure AI Search
-
-Azure SQL
-
-Containerise applications using Docker, Azure Containers, and Kubernetes (AKS).
-
-Database and Data Layer
-
-Support migration from MariaDB into Azure SQL.
-
-Ensure data integrity, performance, and compatibility through the migration process.
-
-Development Leadership
-
-Act as the technical lead within the modernisation stream, driving engineering quality and best practices.
-
-Operate independently with minimal guidance - strong ability to self-direct, problem-solve, and deliver outcomes.
-
-Contribute to solution discussions with architects, ensuring alignment with the defined target-state architecture.
-
-AI & Productivity Enablement
-
-Leverage agentic AI tools (e.g., GitHub Copilot) to enhance delivery speed, code quality, and automation."
-89086603,Senior Data & Analytics Consultant - Databricks / Microsoft Fabric,D2i Consulting Pty Ltd,https://www.seek.com.au/job/89086603?type=standard&ref=search-standalone&origin=jobCard#sol=857eff4879f74e72cb978bb782f9aeffa9fbd672,3h ago,3.0,2025-12-11T04:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"Senior Data & Analytics Consultant – Databricks / Microsoft Fabric
-
-D2i Consulting Pty Ltd
-Melbourne VIC (Hybrid)
-Full-Time | Senior Consulting | Data & AI Solutions
-
-D2i is a high-growth Data & Analytics consultancy helping organisations modernise their data platforms, adopt AI-driven insights, and unlock transformational business value. We are now seeking a Senior Data & Analytics Consultant with strong hands-on experience in Databricks and/or Microsoft Fabric, combined with the consulting capability to lead delivery, shape solutions, and engage effectively with senior business stakeholders.
-
-This role is ideal for an experienced data professional who is ready to step into a client-facing, solution-driven consulting role with ownership of delivery outcomes and the opportunity to influence strategy and architecture.
-
-About the Role
-
-As a Senior Data & Analytics Consultant, you will lead key workstreams within modern data platform, analytics, and engineering engagements. You’ll work directly with business and technical stakeholders to understand their needs, define solutions, and deliver high-quality data products across Databricks, Fabric, and Azure.
-
-You will shape data strategies, design modern data architectures, drive best practices, and mentor junior team members—all while ensuring client outcomes are met with high quality and professionalism.
-
-Key Responsibilities
-Solution Design & Technical Leadership
-
-Lead the design of modern data solutions using Databricks, Microsoft Fabric, and Azure analytics services.
-
-Architect ingestion, transformation, and modelling layers aligned to best practices in ELT, medallion architecture, and scalable cloud design.
-
-Translate business problems into technical designs, working alongside architects and client stakeholders.
-
-Data Engineering & Platform Delivery
-
-Develop high-quality pipelines and transformations using PySpark, SQL, Databricks notebooks, Fabric Data Engineering, and Azure Data Factory.
-
-Build robust data models and refined layers suitable for analytics, finance reporting, operational dashboards, and predictive use cases.
-
-Apply mature engineering practices including CI/CD, testing frameworks, version control, and development standards.
-
-Advanced Analytics & Enablement
-
-Contribute to advisory work including AI readiness assessments, data platform modernisation strategies, and roadmap development.
-
-Support Power BI enablement and data product preparation where required.
-
-Stakeholder Engagement & Consulting
-
-Facilitate workshops and discovery sessions with technical, business, and executive stakeholders.
-
-Communicate complex technical concepts in business-friendly language.
-
-Provide guidance, recommendations, and insights to drive client decision-making.
-
-Delivery Ownership & Leadership
-
-Lead delivery of end-to-end workstreams with accountability for outcomes, timelines, and quality.
-
-Mentor mid-level and junior consultants to uplift capability within the team.
-
-Prepare clear documentation, solution outlines, architectural notes, and handover materials.
-
-About You
-
-You are an experienced data consultant (or a senior engineer ready to step up) who can combine strong hands-on delivery with strategic thinking and excellent client engagement.
-
-You will bring:
-
-5–8+ years’ experience in data engineering, analytics delivery, or data platform consulting.
-
-Strong capability in Databricks and/or Microsoft Fabric, including PySpark, SQL, notebooks, orchestration, and performance optimisation.
-
-Strong understanding of Dimensional Modelling, ELT patterns, medallion architecture, and modern data warehousing.
-
-Experience designing or delivering cloud data platforms on Azure.
-
-Confident stakeholder engagement skills, including workshops, presentations, and solution walkthroughs.
-
-Ability to work independently, guide others, and take ownership of client outcomes.
-
-Nice to Have
-
-Experience with SAP, enterprise ERP data structures, or large-scale migration projects.
-
-Power BI capability (data models, DAX, dashboard design).
-
-Prior consulting or professional services experience.
-
-Requirements
-
-Must have full Australian working rights.
-
-Availability to commence within 2–4 weeks (preferred but flexible).
-
-Strong communication and presentation skills.
-
-Ability to operate in a hybrid agile delivery model with autonomy.
-
-Why Join D2i?
-
-Work on cutting-edge Data & AI transformation projects across enterprise and government clients.
-
-Senior-level ownership with opportunities to influence architecture and delivery approach.
-
-Hybrid working model with flexibility.
-
-Collaborative culture with strong technical leadership and support.
-
-Opportunity to mentor consultants and shape project outcomes."
-89083098,MS Engineer (L3): Network - Perth,NTT DATA,https://www.seek.com.au/job/89083098?type=standard&ref=search-standalone&origin=jobCard#sol=a0751aeb58e875e3ae68c23b35965a711eab6345,5h ago,5.0,2025-12-11T02:00:00+00:00,Perth WA,Help Desk & IT Support (Information & Communication Technology),Full time,,"Make an impact with NTT DATA
-Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.
-
-Your day at NTT DATA
-
-This resource is responsible for proactively identifying and resolving technical incidents and problems. Through pre-emptive service incident and resolution activities, as well as product reviews, operational improvements, operational practices and quality assurance this role will maintain a high level of service to clients. Their primary objective is to ensure zero missed service level agreement (SLA) conditions.
-
-The Managed Services Engineer (L3) - Network is responsible for managing tickets of high complexity, conducts advanced and complicated tasks, and provides resolution to a diverse range of complex problems.
-
-Duties and Responsibilities
-
-Ensure that assigned infrastructure at the client site is configured, installed, tested and operational.
-
-Perform necessary checks, apply monitoring tools and respond to alerts.
-
-Identify problems and errors prior to or when it occurs and log all such incidents in a timely manner with the required level of detail.
-
-Assist in analyzing, assigning and escalating support calls.
-
-Investigate third line support calls assigned and identify the root cause of incidents and problems.
-
-Report and escalate issues to 3rd party vendors if necessary.
-
-Provide onsite technical support to clients and provide field engineering services to clients.
-
-Conduct monthly random review of incidents and service requests, analyze and recommend improvement in quality.
-
-Provide continuous feedback to clients and affected parties and update all systems and/or portals as prescribed by NTT.
-
-Proactively identify opportunities for work optimization including opportunities for automation of work.
-
-Provide 3rd level technical support and guidance.
-
-Develop and own monthly reporting capability within the Network space that demonstrates value to our customers.
-
-Skills and Qualifications
-
-Possess a minimum of six (6) years relevant experience in Local Area Networks (LAN) / Wireless Local Area Networks (WLAN) and Wide Area Networks (WAN) infrastructure.
-
-Experience in implementing, administering and troubleshooting network infrastructure devices, including: routers, switches, wireless access points, controllers, WAN optimizers and monitoring applications.
-
-Strong knowledge and experience in Network Management including configuration and implementation.
-
-Proven experience in Data Centre maintenance.
-
-Strong Hands-on experience with Juniper products
-
-JNCIA, JNCIS, JNCIP,JNCIE, Mist-AI, Juniper Enterprise Routing and Switching Professional (JNCIP-ENT) is highly desirable.
-
-Strong Hands-on experience with Palo Alto Network Firewall is desirable.
-
-Strong Hands-on experience with CISCO products such as routers and switches.
-
-Strong hands on experience with Cisco ASR, ISR, Catalyst, Nexus.
-
-CCNP/CCIE
-
-Desirable experience:
-
-Experience with Juniper campus fabric networks with access assurance, or experience in other equivalent modern networks
-
-Data Center Networks
-
-SD-WAN
-
-Network Automation
-
-Juniper Campus Fabric
-
-EX Series switches, 4400, 4100, 9200
-
-QFX Series Switches 5100
-
-Juniper Mist
-
-Juniper Mist NAC
-
-Juniper Wireless
-
-Mist Edge
-
-Palo Alto Network Firewall
-
-Group Based Policies (GBP)
-
-Campus network workflow
-
-Workplace type:
-
-On-site Working
-
-To be based at Wellington St, Perth, WA.
-
-Some of our benefits
-
-NTT DATA is a Global and Australian Top Employer and holds Family Friendly Workplace accreditation. We believe in bringing out the best in you by providing an environment and flexibility that enables you to thrive at work and at home.
-
-As part of the NTT DATA family, here is a small sample of the benefits you will enjoy:
-
-Leave options that allow you to contribute to your community, study, or just take time to recharge.
-
-A parental leave policy that supports parents and carers.
-
-Income protection insurance
-
-A comprehensive wellbeing program and associated benefits
-
-Everyone is welcome here
-
-For us, diversity is a strength that is nurtured through an inclusive and fair environment. We're committed to building a diverse workforce, including all and providing everyone with equal opportunities to thrive in their careers.
-
-About NTT DATA
-
-NTT DATA is a $30+ billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long-term success. We invest over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure, and connectivity. We are also one of the leading providers of digital and AI infrastructure in the world. NTT DATA is part of NTT Group and headquartered in Tokyo.
-
-Equal Opportunity Employer
-
-NTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us.
-
-Apply today!"
-89082444,Artificial Intelligence Lead,The Australian Council on Healthcare Standards (ACHS),https://www.seek.com.au/job/89082444?type=standard&ref=search-standalone&origin=jobCard#sol=678f5c7dbc6422273cd35446f2cc4033ed405b63,5h ago,5.0,2025-12-11T02:00:00+00:00,"Ultimo, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"About us
-
-ACHS is Australia’s leading healthcare assessment and accreditation provider. We have a proud history of partnering with member organisations to drive quality improvement in healthcare. We believe that our workplace is more than just a job - it is an environment where you can thrive, grow and truly enjoy your work! We are innovative, will support your career growth, are committed to supporting your work life balance, and our work has a positive impact on patient safety and quality.  
-
-ACHS is committed to diversity and social inclusion.  Applications from people of Aboriginal and Torres Strait Islander descent are encouraged.  Applications from people of culturally and linguistically diverse backgrounds; equity target groups including women, people with disabilities and people who identify as LGBTIQ are welcomed. 
-
-Come and join ACHS to redefine what it means to work for an exceptional company. Your future is bright at ACHS!
-
-
-
-
-Qualifications & experience
-
-
-
-
-Essential :
-
-·        Advanced degree in Data Science, AI, Computer Science, or related field (PhD or equivalent preferred).
-
-·        Certifications in Quality Management Systems and AI/ML tools are highly desirable.
-
-·        Demonstrated experience in data analytics, automation, and strategic leadership roles.
+Key Accountabilities
 
  
 
-Desirable :
+Vision and Strategy Development: Support the company's vision by developing strategic plans for internal adoption of AI and our product landscape, ensuring alignment with broader business objectives.
 
-·        Knowledge of the health care industry.
+Business Engagement: Engage within NEC (ANZ & global) and clients, defining roadmaps for the adoption and implementation of AI services. Apply a customer-centric approach to all aspects of work.
 
-·        An understanding of the concepts of quality improvement.
+Product Architecture: Architect and collaborate on the application and integration of AI to enhance our digital and managed service offerings.
 
+AI Ethics and Responsible Use: Exercise an awareness of potential biases in AI systems and the ability to apply governance frameworks and privacy standards to ensure fair and responsible use.
 
-Key Responsibilities:           
+Vendor Collaboration: Work closely with our vendors to promote and drive AI solutions across the ANZ region, and internally.
 
-The AI Lead will spearhead our Artificial Intelligence strategy, driving innovation and operational excellence through advanced data analytics, automation, and AI-driven solutions whilst ensuring alignment to ACHS Data Governance Policies. This role is pivotal in transforming business objectives into intelligent systems that deliver actionable insights, enhance decision-making, and optimise organisational performance.
+Architecture Leadership: Provide architecture leadership to internal teams, guiding the development of consistent, high-quality AI architectures that meet business outcomes and comply with industry standards and security requirements. Function as Technical Lead during the development process while providing solution design and accurate cost inputs for proposals and business cases.
 
- Key Tasks:
+Advisory Role: Serve as a trusted advisor to Heads of and C-level executives, leading strategic, transitional, and target state architectures to drive the success of the company's AI adoption and evolution of modern services.
 
-·      Executing the AI strategy for ACHS and within the Hub, aligning with organisational goals and digital transformation initiatives.
+ 
 
-·      Oversee the integration of AI-driven features such as recommendation engines, natural language processing, and predictive analytics.
+What You’ll Bring
 
-·      Work with the Business Data Intelligence team to ensure data integrity and compliance with relevant standards.
+ We’re looking for someone with a strong technical background and leadership experience:
 
-·      Implement robust data pipelines and automation workflows to support AI functionality.
+Significant experience in AI solutions, product architecture, and integration strategies.
 
-·      Identify opportunities to enhance Hub performance through AI-driven automation and intelligent insights.
+Strong understanding of the ANZ market, including regulatory and compliance requirements.
 
-·      Lead proof-of-concept projects for emerging AI technologies and assess scalability.
+Demonstrated ability to work with clients, vendors, and teams to deliver innovative solutions.
 
-·      Translate complex AI concepts into clear, actionable insights for executives and end-users.
+Leadership skills with experience in guiding teams and influencing C-level executives.
 
-·      Provide training and guidance to staff to build AI literacy across the organisation.
+Knowledge of industry best practices, standards, and security requirements related to AI.
 
-·      Work closely with IT, business units, and external partners where required to deliver AI solutions that improve efficiency and user experience.
+Excellent communication, strategic planning, and project management skills.
 
-·      Mentor team members and foster a culture of innovation and data-driven decision-making.
+Strong commercial acumen
 
+Degree or relevant qualification in IT
 
-Benefits
+Certifications in AWS, Microsoft Azure preferred
 
-Monthly Rostered Days Off (RDO)
+ 
 
- Enjoy a hybrid working arrangement and a positive and supportive workplace culture!
+Why NEC?
 
-ACHS is committed to diversity and social inclusion.  Applications from people of Aboriginal and Torres Strait Islander descent are encouraged.  Applications from people of culturally and linguistically diverse backgrounds; equity target groups including women, people with disabilities and people who identify as LGBTIQ are welcomed."
-89082430,Data Engineer,Hanwha Energy Australia Pty Ltd,https://www.seek.com.au/job/89082430?type=standard&ref=search-standalone&origin=jobCard#sol=ec564211d8c00751dfebd165c4b20b8164129ecf,5h ago,5.0,2025-12-11T02:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About Us
+Be part of a global, purpose-driven company at the forefront of innovation.
 
-Hanwha Energy Australia, part of the global Hanwha Group, is a fast-growing renewable energy company operating across utility-scale generation, storage, and distributed energy solutions. Through our consumer brand, Nectr, we deliver clean energy products, solar & battery installations, and innovative customer solutions nationwide.
+Lead impactful projects that drive Artificial Intelligence and our product landscape.
 
-As our business continues to scale, high-quality data engineering is essential to supporting smarter decision-making, better customer insights, and stronger operational performance across our energy retail and solar divisions. We are investing heavily in our data and analytics capability — and this is your chance to be part of that growth.
+Work in a collaborative, inclusive, and forward-thinking environment.
 
-The Opportunity
+Opportunities for career growth, mentoring, and skill development.
 
-We’re seeking a hands-on Data Engineer to help build and optimise modern, scalable, and secure data platforms across the Hanwha/Nectr ecosystem.
-This role reports to our Head of Data & Analytics and works closely with teams across Retail, Solar & Battery Installations, Operations, Finance, and Strategy.
 
-You’ll design and deliver reliable data pipelines, enhance our Databricks-based Lakehouse environment, and support reporting and analytics used by leaders across the business. If you love solving real-world problems with data and want to make an impact in the clean energy sector, you’ll thrive here.
 
-Key Responsibilities
-Data Engineering & Platform Development
 
-Design and implement scalable data pipelines using Databricks, Delta Lake, and PySpark.
+Please apply now."
+89099104,Principal Solution Architect - Artificial Intelligence Solutions,NEC Australia Pty Ltd,https://www.seek.com.au/job/89099104?type=standard&ref=search-standalone&origin=jobCard#sol=2f6bab855eae8c46ec6a989fdcacdaba015279b7,5h ago,5.0,2025-12-11T15:00:00+00:00,Adelaide SA (Hybrid),Architects (Information & Communication Technology),Full time,Attractive salary on offer,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
 
-Develop high-performance ETL/ELT workflows using Databricks Workflows, Airflow, or similar orchestration tools.
 
-Integrate data from APIs, SaaS applications, relational databases, and flat files.
 
-Ensure robust data quality, lineage, governance, and metadata tracking across datasets.
 
-Implement monitoring and alerting to ensure pipeline reliability.
+This role is pivotal in supporting the company’s vision and ensuring that our use of AI and offerings meet the evolving needs of our business across various use cases and applications. The successful candidate will work closely with internal teams, clients, and vendors to architect and enhance AI solutions, driving innovation and compliance with industry standards.
 
-Support CI/CD workflows, Git-based development, and containerised deployments.
 
-Explore emerging Databricks and AWS services to enhance our analytics ecosystem.
 
-Analytics & Reporting Enablement
 
-Collaborate with analysts to support dashboarding in Power BI, Tableau, or Qlik.
+Key Accountabilities
 
-Optimise data models and tables for performance, accuracy, and usability.
+ 
 
-About You
+Vision and Strategy Development: Support the company's vision by developing strategic plans for internal adoption of AI and our product landscape, ensuring alignment with broader business objectives.
 
-You’re someone who enjoys working end-to-end on data solutions and takes pride in building systems that teams can rely on every day. You communicate well, collaborate naturally, and enjoy improving tools, processes, and architecture over time.
+Business Engagement: Engage within NEC (ANZ & global) and clients, defining roadmaps for the adoption and implementation of AI services. Apply a customer-centric approach to all aspects of work.
 
-Experience & Skills
+Product Architecture: Architect and collaborate on the application and integration of AI to enhance our digital and managed service offerings.
 
-Strong experience with Databricks, Delta Lake, notebooks, and large-scale data processing.
+AI Ethics and Responsible Use: Exercise an awareness of potential biases in AI systems and the ability to apply governance frameworks and privacy standards to ensure fair and responsible use.
 
-Proficient in Python, SQL, and PySpark.
+Vendor Collaboration: Work closely with our vendors to promote and drive AI solutions across the ANZ region, and internally.
 
-Understanding of data modelling, governance, orchestration, and best-practice engineering.
+Architecture Leadership: Provide architecture leadership to internal teams, guiding the development of consistent, high-quality AI architectures that meet business outcomes and comply with industry standards and security requirements. Function as Technical Lead during the development process while providing solution design and accurate cost inputs for proposals and business cases.
 
-Comfortable with CI/CD, Git workflows, and containerisation.
+Advisory Role: Serve as a trusted advisor to Heads of and C-level executives, leading strategic, transitional, and target state architectures to drive the success of the company's AI adoption and evolution of modern services.
 
-3+ years’ experience in data engineering or a related analytics engineering role.
+ 
 
-Bonus: experience with Python ML workflows or predictive analytics.
+What You’ll Bring
 
-Energy or utilities sector background is highly regarded.
+ We’re looking for someone with a strong technical background and leadership experience:
 
-Personal Attributes
+Significant experience in AI solutions, product architecture, and integration strategies.
 
-Positive, collaborative, and proactive approach.
+Strong understanding of the ANZ market, including regulatory and compliance requirements.
 
-Strong problem-solving mindset with a focus on delivery quality.
+Demonstrated ability to work with clients, vendors, and teams to deliver innovative solutions.
 
-Ability to work both independently and in cross-functional teams.
+Leadership skills with experience in guiding teams and influencing C-level executives.
 
-Curiosity to explore new technologies and continuously improve.
+Knowledge of industry best practices, standards, and security requirements related to AI.
 
-Why Join Us
+Excellent communication, strategic planning, and project management skills.
 
-Be part of a global business accelerating Australia’s transition to clean, affordable energy.
+Strong commercial acumen
 
-Work with modern data technologies and shape a growing analytics platform.
+Degree or relevant qualification in IT
 
-Exposure to energy retail, solar & battery installations, and distributed energy innovation.
+Certifications in AWS, Microsoft Azure preferred
 
-Supportive team culture with opportunities for learning, ownership, and career growth.
+ 
 
-Competitive remuneration based on experience.
+Why NEC?
 
-North Sydney office with hybrid flexibility."
-89079961,Data Engineer,TEG Pty Ltd,https://www.seek.com.au/job/89079961?type=standard&ref=search-standalone&origin=jobCard#sol=7ea0bf2ba0df32019fc01136031c9d510dba443b,7h ago,7.0,2025-12-11T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Ticketek Entertainment Group​
+Be part of a global, purpose-driven company at the forefront of innovation.
 
-Ticketek Entertainment Group is a global fan experience company that tickets, promotes and delivers live experiences impossible to forget.  In a distracted world where nothing beats real human moments, We makes life better live!
+Lead impactful projects that drive Artificial Intelligence and our product landscape.
 
-Our Group includes; our Fan Experience Platform (Ticketek) that sells tickets and provides value added services, Event promoting, with businesses across Sport (TEG Sport), Touring (TEG Touring) and Family Experiences (TEG Experiences) and our digital business (Ovation) which focuses on delivering seamless data-driven outcomes for our fans and partners.
+Work in a collaborative, inclusive, and forward-thinking environment.
 
-About the Role: 
+Opportunities for career growth, mentoring, and skill development.
 
-As a Data Engineer you will bring strong technical expertise in solution design, architecture, and coding to drive real outcomes in our data engineering initiatives. You will provide technical leadership, mentor junior engineers, and collaborate with Business and Product teams while continuously advancing your skills with the latest technologies and industry best practices.
 
 
 
-Requirements
+Please apply now."
+89099103,Principal Solution Architect - Artificial Intelligence Solutions,NEC Australia Pty Ltd,https://www.seek.com.au/job/89099103?type=standard&ref=search-standalone&origin=jobCard#sol=fbc2d4d37d138d9e9f9a6df596fa4eee013f74e1,5h ago,5.0,2025-12-11T15:00:00+00:00,Perth WA (Hybrid),Architects (Information & Communication Technology),Full time,Attractive salary on offer,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
 
 
 
-What does a day in the life look like?
 
-Ensure adherence to data privacy, security, observability, and governance standards. 
-Collaborate with architects and senior engineers to design resilient, high-performance data solutions. 
-Build scalable data pipelines to ingest, process, and expose data using technologies like Snowflake, AWS Redshift, Kinesis, Lambda, DynamoDB, S3, Glue, Apache Storm, and others. 
-Develop batch and streaming data solutions using Apache Kafka, Apache Spark, Airflow, and Delta Lake for real-time and scheduled data processing. 
-Design and implement event-driven data architectures with streaming frameworks such as Kafka Streams and Kinesis Data Firehose. 
-Implement Data Quality, Data Lineage, and Observability frameworks  
-Build CI/CD pipelines using tools such as GitHub Actions, Terraform,  
-Collaborate with Site Reliability Engineers to ensure stability and uptime of production pipelines and services. 
-Continuously identify opportunities for performance improvement, cost optimisation, and process efficiency. 
-Work with Data Scientists to ensure high-quality data for Machine Learning models and integrate them into production-ready pipelines. 
-Responsible for technical delivery, proactively identifying risks and solutions, and coordinating with engineers, BAs, QAs, and Project Managers (PMs) to ensure successful execution of data initiatives.
+This role is pivotal in supporting the company’s vision and ensuring that our use of AI and offerings meet the evolving needs of our business across various use cases and applications. The successful candidate will work closely with internal teams, clients, and vendors to architect and enhance AI solutions, driving innovation and compliance with industry standards.
 
-About You 
 
-Essential experience & skills
 
-Undergraduate degree focused on Computer Science, Engineering, Data Science or a related discipline. 
-7+ years of hands-on experience in data profiling, source-to-target mapping, ETL development, SQL optimisation, testing, and implementation. 
-Proven experience delivering large-scale data ingestion, transformation, and processing using AWS technologies such as Kinesis, Athena, Redshift, DynamoDB, Lambda, and S3. 
-Proficient with modern data platforms and tools including Snowflake, Databricks and Apache Storm. 
-Strong experience working with relational databases (SQL) as well as NoSQL databases, particularly MongoDB. 
-Proven ability to translate complex business requirements into technical solutions through effective cross-functional collaboration, strong communication skills, and adaptable problem-solving approach.
-Exposure to CI/CD tools and practices, including Ansible, CloudFormation, Jenkins, and related automation technologies. 
-Experience developing and deploying solutions on cloud platforms such as AWS, GCP, or Azure. 
 
-Desirable experience & skills 
+Key Accountabilities
 
-Jira / Confluence experience 
-Experience consuming RET 
-Experience to AI/ML technologies.  
+ 
 
+Vision and Strategy Development: Support the company's vision by developing strategic plans for internal adoption of AI and our product landscape, ensuring alignment with broader business objectives.
 
-Benefits
+Business Engagement: Engage within NEC (ANZ & global) and clients, defining roadmaps for the adoption and implementation of AI services. Apply a customer-centric approach to all aspects of work.
 
+Product Architecture: Architect and collaborate on the application and integration of AI to enhance our digital and managed service offerings.
 
+AI Ethics and Responsible Use: Exercise an awareness of potential biases in AI systems and the ability to apply governance frameworks and privacy standards to ensure fair and responsible use.
 
-Here’s a taste of what TEG offers: 
+Vendor Collaboration: Work closely with our vendors to promote and drive AI solutions across the ANZ region, and internally.
 
-Complimentary event tickets
-Birthday and volunteering leave
-Wellbeing discounts & flu vaccinations
-Paid parental leave & free employee support (EAP)
-Global rewards and recognition
-Learning, development & career pathways
-A diverse, inclusive, and passionate team
+Architecture Leadership: Provide architecture leadership to internal teams, guiding the development of consistent, high-quality AI architectures that meet business outcomes and comply with industry standards and security requirements. Function as Technical Lead during the development process while providing solution design and accurate cost inputs for proposals and business cases.
 
-Equal opportunities
+Advisory Role: Serve as a trusted advisor to Heads of and C-level executives, leading strategic, transitional, and target state architectures to drive the success of the company's AI adoption and evolution of modern services.
 
-For more information about TEG please go to http://www.teg.com.au/ 
+ 
 
-TEG is an equal opportunity employer committed to embrace diversity, respect, and care for our people and communities. 
+What You’ll Bring
 
-If there are any adjustments that need to be made to ensure you have a fair and equitable experience in our recruitment process, please advise us when scheduling your interview. 
+ We’re looking for someone with a strong technical background and leadership experience:
 
-*Only direct applications will be considered. No recruiters please*"
-89079640,Senior Platform Manager AI/ML,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89079640?type=standard&ref=search-standalone&origin=jobCard#sol=87ebb2a9f5bd0ef926e2637ebef37901c1a71293,7h ago,7.0,2025-12-11T00:00:00+00:00,"Hawthorn East, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"Join one of Australia's leading national retailers as an AI/ML Platform Engineering Manager, where you will play a pivotal role in shaping and scaling the organisation's next-generation machine learning capabilities. This is a permanent leadership opportunity overseeing a high-performing team of six engineers and driving end-to-end ownership of the AI/ML platform.
+Significant experience in AI solutions, product architecture, and integration strategies.
 
-About the Role
+Strong understanding of the ANZ market, including regulatory and compliance requirements.
 
-In this role, you will lead the design, development, and delivery of critical AI/ML platform components supporting enterprise-wide machine learning initiatives. You will partner closely with data scientists, ML engineers, software developers, and platform teams to translate business needs into scalable and secure platform capabilities.
+Demonstrated ability to work with clients, vendors, and teams to deliver innovative solutions.
 
-Key Responsibilities
+Leadership skills with experience in guiding teams and influencing C-level executives.
 
-Lead the architecture and development of AI/ML platform components including model training environments, feature stores, model registries, deployment pipelines, and monitoring frameworks.
-Manage end-to-end delivery of platform enhancements, ensuring scalability, reliability, and high performance across all ML workloads.
-Collaborate cross-functionally with technical and non-technical stakeholders to gather requirements and enable seamless delivery of AI/ML solutions.
-Implement and champion best practices in MLOps, including model versioning, lifecycle management, CI/CD, observability, and platform security.
-Drive continuous improvement by integrating new tools, frameworks, and automation to streamline and accelerate ML workflows.
-Oversee platform reliability, incident response, operational support, and capacity planning to maintain enterprise-grade availability.
-Ensure all platform capabilities adhere to organisational data governance, security standards, and relevant regulatory requirements.
-Provide regular reporting, insights, and strategic recommendations to senior leadership on platform performance, risks, and future opportunities.
+Knowledge of industry best practices, standards, and security requirements related to AI.
 
+Excellent communication, strategic planning, and project management skills.
 
-About You
+Strong commercial acumen
 
-You are a technical leader with a passion for building robust, scalable AI/ML platforms and empowering teams to deliver impactful machine learning outcomes. You thrive in a fast-paced, collaborative environment and bring deep experience in MLOps, automation, and cloud-native engineering.
+Degree or relevant qualification in IT
 
-What's on Offer
+Certifications in AWS, Microsoft Azure preferred
 
-Permanent leadership role in a high-growth AI/ML environment
-Opportunity to shape a major retailer's enterprise ML ecosystem
-Lead and develop a team of six talented engineers
-Competitive salary, benefits, and long-term career pathways
+ 
 
-For more information contact Melissa Haddad at melissa.haddad@talentinternational.com"
-89079201,Senior Data Engineer - Azure,IBC Recruitment,https://www.seek.com.au/job/89079201?type=standard&ref=search-standalone&origin=jobCard#sol=7de65f37faa7798085a3faa56de3f1220790a7a4,8h ago,8.0,2025-12-10T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Data Engineer
+Why NEC?
 
-We’re looking for a Senior Data Engineer who thrives at the intersection of real-time data, platforms, and modern analytics. This is a hands-on role for someone who wants to architect, scale, and optimise streaming platforms that power decision-making, analytics, and AI.
+Be part of a global, purpose-driven company at the forefront of innovation.
 
-If you live and breathe event-driven architecture, love working with Microsoft Fabric and Azure, and are excited by building resilient, near real-time systems — this role is for you.
+Lead impactful projects that drive Artificial Intelligence and our product landscape.
 
-What you’ll be doing
+Work in a collaborative, inclusive, and forward-thinking environment.
 
-You will play a key role in building and evolving the real-time data ecosystem, helping the business turn streaming data into actionable insights.
+Opportunities for career growth, mentoring, and skill development.
 
-Design, build and optimise scalable, production-grade data pipelines using Microsoft Fabric and Azure services.
-Develop robust integrations between databases, APIs, Kafka, etc to ensure high-quality, real-time data flow.
-Implement streaming solutions using frameworks such as Kafka Streams, Apache Flink, and Spark Streaming.
-Own the performance and reliability of the data pipelines — proactively monitoring, troubleshooting and tuning for scale and low latency.
-Champion data governance, quality, and compliance while protecting data privacy and security.
-Collaborate closely with Data Architects, Analysts and Project teams to design modern data platforms.
-Drive continuous improvement across architecture, tooling and development standards.
-Mentor junior data engineers
-Produce and maintain technical documentation to ensure platform durability and knowledge sharing.
-Support the development of machine learning pipelines and AI use-cases by delivering reliable, streaming data foundations.
-What you'll bring
 
-Experience with Microsoft Fabric
-Experience with Power BI, Azure Data Factory, Azure Data Lake, Azure Data Warehouse, SQL Server, Python
-Good understanding of Azure DevOps & CI/CD pipelines
-Strong understanding of distributed systems, event-driven architecture and microservices.
-Hands-on experience in building or supporting machine learning pipelines or AI workflows.
-Solid data architecture fundamentals and performance optimisation experience.
-Tertiary qualification (ideally Master’s level) in Computer Science, Engineering, or related field.
-Power BI certification or Microsoft data engineering certifications.
-If it sounds like a role you'd be a good fit for, please apply now!"
-89079021,Data Engineer,M&T Resources,https://www.seek.com.au/job/89079021?type=standard&ref=search-standalone&origin=jobCard#sol=2ca59ece3e1840f74173a518c10e8a9d8acf13af,8h ago,8.0,2025-12-10T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"In this role, you’ll design and optimize systems that ensure data flows seamlessly, enabling advanced AI products and innovation at scale.
 
-Requirements:
 
-5+ years in data engineering with production pipeline experience
-Degree in Computer Science, Engineering, or related field
-Expertise in GCP data platforms (BigQuery, Dataflow, Pub/Sub, Cloud Storage)
-Strong SQL and Python skills for data pipelines
-Experience in data modelling, ETL/ELT, and warehousing
-Familiarity with Docker and Kubernetes
-Knowledge of data governance, quality frameworks, and regulated environments
-Experience with real-time streaming and event-driven architectures (preferred)
-Strong organization and time management
-Excellent communication skills
+Please apply now."
+89099102,Principal Solution Architect - Artificial Intelligence Solutions,NEC Australia Pty Ltd,https://www.seek.com.au/job/89099102?type=standard&ref=search-standalone&origin=jobCard#sol=b54135cdab6391e3fa100ac5c52f0416df99b72c,5h ago,5.0,2025-12-11T15:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,Attractive salary on offer,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
 
 
 
-For further details please click ""Apply Now"" or email your CV to dustin.pineda@mtr.com.au. Alternatively call Dustin on 02 9259 8708
-for a confidential chat."
-89078541,AI Operations Engineer,M&T Resources,https://www.seek.com.au/job/89078541?type=standard&ref=search-standalone&origin=jobCard#sol=d569a8561a7000e3b837cb1fcf8c2fe9baaaf949,9h ago,9.0,2025-12-10T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Our client is at a pivotal stage in its AI journey. With their first AI products already serving customers, they are scaling rapidly across business units.
 
-This role is your chance to help build the operational foundations, best practices, and processes that will define how we run AI for years to come.
+This role is pivotal in supporting the company’s vision and ensuring that our use of AI and offerings meet the evolving needs of our business across various use cases and applications. The successful candidate will work closely with internal teams, clients, and vendors to architect and enhance AI solutions, driving innovation and compliance with industry standards.
 
-Requirements:
 
-Degree in Computer Science, Engineering, Data Science, or related field
-5+ years in MLOps/DevOps/SRE with proven AI/ML production experience
-Expertise in cloud ML platforms (GCP, Vertex AI) for deployment, scaling, and infrastructure
-Solid DevOps practices: CI/CD, IaC, Docker, Kubernetes, automation (Python/Bash)
-Monitoring/observability for AI/ML services: performance, drift, system health
-ML governance: versioning, compliance, best practices in regulated environments
-Data quality & streaming: validation, event-driven architectures, real-time pipelines
-Experience in regulated industries (financial services preferred)
-Strong communication skills
-Excellent organization and time management
-Able to work independently
 
 
-For further details please click ""Apply Now"" or email your CV to dustin.pineda@mtr.com.au. Alternatively call Dustin on 02 9259 8708
- for a confidential chat."
-89076982,Senior Platform Engineer - AWS,Lendi Group,https://www.seek.com.au/job/89076982?type=standard&ref=search-standalone&origin=jobCard#sol=f0d532ee9671556ef8810b60ee10c912783af2c2,14h ago,14.0,2025-12-10T17:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+Key Accountabilities
 
+ 
 
-Lendi Group is a market-leading digital platform business focused on transforming the home loan industry. It operates the country’s #1 retail mortgage broker – the iconic Aussie Home Loans franchise – and the Australia’s #1 digital mortgage brand, Lendi.
+Vision and Strategy Development: Support the company's vision by developing strategic plans for internal adoption of AI and our product landscape, ensuring alignment with broader business objectives.
 
-Together, with its national network of 1,300 brokers and 230 retail stores, the Lendi Group brands give all Australians the power of choice, and confidence, in one of life’s biggest financial decisions.
+Business Engagement: Engage within NEC (ANZ & global) and clients, defining roadmaps for the adoption and implementation of AI services. Apply a customer-centric approach to all aspects of work.
 
-Building on this market-leading foundation, Lendi Groups vision is to be the undisputed place for Australians to buy and own property through our new Aussie Homes propositions.
+Product Architecture: Architect and collaborate on the application and integration of AI to enhance our digital and managed service offerings.
 
-Lendi Group’s loan book is more than $100b and it was named Australia’s Aggregator of the Year for 2024
+AI Ethics and Responsible Use: Exercise an awareness of potential biases in AI systems and the ability to apply governance frameworks and privacy standards to ensure fair and responsible use.
 
-Diversity, Equality, and Inclusion are fundamental to the success of Lendi Group. We’re passionate about fostering an environment where our team members feel valued and supported and we celebrate everyone’s unique identity.
+Vendor Collaboration: Work closely with our vendors to promote and drive AI solutions across the ANZ region, and internally.
 
-To learn more about life at Lendi Group check out our blog: https://www.lendi.com.au/inspire/category/life-at-lendi/
+Architecture Leadership: Provide architecture leadership to internal teams, guiding the development of consistent, high-quality AI architectures that meet business outcomes and comply with industry standards and security requirements. Function as Technical Lead during the development process while providing solution design and accurate cost inputs for proposals and business cases.
 
-About the role?
+Advisory Role: Serve as a trusted advisor to Heads of and C-level executives, leading strategic, transitional, and target state architectures to drive the success of the company's AI adoption and evolution of modern services.
 
-Lendi Group is looking for a Senior Platform Engineer to join our Platform team. A small, tight and highly collaborative team working in a rapid and evolving DevSecOps environment. We like to have fun and we work hard at looking after each other. 
+ 
 
-The Platform team builds cross-team tooling and services that empower our Specialist and Product teams to deliver customer value efficiently and with high quality. The engineering department is going through significant growth and there are opportunities for you to help shape the culture and technology moving forward.
+What You’ll Bring
 
-Please note, this is a 12 month Fixed term opportunity.
+ We’re looking for someone with a strong technical background and leadership experience:
 
-Job Description
+Significant experience in AI solutions, product architecture, and integration strategies.
 
+Strong understanding of the ANZ market, including regulatory and compliance requirements.
 
-Manage a high performing & secure cloud environment
-Owning major parts of the system, designing and delivering quality stable solutions 
-Developing clean, maintainable code that is suitable for continuous integration and deployment, following best practices and DevOps/Software guidelines
-Collaborating as part of a cross-functional agile team
-Improve our platform by learning and implementing new technologies
-Build & manage different tools to facilitate the way different teams use our platform
-Automate whenever possible so it is easy to deploy to multiple environments & recover
-Increase the visibility of the different services
-Work with different teams to understand how to better use our platform
-Experiment and build with AI and integrate it into our tooling and environments.
-Participate on a fun team that loves learning together & helping each other
-Owning the code you and your team build, which means supporting debugging, monitoring and alerting in the production
+Demonstrated ability to work with clients, vendors, and teams to deliver innovative solutions.
 
-Qualifications
+Leadership skills with experience in guiding teams and influencing C-level executives.
 
+Knowledge of industry best practices, standards, and security requirements related to AI.
 
-3-5+ years of experience as a Platform and/or DevOps Engineer
-A passion for learning every day 
-A desire to work with technologies such as Kubernetes, AWS, Large Language Models (LLMs) and others
-Experience working with configuration as code, CI/CD and pushing and reviewing code.
+Excellent communication, strategic planning, and project management skills.
 
-Additional Information
+Strong commercial acumen
 
+Degree or relevant qualification in IT
 
-Lendi Group teams operate across Australia and the Philippines. We’re committed to creating a new era of seamless connection in property finance by changing the way Australians experience property lending, for good.
+Certifications in AWS, Microsoft Azure preferred
 
-A few of the benefits that our people rave about include:
+ 
 
-A vibrant, relaxed, yet professional culture
-Holistic wellbeing programs offering 24/7 support, including medical, mental health, and financial wellbeing services to enable our workforce to thrive at home and work
-Generous Paid Parental Leave: we celebrate our growing Lendi Group family with 18-26 weeks leave for primary carers and up to 4 weeks for secondary carers
-An additional week’s Loyalty Leave each year after reaching 3 years of service
-Wellness initiatives with a strong focus on psychological safety
-Social groups such as our industry-leading Women in Technology group.
+Why NEC?
 
-Our culture is guided by our 3 core values: We Are Stronger United; Act Like You Own It; and Keep Home Loans Human. Our values are part of our core DNA that helps Lendi Group to attract, engage and evolve the right talent and build best-in-class products.
+Be part of a global, purpose-driven company at the forefront of innovation.
 
-Feeling like you don’t meet all the skills listed? That’s ok; we are always on the lookout for different skills, experience, and qualities and so we’d still like to hear from you.
+Lead impactful projects that drive Artificial Intelligence and our product landscape.
 
-#lendigroup #LI-GR2 #LI-hybrid"
+Work in a collaborative, inclusive, and forward-thinking environment.
+
+Opportunities for career growth, mentoring, and skill development.
+
+
+
+
+Please apply now."
+89099096,Principal Solution Architect - Artificial Intelligence Solutions,NEC Australia Pty Ltd,https://www.seek.com.au/job/89099096?type=standard&ref=search-standalone&origin=jobCard#sol=9244e08ede9fb9cb33282bd72280d8f92aa9e1b5,5h ago,5.0,2025-12-11T15:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,Attractive salary on offer,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
+
+
+
+
+This role is pivotal in supporting the company’s vision and ensuring that our use of AI and offerings meet the evolving needs of our business across various use cases and applications. The successful candidate will work closely with internal teams, clients, and vendors to architect and enhance AI solutions, driving innovation and compliance with industry standards.
+
+
+
+
+Key Accountabilities
+
+ 
+
+Vision and Strategy Development: Support the company's vision by developing strategic plans for internal adoption of AI and our product landscape, ensuring alignment with broader business objectives.
+
+Business Engagement: Engage within NEC (ANZ & global) and clients, defining roadmaps for the adoption and implementation of AI services. Apply a customer-centric approach to all aspects of work.
+
+Product Architecture: Architect and collaborate on the application and integration of AI to enhance our digital and managed service offerings.
+
+AI Ethics and Responsible Use: Exercise an awareness of potential biases in AI systems and the ability to apply governance frameworks and privacy standards to ensure fair and responsible use.
+
+Vendor Collaboration: Work closely with our vendors to promote and drive AI solutions across the ANZ region, and internally.
+
+Architecture Leadership: Provide architecture leadership to internal teams, guiding the development of consistent, high-quality AI architectures that meet business outcomes and comply with industry standards and security requirements. Function as Technical Lead during the development process while providing solution design and accurate cost inputs for proposals and business cases.
+
+Advisory Role: Serve as a trusted advisor to Heads of and C-level executives, leading strategic, transitional, and target state architectures to drive the success of the company's AI adoption and evolution of modern services.
+
+ 
+
+What You’ll Bring
+
+ We’re looking for someone with a strong technical background and leadership experience:
+
+Significant experience in AI solutions, product architecture, and integration strategies.
+
+Strong understanding of the ANZ market, including regulatory and compliance requirements.
+
+Demonstrated ability to work with clients, vendors, and teams to deliver innovative solutions.
+
+Leadership skills with experience in guiding teams and influencing C-level executives.
+
+Knowledge of industry best practices, standards, and security requirements related to AI.
+
+Excellent communication, strategic planning, and project management skills.
+
+Strong commercial acumen
+
+Degree or relevant qualification in IT
+
+Certifications in AWS, Microsoft Azure preferred
+
+ 
+
+Why NEC?
+
+Be part of a global, purpose-driven company at the forefront of innovation.
+
+Lead impactful projects that drive Artificial Intelligence and our product landscape.
+
+Work in a collaborative, inclusive, and forward-thinking environment.
+
+Opportunities for career growth, mentoring, and skill development.
+
+
+
+
+Please apply now."
+89099083,Senior Microsoft 365 Specialist,QIC,https://www.seek.com.au/job/89099083?type=standard&ref=search-standalone&origin=jobCard#sol=ce615a6315f663518c42e02737a15e37c2aa25a0,5h ago,5.0,2025-12-11T15:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"About QIC
+
+As one of Australias leading institutional investment managers with more than $100 billion in assets under management, we have a presence across four continents, seven offices and assets across global markets.
+
+At QIC, we believe in shared value - where delivering strong investment returns can go hand in hand with doing good for our clients, people and communities. If we invest well, we will all do better together.
+
+Life at QIC
+
+We know that our people perform at their best when they feel a sense of belonging and are encouraged to bring their authentic selves to work every day.  We provide a supportive work environment where everyone can thrive and feel valued for their meaningful contribution in delivering for the prosperity of our clients, people and communities.
+
+Joining QIC, you can contribute to our employee led networks that champion our diversity, equity and inclusion strategy, which consists of five key pillars: Gender Equality, LGBTQ+, Accessibility, Cultural & Linguistic Diversity, and First Nations People.
+
+Other reasons to join us:
+Flexibility and hybrid options encouraged – certified Family Inclusive Workplace
+Recharge leave - additional 3 days leave per year
+Annual Fitness/home office reimbursement
+Ability to swap public holidays for those of personal, cultural or religious significance
+26 weeks gender-neutral paid parental leave
+Financial study assistance and study leave
+Community leave for supporting the causes you love
+Development opportunities to extend, expand and enhance your growth.
+At QIC, we welcome and encourage applications from Aboriginal and Torres Strait Islander people, the LGBTQI+ community, people with disabilities and people from all cultural backgrounds. We have an equitable, barrier-free application process so please inform us of your accessibility requirements in your application or you can reach out to our Talent Team on 07 3360 3800.
+
+About the role 
+
+ 
+
+Contract: 12 Months  
+
+ 
+
+Join a high-performing team with solid tenure and a wealth of experience in delivering cutting-edge digital workplace solutions. Reporting to the Digital Workplace Lead, you’ll play a pivotal role in engaging with business units and stakeholders to understand their needs and deliver intuitive, best-practice solutions using Microsoft 365 and client-focused products. This is your opportunity to drive meaningful work forward in a supportive environment that values open communication, collaboration, and flexibility — with 2 days in the office and 3 days from home.  
+
+ 
+
+Key responsibilities: 
+
+ 
+
+Lead best-practice guidance across Microsoft 365: Dynamics 365 (CRM), Power Platform, Teams, SharePoint.  
+Engage stakeholders, gather requirements, and deliver advisory services with mock-ups and proof-of-concepts.  
+Analyse processes, identify automation opportunities, and leverage AI tools like Microsoft Copilot.  
+Design, implement, and test new features; produce high-level documentation.  
+Contribute to governance frameworks and maintain roadmap alignment with Microsoft 365 capabilities.  
+Manage risks and ensure secure, reliable services.  
+Support and optimise the Digital Workplace ecosystem through continuous improvement. 
+
+ 
+
+About you 
+
+ 
+
+IT qualifications or equivalent certifications and experience.  
+Strong experience with Microsoft 365 technologies: Dynamics 365, SharePoint, Teams, Power Platform (Power Apps, Automate), Power BI, Copilot Studio, Dataverse, AI Builder.  
+Skilled in advising, designing, and implementing practical solutions with automation focus.  
+Ability to configure and build custom Dynamic 365 solutions (plug-ins, JavaScript) and explore AI innovations.  
+Knowledge of Azure ecosystem, DevOps pipelines, Agile delivery, and governance.  
+Advanced skills in end-to-end solution delivery and stakeholder engagement.  
+Collaborative, client-focused, adaptable, and detail-oriented."
