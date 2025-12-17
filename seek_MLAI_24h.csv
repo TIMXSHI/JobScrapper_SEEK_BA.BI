@@ -1,1 +1,107 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+89185837,Data Engineer,Carlton Football Club,https://www.seek.com.au/job/89185837?type=standard&ref=search-standalone&origin=jobCard#sol=2afd290cd8daeb2a80134d9ef19bb0e6a8f26662,2h ago,2.0,2025-12-17T00:00:00+00:00,"Carlton North, Melbourne VIC",Other (Information & Communication Technology),Full time,,"About the Carlton Football Club
 
+The Carlton Football Club is one of Australia’s oldest and most prominent sport institutions. Founded in 1864, the Club’s headquarters and training facilities are located in Carlton at IKON Park, our traditional home ground. Our IKON Park redevelopment is now complete, and we are proud of our state-of-the-art facilities that supports our high-performance environment. When the Club set about undertaking this historic work, it was based upon achieving facilities for women’s sport that would be the equal of their male counterparts.
+
+We are passionate about our contribution to the Community and foster an inclusive and welcoming culture where our values are at the core of who we are and what we do.
+
+About the Role
+
+We are currently seeking an innovative, curious and enthusiastic Data Engineer to join our growing Data & Technology team, as we seek to harness data-driven strategy to drive performance both on and off the field.
+
+This is a unique opportunity to combine your technical expertise with the passion and energy of working in an elite sporting organisation. You’ll play a pivotal role in shaping the Club’s data ecosystem, liaising with key stakeholders across the Club to build the infrastructure and pipelines that empower smarter, faster, and more informed decision-making.
+
+The role also carries an educational component - championing best practices in data collection, secure storage, and governance, while guiding colleagues in understanding the importance of safe, responsible data use.
+
+Continual innovation is a hallmark of the Club’s Data & Technology team – this role will be provided the opportunity to proactively explore emerging technologies, Artificial Intelligence (AI), and creative problem-solving methods to keep Carlton at the cutting edge of sports analytics.
+
+Key Responsibilities
+
+Build and maintain scalable ETL/ELT data pipelines that connect diverse sources to the Club’s centralised data platform.
+Oversee and optimise the Club’s Snowflake data warehouse, including facilitation, integration and delivery of usable data to stakeholders across all functions.
+Drive automation of key business functions using Python, SQL, Power Automate, and other tools to create streamlined and efficient workflows, reducing manual effort and improving productivity.
+Implement robust data governance strategies to ensure the accuracy, usability, and accessibility of key datasets, while upholding data security best practices and maintain compliance with regulatory requirements.
+Collaborate with key stakeholders across all teams providing support on data-related technical challenges, while educating colleagues on safe, secure data practices and responsible AI usage.
+Develop and maintain clear, comprehensive documentation to guide the Club’s data users in leveraging new data sources and instructing on best practices.
+Stay at the forefront of emerging technologies and AI, regularly researching trends, tools, and practices that could enhance the Club’s operations and performance.
+Contribute to the evaluation and development of AI-driven proof of concepts, helping transform innovative ideas into practical solutions.
+Collaborate with senior team members to identify opportunities for AI integration, supporting the implementation of innovative solutions to enhance productivity and decision-making across departments.
+Participate in pilot projects and technology trials, gathering feedback and documenting outcomes to inform future adoption of new tools and platforms.
+Share insights and findings with colleagues, helping to foster a culture of continuous learning and innovation around emerging technologies and AI within the Club.
+
+Experience, Skills and Attributes
+
+Undergraduate degree in mathematics, statistics, computer science, or any related field and/or equivalent experience
+2+ years of previous work experience in data engineering or analytical role(s) (or similar).
+Previous experience working in a sporting organisation is preferred, although not essential
+Experience building and maintaining automated data pipelines from flat file and API-based sources, using ETL/ELT tools (Matillion, Fivetran, etc.), SQL, relevant programming languages including Python, and cloud platforms.
+Experience working with and administering data warehouses, preferably Snowflake.
+Experience with AWS cloud services and tools, such as RDS, EC2, and S3 buckets.
+Familiarity with both Mac and Windows operating systems.
+Proficiency with industry data quality standards (cleansing, validation, and governance).
+Proficiency in creating and maintaining data documentation and version control systems.
+Experience working with business intelligence/visualisation tools (e.g. Tableau, PowerBI)
+Familiarity with Atlassian products (e.g. Confluence, Jira)
+Strong communication skills and an ability to build positive working relationships with others.
+Curious, innovative thinker with a highly developed analytical ability and strong problem-solving skills.
+Highly self-motivated and proactive, with an ability to work both autonomously and collaboratively as part of a team.
+Effective time management and stakeholder management skills, with a proven ability to manage multiple competing priorities.
+
+Benefits and Culture
+
+Carlton’s values underpin how the Club operates, describing how our people work together, interact and behave. The Club is passionate about its culture, focused on cultivating a unique sense of belonging and connection. In addition, we offer our people flexible working, learning and development opportunities, as well as employee benefits such as membership, café and retail discounts, alongside working in a world-class sporting amenity.
+
+How to Apply
+
+Please submit your current resume and cover letter addressed to the Data Analytics Manager by 11:55pm Sunday 11 January.
+
+The Carlton Football Club is an equal opportunity employer and a place who welcomes all. We encourage people with diverse experiences and backgrounds to apply. This includes, but is not limited to, those from the Aboriginal and Torres Strait Islander, Culturally and Linguistically Diverse, and LGBTQIA+ communities. We are committed to fostering a workplace environment which is inclusive, safe, and flexible. All applicants will be considered based on the relevance of their abilities to the role and their alignment with our Club Values.
+
+The Carlton Football Club is committed to providing a welcoming environment where the safety and wellbeing of all children and young people involved in our programs, services, activities, events, and the broader community, will always be our first priority. All staff must hold (or be willing to obtain) a current Victorian Working With Children Check as part of their employment with the Club."
+89183859,Senior Data Scientist,Just Digital People,https://www.seek.com.au/job/89183859?type=standard&ref=search-standalone&origin=jobCard#sol=ddfb607b2eea3d32cf2d72a480cc33a897ca06e0,4h ago,4.0,2025-12-16T22:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,"$180,000 - 190,000 + Super","A lot of data science roles talk about impact.
+This one expects it.
+
+You’ll be working on AI and GenAI powered features that sit directly in front of customers. Not internal dashboards. Not science projects. Actual product functionality where success is measured by whether it improves the experience and stands up in the real world.
+
+This team is building ML and LLM driven capabilities into products used by thousands of customers. That brings real constraints, real trade offs, and real accountability. You’ll be working in domains where correctness, trust, and compliance matter as much as innovation.
+
+They’ve moved past asking “can we do this?”.
+Now the question is “is this the right thing to build, and how do we prove it works?”
+
+What you’ll be doing This is an end to end role. If you like owning problems rather than just parts of them, you’ll feel at home.
+
+Partnering closely with product managers to frame hypotheses and decide what’s worth building.
+Designing experiments and evaluation approaches that run through the full product lifecycle, not just at launch.
+Prototyping and validating GenAI and ML based solutions, then helping drive them through MVP and into production.
+Working across NLP, retrieval, forecasting, recommendations and anomaly detection, depending on the product area.
+Defining success metrics that matter to customers and the business, then using them to guide iteration.
+Running offline evaluations and online experiments to understand real customer and commercial impact.
+Working closely with ML Engineers and frontend teams to ship reliable, measurable and safe solutions.
+Operating comfortably in regulated, risk aware environments where models need to behave predictably.
+Sharing knowledge and influencing how data science is practiced beyond your own work.
+You won’t be judged on how clever your model is. You’ll be judged on whether it improves the product.
+
+Who this suits
+You’ve shipped customer facing ML or GenAI features before. You’ve seen what happens when something goes live, and you understand how different that is from internal work.
+
+Hands on GenAI experience is essential here. You’ve worked with LLM based systems, evaluation approaches, and the trade offs involved in deploying them to customers.
+
+You bring a hypothesis driven mindset. You’re comfortable exploring complex systems, testing assumptions, and using evidence to guide decisions.
+
+You’re technically solid. Strong Python, comfortable with data wrangling and modern ML tooling. You don’t need to be the strongest engineer in the room, but you need to be credible with those who are.
+
+You operate as a senior. You influence peers, work across product, engineering, risk and legal, and communicate clearly when the subject matter is sensitive or ambiguous.
+
+A PhD is welcome but not required. Evidence that your work has had impact beyond your own tasks matters more.
+
+What’s in it for you
+You’ll work on meaningful AI products with real users and real consequences, alongside strong ML Engineers and product leaders.
+
+You’ll have room to shape how experimentation, evaluation and data science thinking show up in product decisions, not just in post hoc analysis.
+
+Melbourne based team, with a preference for regular in person collaboration.
+
+If you want a data science role where GenAI is real, experimentation matters, and your work ends up in customers’ hands, this is worth a conversation.
+
+0491011875 
+domninic@justdigitalpeople.com.au"
