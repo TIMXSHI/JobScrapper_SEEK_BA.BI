@@ -1,5 +1,108 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89196129,IAM Engineer - SailPoint,NTT Ltd,https://www.seek.com.au/job/89196129?type=standard&ref=search-standalone&origin=jobCard#sol=f03af652f41418efa4c5ee725e6c39281ecbb3c3,1h ago,1.0,2025-12-17T05:00:00+00:00,Melbourne VIC (Hybrid),Security (Information & Communication Technology),Contract/Temp,,"Is innovation part of your DNA? Do you want to enable a connected future for people, organizations, and society?
+89196672,Staff Embedded Software Engineer,Q-CTRL,https://www.seek.com.au/job/89196672?type=standard&ref=search-standalone&origin=jobCard#sol=e820adf55e003145827231a70901942752c72473,1h ago,1.0,2025-12-17T06:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"About the team
+
+The Sensing Engineering team at Q-CTRL transforms quantum research into deployable technologies that address real-world problems. We design, build, and field-validate an array of quantum sensors that support our key products, including Ironestone Opal - our solution for GPS-denied navigation.   
+
+You don’t need a background in quantum to make an impact here. We value strong engineering fundamentals, a product mindset, and a drive to solve the hardest engineering problems in quantum sensing today.
+
+About the role
+
+We are seeking an Embedded Software Engineer to develop firmware for our control, sensing, and actuation systems that automate the operation of our quantum sensors. You’ll primarily be developing new applications on our Xilinx Zynq + Embedded Linux platform based on requirements developed in collaboration with our research scientists to assist scientific advancement and to demonstrate our technology in the field. Our firmware is characterised by real-time constraints, data acquisition, signal processing, sequence execution, network communication, and hardware/FPGA interfacing. You will join a growing team focused on quantum sensing for defence and aerospace, and work with experts in fields such as cold-atom interferometry, magnetometry, and inertial navigation to develop state-of-the-art technology.
+
+What you’ll be doing:
+
+Own the design, development, integration, and support of embedded systems employed in Q-CTRL’s quantum sensing and navigation systems targeting Xilinx SoC and STM32 platforms.
+Responsible for the design, implementation, and testing of control, sensing, and actuation firmware needed to autonomously operate next generation quantum sensors.
+Work as a technical lead and architect in cross-functional teams of scientists and engineers to solve novel issues in research & development and product-focused environments.
+Contribute to the success of field trials with industry partners
+Create test and simulation setups including hardware-in-the-loop test fixtures.
+Other duties within the Employee’s skills and experience, or with reasonable training.
+Ideally you’ll have:
+
+Experience working in a research environment whilst collaborating with established engineering teams and research scientists.
+Experience in algorithm development for control systems and autonomous sensor operation.
+Experience as a technical lead or domain expert working as a subject matter expert in a cross functional team
+Proficiency with a systems programming language such as C, C++, or Rust.
+Experience with a hardware description language (Verilog/VHDL)
+Experience creating embedded linux distributions using tools such as Buildroot, Yocto, or Petalinux.
+Experience using an RTOS to develop microcontroller firmware.
+Desirable to have worked on embedded systems involving interfacing with FPGAs such as JESD204 and AXI interfaces.
+Preference will be given to candidates with experience qualifying or deploying systems for use in aircraft.
+
+About Q-CTRL
+
+Q-CTRL is the global leader in AI-powered quantum control infrastructure software. We build the tools that make quantum technology useful, solving the hardest challenges in quantum computing and quantum sensing to deliver real-world impact.
+
+Founded in 2017, we operate globally with offices in Sydney, Los Angeles, San Francisco, Berlin, and Oxford. Our teams bring together technical and multi-disciplinary expertise across the product lifecycle, and we’re hiring talent to help scale every part of the business. We work quickly to turn cutting-edge science into deployable technology.
+
+In 2024 we raised US$113 million in Series B funding, the largest aggregate investment for a quantum software company. Six months later we delivered the first commercial quantum advantage with Ironstone Opal, our field-validated quantum navigation solution for defense and industry.
+
+At Q-CTRL, we prioritize outcomes over hours. We offer flexibility, equity potential, and competitive benefits that reflect our high-performance culture. If you’re ready to help shape the future of quantum, we’d love to hear from you!
+
+Please be advised that our communications will only come from the @q-ctrl.com domain. All our active job postings are available on our company website.
+
+To recruitment agencies, we do not accept unsolicited branded profiles and are not responsible for any fees related to unsolicited resumes.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+89196319,"Data / AI Consultant (Junior / Graduate) — Client Audits, AI Seals & GRC Support",Global Institute of Artificial Intelligence,https://www.seek.com.au/job/89196319?type=standard&ref=search-standalone&origin=jobCard#sol=24720b8b44a0458846a72697ac280c1aa066a7dd,1h ago,1.0,2025-12-17T06:00:00+00:00,Melbourne VIC,Consultants (Information & Communication Technology),Contract/Temp,"$85,000 – $127,000 per year","GIofAI is seeking a Junior Data / AI Consultant to support client delivery across Client Data & AI audits, AI Seals, and GRC (Governance, Risk & Compliance) client support. This is a hands-on role where you’ll work closely under the CEO on real client projects, combining technical execution with clear documentation and client-ready deliverables.
+
+Key responsibilities
+
+Support Client Data & AI audits: discovery, evidence gathering, analysis, reporting
+
+Contribute to AI Seals: readiness checks, controls mapping, documentation and findings
+
+Assist with GRC client support: translate governance/risk requirements into practical technical actions
+
+Data engineering support:
+
+Build/validate ETL/ELT pipelines and data quality checks
+
+Support data modelling and schema design
+
+Support AI engineering activities as needed (data preparation, evaluation/monitoring concepts)
+
+Skills & experience (must-have)
+
+Data Engineering and AI Engineering fundamentals
+
+Python (data wrangling, automation)
+
+SQL (joins, CTEs, query fundamentals)
+
+ETL/ELT knowledge (concepts and/or tools)
+
+Data modelling knowledge
+
+Cloud knowledge is a must (AWS / Azure / GCP — at least one)
+
+Nice to have
+
+Familiarity with risk frameworks / standards (e.g., ISO 27001, NIST, SOC 2, COBIT or similar)
+
+Data governance concepts (lineage, access controls, retention, quality)
+
+Exposure to modern data tools (dbt, Airflow, Databricks, Snowflake, BigQuery, etc.)
+
+Suitable for
+
+Graduates and early-career professionals
+
+Candidates who enjoy technical problem-solving and want to grow in Data + AI + Governance/Assurance
+
+How to apply
+
+Email your CV and a short note to careers@giofai.com.au with the subject:
+“Junior Data/AI Consultant – [Your Name]”
+
+In your note, please include:
+
+Your strongest cloud platform (AWS/Azure/GCP)
+
+A project using Python + SQL + pipelines (uni/personal/professional)
+
+Any exposure to governance, risk, controls or audits (if any)"
+89196129,IAM Engineer - SailPoint,NTT Ltd,https://www.seek.com.au/job/89196129?type=standard&ref=search-standalone&origin=jobCard#sol=61db996ae5804e348d523f508210f9d793ea616c,1h ago,1.0,2025-12-17T06:00:00+00:00,Melbourne VIC (Hybrid),Security (Information & Communication Technology),Contract/Temp,,"Is innovation part of your DNA? Do you want to enable a connected future for people, organizations, and society?
 
 Join our growing global NTT team and you’ll be part of the world’s largest ICT company (by revenue). We’ve combined the capabilities of 28 remarkable companies to become one, leading technology services provider. Together, we help our people, clients, and communities do great things with technology to create a more secure and connected future. We employ 40,000 people across 57 countries. By bringing together the world’s best technology companies and emerging innovators, we work together to deliver sustainable outcomes to businesses and the world. Innovation is part of our DNA. We believe it’s key to what makes us different. So, we strive to move forward, challenge the status quo, and drive excellence through the technologies we integrate and the services we deliver around the world. The result is connected cities, connected factories, connected healthcare, connected agriculture, connected conservation, connected mobility, and connected sport. Together we enable the connected future.
 
@@ -44,7 +147,7 @@ About us
 NTT Ltd. is a leading global technology services company. Working with organizations around the world, we achieve business outcomes through intelligent technology solutions. For us, intelligent means data driven, connected, digital and secure. As a global ICT provider, we employ more than 40,000 people in a diverse and dynamic workplace that spans 57 countries, trading in 73 countries and delivering services in over 200 countries and regions
 
 NTT is proud to be an equal opportunity employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category."
-89196084,Solution Architect (Multiple),Lime Recruitment,https://www.seek.com.au/job/89196084?type=standard&ref=search-standalone&origin=jobCard#sol=0ae8e62c83b9b4a65c9ebd9e2211ca1220ef4f3e,1h ago,1.0,2025-12-17T05:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"Solution Architect (Multiple)
+89196084,Solution Architect (Multiple),Lime Recruitment,https://www.seek.com.au/job/89196084?type=standard&ref=search-standalone&origin=jobCard#sol=2686b28d412a4d01e7611f6231767282702dfcef,1h ago,1.0,2025-12-17T06:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"Solution Architect (Multiple)
 
 Contract to 30/06/2026 with possible extension | Brisbane CBD + WFH
 
@@ -87,7 +190,7 @@ Experience supporting procurement activities, business cases, or go-to-market en
 Why apply through Lime Recruitment?
 
 Enjoy two pay runs per week without contractor fees. As a Queensland-owned agency, we offer personalised service and are a Tier 1 supplier to the Queensland Government. Awarded Australia’s top-performing small agency in 2021 and 2022, with a finalist spot in 2023. Partner with Lime for genuine, experienced, friendly recruiters dedicated to securing the best opportunities for you. Apply now or contact Daniel Keyte on 0433 013 200 or daniel@limejobs.com.au to find out more!"
-89196031,Data engineer | Snowflake,Billigence,https://www.seek.com.au/job/89196031?type=standard&ref=search-standalone&origin=jobCard#sol=6185b07689c58927d4db164aeb7ea4774e716ba7,1h ago,1.0,2025-12-17T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About us: 
+89196031,Data engineer | Snowflake,Billigence,https://www.seek.com.au/job/89196031?type=standard&ref=search-standalone&origin=jobCard#sol=a18333518f7c50c0e07e3b3e2e60c650a2bd8cab,1h ago,1.0,2025-12-17T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About us: 
  
 Billigence Pty Ltd is a specialist in the delivery of market-leading Business Intelligence and CRM solutions. Headquartered in Sydney, Australia and with offices in Prague, London, Frankfurt and Singapore our passion is data and our focus is the delivery of end-to-end solutions via a talented team of skilled professionals.  
 
@@ -125,7 +228,7 @@ Company lunches & events.
 Open, friendly team environment.
   
 If this sounds like something you are interested in, please apply with your most up-to-date CV and we will be in touch!"
-89196027,Data Engineers | Snowflake,Billigence,https://www.seek.com.au/job/89196027?type=standard&ref=search-standalone&origin=jobCard#sol=05ad8257deb8ec0fc0c2e131f8c387fa19119af3,1h ago,1.0,2025-12-17T05:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"About us: 
+89196027,Data Engineers | Snowflake,Billigence,https://www.seek.com.au/job/89196027?type=standard&ref=search-standalone&origin=jobCard#sol=38d97afc0476fb14395dbfadb3fa8df0d36c3956,1h ago,1.0,2025-12-17T06:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"About us: 
  
 Billigence Pty Ltd is a specialist in the delivery of market-leading Business Intelligence and CRM solutions. Headquartered in Sydney, Australia and with offices in Prague, London, Frankfurt and Singapore our passion is data and our focus is the delivery of end-to-end solutions via a talented team of skilled professionals.  
 
@@ -147,7 +250,7 @@ Excellent written & verbal communication skills are essential
 Highly desirable: Snowflake certifications. 
 
 PLEASE NOTE: Only short listed candidates will be contacted."
-89195892,Principal Engineer,Maurice Blackburn,https://www.seek.com.au/job/89195892?type=standard&ref=search-standalone&origin=jobCard#sol=b680c894b6b81eb8fe03d1541a9e4757f1431857,1h ago,1.0,2025-12-17T05:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+89195892,Principal Engineer,Maurice Blackburn,https://www.seek.com.au/job/89195892?type=standard&ref=search-standalone&origin=jobCard#sol=92b083b07b76d78a94da38222b8c457e973914f6,2h ago,2.0,2025-12-17T05:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 We welcome fearless thinkers
 
@@ -206,7 +309,7 @@ Additional Information
 Our Circle Back Initiative partnership means we’re committed to responding to every applicant. 
 
 Please note that all successful candidates will be required to undergo background checks as part of our commitment to maintaining a safe and compliant workplace"
-89194959,Operations Engineer,Elula,https://www.seek.com.au/job/89194959?type=standard&ref=search-standalone&origin=jobCard#sol=57f40751c2b60ca046c82cb7cf50d21d38c3057c,1h ago,1.0,2025-12-17T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who we are
+89194959,Operations Engineer,Elula,https://www.seek.com.au/job/89194959?type=standard&ref=search-standalone&origin=jobCard#sol=85274980f1a435327cedd6758c954ce0ae8e724c,2h ago,2.0,2025-12-17T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who we are
 
 Elula was founded in 2017 by a bunch of talented people with years of experience in enterprise and passions for technologies that deliver smarter decision making through the intelligent use of data.
 
@@ -307,7 +410,7 @@ Interested?
 If you are excited about working with a close-knit team of highly motivated people, submit your CV and a cover letter telling us specifically what draws you to Elula, what draws you to the job, and what distinguishes you from others.
 
 Flexible work arrangements are available as are internal career development opportunities to any other role within the company."
-89194701,Data Engineer,Western Bulldogs,https://www.seek.com.au/job/89194701?type=standard&ref=search-standalone&origin=jobCard#sol=90dca7434cd21a7d80e2539986481d4cc7eb2897,2h ago,2.0,2025-12-17T04:00:00+00:00,"Footscray, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,,"About the business
+89194701,Data Engineer,Western Bulldogs,https://www.seek.com.au/job/89194701?type=standard&ref=search-standalone&origin=jobCard#sol=72577eeb52c6a744cce48ff1b43ec5e4e5d4f99d,2h ago,2.0,2025-12-17T05:00:00+00:00,"Footscray, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,,"About the business
 
 Fiercely proud of our unique Western Suburbs heritage – the Western Bulldogs have represented Melbourne’s West, our geographic heartland, for over 100 years. Our famous Bulldog fighting spirit mirrors that of the West – where hard work and standing up for what you believe in matters. We are the team of the Mighty West, for the West, which has been ingrained in our club for many years. However, our story is no longer only defined by where we come from. Our horizons have lifted, unprecedented opportunities await, and with that there is a moment in time to evolve.
 
@@ -396,7 +499,7 @@ If you are interested in working in a challenging yet extremely satisfying posit
 
 
 Western Bulldogs acknowledges that we reside on traditional lands of the Kulin Nation. We offer our respect to the Elders of these traditional lands, and through them to all Aboriginal and Torres Strait Islander peoples past, presenting and emerging. Western Bulldogs encourages Aboriginal and Torres Strait Islander people to apply."
-89194249,Cloud Solution Architect,Microsoft,https://www.seek.com.au/job/89194249?type=standard&ref=search-standalone&origin=jobCard#sol=848d60c861eb143ed98307a0091fce3ee1fb8dd2,2h ago,2.0,2025-12-17T04:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
+89194249,Cloud Solution Architect,Microsoft,https://www.seek.com.au/job/89194249?type=standard&ref=search-standalone&origin=jobCard#sol=ad5984de71fc11baffab9a0721ab48431ce4ea85,3h ago,3.0,2025-12-17T04:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
 
 We are looking to hire a Cloud Solution Architect (CSA) - Power Platform - based in Melbourne or Brisbane.  This is an entry‑level Microsoft role designed for early‑career talent, typically with 1–2 years of professional experience.
 
@@ -465,7 +568,7 @@ Bachelor's Degree in Computer Science, Information Technology, Engineering, Busi
 This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
 
 Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
-89194124,Mechatronics Project Engineer - Industrial Automation,Ignite,https://www.seek.com.au/job/89194124?type=standard&ref=search-standalone&origin=jobCard#sol=0d739cbfbd3a85a5099fba543dc9e198073a4918,2h ago,2.0,2025-12-17T04:00:00+00:00,"Mosman, Sydney NSW (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,Negotiable on Experience,"Ignite have partnered with Australian-based leader in advanced automation and robotics solutions — creating real, practical technology that solves real industry challenges.
+89194124,Mechatronics Project Engineer - Industrial Automation,Ignite,https://www.seek.com.au/job/89194124?type=standard&ref=search-standalone&origin=jobCard#sol=f3f57dabc16f76f4d606257e032d169ac56f16ba,3h ago,3.0,2025-12-17T04:00:00+00:00,"Mosman, Sydney NSW (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,Negotiable on Experience,"Ignite have partnered with Australian-based leader in advanced automation and robotics solutions — creating real, practical technology that solves real industry challenges.
 
 From food processing and mining automation to med-tech robotics and humanoid systems, the team applies cutting-edge AI, sensing, and robotics to boost productivity, safety, and efficiency across sectors and are now seeking a Project Engineer from an Electronics or Mechatronics background.
 
@@ -499,7 +602,7 @@ Strong analytical and problem-solving skills, with confidence in addressing new 
 
 
 Ignite is Australia's preferred partner in recruitment and technology solutions across private and public sectors."
-89191901,Senior Systems Engineer – Telco Automation & Observability,Macquarie Technology Group,https://www.seek.com.au/job/89191901?type=standard&ref=search-standalone&origin=jobCard#sol=c9f73aabd847ab67ddc28fea53d1de017ff89899,3h ago,3.0,2025-12-17T03:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"About Us
+89191901,Senior Systems Engineer – Telco Automation & Observability,Macquarie Technology Group,https://www.seek.com.au/job/89191901?type=standard&ref=search-standalone&origin=jobCard#sol=1208ce296f58f92c94f21190a0379896b655ef6d,4h ago,4.0,2025-12-17T03:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"About Us
 
 There’s something special about working for a company like Macquarie Telecom. We’re not the biggest in the industry, where you’re just a number. We’re not tiny enough that you’ve never heard of us. We’re in that sweet spot where we’re strong enough to punch above our weight. And we definitely do! Because of this, you have the opportunity to make a difference.
 
@@ -528,7 +631,7 @@ What you’ll be owning (day to day):
 Join a team that’s been challenging the status quo in Australian telecom and cloud for decades—building secure, sovereign infrastructure and continuously raising the bar on customer outcomes. At Macquarie Technology Group, our purpose is clear: make a difference where customers are overcharged and overlooked, and we empower our engineers to deliver real impact through automation, observability, and operational excellence. You’ll be part of a business recognised for its culture (including #1 in category in Best Workplaces in Australia 2025) while working in a hybrid model that supports focus, flexibility, and collaboration.
 
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
-89190511,Business Intelligence Developer,Morgans Financial Limited,https://www.seek.com.au/job/89190511?type=standard&ref=search-standalone&origin=jobCard#sol=283061693a02bccf1b639fc399f92d33e9763eba,3h ago,3.0,2025-12-17T03:00:00+00:00,Brisbane QLD,Other (Information & Communication Technology),Casual/Vacation,,"The Opportunity
+89190511,Business Intelligence Developer,Morgans Financial Limited,https://www.seek.com.au/job/89190511?type=standard&ref=search-standalone&origin=jobCard#sol=8fa11dce15a9aeaf572f5d07092b9beaa223860c,4h ago,4.0,2025-12-17T03:00:00+00:00,Brisbane QLD,Other (Information & Communication Technology),Casual/Vacation,,"The Opportunity
 
 Morgans is seeking a dynamic Business Intelligence Developer to join our iServices team. In this role, you’ll deliver modern data solutions to support strategic decision-making, including implementing a cloud data platform (FiveTran, DBT, Snowflake, PowerBI, Salesforce), enabling enterprise reporting, and building automated data warehousing. You’ll apply advanced SQL and modelling techniques—Relational, Dimensional, DataVault, Salesforce Object Model, PowerBI Tabular, and DAX—while documenting data definitions and providing backup support to the BI team. This is a great opportunity for a proactive professional passionate about turning data into actionable insights.
 
@@ -576,7 +679,7 @@ Benefits
 Eligible to participate in bonus scheme.
 Learning and development opportunities including Morgans' Mentoring program.
 Positive impact on the community through the Morgans Foundation and paid volunteer days."
-89188213,Technical Advisor Clinical Coding,Health System Support Group,https://www.seek.com.au/job/89188213?type=standard&ref=search-standalone&origin=jobCard#sol=4b951fefaa7a7edf3f36e99909eefecee4733471,5h ago,5.0,2025-12-17T01:00:00+00:00,Sydney NSW,"Developers/Programmers (Information & Communication Technology)
+89188213,Technical Advisor Clinical Coding,Health System Support Group,https://www.seek.com.au/job/89188213?type=standard&ref=search-standalone&origin=jobCard#sol=dc871bdd26d8bc41f312a3ec1e580f90b0c8e13b,5h ago,5.0,2025-12-17T02:00:00+00:00,Sydney NSW,"Developers/Programmers (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$141,974 - $169,151 p.a. plus super &amp; AL loadi","Technical Advisor Clinical Coding
 Employment Type: Temporary Full Time (up to June 2026)
 Position Classification: Health Manager Level 4
@@ -665,7 +768,7 @@ Please note the selection process will include a range of merit-based techniques
 For more information about working at the NSW Health, please visit our career portal.
 
 Applications Close: 11:59pm, Sunday 11 January 2026"
-89187954,Control Systems Engineer,MMG,https://www.seek.com.au/job/89187954?type=standard&ref=search-standalone&origin=jobCard#sol=0b8735b28206c6201c3ea297b99cca52cd1785f5,5h ago,5.0,2025-12-17T01:00:00+00:00,Melbourne VIC,Electrical/Electronic Engineering (Engineering),Full time,,"We are MMG and we mine for progress
+89187954,Control Systems Engineer,MMG,https://www.seek.com.au/job/89187954?type=standard&ref=search-standalone&origin=jobCard#sol=f987316ab7c9abf7f47a6d7dceb3ba9f34431f09,5h ago,5.0,2025-12-17T02:00:00+00:00,Melbourne VIC,Electrical/Electronic Engineering (Engineering),Full time,,"We are MMG and we mine for progress
 
 Rosebery is an underground polymetallic base metal mine located in the township of Rosebery in Tasmania, Australia. The mine is a deep, sub-level open stoping operation with complex mining conditions.
 
@@ -749,7 +852,7 @@ To know more about MMG please visit our webpage https://www.mmg.com/
 If you're ready to take on a challenging yet rewarding role that empowers you to shape your work environment, we invite you to apply and join us in our pursuit of efficient and sustainable mining operations.
 
 MMG Limited reserves the right to appoint a candidate prior to the closing date."
-89187671,AI / LLM Data Scientist - Leading Consultancy,Bluefin Resources Pty Limited,https://www.seek.com.au/job/89187671?type=standard&ref=search-standalone&origin=jobCard#sol=1c213b3c2ddf7324577d70b9749151b4a619ae74,5h ago,5.0,2025-12-17T01:00:00+00:00,Sydney NSW (Hybrid),Analysts (Consulting & Strategy),Full time,AUD 130000 - 150000 per annum,"AI / LLM Data Scientist - Leading AI Consultancy 
+89187671,AI / LLM Data Scientist - Leading Consultancy,Bluefin Resources Pty Limited,https://www.seek.com.au/job/89187671?type=standard&ref=search-standalone&origin=jobCard#sol=29d9072e911d5ccb08ad8f74b3b48d5d48536fd7,6h ago,6.0,2025-12-17T01:00:00+00:00,Sydney NSW (Hybrid),Analysts (Consulting & Strategy),Full time,AUD 130000 - 150000 per annum,"AI / LLM Data Scientist - Leading AI Consultancy 
 Location - Sydney only (2 days max in the office, rest from home!) - no remote / overseas options!
 
 Ready to make an impact with AI? Join a leading AI consultancy where innovation, impact, and cutting-edge tech come together. The AI team is a powerhouse of designers, developers, data scientists, and analysts delivering next-gen digital products and AI solutions across various industries. They are growing rapidly and looking to hire AI passionate data scientists in thier team!!
@@ -784,7 +887,7 @@ Why us?
 At this leading AI consultancy, you’ll join a diverse, inclusive environment that champions creativity and innovation. They offer flexible work, world-class development opportunities, mentoring, and wellness benefits—so you can thrive personally and professionally.
 
 Please apply on-line or for more information please contact Kausty Mahajan at Bluefin Resources on 02 9270 2603."
-89185837,Data Engineer,Carlton Football Club,https://www.seek.com.au/job/89185837?type=standard&ref=search-standalone&origin=jobCard#sol=a860f99a65c7eaee2f6b6de2cf3e84f3baba1630,7h ago,7.0,2025-12-16T23:00:00+00:00,"Carlton North, Melbourne VIC",Other (Information & Communication Technology),Full time,,"About the Carlton Football Club
+89185837,Data Engineer,Carlton Football Club,https://www.seek.com.au/job/89185837?type=standard&ref=search-standalone&origin=jobCard#sol=7b2ceb13e19f41b6b7a1fcbc903c4ceffa924ab4,7h ago,7.0,2025-12-17T00:00:00+00:00,"Carlton North, Melbourne VIC",Other (Information & Communication Technology),Full time,,"About the Carlton Football Club
 
 The Carlton Football Club is one of Australia’s oldest and most prominent sport institutions. Founded in 1864, the Club’s headquarters and training facilities are located in Carlton at IKON Park, our traditional home ground. Our IKON Park redevelopment is now complete, and we are proud of our state-of-the-art facilities that supports our high-performance environment. When the Club set about undertaking this historic work, it was based upon achieving facilities for women’s sport that would be the equal of their male counterparts.
 
@@ -843,7 +946,7 @@ Please submit your current resume and cover letter addressed to the Data Analyti
 The Carlton Football Club is an equal opportunity employer and a place who welcomes all. We encourage people with diverse experiences and backgrounds to apply. This includes, but is not limited to, those from the Aboriginal and Torres Strait Islander, Culturally and Linguistically Diverse, and LGBTQIA+ communities. We are committed to fostering a workplace environment which is inclusive, safe, and flexible. All applicants will be considered based on the relevance of their abilities to the role and their alignment with our Club Values.
 
 The Carlton Football Club is committed to providing a welcoming environment where the safety and wellbeing of all children and young people involved in our programs, services, activities, events, and the broader community, will always be our first priority. All staff must hold (or be willing to obtain) a current Victorian Working With Children Check as part of their employment with the Club."
-89183859,Senior Data Scientist,Just Digital People,https://www.seek.com.au/job/89183859?type=standard&ref=search-standalone&origin=jobCard#sol=368b8c9817f5cee706525ca9fe98b37ab1b69a5d,8h ago,8.0,2025-12-16T22:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,"$180,000 - 190,000 + Super","A lot of data science roles talk about impact.
+89183859,Senior Data Scientist,Just Digital People,https://www.seek.com.au/job/89183859?type=standard&ref=search-standalone&origin=jobCard#sol=e742ce6fa8b0d7a0e0d97a22eda58300211e4a46,9h ago,9.0,2025-12-16T22:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,"$180,000 - 190,000 + Super","A lot of data science roles talk about impact.
 This one expects it.
 
 You’ll be working on AI and GenAI powered features that sit directly in front of customers. Not internal dashboards. Not science projects. Actual product functionality where success is measured by whether it improves the experience and stands up in the real world.
