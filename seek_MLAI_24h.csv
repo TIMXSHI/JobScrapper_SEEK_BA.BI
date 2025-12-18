@@ -1,1 +1,104 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+89228846,CTO or Lead Engineer,alice/ai,https://www.seek.com.au/job/89228846?type=standard&ref=search-standalone&origin=jobCard#sol=6896cb2b0b749e91853c8074f6c371f0495b2c2f,7h ago,7.0,2025-12-18T15:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$80,000 – $100,000 per year","CTO / Lead Platform Engineer (AI) with product focus — Build the ""operating system"" for SMEs
 
+Location: Sydney, Australia (Remote/Hybrid)
+Type: Full-time (or contract-to-perm)
+Comp: Below-market salary + meaningful equity (details shared with shortlisted candidates)
+Stage: Fully funded startup | Existing product in market | Entering scale-up hardening phase
+
+The opportunity
+
+Alice/AI is building the platform that gives SME owners back 15+ hours per week by automating the operational work that currently lives across disconnected tools (email, calendars, files, CRM/accounting). We've built the core agentic AI engine and now we're entering a critical phase: architectural hardening, security uplift, and deep integrations into the systems our customers live in every day.
+
+If you're a senior, hands-on engineer who enjoys turning a promising platform into a production-ready system—and you're open to a startup-style package (lower cash, higher upside via equity)—we'd love to talk.
+
+What you'll do (high impact, hands-on)
+
+You'll operate as a CTO/Lean Engineering Lead: with a product focus, making pragmatic decisions, shipping core foundations, and setting us up to scale.
+
+1) Architecture & security hardening (first 4–8 weeks)
+
+Review current platform architecture for scalability, maintainability and reliability
+
+Identify and mitigate priority security risks (auth, tenancy/data isolation, API security, secrets management, audit/logging)
+
+Produce and execute a practical roadmap for improvement (12–18 month horizon, MVP-first)
+
+2) Build core product integrations (our MCP foundation)
+
+Own end-to-end integrations including OAuth, sync logic, rate limits, retries, observability and data modelling:
+
+Google Workspace: Gmail, Calendar, Drive
+
+Microsoft 365: Outlook, Calendar, OneDrive
+
+Xero: invoices, contacts, cashflow basics
+
+3) Evolve the core platform
+
+Strengthen backend services and APIs (Java) and work closely with the AI orchestration layer (Python with LangChain/LangGraph)
+
+Improve data pipelines that feed our agents and enable reliable automation
+
+Establish pragmatic engineering practices (CI/CD, test strategy, release hygiene, monitoring)
+
+Our stack
+
+Cloud: AWS (Australia region)
+
+Backend: Java
+
+Frontend: React Native
+
+AI Orchestration: Python, LangChain, LangGraph
+
+LLM integrations: OpenAI API, Google Vertex AI, Groq, AWS Bedrock
+
+What we're looking for
+Must-haves
+
+Strong senior experience building and shipping backend/platform systems (ideally Java)
+
+Ideally 7-8 years of experience in backend/platform systems development
+
+Proven experience integrating with third-party SaaS APIs and managing OAuth flows in production
+
+Practical cloud security mindset (AWS, IAM, auth patterns, API security, data isolation/tenancy)
+
+Comfortable collaborating across Java + Python systems
+
+High ownership: you don't just identify problems—you ship fixes
+
+Australian work rights will be considered on a case-by-case basis for this remote/hybrid position.
+
+Nice-to-haves
+
+Experience with SMEs, vertical SaaS, or workflow automation products
+
+Familiarity with agentic AI patterns, LLM tooling, or ML-adjacent product development
+
+Exposure to compliance/security baselines (SOC2-style controls, even if informal)
+
+Why join
+
+Real product, real users, real mission (SMEs are under-served and drowning in admin)
+
+Fully funded with runway to build properly (not ""week-to-week survival"")
+
+Meaningful equity and the chance to shape the technical direction from here
+
+Work on a modern AI stack with practical constraints (security, reliability, integrations)
+
+About the compensation (transparent)
+
+This role is not Big Tech cash. We're offering a below-market salary balanced by meaningful equity because we're optimising for long-term upside and impact. We'll share the band and equity range with candidates who reach first interview, and we're happy to discuss structuring (e.g., contract-to-perm, milestone-based increases).
+
+How to apply
+
+Send a short note with:
+
+LinkedIn/GitHub (or a brief overview of what you've built)
+
+1–2 examples of AI focused application you've shipped
+
+What you're looking for in terms of role structure (FT vs contract-to-perm) and location"
