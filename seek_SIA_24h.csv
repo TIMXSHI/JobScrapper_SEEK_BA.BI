@@ -1,5 +1,450 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89236141,Senior Manager,RiskLogic,https://www.seek.com.au/job/89236141?type=standard&ref=search-standalone&origin=jobCard#sol=5d3c83d1a2175768697ce426cfb618f28b857935,1h ago,1.0,2025-12-19T01:00:00+00:00,Sydney NSW (Hybrid),Workplace Training & Assessment (Education & Training),Full time,,"Join RiskLogic and Help Build a More Resilient Tomorrow!
+89240258,Senior Data Engineer,VALE Partners,https://www.seek.com.au/job/89240258?type=standard&ref=search-standalone&origin=jobCard#sol=b76e1dfc159d20fcc171d57eea972d4f37944092,1h ago,1.0,2025-12-19T03:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"VALE Partners have been engaged by an innovative, data-driven technology company to find their next Senior Data Engineer. You'll be joining a fully-remote team on a mission to build a world-class data platform that will transform their industry.
+
+This is a crucial role where you will have a significant influence over the platform's technical and strategic direction. You will be responsible for building a high-performing, scalable, and easily maintainable data pipeline from the ground up, operating in a fast-moving and highly autonomous environment.
+  
+Role Overview
+
+Architect and build a modern, high-performing data platform in Azure, with a focus on near real-time streaming and high accuracy.
+Design, develop and optimise resilient data pipelines using tools like Databricks (or similar), dbt (or equivalent), Python and SQL.
+Develop and manage data models and ETL/ELT workflows to ensure data is accessible, accurate, and reliable.
+Refactor and improve existing data services, addressing critical performance and scalability challenges to support analytics and AI capabilities.
+What You'll Ideally Have
+
+7+ years of backend or data engineering experience, with a proven track record of shipping reliable and scalable solutions.
+Strong, hands-on expertise with Python (including Pandas) and advanced SQL.
+Proven experience architecting and building data platforms in a cloud environment (preferably Azure) using tools like Databricks and dbt or similar.
+A bias towards shipping and learning, with the ability to balance speed with a high-quality bar.
+This Role Will Interest You If
+
+You thrive in a fully-remote, high-autonomy environment where you can shape the technical direction of a core platform.
+You have a deep interest in building data solutions that will power future AI/ML-driven products.
+You enjoy the challenge of working with complex data to solve interesting problems.
+You are excited by the opportunity to help establish a high performing and quality focussed technical culture and have a desire to win as a team.
+If you'd like to apply for this role but are unsure about your suitability - please reach out!
+
+With over 25 years of combined experience recruiting for the QLD technology market, VALE Partners love to help and see if you are suitable or assist you in any other way we can."
+89240247,Senior Analyst - Projects & Analytics (Market & Financial Risk),Troocoo,https://www.seek.com.au/job/89240247?type=standard&ref=search-standalone&origin=jobCard#sol=aa875257902df7a194fce0ba3984d8d13896fc7e,1h ago,1.0,2025-12-19T03:00:00+00:00,Brisbane QLD (Hybrid),Compliance & Risk (Banking & Financial Services),Full time,,"About The Company
+Our client is a growing and market leading retail bank with a great reputation and a very strong risk team. As part of the organisation’s ongoing risk uplift programme, a new role has been created for an experienced Senior Risk Analyst to work across projects and analytics.
+  
+About The Job
+Reporting to the Senior Manager - Market Risk you will provide expert insight and guidance on a number of key risk areas including liquidity, funding, interest rate, counterparty credit and capital risk. You will have experience in both creating and reviewing financial risk projects and models as well as strong data analytics capabilities to work closely with business stakeholders to drive risk insights and create relevant dashboards and reporting from scratch. You will be well informed in the latest best practices in market risk management, financial instrument valuation and market risk modelling and will collaborate closely with your line 1 colleagues to embed a strong, robust and modern risk culture.
+  
+About You
+To be successful in this role you will bring:
+
+5+ years of experience in a similar role within the Financial Services sector, preferably in a project based role.
+Experience in a Three Lines of Defence model based risk environment either in a bank or financial services company.
+Risk analysis experience across one or more of these areas: interest rate, funding, liquidity, credit or capital.
+Up-to-date knowledge of relevant financial services regulatory and compliance considerations
+Comfort in working with stakeholders to create new models and frameworks
+Experience with PowerBI or SQL
+  
+If you would like more information or to make a confidential enquiry, please reach out to me at james.wilson@troocoo.com."
+89239677,Senior Machine Learning Engineer/ML Manager (Hands-On),Athena Artificial Intelligence,https://www.seek.com.au/job/89239677?type=standard&ref=search-standalone&origin=jobCard#sol=3f095977694deccf72d983b4de2a2f6171bc8113,1h ago,1.0,2025-12-19T03:00:00+00:00,"Murarrie, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"About the position
+
+Sightline Intelligence - Murarrie, Brisbane 
+
+Are you a senior ML engineer ready to step into a hands-on management role who thrives on both leading technical direction and staying deeply technical? Sightline Intelligence, a leader in Defence AI and Computer Vision, is seeking a capable technical leader to help shape and deliver mission-critical perception systems deployed at the tactical edge. 
+
+In this role, you will collaborate with engineering leadership to define goals and scope, translate operational requirements into actionable plans, and drive the execution of complex ML initiatives. You will act as a trusted technical authority for customers and internal teams while still contributing significant hands-on modelling, data, optimisation, and deployment work. 
+
+If you're looking for a hands-on leadership role with real impact - this is it!
+
+About Sightline Intelligence
+
+Sightline Intelligence (formerly Athena Artificial Intelligence) is a highly innovative Defence technology company delivering game-changing capabilities to international clients. Sightline Intelligence is one of the only companies providing vision-based AI systems to the Australian Defence industry that combines computer vision, AI enabled geospatial data analytics and AI augmented decision support to the connected battlefield. Our systems are deployed in real operational environments, supporting real missions with real consequences. 
+
+
+Key Responsibilities:
+
+Hands-On Machine Learning & Computer Vision  
+
+Design, train, evaluate, and iterate on object detection, classification, and segmentation models for operational use. 
+
+Run structured experimentation, ablations, and performance analysis to guide architecture and design decisions. 
+
+Optimise and convert models for edge deployment (TensorRT, ONNX, TFLite, QNN), balancing accuracy, latency, and system constraints. 
+
+Contribute to data strategy and implementation, including ingestion, curation, quality filtering, annotation workflows, and dataset versioning. 
+
+Benchmark, profile, and tune performance on embedded targets (Jetson, Qualcomm) and support integration into mission systems. 
+
+Define and maintain ML system assurance practices, including verification and validation criteria, performance baselines, and regression checks. 
+
+Produce clear technical documentation covering system architecture, model behaviour, assumptions, and limitations to support auditability and operational confidence. 
+
+Technical Leadership, Strategy & Management  
+
+Work with engineering leadership to define technical goals, scope work, and align ML development with program and customer objectives. 
+
+Act as a senior technical interface for customers and stakeholders, supporting requirements definition, design trade-offs, progress reviews, and technical briefings. 
+
+Take accountability for ML team delivery, quality, and outcomes, acting as an advocate for the team across engineering, program, and customer forums. 
+
+Establish and uphold engineering standards for ML development, including code quality, testing, CI pipelines, system integration, and release readiness. 
+
+Design and document ML-enabled systems to ensure robustness, assurance, reliability, and operational suitability, producing clear artefacts to support auditability and compliance. 
+
+Stay current with state-of-the-art ML, computer vision, and AI assurance practices, guiding adoption of best-in-class methods and tools. 
+
+Build and grow the ML team through mentoring, recruitment, onboarding, and ongoing capability development. 
+
+Qualifications
+
+Required 
+
+Bachelor’s, Master’s, or equivalent experience in Computer Science, Engineering, Data Science, or a related field. 
+
+Significant professional experience delivering production machine learning systems, with a strong emphasis on computer vision. 
+
+Demonstrated hands-on expertise in deep learning model development and deployment using frameworks such as PyTorch. 
+
+Ability to design, document, and reason about ML-enabled systems, including assurance, validation, and operational considerations. 
+
+Excellent communication skills, including the ability to work with customers and explain technical decisions clearly. 
+
+Strong data engineering fundamentals (NumPy, pandas, scikit-learn). 
+
+Australian citizenship and the ability to obtain an Australian Government Security Clearance. 
+
+Highly Desirable 
+
+Prior experience in a senior, lead, or managerial ML role while remaining hands-on. 
+
+Experience recruiting, mentoring, or building ML engineering teams. 
+
+Experience deploying models on embedded edge platforms (NVIDIA Jetson, Qualcomm). 
+
+Familiarity with MLOps tooling, CI/CD pipelines, experiment tracking systems, and workflow automation. 
+
+Exposure to Defence, robotics, aerospace, or other safety/mission critical real-time system constraints. 
+
+Awareness of contemporary best practices in trustworthy AI, model assurance, and system-level validation. 
+
+Why Sightline Intelligence?
+
+Cutting-Edge Projects: Work on real-world, high-impact AI applications at the forefront of defence innovation. 
+
+Technical Leadership: Influence architecture, tooling, and the direction of ML capability. 
+
+Hands-On Engineering: Stay deeply technical while leading and mentoring others. 
+
+Competitive Compensation: Strong salary and benefits package. 
+
+Brisbane Location: Work at our Murarrie office - close to the CBD without the daily gridlock. 
+
+We encourage candidates with diverse backgrounds and experiences to apply, even if you feel you may not meet all the selection criteria. At Sightline Intelligence, we value the unique perspectives and skills that each candidate can bring to our team. 
+
+Note that due to the nature of our projects, you MUST BE AN AUSTRALIAN CITIZEN to be considered for this position. Our roles require an Australian Government Security Clearance, or the ability to obtain one. Security clearances may only be granted to Australian citizens. Applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. 
+
+We look forward to reviewing your application and potentially welcoming you to our innovative and passionate team!"
+89239604,Senior Commercial Finance Analyst,David Jones Limited,https://www.seek.com.au/job/89239604?type=standard&ref=search-standalone&origin=jobCard#sol=42fedc03f87a56592b8ea36efbb7404607199480,1h ago,1.0,2025-12-19T03:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Analysis & Reporting (Accounting),Full time,"Competitive Base Salary, Incentive Plan & Benefits","The Role
+
+David Jones exists to inspire like no other and as we continue to deliver on our ambitious transformation agenda in line with our Vision 2025+ strategy, we are committed to creating inspired careers so our people can Thrive.
+
+In line with the strategy, we’re looking for a Senior Finance Analyst to join the Commercial Finance and Strategy team. This role will enable commercial decision making across the business, supporting a portfolio of teams and stakeholders. This will be achieved through critical financial analysis and provision of strategic insights to support transformational changes.
+
+
+
+What YOUR DAY LOOKS LIKE
+
+
+
+Support the financial modelling and analysis for David Jones’. Covering the day to day BAU running of the business, which covers our medium & long term investments roadmap
+Be the financial owner of the P&L & drive all supporting activities ie. forecasting, budgeting, month-end. Ensure the financials are understood & accurate
+Optimise the shape of the P&L, focusing on growing revenue & margin while constantly also looking for opportunities to increase efficiencies from a cost point of view
+Drive commercial decisions through comprehensive evaluation of P&L impacts for proposals & any initiatives. This includes analysing potential uplifts, risks, and mitigation options, with all documentation prepared at a level appropriate for executive-level consumption.
+Act as a key business partner, help drive business performance & transformational success, providing financial expertise and insights across supported business units. Embed yourself within project teams to thoroughly understand the challenges and opportunities associated with major initiatives.
+Identify areas for process improvement or innovative financial approaches that can enhance decision-making for transformational projects. Present recommendations and execute approved changes.
+Actively drive collaboration across the Commercial Finance and Strategy team, sharing learnings and best practices related to supporting large-scale business initiatives.
+
+ 
+
+What YOU’LL NEED TO THRIVE
+
+Tertiary Qualification in Accounting/Business, with CA/CPA qualification.
+Passion for retail and problem-solving, with a keen interest in driving business transformation through financial analysis.
+Strong financial modelling skills with the ability to handle complex, multi-variable scenarios.
+Excellent analytical and problem-solving skills, particularly in relation to large-scale business initiatives.
+Outstanding communication and presentation skills, with the ability to convey complex financial concepts to non-finance stakeholders.
+Ability to prioritise workload and manage multiple competing projects with varying timelines.
+Strategic thinking capability, with the ability to anticipate business needs and present options for review.
+Experience in supporting transformational projects or significant business initiatives is highly desirable.
+Ability to build strong relationships across various business units and work effectively in cross-functional project teams.
+
+ 
+
+Why WORK FOR US?
+
+Unique opportunity to be part of a highly engaged, successful team, focused on the transformation of an iconic Australian brand
+Opportunity to directly impact major business decisions and shape the future of a leading retail organisation
+A competitive remuneration package 
+Hybrid working arrangements in office and from home that provide appropriate work/life balance
+Generous employee discounts across David Jones and access to partner benefits
+An additional day of leave for your birthday along with time to support charitable work
+Opportunities to support community partnerships across our Corporate Social Responsibility program
+Be a member of a company committed to sustainable practices, driving change in the retail landscape
+Ongoing training and development to pursue individual ambitions and career goals
+
+ 
+
+About Us
+
+Since 1838, David Jones’ limitless quest for innovation and progress established the brand as Australia’s original influencer in fashion and lifestyle. Having revolutionised the way Australians shop, David Jones’ creation of a social centre inspired and created lasting memories for past, present and future generations. Today, our vision to inspire Like No Other drives us to continue this legacy in our ambitious purpose to be the destination that inspires, with experiences and services Like No Other.
+
+
+Our Thriving cultural pillars inspire our people to deliver on our vision and purpose. We are Customer Obsessed; curious to understand and dedicated to delighting them with seamless solutions as one team. We care for our people, customers, partners and community by creating Inclusive environments through belonging and respect. We Empower with implied trust to act with integrity, value our unique skills and be accountable for our decisions. We constantly seek Innovative ways of improving, changing and exploring ways that we can inspire."
+89239363,Data Scientist,Professional Search Group,https://www.seek.com.au/job/89239363?type=standard&ref=search-standalone&origin=jobCard#sol=3a69bbc97f4b7d0aaf41803710fff8a22209431e,1h ago,1.0,2025-12-19T03:00:00+00:00,Perth WA,Other (Information & Communication Technology),Full time,AUD 130000 - 150000 per annum,"Job Title: Data Scientist
+Location: Perth, WA
+Employment Type: Full-Time
+
+About the Role
+
+My client is looking for a Data Scientist to help turn complex data into clear insights that support decision-making and business growth. This role combines technical skills with problem solving and collaboration, working closely with teams across the organisation to deliver practical data-driven solutions.
+
+Responsibilities
+
+Collect, clean and analyse data from multiple sources.
+Develop predictive models and statistical analyses to support business goals.
+Create clear data visualisations and reports for stakeholders.
+ Work with engineers, analysts and business teams to deliver solutions.
+Ensure data quality, accuracy and consistency across projects.
+Communicate findings and recommendations in a clear, actionable way.
+Skills & Experience
+
+Strong SQL and data manipulation skills.
+ Experience with Python or R for analysis and modelling.
+ Knowledge of statistical methods and machine learning techniques.
+ Familiarity with data visualisation tools (e.g. Power BI, Tableau, matplotlib).
+ Good problem-solving and critical thinking abilities.
+ Strong communication and teamwork skills.
+What’s on Offer
+
+Competitive salary package.
+Opportunity to work with diverse data sets and modern tools.
+ Career development and progression pathways.
+Supportive and collaborative team culture.
+ Work on projects that deliver real impact to the business.
+
+If you’re interested, please give me a call on 0413 405 590 or email me at thana@psgaus.com.au."
+89239258,Senior Technical Advisor,HorizonOne Recruitment,https://www.seek.com.au/job/89239258?type=standard&ref=search-standalone&origin=jobCard#sol=4e2e26ad6231d3ea41ed1235de680068e552f446,1h ago,1.0,2025-12-19T03:00:00+00:00,Canberra ACT (Hybrid),Management (Information & Communication Technology),Full time,$160/hr - $200/hr including Super,"This role sits within a central federal government environment, supporting complex, high-visibility digital capability.
+
+This is a unique environment. The complexity, visibility and expectations are materially different to a typical line agency, and the digital agenda reflects that. The systems, platforms and decisions supported here underpin the functioning of Australia’s democratic institutions.
+
+The department is progressing a multi-year digital transformation focused on capability maturity, investment prioritisation and sustainable, whole-of-enterprise technology decisions.
+
+The Opportunity
+
+This is a senior advisory role for an experienced ICT professional who operates comfortably at an executive level.
+
+This is not a delivery or BAU role. It is about judgment, clarity and influence. You will be trusted to provide independent advice, challenge assumptions where needed, and translate emerging technology opportunities into structured, achievable outcomes.
+
+You will work directly with senior leaders to assess organisational maturity, define future digital priorities, and shape a clear, practical technology roadmap. Your advice will inform investment decisions, platform strategy and capability uplift across a complex and highly visible environment.
+
+The Role
+Conduct technology maturity and capability assessments to identify priorities and opportunities
+Provide strategic ICT advice, roadmap development, and investment guidance
+Analyse business models, emerging technologies, and digital trends to inform strategy
+Mentor and upskill teams while managing stakeholder engagement across complex programs
+The Ideal Person
+
+This role will suit a senior ICT professional with proven experience advising executives on enterprise technology strategy within complex government or enterprise environments.
+
+Experience developing digital strategies, operating models, technology roadmaps and investment plans
+Strong analytical thinking and sound professional judgement in complex, fast-moving environments
+Salary / Rate
+$160/hr - $200/hr including Super
+How to Apply
+
+To apply online, please click on the appropriate link.
+ 
+Alternatively, for a confidential discussion, please contact Guy on 02 6108 4878 quoting ref no -21232
+
+Due to the Christmas shutdown period, applications will be reviewed from the week commencing 5th January, with shortlisted candidates contacted shortly thereafter.
+ 
+HorizonOne is committed to building a diverse and inclusive workforce and we encourage applications from people of all cultures, capabilities and backgrounds."
+89238515,Principal Economic Analyst,"Department of Jobs, Skills, Industry and Regions",https://www.seek.com.au/job/89238515?type=standard&ref=search-standalone&origin=jobCard#sol=362b5ba2f046522985a11b48b29a8bb208197c7f,1h ago,1.0,2025-12-19T03:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Government - State (Government & Defence),Full time,,"Principal Economic Analyst 
+
+Salary: $138,631 - $185,518 (plus superannuation)
+Fixed term / Ongoing role: Ongoing
+Usual hours of work: Full Time (flexibility may be available)
+Usual work location: 289 Wellington Parade South, East Melbourne VIC 3003
+
+The Role:  
+
+The Principal Economic Analyst plays a leadership role in delivering the work of the Skills Strategy and Insights Team, notably the annual Victorian Skills Plan.
+
+Main accountabilities:
+
+Working with the Team Manager and the Director of the Analysis and Insights Branch, the Principal Economic Analyst:
+
+co-leads various elements of the Victorian Skills Plan, including planning, drafting and internal and external engagement
+contributes to, or leads, various pieces of work undertaken by the Team
+is responsible for the day-to-day reporting and management of one staff member
+drafts papers and briefings
+engages and establishes relationships with key internal and external stakeholders across the VSA, Victorian Government and Commonwealth Government
+supports the VSA's Executives with a range of strategic work
+conducts analysis and research and drafts policy advice that support strategic and operational decision-making across the VSA and DJSIR.
+
+The Organisation:
+
+The Principal Economic Analyst plays an important role in the Victorian Skills Authority (VSA).
+
+The VSA brings an expert view of skills needs across Victoria and provides expert advice on Victorian skills issues and opportunities based on data and insights validated through engagement and collaboration. The VSA helps Victorians take advantage of training and job opportunities across the state and prepare for the jobs of the future; training providers deliver training the state needs; and industry access skilled workers.
+
+The VSA's objectives include:
+
+identifying current and future skills needs
+empowering Victorians to participate in education, training and employment
+lifting the quality of training and performance of the skills system
+developing innovative skills solutions
+creating connections and impact in Victoria and beyond.
+
+The VSA is an administrative office led by a Chief Executive Officer and it has 4 branches - Analysis and Insights, Services, Engagement and Skills Reform, and Corporate Services.
+
+About You
+
+To succeed in this role, you must be able to work in a fast-paced  environment; adapt quickly to changing circumstances; lead your work with minimal supervision; and work well with Executives and team members with diverse skills and experience.
+
+The following attributes would be valued:
+
+good knowledge and understanding of Vocational Education and Training (VET) in Victoria
+experience in policy work and conducting data analysis using standard tools
+relevant tertiary qualification in Economics or a related field.
+
+Further information:
+
+For a confidential discussion, please contact Erwin Lagura, Manager - Skills Strategy and Insights Unit on 0400118267/erwin.lagura@ecodev.vic.gov.au
+
+How to apply:
+
+Please click the ‘Apply Now' button. As part of the application process, you will need to provide a copy of your resume and a cover letter addressing the key selection criteria outlined in the position description.
+
+Applications close at 23:59pm on Sunday, 18 January 2026."
+89237860,Data Scientist,Tech & Data People,https://www.seek.com.au/job/89237860?type=standard&ref=search-standalone&origin=jobCard#sol=e34375f32c73c3e898b1c3ff2c935d5047925cda,2h ago,2.0,2025-12-19T02:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,"$140,000 - $160,000","One of Australia's most recognised brands is looking for a Senior Data Scientist to join their talented team. This role offers the chance to work on a groundbreaking industry project poised for global recognition, while contributing to a dynamic and talented team.
+ 
+Key Responsibilities:
+
+Develop and implement advanced data models and algorithms using Python and PySpark.
+Analyse complex datasets to extract actionable insights and drive strategic decisions.
+Collaborate with cross-functional teams to enhance and personalise loyalty programmes.
+Contribute to an industry-leading project with the potential for international acclaim.
+Stay abreast of the latest trends and advancements in data science and analytics.
+ What We Offer:
+
+Groundbreaking Project: Be at the forefront of an innovative project that aims to achieve global recognition and set new industry standards.
+Exceptional Culture: Join a supportive and collaborative team known for its high performance and talent. Enjoy a work environment that fosters creativity and excellence.
+Career Development: Access extensive opportunities for professional growth, including career advancement, ongoing training, and mentorship from industry leaders.
+ Technical Skills Required:
+
+Proficiency in Python for data manipulation, analysis, and model development.
+Expertise in PySpark for large-scale data processing and analytics.
+Experience with multiple statistical modelling techniques
+ Highly Desirable:
+
+Background in developing or optimising loyalty programmes.
+Experience in personalisation strategies and customer segmentation
+This is an excellent chance for a data scientist with a strong technical background and a keen interest in shaping the future of data-driven strategies. If you are eager to make a significant impact and advance your career with a leading brand apply now."
+89237739,FP&A Analyst,Randstad - Finance & Accounting,https://www.seek.com.au/job/89237739?type=standard&ref=search-standalone&origin=jobCard#sol=e8b5b613db8349e6972a146e16e3e638faa82528,2h ago,2.0,2025-12-19T02:00:00+00:00,"Mulgrave, Melbourne VIC",Management Accounting & Budgeting (Accounting),Contract/Temp,$70 - $80 p.h.,"Randstad Senior Finance is partnering with a global leader in the HVAC industry to find a high-performing Senior Finance professional for their Melbourne-based team. This is a critical role for an individual who thrives in fast-paced environments and can adapt quickly to produce high-quality outcomes.
+
+You will join a team that embraces continuous improvement and is currently evolving its operating model to support rapid growth. Acting as a 2IC to the FP&A Manager, this role is essential for driving improved analytics and ensuring the long-term sustainability of new processes.
+
+
+
+Your New Role
+
+This role will be responsible for both high-level financial analysis and critical system integration activities. You will play a key role in providing financial guidance to operational management on important business decisions.
+
+Key Responsibilities:
+
+Actively support system and process integration activities, including data migration, mapping, and reconciliation from legacy systems.
+
+Provide financial analysis and reporting support for the overall portfolio across P&L, balance sheet, and cash flow.
+
+Assist the FBP with delivery and execution of finance tasks related to M&A activities.
+
+Collaborate across the business with Sales, Service, and international offshore finance teams.
+
+Support the implementation and transition to a new banking services platform.
+
+Manage the consolidation, analysis, and reporting of monthly forecasts and month-end close.
+
+Evaluate monthly actual results for variances against Plan, Prior Year, and Prior Estimates.
+
+Develop analytical models to assist in forecasting backlog conversion and segment profitability.
+
+
+
+What You'll Need to Succeed
+
+We are seeking an educated, analytical, and direct thinker who possesses high expectations for their work quality. You must be able to remain calm, resilient, and separate emotion from data when working in high-pressure environments.
+
+Requirements:
+
+CA or CPA qualified with 5-10 years of professional experience.
+
+At least 4 years of experience specifically in FP&A roles.
+
+Proficiency in SAP and advanced knowledge of financial consolidation systems (preferably HFM).
+
+Strong understanding of US GAAP, revenue recognition, and complex budgeting/forecasting processes.
+
+Proven experience in systems integration and managing cross-functional projects.
+
+A solutions-focused mindset with the ability to work autonomously and manage multiple corporate deadlines.
+
+Exceptional stakeholder management skills, with the ability to translate complex data into relevant business analysis.
+
+How to Apply
+
+If you are a resilient finance professional with strong system integration experience, please click ""Apply Now"" to submit your resume. For more information please email Charli Crouch at: charlotte.crouch@randstad.com.au with your updated CV.
+
+At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background."
+89237490,Senior Data Engineer,Tech & Data People,https://www.seek.com.au/job/89237490?type=standard&ref=search-standalone&origin=jobCard#sol=74f2ae410a9a022bb1eebcbae25e02098dbca714,2h ago,2.0,2025-12-19T02:00:00+00:00,"Bayside & South Eastern Suburbs, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$140,000 - $160,000","We have been engaged by a great Australian brand to identify an experienced Senior Data Engineer to strengthen its enterprise data capability.
+ 
+Our client operates across multiple business units and systems, where high-quality data is critical to operational effectiveness, commercial decision-making and regulatory confidence. The purpose of this role is to design, build and maintain the data platforms that enable a single, trusted view of performance across the organisation.
+ 
+This is a hands-on senior engineering role, suited to someone who enjoys building durable data foundations, working closely with business stakeholders and operating in environments where data reliability genuinely matters.
+ 
+The role
+The Senior Data Engineer will take ownership of core data platforms, with particular responsibility for the ongoing development of a centralised data warehouse and associated data pipelines.
+ 
+Working alongside operational, finance, technology and commercial teams, this role will focus on reducing manual data handling, improving data consistency and ensuring enterprise data is secure, well-governed and scalable.
+ 
+The position also plays a key role in preparing the organisation for more advanced use of analytics, forecasting and artificial intelligence by ensuring data architecture and governance are fit for purpose.
+ 
+Key responsibilities
+ 
+Data engineering and platforms
+
+Design, build and operate a scalable, cloud-based data warehouse
+Develop automated, reliable data pipelines integrating data from enterprise applications, operational systems and third-party sources
+ 
+Architecture, governance and standards
+
+Define and maintain consistent enterprise data models, definitions and documentation
+Establish data governance, privacy and security standards aligned with regulatory and organisational requirements
+Reduce dependence on manual reporting and spreadsheet-driven processes
+ 
+Stakeholder engagement
+
+Work closely with senior leaders and delivery teams across operations, finance, technology and commercial functions
+Support analysts and business users to confidently access and use enterprise data assets
+Deliver tailored data initiatives in response to evolving business or regulatory needs
+ 
+What will you bring?
+
+Demonstrated experience delivering cloud-based data platforms and data warehouses in complex enterprise environments
+Strong SQL capability and hands-on experience with at least one modern programming language (e.g. Python or R)
+Proven ability to design scalable, secure and maintainable data architectures
+Experience integrating data from diverse systems with varying data quality and maturity
+Solid understanding of data governance, privacy and security
+Ability to work autonomously, manage competing priorities and operate in business-critical contexts
+Strong communication skills, with the ability to engage both technical and non-technical stakeholders
+ 
+If you are a senior data engineer seeking real ownership and technical credibility, this role offers the opportunity to design and build trusted, well architected data platforms rather than simply maintaining legacy systems, with genuine influence across the organisation."
+89236141,Senior Manager,RiskLogic,https://www.seek.com.au/job/89236141?type=standard&ref=search-standalone&origin=jobCard#sol=0437fba9d588dec7441bb40e97b34ee14b937666,2h ago,2.0,2025-12-19T02:00:00+00:00,Sydney NSW (Hybrid),Management & Change Consulting (Consulting & Strategy),Full time,,"Join RiskLogic and Help Build a More Resilient Tomorrow!
 
 At RiskLogic, our vision is simple but powerful: to work with inspired people to build meaningful organisations that contribute to a better tomorrow. Every day, we empower our clients to navigate the most challenging situations with confidence. Through the right tools, training and experience, we help strengthen resilience maturity across organisations that shape our communities.
 
@@ -79,7 +524,7 @@ A genuine desire for personal and team growth.
 If you’re passionate about resilience, leadership and making a meaningful impact, we’d love to hear from you.
 
 We will begin reviewing applications on 5 January 2026."
-89235763,Senior Data Engineer,Talent Insights Group Pty Ltd,https://www.seek.com.au/job/89235763?type=standard&ref=search-standalone&origin=jobCard#sol=ee40a12b2dc7ca3716101990403d8b9324984b5e,1h ago,1.0,2025-12-19T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$140-170k base range plus,"Job Description
+89235763,Senior Data Engineer,Talent Insights Group Pty Ltd,https://www.seek.com.au/job/89235763?type=standard&ref=search-standalone&origin=jobCard#sol=27a03a1c5df41ff8560c0239519fd4cf5b80bccb,3h ago,3.0,2025-12-19T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$140-170k base range plus,"Job Description
 Senior Data Engineer ( SQL / Azure Data Factory / Databricks )
 Sydney / Hybrid
 $140-170k base plus super
@@ -121,7 +566,7 @@ Experience in the Insurance space would be a huge plus  
 If you'd like to apply for the above Senior Data Engineer ( SQL / Azure Data Factory / Databricks ) role, please click apply now or send your resume to Olivia@talentisights.com.au
   
 Keywords: Data Engineer / Analytics Engineer / Azure Data Factory / Databricks / Power BI / ETL / Data Science / Python /"
-89235490,"Principal, Member Data Management",AustralianSuper,https://www.seek.com.au/job/89235490?type=standard&ref=search-standalone&origin=jobCard#sol=ad3224cb2117d3ac65cf412ef5305056b8690172,1h ago,1.0,2025-12-19T01:00:00+00:00,Melbourne VIC (Hybrid),Management (Banking & Financial Services),Full time,,"At AustralianSuper, we truly care about our colleagues.​ We know work and life are intertwined. That's why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members.
+89235490,"Principal, Member Data Management",AustralianSuper,https://www.seek.com.au/job/89235490?type=standard&ref=search-standalone&origin=jobCard#sol=c9329bce7657a944ae1f01b99a9db3165464088f,3h ago,3.0,2025-12-19T01:00:00+00:00,Melbourne VIC (Hybrid),Management (Banking & Financial Services),Full time,,"At AustralianSuper, we truly care about our colleagues.​ We know work and life are intertwined. That's why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members.
 
 Your new role
 
@@ -166,7 +611,7 @@ Progress powered by purpose.
 https://www.australiansuper.com/careers/candidate-privacy-notice
 
 Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
-89234179,Energy Market Analyst,Squadron Energy,https://www.seek.com.au/job/89234179?type=standard&ref=search-standalone&origin=jobCard#sol=8bb933f35050cdc4459aadaf6f5db7664f38277e,2h ago,2.0,2025-12-19T00:00:00+00:00,Sydney NSW (Hybrid),"Other (Mining, Resources & Energy)",Full time,,"Squadron Energy is Australia's leading renewable energy company that develops, operates and owns renewable energy assets in Australia.
+89234179,Energy Market Analyst,Squadron Energy,https://www.seek.com.au/job/89234179?type=standard&ref=search-standalone&origin=jobCard#sol=968ca10bf381abc9cb7cf7ec217368486bad99b8,4h ago,4.0,2025-12-19T00:00:00+00:00,Sydney NSW (Hybrid),"Other (Mining, Resources & Energy)",Full time,,"Squadron Energy is Australia's leading renewable energy company that develops, operates and owns renewable energy assets in Australia.
 
 With proven experience and expertise across the project lifecycle, we work with local communities and our customers to lead the transition to Australia's clean energy future.
 
@@ -226,7 +671,7 @@ Please Note
 Appointment to this position will be subject to reference checks, a National Police Check and other applicable background screening if required.
 
 Squadron Energy does not accept unsolicited CVs from recruitment agencies. Any unsolicited CVs received will not be considered, and no fees will be paid for such submissions."
-89233992,Sr. Business Analyst - SAP ERP Replacement,Launch Recruitment Pty Ltd,https://www.seek.com.au/job/89233992?type=standard&ref=search-standalone&origin=jobCard#sol=93e3f87596b34728fb87abdaec2e480a0b88c366,2h ago,2.0,2025-12-19T00:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,Competitive Daily Rate,"SAP ERP Replacement Program - Senior Business Analyst
+89233992,Sr. Business Analyst - SAP ERP Replacement,Launch Recruitment Pty Ltd,https://www.seek.com.au/job/89233992?type=standard&ref=search-standalone&origin=jobCard#sol=cb1a4723b0252b391bda79cb8aa972b9c973c03b,4h ago,4.0,2025-12-19T00:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,Competitive Daily Rate,"SAP ERP Replacement Program - Senior Business Analyst
 
 
 Project Overview The ERP Replacement Program will retire and decommission multiple financial applications across the organisation. Prior to decommissioning, all relevant data must be archived in line with the organisation's Data Retention Policy. Two validated archiving approaches are in scope:
@@ -265,7 +710,7 @@ Proficiency in Jira/Confluence, process modelling tools (Visio/draw.io), and req
 Demonstrated vendor evaluation/RFP experience, including solution assessment and POCs.
 Excellent stakeholder management; ability to balance compliance, user experience, and cost across multiple systems.
 Comfortable operating in hybrid environments and driving progress through structured artefacts and governance forums."
-89233539,Digital Solutions & Systems Lead,Silverstrand Developments,https://www.seek.com.au/job/89233539?type=standard&ref=search-standalone&origin=jobCard#sol=282468d0034ccf9b1488e8758bc8c2966306ca77,3h ago,3.0,2025-12-18T23:00:00+00:00,Brisbane QLD,Business/Systems Analysts (Information & Communication Technology),Full time,,"Silverstrand is seeking a Digital Solutions & Systems Lead to drive the development, adoption, and optimisation of technology across the company and become a key part in our strategic transition toward becoming a data-led civil construction business.
+89233539,Digital Solutions & Systems Lead,Silverstrand Developments,https://www.seek.com.au/job/89233539?type=standard&ref=search-standalone&origin=jobCard#sol=5bd628b70e1a7b178c1a920b5e175702ed4d8a67,5h ago,5.0,2025-12-18T23:00:00+00:00,Brisbane QLD,Business/Systems Analysts (Information & Communication Technology),Full time,,"Silverstrand is seeking a Digital Solutions & Systems Lead to drive the development, adoption, and optimisation of technology across the company and become a key part in our strategic transition toward becoming a data-led civil construction business.
 
 This newly created role plays a pivotal part in identifying business problems, developing practical digital solutions, and ensuring our systems, processes and data flows support efficient decision-making—from the field to the head office.
 
@@ -340,7 +785,7 @@ Or contact: 
 Joe Hedges - Resourcing Advisor
 
 Email - J.hedges@silverstrand.com.au"
-89232813,Principal Consultant,Tech & Data People,https://www.seek.com.au/job/89232813?type=standard&ref=search-standalone&origin=jobCard#sol=186b0b5571f3a067e45b5cfeaa30a6343cae4c58,4h ago,4.0,2025-12-18T22:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"About the opportunity
+89232813,Principal Consultant,Tech & Data People,https://www.seek.com.au/job/89232813?type=standard&ref=search-standalone&origin=jobCard#sol=2f7f7ab94846850f3baa3a80c5d7f6d712cb87fd,6h ago,6.0,2025-12-18T22:00:00+00:00,Melbourne VIC (Hybrid),Consultants (Information & Communication Technology),Full time,,"About the opportunity
 
 We are seeking an experienced Senior Consultant / Principal to join our implementation team, supporting the rollout of market‑leading Human Capital Management (HCM) solutions with a focus on time & attendance, payroll, and scheduling.
 This is a fast‑paced consulting position where you’ll be empowered to solve real business problems, work directly with clients, and translate complex requirements into scalable solutions.
@@ -363,7 +808,7 @@ Experienced with one or more of: PeopleSoft, ADP, Employment Hero, Tanda, ELMO, 
 If you're wanting to take the next step in your HCM Consulting career, we would love to hear from you!
 
 Interviews will be commencing in January 2026"
-89232720,Senior BA,Michael Page,https://www.seek.com.au/job/89232720?type=standard&ref=search-standalone&origin=jobCard#sol=15d62d30e55eb430b8e188057818fa1544cfeeb7,4h ago,4.0,2025-12-18T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$700 - $900 p.d. + + super,"We are seeking a highly skilled Senior Business Analyst to join a leading organisation in the public sector. This hybrid role focuses on driving technology projects in Sydney while ensuring effective collaboration and delivery.
+89232720,Senior BA,Michael Page,https://www.seek.com.au/job/89232720?type=standard&ref=search-standalone&origin=jobCard#sol=ebd9d46912fcea434bb8e2919794c3eb53ff3ed4,6h ago,6.0,2025-12-18T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$700 - $900 p.d. + + super,"We are seeking a highly skilled Senior Business Analyst to join a leading organisation in the public sector. This hybrid role focuses on driving technology projects in Sydney while ensuring effective collaboration and delivery.
 
 Client Details
 
@@ -407,7 +852,7 @@ Potential long-term extensions
 If you're ready to bring your expertise as a Senior Business Analyst to a rewarding role in the public sector, we encourage you to apply today!
 
 To apply online please click the 'Apply' button below. For a confidential discussion about this role please contact Uma Nayar."
-89232672,Data Analyst,Levande,https://www.seek.com.au/job/89232672?type=standard&ref=search-standalone&origin=jobCard#sol=ed8dc48757ecc7a681e0fd71c7bca58b6828b012,4h ago,4.0,2025-12-18T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"At Levande, we’re reimagining retirement living: creating vibrant, connected communities where people live well every day. Proudly Australian-owned and independent, Levande operates 59 villages nationally and continues to grow through a strong development and transformation pipeline.
+89232672,Data Analyst,Levande,https://www.seek.com.au/job/89232672?type=standard&ref=search-standalone&origin=jobCard#sol=45ca75e3ebdf4c77df2ef998f7960ca5d7ef6cf2,6h ago,6.0,2025-12-18T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"At Levande, we’re reimagining retirement living: creating vibrant, connected communities where people live well every day. Proudly Australian-owned and independent, Levande operates 59 villages nationally and continues to grow through a strong development and transformation pipeline.
 
 We are seeking a Data Analyst to join our Finance team on a 6-month maximum term contract, based in Sydney. This role will play a critical part in ensuring accurate and reliable data within our ERP system, supporting pricing decisions and operational efficiency.
 
@@ -457,7 +902,7 @@ If your application progresses, you’ll be invited to complete a short, role-sp
 Please note: this role is currently being progressed internally. We kindly request that recruitment agencies do not contact Levande regarding this vacancy.
 
 If you’re ready to apply your data expertise in a values-led organisation and make an immediate impact, we’d love to hear from you."
-89232544,Lead AI Engineer,Opus Recruitment Solutions,https://www.seek.com.au/job/89232544?type=standard&ref=search-standalone&origin=jobCard#sol=66952fa5cf04df5217ec355d8bcaecd75f2ace36,4h ago,4.0,2025-12-18T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$200,000 – $250,000 per year + super","Location: Melbourne, VIC
+89232544,Lead AI Engineer,Opus Recruitment Solutions,https://www.seek.com.au/job/89232544?type=standard&ref=search-standalone&origin=jobCard#sol=bdb8f8397c1ea11f40bf938780410c4b355c79de,6h ago,6.0,2025-12-18T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$200,000 – $250,000 per year + super","Location: Melbourne, VIC
 Employment Type: Full-time
 Salary: $200,000 – $250,000 + Super + Bonus
 
@@ -510,7 +955,7 @@ Opportunity to shape AI strategy for a leading organisation.
 Work on high-impact projects with cutting-edge technologies.
 
 Flexible work arrangements and a collaborative culture."
-89231557,"Senior Business Analyst, 12 month FTC",Rest Industry Super,https://www.seek.com.au/job/89231557?type=standard&ref=search-standalone&origin=jobCard#sol=e95421b58f2f0287153c4d25b25779074fa45e22,6h ago,6.0,2025-12-18T20:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+89231557,"Senior Business Analyst, 12 month FTC",Rest Industry Super,https://www.seek.com.au/job/89231557?type=standard&ref=search-standalone&origin=jobCard#sol=20d3a265c9aa10339313d6346cbe5bb55459a981,8h ago,8.0,2025-12-18T20:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
 
 
 Supporting millions of Aussies since 1988 with low fees and competitive long-term performance. Profits back to members, not shareholders
@@ -582,7 +1027,7 @@ We value the different backgrounds, lived experiences and abilities our diverse 
 Please note only people with the right to work in Australia will be considered.
 
 *Funds under management as at 31 July 2025. Rest is recognised as a Responsible Investment Leader by the Responsible Investment Association Australia (RIAA) in its Responsible Investment Benchmark Report 2022."
-89228971,"Government Statistician, Queensland Treasury",Department of Queensland Treasury,https://www.seek.com.au/job/89228971?type=standard&ref=search-standalone&origin=jobCard#sol=9be3d949c94386191898d04b80fccb33c1741ce9,11h ago,11.0,2025-12-18T15:00:00+00:00,Brisbane QLD,"Policy, Planning & Regulation, Government - State (Government & Defence)","Contract/Temp, Full time, Part time",,"Lead Queensland's Government Statistician's Office in delivering high-quality statistical and demographic research services to inform public policy and decision-making across the Queensland Government.
+89228971,"Government Statistician, Queensland Treasury",Department of Queensland Treasury,https://www.seek.com.au/job/89228971?type=standard&ref=search-standalone&origin=jobCard#sol=ac37dc19981d07f2656b6bc8952767dbecd21613,13h ago,13.0,2025-12-18T15:00:00+00:00,Brisbane QLD,"Policy, Planning & Regulation, Government - State (Government & Defence)","Contract/Temp, Full time, Part time",,"Lead Queensland's Government Statistician's Office in delivering high-quality statistical and demographic research services to inform public policy and decision-making across the Queensland Government.
 
 • Provide expert advice to senior government stakeholders.
 • Manage key relationships across agencies and jurisdictions.
@@ -626,7 +1071,7 @@ Applications to remain current for 12 months.             
 Job Ad Reference: QLD/673935/25 
 
 Closing Date: Sunday, 18 January 2026"
-89228851,Principal Treasury Analyst,Department of Queensland Treasury,https://www.seek.com.au/job/89228851?type=standard&ref=search-standalone&origin=jobCard#sol=1e48c1820875b6a5eafd36ed633d64a1a79ce479,12h ago,12.0,2025-12-18T14:00:00+00:00,Brisbane QLD,"Policy, Planning & Regulation, Government - State (Government & Defence)",Contract/Temp,"$147,769 to $156,144 per annum","Your new opportunity
+89228851,Principal Treasury Analyst,Department of Queensland Treasury,https://www.seek.com.au/job/89228851?type=standard&ref=search-standalone&origin=jobCard#sol=b63ac9bfe097537700db468613f0bbb4410e9519,14h ago,14.0,2025-12-18T14:00:00+00:00,Brisbane QLD,"Policy, Planning & Regulation, Government - State (Government & Defence)",Contract/Temp,"$147,769 to $156,144 per annum","Your new opportunity
 Queensland Treasury is seeking dynamic Principal Treasury Analysts to join the newly established Financial Efficiencies team. With multiple vacancies available, this is a unique opportunity to be part of a new team and contribute to Queensland's economic recovery and long-term economic strategy. You will provide expert advice and analysis on expenditure, financial performance, and value-for-money initiatives. In this role, you will work in a complex and diverse policy environment, partnering with internal and external stakeholders to develop and oversee strategies that
 achieve efficiencies in expenditure and operations across the Queensland Government. You will provide high-level advice and deliver tailored, concise, and accurate reports to support policy development and the implementation of efficiency measures.
 
