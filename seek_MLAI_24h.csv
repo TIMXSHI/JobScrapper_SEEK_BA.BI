@@ -1,5 +1,140 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89268123,MuleSoft Developer,Slade Group,https://www.seek.com.au/job/89268123?type=standard&ref=search-standalone&origin=jobCard#sol=f26b702e65eb288e4b151f626cce2116420d8e03,1h ago,1.0,2025-12-22T01:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"We’re looking for an experienced MuleSoft Developer to join our growing integration team and help design, build, and support scalable enterprise integrations across a modern technology ecosystem.
+89269861,Senior Data Scientist,Queensland Building and Construction Commission (QBCC),https://www.seek.com.au/job/89269861?type=standard&ref=search-standalone&origin=jobCard#sol=ed57824f06cc06b08f7c3b67a3cacbad69d4d355,1h ago,1.0,2025-12-22T03:00:00+00:00,Brisbane QLD,"Business/Systems Analysts (Information & Communication Technology)
+Government - State (Government & Defence)",Full time,+ Super & Leave Loading,"Key Outcomes and Accountabilities  
+
+The aim of this role is to:
+
+Implement cloud-based data science solutions that support large-scale data processing and Machine Learning (ML) workflows.
+Enable integration of Artificial Intelligence (AI) and ML models into production systems, ensuring scalability, governance, and performance monitoring.
+Collaborate with data analysts, data governance, and business units to deliver data products that support predictive analytics, natural language processing, and other AI-driven use cases.
+Establish and maintain robust data governance, metadata management, and model monitoring frameworks to ensure data integrity, compliance, and responsible AI practices.
+Provide technical advice and thought leadership on emerging technologies in data science and AI, identifying opportunities for innovation and efficiency improvements.
+Support the continuous improvement of data engineering standards, including automation, CI/CD pipelines, and reusable components for AI/ML deployment.
+Support and maintain data pipelines and ETL processes that ensure reliable, timely and secure access to data for reporting, analytics, and ML workflows.
+Candidate Attributes
+Demonstrated experience in building scalable data solutions using Python and SQL.
+Proficiency in cloud data platforms (e.g., Snowflake, or similar) and data warehousing concepts.
+Strong understanding of machine learning lifecycle management (data preparation, feature engineering, model deployment, monitoring).
+Strong understanding of Generative (Gen) AI, Agentic Systems, and AI Agents and be able to implement and develop scalable systems from proof of concept to production.
+Ability to translate complex business requirements into robust technical solutions that support AI and analytics outcomes.
+Knowledge of MLOps and CI/CD practices for deploying and maintaining AI/ML models at scale.
+
+Why Join QBCC?
+
+Generous 12.75% superannuation contribution with the option to salary sacrifice
+Access to leave entitlements (with 17.5% leave loading) and accrual of flex time
+Opportunities for career development, training and mentoring
+A friendly, collaborative and supportive workplace culture
+Fitness Passport
+
+How to apply
+To apply for this exciting opportunity, please submit your resume and a written statement (maximum 2 pages) on how you have demonstrated the capabilities outlined in the Candidate Attributes section of the position description."
+89269002,IDAM Engineer,Launch Recruitment Pty Ltd,https://www.seek.com.au/job/89269002?type=standard&ref=search-standalone&origin=jobCard#sol=c1c60838d8adc4743ad05ef4447a7ecc63267ce6,2h ago,2.0,2025-12-22T02:00:00+00:00,Melbourne VIC (Hybrid),Security (Information & Communication Technology),Contract/Temp,up to $1200 + GST,"Identity Engineer 
+Energy Sector | Contract 
+
+Duration: January 2026 - June 2026 with the potential to extend 
+Day Rate: $1,000 - $1200 + GST 
+Location: Melbourne 
+Hybrid role: 2/3 days in the office 
+
+
+We are seeking an experienced Identity and Access Management (IAM) professional to join a large, complex organisation operating within the energy sector. This role will support critical infrastructure and enterprise platforms, requiring strong security, reliability, and operational maturity.
+This opportunity is on an ongoing contract basis and will suit candidates who enjoy working in highly regulated, high-availability environments.
+ 
+Key Responsibilities
+
+Administer, support, and enhance cloud-based identity platforms, with a strong focus on Okta.
+Manage SSO, MFA, Risk Engine policies, and Identity Governance workflows across enterprise and operational environments.
+Support Infrastructure as Code (IaC) initiatives and identity platform migrations.
+Design, configure, and maintain secure identity integrations using OIDC, OAuth2, SAML, ADFS, and Active Directory.
+Implement and manage Conditional Access, SCIM provisioning, and identity lifecycle management.
+Provide BAU and operational support, troubleshooting identity-related issues in a 24/7 operational context where required.
+Collaborate closely with cybersecurity, cloud, DevOps, and operational technology teams.
+Maintain and manage certificate lifecycle and encryption processes, including OpenSSL.
+Technical Skills & Experience
+Essential
+
+Strong hands-on experience with Okta (Cloud Admin, SSO, MFA, Risk Engine).
+Solid experience across Azure / Microsoft 365, including:
+Entra ID (Azure AD)
+Conditional Access
+MFA
+SCIM
+Intune MAM
+APIM
+Strong working knowledge of identity protocols: OIDC, OAuth2, SAML, ADFS.
+Experience with Active Directory in hybrid cloud environments.
+Certificate management experience, including OpenSSL.
+Desirable
+
+AZ-500 or similar Microsoft security certification.
+Experience with AWS identity services (Cognito, Organisations).
+Background in AWS Security, DevOps, or platform engineering roles.
+Prior experience within energy, utilities, infrastructure, or critical services environments.
+What We're Looking For
+
+Strong security mindset with an understanding of risk in critical infrastructure environments.
+Ability to work independently and manage competing priorities.
+Strong analytical and problem-solving skills.
+Clear communicator, comfortable engaging with technical teams and senior stakeholders.
+If you are interested in this exciting project and you have strong identity experience, please do click ""Apply today"" or reach out to Sophie Garrison, Practice Lead - Cyber Security & GRC"
+89268752,Principal Engineer - Engineering & Data,FutureYou,https://www.seek.com.au/job/89268752?type=standard&ref=search-standalone&origin=jobCard#sol=7d4cd3b5c083476bd08e02c8f567e90741960693,2h ago,2.0,2025-12-22T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"AUD 220000 per annum, Base Plus Super and Bonus","Client
+
+
+Our client has ambitious growth plans to double the business over the next 2–3 years, we are investing heavily in technology, data, and digital capability. The role is reporting directly to the Chief Information Officer (CIO), this is a senior, hands-on leadership role where you will guide both engineering and data functions, while remaining deeply involved in delivery.
+
+
+About the role
+
+
+You will lead direct reports across engineering and data, spending 60–70% of your time hands-on with code, architecture, and solution design. This role is ideal for a technical leader who enjoys working close to the detail while shaping strategy and driving change in a traditional business modernising at scale.
+
+
+Key Responsibilities
+
+
+Lead, mentor, and manage a team of engineers and data specialists
+Remain hands-on with development, architecture, and solution delivery
+Break down work, assign tasks, and manage team workload and priorities
+Act as a key technical contact for external vendors delivering Microsoft Dynamics solutions
+Develop and enhance customer portals for residential and commercial clients
+Design and implement system integrations and APIs
+Contribute to architectural decisions within the Microsoft ecosystem
+Support AI initiatives and identify automation opportunities to drive efficiency
+
+Required Skills & Experience
+
+
+Strong full-stack development background
+Deep experience with Microsoft technologies, including:
+
+Microsoft Dynamics (Business Central & Customer Engagement)
+Azure Cloud
+.NET
+React
+Power BI
+Proven experience building APIs and system integrations
+Mobile and web application development experience
+Experience leading and developing technical teams
+Understanding of AI applications and automation opportunities
+Experience working within medium to large organisations
+Adaptable and comfortable working in a fast-changing environment
+Strong collaborator with cross-functional stakeholders
+Passionate about AI, automation, and continuous improvement
+Exposure to multiple industries or complex business environments
+Strong stakeholder and vendor management skills
+Practical, solutions-focused mindset
+
+Offer
+
+Opportunity to shape technology strategy during a major digital transformation
+Hands-on technical leadership in a business investing heavily in modern platforms
+Competitive salary package
+The chance to make a tangible impact in a business scaling rapidly
+3 days on site 
+
+For a confidential discussion please apply or reach out to Corin on 0457676048"
+89268123,MuleSoft Developer,Slade Group,https://www.seek.com.au/job/89268123?type=standard&ref=search-standalone&origin=jobCard#sol=1eaf2678fee16e4411f276fa28af33f628a23d58,2h ago,2.0,2025-12-22T02:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"We’re looking for an experienced MuleSoft Developer to join our growing integration team and help design, build, and support scalable enterprise integrations across a modern technology ecosystem.
 
 You’ll play a key role in developing new APIs and integration interfaces, enhancing existing codebases, and ensuring smooth communication between multiple enterprise systems. 
 
@@ -26,7 +161,7 @@ Experience with SAP connectors
 MuleSoft Certification (Developer or Architect)
 Degree in Computer Science, Engineering, or Information Systems
 If this position is of interest, click APPLY today or contact Sam Makdesi on smakdesi@synchropartners.com.au"
-89267844,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89267844?type=standard&ref=search-standalone&origin=jobCard#sol=fbc816e7276babccf964ced20f6f2d5ae1737325,1h ago,1.0,2025-12-22T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+89267844,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89267844?type=standard&ref=search-standalone&origin=jobCard#sol=f1ca57dae3b6bb5782089e04c425b67f6163faed,3h ago,3.0,2025-12-22T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
 The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
@@ -77,7 +212,7 @@ BDA works with strong links with our global Boeing community, and we strongly en
  We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
  Please note, this role will be shortlisted in 2026. Your patience is appreciated."
-89267798,AI Analyst,DataMesh,https://www.seek.com.au/job/89267798?type=standard&ref=search-standalone&origin=jobCard#sol=57b74f82fad9e84d90dd6fe8326fc8944e185e7b,1h ago,1.0,2025-12-22T01:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Our Story!
+89267798,AI Analyst,DataMesh,https://www.seek.com.au/job/89267798?type=standard&ref=search-standalone&origin=jobCard#sol=277d074451e3b91540e5c0e4b77a3519d3204ff9,3h ago,3.0,2025-12-22T01:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Our Story!
 DataMesh Group (DMG) is revolutionising the payment systems available to merchants and retailers, delivering integrated payment capabilities and valuable customer insights through bespoke payment and data processing solutions.
 The company is in an exciting growth phase, and we are looking for individuals with the appetite and energy to make impactful changes and accelerate their career development with this unique opportunity!
 
@@ -118,7 +253,7 @@ Impactful Work:See the results of your efforts as you help bring transformative 
 Social Perks: Enjoy company events, including lunches, celebrations and after work drinks!
  
 If you’re ready to make an impact in the payments tech space and thrive in an agile, high-growth environment, we’d love to chat! ��"
-89267405,Control Systems Engineer (Full-time),AIM Defence,https://www.seek.com.au/job/89267405?type=standard&ref=search-standalone&origin=jobCard#sol=315bd58ad3e6f3c1cc2a7efa20e52bce07a5682e,1h ago,1.0,2025-12-22T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Full time,,"The Role 
+89267405,Control Systems Engineer (Full-time),AIM Defence,https://www.seek.com.au/job/89267405?type=standard&ref=search-standalone&origin=jobCard#sol=71f196df595295d3dea3da2535ba99c866c7b362,3h ago,3.0,2025-12-22T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Full time,,"The Role 
 
 AIM is a deep-tech startup building advanced high power laser systems to protect people from weaponised drones. We are seeking a highly motivated and skilled Control Systems Engineer. At AIM, you will be an integral part in the Engineering and R&D team to develop leading edge products and systems for use in tomorrow’s defence technology. We are looking for candidates who are flexible and available to work overtime, based on business needs at our Melbourne facility. 
 
@@ -198,7 +333,7 @@ Opportunity to innovate and work in a fast-paced team 
 Challenges at the edge of what’s possible 
 
  We are committed to ensuring diversity; inclusion and equality are embedded throughout our organisation for the benefit of our customers and our team. We strive for a positive and engaging workplace where mental health and wellbeing are supported. We welcome applicants from all diverse backgrounds, including Aboriginal and Torres Strait Islander people. If you are looking for a unique and exciting opportunity, we look forward to your application."
-89267334,Computer Vision Engineer (Full-time),AIM Defence,https://www.seek.com.au/job/89267334?type=standard&ref=search-standalone&origin=jobCard#sol=d6467eed20923b26c6498cbc72e9f81197bb5821,1h ago,1.0,2025-12-22T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"The Role 
+89267334,Computer Vision Engineer (Full-time),AIM Defence,https://www.seek.com.au/job/89267334?type=standard&ref=search-standalone&origin=jobCard#sol=6ee48424b057009b1640a8f5ad42a4ebbc94ebc2,3h ago,3.0,2025-12-22T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"The Role 
 
 AIM is a deep-tech startup building advanced high power laser systems to protect people from weaponised drones. We are seeking a highly motivated and skilled Computer Vision Engineer. At AIM, you will be an integral part in the Engineering and R&D team to develop leading edge products and systems for use in tomorrow’s defence technology. We are looking for candidates who are flexible and available to outside of ordinary hours based on business needs at our Melbourne facility. 
 
@@ -277,7 +412,7 @@ Challenges at the edge of what’s possible 
 
 
 We are committed to ensuring diversity; inclusion and equality are embedded throughout our organisation for the benefit of our customers and our team. We strive for a positive and engaging workplace where mental health and wellbeing are supported. We welcome applicants from all diverse backgrounds, including Aboriginal and Torres Strait Islander people. If you are looking for a unique and exciting opportunity, we look forward to your application."
-89266720,Principal Engineer - MQ-28 Global Digital Ecosystem,Boeing Defence Australia,https://www.seek.com.au/job/89266720?type=standard&ref=search-standalone&origin=jobCard#sol=63776f489e1cf065aa4e080f729d6ac72a7275de,2h ago,2.0,2025-12-22T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+89266720,Principal Engineer - MQ-28 Global Digital Ecosystem,Boeing Defence Australia,https://www.seek.com.au/job/89266720?type=standard&ref=search-standalone&origin=jobCard#sol=850b89b085d06d6fbd06cdf1fbec6aef3c79b23f,4h ago,4.0,2025-12-22T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
 The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
@@ -339,7 +474,7 @@ BDA works with strong links with our global Boeing community, and we strongly en
 We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
 Please note, this role will be shortlisted in 2026. Your patience is appreciated."
-89266547,EL2 Senior Cloud Engineer / Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89266547?type=standard&ref=search-standalone&origin=jobCard#sol=07ea71f6dbbad9233432dfbbe5844a8d4e7e52fb,2h ago,2.0,2025-12-22T00:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"The opportunity
+89266547,EL2 Senior Cloud Engineer / Architect,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89266547?type=standard&ref=search-standalone&origin=jobCard#sol=8361030d1062fafee0dc7d1ac0bab9f581598a8f,4h ago,4.0,2025-12-22T00:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"The opportunity
 
 Our client is a community focused Federal Government Agency. They are currently seeking an EL2 Senior Cloud Engineer / Architect to determine the appropriate technologies to be used in the service development and delivery environment.
 
@@ -383,7 +518,7 @@ Applications close Friday the 16th of January.
 APPLY
 
 Submit your resume, or for further information please contact Liam.Lasslett@talentinternational.com or Jarrodd.Edwards@talentinternational.com"
-89266485,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266485?type=standard&ref=search-standalone&origin=jobCard#sol=afbd31cbb08f5a8b20ad688a6e1fba20724d0891,2h ago,2.0,2025-12-22T00:00:00+00:00,Canberra ACT,"Other (Science & Technology)
+89266485,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266485?type=standard&ref=search-standalone&origin=jobCard#sol=a6e93294bb629635f0973643634318efaeb88435,4h ago,4.0,2025-12-22T00:00:00+00:00,Canberra ACT,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -507,7 +642,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266481,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266481?type=standard&ref=search-standalone&origin=jobCard#sol=c06968b067e449d2a34994e1a3025adbf6615ee4,2h ago,2.0,2025-12-22T00:00:00+00:00,Sydney NSW,"Other (Science & Technology)
+89266481,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266481?type=standard&ref=search-standalone&origin=jobCard#sol=bdf52f5072800706315d5d2209b48a08097cf439,4h ago,4.0,2025-12-22T00:00:00+00:00,Sydney NSW,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -631,7 +766,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266471,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266471?type=standard&ref=search-standalone&origin=jobCard#sol=3beb8dc7d0e565a507d041a962ac83f85fc96cbe,2h ago,2.0,2025-12-22T00:00:00+00:00,Darwin NT,"Other (Science & Technology)
+89266471,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266471?type=standard&ref=search-standalone&origin=jobCard#sol=7e4e29a640044b89ac3ce80c3dd124695dee0bcf,4h ago,4.0,2025-12-22T00:00:00+00:00,Darwin NT,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -755,7 +890,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266464,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266464?type=standard&ref=search-standalone&origin=jobCard#sol=8c22f8fb9a973b49b04febdc13a0e1dbff52c86e,2h ago,2.0,2025-12-22T00:00:00+00:00,Brisbane QLD,"Other (Science & Technology)
+89266464,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266464?type=standard&ref=search-standalone&origin=jobCard#sol=211f91a4a7c49ec7f00d4c0a1cc0a71d77acf9da,4h ago,4.0,2025-12-22T00:00:00+00:00,Brisbane QLD,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -879,7 +1014,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266461,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266461?type=standard&ref=search-standalone&origin=jobCard#sol=afe6f3c1e804611f40dd72375bcf7f8b64c0d1c9,2h ago,2.0,2025-12-22T00:00:00+00:00,Adelaide SA,"Other (Science & Technology)
+89266461,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266461?type=standard&ref=search-standalone&origin=jobCard#sol=9328817e559809bc3de38dce0ef9fa62b18ba9cb,4h ago,4.0,2025-12-22T00:00:00+00:00,Adelaide SA,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1003,7 +1138,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266456,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266456?type=standard&ref=search-standalone&origin=jobCard#sol=21b8a2c37a138592aca4bdf7baf7a8d76d590021,2h ago,2.0,2025-12-22T00:00:00+00:00,Hobart TAS,"Other (Science & Technology)
+89266456,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266456?type=standard&ref=search-standalone&origin=jobCard#sol=8855dcd5ea749007a16f541a55a74f177cda6a38,4h ago,4.0,2025-12-22T00:00:00+00:00,Hobart TAS,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1127,7 +1262,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266455,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266455?type=standard&ref=search-standalone&origin=jobCard#sol=0a98a5305e948aa69cc56109dbb8e456c5ae3b72,2h ago,2.0,2025-12-22T00:00:00+00:00,Melbourne VIC,"Other (Science & Technology)
+89266455,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266455?type=standard&ref=search-standalone&origin=jobCard#sol=ebf20dfeade1031fead03dd04762e9380bfaf113,4h ago,4.0,2025-12-22T00:00:00+00:00,Melbourne VIC,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1251,7 +1386,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266453,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266453?type=standard&ref=search-standalone&origin=jobCard#sol=55816bbbc7a0d66fa59ec9e866721b43ba9fc263,2h ago,2.0,2025-12-22T00:00:00+00:00,Perth WA,"Other (Science & Technology)
+89266453,AI Safety Research Scientist (Multiple Positions) –AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89266453?type=standard&ref=search-standalone&origin=jobCard#sol=40bda366e16a54a0811771a4b0fce4ce04421455,4h ago,4.0,2025-12-22T00:00:00+00:00,Perth WA,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1375,7 +1510,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89266288,Senior Software Engineer AI/ML,Cleared Recruitment,https://www.seek.com.au/job/89266288?type=standard&ref=search-standalone&origin=jobCard#sol=a703e79ca4b8fa519706beede73606bade7be678,3h ago,3.0,2025-12-21T23:00:00+00:00,"Deakin, Canberra ACT (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Cleared Recruitment are supporting a privately owned Australian defence company seeking a Senior Software Engineer with AI/ML experience and baseline clearance or above to join their Adelaide-based team in a permanent role.
+89266288,Senior Software Engineer AI/ML,Cleared Recruitment,https://www.seek.com.au/job/89266288?type=standard&ref=search-standalone&origin=jobCard#sol=81af64e3e26f5b7991bf9c5dfc88882c4a499602,4h ago,4.0,2025-12-22T00:00:00+00:00,"Deakin, Canberra ACT (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Cleared Recruitment are supporting a privately owned Australian defence company seeking a Senior Software Engineer with AI/ML experience and baseline clearance or above to join their Adelaide-based team in a permanent role.
 This opportunity suits someone stepping into a hands-on technical leadership role, combining senior-level software engineering with practical AI/ML application. You'll remain deeply technical while helping guide technical direction, mentoring engineers, and working with engineering leadership to define technical goals, scope work, and align development with program and customer objectives.
 You'll contribute to impactful defence programs, building AI-enabled, interactive and real-time modelling and simulation applications in a collaborative, delivery-focused environment.
 Skills and Experience
@@ -1435,7 +1570,7 @@ Baseline clearance or above required - Unsure? Visit before applying- https://ww
 At Cleared, we provide tailored recruitment solutions to individuals seeking their next opportunity and to organisations searching for talent within Defence Industry, Intelligence and National Security.
 
 To arrange a confidential conversation or apply, please contact Emily on 0401791117 or to view all our current openings, please visit https://www.clearedrecruitment.com.au/"
-89266220,Senior Software Engineer AI/ML,Cleared Recruitment,https://www.seek.com.au/job/89266220?type=standard&ref=search-standalone&origin=jobCard#sol=110df41aebf83aaae86ef8bc3dd0cfcbc5eef7f8,3h ago,3.0,2025-12-21T23:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Cleared Recruitment are supporting a privately owned Australian defence company seeking a Senior Software Engineer with AI/ML experience and baseline clearance or above to join their Adelaide-based team in a permanent role.
+89266220,Senior Software Engineer AI/ML,Cleared Recruitment,https://www.seek.com.au/job/89266220?type=standard&ref=search-standalone&origin=jobCard#sol=c8c635f5da2e2b2ea0a2367ff5dd0039c5386689,4h ago,4.0,2025-12-22T00:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Cleared Recruitment are supporting a privately owned Australian defence company seeking a Senior Software Engineer with AI/ML experience and baseline clearance or above to join their Adelaide-based team in a permanent role.
 This opportunity suits someone stepping into a hands-on technical leadership role, combining senior-level software engineering with practical AI/ML application. You'll remain deeply technical while helping guide technical direction, mentoring engineers, and working with engineering leadership to define technical goals, scope work, and align development with program and customer objectives.
 You'll contribute to impactful defence programs, building AI-enabled, interactive and real-time modelling and simulation applications in a collaborative, delivery-focused environment.
 Skills and Experience
@@ -1495,7 +1630,7 @@ Must be able to obtain baseline - Australian citizenship is a must.
 At Cleared, we provide tailored recruitment solutions to individuals seeking their next opportunity and to organisations searching for talent within Defence Industry, Intelligence and National Security.
 
 To arrange a confidential conversation or apply, please contact Emily on 0401791117 or to view all our current openings, please visit https://www.clearedrecruitment.com.au/"
-89265620,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265620?type=standard&ref=search-standalone&origin=jobCard#sol=abbf4ae30dc29a14958c6a92fab8d48438cd0be5,3h ago,3.0,2025-12-21T23:00:00+00:00,Canberra ACT,"Other (Science & Technology)
+89265620,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265620?type=standard&ref=search-standalone&origin=jobCard#sol=56eec1fc552af4dcb2e900bccaf24835a1d9b010,5h ago,5.0,2025-12-21T23:00:00+00:00,Canberra ACT,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1624,7 +1759,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265616,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265616?type=standard&ref=search-standalone&origin=jobCard#sol=e4b9358670328b071fa99c48280363ce1686287e,3h ago,3.0,2025-12-21T23:00:00+00:00,Sydney NSW,"Other (Science & Technology)
+89265616,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265616?type=standard&ref=search-standalone&origin=jobCard#sol=4bd2d9096337f6a05b1f2b4936b038466fed1f79,5h ago,5.0,2025-12-21T23:00:00+00:00,Sydney NSW,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1753,7 +1888,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265613,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265613?type=standard&ref=search-standalone&origin=jobCard#sol=e13657687170153cb03d2d6a047dd0623fdadef4,4h ago,4.0,2025-12-21T22:00:00+00:00,Darwin NT,"Other (Science & Technology)
+89265613,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265613?type=standard&ref=search-standalone&origin=jobCard#sol=b98549879fc8d5e2393da3c4a94010c2679722e9,5h ago,5.0,2025-12-21T23:00:00+00:00,Darwin NT,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -1882,7 +2017,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265606,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265606?type=standard&ref=search-standalone&origin=jobCard#sol=3b25b12b1e116edcbc90a3c44713af367925951b,4h ago,4.0,2025-12-21T22:00:00+00:00,Brisbane QLD,"Other (Science & Technology)
+89265606,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265606?type=standard&ref=search-standalone&origin=jobCard#sol=45d7943481026703359eeba0a360aacb2a49f3cd,5h ago,5.0,2025-12-21T23:00:00+00:00,Brisbane QLD,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -2011,7 +2146,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265598,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265598?type=standard&ref=search-standalone&origin=jobCard#sol=0fbe458ef1dd2acc26e2c31fe69dc99131f877e9,4h ago,4.0,2025-12-21T22:00:00+00:00,Adelaide SA,"Other (Science & Technology)
+89265598,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265598?type=standard&ref=search-standalone&origin=jobCard#sol=1b51e4032a47280c63a6ddb26737f9146ed849b9,5h ago,5.0,2025-12-21T23:00:00+00:00,Adelaide SA,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -2140,7 +2275,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265588,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265588?type=standard&ref=search-standalone&origin=jobCard#sol=7d017174504c01b2861558bb82ee263275f33003,4h ago,4.0,2025-12-21T22:00:00+00:00,Hobart TAS,"Other (Science & Technology)
+89265588,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265588?type=standard&ref=search-standalone&origin=jobCard#sol=4843fe42dd1b1b28e65eafb71d08dbde110cf4aa,5h ago,5.0,2025-12-21T23:00:00+00:00,Hobart TAS,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -2269,7 +2404,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265541,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265541?type=standard&ref=search-standalone&origin=jobCard#sol=343983a1a73982d52bb8fad54f8fa822a4bf108f,4h ago,4.0,2025-12-21T22:00:00+00:00,Melbourne VIC,"Other (Science & Technology)
+89265541,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265541?type=standard&ref=search-standalone&origin=jobCard#sol=be0045f4cb5a4e0c4a462f68b49906d29139fd5b,5h ago,5.0,2025-12-21T23:00:00+00:00,Melbourne VIC,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -2398,7 +2533,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89265483,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265483?type=standard&ref=search-standalone&origin=jobCard#sol=de7a2a41a4839b75e2594fd5f457ecb5d83f0c5e,4h ago,4.0,2025-12-21T22:00:00+00:00,Perth WA,"Other (Science & Technology)
+89265483,AI Safety Engineer (Multiple Opportunities) - AI Safety Institute,"Department of Industry, Science & Resources",https://www.seek.com.au/job/89265483?type=standard&ref=search-standalone&origin=jobCard#sol=df740f6b62b3503095bf29002ba93989fd05d330,5h ago,5.0,2025-12-21T23:00:00+00:00,Perth WA,"Other (Science & Technology)
 Government - Federal (Government & Defence)",Full time,,"About the Department
 
 The Department of Industry, Science and Resources and our broader portfolio are integral to the Australian Government’s economic agenda. Our purpose is to help the government build a better future for all Australians through enabling a productive, resilient and sustainable economy, enriched by science and technology. We do this by:
@@ -2527,7 +2662,7 @@ Please refer to our Applying for a position information for additional informa
 Contact Information
 
 For more information regarding this opportunity, please contact Bill Black on 02 6102 9885 or via email on Bill.Black@industry.gov.au"
-89263856,Senior Data Engineer,Department of Health - Queensland,https://www.seek.com.au/job/89263856?type=standard&ref=search-standalone&origin=jobCard#sol=302f1b381796fcae28ade21ffb7e8db49ea198aa,12h ago,12.0,2025-12-21T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Engineering - Software (Information & Communication Technology)
+89263856,Senior Data Engineer,Department of Health - Queensland,https://www.seek.com.au/job/89263856?type=standard&ref=search-standalone&origin=jobCard#sol=e4a12a240c58e7e7fec2063254daa4e63bc82192,14h ago,14.0,2025-12-21T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Engineering - Software (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$136,035 - $145,990 per annum + super","What you'll do  
 
 Be working within the Queensland Health Enterprise Reporting Team, which involves members of a multi-disciplinary team supporting the department's SAP reporting instance that includes the clinical data.
