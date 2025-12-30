@@ -1,5 +1,116 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89367855,AI Implementation Engineer,Temple & Webster Group,https://www.seek.com.au/job/89367855?type=standard&ref=search-standalone&origin=jobCard#sol=d8c13915776da17c570964561fcdabbb49b86c14,1h ago,1.0,2025-12-30T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Ready to turn GenAI ideas into real world impact?
+89368653,Full Stack Developer - AutoTech,Motor Platform,https://www.seek.com.au/job/89368653?type=standard&ref=search-standalone&origin=jobCard#sol=2a3f41f08d0ff2507af70730d0d20c4696d12946,1h ago,1.0,2025-12-30T04:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"About MotorPlatform
+
+MotorPlatform is Australia’s fastest-growing B2B automotive marketplace and SaaS platform.
+
+The core platform is built. The next phase is the hard, high-leverage work: scaling product, scaling engineering, and scaling operational excellence, while we shift to being AI-first in how we build and how the platform creates value.
+
+The role
+
+We’re hiring a Senior Full-Stack Engineer to act as Deputy Lead / 2IC in engineering. You’ll be a hands-on builder who can take ownership of major initiatives, lead projects end-to-end, and keep delivery moving with clarity and discipline.
+
+Onsite in Sydney. We want fast feedback loops, high collaboration, and strong product-engineering alignment.
+
+What you’ll be doing (this is a scale role, not a “greenfield” role)
+
+You’ll work on the problems that show up when something is already working and growing fast:
+
+Scale system performance, reliability, and developer velocity as usage expands
+
+Harden security, privacy, observability, and operational runbooks
+
+Build new marketplace capabilities that unlock liquidity, speed, and better dealer outcomes
+
+Reduce friction in critical workflows and improve conversion through product-led engineering
+
+Lead projects that cut across web, mobile, backend, and infrastructure
+
+Improve delivery predictability through planning, coordination, and proactive risk management
+
+Mentor engineers and set the bar for pragmatic, high-quality execution
+
+AI-first: what we expect from you
+
+We’re becoming an AI-first business. That means AI isn’t an experiment on the side—it’s part of the operating system.
+
+You’ll help embed AI into:
+
+Product: smarter workflows, better matching, better quality control, dealer-facing efficiency
+
+Operations: internal tools, automation, knowledge capture, faster support and triage
+
+Engineering: AI-assisted development, testing acceleration, improved reviews, quicker iteration
+
+You’ll partner with our AI/BI team to embed intelligence into the platform and marketplace, including:
+
+Integrating valuation engines into core workflows (pricing, buying, selling, approvals)
+
+Shipping analytics and insights (vehicle acquisition and disposal performance, liquidity signals, margin drivers)
+
+Productionising data/AI services: API contracts, monitoring, quality checks, fallbacks, latency and cost controls
+
+Building internal tools for faster decisions (dashboards, alerts, workflow automation)
+
+You don’t need an ML background. You do need to be comfortable shipping AI-enabled features responsibly and using AI to increase leverage.
+
+Tech stack
+
+Web: React
+
+Mobile: React Native
+
+Backend: PHP (Laravel & Vapor) + Node/TypeScript where it fits
+
+Database: Postgres
+
+Cloud: AWS (EC2, RDS, S3, Lambda)
+
+Delivery: CI/CD, testing, modern development practices
+
+What we’re looking for
+
+Must-haves
+
+Min 6+ years full-stack engineering experience in production
+
+Strong PHP/Laravel (non-negotiable)
+
+Strong React; React Native strongly valued
+
+Strong Postgres fundamentals (schema, migrations, optimisation)
+
+AWS experience (EC2/RDS/S3/Lambda)
+
+Track record leading delivery end-to-end and operating as a senior owner
+
+Highly organised, proactive, and quick to absorb product + industry context
+
+Wants to work onsite in Sydney (Lane Cove)
+
+Nice-to-haves
+
+Marketplace / high-growth SaaS scaling experience
+
+AI-enabled feature delivery (LLM APIs, retrieval/search, automation)
+
+IaC (Terraform/CloudFormation)
+
+Testing frameworks (PHPUnit/Pest, Jest/Mocha)
+
+Why this is a strong next step
+
+The platform is real and growing and your work immediately compounds
+
+You’ll have leadership scope without being removed from building
+
+You’ll help shape how we scale and how we embed AI into the business
+
+You’ll work closely with Product and influence what gets built and why
+
+Location
+
+Sydney (Onsite). Not remote. Not hybrid."
+89367855,AI Implementation Engineer,Temple & Webster Group,https://www.seek.com.au/job/89367855?type=standard&ref=search-standalone&origin=jobCard#sol=fca5e70ee4fcdaaeb11f8ec2761b8a1cd6e00232,2h ago,2.0,2025-12-30T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Ready to turn GenAI ideas into real world impact?
 Temple and Webster is where design meets technology. As Australia’s number one online retailer for furniture and homewares, we are constantly reimagining how customers discover, shop and connect online.
   
 We are expanding our AI team and are looking for an AI Implementation Engineer to help build practical GenAI powered tools that are embedded directly into how the business operates.
@@ -49,7 +160,7 @@ Staff discounts across the entire Temple and Webster range
 An ambitious, grounded culture that values practical innovation
 View current vacancies: templeandwebster.com.au/Careers
 See life at Temple & Webster: linkedin.com/company/temple-&-webster/life"
-89365167,Embodied Intelligence Algorithm Engineer,Chery Motor Australia Pty Ltd,https://www.seek.com.au/job/89365167?type=standard&ref=search-standalone&origin=jobCard#sol=a8b427234f84439766abdbfbb5add7b83ca92c63,2h ago,2.0,2025-12-30T02:00:00+00:00,"Rhodes, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"This role focuses on algorithm R&D in embodied intelligence. With a solid mathematical foundation, you will conduct research and implementation in one or more of the following areas:
+89365167,Embodied Intelligence Algorithm Engineer,Chery Motor Australia Pty Ltd,https://www.seek.com.au/job/89365167?type=standard&ref=search-standalone&origin=jobCard#sol=28dd4c0fab66cff2af6adce87ed77b03eb165781,4h ago,4.0,2025-12-30T01:00:00+00:00,"Rhodes, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"This role focuses on algorithm R&D in embodied intelligence. With a solid mathematical foundation, you will conduct research and implementation in one or more of the following areas:
 
 1. Design and optimize Vision-Language-Action (VLA) multimodal large models via linear algebra, probability theory, etc., to map language instructions to physical actions.
 2. Build deep learning models for object detection and scene segmentation, and enhance algorithm robustness in dynamic scenarios through mathematical optimization.
@@ -57,7 +168,7 @@ See life at Temple & Webster: linkedin.com/company/temple-&-webster/life"
 4. Integrate reinforcement learning with traditional control methods based on robot kinematics and dynamics modeling to enable stable robot movement in complex terrains.
 
 Applicants are required to have a relevant educational background in a related field."
-89364748,AI & Automation Specialist,ConnectEast,https://www.seek.com.au/job/89364748?type=standard&ref=search-standalone&origin=jobCard#sol=dd0babc80dd8b221cb01ad353b43b5f86335334d,3h ago,3.0,2025-12-30T01:00:00+00:00,"Ringwood, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"New role shaping our innovation lab
+89364748,AI & Automation Specialist,ConnectEast,https://www.seek.com.au/job/89364748?type=standard&ref=search-standalone&origin=jobCard#sol=b9d5aeafa32cc724616634a6adb6efcce25a4608,4h ago,4.0,2025-12-30T01:00:00+00:00,"Ringwood, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"New role shaping our innovation lab
 
 AI & Automation focus
 
@@ -144,7 +255,7 @@ If this role sounds of interest to you, please refer to the Employee Information
 Applications must include a cover letter and current resume and must be submitted prior to Close of Business on Friday 23rd January 2026.
 
 No Agencies - ConnectEast does not accept unsolicited agency referrals."
-89364476,Senior Software Engineer (AI),Heidi Health,https://www.seek.com.au/job/89364476?type=standard&ref=search-standalone&origin=jobCard#sol=f4b2f8a987c691615c0381de18d54d44abec6d78,3h ago,3.0,2025-12-30T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Heidi is building an AI Care Partner that supports clinicians every step of the way, from documentation to delivery of care.
+89364476,Senior Software Engineer (AI),Heidi Health,https://www.seek.com.au/job/89364476?type=standard&ref=search-standalone&origin=jobCard#sol=9a444a1398c9b7de731e44c19d04f35cd68949d3,5h ago,5.0,2025-12-30T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Heidi is building an AI Care Partner that supports clinicians every step of the way, from documentation to delivery of care.
 
 We exist to double healthcare’s capacity while keeping care deeply human. In 18 months, Heidi has returned more than 18 million hours to clinicians and supported over 73 million patient visits. Today, more than two million patient visits each week are powered by Heidi across 116 countries and over 110 languages.
 
