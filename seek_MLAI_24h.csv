@@ -1,1 +1,85 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+89422283,Senior Data Engineer - Sydney or Canberra,Viva Leisure,https://www.seek.com.au/job/89422283?type=standard&ref=search-standalone&origin=jobCard#sol=2c433b931b6b22db7a434067381d7f2d24690ee8,1h ago,1.0,2026-01-04T20:00:00+00:00,"Beaconsfield, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"THE OPPORTUNITY
 
+Australian-owned, Award-winning, and ASX listed, Viva Leisure are Australia’s second-largest and fastest-growing operator of health and fitness experiences and facilities.  Viva Leisure operates in all segments of health and fitness and our range of offerings includes big-box health clubs, express gyms, high-intensity group training studios, pilates, yoga, aquatics, women's only facilities, personal training and more.
+
+Viva Leisure have the mission of connecting health and wellness to as many people as possible through our range of awesome, affordable and accessible facilities.  Our vision is to be the #1 in the industry for our employees, our shareholders, our franchisees, our communities, and of course our members.
+
+As the founding Senior Data Engineer for Viva 360, you’ll design and build the data and AI backbone of Viva Leisure’s new analytics platform. This hands-on role focuses on developing scalable data pipelines, machine learning infrastructure, and decision engines that transform raw data into real-time, predictive insights driving member retention, acquisition, and personalisation.
+
+You’ll architect and operationalise production-grade systems, implement data governance, and integrate ML models into core business functions. This is a rare opportunity to shape the future of data and AI in the fitness industry — with autonomy to make key technical decisions, direct visibility to leadership, and the chance to expand the platform’s impact across brands and use cases.
+
+KEY RESPONSIBILITIES 
+
+ML Pipeline Engineering (40%)
+
+Design and deliver production-grade ML pipelines to support churn prediction and member acquisition models.
+Develop and maintain feature stores for reusable member attributes across multiple use cases.
+Build model training, versioning, and deployment workflows using MLflow and other MLOps tools.
+Create and manage model serving endpoints to enable real-time inference at scale.
+Engineer decision engine pipelines that automate marketing interventions and member engagement.
+Design rule-based and ML-driven decisioning workflows to optimise business outcomes.
+
+Data Infrastructure (35%)
+
+Build scalable ETL/ELT pipelines ingesting data from 500+ locations and multiple external platforms.
+Implement Databricks lakehouse architecture with Delta Lake for unified storage and processing.
+Configure and optimise cloud compute resources for both batch and streaming data workloads.
+Design data models optimised for analytics, reporting, and ML feature extraction.
+
+Data Quality & Governance (15%)
+
+Implement Unity Catalog governance with fine-grained (row-level) security across 11 brands.
+Build automated data quality checks and validation processes into pipelines.
+Develop audit trails and lineage tracking for compliance with member PII regulations.
+Manage schema evolution and ensure resilience for downstream consumers.
+
+Operations & Optimisation (10%)
+
+Monitor pipeline performance, ML model inference latency, and overall system reliability.
+Automate workflows using orchestration tools such as Airflow or Data Factory.
+Establish robust alerting frameworks for data freshness, pipeline failures, and model performance degradation.
+Maintain clear documentation of architecture, pipelines, workflows, and runbooks to ensure knowledge continuity.
+SKILLS AND EXPERIENCE 
+
+We are looking for someone with:
+
+Education and Qualifications
+
+Bachelor’s degree in Computer Science, Information Technology, Data Engineering, or related field (or equivalent experience).
+Postgraduate qualifications in data engineering, data science, or cloud technologies desirable.
+Professional certifications in AWS, Azure, or GCP (Data Engineer focus) highly regarded.
+
+Skills and Experience
+
+7+ years’ experience building and maintaining production-grade data platforms and ML pipelines.
+Expert in Python (PySpark, pandas) and SQL for data engineering, modelling, and optimisation.
+Proven experience with cloud-based data services (AWS, Azure, or GCP).
+Skilled in designing data lakehouse architectures, governance frameworks, and scalable ETL/ELT workflows (Airflow, Data Factory, etc.).
+Strong understanding of dimensional modelling and ML lifecycle management, including deployment, versioning, and monitoring.
+Proficient with Git for version control and collaborative development.
+Familiarity with MLflow, Kafka/Kinesis/Event Hubs, and BI tools (Power BI, Tableau, Looker) desirable.
+Experience working in multi-tenant, regulated data environments handling PII and compliance requirements.
+Excellent communication and stakeholder engagement skills, with a proactive, ownership-driven mindset.
+Bonus: Experience in fitness, leisure, or subscription-based industries, and knowledge of Australian data privacy standards.
+YOUR LIFE AT VIVA - PERKS & BENEFITS
+
+As an employer of choice, Viva prides itself on supporting you in the best way possible by providing a range of incentives that meet the everyday needs of our people. We offer a range of benefits to our employees such as Flexible Work Arrangements and great work-life balance for personal rejuvenation and well-being, Free Fitness Membership, Central locations with brand new facilities and office kitchens fully stocked with Complimentary Meals, drinks and snacks, Paid Parental Leave, ongoing Learning and Development opportunities and access to a Virtual Medical Practice offering GP consultations, dietitian support, psychology services and health coaching. With countless career paths under one roof, the possibilities are endless.
+
+Above all, Viva is committed to fostering a diverse and inclusive culture where every background, perspective, gender, and identity is celebrated. We believe in empowering everyone to be themselves, knowing that it's when we embrace our differences that we perform at our best.
+
+We make every opportunity last at Viva and are looking to find members of the team to upskill and develop all with the aim to make Viva the best place to work.
+
+ABOUT VIVA LEISURE
+
+At Viva Leisure, our mission is simple: to connect health and wellness to as many people as possible through our awesome, affordable, and accessible facilities. Our vision is to be the number one in the industry — benefitting our members, shareholders, franchisees, communities, and employees alike.
+
+As an Australian-owned and ASX-listed company, we offer a diverse range of health and fitness solutions, including big-box health clubs, express gyms, high-intensity group training studios, Pilates, yoga, aquatics, women’s-only facilities, personal training, and more. Established in 2004, our key brands include Club Lime, hiit republic, Plus Fitness, GROUNDUP, and Rebalance. With over 300 facilities across Australia and internationally, including corporate-owned and franchised sites, we’re proud to serve diverse communities.
+
+In 2020, Viva Leisure acquired Chain Collective Group to expand our fitness franchise brands both domestically and internationally. Chain Collective now operates as the franchising arm of Viva Leisure, proudly holding Plus Fitness as its flagship franchised brand — paving the way for the continued growth and success of multiple fitness concepts across Australia and beyond.
+
+In 2024, Viva Leisure acquired a 34% stake in Boutique Fitness Studios (BFS), the master franchisee for leading global brands including Club Pilates, Rumble Boxing, StretchLab, and CycleBar. This partnership marks an exciting new chapter as Viva’s Rebalance Pilates & Yoga studios transition to Club Pilates, uniting local expertise with world-class brand standards to deliver a premium member experience. That same year, Viva Leisure also acquired a 25% equity stake in World Gym Australia, along with three corporate-owned World Gym locations in Queensland — Stafford, Coomera, and Underwood — further strengthening our presence in the premium fitness sector.
+
+ACKNOWLEDGEMENT
+
+Viva Leisure acknowledges and pays respects to the Traditional Owners of Country throughout Australia, including Elders past and present. We are committed to protecting children, young, and vulnerable people from harm, and the successful candidate/s will be required to hold and maintain an appropriate clearance to work with Children. Please note that Viva reserves the right to pull the advert before the end date if a suitable applicant is found before the close date. Additionally, Viva is committed to building an inclusive culture where diverse backgrounds, perspectives, and identities are celebrated. We believe in empowering everyone to be themselves, as we know that it's when we embrace our differences that we perform at our best, enabling our future success."
