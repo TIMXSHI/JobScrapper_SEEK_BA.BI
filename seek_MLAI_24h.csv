@@ -1,53 +1,226 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89470131,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89470131?type=standard&ref=search-standalone&origin=jobCard#sol=ae8a3f4fe8f35c8848fae1189fa80fd5712d7637,1h ago,1.0,2026-01-06T03:00:00+00:00,Adelaide SA (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
-This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+89474283,Configuration Management Specialist,Brunel,https://www.seek.com.au/job/89474283?type=standard&ref=search-standalone&origin=jobCard#sol=6729e8e1e7a92709b4e57b2efccc60348de22110,1h ago,1.0,2026-01-06T04:00:00+00:00,"Henderson, Perth WA",Business/Systems Analysts (Information & Communication Technology),Full time,,"Brunel has partnered with a leading organisation in the defence sector to offer an exciting opportunity for a Configuration Engineer to join on a permanent, full-time basis at their Henderson facility. This role is well suited to someone with a strong technical background in configuration management and PLM systems, who thrives in complex engineering environments.
 
-About the Role
-Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Description
+
+The Configuration Engineer supports the Configuration Management Team in executing and maintaining robust configuration management practices across a complex defence program. This role focuses on the technical implementation of configuration processes, data analysis, and system integration, ensuring accurate reporting and traceability of configuration items throughout the product lifecycle.
+
+Key Responsibilities:
+
+Collaborate with the Configuration Management Lead to implement and maintain CM processes aligned with ASDEFCON and defence standards.
+Serve as the technical expert for PLM systems (Siemens Teamcenter), including data modelling, integrations, and automation.
+Develop and maintain Configuration Status Accounting (CSA) reports and Baseline Reports using a variety of data solutions, scripting methods, and analytical tools.
+
+Main Duties:
+
+Develop and maintain Configuration Data by managing design and product baselines, change requests, variations and obsolescence using Teamcenter.
+Administer and optimize the system landscape for configuration management tools including Teamcenter, TCRA, Jira, and Power BI.
+Perform advanced data analysis to support configuration audits, change impact assessments, and baseline integrity checks.
+Support Engineering Change Proposal (ECP) workflows and ensure accurate data traceability across digital systems.
+Automate reporting and dashboarding solutions to provide real-time visibility into configuration status and metrics.
+Assist in the preparation and execution of configuration audits, including data readiness and traceability validation.
+Troubleshoot and resolve technical issues related to PLM integrations, data inconsistencies, and reporting errors
+
+Profile
+
+Degree in Engineering, Information Systems, Business Systems Analysis, or a related technical field.
+Australian Citizenship is essential
+Strong analytical mindset with attention to detail and data integrity.
+Excellent communication skills for cross-functional collaboration and technical documentation.
+Good understanding of IT system landscapes and infrastructure, including familiarity with server environments, scheduled tasks, and basic troubleshooting, to support configuration related operations and integrations.
+Strong hands-on experience with PLM systems, especially Siemens Teamcenter.
+Proficiency in SQL and Python for data extraction, transformation, and analysis.
+
+Preferred
+
+Solid understanding of configuration management principles and defence standards.
+Demonstrated ability to work in complex digital environments with integrated systems and evolving processes.
+Advanced skills in Power BI for dashboard creation and data visualization.
+
+Job Offer
+
+About Brunel:
+
+Brunel is a recruitment and flexible workforce solution provider which connects talented people with opportunities throughout Australasia and around the world. We specialise in highly skilled roles across a variety of technical, professional, trades and craft disciplines, pairing candidates with industry-leading projects and organisations on a contract, permanent or secondment basis.
+
+Operating in Australasia since 1997, Brunel has major bases of operation in Perth, Sydney, Brisbane and Port Moresby, which are further backed by the strength and reach of a truly global network spanning over 45 countries, 120 offices and 45 years of successful operation.
+
+Brunel is proud to be equal opportunity employer and encourages applications from Aboriginal and Torres Strait Islander and female candidates.
+
+How to apply:
+
+If you meet the above requirements and would like to be considered for this role, please submit your interest using the 'Apply' button. Applying is quick and easy - just make sure you have the following documents ready to go:
+
+Resume
+Cover Letter (optional)
+
+Do you have questions?
+
+If you have any questions or would like to discuss the details of this role, please apply."
+89474158,"Data Engineer (3 Months Contract, FULLY REMOTE)",UpperGround by Hudson,https://www.seek.com.au/job/89474158?type=standard&ref=search-standalone&origin=jobCard#sol=d6c6d4dfb2b044fe4b1370c0082b00c0056f40ea,1h ago,1.0,2026-01-06T04:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Hudson is partnering with an established organisation to look for a Senior Data Engineer. This position can be based in Adelaide (South Australia) and/or anywhere in Australia. 
+
+You’ll be joining a complex and crucial integration program. The work is challenging, occasionally ambiguous, and requires someone who brings emotional intelligence, resilience, and the ability to collaborate deeply with cross‑functional teams.
+
+You’ll be supporting a highly capable Lead Data Engineer who needs a strong “doer” to help manage the volume of work and keep delivery moving.
+
+This contract assignment is for 3months. 
+
 Key Responsibilities
-LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
-GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
-MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
-Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
-Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
-What You’ll Bring
-4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
-Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
-Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
-Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
-Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
-What’s in It for You
-Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
-Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
-Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
-Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
 
-If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
-89469946,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89469946?type=standard&ref=search-standalone&origin=jobCard#sol=dce15896c00af436e7de05cff5de9f8cd8de706d,1h ago,1.0,2026-01-06T03:00:00+00:00,Brisbane QLD (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
-This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+Build and maintain ETL pipelines using Azure Data Factory and related Azure services.
+Support integration across four club environments, ensuring data consistency, quality, and reliability.
+Conduct discovery and analysis activities to understand data flows, dependencies, and constraints.
+Work closely with the Lead Data Engineer and technical delivery lead to ensure smooth execution under a Waterfall framework.
+Implement security and governance controls across data pipelines and environments.
+Monitor, troubleshoot, and optimise pipelines using Azure-native tools.
+Collaborate with cross‑functional stakeholders with empathy, clarity, and strong communication.
+Technical Skills Required
+Azure Data Services
 
-About the Role
-Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Azure Data Factory (ADF)
+SQL Server Managed Instance
+Azure IR and SHIR
+Data modelling (relational + non‑relational)
+ETL & Data Engineering
+
+Building ETL pipelines in ADF
+Experience transferring data to platforms such as Snowflake or SQL Server
+Programming
+
+SQL (essential)
+Stored procedures and triggers
+Python (widely used)
+Security & Governance
+
+Private Link
+RBAC
+Data masking
+Encryption
+Compliance policies
+Monitoring & Optimisation
+
+Azure Monitor
+Log Analytics
+Query tuning
+Tools & Platforms
+
+Azure DevOps (CI/CD, pipeline automation)
+Git/GitHub
+Terraform or Bicep (nice to have)
+Recommended Certifications
+
+Microsoft Certified: Azure Data Engineer Associate
+Who Will Succeed in This Role
+
+Someone who thrives in a lean, hands‑on environment.
+A strong communicator with high EQ who can navigate complexity and ambiguity.
+A resilient problem‑solver who enjoys discovery, analysis, and cross‑team collaboration.
+A genuinely good human who contributes to a positive team culture.
+
+Please reach out to me via isabelle.ho2@hudson.com with your contact number and resume (in Microsoft word format) should you be interested. 
+ 
+(Tip for a successful consideration: As you prepare your application, we encourage you to carefully review the requirements associated with this role to ensure eligibility. To support a meaningful assessment of your fit, your resume should provide clear, detailed examples of your contributions, measurable impact, and relevant commercial experience that align with the role’s criteria. Please be aware that we rely solely on the information presented in your application - if specific experience or achievements are not included, we are unable to infer or assume them.)
+ 
+Lastly, we will be only be able to consider candidates who have full work rights in Australia.
+
+
+Diversity, Equity & Inclusion at Hudson
+Hudson is committed to helping you find a workplace where you feel respected, supported, and free to thrive. We welcome applications from all backgrounds, identities, and lived experiences—because when different voices come together, amazing things happen.
+
+Casual Loading 
+Please note for all Australian based contract and temporary roles only, the pay rate is inclusive of mandatory 25% casual loading. This excludes permanent and fixed term roles."
+89474066,Databricks Solution Architect,NTP Talent,https://www.seek.com.au/job/89474066?type=standard&ref=search-standalone&origin=jobCard#sol=7e7fc562160442ea4e347a5b7582864ad5d89d1a,1h ago,1.0,2026-01-06T04:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,"$200,000+","About the Role:
+Join a dynamic team delivering enterprise AI and cloud transformation with Databricks as a strategic focus. You will play a key role in shaping innovative data engineering solutions, working closely with clients to remove technical blockers and accelerate adoption of best practices across big data platforms.
+
+The organisation is growing fast, has a strong global reputation, with an opportunity for growth and significant exposure to the Databricks team. If Databricks is a passion for you, this is an organisation that will have you working alongside some of the most experienced and strongest technical professionals in the space.
+
+Why This Role is Unique:
+● Senior-level role, working with enterprise level customers on large scale projects.
+● Be part of a hands-on, deeply technical team recognized for transformative impact on clients data architecture and AI transformation journeys.
+● Engage with rapidly evolving GenAI technologies, modern data practices, and cloud-native architectures that push the boundaries of what’s possible.
+● Supported by transparent leadership and a culture focused on mentorship, continuous learning, and technical excellence.
+● Enjoy work-life balance through flexible arrangements while contributing to projects delivering real business outcomes globally.
+
+Your Impact and Responsibilities:
+● Lead and contribute hands-on to projects using Databricks, Apache Spark, and related big data tools to build scalable, high-performing pipelines and platforms.
+● Collaborate with diverse teams to design and implement data architectures that simplify complex business problems.
+● Drive adoption of modern CI/CD, MLOps, and DevOps pipelines, ensuring automation and quality at scale.
+● Advise customers on strategic technical decisions, challenge assumptions, and guide teams in overcoming roadblocks.
+● Mentor peers and foster a culture of knowledge sharing to maintain a reputation for technical excellence.
+● Work across cloud platforms integrating Databricks with Hadoop, Flink, Presto, Redshift, and others.
+
+Required Experience & Qualifications:
+● 5+ years of experience in consulting.
+● Minimum 6-8+ projects delivered with hands-on experience in development on databricks.
+● Current knowledge across the breadth of Databricks product and platform.
+● Expertise with cloud data architectures.
+
+Preferred Skills:
+● Experience with BigQuery, Synapse, Redshift, Hadoop, Flink, Presto.
+● Knowledge of modern CI/CD, automation, MLOps, and DevOps best practices.
+● Strong interpersonal skills with an ability to challenge and lead technical strategy.
+● Passion for educating others and evangelizing technical best practices.
+
+What You’ll Gain:
+● First class exposure to the Databricks team.
+● Work across genuine enterprise level projects.
+● Exposure to some of the most advanced AI and data engineering projects shaping enterprise capabilities.
+● A collaborative, mentor-rich environment focused on professional growth and transparent leadership.
+● Flexible working options, competitive remuneration, and a culture that values technical contribution and innovation."
+89473225,Solution Engineer,LGT Wealth Management,https://www.seek.com.au/job/89473225?type=standard&ref=search-standalone&origin=jobCard#sol=622299aa99700dc9965fa20ac009d6337c5f5e4a,1h ago,1.0,2026-01-06T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About Us
+
+LGT is the largest Private Banking and Asset Management group in the world to be owned by an entrepreneurial family. As the family office of the Princely House of Liechtenstein, we bring decades of experience in managing significant assets with care and expertise.
+
+Solution Engineer (12‑Month Fixed-Term)
+
+Location: Sydney CBD/ Melbourne CBD (Hybrid)
+
+Role Overview
+
+We are seeking a Solution Engineer to join our Engineering team within the broader Technology function. This role is pivotal in shaping the technology landscape that underpins our client experience, operational efficiency, and long‑term strategic growth.
+
+As a Solution Engineer, you will translate business needs into scalable, secure, and cost‑effective technology designs. You will partner closely with stakeholders across the business and Group Technology to deliver integrated solutions that align with our global standards and local priorities.
+
 Key Responsibilities
-LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
-GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
-MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
-Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
-Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
-What You’ll Bring
-4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
-Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
-Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
-Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
-Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
-What’s in It for You
-Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
-Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
-Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
-Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
 
-If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
-89468729,Data Engineer,Healthcare Australia - Talent Acquisition,https://www.seek.com.au/job/89468729?type=standard&ref=search-standalone&origin=jobCard#sol=6102f188608fe2544de07a29b7790d489c16def8,1h ago,1.0,2026-01-06T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+Provide hands‑on support during build, integration, and deployment phases, including prototypes, reference implementations, and technical troubleshooting.
+
+Lead end‑to‑end solution architecture across the full project lifecycle from requirements and conceptual design through to build, testing, deployment, and transition to operations.
+
+Partner with business stakeholders to understand needs, constraints, and strategic objectives, ensuring solutions are fit‑for‑purpose and aligned with long‑term goals.
+
+Develop high‑level and detailed solution designs, including architecture diagrams, integration patterns, data flows, and security considerations.
+
+Evaluate technologies and platforms, recommending options that balance cost, scalability, performance, and alignment with Group Technology standards.
+
+Embed “security by design” principles into all architecture and design activities.
+
+Collaborate with engineers, developers, and Group Technology teams to validate and refine solution designs.
+
+Support functional and non‑functional testing to ensure solution integrity and performance.
+
+Produce high‑quality documentation, runbooks, and knowledge‑sharing materials for operational teams.
+
+Contribute to the technology strategy, design standards, and continuous improvement of engineering and delivery practices.
+
+Essential Skills and Experience
+
+Demonstrated hands‑on experience in building and developing technology solutions, including configuration, integration, and automation activities as required.
+
+Deliver technical support and guidance throughout solution implementation, assisting in the resolution of design and build challenges.
+
+Experience designing and architecting business‑critical systems in complex environments.
+
+Broad knowledge of IT technologies, cloud platforms, integration patterns, and security principles.
+
+Qualifications
+
+Tertiary qualification in Information Technology, Computer Science, Engineering, or a related discipline.
+
+5+ years’ experience in solution design, architecture, or technical consulting roles.
+
+Certifications in cloud, architecture, or design frameworks (e.g., AWS, Azure, TOGAF) are advantageous."
+89472591,Data Engineer,Healthcare Australia - Talent Acquisition,https://www.seek.com.au/job/89472591?type=standard&ref=search-standalone&origin=jobCard#sol=a19e6bc2689afa3d59673eeca4bc857d7d3ae79f,1h ago,1.0,2026-01-06T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 At Healthcare Australia (HCA), we are united by a shared commitment: to drive innovation and excellence in the healthcare sector. As Australia's largest specialist healthcare workforce provider, we are shaping the future of care through strategic transformation and a relentless focus on improvement. This is more than just a job; it is an opportunity to lead change that will create a profound and positive impact. 
 
@@ -89,28 +262,7 @@ The opportunity to help build a greenfield enterprise data platform and make you
 If you have any questions, please contact Carly Currie (carly.currie@healthcareaustralia.com.au).
 
 Veterans are encouraged to apply. At HCA we are committed to embracing diversity and committed to providing a safe working environment."
-89465523,Data Engineer - ETL Development,Elysium Digital,https://www.seek.com.au/job/89465523?type=standard&ref=search-standalone&origin=jobCard#sol=655b2d1cbfef599dbeeff1cebf14f491c6d41d73,2h ago,2.0,2026-01-06T02:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"We are seeking an ETL Developer to join our team and assist with optimising a critical data processing system. This position will require you to lead the transformation of a high volume data pipeline, reducing processing times and improving feedback loops for the clients services. The key objective of the engagement would be to reduce extract processing times and improve end-to-end data flows
-  
-Typical Duties Include
-
-Enhance existing ETL code and rebuild indexes in SQL staging tables.
-Establish four new Azure queues aligned with sending applications and supported by SQL Server Agent jobs for parallel execution.
-Assist with a redesign of the queuing architecture
-Develop a proof of concept and technical review.
-Key Selection Criteria
-
-3-5 Years ETL Development experience
-Proficient with Azure Data Services - ADF, Databricks, Datalake etc
-Experience working within the government sector is highly regarded
-  
-ETL Development skills sought
-
-ETL, SSIS, SQL, T-SQL
-Advanced T-SQL capabilities: stored procedures, views, indexes, and performance tuning.
-Ability to analyse large datasets and design efficient data flow models.
-Experience implementing data marts, data stores, and data lakes.
-Skills with performance tuning and resource-efficient data modeling."
-89465504,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89465504?type=standard&ref=search-standalone&origin=jobCard#sol=4e27c640ded6445ef35fe2095f301e7d38c8e106,2h ago,2.0,2026-01-06T02:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+89470222,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89470222?type=standard&ref=search-standalone&origin=jobCard#sol=ffa43662c9749677b7d0307cb22b9e9f632cd345,2h ago,2.0,2026-01-06T03:00:00+00:00,Perth WA (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
 This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
 
 About the Role
@@ -134,7 +286,142 @@ Access modern tech stacks, flexible hybrid working, and opportunities to shape e
 Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
 
 If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
-89465490,Project Engineer (Variable Drive System),Rockwell Automation,https://www.seek.com.au/job/89465490?type=standard&ref=search-standalone&origin=jobCard#sol=fa464d17aab962afbcd182bccc8c63874020ab72,2h ago,2.0,2026-01-06T02:00:00+00:00,Sydney NSW (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,"$113,200 – $140,000 per year","Why Join Us?
+89470131,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89470131?type=standard&ref=search-standalone&origin=jobCard#sol=d800100d369a35c53cfa2ced6d2f3d926f39ade8,2h ago,2.0,2026-01-06T03:00:00+00:00,Adelaide SA (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+
+About the Role
+Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Key Responsibilities
+LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
+GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
+MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
+Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
+Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
+What You’ll Bring
+4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
+Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
+Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
+Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
+Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
+What’s in It for You
+Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
+Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
+Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
+Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
+
+If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
+89469946,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89469946?type=standard&ref=search-standalone&origin=jobCard#sol=ffd93a4d68ca77215a29f67d5d6716352f2fd27d,2h ago,2.0,2026-01-06T03:00:00+00:00,Brisbane QLD (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+
+About the Role
+Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Key Responsibilities
+LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
+GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
+MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
+Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
+Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
+What You’ll Bring
+4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
+Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
+Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
+Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
+Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
+What’s in It for You
+Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
+Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
+Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
+Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
+
+If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
+89468729,Data Engineer,Healthcare Australia - Talent Acquisition,https://www.seek.com.au/job/89468729?type=standard&ref=search-standalone&origin=jobCard#sol=fcd36cdc4321e7a3da4ae8100b331a0f660241b1,2h ago,2.0,2026-01-06T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+At Healthcare Australia (HCA), we are united by a shared commitment: to drive innovation and excellence in the healthcare sector. As Australia's largest specialist healthcare workforce provider, we are shaping the future of care through strategic transformation and a relentless focus on improvement. This is more than just a job; it is an opportunity to lead change that will create a profound and positive impact. 
+
+Job Description
+
+We have a new opportunity for an experienced Data Engineer to join our Technology team and play a pivotal role in building HCA’s new enterprise data platform.
+
+This role is critical to the design, build, and operation of our data lake and analytics environment, leveraging Microsoft Fabric to deliver secure, reliable, and high-quality data across the organisation. Reporting directly to the CIO, you’ll work closely with product owners, BI developers, and operational teams to ensure data is ingested, transformed, and made ready for insight-driven decision making.
+
+Your work will directly support HCA’s digital transformation agenda, data strategy, and privacy obligations across a complex healthcare environment.
+
+We are open to this position being based in our Melbourne or Sydney offices.
+
+Come help shape a modern data platform and also:
+
+Design, build, and maintain scalable ETL/ELT data pipelines using Microsoft Fabric Data Factory, Lakehouse, and OneLake
+Establish and manage HCA’s enterprise data lake / lakehouse architecture, ensuring performance, security, and governance
+Ingest, cleanse, transform, and structure data from multiple ICT systems to support analytics and reporting
+Configure and manage Fabric workspaces, capacities, security, and access controls in line with privacy requirements
+Collaborate with BI teams, product owners, and stakeholders to deliver high-quality, analytics-ready datasets
+
+Let’s talk about you!
+
+As a Data Engineer, you’ll bring strong hands-on experience building modern data pipelines and working with data lake or lakehouse architectures. You’re comfortable operating in a regulated environment, have a strong focus on data governance and privacy, and enjoy collaborating with BI teams and business stakeholders.
+
+Your resume will showcase your experience in designing and building ETL/ELT pipelines and hands-on experience with Microsoft Fabric (Data Factory, Lakehouse, OneLake, workspace management).  Naturally you’ll have a strong capability in SQL, with experience using PySpark and/or KQL for data transformation
+
+Working alongside our CIO this role suits an Engineer with a strong understanding of data governance, privacy, and secure data handling in regulated environments
+
+Microsoft certifications such as. Fabric Data Engineer Associate – DP-700 would be highly regarded!
+
+Bring your passion to HCA and be rewarded with:
+
+Hybrid working – work from home up to 2 days per week
+Rewards Platform: Access to a comprehensive rewards and benefits platform 
+Happy Birthday to you! The day off on your birthday each year 
+The opportunity to help build a greenfield enterprise data platform and make your mark within a friendly, supportive, and growing organisation (more than 1,000 employees!)
+
+If you have any questions, please contact Carly Currie (carly.currie@healthcareaustralia.com.au).
+
+Veterans are encouraged to apply. At HCA we are committed to embracing diversity and committed to providing a safe working environment."
+89465523,Data Engineer - ETL Development,Elysium Digital,https://www.seek.com.au/job/89465523?type=standard&ref=search-standalone&origin=jobCard#sol=5aeb8d4255b0bd538ffe916b8a042690f80dfb8c,4h ago,4.0,2026-01-06T01:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"We are seeking an ETL Developer to join our team and assist with optimising a critical data processing system. This position will require you to lead the transformation of a high volume data pipeline, reducing processing times and improving feedback loops for the clients services. The key objective of the engagement would be to reduce extract processing times and improve end-to-end data flows
+  
+Typical Duties Include
+
+Enhance existing ETL code and rebuild indexes in SQL staging tables.
+Establish four new Azure queues aligned with sending applications and supported by SQL Server Agent jobs for parallel execution.
+Assist with a redesign of the queuing architecture
+Develop a proof of concept and technical review.
+Key Selection Criteria
+
+3-5 Years ETL Development experience
+Proficient with Azure Data Services - ADF, Databricks, Datalake etc
+Experience working within the government sector is highly regarded
+  
+ETL Development skills sought
+
+ETL, SSIS, SQL, T-SQL
+Advanced T-SQL capabilities: stored procedures, views, indexes, and performance tuning.
+Ability to analyse large datasets and design efficient data flow models.
+Experience implementing data marts, data stores, and data lakes.
+Skills with performance tuning and resource-efficient data modeling."
+89465504,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89465504?type=standard&ref=search-standalone&origin=jobCard#sol=2ac8f5c82e4e711821eb10e3139ce327b23a106d,4h ago,4.0,2026-01-06T01:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
+
+About the Role
+Join a rapidly growing AI-driven organisation at the forefront of innovation in LLMs, NLP, and Generative AI. This role is ideal for a hands-on data scientist who thrives in building scalable AI solutions, experimenting with state-of-the-art models, and driving real-world impact through applied research and engineering excellence. You’ll work across multi-cloud environments, collaborate with technical and business stakeholders, and help shape the next generation of intelligent systems.
+Key Responsibilities
+LLM & NLP Development – Design, fine-tune, and deploy advanced large language models (PEFT, LoRA, PPO) to solve complex business challenges.
+GenAI & RAG Engineering – Build and optimise retrieval-augmented generation (RAG) pipelines, embedding models, and agentic AI architectures.
+MLOps & Deployment – Implement scalable ML workflows with CI/CD, monitoring, benchmarking, and automation best practices across AWS, GCP, or Azure.
+Collaboration & Influence – Work closely with cross-functional teams to translate AI research into production-ready solutions that deliver measurable outcomes.
+Continuous Research – Stay ahead of emerging trends in LLMs, transformers, reinforcement learning, and generative architectures.
+What You’ll Bring
+4–8 years of hands-on experience in data science, AI, or machine learning, with deep knowledge of NLP and LLM applications.
+Strong proficiency in Python, PyTorch, and SQL, plus experience with frameworks such as LangChain, Hugging Face, or LlamaIndex.
+Practical experience building RAG pipelines, integrating vector databases (Pinecone, Weaviate, FAISS), and deploying solutions through Databricks, SageMaker, or Vertex AI.
+Understanding of MLOps, monitoring, and feature store design, ensuring performance and reliability at scale.
+Curiosity and drive to experiment with new architectures, delivering meaningful improvements to model capability and business value.
+What’s in It for You
+Contribute to cutting-edge AI initiatives in a fast-paced, high-impact environment.
+Collaborate with talented engineers, researchers, and product leaders who share a passion for innovation.
+Access modern tech stacks, flexible hybrid working, and opportunities to shape enterprise-level GenAI adoption.
+Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
+
+If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
+89465490,Project Engineer (Variable Drive System),Rockwell Automation,https://www.seek.com.au/job/89465490?type=standard&ref=search-standalone&origin=jobCard#sol=9b457dad56748b7b69831349347c9de799f6f016,4h ago,4.0,2026-01-06T01:00:00+00:00,Sydney NSW (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,"$113,200 – $140,000 per year","Why Join Us?
 
 As a Project Engineer you will be part of a high-performing team delivering advanced guide control solutions across Australia and New Zealand. You'll work on impactful projects in heavy industries, contributing to digital transformation. You will report to engineering manager based in Australia.
 
@@ -235,7 +522,7 @@ At Rockwell Automation we are dedicated to building a diverse, inclusive and aut
 You may be just you or other roles.
 
 #LI-Hybrid #LI-NC1"
-89465450,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89465450?type=standard&ref=search-standalone&origin=jobCard#sol=1ef843fc975afc05c12fa210f115740b413f8c76,2h ago,2.0,2026-01-06T02:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
+89465450,Senior Data Scientist - AI & NLP,Correlate Resources,https://www.seek.com.au/job/89465450?type=standard&ref=search-standalone&origin=jobCard#sol=2342d482b5a0156c4c450dd8c78c42d7fb64ee28,4h ago,4.0,2026-01-06T01:00:00+00:00,Melbourne VIC (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Are you a data science expert passionate about AI innovation and stakeholder influence? We’re seeking a Senior Data Scientist to drive cutting-edge AI advancements while working closely with executives and non-technical stakeholders to shape AI adoption and impact.
 This role is ideal for someone who thrives at the intersection of technical excellence and business strategy, ensuring AI solutions deliver real value across the organisation.
 
 About the Role
@@ -259,7 +546,7 @@ Access modern tech stacks, flexible hybrid working, and opportunities to shape e
 Be part of a team that values curiosity, technical mastery, and solving real-world problems with AI.
 
 If you’re a highly experienced AI professional who can influence at an executive level while delivering cutting-edge AI solutions, we’d love to hear from you. Apply now!"
-89464254,Robotics Engineer - Control Algorithms | Autonomous Mining Technology,Task Recruitment,https://www.seek.com.au/job/89464254?type=standard&ref=search-standalone&origin=jobCard#sol=d1f5f14a8c7a863d68a4cc84c1f6a0cf688ae202,3h ago,3.0,2026-01-06T01:00:00+00:00,"Melbourne Airport, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Are you an experienced Robotics Engineer with strong control algorithms expertise and a passion for high-quality engineering? Join a global leader in underground autonomous mining equipment and help refine the controllability and performance of advanced remote-controlled, semi-autonomous and fully autonomous machines.
+89464254,Robotics Engineer - Control Algorithms | Autonomous Mining Technology,Task Recruitment,https://www.seek.com.au/job/89464254?type=standard&ref=search-standalone&origin=jobCard#sol=c2b08c91ab2687a4ce1c75edd172a1374b14255c,4h ago,4.0,2026-01-06T01:00:00+00:00,"Melbourne Airport, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Are you an experienced Robotics Engineer with strong control algorithms expertise and a passion for high-quality engineering? Join a global leader in underground autonomous mining equipment and help refine the controllability and performance of advanced remote-controlled, semi-autonomous and fully autonomous machines.
 
 This role is based in North-West Melbourne within a highly skilled product development team working across an integrated technology ecosystem — including onboard and offboard software, production monitoring, and real-time fleet management systems.
 You’ll work on meaningful, cutting-edge technology — and continually learn, collaborate, and grow your professional network.
@@ -296,7 +583,7 @@ Work rights: You must have the right to work in Australia
 
 Interested?
 Contact Fortunato (“Forty”) Galluzzo �� 043 870 9417 or ✉️ forty@taskgroup.com.au"
-89463853,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/89463853?type=standard&ref=search-standalone&origin=jobCard#sol=7b00d538d50687c2aa7cb1070c05b4b48871ceaf,3h ago,3.0,2026-01-06T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
+89463853,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/89463853?type=standard&ref=search-standalone&origin=jobCard#sol=501adb72443c2a95d6a6590a8ee7a6545a12a6a9,4h ago,4.0,2026-01-06T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
 Salary: $180,000 to $275,000 + share options
   
 About the Role
@@ -328,7 +615,39 @@ Build agentic and GenAI systems for major clients
 Join a high calibre engineering team working with world class partners
 Competitive salary, share options and full benefits package
 Hybrid working model with flexibility for key client delivery"
-89463797,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/89463797?type=standard&ref=search-standalone&origin=jobCard#sol=d3a7bead6367da77dec6c9f98ee88374764f9c71,3h ago,3.0,2026-01-06T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
+89463853,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/89463853?type=standard&ref=search-standalone&origin=jobCard#sol=f092369795727795c6f8811d39288e86f3686e84,4h ago,4.0,2026-01-06T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
+Salary: $180,000 to $275,000 + share options
+  
+About the Role
+This senior position suits an accomplished engineer who can lead the end-to-end delivery of AI systems. You will design system architecture, guide technical direction and mentor others while staying hands on across build and integration work.
+  
+The team develops advanced systems such as agentic workflows, intelligent automation and enterprise knowledge solutions using the latest model APIs, LLM tooling and orchestration platforms.
+  
+Key Responsibilities
+
+Lead architecture, design and delivery of scalable AI systems
+Set technical standards and ensure reliability, security and quality
+Oversee engineering decisions and code review across multiple projects
+Work directly with senior stakeholders to turn requirements into solutions
+Support and coach engineers to raise capability and delivery pace
+Contribute to R&D and reusable components that accelerate future builds
+  
+You Will Bring
+
+Strong background in software or data engineering with hands on delivery experience
+Deep knowledge of LLMs, vector databases, embeddings and agent orchestration tools
+Expertise in microservice design, API integration and data pipelines
+Proven record leading teams building production grade applications
+Excellent communication and stakeholder engagement skills
+Proactive mindset, self sufficiency and attention to technical quality
+Why This Opportunity
+
+Lead high value projects using advanced model technology
+Build agentic and GenAI systems for major clients
+Join a high calibre engineering team working with world class partners
+Competitive salary, share options and full benefits package
+Hybrid working model with flexibility for key client delivery"
+89463797,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/89463797?type=standard&ref=search-standalone&origin=jobCard#sol=531bb5cedd71be66d3760d294d9fdf05edbacc2a,4h ago,4.0,2026-01-06T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k to 280k base + super + shares,"Senior Solution Engineer – Applied AI Systems
 Salary: $180,000 to $275,000 + share options
 
 About the Role
@@ -356,7 +675,7 @@ Build agentic and GenAI systems for major clients
 Join a high calibre engineering team working with world class partners
 Competitive salary, share options and full benefits package
 Hybrid working model with flexibility for key client delivery"
-89463536,Data Engineer,iSelect Ltd,https://www.seek.com.au/job/89463536?type=standard&ref=search-standalone&origin=jobCard#sol=c6b1f1710486644e88491112dfcc61a27fbb8102,3h ago,3.0,2026-01-06T01:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About Us: 
+89463536,Data Engineer,iSelect Ltd,https://www.seek.com.au/job/89463536?type=standard&ref=search-standalone&origin=jobCard#sol=c839faecdf7a5a868474b17556b9c5e95aa6c87f,4h ago,4.0,2026-01-06T01:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About Us: 
 
 We are proudly owned by Auto & General Insurance Company. The A&G group is made up of trusted and well-known brands such as iSelect, Compare the Market and Budget Direct. In late 2024, iSelect and Compare the Market formed a new aggregation business within the A&G group that continues to support millions of Australians to compare and buy their personal finance, and household products such as insurance, energy, and loans.
 
@@ -396,7 +715,7 @@ At Compare the Market and iSelect and we’re proud to be an Equal Opportunity E
 This role is available to candidates with unlimited Australian working rights only.
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto & General Holdings Group without your consent."
-89463321,Junior Machine Learning Engineer,Additive Assurance,https://www.seek.com.au/job/89463321?type=standard&ref=search-standalone&origin=jobCard#sol=68111da722b1f13277dd64427ec38c08a9252de2,3h ago,3.0,2026-01-06T01:00:00+00:00,"Oakleigh South, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$75,000 – $90,000 per year","About Additive Assurance
+89463321,Junior Machine Learning Engineer,Additive Assurance,https://www.seek.com.au/job/89463321?type=standard&ref=search-standalone&origin=jobCard#sol=5da8a74272a79568c79fd123554a77adf5990c66,4h ago,4.0,2026-01-06T01:00:00+00:00,"Oakleigh South, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$75,000 – $90,000 per year","About Additive Assurance
 
 At Additive Assurance, we're solving a major problem in metal 3D printing: ensuring parts are made right, every time. Companies in critical industries like aerospace and medicine use 3D printing to create everything from jet engine components to surgical implants. However, tiny, random flaws can cause these crucial parts to fail.
 
@@ -457,7 +776,7 @@ Ready to Join Us?
 If you're a junior ML enthusiast who loves solving problems and wants to make a significant impact in a growing company, we would love to hear from you. Apply now to be part of our journey to revolutionise manufacturing!
 
 Apply here: https://additiveassurance.zohorecruit.com.au/jobs/Careers/12844000000302856/Junior-Machine-Learning-Engineer"
-89462002,Data Engineer,Aspirante,https://www.seek.com.au/job/89462002?type=standard&ref=search-standalone&origin=jobCard#sol=9277ac8d39ec3853250d69b586a374518636365d,4h ago,4.0,2026-01-06T00:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Aspirante is working with a government organisation, with national reach to assist in their search for a Data Engineer to join a high-performing Data & Technology team delivering impactful data solutions that support evidence-based decision making.
+89462002,Data Engineer,Aspirante,https://www.seek.com.au/job/89462002?type=standard&ref=search-standalone&origin=jobCard#sol=cb7e76c4f0218ed5bec6a8dae152898095348fe3,5h ago,5.0,2026-01-06T00:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Aspirante is working with a government organisation, with national reach to assist in their search for a Data Engineer to join a high-performing Data & Technology team delivering impactful data solutions that support evidence-based decision making.
 
 You’ll work in a modern data environment, collaborating with data scientists, BI developers, and engineering peers to build secure, high-performance data pipelines, support enterprise analytics, and contribute to real-world outcomes across safety, regulation, and operational performance.
 
@@ -486,7 +805,7 @@ What you bring
 • Experience working in Agile/SCRUM environments
 
 To apply in strict confidence, click the apply now button. Alternatively if you would like to discuss this role in more detail, please feel free to email chenderson@aspirante.com.au to arrange a call."
-89461580,Technical Lead,Lime Recruitment,https://www.seek.com.au/job/89461580?type=standard&ref=search-standalone&origin=jobCard#sol=93bf8f2b75491353b6807ebc47ba6a7051c5b10d,4h ago,4.0,2026-01-06T00:00:00+00:00,Brisbane QLD,Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"IT Technical Lead – Data & Analytics 6-month contract | Brisbane + WFH
+89461580,Technical Lead,Lime Recruitment,https://www.seek.com.au/job/89461580?type=standard&ref=search-standalone&origin=jobCard#sol=118776b3f7f3fe6d965a7163f001d341be850875,5h ago,5.0,2026-01-06T00:00:00+00:00,Brisbane QLD,Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"IT Technical Lead – Data & Analytics 6-month contract | Brisbane + WFH
 
 We’re recruiting an experienced IT Technical Lead – Data & Analytics to support a significant Operational Technology (OT) uplift program within a large Queensland-based utilities organisation. This role will play a key part in delivering modern, scalable data and analytics solutions that replace manual, paper-based processes and improve data quality across operational environments.
 
@@ -552,7 +871,7 @@ Why apply through Lime Recruitment?
 Enjoy two pay runs per week without contractor fees. As a Queensland-owned agency, we offer personalised service and are a Tier 1 supplier to the Queensland Government. Awarded Australia’s top-performing small agency in 2021 and 2022, with a finalist spot in 2023. Partner with Lime for genuine, experienced, friendly recruiters dedicated to securing the best opportunities for you.
 
 Apply now or contact Daniel Keyte on 0433 013 200 or daniel@limejobs.com.au to find out more."
-89460380,Infrastructure Engineer - Servers,Morgan McKinley,https://www.seek.com.au/job/89460380?type=standard&ref=search-standalone&origin=jobCard#sol=f44cdf77fb3d291b5aa7371165bbdcace34b6785,5h ago,5.0,2026-01-05T23:00:00+00:00,Sydney NSW,Engineering - Network (Information & Communication Technology),Full time,$140k - $160k p.a.,"Infrastructure Engineer
+89460380,Infrastructure Engineer - Servers,Morgan McKinley,https://www.seek.com.au/job/89460380?type=standard&ref=search-standalone&origin=jobCard#sol=0e50dd16473ade2b28acf0778a3731233cc383c1,6h ago,6.0,2026-01-05T23:00:00+00:00,Sydney NSW,Engineering - Network (Information & Communication Technology),Full time,$140k - $160k p.a.,"Infrastructure Engineer
 
 12 month contract
 
@@ -594,7 +913,7 @@ Ability to provide technical leadership and communicate effectively with stakeho
 Comfortable working under pressure, managing multiple priorities, and delivering to deadlines.
 Certifications such as ITIL, CCNP, VCP, MCITP are highly regarded.
 Experience in regulated or professional-services environments (legal, financial, consulting) is a bonus."
-89457004,"Software Engineer, Network Security",Google,https://www.seek.com.au/job/89457004?type=standard&ref=search-standalone&origin=jobCard#sol=5820c7057992eeadb1c8b8b7641747af8e46ff27,11h ago,11.0,2026-01-05T17:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+89457004,"Software Engineer, Network Security",Google,https://www.seek.com.au/job/89457004?type=standard&ref=search-standalone&origin=jobCard#sol=c4118e497f47c823b316ae0be3a39e6dfb3dbcf2,13h ago,13.0,2026-01-05T16:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -628,7 +947,7 @@ Design and implement services to scan millions of assets and report vulnerabilit
 Develop and maintain security services to manage security artifacts used by Google's global infrastructure.
 Work with the cross-functional team partners to understand their requirements and build the products to meet those requirements.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-89456430,Head of AI & Automation,AustralianSuper,https://www.seek.com.au/job/89456430?type=standard&ref=search-standalone&origin=jobCard#sol=4239e3ee2d39a29730e51ee789757dd9a15082ef,14h ago,14.0,2026-01-05T14:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"At AustralianSuper, we truly care about our colleagues.​ We know work and life are intertwined. That’s why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members. We are dedicated to building a high-performance environment underpinned by a strong risk culture, ensuring we deliver the best outcomes for our members.
+89456430,Head of AI & Automation,AustralianSuper,https://www.seek.com.au/job/89456430?type=standard&ref=search-standalone&origin=jobCard#sol=a38396b8c64c241189d64970f0399910cb69ff32,15h ago,15.0,2026-01-05T14:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"At AustralianSuper, we truly care about our colleagues.​ We know work and life are intertwined. That’s why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members. We are dedicated to building a high-performance environment underpinned by a strong risk culture, ensuring we deliver the best outcomes for our members.
 
 Your New Role 
 
