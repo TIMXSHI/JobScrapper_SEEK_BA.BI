@@ -1,5 +1,139 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89498019,AI Engineer,Professional Search Group,https://www.seek.com.au/job/89498019?type=standard&ref=search-standalone&origin=jobCard#sol=6fa97fbbba91602d37a0970c06c5f4e611eb8444,1h ago,1.0,2026-01-07T01:00:00+00:00,Perth WA (Hybrid),Analysts (Consulting & Strategy),Full time,AUD 200000 - 250000 per annum,"AI Lead
+89501045,Staff Software Engineer - AI Powered Engineering,Commonwealth Bank,https://www.seek.com.au/job/89501045?type=standard&ref=search-standalone&origin=jobCard#sol=f17944ca7562c641ce464f4df0fc105913038c71,1h ago,1.0,2026-01-07T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Staff Software Engineer - AI Powered Engineering 
+
+**Sydney or Melbourne locations**
+
+Engineer the future of software delivery at Australia’s largest bank!
+
+We’re building the next generation of AI-powered engineering capabilities at CommBank—tools and platforms that materially improve how thousands of engineers build, ship, and operate software.
+
+If you’re a technical lead who thrives in complex environments, enjoys working across many stakeholders, and is curious about how AI can responsibly uplift engineering productivity, this role is for you.
+
+
+
+
+Do work that matters
+
+You’ll be part of the AI Powered Engineering function, whose mandate is clear: Responsibly embed AI-assisted tools and capabilities that improve developer experience, delivery velocity, and software quality across the bank.
+
+This is not a data science role. It’s about engineering systems, platforms, and workflows that integrate AI into real-world software delivery—safely, pragmatically, and at enterprise scale.
+
+
+
+
+About the team
+
+We’re a hands-on, product-minded engineering team operating at the intersection of:
+
+Platform engineering
+
+Developer productivity
+
+Applied AI & AI Ops
+
+We experiment, validate, and scale AI-enabled capabilities such as:
+
+AI-powered engineering tools (e.g. Patchwork, Project Coral, Roo Code)
+
+Knowledge assistants for internal engineering and compliance information
+
+Automation for API documentation, controls, and compliance workflows
+
+AI Ops solutions in partnership with Cyber teams (e.g. incident response support)
+
+
+
+
+Everything we build is grounded in safety, reliability, and measurable impact.
+
+What you’ll do
+
+As a Staff Software Engineer, you’ll operate as a senior technical leader and multiplier:
+
+Collaborate on complex technical problems from discovery through to production.
+
+Translate business and engineering needs into clear technical designs and delivery plans.
+
+Experiment with AI, GenAI, and automation tools—running fit-for-purpose evaluations and sharing grounded recommendations.
+
+Design and deliver resilient, reusable services and components that integrate into existing platforms and pipelines.
+
+Contribute to architecture discussions and role-model engineering best practices.
+
+Maintain high-quality codebases through active code reviews and documentation.
+
+Work across a broad stakeholder landscape (often 50+ stakeholders) to align roadmaps and land change with minimal disruption.
+
+Provide technical guidance and mentorship to engineers, uplifting engineering craft and AI literacy across teams.
+
+What you bring
+
+Technical capability
+
+Extensive experience as a software engineer with proficiency in one or more of: Python, Java, C#, TypeScript, Node.js
+
+Experience building and operating microservices and event-driven systems.
+
+Cloud experience with AWS, Azure, or GCP (e.g. Lambda/Functions, ECS/AKS, API Gateway, Step Functions).
+
+Familiarity with:
+
+REST and/or gRPC APIs
+
+SQL and data pipelines
+
+Observability and engineering productivity metrics
+
+Strong DevSecOps practices:
+
+CI/CD (GitHub, GitLab, Azure DevOps)
+
+Infrastructure as Code (Terraform)
+
+Secure software supply chain practices (SAST/DAST/SCA, secrets management)
+
+Desirable
+
+Exposure to API or AI developer tools (e.g. Roo Code, Claude, CLI-based tools).
+
+Familiarity with cybersecurity frameworks such as NIST.
+
+Experience partnering with Cyber or Risk teams on secure engineering initiatives.
+
+If this sounds like you, apply today.
+
+We support flexibility with a hybrid approach—at least half your time each month connecting in office—plus options such as adjusted start/finish times, part‑time, and job share"
+89498930,Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89498930?type=standard&ref=search-standalone&origin=jobCard#sol=3b010134cb27106fb649be4b75ce7bb3c881188e,2h ago,2.0,2026-01-07T02:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,$900 - $1k p.d.,"Talent International is currently recruiting a Data Engineer - Databricks | Python | SQL to work for the NSW Government, based in Parramatta (Hybrid). This is a long term contract. The role pays $900 - $1000/day + Super.
+
+A large, government-backed organisation is expanding its Data Science & Analytics capability and is looking for multiple experienced Data Engineers to help build and support a modern, cloud-based data platform.
+
+This is a hands-on role where you will work in an agile SCRUM team delivering high-quality data pipelines that support analytics, reporting, and machine learning solutions used at scale. You will ideally come from software engineering background and understand SDLC.
+
+Key Requirements ;
+
+Build and maintain data pipelines using Python, SQL and Databricks (Spark)
+Support analytics, BI and data science workloads
+Perform data modelling, profiling and validation
+Work with APIs, databases and cloud-based data services
+Follow CI/CD, testing, code reviews and release processes
+Support and improve existing data platforms and workflows
+
+What you'll bring;
+
+4+ years in data or software engineering
+Strong skills in Python and SQL
+Experience with Databricks / Apache Spark
+Experience building data pipelines and integrations
+Solid understanding of relational databases and data modelling
+Experience working in Agile / SCRUM teams
+
+Nice to have
+
+Databricks or Azure certifications
+Experience in regulated or enterprise environments
+
+Apply now to be considered."
+89498019,AI Engineer,Professional Search Group,https://www.seek.com.au/job/89498019?type=standard&ref=search-standalone&origin=jobCard#sol=1ed866d8dc25337fb9fb912201ea413939d820b8,3h ago,3.0,2026-01-07T01:00:00+00:00,Perth WA (Hybrid),Analysts (Consulting & Strategy),Full time,AUD 200000 - 250000 per annum,"AI Lead
 
 Location: Perth, WA (Hybrid)
 Type: Permanent
@@ -51,7 +185,7 @@ High-trust environment with room to shape GenAI strategy and standards
  
 
 If you’re interested, please email thana@psgaus.com.au"
-89497913,Data Engineer,Emanate Technology Pty Ltd,https://www.seek.com.au/job/89497913?type=standard&ref=search-standalone&origin=jobCard#sol=9ff7270c63740076a9f1c06091b9e3445b533aa5,1h ago,1.0,2026-01-07T01:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Data Engineer 
+89497913,Data Engineer,Emanate Technology Pty Ltd,https://www.seek.com.au/job/89497913?type=standard&ref=search-standalone&origin=jobCard#sol=79ed886727882c0bcd91cfe00a0c9b68693f8191,3h ago,3.0,2026-01-07T01:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Data Engineer 
 
 About the Opportunity
  
@@ -80,7 +214,7 @@ Why this opportunity?
 
 
 We are an inclusive employer committed to fostering a diverse and accessible workplace. We encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, LGBTQIA+ individuals, people of all ages, and those from culturally and linguistically diverse backgrounds."
-89500397,Head of AI,EML Group,https://www.seek.com.au/job/89500397?type=standard&ref=search-standalone&origin=jobCard#sol=f9083e89011fbcdeb7f9deb74f6bfeb74ca7a543,1h ago,1.0,2026-01-07T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"EML is a leading Workers Compensation and Personal Injury Claims Management business. Our goal is to help people get their lives back through ongoing support during their return-to-work journey. We continue to experience ongoing growth and now have over 4,000 dedicated employees. We foster a learning culture that allows for us to continually invest in our employees ensuring a long-term career here at EML.
+89500397,Head of AI,EML Group,https://www.seek.com.au/job/89500397?type=standard&ref=search-standalone&origin=jobCard#sol=72e7e5b66c1ee6e5d5f5b4e4df4d9d90fbb2232e,3h ago,3.0,2026-01-07T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"EML is a leading Workers Compensation and Personal Injury Claims Management business. Our goal is to help people get their lives back through ongoing support during their return-to-work journey. We continue to experience ongoing growth and now have over 4,000 dedicated employees. We foster a learning culture that allows for us to continually invest in our employees ensuring a long-term career here at EML.
 
 THE OPPORTUNITY
 
@@ -157,7 +291,7 @@ Up to 16 weeks paid parental leave, plus super
 
 
 We value our people and are committed to supporting our employees by investing in their professional development and providing generous employee benefits. If this position is of interest to you, please apply now."
-89495842,AI / ML Engineer,S2M,https://www.seek.com.au/job/89495842?type=standard&ref=search-standalone&origin=jobCard#sol=1d36e63803e9b3879a70bb734ecae7a4d9f46691,2h ago,2.0,2026-01-07T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200K-300K,"About the Client
+89495842,AI / ML Engineer,S2M,https://www.seek.com.au/job/89495842?type=standard&ref=search-standalone&origin=jobCard#sol=0960b699559217a2167d8a33e804ae2240b920a3,4h ago,4.0,2026-01-07T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200K-300K,"About the Client
 
 We're working with an independent Artificial General Intelligence Lab that is pushing the limits of agentic AI, structured reasoning, and compact model architectures. They’re a small but well-funded team operating right at the edge of what’s possible. Their focus isn’t on simply scaling bigger models, but on building systems that can reason, act, and persist over time.
 
@@ -190,7 +324,7 @@ This is a chance to be the engineer building the foundations for some of the mos
 Salary: $200K-300K+Super
 
 E: ross.gordon@s2m.com.au"
-89494721,AI Platform Engineer,Techtronic Industries,https://www.seek.com.au/job/89494721?type=standard&ref=search-standalone&origin=jobCard#sol=6670c80ebf35ba45ae97be6ac829dc5437ba5ddb,3h ago,3.0,2026-01-06T23:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Engineering - Network (Information & Communication Technology),Full time,Competitive salary package on offer,"Techtronic Industries (TTI) is a global organisation, a world-class leader in quality consumer and professional products marketed to the home improvement and construction industries. The TTI brands like MILWAUKEE, RYOBI, AEG, VAX and many others are recognised worldwide for their deep heritage, superior quality, outstanding performance and compelling innovation.
+89494721,AI Platform Engineer,Techtronic Industries,https://www.seek.com.au/job/89494721?type=standard&ref=search-standalone&origin=jobCard#sol=916c1e636ffc784593a847163b9523a25ff27bc8,5h ago,5.0,2026-01-06T23:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Engineering - Network (Information & Communication Technology),Full time,Competitive salary package on offer,"Techtronic Industries (TTI) is a global organisation, a world-class leader in quality consumer and professional products marketed to the home improvement and construction industries. The TTI brands like MILWAUKEE, RYOBI, AEG, VAX and many others are recognised worldwide for their deep heritage, superior quality, outstanding performance and compelling innovation.
 
 Through an ongoing company-wide commitment to cordless technology, innovation and strong customer partnerships, TTI consistently delivers exciting new products that enhance customer satisfaction and productivity. We are committed to ensuring our people have a great experience at TTI, so in addition to an exciting and challenging role we also provide:
 
@@ -232,7 +366,7 @@ Knowledge of AI frameworks (LangChain, Semantic Kernel, or similar).
 Familiarity with responsible AI practices.
 
 If you fit the above attributes and are excited at the prospect of joining a successful global organisation, then APPLY NOW"
-89493982,Director Level - Enterprise AI Architect,The Argyle Network,https://www.seek.com.au/job/89493982?type=standard&ref=search-standalone&origin=jobCard#sol=d50e2f862ccc7b66731c677d68086450fe736a6b,4h ago,4.0,2026-01-06T22:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,"AUD 220 - 250 per annum, + Super/Bonus/Stock/Bens","About the Team
+89493982,Director Level - Enterprise AI Architect,The Argyle Network,https://www.seek.com.au/job/89493982?type=standard&ref=search-standalone&origin=jobCard#sol=c2059f402bb41c387db3191f31b179e60baca6ef,5h ago,5.0,2026-01-06T23:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,"AUD 220 - 250 per annum, + Super/Bonus/Stock/Bens","About the Team
 The Enterprise Data & AI Architecture team sits at the intersection of strategy and delivery, shaping how Artificial Intelligence is designed, governed, and scaled across a complex enterprise. The team works hands-on with engineers, architects, and senior leaders to turn emerging AI capabilities into secure, production-ready platforms that deliver real business impact for this well-known Australian Bank.
 
 You’ll be joining a collaborative, modern engineering culture that values experimentation, pragmatic design, and building things that actually get used.
@@ -261,7 +395,7 @@ Why This Role
 This is a rare opportunity to shape AI architecture in an environment with real scale, real constraints, and real impact — while still working in a fast-moving, modern engineering culture. You’ll have the freedom to influence direction, the backing to do things properly, and the challenge of making AI work in the real world.
 
 If you’re excited by building pragmatic AI foundations that enable teams to move fast and safely, we’d love to hear from you."
-89493770,Engineering Manager - AI,Preacta Recruitment,https://www.seek.com.au/job/89493770?type=standard&ref=search-standalone&origin=jobCard#sol=e0011e85b00fefd25fbe16a84ddfba1ddbed7d89,4h ago,4.0,2026-01-06T22:00:00+00:00,Sydney NSW (Hybrid),Management (Engineering),Full time,,"Engineering Manager – Enterprise AI Platforms
+89493770,Engineering Manager - AI,Preacta Recruitment,https://www.seek.com.au/job/89493770?type=standard&ref=search-standalone&origin=jobCard#sol=4fcb9742eae579c5532c66bb5b8abaf8de9d3db5,6h ago,6.0,2026-01-06T22:00:00+00:00,Sydney NSW (Hybrid),Management (Engineering),Full time,,"Engineering Manager – Enterprise AI Platforms
 
 $230,000 - $250,000 + Bonus + Super
 
