@@ -1,1 +1,54 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+89592265,Senior Data Engineer,Precision Sourcing,https://www.seek.com.au/job/89592265?type=standard&ref=search-standalone&origin=jobCard#sol=d99088297c433ba9a1795e3e365c52ad456842ae,1h ago,1.0,2026-01-10T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$170000 - $180000 + super + equity + bonus,"We are working with a highly backed AI SaaS company entering a rapid scale-up phase. Their platform sits at the intersection of forecasting, automation, and agentic AI, and data infrastructure is the backbone of it all.
 
+This is a critical technical hire as you will take ownership of a large, complex Databricks environment. You will rebuild the entire eco-system to enable scale with confidence, speed, and cost discipline. This is not a maintenance role, it is a platform reset.
+
+You will own DataOps and MLOps across AWS and Databricks, acting as both hands-on engineer and architectural decision-maker. The first part of this role is the responsibility of a full overhaul of the entire Databricks platform, while working closely with the founders, data science, and AI team.
+
+This role is for someone who thrives in fast-paced scale-up environments and is comfortable pushing boundaries.
+
+The Role:
+
+You will lead a complete Databricks environment revamp
+Migrating off a legacy metastore to Unity Catalog
+Re-architect orchestration using Databricks tooling such as Lakeflow Jobs and Flows
+Improving cost efficiency and observability across large datasets at multi-billion record scale
+Establishing strong data governance foundations, including GDPR-aware handling of PII
+Designing clean, scalable dimensional models suited to analytics and ML workloads
+This work directly impacts platform reliability, ML velocity, and company margins.
+
+Responsibilities
+
+Own DataOps and MLOps across AWS and Databricks
+Design, build, and operate reliable ingestion and orchestration pipelines across batch, streaming, and CDC workloads
+Own the MLOps platform, currently SageMaker and Step Functions, with the mandate to evolve or migrate to Databricks MLflow where it makes sense
+Set standards for data quality, lineage, testing, and observability
+Drive cost efficiency and FinOps discipline across the data platform
+Partner closely with data science, AI, and security to ensure the platform is trusted, compliant, and scalable
+Make clear architectural decisions and be accountable for outcomes
+
+Required Experience
+
+Deep hands-on experience with Databricks in production environments
+Strong experience with Unity Catalog and modern Databricks orchestration patterns
+Solid understanding of data governance concepts, especially around PII and compliance
+Experience designing dimensional models for analytics and Machine Learning
+Strong AWS fundamentals (Bedrock, Sagemaker, Step Functions EC2)
+Comfortable working with dbt, PySpark & PostgreSQL
+Experience operating data platforms at scale
+
+Nice to Have
+
+Exposure to Databricks Genie or AI-assisted development workflows
+Familiarity with agentic systems, LLM tooling, or AI copilots
+
+NB:
+
+Applicants must be located in Sydney
+Must have Australian Permanent Residency/Citizenship
+
+Package
+
+Base salary in the range of $170k to $180k plus super
+Strong equity through ESOP
+Performance-based incentives tied to platform outcomes and impact"
