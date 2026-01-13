@@ -1,5 +1,730 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89631028,Systems Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/89631028?type=standard&ref=search-standalone&origin=jobCard#sol=a5b798f13ae38bb5c52714facf92bc3c21f0914d,1h ago,1.0,2026-01-12T22:00:00+00:00,Canberra ACT,Networks & Systems Administration (Information & Communication Technology),Full time,Base + Super + Leidos Life Days,"Life Days are the Leidos way of recognising that we all need extra time to take care of life. By working slightly more than the minimum weekly hours (2 hours per week for full-timers), you can accrue up to 12 days of leave per year.
+89634898,Senior Detection Engineer,Kinetic IT,https://www.seek.com.au/job/89634898?type=standard&ref=search-standalone&origin=jobCard#sol=ccc69d844ee2587b327361ff4346e6e00afb79f2,1h ago,1.0,2026-01-13T01:00:00+00:00,Perth WA (Hybrid),Security (Information & Communication Technology),Full time,Weekly Pay | Professional Development,"Kinetic IT is looking for an experienced Senior Detection Engineer to join our Security Operations Centre (SOC) and play a key role in advancing our global detection and automation capability.
+
+This role is focused on engineering scalable, high-fidelity threat detections, strengthening SOC maturity, and driving consistent, high-quality security outcomes across our client base.
+
+You’ll take ownership of the global detection use case library, work deeply with Microsoft Sentinel and SIEM/SOAR platforms, and help shape how modern detection engineering is delivered across Kinetic IT.
+
+ 
+
+Responsibilities will include:
+
+Designing and maintaining a global SIEM detection use case library, ensuring consistent threat coverage across clients
+Developing high-fidelity detection rules and analytics aligned to evolving adversary techniques and the MITRE ATT&CK framework
+Continuously tuning detection logic to improve precision, reduce false positives, and uplift analyst effectiveness
+Supporting SIEM onboarding by mapping new log sources and translating detection coverage without loss of visibility
+Integrating SIEM detections with SOAR playbooks to automate response and containment actions
+Driving adoption of DevOps and CI/CD practices for detection engineering and ruleset management
+Acting as an early adopter of new security, automation, and detection technologies, translating innovation into operational capability
+Providing technical leadership and mentoring to SOC analysts, embedding detection engineering best practice
+Managing high-quality documentation and governance for global and customer-specific detection libraries
+
+ 
+
+What you’ll bring to the table:
+
+Extensive experience in detection engineering, threat detection, or advanced SOC roles
+Strong hands-on expertise with Microsoft Sentinel and modern SIEM platforms
+Advanced proficiency in Kusto Query Language (KQL)
+Deep understanding of MITRE ATT&CK, NIST, and threat-informed defence principles
+Experience building and maintaining SIEM detection use cases, rules, dashboards, and reports
+Strong understanding of SOAR, automation, and repeatable incident response
+Experience with DevOps, Git, and CI/CD pipelines for detection and content deployment
+Strong documentation, communication, and stakeholder engagement skills
+A forward-thinking mindset with a passion for innovation and emerging security technologies
+Understanding of frameworks and cyber/governance standards (NIST/MITRE ATT&CK/ISO27001/SOCCMM/IRAP)
+
+ 
+
+Certifications (Highly Regarded):
+
+Microsoft SC-200 – Security Operations Analyst
+Microsoft AZ-500 – Azure Security Engineer
+MITRE ATT&CK Defender (MAD)
+SANS SEC555 / SEC599
+
+About Kinetic IT
+
+Kinetic IT is a leading Australian IT services provider specialising in Intelligent Workplace, Cloud, Cyber Security, Digital Infrastructure and IT Service Management. We are unlocking the potential of technology to enrich lives of Australian communities.
+
+For more than 25 years, we’ve partnered with some of Australia’s most important organisations, helping them deliver essential services relied upon by our communities including government, critical infrastructure, education, law enforcement, defence, emergency services, utilities, and transport.
+
+Be You, Create the Future
+
+At Kinetic IT, we’re driven by a shared passion for technology, customer success, and community impact.
+
+With over 1,500 talented people working across Australia, we deliver world-class capabilities with a local touch – helping shape the future of tech, here and beyond.
+
+We value individuality and foster an inclusive culture where you’re safe to be your best, real self. We tackle challenges together, celebrate success together, and make sure everyone feels valued, supported, and proud of the work they do.
+
+As an equal opportunity employer, we welcome people of all abilities, backgrounds, cultures, and genders. We’re proud to be an Indigenous and Veteran-friendly employer.
+
+The Kinetic IT Difference
+
+Growth-focused culture – Formal training, mentoring, vendor exam support, communities of practice and regular development reviews.
+Advance your career – Access new roles via our internal ‘Opportunity Marketplace’ careers hub.
+Flex your work – Hybrid options, flexible hours, mobility and part-time roles (customer needs permitting) and a variety of leave options (including paid parental leave and purchased leave) to suit your needs
+Celebrate together – Social events, cultural celebrations, end-of-year functions, DEI belonging events and more.
+Wellbeing matters – Health and wellness resources and events, free skin and health checks, free flu shots, tailored leave and support options, free and confidential EAP and access to Fitness Passport.
+
+How To Apply
+
+Work with us as we bring technology to life. Apply today or send your CV direct to careers@kineticit.com.au.
+
+You can learn more about our culture and crew online at kineticit.com.au."
+89634893,Senior Detection Engineer,Kinetic IT,https://www.seek.com.au/job/89634893?type=standard&ref=search-standalone&origin=jobCard#sol=4bc62f4ac22508123b4d23acb76c7652e5e4d7bd,1h ago,1.0,2026-01-13T01:00:00+00:00,Canberra ACT (Hybrid),Security (Information & Communication Technology),Full time,Weekly Pay | Professional Development,"Kinetic IT is looking for an experienced Senior Detection Engineer to join our Security Operations Centre (SOC) and play a key role in advancing our global detection and automation capability.
+
+This role is focused on engineering scalable, high-fidelity threat detections, strengthening SOC maturity, and driving consistent, high-quality security outcomes across our client base.
+
+You’ll take ownership of the global detection use case library, work deeply with Microsoft Sentinel and SIEM/SOAR platforms, and help shape how modern detection engineering is delivered across Kinetic IT.
+
+ 
+
+Responsibilities will include:
+
+Designing and maintaining a global SIEM detection use case library, ensuring consistent threat coverage across clients
+Developing high-fidelity detection rules and analytics aligned to evolving adversary techniques and the MITRE ATT&CK framework
+Continuously tuning detection logic to improve precision, reduce false positives, and uplift analyst effectiveness
+Supporting SIEM onboarding by mapping new log sources and translating detection coverage without loss of visibility
+Integrating SIEM detections with SOAR playbooks to automate response and containment actions
+Driving adoption of DevOps and CI/CD practices for detection engineering and ruleset management
+Acting as an early adopter of new security, automation, and detection technologies, translating innovation into operational capability
+Providing technical leadership and mentoring to SOC analysts, embedding detection engineering best practice
+Managing high-quality documentation and governance for global and customer-specific detection libraries
+
+ 
+
+What you’ll bring to the table:
+
+Extensive experience in detection engineering, threat detection, or advanced SOC roles
+Strong hands-on expertise with Microsoft Sentinel and modern SIEM platforms
+Advanced proficiency in Kusto Query Language (KQL)
+Deep understanding of MITRE ATT&CK, NIST, and threat-informed defence principles
+Experience building and maintaining SIEM detection use cases, rules, dashboards, and reports
+Strong understanding of SOAR, automation, and repeatable incident response
+Experience with DevOps, Git, and CI/CD pipelines for detection and content deployment
+Strong documentation, communication, and stakeholder engagement skills
+A forward-thinking mindset with a passion for innovation and emerging security technologies
+Understanding of frameworks and cyber/governance standards (NIST/MITRE ATT&CK/ISO27001/SOCCMM/IRAP)
+
+ 
+
+Certifications (Highly Regarded):
+
+Microsoft SC-200 – Security Operations Analyst
+Microsoft AZ-500 – Azure Security Engineer
+MITRE ATT&CK Defender (MAD)
+SANS SEC555 / SEC599
+
+About Kinetic IT
+
+Kinetic IT is a leading Australian IT services provider specialising in Intelligent Workplace, Cloud, Cyber Security, Digital Infrastructure and IT Service Management. We are unlocking the potential of technology to enrich lives of Australian communities.
+
+For more than 25 years, we’ve partnered with some of Australia’s most important organisations, helping them deliver essential services relied upon by our communities including government, critical infrastructure, education, law enforcement, defence, emergency services, utilities, and transport.
+
+Be You, Create the Future
+
+At Kinetic IT, we’re driven by a shared passion for technology, customer success, and community impact.
+
+With over 1,500 talented people working across Australia, we deliver world-class capabilities with a local touch – helping shape the future of tech, here and beyond.
+
+We value individuality and foster an inclusive culture where you’re safe to be your best, real self. We tackle challenges together, celebrate success together, and make sure everyone feels valued, supported, and proud of the work they do.
+
+As an equal opportunity employer, we welcome people of all abilities, backgrounds, cultures, and genders. We’re proud to be an Indigenous and Veteran-friendly employer.
+
+The Kinetic IT Difference
+
+Growth-focused culture – Formal training, mentoring, vendor exam support, communities of practice and regular development reviews.
+Advance your career – Access new roles via our internal ‘Opportunity Marketplace’ careers hub.
+Flex your work – Hybrid options, flexible hours, mobility and part-time roles (customer needs permitting) and a variety of leave options (including paid parental leave and purchased leave) to suit your needs
+Celebrate together – Social events, cultural celebrations, end-of-year functions, DEI belonging events and more.
+Wellbeing matters – Health and wellness resources and events, free skin and health checks, free flu shots, tailored leave and support options, free and confidential EAP and access to Fitness Passport.
+
+How To Apply
+
+Work with us as we bring technology to life. Apply today or send your CV direct to careers@kineticit.com.au.
+
+You can learn more about our culture and crew online at kineticit.com.au."
+89634581,Data Engineer,UpperGround by Hudson,https://www.seek.com.au/job/89634581?type=standard&ref=search-standalone&origin=jobCard#sol=db9591f4d94a1c3e84dd0dec6e966027a69a8e25,1h ago,1.0,2026-01-13T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,"AUD 100 - 110 per hour, + super","Our client is currently seeking a Data Engineer to join their Infrastructure Services Division and work closely with Business Analysts and key business representatives to design and build on an existing Data Warehouse and Power BI reporting suite ensuring reliability, scalability and usability.
+
+In this role you will be responsible for designing, developing, and maintaining modern, scalable data solutions on Microsoft Azure Fabric, integrating data from multiple sources into a modern data warehouse architecture. This role focuses heavily on developing advanced analytics solutions and interactive Microsoft Power BI dashboards to support data-driven decision-making across the Division.
+
+As the Data Engineer, you will:
+
+Conduct data analysis and profiling to support business requirements and improve data quality.
+Design and implement scalable and secure data warehouse solutions (Bronze, Silver and Gold Layers) using Microsoft Fabric and Azure related services.
+Develop Source to Target Mapping documentation.
+Manage automated ETL/ELT data pipelines and metadata framework to integrate data from multiple source systems. Build semantic models and datasets within Fabric for analytics and reporting.
+Develop interactive, visually engaging Power BI reports and dashboards aligned to user needs and business outcomes.
+Ensure we optimise query performance and ensure the reliability of data platforms.
+Manage Documentation of architecture, data flows and code, following best practice standards and version control principles.
+Work as part of a team in an agile principle-based work environment.
+Develop and maintain relationships with key Stakeholders across the business, as well as ICT technical teams to enable delivery.
+ 
+What you’ll bring to the role:
+
+Proven experience in data warehousing, data integration, and business intelligence.
+Hands-on experience with Microsoft Fabric and Fabric/Azure Data Factory.
+Strong development experience with Power BI (DAX, data modelling, Power Query).
+Proficiency in Python and SQL within Microsoft Fabric Notebooks is highly desirable.
+Experience working with relational databases in cloud environments (e.g., Azure SQL, SQL Server in Microsoft Fabric)
+Understanding of data architecture, Datawarehouse data modelling principles (star/snowflake schemas).
+Experience with ETL/ELT processes and tools.
+Familiarity with DevOps practices and working in agile teams.
+Excellent communication and documentation skills.
+Exposure to CI/CD pipelines for Fabric/BI assets.
+Exposure to data governance and metadata management practices highly desirable.
+HOW TO APPLY:
+Please submit your resume for consideration via the appropriate link. A cover letter demonstrating your relevant experience may also be reviewed.
+
+Should you wish to discuss, please contact Jemma Walker at Jemma.Walker@hudson.com quoting reference number: 248095. Your interest will be treated in the strictest of confidence.
+
+
+Diversity, Equity & Inclusion at Hudson
+Hudson is committed to helping you find a workplace where you feel respected, supported, and free to thrive. We welcome applications from all backgrounds, identities, and lived experiences—because when different voices come together, amazing things happen.
+
+Casual Loading 
+Please note for all Australian based contract and temporary roles only, the pay rate is inclusive of mandatory 25% casual loading. This excludes permanent and fixed term roles."
+89634433,Midrange Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/89634433?type=standard&ref=search-standalone&origin=jobCard#sol=6665b39aa62a40c98e1e6c48c75ecb848919664d,1h ago,1.0,2026-01-13T01:00:00+00:00,"Scoresby, Melbourne VIC",Networks & Systems Administration (Information & Communication Technology),Full time,Competitive Salary + Accrue RDO’s,"Life Days are the Leidos way of recognising that we all need extra time to take care of life. By working slightly more than the minimum weekly hours (2 hours per week for full-timers), you can accrue up to 12 days of leave per year.
+Leidos Life Hub provides access to discount offers or cashback rewards with over 400 Australian and International retailers.
+Due to the nature of the role, you must be an Australian Citizen and hold an active NV-1 AGVSA Security Clearance.
+
+Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers
+
+Do Work That Matters
+
+Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life.  Our 2000 local experts, backed by our global experience and network of partners, are working to solve the world's toughest challenges in government, intelligence, defence, aviation, border protection and health markets.
+
+Expression of Interest
+
+We anticipate an increase in work to support upcoming projects and are proactively building a pipeline of talented professionals to meet this demand.
+
+Your New Role and Responsibilities
+
+At Leidos Australia, our Matrix Engineering Team is a hub of technical excellence, supporting mission-critical programs across Defence, Intelligence, and Federal Government portfolios.
+
+As a Midrange Engineer, you will:
+
+Manage and optimize VMware vCenter, ESXi clusters, vSAN, and related technologies.
+Translate customer requirements into detailed designs and supporting services for complex PaaS solutions.
+Develop and maintain automation for provisioning and orchestration using Ansible/Terraform; create reusable IaC modules and templates.
+Automate vCenter operations such as VM provisioning, patching, compliance, and policy enforcement.
+Produce technical documentation and provide subject matter expertise to resolve complex technical issues.
+
+What You'll Bring to Make an Impact
+
+Extensive experience with VMware VCF solutions, plus integration with networks and other services.
+Demonstrated experience in both programming and infrastructure, with proficiency in automation tools like Ansible and Terraform.
+Proficiency in Microsoft Windows Server (2012-2022), Active Directory, DNS, DHCP, and DFS.
+Microsoft Certified Solutions Expert (MCSE), VMware Certified Professional (VCP), and ITIL Foundation.
+Experience with enterprise-level backup products and storage technologies.
+
+Don't worry if you don't tick all the boxes - if you meet most of them, we encourage you to submit your application.  We're most interested in your strengths, what you want to learn and how far you want to go.
+
+Diverse Team Members, Shared Values and a Common Purpose
+
+Providing our customers with smarter solutions takes an incredible team with diversity of thought, experience and perspectives driving innovation. Inclusion is at the heart of our culture and is one of our core values. It's about creating a workplace where everyone can do important work, feels welcome, valued, and respected, and has equal access to opportunities to thrive. Paul Chase - Chief Executive, Leidos Australia.
+
+Leidos Australia is an equal opportunities organisation and is committed to creating a truly inclusive workplace. We welcome and encourage applications from Aboriginal and Torres Strait Islanders, culturally and linguistically diverse people, people with disabilities, veterans, neurodiverse people, and people of all genders, sexualities, and age groups.
+
+Our five Advocacy Groups (Women and Allies Network, Young Professionals, Defence & Emergency Services, Action for Accessibility and Abilities and Pride+) provide an opportunity for team members to connect and collaborate on shared interests, and work to support and celebrate our diverse community.
+
+Next Steps
+
+To apply for this role, follow the links or apply via our Careers page.
+Recruitment process - 1 virtual interview and/or 1 face-to-face & background checks.
+Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1.
+We are committed to making our recruitment process accessible to all candidates. Please get in touch with our Careers team careers.au@au.leidos.com if you'd like to discuss any additional support during your application or throughout the recruitment process."
+89633691,AI Engineer,Nuage Technology Group,https://www.seek.com.au/job/89633691?type=standard&ref=search-standalone&origin=jobCard#sol=af026af2a3cb7d577208a7453c03943cae40c8f2,1h ago,1.0,2026-01-13T01:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Nuage has partnered with an Australian-owned SaaS product company that's scaling rapidly across APAC. As part of this growth, they're building a large-scale SearchOps platform and are looking for an engineer with experience designing and scaling intelligent search systems.
+
+This role sits at the intersection of search engineering, AI, and platform engineering. It's not a traditional ELK or log-search role; the focus is on human-centred search, combining proven search principles with modern AI-driven approaches.
+
+What you'll be working on:                     
+
+Designing, operating, and scaling large OpenSearch environments
+Building hybrid search systems using lexical, semantic, and vector-based approaches
+Applying LLMs and AI patterns to improve relevance, discovery, and user experience
+Working with AWS Bedrock, Vertex AI, Anthropic, and related AI tooling
+Developing and maintaining ETL pipelines (Python, Airflow, Search API templates)
+Contributing as a strong software engineer 
+Supporting DevOps practices, including infrastructure as code, serverless architectures, and logging/monitoring
+Experience needed:
+
+In-depth OpenSearch experience 
+Software engineering background 
+Knowledge of GenAI technologies 
+DevOps exposure 
+This is a growing company that's scaling globally, and they offer flexible working (this position can be worked anywhere in Australia). You will be working in a small senior AI team and have the chance to get hands-on experience across the latest AI technologies."
+89633605,Data Engineer,Easts Group | Sydney Roosters,https://www.seek.com.au/job/89633605?type=standard&ref=search-standalone&origin=jobCard#sol=b0514f2ad4477ffaac0466b3e6b1f21f34de7d79,1h ago,1.0,2026-01-13T01:00:00+00:00,"Moore Park, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"The Sydney Roosters are one of Australia’s most iconic rugby league clubs — a foundation team with a proud history of performance and resilience. We’re doing more than building winning teams on the field — we’re building the systems, data foundations and technology that will shape the future of the Club.
+
+We’re growing our data capability from the ground up, creating a modern, cloud-driven environment where engineering excellence directly influences athlete performance, operational decision-making and long-term strategy. It’s a rare chance to work in a greenfield space with the backing of a major sporting organisation and the opportunity to define standards, architecture and best practice from day one.
+
+If you’re a data engineer who loves solving real problems, building clean systems with purpose, and leaving a legacy that will grow for years to come, you’ll feel right at home with us.
+
+About the role
+
+You’ll help shape our data future by building a modern AWS data platform from the ground up.
+
+Lead our data platform build from day one
+
+Own strategy + hands-on engineering
+
+Create clean, scalable, high-impact systems
+
+Responsibilities
+
+Design and implement core AWS data infrastructure (Redshift, S3, Glue, Lambda, Step Functions, ECS, etc.)
+
+Build reliable data ingestion pipelines across product, operational and external systems
+
+Establish foundations for analytics and transformation workflows (SQL / dbt-style)
+
+Partner with internal teams and consultants to define data contracts and key source-of-truth datasets
+
+Shape the Club’s first enterprise data warehouse
+
+Implement data observability, quality, lineage, and testing frameworks
+
+Champion best practice, documentation and continuous improvement
+
+About You – Skills, Experience & What You Bring
+
+You love data engineering in environments where you can build, influence and innovate. You enjoy solving complex problems, shaping architecture, and collaborating with people who value your expertise.
+
+You’ll thrive with us if you have:
+
+4–7+ years’ experience in data engineering or data platform roles, ideally in greenfield or early-stage platform builds
+
+Strong AWS experience (Redshift, S3, Glue, Athena, Lambda, Kinesis)
+
+Proficiency in Python and SQL, plus experience in ETL/ELT design, data modelling and orchestration tools (Airflow, Prefect, Dagster)
+
+A pragmatic approach to building scalable foundations where pipelines and processes are evolving
+
+The ability to communicate clearly with non-technical stakeholders
+
+A sense of ownership — you want to define how data flows across an organisation and leave a lasting impact.
+
+If you're ready to take on a role where your work creates real impact, apply now and help shape the next chapter of our data capability."
+89625255,Forward Deployed Engineer,Employment Compass,https://www.seek.com.au/job/89625255?type=standard&ref=search-standalone&origin=jobCard#sol=27f3aa07ec2b1dd265060724c9f8051992fbc82b,2h ago,2.0,2026-01-13T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"$120,000 per year + profit share","About Us
+
+Employment Compass is an HR consulting firm building something different: a technology-enabled professional services business that scales through automation, not headcount. We've already built document generators, transcript action processing, and automated workflows using Claude Code and MCP integrations.
+
+Now we need someone to own this. We're growing exponentially and instead of doubling the team, we want to build technology that multiplies capacity. The tools you create will be used immediately in production with real clients - and could eventually become products.
+
+About the Role
+
+This is a ground-floor opportunity to build and own the technology layer of a scaling business. You won't be handed specs - you'll be embedded with the team, identifying bottlenecks, and building solutions that directly impact revenue. We're looking for someone who's excited by Claude Code, MCP servers, and modular tool design. Someone who wants to take what we've started and run with it.
+
+Build document generators, workflow automation, and AI-powered processing pipelines
+
+Extend our Claude Code setup with new skills, commands, and MCP integrations
+
+Design modular, composable tools following our framework principles
+
+Work directly with the founder to identify high-impact automation opportunities
+
+Shape the technical roadmap and grow into leading the engineering function
+
+What You'll Bring
+
+We're looking for someone who ships. You don't need to be an expert in everything, but you should be comfortable working across the stack and learning fast.
+
+Strong Python and JavaScript/TypeScript skills
+
+Experience building with LLMs - Claude, GPT, or similar APIs
+
+Document processing aptitude (Word, PDF, Excel programmatically)
+
+Self-directed with strong product instincts
+
+Bonus: Claude Code, MCP protocol, or agent development experience
+
+What We Offer
+
+This is a rare opportunity: greenfield development with immediate production impact, direct founder access, and a clear path to technical leadership.
+
+Full ownership of technical direction - no legacy code, no tech debt
+
+Remote with genuine flexibility (outcomes over attendance)
+
+Direct access to business decisions and strategy
+
+Modern tooling: Claude Code, AI-assisted development, cloud-native stack
+
+Equity discussion possible for the right candidate
+
+How to Apply
+
+Send your resume, GitHub profile or code samples, and a brief note on why this interests you and something you've built that you're proud of. No cover letter required - show us what you've built."
+89631829,Artificial Intelligence (AI) Governance,Department of Defence,https://www.seek.com.au/job/89631829?type=standard&ref=search-standalone&origin=jobCard#sol=90e2de53a914bd058e28f349bea137383ab09296,3h ago,3.0,2026-01-12T23:00:00+00:00,"Russell, Canberra ACT","Teaching - Tertiary (Education & Training)
+Government - Federal (Government & Defence)",Full time,"$120,303 - $135,701 (EL 1) + Super","The Role
+
+Are you a dynamic, motivated and innovative person looking for a career opportunity in emerging technology governance? If so, join us in shaping the future of Army capability through a newly established position within the Army’s Robotics and Autonomous Systems Implementation Coordination Office (RICO).
+
+As the EL 1 Artificial Intelligence Governance Lead, you will drive the implementation of responsible AI governance in the land domain. You will develop Army’s AI governance capability and provide guidance enabling land programs and units to develop AI use cases with clear pathways for introduction into capability.
+
+Your responsibilities include:
+
+Implement the Land Domain AI Governance Framework across Army programs and capabilities.
+Enable Army to develop AI use cases aligned with Land force missions and our legal and policy obligations.
+Coordinate risk assessments, compliance reviews, and assurance activities for AI-enabled systems in the land domain.
+Provide advice to Army’s senior leadership on managing accountabilities, enabling infrastructure systems, and applying controls to AI-enabled systems.
+Build Army’s AI governance capability within the Defence AI ecosystem.
+Support the development of sovereign AI governance capacity across industry and academia.
+
+About our Team
+
+The Defence Autonomy Centre - Land (DAC-L) is a team within RICO responsible for coordinating and governing Artificial Intelligence (AI) in the land domain.
+
+The DAC-L assures AI-enabled capabilities on behalf of the Land Domain Capability Manager, supports land projects with AI adoption, and ensures the responsible use of AI in the land domain. 
+
+This role offers a unique opportunity to be at the forefront of Artificial Intelligence (AI) adoption and governance in the land domain. 
+
+Army is implementing the Land Domain AI Governance Framework to guide the design, development, testing and certification, delivery, deployment, and use of AI-enabled land capabilities across their lifecycle.
+
+This ensures AI-enabled systems are resilient, scalable, and deliver practical solutions that enhance Army’s future readiness and ensure alignment with Government policy and legal obligations.
+
+Our Ideal Candidate
+
+You are an emerging technology leader who bridges legal and policy, procedural, and technical enabling areas to fill the EL1 Artificial Intelligence Governance role. 
+
+You will bring:
+
+Knowledge of emerging technology governance, risk, and compliance, ideally with experience in highly regulated sectors or national security.
+Understanding of contemporary autonomous systems and AI systems of control.
+Strong, pragmatic, analytical, and problem-solving skills.
+Excellent written and verbal communication skills.
+Experience with cross-functional stakeholder management, including legal, policy, military operational, and technical practitioners.
+Strong technical leadership and people management skills.
+Advanced degree in computer science, mathematics, or a related discipline.
+
+Application Closing Date: Wednesday 28 January 2026
+
+For further information please review the job information pack, reference ARMY/09412/25 on https://defencecareers.nga.net.au/?jati=BEE62B4A-7FCD-2D52-A7DF-E4778D4F1879"
+89631644,Principal Engineer (Data & AI Platform) - 12 Months Contract - AWS SageMaker,Allura Partners,https://www.seek.com.au/job/89631644?type=standard&ref=search-standalone&origin=jobCard#sol=1461e2e91c8e8207b2af55cc74676da44ccc9159,3h ago,3.0,2026-01-12T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,135,"Principal Engineer (Data & AI Platform) - 12 Months day rate Contract - AWS SageMaker
+
+About the company
+Our client is a major Australian enterprise undergoing significant AI-driven transformation. The organisation is scaling its data and AI capability, investing in modern platforms, and building future-ready foundations to enable secure, enterprise-wide AI innovation.
+
+About the role
+This Principal Data Engineer role leads the hands-on build of a new AI and ML platform. Reporting to a Product Owner and working in a small cross-functional team, it drives platform engineering, architecture, delivery, and user enablement across the enterprise.
+
+Benefits
+
+Competitive daily rate
+High-impact greenfield program
+Opportunity to set enterprise AI platform standards
+Flexible ways of working
+Work with modern cloud-native technologies and emerging AI capability
+Duties / Key responsibilities
+
+Lead the build and operationalisation of the AI Workbench platform
+Develop CI/CD, IaC, architecture artefacts, and scalable platform components
+Provide technical leadership across cloud-native AI/ML services
+Support user onboarding, platform adoption, optimisation, and performance
+Mentor engineers and collaborate across architecture, security, and product teams
+Skills and experience
+
+10+ years delivering large-scale data and AI/ML platforms
+Expertise across AWS (SageMaker, Bedrock, S3, IAM) and cloud-native engineering
+Strong skills in Terraform/CloudFormation and CI/CD
+Experience establishing platform engineering standards in greenfield environments
+Ability to translate architecture into actionable technical design
+Strong collaboration, communication, and problem-solving skills
+Familiarity with LLMs, GenAI tooling, and prompt engineering (desirable)
+AWS or DevOps/ML Ops certifications (desirable)
+If you’re interested in this opportunity and feel you’re the right fit please click “apply” 
+
+About Allura Partners
+Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
+
+Principal Engineer (Data & AI Platform) - 12 Months day rate Contract - AWS SageMaker"
+89631365,Application Cloud Engineer,Allied Credit Pty Ltd,https://www.seek.com.au/job/89631365?type=standard&ref=search-standalone&origin=jobCard#sol=3f96cfa89fa2a89a45f643da53f17ab0cd83f968,3h ago,3.0,2026-01-12T23:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Engineering - Network (Information & Communication Technology),Full time,Competitive Salary + Annual Bonus,"Application Cloud Engineer
+
+Location – Macquarie Park, Sydney
+
+New headcount to elevate the capabilities of our Applications & Data team.
+Join an ambitious firm which is growing, evolving & increasing its headcount.
+Allied Credit has a hybrid work environment; we understand the value of a work-life balance.
+
+Allied Credit is a leading vehicle finance firm with strategic alliances with global car, marine and motorcycle brands. Offering white label, joint venture and floorplan finance, our proprietary software provides a seamless, convenient and customer-focused finance service to consumers and businesses.
+
+We are seeking an Application Cloud Engineer for a senior technical role focused on designing, implementing, and optimising secure, scalable and cost-effective Microsoft Azure solutions across Allied Credit. It requires hands-on platform engineering and automation to enable development teams while ensuring compliance, resilience and operational excellence. The role collaborates with architects, delivery teams, and support functions to align cloud platforms with business objectives and regulatory requirements for production-critical systems.
+
+What you will be doing
+
+Designing and implementing secure, cost-effective Azure architectures for enterprise and vendor-hosted applications, ensuring compliance and resilience.
+Developing reference architectures and reusable patterns to standardise cloud deployments.
+Building and maintaining platform components and automation using Infrastructure as Code (IaC) with Bicep and Azure DevOps pipelines.
+Design and manage CI/CD pipelines with integrated security and compliance checks for efficient delivery.
+Configuring and optimising Azure networking (VNets, VPN, NSG, Private Endpoints) and implement secure connectivity patterns.
+Applying best practices for identity, access management and data protection, enforcing security controls across all layers.
+Implementing monitoring, alerting and disaster recovery solutions to ensure system reliability and proactive incident management.
+Creating clear architecture diagrams, technical documentation and operational guides, and communicating effectively with stakeholders.
+Providing technical leadership and mentorship, collaborating with cross-functional teams to drive continuous improvement.
+Offering 3rd-level support and assisting in production incident resolution, contributing to post-incident reviews and cost optimisation.
+
+Your background
+
+Proven experience as a Cloud Architect or Platform Engineer in enterprise environments.
+Strong proficiency in Microsoft Azure services (Compute, Storage, Networking, Security).
+Hands-on experience with Azure DevOps, YAML pipelines and Bicep/ Terraform templates.
+Solid understanding of networking concepts (VNets, Subnets, NSGs, routing) with knowledge of cloud security principles and compliance frameworks.
+A past career as a .NET Developer and experience with Kubernetes for deploying App Services would be viewed favourably.
+Excellent communication skills and ability to produce high-quality diagrams and documentation.
+Ability to work autonomously and collaboratively in a fast-paced environment.
+Experience working in the Finance and Banking industry would be desirable but it is not essential.
+
+Why work for Allied Credit?
+
+Work-life balance - hybrid working arrangements allow a balance of working from home and the office, and we are always willing to discuss flexible working options.
+Wellness day to take a day off for some R&R around your birthday and a Volunteer Day to support your community.
+Discount offers on selected retailers, car loans and novated leasing options.
+A learning environment where we take your development and career aspirations seriously.
+16 weeks of paid parental leave along with Salary Continuance Insurance.
+
+We want individuals who will buy into and thrive with Allied Credit’s Values of Customer Focus, Adaptability, Risk Confidence, Integrity and Teamwork.
+
+Allied Credit pledges to treat all candidates with the utmost respect and professionalism throughout the recruitment process. We promise to conduct a fair, transparent, and inclusive hiring process, ensuring that all candidates are evaluated based on their skills, experience, and potential, regardless of race, gender, age, disability, sexual orientation or any other irrelevant characteristic.
+
+Please contact Alex Kelly on 0484 109 354 for a confidential discussion. For further information on Allied Credit, please visit our website at https://alliedcredit.com.au/ or email hrservices@alliedcredit.net.au."
+89631322,Senior AI & Data Consultant - Fractional,MFTE Staffing Services,https://www.seek.com.au/job/89631322?type=standard&ref=search-standalone&origin=jobCard#sol=6655e7aafa1ee908420866a6cce3cc747c743c52,3h ago,3.0,2026-01-12T23:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Casual/Vacation,$160 – $200 per hour,"AI & Data/ML Consultant (Fractional | Contract)
+
+Firesoft Services (FSS) | Sydney (Hybrid/Flexible) | ABN Contractor
+
+- Work directly with the CEO to scope, win, and deliver AI & Data/ML engagements
+- Design POCs (RAG, Agentic AI), data assessments, and light-lift implementations
+- Ad-hoc/fractional model (e.g., 3-5 days/week) with flexibility around live projects
+
+About FSS
+
+Firesoft Services is a Sydney-based consultancy focused on Data, Cloud and AI. We help enterprise and SME teams modernise data platforms, uplift governance, and stand up practical GenAI/Agentic AI pilots that stick.
+
+The Opportunity
+
+We’re looking for a hands-on AI Data/ML Consultant to partner directly with the CEO on ad-hoc engagements. You’ll jump into client discovery, shape solution options, build lean prototypes, and help turn pilots into ongoing work.
+
+What you’ll do
+
+Co-design solutions with clients: run discovery workshops, define scope/KPIs, and produce SoWs/proposals.
+
+Build credible prototypes: RAG over enterprise content, Agentic AI workflows (plan→act→observe), and small data apps.
+
+Advisory & governance: data readiness checks, security/PII guardrails, evaluation plans, and handover docs.
+
+Integration touchpoints: wire to common tools (e.g., Teams/Email, ServiceNow/Jira, Snowflake/Databricks, AWS/GCP/Azure).
+
+Pre-sales enablement: craft architecture diagrams, effort estimates, timelines, and client-ready decks.
+
+Knowledge transfer: concise runbooks, enablement sessions, and “next-step” roadmaps.
+
+What you bring
+
+5+ years in data/ML/AI or adjacent software delivery, including client-facing work.
+
+Hands-on with Python and one cloud (AWS/GCP/Azure). Comfort with LLM frameworks (LangChain/LangGraph/LlamaIndex), vector stores, and retrieval patterns.
+
+Solid grasp of governance & safety (prompt safety, PII redaction, audit logs, human-in-the-loop).
+
+Ability to talk to execs and engineers: convert business pain into a pragmatic, measurable pilot.
+
+Comfortable with ad-hoc/fractional engagement style and moving fast on small, high-impact deliverables.
+
+Sydney or Australian-time-zone based.
+
+Nice to have: Snowflake/Databricks; ServiceNow/Jira integrations; MLOps basics; experience in retail, financial services, or government.
+
+Why Firesoft
+
+Direct impact: sit 1:1 with the CEO on strategy, bids, and delivery.
+
+Variety & velocity: tight POCs that turn into real programs.
+
+Flexibility: shape your weeks around live engagements (ABN contractor).
+
+Reach: access to enterprise/gov clients and a pipeline that needs sharp operators.
+
+How to apply (SEEK)
+
+Hit Apply with:
+
+Your CV or LinkedIn.
+
+A short note (200–300 words) on a GenAI/Agentic AI or Data pilot you’ve delivered (goal, stack, outcome).
+
+Availability (days/week) and indicative day rate (ABN).
+
+We review applications as they come in and will be in touch with next steps. If you want to have a quiet chat first, mention this in your note."
+89631302,Senior AI Engineer,Novigi Pty Ltd,https://www.seek.com.au/job/89631302?type=standard&ref=search-standalone&origin=jobCard#sol=e800d268b620ffd9231e07761b877d0b49d7652c,3h ago,3.0,2026-01-12T23:00:00+00:00,Sydney NSW (Hybrid),Superannuation (Insurance & Superannuation),Full time,,"Novigi is a specialist AI, Data, and Technology partner to Australia’s Financial Services and Insurance industry. We work with leading banks, insurers, superannuation funds, and wealth managers to unlock real business value from data and AI responsibly, securely, and at scale.
+
+You will join our fast-growing Group AI team, a core strategic function with a clear mandate to build AI-powered solutions and products that shape the future of financial services. In this role, you will lead the development of Agentic AI solutions at Novigi, translating ideas into production grade capability.
+
+Role Description:
+
+The Senior AI Engineer is a hands-on technical role responsible for building, deploying, and operating AI solutions for Novigi while ensuring solutions meet the security, performance, and compliance requirements of regulated financial services environments.
+
+Key Responsibilities:
+
+· Architect and deliver end-to-end AI solutions that solve complex business problems and unlock new opportunities.
+
+· Rapidly prototype AI agents that help users get through complex workflows using AI-generated code, test, and scale production-grade AI systems using modern tools and frameworks.
+
+· Build our internal agent framework including MCP servers, tool connectors, evaluation patterns.
+
+· As a leader, help engineers get better at AI-assisted development.
+
+· Collaborate closely with data scientists, engineers, business analysts and testers to ensure seamless delivery
+
+· Monitor, maintain, and continuously improve deployed AI applications for performance, reliability, and scalability
+
+· Apply Responsible AI practices, including explainability, traceability, and bias considerations.
+
+· Ensure solutions adhere to security, privacy, and data governance requirements relevant to FSI.
+
+· Stay current with emerging AI patterns, including agentic AI frameworks, orchestration tools, and LLM platforms.
+
+Essential Qualifications & Experience:
+
+· 3-6+ years of experience in software engineering with full stack experience preferred
+
+· Demonstrable experience in developing AI agents and automation workflows, multi-agent orchestration, MCP servers, and evaluation.
+
+· Experience with agent frameworks (e.g. LangGraph, AutoGen, CrewAI or similar).
+
+· Experience in shortening development timelines through the use of AI-generated code.
+
+· You can prototype a React UI when needed.
+
+· Proven experience designing and deploying Retrieval-Augmented Generation (RAG) systems.
+
+· Exposure to knowledge graphs is a strong advantage.
+
+· Experience deploying AI solutions across cloud platforms (AWS, Azure, or Google Cloud)
+
+· Familiarity with monitoring, observability, and support for production AI systems.
+
+· Microsoft certifications highly regarded, particularly Azure AI Engineer
+
+· Bachelor's degree in Engineering, Computer Science, Mathematics, or a related discipline.
+
+· Experience working in or delivering solutions for financial services or other regulated industries is highly advantageous.
+
+If successful, you will find yourself working within an experienced, energetic, and collaborative team environment, with a great focus on stability, and career development.
+
+Only those candidates chosen to proceed will be contacted."
+89631287,Founding Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89631287?type=standard&ref=search-standalone&origin=jobCard#sol=7c0e8cecef85b0c28781175af87ed97264aa0c37,3h ago,3.0,2026-01-12T23:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"Founding Engineer - North Sydney (Onsite, 5 days/week)
+
+Talent International is partnering with a leading, hyper-growth AI company to hire their next Founding Engineer.
+
+
+
+Role Snapshot
+
+Role Title: Founding Engineer
+
+Contract Length: Permanent (salary open depending on experience)
+
+Location + WFH Flexibility: North Sydney, 5 days onsite
+
+Salary: Open & highly competitive (includes top-of-market equity)
+
+Project: Building and scaling next-generation AI consumer products
+
+Client Industry: AI / Consumer Tech
+
+Start Date: ASAP
+
+Interview Process:
+
+
+Coffee chat
+
+1-hour system design interview
+
+Short paid work trial
+
+Offer (top of market + equity)
+
+
+
+About the Opportunity
+
+We're working with one of Australia's most exciting AI product companies - one of the fastest-growing consumer AI apps globally, hitting 10M+ users in under a year with a team of only 12. They're profitable, bootstrapped, and scaling at Silicon Valley speed.
+
+
+
+This is a rare chance to join as one of the first five engineers, working directly with repeat founders and an elite engineering team in North Sydney.
+
+
+
+What You'll Be Doing
+
+You'll build across the full stack, own problems end-to-end, and ship at extreme speed. Expect to work directly with the CTO on bleeding-edge AI challenges.
+
+
+
+Examples of what you might ship
+
+
+Real-time AI video calling with
+GPU orchestration for millions of image generations per day
+Testing/optimising in-house models and LoRAs for 10-100M users
+Full feature ownership: user understanding → idea → build → ship → iterate
+Tech Stack: TypeScript, Next.js, React, TailwindCSS, tRPC, Postgres, Temporal
+
+
+
+Who They're Looking For
+
+They hire only exceptional engineers.
+
+
+Extremely smart, rapid learner
+Full-stack builder who ships fast
+High agency and low ego
+Works well in an intense, fast-paced, talent-dense environment
+Someone who builds outside of work (side projects, OSS, niche tools, competitions)
+Comfortable working onsite 5+ days per week
+Comfortable that some customer segments operate in the adult industry
+
+Why This Role Is Exceptional
+
+Opportunity
+
+
+Top 50 global AI consumer app in
+Possibly the fastest-growing bootstrapped startup in Australia
+Profitable with strong revenue-no VC pressure
+Salary above market + meaningful equity
+Technology
+
+
+Real AI infrastructure (not API wrappers)
+Running their own GPUs, custom training, and rapid scaling
+Millions of images/messages generated daily
+Exposure to cutting-edge tools like Temporal and Planetscale
+Team
+
+
+Repeat founders with previous multimillion-dollar exit
+Ex-VC, ex-CTO, founders newly returned from SF
+Team of 12 doing the work of what's usually 30-50 engineers
+No silos - complete ownership and autonomy
+Intense, hardworking culture of people who love to build
+
+Mission
+
+They're building a new category of adaptive, interactive entertainment- AI experiences that evolve as you engage.
+
+Think beyond TikTok/YouTube: this is entertainment that responds in real time.
+
+
+
+If this sounds like you, apply now.
+
+This is a career-defining opportunity to build at the frontier of AI with one of the most exciting engineering teams in Australia."
+89631028,Systems Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/89631028?type=standard&ref=search-standalone&origin=jobCard#sol=e3caab5ad2594aeda9e9d13107530ba4ec368af8,4h ago,4.0,2026-01-12T22:00:00+00:00,Canberra ACT,Networks & Systems Administration (Information & Communication Technology),Full time,Base + Super + Leidos Life Days,"Life Days are the Leidos way of recognising that we all need extra time to take care of life. By working slightly more than the minimum weekly hours (2 hours per week for full-timers), you can accrue up to 12 days of leave per year.
 Leidos Life Hub provides access to discount offers or cashback rewards with over 400 Australian and International retailers.
 Due to the nature of the role, you must be an Australian Citizen and hold an active NV-2 AGSVA security clearance.
 
@@ -45,7 +770,7 @@ To apply for this role, follow the links or apply via our Careers page.
 Recruitment process - 1 virtual interview and/or 1 face-to-face & background checks.
 Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1.
 We are committed to making our recruitment process accessible to all candidates. Please get in touch with our Careers team careers.au@au.leidos.com if you'd like to discuss any additional support during your application or throughout the recruitment process."
-89630750,Senior AI Engineer,LMI Group,https://www.seek.com.au/job/89630750?type=standard&ref=search-standalone&origin=jobCard#sol=43d80651324d3f390aae0397a90a21c9f69024bb,1h ago,1.0,2026-01-12T22:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $160,000 per year","About the Role
+89630750,Senior AI Engineer,LMI Group,https://www.seek.com.au/job/89630750?type=standard&ref=search-standalone&origin=jobCard#sol=74ed40a9b5c9b4cc77a7fe6d094adbb2cf248d7b,4h ago,4.0,2026-01-12T22:00:00+00:00,"Camberwell, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $160,000 per year","About the Role
 
 We are seeking a Senior or Mid-level AI Engineer to advance our AI transformation. In this role, you will bridge the gap between our existing Azure, .NET, and React-based enterprise systems with modern Azure AI capabilities, designing and delivering scalable AI solutions that provide measurable business value. You will work closely with technical teams and business stakeholders to implement intelligent solutions that enhance workflows and drive innovation across the organization.
 
@@ -90,7 +815,7 @@ Generative & Agentic AI: Demonstrated experience building Generative and Agentic
 If you are looking for a growing and rewarding career in IT, please submit your resume and cover letter for consideration. Applications submitted without a resume and cover letter will not be considered. We look forward to hearing from you!
 
 Please be aware that you must have the right to live and work in Australia."
-89626847,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/89626847?type=standard&ref=search-standalone&origin=jobCard#sol=4cd391d3e90639748eb8318ebcccbd2aebe846e5,1h ago,1.0,2026-01-12T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$135,000 + Super","Microsoft Fabric Data Engineer 
+89626847,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/89626847?type=standard&ref=search-standalone&origin=jobCard#sol=974795adfe7b99eaa335d9adba865dc85739d8c5,4h ago,4.0,2026-01-12T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$135,000 + Super","Microsoft Fabric Data Engineer 
 
 $135,000 + Super
 
