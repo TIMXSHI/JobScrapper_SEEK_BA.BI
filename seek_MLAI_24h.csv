@@ -1,5 +1,132 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89660393,"Senior Software Engineer, Network Security",Google,https://www.seek.com.au/job/89660393?type=standard&ref=search-standalone&origin=jobCard#sol=af55fe588dcaaa72670cbee0dc20b2b8a4c64f89,7h ago,7.0,2026-01-13T15:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+89663550,Cloud Architect and Data Architect (2roles),Canberra Consulting,https://www.seek.com.au/job/89663550?type=standard&ref=search-standalone&origin=jobCard#sol=fd67a139b9fb7df5dfcf21c8292316ef71985bc3,1h ago,1.0,2026-01-13T22:00:00+00:00,Canberra ACT,Architects (Information & Communication Technology),Full time,$135 – $145 per hour,"Start: in February 2026 - 12 months + 2x12
+Hours: Up to 8 hours per day
+Work arrangement: Hybrid (multi-location)
+Clearance: Must be an Australian citizen and with Baseline clearance
+
+
+
+
+About Us
+
+Canberra Consulting supplies highly skilled professionals across government and enterprise. We focus on fit for both clients and candidates, and we support you to thrive in high-impact delivery environments.
+
+The Opportunity
+
+The Cloud Infrastructure, Architecture and Strategy team is transforming to deliver the Department's Digital Strategy 2025–2030. We are seeking two EL1-equivalent architects for an initial contract to 30 June 2026, with two extension options (up to 12 months each).
+
+This procurement covers two priority capability streams:
+
+Cloud Architect (Primary Priority): Lead the design of the department's future-state cloud capability, including the Cloud Operating Model, Azure Landing Zone architecture, SaaS lifecycle roadmaps, and legacy migration into cloud-native or hybrid environments.
+
+Data Architect (Primary Priority, with data engineering depth): Design the strategy to consolidate legacy data stores into a unified modern cloud data platform, with hands-on architectural capability across ETL/ELT, data pipelines, and technical data governance to scale enterprise analytics and AI.
+
+Candidates with additional Solution or Security Architecture experience are welcome, but these are secondary.
+
+Key Responsibilities
+Cloud Architect (Azure)
+
+Define the future-state cloud capability, including Cloud Operating Model and Landing Zone architecture.
+
+Develop lifecycle roadmaps for the SaaS portfolio to prevent platform sprawl and maintain architectural coherence.
+
+Provide technical leadership for legacy application migration to cloud-native or hybrid environments.
+
+Contribute to robust architectural governance and decision-making across delivery streams.
+
+Data Architect (with Data Engineering depth)
+
+Design the technical strategy for consolidating legacy data stores into a modern cloud data platform.
+
+Architect modern data ingestion and transformation patterns (ETL/ELT), including pipelines and data flows (for example Azure Data Factory, Databricks).
+
+Design for scale across enterprise analytics and AI use cases.
+
+Define technical data governance standards and support adoption via governance forums.
+
+Shared expectations (both roles)
+
+Apply enterprise architectural frameworks and produce high-quality artefacts (HLDs, blueprints, roadmaps).
+
+Translate complex concepts for senior non-technical stakeholders and negotiate with vendors and delivery partners.
+
+Operate effectively in (or help establish) governance boards and design authorities (e.g., ARB).
+
+Essential Criteria (what you’ll need)
+
+Demonstrated experience applying architectural frameworks in complex environments (e.g., TOGAF, SABSA, DAMA).
+
+Deep technical capability in Microsoft Azure, designing secure, scalable cloud solutions.
+
+Strong communication and influence, including executive-level engagement and vendor negotiation.
+
+Strategic mindset: roadmaps, lifecycle management, and moving beyond “fix-it” operations.
+
+Proven experience operating within architectural governance (ARB/design authorities).
+
+Australian citizenship and ability to obtain Baseline clearance.
+
+How to apply
+
+Apply via SEEK with your CV and a short note indicating which stream you’re targeting"
+89663530,Technology Analyst,Sime Motors Australia,https://www.seek.com.au/job/89663530?type=standard&ref=search-standalone&origin=jobCard#sol=f43cee491803c35dfd35aa22ae82c0d31d54193a,1h ago,1.0,2026-01-13T22:00:00+00:00,"Rydalmere, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Are you a tech-savvy professional passionate about data, automation, and innovation?
+
+
+
+Do you thrive in dynamic environments and want to make an impact in the automotive industry? If so, we'd love for you to join our team at Sime Motors Group.
+
+
+
+The Role
+
+As a Digital Technology Specialist, you will drive technology implementation and support Sime Darby Motors businesses with application software and business processes. Your work will enable informed decisions, improve productivity, and accelerate digitalisation.
+
+
+
+You'll be involved in:
+
+
+Defining and managing requirements for technology solutions
+Automating business processes using platforms like Power Automate
+Developing dashboards and reports with Power BI
+Applying data analytics, visualisation, and machine learning techniques to solve business problems.
+
+
+What We Need From You
+
+
+Degree in Computer Science, Computer Engineering, or related field
+Minimum 3 years' experience in BI solutions and data analytics (Power BI expertise essential)
+Proficiency in SQL, Python, Power BI, and process automation platforms
+Hands-on experience with data science and machine learning techniques
+Strong communication skills and ability to work across functions
+Passion for innovation and continuous improvement
+Experience in the automotive industry or consulting is a plus
+
+About Us
+
+Part of the Sime Darby Group, a Fortune 500 company operating across 17 countries, we are committed to delivering exceptional customer experiences and continuous innovation.
+
+Possessing unique partnerships with brands such as BMW, MINI, Jaguar & Land Rover, Rolls Royce, Porsche, and Volkswagen, Sime Motors is pioneering the way forward in bridging opportunities for our customer base.
+
+
+
+
+
+Why Work With Us?
+
+
+Competitive base salary
+Opportunity to work for one of the largest companies in the APAC region
+Professional development and study support
+Health & Wellbeing Bonus Claim, Birthday Leave
+Employee benefits account with discounts on groceries, fuel, vehicles, and more
+A safe, friendly, diverse, and supportive team environment
+
+
+
+If you're ready to drive digital transformation and make an impact, we want to hear from you!"
+89660393,"Senior Software Engineer, Network Security",Google,https://www.seek.com.au/job/89660393?type=standard&ref=search-standalone&origin=jobCard#sol=38791daecbb127b39de8073146f925b0bb518079,8h ago,8.0,2026-01-13T15:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -26,7 +153,7 @@ Design and implement services to scan assets and report vulnerabilities.
 Develop and maintain security services to manage security artifacts used by Google's global infrastructure.
 Work with the cross-functional team partners to understand their requirements and build the products to meet those requirements.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-89660051,Senior Machine Learning Engineer - AI Platform Enablement (ANZ remote),Canva,https://www.seek.com.au/job/89660051?type=standard&ref=search-standalone&origin=jobCard#sol=883dbc2a1e10eda399ae210af0be4a61a75fbb50,7h ago,7.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89660051,Senior Machine Learning Engineer - AI Platform Enablement (ANZ remote),Canva,https://www.seek.com.au/job/89660051?type=standard&ref=search-standalone&origin=jobCard#sol=7f432921f4d540fc3eb2b2e120f1340bf96fb07e,8h ago,8.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -112,7 +239,7 @@ Check out  lifeatcanva.com for more info.
 Other stuff to know
 
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
-89660049,Senior Machine Learning Engineer - Canva AI (ANZ remote),Canva,https://www.seek.com.au/job/89660049?type=standard&ref=search-standalone&origin=jobCard#sol=30cc92339b42b48bb89ac1c67db99bbc30c26e1b,7h ago,7.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89660049,Senior Machine Learning Engineer - Canva AI (ANZ remote),Canva,https://www.seek.com.au/job/89660049?type=standard&ref=search-standalone&origin=jobCard#sol=84bff78366fe5b9c6cc5a74c23538e567ad8f0b8,8h ago,8.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
