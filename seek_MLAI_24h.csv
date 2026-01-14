@@ -1,5 +1,333 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89663550,Cloud Architect and Data Architect (2roles),Canberra Consulting,https://www.seek.com.au/job/89663550?type=standard&ref=search-standalone&origin=jobCard#sol=fd67a139b9fb7df5dfcf21c8292316ef71985bc3,1h ago,1.0,2026-01-13T22:00:00+00:00,Canberra ACT,Architects (Information & Communication Technology),Full time,$135 – $145 per hour,"Start: in February 2026 - 12 months + 2x12
+89667655,Senior Consultant–Generative AI & MLOps,BTI Executive Search,https://www.seek.com.au/job/89667655?type=standard&ref=search-standalone&origin=jobCard#sol=c2c5b6a49655f0b950425e4748163506b75e0ca0,1h ago,1.0,2026-01-14T01:00:00+00:00,Melbourne VIC,Consultants (Information & Communication Technology),Full time,,"BTI Executive Search are advertising this role on behalf of our client, EXL Service Australia Pty Ltd, a global analytics and digital solutions company delivering tailored AI and data-driven solutions across multiple industries. EXL partners with leading organisations across insurance, healthcare, banking and capital markets, retail, media and communications, and energy and infrastructure to help reimagine business models, deliver measurable outcomes, and accelerate innovation.
+
+EXL Service is currently seeking a qualified and experienced Senior Consultant specialising in Generative AI & MLOps to support key client within the Banking and Financial Services sector.
+
+This is a full-time, permanent position based in Melbourne, Victoria.
+
+Key Responsibilities:
+Establish and deploy AI-driven solutions tailored to internal audit, compliance, and risk control functions, focusing on automation of manual processes through Generative AI, Retrieval-Augmented Generation (RAG), and LLM orchestration frameworks.
+Design, develop, and manage scalable ML pipelines using Google Cloud Vertex AI, enabling secure, reproducible model deployment across UAT and production environments under SOC2-compliant frameworks.
+Build and operationalize real-time model monitoring and drift detection systems using Prometheus and custom alerting logic, ensuring regulatory-grade reliability of deployed models.
+Lead the implementation of containerized CI/CD pipelines (Docker, Kubernetes, Cloud Build) for secure model versioning, auditability, and enterprise DevOps compliance.
+Optimize training and inference workflows on GPU infrastructure (e.g., NVIDIA A10G), applying TensorFlow and CUDA to meet performance SLAs for high-volume risk and control use cases.
+Collaborate with risk, data governance, and compliance stakeholders to integrate AI solutions with enterprise-wide audit protocols, reduce manual oversight, and align with internal review policies.
+Deliver end-to-end MLOps lifecycle management—from structured/semi-structured data ingestion (Pandas, Spark) through to model tuning, evaluation, retraining, and audit traceability.
+Drive internal research pilots focused on multi-agent LLM orchestration (LangChain, Pinecone) including memory management, agentic task planning, and secure enterprise knowledge retrieval.
+Support the development of benchmarking frameworks to assess control maturity, RCA quality, and AI/ML performance across internal divisions and business units.
+Required Qualification and Experience:
+6–10 years of experience across AI/ML systems, enterprise IT, and risk/regulatory environments (financial services preferred).
+Post-Graduation in Data Science, Information Systems, or Business Analytics.
+Domain exposure in Governance, Risk, and Compliance (GRC), MLOps, and regulatory reporting (e.g., Basel, APRA).
+Required Skills and Attributes:
+Strong ability to design and present technical solutions aligned with internal risk frameworks, security protocols, and regulatory controls.
+Demonstrated stakeholder engagement experience across compliance, audit, and IT leadership functions.
+Broad expertise in AI system architecture, CI/CD workflows, and observability tooling (e.g., Prometheus, MLflow).
+Advanced knowledge of Python-based data and ML stacks including TensorFlow, Pandas, NumPy, Spark.
+Working experience in programming secure LLM workflows and vector-based retrieval systems using LangChain, Pinecone, and GPT APIs.
+Hands-on knowledge of GCP components (Vertex AI, BigQuery, Cloud Build, GKE).
+Analytical thinking, problem-solving, and ability to work autonomously in high-accountability environments.
+How to apply:
+If you meet the requirements, you can apply directly via SEEK or email your CV to jasmine.kad@btiexecutivesearch.com.au 
+
+Closing date for applications: 13 February 2026"
+89667292,Solution Architect - Data & Integration,Talenza,https://www.seek.com.au/job/89667292?type=standard&ref=search-standalone&origin=jobCard#sol=4ef6004bbf4e4987323c2cd7223560fae942b305,1h ago,1.0,2026-01-14T01:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,$170k - $180k p.a. + + Super + 12% Bonus,"Solution Architect - Data and Integration.
+
+Join a leading organisation driving digital transformation across both corporate IT and operational technology environments. As the Data and Integration Architect, you'll play a pivotal role in shaping and implementing scalable, secure, and future-ready architecture that supports critical business operations, analytics, and decision-making.
+
+Location: Sydney (Hybrid work flexibility)
+Reporting to: Enterprise Architecture Lead
+Dotted Line Reporting: Group Manager, Enterprise Data & Analytics
+Team Size: No direct reports
+Industry: Mining / Utilities / Infrastructure
+
+About the Role
+
+This is a senior architecture role responsible for defining and guiding enterprise-wide data and integration architecture across a complex, asset-intensive environment.
+
+You'll work closely with Enterprise Architecture, Data & Analytics, Engineering, and business stakeholders to ensure data flows securely and reliably across operational systems, integration platforms, and analytics layers - from source systems through to reporting and insight.
+
+The role also plays a key part in architecture governance, contributing to the Architecture Review Board (ARB), uplifting data maturity, and acting as a trusted advisor on integration strategy, data governance, security, and emerging technologies, including AI enablement.
+
+Key Responsibilities
+Define and maintain enterprise data and integration architecture frameworks, standards, and reference patterns.
+Design and govern scalable integration solutions, including APIs, event-based integration, and data pipelines across cloud and on-prem environments.
+Provide architectural oversight across platforms including Boomi, Databricks, Microsoft Fabric, Power BI, and Coalesce.
+Ensure strong alignment between integration, analytics, and reporting layers, including Power BI semantic models and enterprise reporting standards.
+Champion data governance, metadata, lineage, and lifecycle management, supporting the rollout of a formal Data Governance platform (e.g. Alation or KADA).
+Guide delivery teams to ensure solutions meet security, compliance, and architectural standards.
+Contribute to ARB decisions and architecture assurance across integration and data initiatives.
+Evaluate and advise on emerging technologies, including API strategy, MCPs, and AI-ready architecture patterns.
+Collaborate across IT, OT, and business teams, balancing strategic intent with practical delivery.
+Mentor engineers and designers, supporting capability uplift across data and integration disciplines.
+Technology Environment
+
+This organisation is an Azure-first environment, with a modern data and integration stack including:
+
+Integration: Boomi (core), APIs, event-based patterns
+Data & Analytics: Databricks, Microsoft Fabric, Coalesce
+Reporting & BI: Power BI (models and reports)
+Cloud & Platform: Microsoft Azure
+Low-Code / Automation: Power Apps, Power Automate
+Data Governance (incoming): Alation or KADA
+
+Knowledge of API design, integration patterns, and AI-forward architectures will be highly regarded as the platform continues to evolve.
+
+What We're Looking For
+Tertiary qualifications in IT, Computer Science, or a related discipline.
+Strong experience in data and integration architecture within complex enterprise environments.
+Hands-on architectural knowledge across integration platforms, data pipelines, analytics platforms, and reporting layers.
+Experience working in asset-intensive or operational environments (e.g. utilities, infrastructure, mining) is highly desirable.
+Strong understanding of data governance, metadata, and architecture assurance.
+Ability to influence and operate effectively within a matrixed reporting structure.
+Experience uplifting architecture capability in low-to-mid data maturity environments.
+Certifications such as TOGAF, DAMA CDMP, or Microsoft Azure credentials are advantageous.
+
+Open to step-up candidates:
+
+We are open to experienced Solution Designers or early-career Solution Architects looking to step into an enterprise architecture role, provided they come from a mature architecture environment and hold TOGAF certification. Strong mentoring support will be provided by the EA Lead.
+
+Additional Information
+Occasional travel to regional sites may be required; a driver's licence and access to a vehicle would be beneficial.
+This role offers strong visibility, influence, and the opportunity to shape how data and integration architecture comes to life at scale."
+89667123,Data Engineer - Databricks and Fabric,Talenza,https://www.seek.com.au/job/89667123?type=standard&ref=search-standalone&origin=jobCard#sol=ebd84c9d80053d34d2bc22dc21d994ba08c9335d,1h ago,1.0,2026-01-14T01:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,$160k - $180k p.a.,"Role: Data Engineer - Databricks & Fabric
+Salary: $160K - $180K Package
+Contract Length: 12-month FTC
+Location: Remote in Australia
+
+We are partnering with a large, complex enterprise undergoing a major transformation of its cloud data and analytics platform. This program is focused on building a modern, secure and automated environment across Azure Databricks, Microsoft Fabric and Power BI to support compliance, network performance and enterprise reporting.
+
+This is a hands-on role for a Data Engineer who enjoys designing, building and automating data platforms at scale.
+
+Key Responsibilities
+
+Designing and building data pipelines using Azure Databricks and Microsoft Fabric
+
+Implementing CI/CD pipelines for data and analytics workloads
+
+Automating build, test, deployment and rollback processes
+
+Enabling secure, role-based access and enterprise identity integration
+
+Producing Power BI-ready datasets to support regulatory and operational reporting
+
+Integrating AI-assisted code review into development workflows
+
+Creating technical documentation and supporting team enablement
+
+About You
+
+Strong experience with Azure Databricks
+
+Experience with Microsoft Fabric or modern Azure data platforms
+
+CI/CD for data pipelines (Azure DevOps, GitHub Actions or similar)
+
+Solid SQL and data modelling skills
+
+Experience working with Power BI datasets or analytics platforms
+
+Understanding of DevOps, Git and environment management
+
+If this sounds like you APPLY today!"
+89664844,Head of Data and AI,Harvey Robinson Pty Ltd,https://www.seek.com.au/job/89664844?type=standard&ref=search-standalone&origin=jobCard#sol=581ad39234202668708997249f4a35cfae263a61,3h ago,3.0,2026-01-13T23:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,$220k Plus Super & 10% Bonus,"Head of AI & Data Analytics
+Location: Sydney / Brisbane / Melbourne (Hybrid, 1 day in office)
+Base: $200,000 - $220,000 + 12% super
+Bonus: 10% MBO tied to AI progress
+Team: 5 direct, 2 dotted reports
+This is a brand-new, greenfield Head of AI & Data Analytics role in Australia with a company investing 1% of revenue into AI locally.
+
+About the Role
+You’ll lead the delivery and adoption of AI and data-driven solutions across the business, reporting to the CIO ANZ.
+
+This is your chance to scale a team, shape strategy, and embed AI into operations to deliver tangible business outcomes. You’ll work with global AI teams, implement enterprise-grade solutions, and make a real impact on both efficiency and strategic decision-making.
+
+Key Responsibilities
+
+Lead AI Strategy & Governance: Own AI roadmaps, develop standards, policies, and governance frameworks.
+Data & AI Architecture: Establish and evolve scalable, secure AI and data architecture delivering measurable business value.
+AI Adoption & Change Management: Champion organisation-wide adoption of AI tools, platforms, and workflows.
+Stakeholder Collaboration: Partner with business leaders and global AI teams to prioritise initiatives and influence decisions.
+Outcome Measurement: Define success metrics, track ROI, and ensure AI initiatives deliver tangible business results.
+About You
+
+Proven leadership in AI, data, and analytics, with experience driving digital transformation.
+Track record delivering technology transformation programs and leading high-performing teams.
+Strong stakeholder management, influencing, and communication skills.
+Pragmatic, commercially savvy, and passionate about leveraging AI to deliver real-world outcomes.
+Experience in technology sectors (fintech,edtech, medtech) highly desirable, but not essential.
+A unique opportunity to build and scale a team around AI innovation in a forward-thinking organisation.  
+
+Get in touch for a confidential chat: 0447 895 359"
+89664649,Senior ESD Engineer,LCI Consultants,https://www.seek.com.au/job/89664649?type=standard&ref=search-standalone&origin=jobCard#sol=391fe66041e66b12c52dba2816798de3f71e8cc2,3h ago,3.0,2026-01-13T23:00:00+00:00,"North Sydney, Sydney NSW",Building Services Engineering (Engineering),Full time,"$115,000 – $130,000 per year","LCI is looking for a Senior ESD Engineer to join our Sydney office. This role involves collaborating closely with our wider team to deliver a strong pipeline of exciting projects.
+
+We are an engineering design house specialising in building services. We employ over 280 staff within six offices across Australia.  We’ve built a phenomenal team.… and we are continuing to grow.  We see our colleagues as family, and we pride ourselves on hiring and shaping passionate professionals who thrive in a diverse and collaborative environment. We operate within a culture of trust and flexibility and this is a great opportunity to be part of a growing and collaborative team.
+
+In March 2025, LCI proudly became part of the global, employee-owned Artelia Group, extending our presence worldwide!  Internationally, the Group carries out projects in more than 100 countries and has offices in 40 countries in Europe, Africa, the Middle East, Asia-Pacific and the Americas. 
+
+Your key responsibilities will include the following: -
+
+Working to grow the LCI market presence.
+
+Develop opportunities to distinguish the LCI Brand and deployment of new technologies.
+
+Sustainability technical excellence with overview of other services.
+
+Client development and management.
+
+Financial and client management of projects.
+
+Liaise with Associations and Authorities.
+
+Ensure that projects for which you are involved are delivered to client’s expectations.
+
+Investigate innovation on every project.
+
+Continual professional development.
+
+Encourage and demonstrate ethical and technically excellent working practices.
+
+Promote the LCI Brand in everything you do.
+
+Encourage, implement and monitor the application of our QA system to ISO standards - ISO 9001.
+
+Your skills and experience will include: -
+
+Proficiency in MS Office (Word, PowerPoint and Excel).
+
+Green Building Rating tools (Green Star, NABERS, NatHERS, BREEAM, WELL and LEED).
+
+Building Energy modelling (IESVE).
+
+Daylight modelling and strategies.
+
+Natural ventilation strategies and modelling.
+
+Familiar with CFD modelling.
+
+Façade performance optimisation.
+
+Client and Industry Presentations.
+
+Project Management.
+
+Large project experience.
+
+Exceptional communications skills, both written and verbal.
+
+Capacity to develop relationships with a diverse range of stakeholders.
+
+Ability to work cooperatively with others.
+
+High attention to detail.
+
+Ability to create and maintain organised systems.
+
+Ability to organise information, priorities and submit to timeframes.
+
+Team spirit. 
+
+Our colleagues enjoy:
+
+Opportunity for further education through the LCI Learning & Growth Program.
+
+One LCI Benefits Program which is a program which covers hundreds of retailers including food, fashion, travel, entertainment, insurance and much, much more.  
+
+A social, collaborative and inclusive culture with regular social and networking events organised throughout the year.
+
+Eight (8) weeks parental leave after 12 months continuous service.
+
+Employee Referral Program.
+
+Paid Professional Membership.
+
+Passion Day – a day off each year just because!
+
+Access to an Employee Assistance Program.
+
+Paid Volunteering Leave – one day off each year.
+
+Apply Now to kick start the New Year in a new role.  Please include your cover letter and CV when applying. 
+
+In this era of technology and globalisation, we recognise cultivating a diverse and inclusive workforce is more important than ever for both our staff and business. By advocating fair and equitable access to employment, we foster social integration and enable our staff to perform to their full potential. At LCI, we do not tolerate any discrimination based on race, gender, age, cultural background, sexual orientation, mental and physical conditions, political beliefs, religion, as well as other distinct differences between people.
+
+For more information about LCI, please visit our website at www.lciconsultants.com.au.
+
+Agencies need not send applicants as we are managing all recruitment directly. LCI will not accept any unsolicited resumes from recruiters or recruitment agencies. Any unsolicited resumes will be deemed to be the property of LCI and in the absence of a signed Agreement, LCI will not consider or agree to any payment of any recruitment fees."
+89664000,Solution Architect – Observations and Infrastructure,Bureau Of Meteorology,https://www.seek.com.au/job/89664000?type=standard&ref=search-standalone&origin=jobCard#sol=ad4d983aed3c600dc9458601f124958d27dd984e,3h ago,3.0,2026-01-13T23:00:00+00:00,Melbourne VIC,"Architects (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,"$115,443 - $125,832, plus 15.4% superannuation","Solution Architect – Observations and Infrastructure 
+
+EL1, Ongoing and Non-ongoing will be considered
+
+Melbourne
+
+About the Bureau
+
+We are Australia’s weather, climate, water, oceans and space weather agency. Our work touches the lives of all Australians every day.
+
+Our products and services include observations, forecasts, warnings, analysis and advice. They cover Australia’s atmosphere, water, oceans and space environments.
+
+The Bureau operates under the authority of the Meteorology Act 1955 and the Water Act 2007. We also fulfill Australia’s international obligations under the Convention of the World Meteorological Organization and related international meteorological treaties and agreements.
+
+Read the Bureau of Meteorology Strategy 2022–27 to find out more about our organisation and the work we do for all Australians.
+
+Working at the Bureau
+
+The Bureau represents a dynamic and exciting opportunity. At the Bureau you will:
+
+do meaningful work that brings real benefits to the Australian community, businesses and government.
+work with dedicated experts and professionals who constantly seek to improve the services we provide to our customers.
+work in excellent workplaces in a variety of great locations. You'll have access to the latest technology in a diverse, safe and inclusive environment for everyone.
+experience our commitment to learning, growth, training and clear career pathways. You'll receive competitive salary and benefits.
+
+Position overview
+
+The Planning and Architecture Program is seeking a talented and Solution Architect - Infrastructure and Observations with significant strategic, communication, interpersonal, and organisational skills.
+
+The Solution Architect will have a focus on technology and can work in a strategic manner across all programs. 
+
+The person will work within the Architecture team with guidance from the Lead Architect, Senior Architects as well as the Chief Architect, to produce solution architecture across projects from multiple groups across the Bureau.
+
+The successful candidate will have:
+
+Experience in Solution Architecture and Solution Design across on-premise and the cloud with a focus on IT and Operational technologies including experience with Standard Operating Environments for Operational Technology Equipment, Automatic Weather Stations, and other solutions for Field equipment including understanding on Network and security considerations.
+Demonstrated experience in the interpretation of business and technical requirements; the analysis of technical business and IT issues; risk identification.
+Experience collecting and translating business functional and non-functional requirements into high-level Solutions Architecture Designs.
+Have well developed liaison, communication and documentation skills.
+Recommend options for senior architects at the appropriate time, taking into account the needs of the situation, priorities, constraints and the availability of necessary information.
+Be a good team player, self-motivated and to work on own initiative, being proactive, taking action and anticipating opportunities.
+Understanding of application architecture, platforms and solutions that support the business.
+Ability to complete both reference architecture artefacts (such as Technology Reference Model, Roadmaps, patterns and guides, as well as Conceptual and Solution Architecture Designs as part of Planning and Architecture function.
+The Solution Architect will work independently with the opportunity for reasonable autonomy and accountability for the achievement of outcomes of their work. They will exercise both initiative and judgement in the interpretation of policy and in the application of practices and procedures.
+The Solution Architect and will have considerable level of stakeholder engagement and will liaise with stakeholders in relation to complex issues. They will be required to identify, anticipate and respond to stakeholders’ needs and expectations to achieve Bureau outcomes.
+Technology Investment Planning: Assist GM Planning & Architecture with investment planning and recommendations to CITO where Cloud technologies are to be considered used.
+Well-developed engagement and communication skills.
+Experience in capturing, planning, and prioritising technology pipeline, including future state sustainment activities and coordinating new initiatives.
+Experience in systems administration, project management, service delivery, support, architecture, and application development.
+Experience in technology investment planning.
+Well-developed engagement and communication skills.
+Some experience across both on-premise and Cloud (AWS and Azure) Infrastructure technologies and Solutions (Including Networks, Storage, Compute, End-User Compute and Cyber Security components).
+
+Role responsibilities
+
+The responsibilities of the role include but are not limited to:
+
+Assist the Lead architect in the creation and maintenance of reference artefacts.
+Assist in developing patterns and solution and architectural building blocks as required.
+Ensure Conceptual and Solution Architecture Descriptions are consistent with the Bureau's architectural principles and reference architectures.
+Ensure that solutions comply with Service Level Agreements and business continuity requirements.
+Ensure Guidelines and Reference Architecture artefacts are defined and endorsed by the Architecture Review Group to allow implementation of the design.
+Comply with all Bureau work, health and safety policies and procedures, and take reasonable care for your own health and safety and that of employees, contractors and visitors who may be affected by your conduct.
+Commitment to APS Values and Code of Conduct and understanding of the Bureau's diversity and inclusion statement of commitment and the Bureau way.
+
+Information for applicants
+
+Further information about the position, including eligibility, selection criteria, and details on how to apply, is available on the Bureau of Meteorology's website Careers page.
+
+ 
+
+Applications close at 11:30pm (AEDT) on Friday 30 January 2026. Enquiries about the position can be made to Nick Merambeliotis, Lead Architect on nick.merambeliotis@bom.gov.au."
+89663550,Cloud Architect and Data Architect (2roles),Canberra Consulting,https://www.seek.com.au/job/89663550?type=standard&ref=search-standalone&origin=jobCard#sol=1c912dc7b6311f8bf67a60b156e648c3f0e0d530,4h ago,4.0,2026-01-13T22:00:00+00:00,Canberra ACT,Architects (Information & Communication Technology),Full time,$135 – $145 per hour,"Start: in February 2026 - 12 months + 2x12
 Hours: Up to 8 hours per day
 Work arrangement: Hybrid (multi-location)
 Clearance: Must be an Australian citizen and with Baseline clearance
@@ -69,7 +397,7 @@ Australian citizenship and ability to obtain Baseline clearance.
 How to apply
 
 Apply via SEEK with your CV and a short note indicating which stream you’re targeting"
-89663530,Technology Analyst,Sime Motors Australia,https://www.seek.com.au/job/89663530?type=standard&ref=search-standalone&origin=jobCard#sol=f43cee491803c35dfd35aa22ae82c0d31d54193a,1h ago,1.0,2026-01-13T22:00:00+00:00,"Rydalmere, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Are you a tech-savvy professional passionate about data, automation, and innovation?
+89663530,Technology Analyst,Sime Motors Australia,https://www.seek.com.au/job/89663530?type=standard&ref=search-standalone&origin=jobCard#sol=f2a56260def077e9605d846f015cffd178238cbb,4h ago,4.0,2026-01-13T22:00:00+00:00,"Rydalmere, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"Are you a tech-savvy professional passionate about data, automation, and innovation?
 
 
 
@@ -126,7 +454,7 @@ A safe, friendly, diverse, and supportive team environment
 
 
 If you're ready to drive digital transformation and make an impact, we want to hear from you!"
-89660393,"Senior Software Engineer, Network Security",Google,https://www.seek.com.au/job/89660393?type=standard&ref=search-standalone&origin=jobCard#sol=38791daecbb127b39de8073146f925b0bb518079,8h ago,8.0,2026-01-13T15:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+89660393,"Senior Software Engineer, Network Security",Google,https://www.seek.com.au/job/89660393?type=standard&ref=search-standalone&origin=jobCard#sol=665cc89bccce51e623c639acc14c7abf182aed53,11h ago,11.0,2026-01-13T15:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -153,7 +481,7 @@ Design and implement services to scan assets and report vulnerabilities.
 Develop and maintain security services to manage security artifacts used by Google's global infrastructure.
 Work with the cross-functional team partners to understand their requirements and build the products to meet those requirements.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-89660051,Senior Machine Learning Engineer - AI Platform Enablement (ANZ remote),Canva,https://www.seek.com.au/job/89660051?type=standard&ref=search-standalone&origin=jobCard#sol=7f432921f4d540fc3eb2b2e120f1340bf96fb07e,8h ago,8.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89660051,Senior Machine Learning Engineer - AI Platform Enablement (ANZ remote),Canva,https://www.seek.com.au/job/89660051?type=standard&ref=search-standalone&origin=jobCard#sol=8c868161744720f5ca008bc152122f7381f8be68,11h ago,11.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -239,7 +567,7 @@ Check out  lifeatcanva.com for more info.
 Other stuff to know
 
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
-89660049,Senior Machine Learning Engineer - Canva AI (ANZ remote),Canva,https://www.seek.com.au/job/89660049?type=standard&ref=search-standalone&origin=jobCard#sol=84bff78366fe5b9c6cc5a74c23538e567ad8f0b8,8h ago,8.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89660049,Senior Machine Learning Engineer - Canva AI (ANZ remote),Canva,https://www.seek.com.au/job/89660049?type=standard&ref=search-standalone&origin=jobCard#sol=69823272eab777be9294d48f146925e8fd9e4859,11h ago,11.0,2026-01-13T15:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
