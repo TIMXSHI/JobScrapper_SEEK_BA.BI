@@ -1,5 +1,805 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89693559,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89693559?type=standard&ref=search-standalone&origin=jobCard#sol=4f1928cd2a207fb7d5916cd6eb39a0c72c7d3eb7,1h ago,1.0,2026-01-14T21:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+89699100,AI Engineer,Compare the Market,https://www.seek.com.au/job/89699100?type=standard&ref=search-standalone&origin=jobCard#sol=983717a8b4ecd1b2c0f147db6ae556cb9cebbc90,1h ago,1.0,2026-01-15T01:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
+
+ 
+
+iSelect and Compare the Market are trusted, well-known brands dedicated to helping millions of Australians compare and buy personal finance and household products such as insurance, energy, and loans. Together, we provide a seamless, customer-focused experience that makes it easier for Australians to find the right products to suit their needs.
+
+ 
+
+ 
+
+What You’ll Be Doing 
+
+ 
+
+As an AI Engineer, you will provide technical leadership and expertise, driving the design, development, and delivery of innovative AI solutions for the Aggregation business. 
+
+You will ensure technical excellence through modern AI development practices, data driven thinking, strategic technology use, and alignment with business goals. This role actively contributes to architectural decisions, promotes best practices, and supports a culture of continuous innovation with the business. As well as:
+
+Own AI feature delivery: work from discovery to production; define technical approaches, identify clear entry and exit points, and assist with rollout plans for new AI capabilities.
+Build with AI: design prompts; orchestrate LLMs; implement retrieval augmented generation and memory; integrate with model context protocol; ensure observability; support evaluations; build a repeatable AI delivery lifecycle.
+Lay a solid foundation: influence key decisions on the future of AI in the Aggregation Business; establish AI engineering standards (prompt patterns, guardrails, observability, evaluation, cost optimisation); DevOps for AI artefacts; document decisions and trade-offs; ensure alignment with company AI policies
+Mentor and multiply: coach engineers on AI and productionising AI solutions.
+Partner with product, data and engineering teams:  translate customer needs into measurable AI outcomes; instrument usage, quality, reliability; iterate based on data.
+
+                                                                                                                                      
+
+ 
+
+What’s In It For You
+
+ 
+
+At Compare the Market and iSelect, we’re all about helping people make smart choices – and joining us might just be yours.  We offer an environment where your ideas are heard, your contributions are valued, and your growth genuinely matters. Collaboration is part of our DNA, and you’ll be joining a supportive, forward-thinking team where you can do meaningful work (and be recognised for it!) 
+
+ 
+
+We’re guided by three shared values that shape how we work, how we treat each other, and how we show up for our customers - Drive, Noble Intent and All Together.
+
+ 
+
+Plus, we offer a range of great perks to help you thrive both in and out of work:
+
+ 
+
+Vibrant and social community who have annual celebrations, family fun days and regular events
+Enjoy flexible work arrangements, including the option of one day working from home each week or a 9-day fortnight
+Enjoy additional leave days - ‘ME’ leave and ‘Volunteer Day’ leave
+Option to purchase additional leave
+Return To Work bonus for returning parents
+Quarterly Award and Recognition program
+
+ 
+
+What Sets You Apart 
+
+5+ years of experience in full-stack environments.
+Hands-on experience taking AI features to production under real world constraints: scale, latency, cost and regulatory risk.
+Demonstrated expertise in system design and integration, including foundation model selection, agentic framework choice, multi-modal input handling (structured data, text, and speech), RAG pipelines (chunking, embeddings, vector stores), and MCP.
+Proficiency in Python essential.  Proficiency in other languages (Typescript/JavaScript, C#, Java, SQL) desirable
+Experience with AWS Cloud (including Bedrock), Databricks, Kubernetes, serverless, event-driven architectures.
+Proficient in modern DevOps practices, observability, and end-to-end software development essential.
+Curiosity and willingness to adapt in a fast-moving field essential
+
+
+
+ 
+
+At Compare the Market and iSelect we’re proud to be an Equal Opportunity Employer and we embrace diversity.  
+
+ 
+
+This role is available to candidates with unlimited Australian working rights only. Sponsorship is not available.  
+
+ 
+
+Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
+89698100,"Software Engineer - Assembly, Integration and Verification (AIV)",CSIRO,https://www.seek.com.au/job/89698100?type=standard&ref=search-standalone&origin=jobCard#sol=afb6545968a1150357b92ad7c9bec224a1b28ce3,1h ago,1.0,2026-01-15T01:00:00+00:00,"Kensington, Perth WA","Engineering - Software (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,AU$118K - AU$127K per annum + upto 15.4% super,"Job description:
+
+Acknowledgement of Country
+
+CSIRO acknowledges the Traditional Owners of the land, sea and waters, of the area that we live and work on across Australia. We acknowledge their continuing connection to their culture and pay our respects to their Elders past and present. View our vision towards reconciliation.
+
+Role highlights
+
+Great opportunity to contribute to cutting-edge telescope technology
+Apply your software engineering expertise in a global science project
+Join a collaborative team shaping the future of radio astronomy!
+
+About CSIRO
+
+As Australia's national science agency, CSIRO is solving the greatest challenges through innovative science and technology. Many of our iconic innovations were once considered impossible until someone, just like you, joined us and took on the challenge.
+
+Visit CSIRO.au for more information.
+
+The opportunity
+
+The SKA Observatory (SKAO) is a next-generation radio astronomy facility that will transform our understanding of the Universe and fundamental physics. Our CSIRO Assembly, Integration and Verification (AIV) team plays a critical role in integrating complex digital and RF systems into the SKA-Low Telescope (located in remote WA) signal chain and verifying the telescope against defined requirements. This team works closely with international partners to deliver one of the world's most advanced scientific instruments.
+
+As a Software Engineer joining our dynamic AIV team, you will provide software support services for the SKA-Low telescope, focusing on the integration and verification of distributed software systems and associated hardware. Your work will include deploying solutions on high-performance computing (HPC) platforms, integrating data processing workflows, and supporting telescope operations during construction. This role offers the chance to work in an agile, globally distributed team environment.
+
+You will bring strong experience in Python development and a solid background in deploying and supporting distributed software systems on HPC or cloud platforms. Familiarity with Linux environments and container orchestration tools such as Kubernetes will be highly regarded. Your ability to solve complex problems, collaborate effectively across time zones, and adapt to evolving project needs will be key to success.
+
+If you're passionate about software engineering and excited by the opportunity to contribute to a globally significant science project, this is a great opportunity to apply your skills and grow your career - so we would love to hear from you!
+
+Your high-level duties will include:
+Proactively identifying, investigating, and solving complex problems spanning multiple software and hardware components, as part of a multi-disciplinary, regionally dispersed team.
+Integrating control and data processing software components in a self-managed Kubernetes environment spanning off-the-shelf and custom hardware.
+Designing and implementing system-level tests for integration and verification of the telescope.
+Assisting science users to operate the telescope during the construction phase.
+Developing control and/or data processing software for test environment and telescope components in Python.
+
+Role particulars
+
+Location and office arrangements: Perth (Kensington), Western Australia
+
+Salary: AU$118K - AU$127K per annum plus up to 15.4% superannuation
+
+Tenure & work schedule: Indefinite - Full-time (preferred). Flexible arrangements of part-time (0.8 FTE) may be considered.
+
+Reference: 98389
+
+As the successful candidate, you will bring:
+
+Essential:
+
+A bachelor's or master's degree relevant to Software Engineering, and/or equivalent work experience in a relevant field.
+Demonstrated post-graduate work experience in Python development within a collaborative environment.
+Demonstrated experience in developing and supporting distributed, multi-core data processing software running in Cloud, Scientific Computing or High-Performance Computing (HPC) platforms.
+Experience in deploying and operating applications in a Linux environment.
+
+
+Desirable:
+
+Experience with Kubernetes or other container orchestration systems.
+Experience in developing Scientific Computing Software.
+Knowledge of real-time streaming or batch data processing pipelines.
+An interest in Astronomy.
+
+
+For full details about this role, please review the Position Description.
+
+Setting you up for success
+
+We are committed to providing a recruitment process that is fair, equitable and accessible to everyone. We recognise that it may be helpful for us to adjust our process to make it equitable for your individual situation. Please contact the Talent Acquisition Partner via email (see details in the Position Description) and let us know how we can support you.
+
+Eligibility
+
+Applications for this position are open to Australian Citizens, New Zealand Citizens, and Australian Permanent Residents.
+
+Appointment to this role is subject to provision of a national police check and may be subject to other security/medical/character requirements. Given the nature of the role, the successful candidate should also be able and willing to work flexible hours when required, and travel locally, nationally, and occasionally internationally as required for project needs.
+
+Life at CSIRO and Flexible work arrangements
+
+We work flexibly at CSIRO, offering a range of options for how, when and where you work. We can discuss flexible work arrangements with you during the recruitment process. CSIRO also offers a range of leave entitlements, benefits and career development opportunities. To find out more, visit Careers at CSIRO.
+
+Inclusion and belonging
+
+Solving Australia's greatest challenges takes a diversity of minds and lived experiences. We know diverse teams are more effective and deliver more innovative outcomes. As an equal employment opportunity organisation, we are committed to creating diverse and inclusive teams where people feel they belong. We recognise true diversity encompasses all ages, abilities, cultures, faiths, levels of education, genders, sexualities, diversity of thought and much more. We focus on hiring people who share our values of People First, Further Together, Making it Real and Trusted.
+
+CSIRO holds Gold Status for the Australian Workplace Equality Index for LGBTQIA+ inclusion, and a Science in Australia Gender Equity Bronze Award.
+
+Child safety
+
+CSIRO is committed to the safety and wellbeing of all children and young people involved in our activities and programs. View our Child Safe Policy.
+
+How to apply
+
+Please apply online and provide a cover letter and CV that best demonstrate your motivation and ability to meet the requirements of this role. Please note that we strongly encourage you to respond to each of the selection criteria in detail, and attach it to your cover letter as ONE document.
+
+Applications close
+
+1 February 2026, 11:00pm AEDT"
+89697802,Lead Data Scientist,SEEK Limited,https://www.seek.com.au/job/89697802?type=standard&ref=search-standalone&origin=jobCard#sol=85b9f6fadf2188cf78f6de905294664acba7a896,1h ago,1.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The Role 
+
+We’re looking for a Lead Data Scientist to lead a high-performing team building end-to-end, data-driven products that create tangible value for hirers and job seekers. In this role, you’ll guide the inference components of our AI/ML products that help SEEK understand the marketplace, and you’ll deliver insightful analysis to enable impactful decision-making across the business. You’ll develop the team’s technical capability and support their career growth while overseeing delivery and partnering closely with Product, Engineering, Strategy, and Commercial stakeholders. 
+
+You’ll thrive in a collaborative, fast-moving environment where alignment, estimation, dependency management, and cross-functional communication are critical. You enjoy being hands-on with models and methods, and you value continuous learning—both for yourself and for your team. 
+
+On any given day, you might assess and guide the development of statistically sound, pragmatic models; prototype and evaluate new approaches to address real business questions; articulate the value created and the risks involved; and refine strategic thinking in partnership with Product Managers, Strategy, Architecture, and Commercial teams. You may collaborate with a dedicated Experimentation team to design and interpret A/B tests, mentor and support other data scientists by validating the value, accuracy, and limitations of their outputs, and work with Engineering and Product specialists to build end-to-end AI/ML solutions. 
+
+Your closest collaborators will include peers across the Data Science stream, stream leads who bring Data Science, Engineering, and Product perspectives to joint problem-solving, and squad leads who track how your team contributes across SEEK’s broader AI initiatives. 
+
+Key Responsibilities 
+
+You will develop a deep understanding of a niche business domain—such as pricing, market position, or ad performance—and the data available to SEEK, translating that understanding into stronger decision-making within your area of responsibility. You’ll help the team turn real business problems into actionable requirements, clearly framing the value and limitations of data-driven approaches and ensuring modelling work is grounded in its business context. 
+
+As a people leader, you’ll coach and sponsor your team’s growth, set clear goals, plan across sprints, define OKRs, and contribute to roadmaps. You’ll champion appropriate ML methods, explaining benefits and trade-offs to audiences ranging from data scientists to colleagues in Engineering and Product, tailoring the level of detail to each stakeholder. You’ll also bring strong delivery management—balancing experimentation with reliability and scale. 
+
+ 
+
+Qualifications
+
+You have extensive (8+ years) commercial experience building and improving data-driven products, with deep, hands-on knowledge of machine learning algorithms and model performance tuning. 
+
+You have acted as a conduit between Data Science and Product, Architecture, and Engineering, solving commercial problems. 
+
+You have managed a small team of Data Scientists or delivered large and complex projects. 
+
+You’re highly proficient with Python, SQL, and Spark for data extraction and processing, and comfortable working within modern software development environments and tooling such as Git, AWS, Databricks, and MLflow (or equivalents). 
+
+You communicate clearly, influence effectively across functions, and operate confidently amid ambiguity. 
+
+You’re fluent on the command line in a *nix environment and hold a postgraduate qualification in a quantitative discipline (for example, Physics, Mathematics, Bioinformatics, Computer Science, or Engineering). 
+
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+89697702,Principal Architect – AI Experiences and Enablement,SEEK Limited,https://www.seek.com.au/job/89697702?type=standard&ref=search-standalone&origin=jobCard#sol=01cd2ab902a01c1ac4ef192e0df291ac6fe2d49b,1h ago,1.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The Role
+
+The Principal Architect – AI Experiences and Enablement is a senior architecture leader reporting to the Head of Architecture – Data and AI. You’ll define and evolve SEEK’s vision, designs and roadmaps for AI-enabled and agentic solutions, setting standards for how we design, build, deploy and monitor responsible, human‑centred AI at scale. You’ll partner across design, data science, architecture, engineering, analytics, product and business to turn ideas into secure, scalable experiences that deliver value for customers and SEEKers. A core focus is enabling productivity with the AI for SEEK team and empowering the wider business and technology community with clear guardrails, reusable patterns and guidance aligned to SEEK’s strategy.
+
+The Team
+
+Sitting within the Data and AI Architecture domain, this role operates centrally across Customer, Enterprise and Platform architecture to drive cohesive strategies and governance. The team provides specialist, cross‑functional leadership to ensure scalable, consistent outcomes across SEEK’s ecosystem. You’ll manage and mentor solution architects, align architecture, uplift capability and strengthen stakeholder engagement.
+
+Key Responsibilities
+
+Shape and uphold the enterprise architectural strategy and standards for AI experiences and agents - defining reference architectures and guardrails for creation, orchestration, monitoring, observability and oversight to ensure safety, reliability and accountability.
+Continuously refine agentic strategy using signals from product, business, architecture and engineering to stay aligned with broader enterprise and domain architectures. Act as a strategic advisor to Technology and Senior Leadership on AI trends, risks and opportunities, and lead solution design for high‑impact engagements to ensure alignment with standards and strategy.
+Enable teams through expert consulting, reusable capabilities, patterns and frameworks that accelerate delivery while managing risk; mentor and champion responsible adoption across the organisation.
+Drive innovation by scanning and testing emerging frameworks, protocols and infrastructure patterns (e.g., MCP, A2A), engaging vendors, running timeboxed proofs of concept and translating learnings into updated standards, reference models and platform capabilities.
+Embed trust, security, privacy and responsible AI through lifecycle practices that enable fast innovation without fragmentation or technical debt. Engage across the APAC ecosystem—partners, standards bodies and the broader community—to strengthen SEEK’s reputation and attract talent and partnerships.
+Qualifications
+
+Deep technical and architectural expertise across human‑in‑the‑loop systems, autonomous agents and backend workflow automation, grounded in AI/ML, LLMs, agent frameworks (e.g., LangChain, AutoGen, CrewAI) and cloud‑native design on AWS/GCP.
+
+Proven ability to architect agentic systems balancing autonomy, explainability and human control, including context engineering, memory isolation, state management and event‑driven, modular patterns using vector databases and modern AI frameworks.
+
+Hands‑on experience building and scaling AI platform capabilities (e.g., LLM gateways, MCP gateways/servers) and familiarity with interoperability standards/protocols such as MCP, A2A and AP2, or demonstrable ability to rapidly upskill.
+
+Strong command of AI observability, monitoring and evaluation to ensure agent safety, transparency and performance, with practical tool and practice exposure.
+
+Enterprise‑scale strategic advisory impact—shaping AI and agentic adoption, risk management, governance and investment decisions; influencing executives and senior stakeholders with clear, pragmatic recommendations.
+
+Recognised leadership and influence—mentoring and upskilling engineers and architects, communicating complex AI concepts to technical and non‑technical audiences, and building communities of practice internally and across APAC.
+
+Growth mindset with a track record of innovation and guiding organisations through significant technology change; comfortable with ambiguity and experimentation. Bonus: consulting experience, low‑code automation (e.g., n8n), major SaaS platforms (ServiceNow, Salesforce, Workday) and partner/community engagement across APAC.
+
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+89697567,Senior Systems Engineer,L3Harris Communications Australia Pty Ltd,https://www.seek.com.au/job/89697567?type=standard&ref=search-standalone&origin=jobCard#sol=f9cb1afe4435e2c6825e2acb08b2ea8e13516e81,1h ago,1.0,2026-01-15T01:00:00+00:00,"Hamilton, Brisbane QLD",Systems Engineering (Engineering),Full time,,"L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+
+L3Harris Technologies is the Trusted Disruptor in the defense industry. With customers’ mission-critical needs always in mind, our employees deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security.
+
+
+
+
+About the role
+
+L3Harris Communication Systems is a world leader in ground tactical and airborne mission communication solutions and a global provider of ground based C4 systems and transportable SATCOM terminals. We are focused on delivering advanced systems to meet the needs of our customers, uniting multiple forms of communication together, and covering communication over air, ground, sea, and space.
+
+ Are you ready to advance your career in systems engineering? We’re offering an exciting opportunity for a Senior Specialist, Systems Engineering to join our team on the Mature Support Contract (MSC), supporting the sustainment of L3Harris Tactical Radio Products based at Hamilton.
+
+In this role, you’ll play a key part in driving engineering change activities — from product modifications and enhancements to technical investigations, obsolescence management, and the responsible disposal of L3Harris and third-party products. You’ll also help ensure ongoing compliance with regulatory frameworks, contractual obligations, and customer requirements.
+
+ 
+
+What the role will involve
+
+Coordinate with all stakeholders — including suppliers and third-party engineering service providers — to ensure clear understanding of responsibilities, processes, and timeframes.
+
+Lead engineering change activities for product modifications and enhancements, managing the full lifecycle from requirements definition to design, verification, and reporting.
+
+Review and assess Technical Information Reviews (TIRs) that may impact the fit, form, or function of Products Being Supported (PBS) items, and provide expert advice or recommendations to the MSC Program Office as needed.
+
+Conduct technical investigations into radio product issues, preparing detailed written analyses, recommendations, and resolutions.
+
+Monitor and maintain PBS items throughout their lifecycle, identifying and addressing product or supportability issues, tracking change proposals, and managing product roadmaps.
+
+Respond to Requests for Information (RFIs) from the MSC Program Office promptly, ensuring accuracy and completeness.
+
+Contribute to Contract Status Reports by providing updates on performance, planned activities, issues, and opportunities related to the MSC.
+
+Manage and update engineering-related plans, procedures, and documents, including Contract Data Requirement List (CDRL) deliverables.
+
+Support the organization, coordination, and execution of engineering and technical operations across the MSC project.
+
+ 
+
+What you’ll bring
+
+The role requires the following experience and skills:
+
+Bachelor’s degree in Engineering recognized by Engineers Australia Examples include: Avionics, Electrical, Mechanical, Mechatronics, Systems, Software
+
+Minimum of 6 years of engineering experience or equivalent experience.
+
+Experience working in the Defence industry is a preference, though operating within a complex, large international business will also be considered
+
+Experience in supporting small and large scale engineering projects
+
+A background in sustainment will be highly regarded.
+
+Ability to obtain and maintain an Australian Government Security Clearance (AGSVA at the NV1 level.
+
+Knowledge of HF, VHF, UHF and Narrowband SATCOM Systems
+
+Experience with mobile networking within a tactical environment and tactical data messaging
+
+Knowledge of secure voice and data systems including an understanding of cryptographic equipment
+
+Experience with verification, especially test procedure development.
+
+
+
+
+A few of our employee benefits are
+
+An additional week of leave per annum plus the option to buy or sell up to 2 weeks additional annual leave.
+
+Salary continuance insurance (SCI pays 75% of your base salary and bonus for up to 2 years)
+
+Discounted private health insurance
+
+Life & Total Permanent Disability Cover
+
+Novated Car Leasing
+
+Company supported professional development programs
+
+Retail Reward programs
+
+
+
+
+Important to know
+
+Due to the nature of our work many our roles require an Australian citizenship and will require the successful candidate to successfully apply and hold an Australian Defence Security Clearance and/or be assessed to work with ITAR information.  Please answer the pre-screening questions upon applying for this assessment.
+
+L3Harris respectfully requests no agency submissions at this time.
+
+As an equal opportunities employer, L3Harris is committed to the equal treatment of all current and prospective employees and does not condone discrimination on the basis of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership."
+89697330,AI & ML Engineer,Greenstone Financial Services,https://www.seek.com.au/job/89697330?type=standard&ref=search-standalone&origin=jobCard#sol=05954e1be0a367f9614ec36753e63bf7435aa611,1h ago,1.0,2026-01-15T01:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"mathemaAI & ML Engineer
+
+
+
+Full Time Opportunity 
+ 
+We're looking for an experienced AI and Machine Learning Engineer to join our team and help shape the future of data-driven products.
+
+The AI & ML Engineer plays a critical role in building data-driven products and analytical solutions that drives Greenstone's business outcomes. This role will particularly focus on developing and maintaining machine learning models and AI algorithms that power product features, enhance customer experiences, and optimise decision-making.
+
+Working closely with product owners, data analysts/scientists, and wider business stakeholders, you will transform complex datasets into scalable AI/ML solutions, ensuring models are interpretable, reliable, and aligned with product and business goals.
+
+What are we looking for? 
+
+
+
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, Mathematics, Artificial Intelligence, Machine learning or a related field 
+Strong collaboration and communication skills, with the ability to work effectively with actuaries, analysts, and business stakeholders 
+Minimum of 3 years of industry experience in Data Science or Machine Learning, with a proven track record of developing and deploying models for customer churn prediction, customer segmentation, and customer lifetime value estimation 
+Proficiency in AI and ML frameworks and libraries such as scikit-learn and PyTorch; strong experience with data manipulation libraries including Pandas and NumPy 
+Solid programming skills in Python and SQL, with the ability to analyse complex datasets and interpret analytical findings effectively 
+Strong understanding of Generative AI concepts and techniques, including large language models (LLMs) and prompt engineering; hands-on experience with libraries such as Hugging Face Transformers, LangChain, and Retrieval-Augmented Generation (RAG) frameworks 
+Experience in model versioning, monitoring, and implementing automated retraining pipelines. Experience with MLflow or similar model lifecycle management tools 
+Experience working with code repositories (GitHub)
+Ability to balance technical excellence with practical business considerations, particularly within regulated industry environments
+
+ 
+
+Desirable: 
+
+
+
+
+Hands-on experience with Databricks and Cloud platforms such as AWS, Azure, or Google
+Understanding of insurance data and domain knowledge such as policies, claims and underwriting
+
+
+
+
+Our Promise to Our People
+
+We are passionate about our core values of Customer First, We Care, One Team, and Results Driven, which define how we approach our work. We recognise that our colleagues are the key to our success. That's why you can expect to be rewarded for the hard work you put in through job satisfaction, career development and the fantastic range of benefits we offer:
+
+Fantastic employee benefits including flexi days, flexible working, annual $1200 travel/parking allowance & more
+
+State of the art building facilities including a dedicated & subsidised on-site company café (weekly free lunch) & on-site gym
+Health & well-being initiatives and programs
+Opportunity to take part in in-house leadership & emotional intelligence workshops
+Quarterly award functions and a grand annual conference to recognise our people
+Retail discounts e.g. movie tickets, Zoo passes, live shows + more
+Morsl market (a fully automated self-serve, food and drink marketplace with a wide variety of meals, snacks and drinks)
+
+
+Who We Are
+
+Greenstone distributes insurance products under trusted brands in Australia, New Zealand and Canada. Some of our brands are Buddy, Australian Seniors, New Zealand Seniors, OneChoice, Real Insurance, SPCA Pet Insurance, Prime Pet Insurance, North Cover, FiftyUp, Guardian and Choosi.
+
+We are the leading distributor of direct Insurance products in the Australian insurance market. Since launching into the Financial Services sector in 2007, Greenstone has experienced a commanding volume of growth being recognised for our credible brands, customer focused values and people-driven work culture.
+
+We are passionate about our core values, which contribute towards the positive culture that supports our employees, our customers and our community.
+
+Location
+
+Great central location in Norwest Business Park, Norwest, only a short walk from Norwest Metro station and also direct bus access from Parramatta and Blacktown."
+89697138,Senior Data Scientist - Search,SEEK Limited,https://www.seek.com.au/job/89697138?type=standard&ref=search-standalone&origin=jobCard#sol=c1115c1ce4b564ae34f5bb547ff57ea7fedf1cda,1h ago,1.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The Role 
+
+As a Data Scientist at SEEK, you'll be at the forefront of developing AI systems that transform the job search experience. You'll work with a diverse team of experts to solve complex challenges and drive meaningful outcomes. If you thrive on solving ambiguous problems and enjoy working with smart, motivated peers, this is the role for you. 
+
+You will report to the Head of Data Science and work alongside other highly motivated Data Scientists in the Search team. You will collaborate with product managers, designers, engineers, and others across multiple teams to design and implement search and recommendations for job search candidates. 
+
+In this role, you will be expected to: 
+
+Solve Business Challenges: Collaborate with AI Product Managers, Software Engineers and fellow Data Scientists to solve business challenges, align projects with business goals, and design, develop, and test new solutions. 
+
+Model Development: Create models to improve candidate/job matching for search and recommendations, including feature engineering and hyperparameter tuning. 
+
+Performance Validation: Ensure models meet business objectives through both online and offline tests (including A/B tests), along with ongoing monitoring. 
+
+Data Analysis: Collect, validate, and analyse data to identify challenges and opportunities for improving future search/recommendation capabilities. 
+
+Communication: Communicate findings and insights with other team members to continue upskilling and enhancing the team's knowledge and capabilities. 
+
+Evaluate models: Perform offline evaluation of search systems and contribute to the design of online experiments 
+
+Mentoring: Mentor junior Data Scientists and share technical expertise with the DS team. 
+
+The Team 
+
+The ""Search"" team within the AIPS group is a team of data scientists, software engineers and product managers. We sit within the much larger Artificial Intelligence & Analytics team at SEEK. We work on a quarterly planning cycle to develop our roadmap, which consists of R&D  for matching the best job ads for users who are looking for jobs on SEEK platforms globally. 
+
+As a Data Scientist, you will work closely with product management and engineering to expand the search capabilities. 
+
+The team runs various team rituals such as weekly stand-ups and knowledge sharing sessions, monthly team retrospectives, and others as needed. You will also attend project-related meetings as necessary. 
+
+ 
+
+Qualifications
+A Masters or PhD qualification in Computer Science, Data Science, Mathematics, Statistics, or other quantitative field 
+Experience in search or recommendations is ideal but not essential  
+Professional experience developing and delivering AI/ML solutions 
+Deep understanding of the theory and practice of how to build, train, evaluate, and optimise AI/ML models 
+Excellent communication and interpersonal skills, including the ability to communicate complex ideas in simple language 
+Strong data extraction and processing skills using SQL and Python. 
+Ability to adapt quickly and thrive in an environment of rapid change 
+
+The following are preferred but not essential 
+
+Demonstrated experience leading AI/ML projects and managing multiple stakeholders. 
+
+Knowledge of the foundations of large language models: deep learning; transformers; encoder/decoder models; fine tuning and RL. 
+
+Hands-on experience training or adapting large language models. 
+
+Hands-on experience building solutions with pre-trained LLMs, using techniques such as prompt engineering, RAG, agentic workflows, etc. 
+
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+89696306,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696306?type=standard&ref=search-standalone&origin=jobCard#sol=06291330d3d086a6a4805c4002d389a7811750cd,2h ago,2.0,2026-01-15T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
+
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
+
+
+Combat Systems Engineer Opportunities – Growing Our Maritime Engineering Team
+
+As we expand our Maritime portfolio, we’re seeking multiple Combat Systems Engineers to join our growing team supporting multiple initiatives across Land, Surface, Subsurface, Air and Space domains. These roles contribute directly to the design, integration and delivery of advanced combat systems for the Australian Defence Force. 
+
+
+About the Opportunities:
+
+As part of our expanding Combat Systems Engineering team, you will contribute to systems engineering activities across the full lifecycle. Working within multidisciplinary teams, you will help shape mission-critical capabilities and ensure the successful delivery of complex naval systems.
+
+You will:
+
+Contribute to Combat System engineering activities including requirements analysis, architecture definition, subsystem development and preparation for integration and verification.
+
+Support the hands-on management, development and refinement of Combat System architectures.
+
+Develop, maintain and update functional and non-functional requirements, system models and design artefacts.
+
+Support planning, development and execution of Verification activities and associated documentation.
+
+Prepare for major program milestones including design reviews, test readiness reviews and system readiness reviews.
+
+Develop and progress Engineering Changes through the engineering lifecycle.
+
+Provide technical expertise and mentor junior engineers as needed.
+
+Collaborate closely with specialty disciplines (Safety, Human Factors, Cyber, Topside, ILS) to ensure design assurance and holistic system compliance.
+
+ 
+
+About You:
+
+You’re a skilled Systems Engineer ready to contribute to high-profile Defence programs. You enjoy solving complex problems, collaborating in multidisciplinary environments, and driving engineering outcomes that make a real impact.
+
+You bring:
+
+Extensive experience across the systems engineering lifecycle, using structured methods, tools (including DOORS) and disciplined processes.
+
+Strong background in the design and development of military systems incorporating GFX and COTS components.
+
+Significant experience integrating, testing and evaluating Combat System products on naval platforms or similarly complex systems.
+
+Experience working in a multi-disciplinary engineering environment, ideally within Defence.
+
+Ability to engage effectively with internal stakeholders and external partners to achieve shared outcomes.
+
+Deep expertise in relevant combat system technologies and domains.
+
+Experience applying engineering development methodologies to complex systems.
+
+Knowledge of key C4ISREW or warfare domains (AAW, ASW, ASuW) is highly regarded.
+
+
+
+
+Why Join Us:
+Gain unparalleled, hands-on proficiency through LMA’s comprehensive learning framework, which blends reach-back access to Lockheed Martin expertise with immersive training in Combat System Management and Integrated Weapon Systems. You’ll learn directly from local, multi-domain combat system integration specialists, benefiting from their real-world insights while developing a self-directed, “learn by doing” mindset.
+
+You’ll also have access to LMA’s extensive online technical library, including curated instructional courseware, the Engineering Storefront for on-demand learning modules, pre-recorded webinars, and active participation in LMA’s electronic forums. Together, these resources are designed to help you deepen your knowledge, solve complex integration challenges, and stay well ahead-of-ready in the naval surface combatant domain.
+
+
+How we reward and support you: 
+
+When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
+
+We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
+
+Flexible work & Hybrid work options
+
+Access to our online discounts program offering immediate discounts or cashback
+
+A variety of leave options including Purchase Leave to support you and your family  
+
+Additional benefits such as Annual Flu Vaccinations, Novated Leasing and Fitness Programs
+
+
+Special Requirements:
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace:
+
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
+
+Equal Opportunity Statement:
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees' unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+89696131,Senior Systems Engineer – Capability Development,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696131?type=standard&ref=search-standalone&origin=jobCard#sol=524765153d5ee3b077d9a5f4a7b7881d1b63401e,2h ago,2.0,2026-01-15T00:00:00+00:00,"Garden Island, Sydney NSW",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us
+
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
+
+
+About the role
+
+As our naval combat systems capability continues to grow, we’re seeking an experienced Capability Development & Sustainment Engineer to help shape the future of Australia’s AEGIS Combat System.
+
+This role plays a key part in defining long-term development pathways, sustainment strategies and upgrade planning across the RAN’s AEGIS-equipped fleet.
+
+You’ll combine systems engineering expertise with strategic insight to influence capability decisions, guide through-life support, and deliver a 5–10-year roadmap that keeps AEGIS effective, modern and mission-ready.
+
+In this customer-facing, collaborative role, you will:
+
+Lead capability evolution, upgrades, and sustainment planning for the AEGIS Combat System
+
+Develop long-term capability roadmaps using evidence-based, risk-informed assessments
+
+Partner with the Destroyer Enterprise and Defence stakeholders to align plans with operational priorities
+
+Facilitate capability workshops, reviews, and customer discussions on future system direction
+
+Support system architecture updates, obsolescence management and engineering change proposals (ECPs)
+
+Provide systems engineering guidance across the lifecycle to ensure cohesive, future-proof outcomes
+
+ 
+
+About you
+
+You’re a seasoned Systems Engineer or Capability Planner with strong Defence domain experience. You enjoy forward planning, influencing technical direction, and working with stakeholders to drive capability outcomes.
+
+You bring:
+
+Extensive experience across systems engineering, capability planning or sustainment
+
+Proven ability to develop or contribute to long-term capability or technical strategies
+
+Knowledge of system architecture, lifecycle management, obsolescence, and change control
+
+Strong communication skills and confidence engaging with Defence stakeholders
+
+Experience in Defence acquisition or sustainment—ideal for former ADF or enterprise-level planners
+
+Engineering degree in Mechanical, Electrical, Mechatronics, Aerospace, or similar
+
+NV1 security clearance and ability to access Export Controlled information
+
+Why join us
+
+At Lockheed Martin, you’ll help shape the future of Australia’s naval combat capability, working alongside leading engineers and Defence specialists. You’ll be trusted to think long term, balancing innovation, sustainment and mission readiness across the full system lifecycle.
+
+How we reward and support you
+
+When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
+
+We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
+
+Flexible work & Hybrid work options
+
+Access to our online discounts program offering immediate discounts or cashback
+
+A variety of leave options including Purchase Leave to support you and your family  
+
+Additional benefits such as Annual Flu Vaccinations, Novated Leasing and Fitness Programs
+
+
+Special Requirements
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace
+
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
+
+Equal Opportunity Statement
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees' unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+89695171,Artificial Intelligence (AI) Engineer,Robert Half,https://www.seek.com.au/job/89695171?type=standard&ref=search-standalone&origin=jobCard#sol=3d24046f8709fa845dbf346dac29fdd5fc9b3240,3h ago,3.0,2026-01-14T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Company
+
+Our client is a high-growth, tech-led business at an exciting point in their AI journey. With strong foundations and governance already in place, they're now looking for an AI Engineer who can genuinely influence how AI is applied across the business - from streamlining processes to improving decision-making and creating real, measurable value. If you have hands-on experience across AI/ML, Generative AI, Agentic AI, or Data Science, we'd love to hear from you.
+
+The Role
+
+In this dynamic role, you'll face new challenges every day, applying a strong process-driven mindset while continuously looking for smarter, more innovative ways to improve how things are done. As part of a newly formed team, you'll play a key role in driving innovation - experimenting with and operationalising AI solutions for unique, business-aligned use cases. You'll also own the end-to-end lifecycle of AI systems, algorithms, and machine learning models.
+
+Your Skills & Experience
+
+Bachelor's/master's in computer science, Data Science, Engineering or equivalent experience.
+5+ years in deploying Machine Learning & AI Based solutions
+Strong programming skills in Python or another relevant scripting language, alongside AI/ML Frameworks (PyTorch, TensorFlow)
+Demonstrated delivery of at least one generative-AI or machine learning solution in production
+Understanding Machine Learning model and Evaluation metrics, and how to operationalise them to continually monitor models
+Experience working with multimodal models, and long context is desirable, designing robust AI solutions, that can work with production scale data.
+Working with models to optimise, fine tune and enhance their performance, while working in the dimensions of cost and scalability.
+
+Desirable Experience:
+
+Experience with workflow management tools such as n8n, copilot studio flows or Zapier
+Experience with Agentic frameworks and protocols e.g. A2A, Microsoft Agent Framework, LangGraph, MCP
+Cloud architecture and containerisation skillsets
+Frontend or integration experience
+
+
+About You
+
+You have exceptional technical know-how and a real passion for the end-to-end solutions that drive the user experience and customer happiness. You will have effective written and oral communication skills for use in a complex project environment.
+
+What's on offer?
+
+A true career opportunity with a rapidly growing company.
+Extensive opportunities to grow your skill set and enjoy career growth.
+The camaraderie of an energetic, highly talented team of innovators.
+A company that rewards perfection and champion work-life balance.
+
+
+Robert Half Ltd is committed to equal opportunity and we value diversity at our company. We do not discriminate on the basis of categories protected under local law.
+
+Job Reference Number: 06810-0013364679NI
+
+By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
+89693908,Machine Learning Engineer,TheDriveGroup,https://www.seek.com.au/job/89693908?type=standard&ref=search-standalone&origin=jobCard#sol=55e5ef560f84d7e6e454cbdc9c61daa887d855a7,4h ago,4.0,2026-01-14T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"*Multiple Roles Available*
+
+We're partnering exclusively with a purpose-driven, product-led SaaS start-up that applies machine learning to solve meaningful, real-world problems at scale. Their platform supports organisations globally by turning complex data into actionable insights, enabling smarter decision-making and measurable outcomes.
+
+Machine Learning here isn’t experimental or theoretical - it’s deeply embedded in the product. Models are deployed, monitored, iterated on, and directly influence how customers operate day to day. 
+
+Location - Sydney | Hybrid (1 day in office/week)
+Salary - Up to $150k Base + Super + ESOP (dependent on experience)
+
+What You’ll Do:
+
+Build, train, deploy, and maintain machine learning models used in live production systems.
+Work across data preparation, feature development, modelling, and inference.
+Improve model performance through experimentation, evaluation, and iteration.
+Operate and support ML pipelines, including monitoring, debugging, and optimisation.
+Partner with engineers and product stakeholders to integrate ML outputs into customer-facing features.
+What You'll Bring:
+
+Experience delivering applied machine learning in real-world, production environments.
+Strong Python skills with an engineering-first approach and focus on maintainable code.
+Solid SQL and experience working with large, imperfect datasets.
+Understanding of backend systems, data modelling, and production software practices.
+Ability to reason about data quality, statistical trade-offs, and modelling decisions.
+Degree in a technical or quantitative discipline, or equivalent professional experience.
+Exposure to modern cloud-based data or ML workflows is helpful but not required. 
+If you have any questions about this role or others we have available you can email directly via data@thedrivegroup.com.au
+
+For The Latest Jobs, Tech News or to 'Introduce A Friend' for a $1000 Referral Fee - Follow Us On Linkedin:
+
+https://www.linkedin.com/company/thedrivegroup
+
+TheDriveGroup is 100% committed to improving meaningful diversity in the technology industry.
+
+We partner with clients who embrace diversity and seek candidates across all backgrounds, abilities, genders, sexualities, cultures, and faiths.
+
+If you have the right skills and attitude we would love to hear from you!"
+89693559,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89693559?type=standard&ref=search-standalone&origin=jobCard#sol=ce31e40637390b8461711747bb86eb4554b5dc93,5h ago,5.0,2026-01-14T21:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
