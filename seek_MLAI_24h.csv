@@ -1,5 +1,216 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89703004,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/89703004?type=standard&ref=search-standalone&origin=jobCard#sol=44e006b65131bb6c6b7a3f9a34ff77542f26aa0a,1h ago,1.0,2026-01-15T03:00:00+00:00,Sydney NSW (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. We’ve helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business - responsibly and at speed.
+89706817,Data Engineer,Method Recruitment Group,https://www.seek.com.au/job/89706817?type=standard&ref=search-standalone&origin=jobCard#sol=5090c7f39b3aa4f23a8693531a73ff3bf9b71edd,1h ago,1.0,2026-01-15T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$100 – $120 per hour,"Contract Data Engineer – Workday Migration
+
+Location: Melbourne (Hybrid)
+Contract: 6 Months
+
+We're looking for an experienced Data Engineer to join our team on a 6-month contract and play a key role in a major migration project, from TechnologyOne to Workday (Finance and HR systems).
+
+This is a fantastic opportunity to work on a high-impact project, leveraging your expertise in data migration and the Microsoft data stack to deliver a seamless transition.
+
+What You'll Do
+
+Lead and execute data migration activities from TechnologyOne to Workday.
+
+Design and implement robust ETL pipelines for data extraction, transformation, and loading.
+
+Ensure data integrity, quality, and compliance throughout the migration process.
+
+Collaborate with Finance, HR, and IT teams to align technical solutions with business needs.
+
+Optimize performance and scalability of data solutions using modern tools.
+
+What We're Looking For
+
+Proven experience migrating systems to Workday (Finance and HR modules).
+
+Strong hands-on experience with Microsoft data stack, including:
+
+Azure Data Factory
+
+Microsoft Fabric (Lakehouse/Warehouse, Pipelines, Notebooks)
+
+SQL Server, PySpark, and data modelling.
+
+Solid understanding of data governance, security, and compliance.
+
+Ability to work independently and communicate effectively with stakeholders.
+
+Based in Melbourne with availability for hybrid work.
+
+Australian work rights are required for this contract position.
+
+
+Sound interesting? Apply now and be part of a project that makes a real impact. For a confidential discussion, reach out today, we’d love to hear from you!"
+89706732,Cloud Engineer - Azure/AWS,M&T Resources,https://www.seek.com.au/job/89706732?type=standard&ref=search-standalone&origin=jobCard#sol=589309bb9d0cf69d537640adf0f1f9bb90ce2a0e,1h ago,1.0,2026-01-15T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $800 per day,"Role Overview
+We are seeking a Cloud Engineer with strong hands-on experience in AWS or Azure to support the design, build and operation of enterprise-scale cloud environments. This role will be heavily involved in large cloud migration initiatives and ongoing platform operations, with a strong focus on security, networking and reliability.
+
+Key Responsibilities
+Design, build and operate cloud infrastructure in AWS or Azure across multiple environments
+Support and deliver large-scale cloud migration projects (on-prem to cloud and hybrid)
+Implement and maintain cloud security best practices, including identity, network security and monitoring
+Work closely with application, security and network teams to deliver robust cloud solutions
+Troubleshoot and resolve complex cloud infrastructure and networking issues
+Required Experience & Skills
+Minimum 5 years hands-on cloud experience (AWS or Azure) across design, build and operations
+Strong experience with core cloud services and architectures in your chosen platform
+Broad cloud security knowledge, including identity and access management, encryption and network security
+Networking fundamentals advantageous (TCP/IP, DNS, routing, firewalls, VPNs, load balancing)
+Proven experience working on large cloud migration programs
+Desirable
+Infrastructure as Code experience (e.g. Terraform, CloudFormation, Bicep, ARM)
+CI/CD and automation experience
+Relevant cloud certifications (AWS or Azure)
+
+If this sounds like you, please apply within or send your updated cv to chris.selvage@mtr.com.au"
+89706460,Control Systems Engineer (Altona North),Moon Recruitment,https://www.seek.com.au/job/89706460?type=standard&ref=search-standalone&origin=jobCard#sol=9b6f2bf3782311397c44bf47fda572b1bdde4ff4,1h ago,1.0,2026-01-15T04:00:00+00:00,"Altona North, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Full time,AUD 120000 - 140000 per annum,"Join a fast-growing tech team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards.
+
+Our client is a leader in next-generation, smart composite materials and is at the forefront of innovation in the manufacturing sector. As they experience rapid expansion, they are looking for a Control Systems Engineer to join their dynamic team in Altona North, Melbourne, Victoria.
+
+
+Position Overview:
+Control Systems Engineer to contribute to the development of innovative processing equipment. The Control Systems Engineer will play a pivotal role in the development and design of automated processes.
+ 
+
+Key Responsibilities:
+
+
+Develop the process automation/control systems (including communication networks) hardware architecture - typically comprising of PLCs, safety controllers, functional safety field devices, variable speed drives, power generation and chemical (gas) processing equipment.
+In conjunction with process specialists, design control schemes for new material processing lines, then build, test and operate these systems.
+Assist in the development of new capabilities for control system design, testing, certification and production.
+Develop, program and implement control systems and control strategies for process manufacturing applications, simulating and testing to ensuring stability and reliability.
+Develop and maintain system documentation including functional specifications, design specifications, test plans, and operational manuals.
+Provide technical support to development and operational teams during system development, commissioning, deployment and production.
+Participate in the engineering peer group and exchange of ideas and feedback within the team.
+Ensure all regulatory and safety requirements are met.
+Stay up to date with the latest control systems technologies and industry trends.
+Train staff in control systems functionality and troubleshooting.
+Ensure the safety of all activities, including safety procedures and risk assessments for development and production activities.
+Assist with submissions to all relevant certification authorities for approvals.
+Establish systems and procedures for management of control system design data, in collaboration with control system engineers at other sites.
+Assist in continually improving the output of the team.
+Qualifications:
+Bachelor of Electrical /Automation/Control Systems Engineering or equivalent.
+
+Desirable:
+
+Post-graduate degree or advanced qualifications in Control Systems, Industrial Control, Electrical, Mechatronics or Renewable Energy.
+Experience with artificial intelligence / machine learning for intelligent control.
+Experience in the new energy industry, manufacturing or research & development.
+Functional Safety qualifications (i.e. TUV Certified Engineer).
+At least 3 years of automation/control systems engineering experience within a mining or industrial setting.
+
+If you are interested in this role, please send in an updated CV by Clicking the APPLY NOW Button.
+Join a fast-growing team developing cutting-edge software for smart manufacturing! Enjoy flexibility, innovation, and competitive rewards."
+89706442,AI Platform Engineer,FourQuarters Recruitment,https://www.seek.com.au/job/89706442?type=standard&ref=search-standalone&origin=jobCard#sol=94803b9c0603828aba1f72128a05445450240be1,1h ago,1.0,2026-01-15T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"AI Platform Engineer (6 Month Contract)
+
+Join a growing proptech company building next-generation AI platforms that power intelligent, data-driven property products. You’ll play a key role designing and scaling secure, cost-efficient LLM and agent-based systems used in real-world production environments.
+
+The Role
+You’ll work hands-on across AI platform architecture, agent frameworks, and LLM optimisation, partnering closely with product and engineering teams to deliver reliable, production-grade AI capabilities.
+
+Key Responsibilities
+
+Design and implement multi-agent RAG applications for complex, real-world workflows.
+Improve agent caching strategies to enhance performance and reduce latency.
+Optimise LLM cost, throughput, and response quality across production systems.
+Implement security controls within agent architectures (permissions, data access, guardrails).
+Apply grounding and factuality-checking techniques to reduce hallucinations and improve trust.
+Monitor, evaluate, and continuously improve AI platform performance in production.
+Skills & Experience
+
+Strong experience building LLM-powered applications in production.
+Hands-on with RAG architectures, agent frameworks, and orchestration patterns.
+Proven experience optimising LLM cost, token usage, and inference efficiency.
+Solid understanding of AI security, data access controls, and safe AI design.
+Experience with grounding techniques (retrieval validation, citations, factuality checks).
+Strong engineering background (Python preferred; cloud-native experience highly valued).
+Why Join
+
+Work on real production AI systems, not demos.
+Influence platform architecture from an early stage.
+Join a fast-scaling proptech with strong product-market traction.
+Competitive salary, flexible work, and real ownership.
+If you’re excited by building scalable, trustworthy AI platforms that solve real problems, we’d love to hear from you."
+89704606,Data Scientist,Hays | Technology,https://www.seek.com.au/job/89704606?type=standard&ref=search-standalone&origin=jobCard#sol=1cfe2c12379a556be6ec4942cefd4a60247e0a88,2h ago,2.0,2026-01-15T03:00:00+00:00,Perth WA (Hybrid),"Other (Mining, Resources & Energy)",Contract/Temp,$93 - $105/Hour + Super,"Data Scientist | AI & Advanced Analytics | Perth
+
+Your new company
+
+A leading organisation in the mining sector is seeking a Data Scientist to join their analytics team. This role focussesz on delivering innovative AI and machine learning solutions to drive operational efficiency and business insights.
+
+Your new role
+
+
+You will:
+
+Develop, deploy, and support AI, machine learning, and advanced analytics solutions
+Ensure solutions are sustainable, supportable, and well-documented
+Apply best-practice source control, modelling, and MLOps approaches (e.g., Git, MLflow)
+Monitor and improve Azure-based analytics platforms
+Work iteratively with stakeholders to validate insights and communicate outcomes
+Present complex analytical results in clear, business-friendly language
+Contribute to growing AI adoption across the business
+Stay current with emerging analytics and AI technologies
+
+What you'll need to succeed
+
+
+Essential:
+
+Extensive experience in a data science-related role
+Experience in the mining industry working with datasets (fleet management, historians, SAP, delay accounting)
+Bachelor's degree in Data Science, Computer Science, Mathematics, or Statistics
+Strong experience with Python, statistical modelling, and modern ML techniques
+Proven experience with Azure-based data and analytics platforms
+Experience with data lakes, SQL, Spark, ML frameworks, and Power BI
+Experience with enterprise-scale AI and large language models
+Desirable:
+
+Postgraduate qualification in a quantitative or mining-related field
+Experience with Databricks, MLOps/DevOps pipelines, and deep learning frameworks
+Experience with NLP and advanced AI use cases
+Participation in data science competitions (e.g., Unearthed, Kaggle)
+Strong stakeholder engagement and storytelling capability
+
+What you'll get in return
+
+
+Competitive daily rate
+Opportunity to work on cutting-edge AI and analytics projects in the mining sector
+Collaborative and innovative work environment
+
+What you need to do now
+
+If you're interested in this role, click 'Apply Now' or contact Rajat Jha at Hays on +61 8 9254 4532 or email rajat.jha@hays.com.au for more information.
+
+
+
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career."
+89704581,Machine Learning Engineer,GRIT Talent Consulting,https://www.seek.com.au/job/89704581?type=standard&ref=search-standalone&origin=jobCard#sol=f0dfb39a5860983592a8e0c07d44fcc08d9431ac,2h ago,2.0,2026-01-15T03:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,140000,"GRIT is hiring on behalf of our client in the AEC sector for a skilled Machine Learning Engineer with strong Python expertise and experience delivering within larger, cross-functional teams. In this role, you’ll play a key part in designing, developing, and deploying ML models and AI-driven solutions on Azure, collaborating closely with BAs, developers, and data professionals to support innovation across the built environment.
+
+What You’ll Do
+
+Design, develop, and deploy machine learning models into production environments
+Collaborate with analysts, engineers, and business stakeholders to transform prototypes into scalable solutions
+Enhance MLOps pipelines and ensure performance, reliability, and accuracy
+Leverage Azure ML, AI Search, OpenAI and cloud-based data services
+Monitor, update and maintain ML models to ensure optimal performance
+What you’ll bring:
+1+ year of commercial experience in machine learning and Python
+Solid grasp of tools like scikit-learn, pandas, NumPy, matplotlib, Plotly
+Experience working in production environments with Git and cloud (Azure preferred)
+Proficiency in Python (using VSCode or PyCharm)
+Strong problem-solving, time management, and communication skills
+A degree in Computer Science, Data Science, Engineering or related field
+Azure ML experience or certification highly desirable
+Highly Desirable:
+Knowledge of MLOps (MLFlow, Optuna), REST APIs (FastAPI, Flask), and Linux
+Experience with PyTorch or TensorFlow
+Familiarity with 3D geometry or IFC/IfcOpenShell
+This is a fast moving role! Reach out to TJ Tan on +61489279874 or tj@grittalent.com for a confidential discussion."
+89703004,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/89703004?type=standard&ref=search-standalone&origin=jobCard#sol=c644c4d5fb7aadbeb26037602f7647ecbf7222a0,2h ago,2.0,2026-01-15T03:00:00+00:00,Sydney NSW (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. We’ve helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business - responsibly and at speed.
 
 But we’re just getting started. As we move into our next phase of growth, we’re looking for consultants who don’t just want to deliver great solutions - but help shape the future of data and AI capability across Australia.
 
@@ -57,7 +268,7 @@ Many socials and community groups
 Opportunity to drive projects that are of interest to you!
 
 You’ll work with a team that’s smart, kind, and ambitious. You’ll have real influence in your projects, your practice, and our business. And as we grow, so will you."
-89702848,AI Architect / Principal Engineer - Contract or Perm,Software At Scale,https://www.seek.com.au/job/89702848?type=standard&ref=search-standalone&origin=jobCard#sol=071d922d1c3339ad1c5fbd14fc24a85a2a79b1ad,1h ago,1.0,2026-01-15T03:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Contract/Temp,,"Our 'black belt' specialists are leaders in their domains: digital champions, delivery-focused experts, top-tier security professionals, AI thought leaders, and engineering best practice advocates.
+89702848,AI Architect / Principal Engineer - Contract or Perm,Software At Scale,https://www.seek.com.au/job/89702848?type=standard&ref=search-standalone&origin=jobCard#sol=f67f5cdb81e40a73ec665c28f50bdddc79dd23dc,2h ago,2.0,2026-01-15T03:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Contract/Temp,,"Our 'black belt' specialists are leaders in their domains: digital champions, delivery-focused experts, top-tier security professionals, AI thought leaders, and engineering best practice advocates.
 
 With a global presence and local expertise, we deliver innovative solutions without compromising on quality. Our multidisciplinary teams provide tailored expertise to solve complex problems at scale, ensuring engineering excellence through our top technologists.
 
@@ -111,7 +322,7 @@ Understanding of AI ethics and governance.
 Experience in agile development environments.
 
 This is a unique opportunity to shape the future of our product offering through innovative AI solutions. The successful candidate will be both a strategic thinker and a hands-on implementer, capable of taking AI initiatives from concept to reality while ensuring they make financial and operational sense."
-89700759,Software Engineer 2 - Azure Ecosystems Engineering,Microsoft,https://www.seek.com.au/job/89700759?type=standard&ref=search-standalone&origin=jobCard#sol=0d3c254a945e1dcf38763b73911bf6217084633d,2h ago,2.0,2026-01-15T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
+89700759,Software Engineer 2 - Azure Ecosystems Engineering,Microsoft,https://www.seek.com.au/job/89700759?type=standard&ref=search-standalone&origin=jobCard#sol=597b16439cfaefdc5f385559dc84aa93f2eba849,3h ago,3.0,2026-01-15T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
 
 Developers are working hard to build our new reality, and the Azure Experience & Ecosystems Engineering team is here to help. The team's product, Microsoft Learn, offers learning paths, content, and interactive experiences that help people develop the skills that in-demand jobs require. As such, we contribute directly to Microsoft's mission to empower every person and every organization on the planet to achieve more.
 
@@ -161,7 +372,7 @@ Experience collaborating closely with product and design to shape abstractions a
 This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
 
 Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
-89699100,AI Engineer,Compare the Market,https://www.seek.com.au/job/89699100?type=standard&ref=search-standalone&origin=jobCard#sol=34b3f05e30353a91e447617441e42aff988c4f8c,2h ago,2.0,2026-01-15T02:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
+89699100,AI Engineer,Compare the Market,https://www.seek.com.au/job/89699100?type=standard&ref=search-standalone&origin=jobCard#sol=a07bdfb84873d851ce682097e12a848f87feb369,4h ago,4.0,2026-01-15T01:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -237,7 +448,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-89698100,"Software Engineer - Assembly, Integration and Verification (AIV)",CSIRO,https://www.seek.com.au/job/89698100?type=standard&ref=search-standalone&origin=jobCard#sol=5177f142ee776ff675f151b6b110db809f7207aa,3h ago,3.0,2026-01-15T01:00:00+00:00,"Kensington, Perth WA","Engineering - Software (Information & Communication Technology)
+89698100,"Software Engineer - Assembly, Integration and Verification (AIV)",CSIRO,https://www.seek.com.au/job/89698100?type=standard&ref=search-standalone&origin=jobCard#sol=04aa40b7d8f1b91261bd6bc3d1bc92f946cdd93d,4h ago,4.0,2026-01-15T01:00:00+00:00,"Kensington, Perth WA","Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,AU$118K - AU$127K per annum + upto 15.4% super,"Job description:
 
 Acknowledgement of Country
@@ -334,7 +545,7 @@ Please apply online and provide a cover letter and CV that best demonstrate your
 Applications close
 
 1 February 2026, 11:00pm AEDT"
-89697802,Lead Data Scientist,SEEK Limited,https://www.seek.com.au/job/89697802?type=standard&ref=search-standalone&origin=jobCard#sol=d7a89e73531123a2b086d3a732ef2364f19d5a0f,3h ago,3.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89697802,Lead Data Scientist,SEEK Limited,https://www.seek.com.au/job/89697802?type=standard&ref=search-standalone&origin=jobCard#sol=d3492f49f2e5f3412e052040b745f3725e22810f,4h ago,4.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -399,7 +610,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89697702,Principal Architect – AI Experiences and Enablement,SEEK Limited,https://www.seek.com.au/job/89697702?type=standard&ref=search-standalone&origin=jobCard#sol=5c905174d5a27fb61124d8f52bf857efc2d1d1da,3h ago,3.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
+89697702,Principal Architect – AI Experiences and Enablement,SEEK Limited,https://www.seek.com.au/job/89697702?type=standard&ref=search-standalone&origin=jobCard#sol=a7ce4f2f84ae6b7505574dead85ea98ad5944909,4h ago,4.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -463,7 +674,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89697567,Senior Systems Engineer,L3Harris Communications Australia Pty Ltd,https://www.seek.com.au/job/89697567?type=standard&ref=search-standalone&origin=jobCard#sol=99c0b0ba7f5f6a01f1ab1c899ab7a2ffdd1f8bb2,3h ago,3.0,2026-01-15T01:00:00+00:00,"Hamilton, Brisbane QLD",Systems Engineering (Engineering),Full time,,"L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+89697567,Senior Systems Engineer,L3Harris Communications Australia Pty Ltd,https://www.seek.com.au/job/89697567?type=standard&ref=search-standalone&origin=jobCard#sol=bea3bbd02fdde8ba0aa580b70cd6c3796a43c93c,4h ago,4.0,2026-01-15T01:00:00+00:00,"Hamilton, Brisbane QLD",Systems Engineering (Engineering),Full time,,"L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
 
 L3Harris Technologies is the Trusted Disruptor in the defense industry. With customers’ mission-critical needs always in mind, our employees deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security.
 
@@ -555,7 +766,7 @@ Due to the nature of our work many our roles require an Australian citizenship a
 L3Harris respectfully requests no agency submissions at this time.
 
 As an equal opportunities employer, L3Harris is committed to the equal treatment of all current and prospective employees and does not condone discrimination on the basis of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership."
-89697330,AI & ML Engineer,Greenstone Financial Services,https://www.seek.com.au/job/89697330?type=standard&ref=search-standalone&origin=jobCard#sol=34c898b854d9909b969b3b13b532e5f8f1657581,3h ago,3.0,2026-01-15T01:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"mathemaAI & ML Engineer
+89697330,AI & ML Engineer,Greenstone Financial Services,https://www.seek.com.au/job/89697330?type=standard&ref=search-standalone&origin=jobCard#sol=0c71aca9629c3a55529cf2d6899ebdc6ff507e17,5h ago,5.0,2026-01-15T00:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"mathemaAI & ML Engineer
 
 
 
@@ -620,7 +831,7 @@ We are passionate about our core values, which contribute towards the positive c
 Location
 
 Great central location in Norwest Business Park, Norwest, only a short walk from Norwest Metro station and also direct bus access from Parramatta and Blacktown."
-89697138,Senior Data Scientist - Search,SEEK Limited,https://www.seek.com.au/job/89697138?type=standard&ref=search-standalone&origin=jobCard#sol=cf7ed2067863a8471fa17de79a1b8be05c646ae9,3h ago,3.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89697138,Senior Data Scientist - Search,SEEK Limited,https://www.seek.com.au/job/89697138?type=standard&ref=search-standalone&origin=jobCard#sol=e295c62395a6684b9049ea084f6e6ffef04ef2cb,5h ago,5.0,2026-01-15T00:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -704,7 +915,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89696306,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696306?type=standard&ref=search-standalone&origin=jobCard#sol=9066a389b5a3b518338d6b42f30d78fd7d60a8f8,4h ago,4.0,2026-01-15T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
+89696306,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696306?type=standard&ref=search-standalone&origin=jobCard#sol=85ce4376ed803297bd7fe8f97209e007683184ae,5h ago,5.0,2026-01-15T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -799,7 +1010,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-89696131,Senior Systems Engineer – Capability Development,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696131?type=standard&ref=search-standalone&origin=jobCard#sol=206c2de5baf4c49e5ba20b4ac38b70ac81b29325,4h ago,4.0,2026-01-15T00:00:00+00:00,"Garden Island, Sydney NSW",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us
+89696131,Senior Systems Engineer – Capability Development,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696131?type=standard&ref=search-standalone&origin=jobCard#sol=4fc72b17ff3a22633e5d1181d638af00f9ed37ac,5h ago,5.0,2026-01-15T00:00:00+00:00,"Garden Island, Sydney NSW",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -882,7 +1093,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-89695171,Artificial Intelligence (AI) Engineer,Robert Half,https://www.seek.com.au/job/89695171?type=standard&ref=search-standalone&origin=jobCard#sol=aa8b969d8f447db54a94c80b0035025e5c6ee909,5h ago,5.0,2026-01-14T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Company
+89695171,Artificial Intelligence (AI) Engineer,Robert Half,https://www.seek.com.au/job/89695171?type=standard&ref=search-standalone&origin=jobCard#sol=8ca4baf395fbd0cf84b3eb2e454b61ebbb4a279d,6h ago,6.0,2026-01-14T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Company
 
 Our client is a high-growth, tech-led business at an exciting point in their AI journey. With strong foundations and governance already in place, they're now looking for an AI Engineer who can genuinely influence how AI is applied across the business - from streamlining processes to improving decision-making and creating real, measurable value. If you have hands-on experience across AI/ML, Generative AI, Agentic AI, or Data Science, we'd love to hear from you.
 
@@ -925,7 +1136,7 @@ Robert Half Ltd is committed to equal opportunity and we value diversity at our 
 Job Reference Number: 06810-0013364679NI
 
 By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
-89693908,Machine Learning Engineer,TheDriveGroup,https://www.seek.com.au/job/89693908?type=standard&ref=search-standalone&origin=jobCard#sol=78cf45f13b175a9d27e266a7addda471af53212c,6h ago,6.0,2026-01-14T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"*Multiple Roles Available*
+89693908,Machine Learning Engineer,TheDriveGroup,https://www.seek.com.au/job/89693908?type=standard&ref=search-standalone&origin=jobCard#sol=b4b686d3ac91369dce3ebde4c50499baf5c32ba1,7h ago,7.0,2026-01-14T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"*Multiple Roles Available*
 
 We're partnering exclusively with a purpose-driven, product-led SaaS start-up that applies machine learning to solve meaningful, real-world problems at scale. Their platform supports organisations globally by turning complex data into actionable insights, enabling smarter decision-making and measurable outcomes.
 
@@ -961,46 +1172,3 @@ TheDriveGroup is 100% committed to improving meaningful diversity in the technol
 We partner with clients who embrace diversity and seek candidates across all backgrounds, abilities, genders, sexualities, cultures, and faiths.
 
 If you have the right skills and attitude we would love to hear from you!"
-89693559,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89693559?type=standard&ref=search-standalone&origin=jobCard#sol=90ab318eda4cff2e4666e0a53ad491b572c83126,7h ago,7.0,2026-01-14T21:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
-
-
-
-CAPGEMINI SERVICE SAS
-
-
-
-Job description:
-
-Your Role
-
-As the Splunk Monitoring Specialist, you will ensure proactive monitoring of IT infrastructure and applications using Splunk ITSI. The role includes validating automated tickets, performing manual interventions, analyzing alerts, maintaining SLA compliance, and supporting continuous improvement initiatives.
-
-Key Responsibilities:
-Monitor service health and KPIs in Splunk ITSI - proactively detect infrastructure and application issues.
-Respond to alerts and incidents within SLA - perform triage and correlation analysis in ITSI.
-Validate and manage ServiceNow tickets - create manual tickets when auto-creation fails.
-Analyze alerts in ITSI - identify false positives and tune KPIs and thresholds.
-Perform daily health checks - provide alert summaries, SLA compliance, and trend reports.
-Update monitoring configurations, correlation searches, and maintain change logs.
-Create and maintain SOPs, runbooks, dashboards, and response manuals for ITSI and ServiceNow.
-Recommend improvements for alert tuning, automation, and continuous service optimization.
-
-Your Experience
-
-Strong expertise in Splunk ITSI for service health monitoring, KPI creation, and alert correlation.
-Advanced ServiceNow Reporting & Performance Analytics skills, including dashboard creation and data visualization.
-Solid understanding of ITIL processes (Incident, Change, SRM) and SIAM framework.
-Hands-on experience with SLM process, SLA calculations, and ServiceNow ticket creation with alert analysis.
-Proven problem-solving ability
-Self-managing and a self-starter
-Uses initiative and able to address any issues
-
-Preferred Certifications:
-
-Splunk Core Certified Power User
-Splunk ITSI Certified
-ITIL Foundation
-
-Apply today!
-
-Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem."
