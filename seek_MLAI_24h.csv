@@ -1,5 +1,167 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89699100,AI Engineer,Compare the Market,https://www.seek.com.au/job/89699100?type=standard&ref=search-standalone&origin=jobCard#sol=983717a8b4ecd1b2c0f147db6ae556cb9cebbc90,1h ago,1.0,2026-01-15T01:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
+89703004,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/89703004?type=standard&ref=search-standalone&origin=jobCard#sol=44e006b65131bb6c6b7a3f9a34ff77542f26aa0a,1h ago,1.0,2026-01-15T03:00:00+00:00,Sydney NSW (Hybrid),Other (Consulting & Strategy),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. We’ve helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business - responsibly and at speed.
+
+But we’re just getting started. As we move into our next phase of growth, we’re looking for consultants who don’t just want to deliver great solutions - but help shape the future of data and AI capability across Australia.
+
+We’re looking for a Data Engineer, based in Sydney, who can design and deliver modern, scalable data solutions across multi-cloud environments (AWS, GCP, Azure) and modern data stacks, primarily using Databricks.
+
+You’ll work directly with clients to understand their data challenges, architect and build high-quality pipelines, and support analytics, governance, and AI enablement initiatives. This role blends hands-on engineering with consulting - helping clients realise value at pace while contributing to Intelligen’s growing engineering capability.
+
+This role is ideal for someone who loves solving complex engineering problems, thrives in modern data ecosystems, and wants to work in a high-performing team doing meaningful, future-shaping work.
+
+Design, build, and optimise scalable Databricks Lakehouse solutions across AWS, Azure, and GCP
+Develop robust data ingestion, transformation, and orchestration pipelines using Databricks (Spark, Delta Lake, Workflows)
+Build high-quality data models to support analytics, reporting, and AI/ML use cases
+Implement medallion architectures (bronze, silver, gold) and modern data engineering patterns
+Collaborate closely with clients to translate business requirements into well-architected, actionable data solutions
+Support or implement dbt, CI/CD pipelines, Git-based workflows, and engineering best practices
+Ensure strong data quality, governance, lineage, security, and performance optimisation within Databricks environments.
+Work alongside analytics, governance, and AI consultants to deliver cohesive, end-to-end solutions
+Contribute to reusable assets, accelerators, and internal frameworks that strengthen Intelligen’s Databricks capability
+Mentor junior engineers and positively influence client delivery and engineering standards
+
+
+
+
+Requirements
+
+
+
+4–6+ years’ experience in data engineering or analytics engineering
+Strong hands-on experience with Databricks (Spark, Delta Lake, Workflows), ideally in production environments
+Experience with at least one major cloud platform: AWS, Azure, or GCP
+Strong SQL skills and experience building complex data transformations
+Familiarity with modern data stacks — e.g. Databricks, Snowflake, dbt, cloud data lakes, orchestration tools
+Experience working across the full data lifecycle: ingestion → transformation → modelling → consumption
+Consulting, stakeholder-facing experience, or cross-functional delivery exposure
+Knowledge of DevOps concepts, version control, and/or CI/CD in data environments
+Excellent communication, problem-solving, and collaboration skills
+Sydney-based, with ability to work on-site with clients as required
+A mindset of curiosity, delivery excellence, and continuous learning
+
+
+
+
+Benefits
+
+
+
+We’re not just delivering AI and data projects, we’re humanising them. That means we care deeply about the how, not just the what. We value curiosity, creativity, and a willingness to challenge the status quo. We look for people who are driven to build a business, get curious, and offer up their opinions and ideas.
+
+As well as:
+
+Work From Home - Flexible hours
+Training & Development
+Free Food & Snacks
+Many socials and community groups
+Opportunity to drive projects that are of interest to you!
+
+You’ll work with a team that’s smart, kind, and ambitious. You’ll have real influence in your projects, your practice, and our business. And as we grow, so will you."
+89702848,AI Architect / Principal Engineer - Contract or Perm,Software At Scale,https://www.seek.com.au/job/89702848?type=standard&ref=search-standalone&origin=jobCard#sol=071d922d1c3339ad1c5fbd14fc24a85a2a79b1ad,1h ago,1.0,2026-01-15T03:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Contract/Temp,,"Our 'black belt' specialists are leaders in their domains: digital champions, delivery-focused experts, top-tier security professionals, AI thought leaders, and engineering best practice advocates.
+
+With a global presence and local expertise, we deliver innovative solutions without compromising on quality. Our multidisciplinary teams provide tailored expertise to solve complex problems at scale, ensuring engineering excellence through our top technologists.
+
+Empower Your Career with Us
+
+Are you ready to join a dynamic team that empowers businesses through robust engineering capabilities? We seek talented individuals who thrive in a fast-paced environment with a strong sense of urgency and a focus on execution.
+
+Overview of the Role
+
+We are seeking an experienced AI Architect / Principal Engineer to help shape and drive our AI strategy and product innovation. This role bridges the gap between ambitious business objectives and pragmatic technical implementation. You will work closely with product teams not only to architect AI-powered solutions but to ensure they are commercially viable, secure, and built for scale. The ideal candidate combines deep technical knowledge of AI/ML with the practical experience of an enterprise architect who understands the importance of cost management, security posture, and operational excellence.
+
+Candidates must have a minimum of 2-3 years of AI/ML experience to be considered for this Solutions Architect role.
+
+A minimum of 5-6 years of architecture experience is required for this position.
+
+A Bachelor's degree is required for this role.
+
+Australian work rights are required for this position.
+
+Key Responsibilities
+
+Lead AI Product Strategy & Discovery: Lead workshops to identify high-impact opportunities for AI integration, translating business requirements into technical solutions that drive tangible value.
+Scalable Architecture Strategy: Develop a product and technology strategy fit for purpose, ensuring architectures are designed to meet the rigorous scalability demands of our platform (latency, throughput, and high availability).
+Security & Compliance: Architect solutions that strictly adhere to enterprise security requirements, designing safeguards against data leakage, prompt injection, and ensuring compliance with data privacy standards.
+Cost Management & Optimization: Design architectures with strict cost constraints in mind. Optimize token usage, model selection, and infrastructure to ensure the solution is commercially viable and maintains healthy margins.
+Financial Responsibility: Drive a financially responsible AI strategy that balances innovation with fiscal discipline, ensuring projects deliver key business outcomes while achieving specific financial targets (ROI and Total Cost of Ownership).
+Operational Excellence: Guide the operationalisation of AI solutions, ensuring they are maintainable, observable, and performant in a production environment.
+Technical Leadership: Collaborate with product teams to define AI feature roadmaps, creating detailed technical specifications and providing guidance on integration best practices.
+Technology Evaluation: Evaluate and recommend AI technologies, frameworks, and platforms, balancing ""bleeding edge"" capabilities with enterprise stability.
+
+Skills and Experience
+
+Required:
+
+AI Product Implementation: Proven experience developing and implementing customer-facing AI/ML products, particularly those utilizing LLMs, in a production environment.
+LLM Experience: Candidates must have experience with Large Language Models (LLMs) for this AI Solutions Architect position.
+Enterprise Architecture: Extensive experience in solution architecture with a focus on non-functional requirements—specifically scalability, performance, and reliability in distributed systems.
+Financial & Cost Management (FinOps): Demonstrated ability to manage the economics of AI. Experience calculating unit economics, managing API/Token costs, and optimizing cloud infrastructure spend.
+Security First Mindset: Strong understanding of AI security risks and experience implementing secure data handling practices within regulated or enterprise environments.
+Strategic Execution: Strong track record of creating and executing enterprise-wide AI strategies that align technical output with business goals.
+Communication: Demonstrated ability to translate complex technical concepts (and their associated costs/risks) to non-technical stakeholders and executive leadership.
+Operational Scale: Strong understanding of MLOps, CI/CD for AI, and the requirements for running AI workloads at scale.
+
+Preferred:
+
+Experience with publicly deployed LLM-based products.
+Experience at training LLMs.
+Background in product monetisation and revenue optimisation.
+Experience with major cloud platforms (AWS, Azure, GCP) and their specific AI suites.
+Understanding of AI ethics and governance.
+Experience in agile development environments.
+
+This is a unique opportunity to shape the future of our product offering through innovative AI solutions. The successful candidate will be both a strategic thinker and a hands-on implementer, capable of taking AI initiatives from concept to reality while ensuring they make financial and operational sense."
+89700759,Software Engineer 2 - Azure Ecosystems Engineering,Microsoft,https://www.seek.com.au/job/89700759?type=standard&ref=search-standalone&origin=jobCard#sol=0d3c254a945e1dcf38763b73911bf6217084633d,2h ago,2.0,2026-01-15T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
+
+Developers are working hard to build our new reality, and the Azure Experience & Ecosystems Engineering team is here to help. The team's product, Microsoft Learn, offers learning paths, content, and interactive experiences that help people develop the skills that in-demand jobs require. As such, we contribute directly to Microsoft's mission to empower every person and every organization on the planet to achieve more.
+
+As a Software Engineer II in Azure Experience & Ecosystems Engineering team, you will build the Microsoft Learn product which will positively impact how people experience Microsoft's technology. You will be responsible for building Content and Learning experiences through constant innovation, design, and implementing state-of-the-art systems. This opportunity will allow you to learn from unique engineering challenges in AI, frontend and backend services and leverage AI to shape Microsoft Learn into a trusted, personalized knowledge platform that meets developers where they are.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+Works with product management, design and data analyst teams to determine user requirements for a set of features.
+
+Contributes to the identification of dependencies, and the development of design documents for a product area with little oversight.
+
+Creates and implements code for a product, service, or feature, reusing code as applicable.
+
+Contributes to efforts to break down larger work items into smaller work items and provides estimation.
+
+Acts as a Designated Responsible Individual (DRI) working on-call to monitor system/product feature/service for degradation, downtime, or interruptions and gains approval to restore system/product/service for simple problems.
+
+Remains current in skills by investing time and effort into staying abreast of current developments that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+
+Qualifications
+Required Qualifications: 
+
+Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience. 
+
+2+ years of professional experience in cloud service development using one or more of these technologies: Hypertext Transfer Protocol (HTTP), Hypertext Markup Language (HTML), JavaScript, Cascading Style Sheets (CSS), .NET, Node.js, Representational State Transfer Application Programming Interfaces (REST APIs).
+
+1+ year(s) of demonstrated problem-solving, design, and debugging skills, with a passion for quality, performance, and engineering excellence.
+
+Other Requirements: 
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter. 
+
+Preferred Qualifications:  
+
+Experience with cloud-native architecture, microservices, and asynchronous workflows. 
+
+Experience with agent-based systems, workflow engines, or declarative programming models is highly desirable.
+
+Experience with AI-assisted coding tools (e.g., GitHub Copilot) and large language models (LLMs) such as GPT or Claude Sonnet.
+
+Experience collaborating closely with product and design to shape abstractions and reference implementations that scale across use cases.
+
+#azurecorejobs
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
+89699100,AI Engineer,Compare the Market,https://www.seek.com.au/job/89699100?type=standard&ref=search-standalone&origin=jobCard#sol=34b3f05e30353a91e447617441e42aff988c4f8c,2h ago,2.0,2026-01-15T02:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -75,7 +237,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-89698100,"Software Engineer - Assembly, Integration and Verification (AIV)",CSIRO,https://www.seek.com.au/job/89698100?type=standard&ref=search-standalone&origin=jobCard#sol=afb6545968a1150357b92ad7c9bec224a1b28ce3,1h ago,1.0,2026-01-15T01:00:00+00:00,"Kensington, Perth WA","Engineering - Software (Information & Communication Technology)
+89698100,"Software Engineer - Assembly, Integration and Verification (AIV)",CSIRO,https://www.seek.com.au/job/89698100?type=standard&ref=search-standalone&origin=jobCard#sol=5177f142ee776ff675f151b6b110db809f7207aa,3h ago,3.0,2026-01-15T01:00:00+00:00,"Kensington, Perth WA","Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,AU$118K - AU$127K per annum + upto 15.4% super,"Job description:
 
 Acknowledgement of Country
@@ -172,7 +334,7 @@ Please apply online and provide a cover letter and CV that best demonstrate your
 Applications close
 
 1 February 2026, 11:00pm AEDT"
-89697802,Lead Data Scientist,SEEK Limited,https://www.seek.com.au/job/89697802?type=standard&ref=search-standalone&origin=jobCard#sol=85b9f6fadf2188cf78f6de905294664acba7a896,1h ago,1.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89697802,Lead Data Scientist,SEEK Limited,https://www.seek.com.au/job/89697802?type=standard&ref=search-standalone&origin=jobCard#sol=d7a89e73531123a2b086d3a732ef2364f19d5a0f,3h ago,3.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -237,7 +399,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89697702,Principal Architect – AI Experiences and Enablement,SEEK Limited,https://www.seek.com.au/job/89697702?type=standard&ref=search-standalone&origin=jobCard#sol=01cd2ab902a01c1ac4ef192e0df291ac6fe2d49b,1h ago,1.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
+89697702,Principal Architect – AI Experiences and Enablement,SEEK Limited,https://www.seek.com.au/job/89697702?type=standard&ref=search-standalone&origin=jobCard#sol=5c905174d5a27fb61124d8f52bf857efc2d1d1da,3h ago,3.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -301,7 +463,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89697567,Senior Systems Engineer,L3Harris Communications Australia Pty Ltd,https://www.seek.com.au/job/89697567?type=standard&ref=search-standalone&origin=jobCard#sol=f9cb1afe4435e2c6825e2acb08b2ea8e13516e81,1h ago,1.0,2026-01-15T01:00:00+00:00,"Hamilton, Brisbane QLD",Systems Engineering (Engineering),Full time,,"L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+89697567,Senior Systems Engineer,L3Harris Communications Australia Pty Ltd,https://www.seek.com.au/job/89697567?type=standard&ref=search-standalone&origin=jobCard#sol=99c0b0ba7f5f6a01f1ab1c899ab7a2ffdd1f8bb2,3h ago,3.0,2026-01-15T01:00:00+00:00,"Hamilton, Brisbane QLD",Systems Engineering (Engineering),Full time,,"L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
 
 L3Harris Technologies is the Trusted Disruptor in the defense industry. With customers’ mission-critical needs always in mind, our employees deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security.
 
@@ -393,7 +555,7 @@ Due to the nature of our work many our roles require an Australian citizenship a
 L3Harris respectfully requests no agency submissions at this time.
 
 As an equal opportunities employer, L3Harris is committed to the equal treatment of all current and prospective employees and does not condone discrimination on the basis of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership."
-89697330,AI & ML Engineer,Greenstone Financial Services,https://www.seek.com.au/job/89697330?type=standard&ref=search-standalone&origin=jobCard#sol=05954e1be0a367f9614ec36753e63bf7435aa611,1h ago,1.0,2026-01-15T01:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"mathemaAI & ML Engineer
+89697330,AI & ML Engineer,Greenstone Financial Services,https://www.seek.com.au/job/89697330?type=standard&ref=search-standalone&origin=jobCard#sol=34c898b854d9909b969b3b13b532e5f8f1657581,3h ago,3.0,2026-01-15T01:00:00+00:00,"Norwest, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"mathemaAI & ML Engineer
 
 
 
@@ -458,7 +620,7 @@ We are passionate about our core values, which contribute towards the positive c
 Location
 
 Great central location in Norwest Business Park, Norwest, only a short walk from Norwest Metro station and also direct bus access from Parramatta and Blacktown."
-89697138,Senior Data Scientist - Search,SEEK Limited,https://www.seek.com.au/job/89697138?type=standard&ref=search-standalone&origin=jobCard#sol=c1115c1ce4b564ae34f5bb547ff57ea7fedf1cda,1h ago,1.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89697138,Senior Data Scientist - Search,SEEK Limited,https://www.seek.com.au/job/89697138?type=standard&ref=search-standalone&origin=jobCard#sol=cf7ed2067863a8471fa17de79a1b8be05c646ae9,3h ago,3.0,2026-01-15T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -542,7 +704,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89696306,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696306?type=standard&ref=search-standalone&origin=jobCard#sol=06291330d3d086a6a4805c4002d389a7811750cd,2h ago,2.0,2026-01-15T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
+89696306,Combat Systems Engineer Opportunities,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696306?type=standard&ref=search-standalone&origin=jobCard#sol=9066a389b5a3b518338d6b42f30d78fd7d60a8f8,4h ago,4.0,2026-01-15T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -637,7 +799,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-89696131,Senior Systems Engineer – Capability Development,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696131?type=standard&ref=search-standalone&origin=jobCard#sol=524765153d5ee3b077d9a5f4a7b7881d1b63401e,2h ago,2.0,2026-01-15T00:00:00+00:00,"Garden Island, Sydney NSW",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us
+89696131,Senior Systems Engineer – Capability Development,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/89696131?type=standard&ref=search-standalone&origin=jobCard#sol=206c2de5baf4c49e5ba20b4ac38b70ac81b29325,4h ago,4.0,2026-01-15T00:00:00+00:00,"Garden Island, Sydney NSW",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -720,7 +882,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-89695171,Artificial Intelligence (AI) Engineer,Robert Half,https://www.seek.com.au/job/89695171?type=standard&ref=search-standalone&origin=jobCard#sol=3d24046f8709fa845dbf346dac29fdd5fc9b3240,3h ago,3.0,2026-01-14T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Company
+89695171,Artificial Intelligence (AI) Engineer,Robert Half,https://www.seek.com.au/job/89695171?type=standard&ref=search-standalone&origin=jobCard#sol=aa8b969d8f447db54a94c80b0035025e5c6ee909,5h ago,5.0,2026-01-14T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Company
 
 Our client is a high-growth, tech-led business at an exciting point in their AI journey. With strong foundations and governance already in place, they're now looking for an AI Engineer who can genuinely influence how AI is applied across the business - from streamlining processes to improving decision-making and creating real, measurable value. If you have hands-on experience across AI/ML, Generative AI, Agentic AI, or Data Science, we'd love to hear from you.
 
@@ -763,7 +925,7 @@ Robert Half Ltd is committed to equal opportunity and we value diversity at our 
 Job Reference Number: 06810-0013364679NI
 
 By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
-89693908,Machine Learning Engineer,TheDriveGroup,https://www.seek.com.au/job/89693908?type=standard&ref=search-standalone&origin=jobCard#sol=55e5ef560f84d7e6e454cbdc9c61daa887d855a7,4h ago,4.0,2026-01-14T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"*Multiple Roles Available*
+89693908,Machine Learning Engineer,TheDriveGroup,https://www.seek.com.au/job/89693908?type=standard&ref=search-standalone&origin=jobCard#sol=78cf45f13b175a9d27e266a7addda471af53212c,6h ago,6.0,2026-01-14T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"*Multiple Roles Available*
 
 We're partnering exclusively with a purpose-driven, product-led SaaS start-up that applies machine learning to solve meaningful, real-world problems at scale. Their platform supports organisations globally by turning complex data into actionable insights, enabling smarter decision-making and measurable outcomes.
 
@@ -799,7 +961,7 @@ TheDriveGroup is 100% committed to improving meaningful diversity in the technol
 We partner with clients who embrace diversity and seek candidates across all backgrounds, abilities, genders, sexualities, cultures, and faiths.
 
 If you have the right skills and attitude we would love to hear from you!"
-89693559,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89693559?type=standard&ref=search-standalone&origin=jobCard#sol=ce31e40637390b8461711747bb86eb4554b5dc93,5h ago,5.0,2026-01-14T21:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+89693559,Splunk Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89693559?type=standard&ref=search-standalone&origin=jobCard#sol=90ab318eda4cff2e4666e0a53ad491b572c83126,7h ago,7.0,2026-01-14T21:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
