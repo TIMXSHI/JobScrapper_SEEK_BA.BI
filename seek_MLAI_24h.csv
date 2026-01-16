@@ -1,5 +1,557 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89732425,Data Architect,Catholic Education Western Australia Limited,https://www.seek.com.au/job/89732425?type=standard&ref=search-standalone&origin=jobCard#sol=9060b3ae840ec7660e531e57e31987abb04a5276,1h ago,1.0,2026-01-16T03:00:00+00:00,"West Leederville, Perth WA",Architects (Information & Communication Technology),Full time,,"Catholic Education in Western Australia (CEWA) is the second largest education provider in the State. We cater for more than 76,000 students in 162 schools.
+89736598,Senior Networks Engineer - F5,Peoplebank Australia NSW,https://www.seek.com.au/job/89736598?type=standard&ref=search-standalone&origin=jobCard#sol=a0abef70676e8b36923ba58ac888c8c082ff7905,1h ago,1.0,2026-01-16T04:00:00+00:00,"North Sydney, Sydney NSW (Remote)",Engineering - Network (Information & Communication Technology),Contract/Temp,Competitive Remuneration,"About the Company:
+ 
+Our client an iconic Australian organisation providing products and services to millions of customers. They are pioneering, progressive and are leaders in their field.
+ 
+Role Description
+We are seeking an experienced Engineer in designing and configuring LTM, GTM, global DNS, and APM services, with strong capability in implementing SSL/TLS offloading and developing custom iRules/iApps. Skilled in deploying and managing APM for VPN and SSO, and in architecting and supporting high-availability F5 application delivery environments.
+ 
+Key Deliverables
+
+Develop reference architectures and configuration standards.
+Designing/supporting Check Point Maestro and VSX environments.
+Produce detailed migration procedures and implementation guides.
+Build and maintain health monitors for application and network services.
+Manage certificates across SSL/TLS environments.
+Conduct resilience testing and deliver formal test reports.
+Create support runbooks for operational teams.
+ 
+Tools & Technologies
+
+F5 BIG-IP LTM, GTM, DNS, and APM.
+Check Point Quantum / VSX and Maestro.
+TMOS platform.
+iRules and iApps for traffic management and automation.
+SSL/TLS encryption and offload.
+REST APIs for integration and automation.
+ 
+For a confidential discussion, please contact Pravin on pravin.manandhar@peoplebank.com.au quoting reference 269086.
+
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+89736456,Data Architect,O'Brien Glass Industries Limited,https://www.seek.com.au/job/89736456?type=standard&ref=search-standalone&origin=jobCard#sol=b27566e8309a646b705ff439aefbe0f19ee426c7,1h ago,1.0,2026-01-16T04:00:00+00:00,"Padstow, Sydney NSW",Architects (Information & Communication Technology),Full time,Competitive base + Recognition programs + Hybrid,"Are you wanting to work for an organisation that values their people, invests in communities and has a commitment to our environment? Do you share a passion for maintaining a continual focus on Making a Difference with Real Care to customers and employees? If this sounds like you, then we have your next opportunity.
+
+
+
+
+About O’Brien® Glass 
+
+O’Brien® Glass is one of Australia’s most trusted household brands, known for delivering exceptional service and quality for over 100 years. With a national footprint and a strong commitment to innovation, we’re modernising the way we use data to support smarter decision making across the business. When you join O’Brien®, you join a team driven by values, collaboration, and a genuine focus on helping our people succeed. 
+
+This role will be offered on an initial 24-month fixed term basis. 
+
+
+
+
+About the Role 
+
+We’re looking for a Data Architect who can design, shape, and guide the evolution of the O’Brien® enterprise data ecosystem. If you love turning complex business needs into elegant, scalable data solutions—and want to be part of a global group (Belron®)—this may be your next great career move.
+
+As the Data Architect, you’ll lead the design and governance of O'Brien’s enterprise data architecture, ensuring our data environments are secure, scalable, accessible, and built for the future. You will collaborate across teams and influence data strategy at a national and global level.
+
+ 
+
+What You’ll Be Doing 
+
+Data Architecture & Design
+
+Develop and maintain enterprisewide data architecture standards, models, and frameworks.
+
+Lead adoption of the group’s Enterprise Logical Data Model.
+
+Design conceptual, logical, and physical data models for operational and analytical workloads.
+
+Provide architecture governance for our modern data estate—including data lakes, data warehouses, ETL/ELT, and presentation layers.
+
+Ensure all solutions align with business strategy and the Belron® global technology roadmap.
+
+Data Platform & Integration 
+
+Design and oversee data pipelines, ETL/ELT processes, and system integrations.
+
+Optimise ingestion, processing, and storage across cloud and onprem environments.
+
+Implement best practices for data security, lineage, metadata, and governance.
+
+Evaluate and recommend new tools, technologies, and architectural improvements.
+
+Collaboration & Stakeholder Engagement
+
+Partner with technical and business teams to understand data requirements.
+
+Work closely with IT leadership to support digital transformation and analytics initiatives.
+
+Provide architectural guidance to data engineering, BI and analytics teams.
+
+Collaborate with vendors, consultants, and external partners.
+
+Performance & Continuous Improvement
+
+Monitor and optimise data flow performance, storage, and compute costs.
+
+Stay up-to-date with emerging data technologies and industry trends.
+
+Lead modernisation efforts for legacy platforms and enable new data capabilities.
+
+
+
+
+What You’ll Bring
+
+At O’Brien® we are Caring, Collaborative, Genuine and Driven. We call this our DNA, and it’s what we look when growing our teams. If you fit the DNA, you’ll fit here. In conjunction we are needing some with: 
+
+Bachelor’s degree in Computer Science, Information Systems, or similar.
+
+Proven experience as a Senior Data Architect, Data Architect, or similar senior data role.
+
+Strong conceptual, logical, and physical data modelling skills. 
+
+Handson expertise with Snowflake, SQL, and modern cloud data platforms (Azure or AWS).
+
+Experience designing data lakes, data warehouses, or lakehouse architectures.
+
+Solid understanding of ETL/ELT pipelines and integration frameworks.
+
+Strong knowledge of data governance, MDM, data quality, and metadata management.
+
+Exceptional communication skills—able to translate complex concepts into business-friendly language.
+
+
+
+
+Nice to haves 
+
+Certifications such as CDMP, TOGAF, or cloud/data architecture credentials.
+
+Experience with Informatica MDM, big data or streaming tools (Spark, Databricks, Kafka).
+
+Experience in analytics/BI/reporting environments or data scienceenabling platforms.
+
+Industry experience in manufacturing, supply chain, automotive, or services.
+
+Experience with AWS Serverless Data lake Framework.
+
+
+
+
+Why O’Brien
+
+O’Brien is Australia’s market leader in vehicle glass repair and replacement part of the global Belron group operating in over 35 countries. We’re investing heavily in digital capability, customer experience, and operational excellence, giving you the tools, resources, and backing to deliver big ideas at scale. Here, you’ll join a high-performance, values-driven culture where collaboration, care, driven and genuine being our values aren’t just words they’re how we work every day.
+
+
+
+
+Ready to shape the future of data at O’Brien®?
+
+
+
+
+If you meet the above criteria and you’re seeking a rewarding career with a nationally recognised household brand, then we would love to hear from you. Apply Now!
+
+
+
+
+At O'Brien®, we put our customer at the heart of everything that we do, serving more than 360,000 Customers each year, 24 hours a day, 7 days a week, 365 days a year. O'Brien is also part of Belron®, worldwide leader in vehicle glass repair, replacement and recalibration services, operating in 40 countries across 6 continents
+
+
+
+
+Privacy: To review and consider your application, O'Brien® collects personal information. To understand what is collected and why, carefully review the Applicant Privacy Notice presented during your online application and/or review our Privacy Policy and Terms of Use.
+
+
+
+
+Agencies: O'Brien® does not accept unsolicited resumes or outreach from recruiting agencies. Absent a signed agreement and approval from O'Brien® to submit candidates to a specific requisition, we will not approve payment to any third party."
+89736040,Machine Learning Engineer / ML Ops engineer,Aurec,https://www.seek.com.au/job/89736040?type=standard&ref=search-standalone&origin=jobCard#sol=8a791634a742f96864a91938e4fe787cc6d2aab8,1h ago,1.0,2026-01-16T04:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Machine Learning & MLOps Engineers | Federal Government
+
+Location: Canberra,Melbourne,Brisbane,Hobart,Adelaide,Sydney
+
+About the Role:
+
+We are seeking experienced Machine Learning Engineers and MLOps Engineers to support a major Federal Government client. You will be instrumental in designing, deploying, and scaling sophisticated ML solutions within a secure, high-impact environment.
+
+These roles require a blend of technical excellence and the ability to navigate Australian Government security frameworks.
+
+
+Australian Citizen's with a current Baseline Security Clearance (or higher) are highly desirable.
+
+
+
+Machine Learning Engineer
+
+Focus: Designing and implementing high-performance models.
+
+Key Responsibilities:
+
+
+Design and implement ML models and algorithms for complex, large-scale datasets.
+Develop and maintain robust ML pipelines for training, testing, and deployment.
+Optimize production models for performance, scalability, and accuracy.
+Ensure all solutions comply with the ISM, PSPF, and ethical AI principles.
+Monitor model health, detecting and addressing data drift.
+Your Toolkit:
+
+
+Expertise in Python and frameworks (TensorFlow, PyTorch, Scikit-learn).
+Deep understanding of feature engineering and model optimization.
+Experience with cloud platforms (AWS, Azure, or GCP) and Docker/Kubernetes.
+
+MLOps Engineer
+
+Focus: Automation, CI/CD, and the ML lifecycle.
+
+Key Responsibilities:
+
+
+Design and maintain end-to-end ML pipelines and infrastructure.
+Develop automation and CI/CD workflows to transition models from dev to production.
+Implement monitoring and alerting for model performance and data integrity.
+Optimize infrastructure for cost-effectiveness and scalability.
+Provide technical mentorship and ensure adherence to ISM/PSPF security standards.
+Your Toolkit:
+
+
+Strong experience with MLOps tools (Kubeflow, MLflow, or Airflow).
+Proficiency in containerization and cloud infrastructure
+Background in Data Engineering and version control (Git)."
+89736000,Machine Learning Engineer / ML Ops engineer,Aurec,https://www.seek.com.au/job/89736000?type=standard&ref=search-standalone&origin=jobCard#sol=e4cc10a737d84225e483bd883d492a9aa0942c63,1h ago,1.0,2026-01-16T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Machine Learning & MLOps Engineers | Federal Government
+
+Location: Canberra,Melbourne,Brisbane,Hobart,Adelaide,Sydney
+
+About the Role:
+
+We are seeking experienced Machine Learning Engineers and MLOps Engineers to support a major Federal Government client. You will be instrumental in designing, deploying, and scaling sophisticated ML solutions within a secure, high-impact environment.
+
+These roles require a blend of technical excellence and the ability to navigate Australian Government security frameworks.
+
+
+Australian Citizen's with a current Baseline Security Clearance (or higher) are highly desirable.
+
+Machine Learning Engineer
+
+Focus: Designing and implementing high-performance models.
+
+Key Responsibilities:
+
+Design and implement ML models and algorithms for complex, large-scale datasets.
+Develop and maintain robust ML pipelines for training, testing, and deployment.
+Optimize production models for performance, scalability, and accuracy.
+Ensure all solutions comply with the ISM, PSPF, and ethical AI principles.
+Monitor model health, detecting and addressing data drift.
+
+Your Toolkit:
+
+Expertise in Python and frameworks (TensorFlow, PyTorch, Scikit-learn).
+Deep understanding of feature engineering and model optimization.
+Experience with cloud platforms (AWS, Azure, or GCP) and Docker/Kubernetes.
+
+
+
+MLOps Engineer
+
+Focus: Automation, CI/CD, and the ML lifecycle.
+
+Key Responsibilities:
+
+Design and maintain end-to-end ML pipelines and infrastructure.
+Develop automation and CI/CD workflows to transition models from dev to production.
+Implement monitoring and alerting for model performance and data integrity.
+Optimize infrastructure for cost-effectiveness and scalability.
+Provide technical mentorship and ensure adherence to ISM/PSPF security standards.
+
+Your Toolkit:
+
+Strong experience with MLOps tools (Kubeflow, MLflow, or Airflow).
+Proficiency in containerization and cloud infrastructure
+Background in Data Engineering and version control (Git)."
+89734571,Machine Learning Engineer's,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89734571?type=standard&ref=search-standalone&origin=jobCard#sol=3d08360574ad66e2555506c9747199059c32cdf9,1h ago,1.0,2026-01-16T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"The opportunity
+
+Our client is a community focused Federal Government Agency. They are currently seeking a mid-level and a senior-level Machine Learning Engineer for a 6-month initial contract with the view for extension.
+
+
+These contracts will commence as soon as possible with an office location in the Melbourne CBD, expecting 2 days a week onsite with the remainder from home. Open market hourly rates are on offer dependant on level of experience.
+
+
+*Please note that Australian Citizenship is a requirement to be eligible to work for this Federal Government Agency*
+
+
+Your responsibilities will include:
+
+Design, implement, and maintain ML pipelines for model training, deployment, and monitoring.
+Develop automation and CI/CD workflows for ML models using tools.
+Ensure compliance with Australian Government security frameworks (ISM, PSPF) and agency policies.
+Optimise ML infrastructure for performance, scalability, and cost-effectiveness.
+Collaborate with data professionals to transition models from development to production.
+Implement monitoring and alerting for model performance and data drift.
+Provide technical advice and mentorship to team members and stakeholders.
+Stay current with emerging ML Ops technologies and best practices.
+
+
+About you
+
+Demonstrated experience in ML Ops or related roles within complex environments.
+Strong knowledge of ML lifecycle management and deployment strategies.
+Proficiency in cloud platforms (AWS, Azure, GCP) and containerisation (Docker, Kubernetes).
+Experience with ML Ops tools (Kubeflow, MLflow, Airflow) and CI/CD pipelines.
+Solid understanding of data engineering, version control (Git), and automation frameworks.
+Excellent problem-solving skills and ability to work under pressure.
+
+
+
+APPLY
+
+Submit your resume, or for further information please contact Liam.Lasslett@talentinternational.com"
+89734422,Solution Architect,I-MED Radiology Network,https://www.seek.com.au/job/89734422?type=standard&ref=search-standalone&origin=jobCard#sol=1b6a0ca5a635c00e02aec17e555674ff6cc9d47f,1h ago,1.0,2026-01-16T04:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"I-MED Radiology Network is Australia's largest and a global leader of diagnostic imaging, with circa 5,000 employees, located in more than 240 clinics across metropolitan, regional, and rural communities throughout Australia. We offer medical imaging and radiology services including x-ray, PET, CT, MRI, Nuclear Medicine, Ultrasound, Mammography and interventional procedures and each year across the network we perform more than 5 million patient procedures.
+
+About The Role
+
+We're looking for a Solution Architect with a hands-on approach to join our development team and help design and implement innovative solutions in the healthcare space. While your primary focus will be on architecting solutions in AWS, you'll also roll up your sleeves and assist the team with building and delivering these solutions.
+
+Our core technology stack includes AWS, Java, Python, and PostgreSQL, with opportunities to work across other platforms and solutions within the business. You'll join an established team where your expertise will influence technical direction and ensure robust, scalable, and secure architectures.
+
+You'll bring a positive, collaborative, and forward-thinking mindset, with a passion for delivering high-quality solutions and supporting both internal and external stakeholders.
+
+Key Accountabilities:
+
+
+Design and document AWS-based solution architectures aligned with business requirements and best practices.
+Collaborate with stakeholders to translate business needs into technical designs.
+Assist in hands-on development, testing, and deployment of software solutions.
+Participate in code reviews, agile ceremonies, and contribute to continuous improvement initiatives.
+Provide technical leadership, mentor team members, and guide best practices in cloud architecture and development.
+Identify opportunities for automation, scalability, and performance improvements across the solution landscape.
+
+Key selection criteria:
+
+
+Proven experience as a Solution Architect with strong AWS expertise (including services such as Lambda, API Gateway, ECS/EKS, RDS, S3, IAM).
+Solid development experience with Java and/or Python and related frameworks.
+Familiarity with front-end frameworks (e.g., React) is advantageous.
+Strong understanding of RESTful API design and integration.
+Competent with PostgreSQL and relational database design.
+Experience with modern architectures: microservices, serverless, containerization.
+Ability to balance high-level design with hands-on implementation.
+Excellent problem-solving and analytical skills.
+Strong communication skills, both written and verbal.
+AWS Certification or related IT architecture certification desirable.
+Knowledge of healthcare IT standards (HL7, DICOM) is beneficial.
+Exposure to AI/ML solution implementation is a plus.
+
+What can I-MED offer you?
+
+
+Supportive and professional working environment in our brand-new head office(s)
+Opportunity to work within a large-scaled and advanced technology environment
+Commitment to your health and well-being with access to our employee assistance program. I-MED's Lifeworks portal gives employees access to a number of resources, plus exclusive offers on everyday purchases from well-known companies
+Strong commitment to continual professional development
+Flexible work arrangements and a hybrid work model
+A competitive remuneration package plus a range of employee benefits such as free parking (Melbourne office), paid parental leave, salary packaging options, discounted health insurance and gym memberships, banking, and travel benefits and much more
+
+At I-MED we have an all-inclusive culture that puts our patients at the foremost of everything we do. As a diverse group of professionals, we are committed to working together as one team to make a real difference in the lives of our patients. Our positive working environment and hybrid work policy promotes flexibility and work/life balance. We believe the quality of our people, state-of-the art systems and technology, and imaging and diagnosis, sets us apart.
+
+If you're seeking an opportunity to join a growing healthcare business, in a role that offers fast-paced, interesting and varied work, we encourage you to apply today."
+89734066,Data Engineer,Australian Institute of Company Directors,https://www.seek.com.au/job/89734066?type=standard&ref=search-standalone&origin=jobCard#sol=67f7dab00cfde36f0c182ec8ee6c98679fb4eb42,2h ago,2.0,2026-01-16T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About us
+
+The Australian Institute of Company Directors (AICD) is committed to strengthening society through world-class governance. We aim to be the independent and trusted voice of governance, building the capability of a community of leaders for the benefit of society. Our membership of more than 50,000 includes directors and senior leaders from business, government and the not-for-profit sectors. 
+
+
+
+
+About the team 
+
+The Data, Analytics & AI team works to harness the power of Data, Analytics, and AI to drive strategic decision-making, elevate member experiences, and enable a culture of innovation and transparency.
+
+ 
+
+About the Role
+
+We are seeking a Data Engineer to join our growing Data, Analytics and AI team. This is a fantastic opportunity to leverage your existing expertise as you will be central to building and maintaining the data infrastructure that powers analytics, reporting, and AI initiatives. This role involves designing, implementing, and optimising data models and pipelines using Microsoft Azure and Databricks technologies.
+
+A key part of your role will be transforming raw data into reliable, timely insights that enable the organisation to make strategic, data-informed decisions at scale. Collaborate closely with data scientists, analysts, and business stakeholders in a fast-paced, supportive environment focused on innovation and continuous improvement.
+
+ 
+
+Key Responsibilities
+
+Design, build and maintain scalable Data Lakehouse solutions using Azure Databricks, Unity Catalog and related cloud technologies
+Develop and optimise batch and real-time data ingestion pipelines using ETL/ELT best practices
+Perform data cleaning, preparation, and exploration to ensure data quality and relevance
+Deliver robust analytics, reporting, and dashboards to support business insights and decision-making
+Apply dimensional modelling principles (Kimball or Inmon) to design effective data structures
+Collaborate on AI and analytics initiatives, ensuring data pipelines meet performance and governance standards
+Implement and uphold data governance, security, and data quality frameworks
+Drive process improvements and documentation, promoting reusable code, automation and DevOps practices (including CI/CD)
+Engage with stakeholders to understand and translate business requirements into data solutions
+
+
+
+About you  
+
+You will have strong technical aptitude and previous relevant experience, and you will champion the AICD values of: Accountability, Respect, Excellence and Collaboration. In addition, you will also have the following: 
+
+Tertiary qualifications in a relevant field, with 4+ years of experience in data engineering or a related discipline
+Proficiency in Microsoft Azure cloud services, especially Azure Databricks and Azure DevOps
+Strong coding skills in SQL and PySpark for data modelling, data manipulation and pipeline development
+Deep understanding of data warehousing and Lakehouse modelling principles (Kimball or Inmon)
+Hands-on experience building scalable, high-performance data architectures supporting batch and streaming data ingestion
+Proven ability to perform data cleaning, analysis, and visualisation using tools such as Power BI
+Strong organisation and prioritising skills 
+Excellent communication and collaboration skills, with a proven track record of working across technical and business teams
+Ability to take ownership of tasks or issues and manage through to resolution
+
+ 
+
+Your career at the AICD  
+
+Our Values 
+
+Accountability, Respect, Excellence and Collaboration 
+
+There are many benefits of joining the AICD, but the following are examples of what you can expect: 
+
+Hybrid/flexible working arrangements. 
+Access to salary sacrificing and salary continuance (income protection) insurance. 
+Personal wellbeing support through AICD’s robust employee assistance program for you and your immediate family. 
+A collaborative, solutions‑focused environment that embraces a “One Team” culture
+The AICD, is committed to developing its people through a capability framework and ongoing professional development plan. We support your career through access to our education platform with a wide range of training courses and webinars, professional coaching, and external education support.  
+An opportunity to contribute to an organisation that is widely respected and considered the ‘gold standard’ of governance, policy, and leadership. 
+An opportunity to attend highly sought-after events with influential speakers. 
+
+ 
+
+We welcome applications from people of all ages, genders, sexuality, cultural and linguistic backgrounds, Aboriginal and Torres Strait Islander Peoples and people with a disability. 
+
+We provide reasonable adjustments including alternate formats to the recruitment process for individuals with disability. If you require an adjustment to be made during the recruitment process, please email talentacquisition@aicd.com.au.
+
+For further information on what it’s like to work with us, please visit our Careers and LinkedIn Life pages:
+
+Our Careers page: https://www.aicd.com.au/about-aicd/work-aicd.html 
+Our LinkedIn page: www.linkedin.com/school/35753/ 
+
+ 
+
+How To Apply
+
+Please submit a resume and cover letter detailing why you are the best person for the position by clicking 'Apply'. Please note, applications close on 29 January 2026. We will be in touch with shortlisted candidates shortly after this date. If you have any queries regarding this opportunity, please contact Edel Ryan, People and Culture Consultant, via email: peopleandculture@aicd.com.au"
+89733648,Senior DevOps Engineer - AI,Deloitte,https://www.seek.com.au/job/89733648?type=standard&ref=search-standalone&origin=jobCard#sol=7a35109de134518ab0de0b6093c172a777eaf029,2h ago,2.0,2026-01-16T03:00:00+00:00,Melbourne VIC (Hybrid),Web Development & Production (Information & Communication Technology),Full time,,"Company description:
+
+
+
+Deloitte Services Pty Ltd
+
+
+
+Job description:
+
+
+
+Senior DevOps Engineer - AI | Technology & GenAI - Productionisation & Automation | Melbourne
+
+Be at the forefront of our AI journey
+
+Choice and flexibility on where, when and how you work
+
+Learn from the best in the business 
+
+What will your typical day look like?
+
+As a Senior Systems Engineer, you'll be at the heart of Deloitte's ClearTrack Generative AI & Digital Assets platform, helping design, build and run highly secure, scalable GenAI infrastructure that powers real-world outcomes. You'll work closely with AI engineers, developers and architects to keep platforms fast, resilient and production-ready — while continuously evolving our stack to stay ahead of emerging AI technologies.
+
+In this role, you will:
+
+Design, implement and operate the central GenAI & Assets platform, built on Kubernetes
+
+Engineer reliable, secure cloud infrastructure across AWS and/or Azure
+
+Monitor performance, availability and cost, optimising systems for scale and speed
+
+Troubleshoot complex system, software and networking issues
+
+Own system security, patching, updates and resilience
+
+Drive Infrastructure as Code, CI/CD and DevSecOps best practice
+
+Ensure robust backup, disaster recovery and platform documentation
+
+Partner with IT, security and engineering teams to integrate new AI capabilities
+
+About the team
+
+The National Generative AI and Assets team sits within Deloitte's Strategy, Transformation & Innovation office — a group shaping the future of how the firm delivers value to its largest and most complex clients.
+
+We bring together Design, AI and Software Engineering to build enterprise-grade GenAI platforms and digital products that improve productivity, decision-making and business performance. Our work moves quickly from idea to production, combining cutting-edge technology with strong governance and security.
+
+If you're excited by scaling AI responsibly in enterprise environments, this is where it happens.
+
+What success looks like:
+
+High availability, low-latency GenAI platforms running in production
+Secure, compliant systems with minimal downtime
+Well-documented, automated infrastructure and deployment pipelines
+Continuous improvements to performance, reliability and developer experience
+On-time delivery of platform enhancements and upgrades
+
+Enough about us — let's talk about you
+
+You bring strong systems engineering fundamentals plus hands-on GenAI platform experience.
+
+You'll likely have:
+
+5+ years' experience as a Systems Engineer (GenAI exposure highly valued)
+
+A degree in Computer Science, Engineering, Mathematics or similar (preferred)
+
+Experience supporting platforms in mature, managed services environments
+
+Excellent communication skills and the ability to collaborate across diverse teams
+
+Technical experience we're looking for:
+
+Core engineering
+
+AWS and/or Azure cloud platforms
+
+Linux/UNIX systems administration
+
+Networking, databases, messaging and security fundamentals
+
+Infrastructure as Code (Terraform)
+
+CI/CD and DevSecOps tools (GitHub, ADO, ArgoCD)
+
+Identity and security protocols (OAuth, SAML, OpenID Connect)
+
+Generative AI & platform experience:
+
+Designing, building and operating AI chatbots and conversational AI systems
+
+Hands-on experience with LLM frameworks (LangChain, Haystack, OpenAI / Azure OpenAI)
+
+Building RAG-based solutions (document ingestion, embeddings, semantic search)
+
+Experience with agentic and automation frameworks (n8n, LangGraph, AutoGen, CrewAI)
+
+Strong understanding of AI tooling: vector databases, prompt management, model evaluation
+
+Integrating AI systems with enterprise platforms, APIs and workflows
+
+Solid software engineering skills (Python and/or JavaScript) in production environments
+
+Knowledge of AI governance, security and responsible AI in enterprise settings
+
+Why Deloitte?  
+
+At Deloitte, we focus our energy on interesting and impactful work. We're always learning, innovating and setting the standard; making a positive difference to our clients and our society. We put coaching at the heart of what we do, helping our people grow their careers in any direction - whether it be up, moving into something new, or even moving across the world.   
+We embrace diversity, equity and inclusion. We have a diverse collection of people from different backgrounds, with different experiences, gender identities, abilities and thinking styles. What binds us together is a shared commitment to value everyone's perspective and to cultivate inclusion; so that our work environment is a safe space we can all belong.  
+We support flexibility and choice. We encourage you to find the right balance between connecting in person with your clients and teams and meeting your own personal needs.
+We help you live and work well. To support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave and return to work support package.  
+
+Next Steps
+
+Apply now, we'd love to hear from you!
+
+#LI-Hybrid"
+89732425,Data Architect,Catholic Education Western Australia Limited,https://www.seek.com.au/job/89732425?type=standard&ref=search-standalone&origin=jobCard#sol=b93d6c0b74e4af09a29228febc4312393e95b360,2h ago,2.0,2026-01-16T03:00:00+00:00,"West Leederville, Perth WA",Architects (Information & Communication Technology),Full time,,"Catholic Education in Western Australia (CEWA) is the second largest education provider in the State. We cater for more than 76,000 students in 162 schools.
 
 CEWA strives to create progressive environments that enhance learning. Our culture is underpinned by our Vision, Quality Catholic Education (QCE) Elements and CECWA' Strategic Directions. Our aspiration is to build Catholic Schools of Excellence, underpinned by their evangelising Mission, in a system where all students, staff and parents are empowered as active members of their school and parish communities.
 
@@ -114,7 +666,7 @@ Applications for this role close no later than 5pm Friday 30 January 2026. We re
 If you require support with submitting your application, please contact our Talent Advisors at careers@cewa.edu.au. Applications can be submitted by clicking apply and uploading your application to our website. Applications will not be accepted via email.
 
 All employees of Catholic Education Western Australia are required to support the Catholic ethos in the performance of their duties. Catholic Education Western Australia also encourages applications from people of all cultural backgrounds, First Nations people, and individuals with disabilities or medical conditions who meet the requirements of the position. To be eligible to apply, you must be legally permitted to work in Australia."
-89731955,Technical Lead- AI & Microsoft,REM Consulting,https://www.seek.com.au/job/89731955?type=standard&ref=search-standalone&origin=jobCard#sol=8c1cc40cef60ff197a32d34a450d3736883881a0,1h ago,1.0,2026-01-16T03:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"The Technical Lead– AI & Microsoft will oversee developers, manage IT systems, and ensure seamless implementation of AI and Microsoft-based solutions. This role includes troubleshooting, supporting IT infrastructure, providing outstanding customer service, and delivering training to
+89731955,Technical Lead- AI & Microsoft,REM Consulting,https://www.seek.com.au/job/89731955?type=standard&ref=search-standalone&origin=jobCard#sol=d4d2ac9bb12123cd4293644789ffe0ed6b6becb3,3h ago,3.0,2026-01-16T02:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"The Technical Lead– AI & Microsoft will oversee developers, manage IT systems, and ensure seamless implementation of AI and Microsoft-based solutions. This role includes troubleshooting, supporting IT infrastructure, providing outstanding customer service, and delivering training to
 enhance the technical capabilities of our clients and team.
 The Technical Director will also collaborate with the team to assess client needs and develop strategies for optimising workflows.
 
@@ -139,7 +691,7 @@ Excellent Communication skills for client interaction and relationship managemen
 Experience in training individuals or teams, ensuring effective knowledge sharing and empowerment.
 Demonstrated leadership and problem-solving skills.
 Relevant certifications or qualifications in IT or related fields are a plus (e.g. Azure Solutions Architect, Microsoft 365 Certified)."
-89731878,Senior Data Engineer - Data Governance,National Rugby League Limited,https://www.seek.com.au/job/89731878?type=standard&ref=search-standalone&origin=jobCard#sol=ce137ed4d01d487af448191cdc3a3040bb4376d8,1h ago,1.0,2026-01-16T03:00:00+00:00,"Moore Park, Sydney NSW",Other (Engineering),Full time,,"Rugby League is Australia’s most entertaining and community driven sport. Rugby League broadcasts have grown to be the most watched programs on Australian television. The NRL Telstra Premiership is the closest elite sporting competition in the country and the State of Origin series between New South Wales and Queensland is Australian sport’s greatest rivalry.
+89731878,Senior Data Engineer - Data Governance,National Rugby League Limited,https://www.seek.com.au/job/89731878?type=standard&ref=search-standalone&origin=jobCard#sol=7866270f7985f766f4ae1d76fa803d0eb64461c6,3h ago,3.0,2026-01-16T02:00:00+00:00,"Moore Park, Sydney NSW",Other (Engineering),Full time,,"Rugby League is Australia’s most entertaining and community driven sport. Rugby League broadcasts have grown to be the most watched programs on Australian television. The NRL Telstra Premiership is the closest elite sporting competition in the country and the State of Origin series between New South Wales and Queensland is Australian sport’s greatest rivalry.
   
 We’re looking for dedicated professionals to join our team and help shape the future of Rugby League. If you’re ready to make an impact in a fast-paced, purpose-led organisation, we want to hear from you.
   
@@ -165,7 +717,7 @@ Strong communication skills with ability to translate technical concepts for bus
 Whilst we look for experience, we also look for people who share the same beliefs as our organisation – we are UNITED, POSITIVE, INCLUSIVE & DISCIPLINED.  Should you meet most of the criteria and share our beliefs, please apply.
   
 The NRL is a child-safe organisation committed to providing a safe place for all children to learn and have fun. We have strong recruitment procedures to make sure the safest and most suitable people work with us and require all applicants to undergo an extensive screening process prior to appointment, a process that will include, but is not limited to comprehensive reference checks, an identity check, “Working with Children” checks and/or national criminal history checks."
-89731186,AI Engineer,City Facilities Management,https://www.seek.com.au/job/89731186?type=standard&ref=search-standalone&origin=jobCard#sol=f1d0113cc3781c2d68bb62effd180d067340b373,1h ago,1.0,2026-01-16T03:00:00+00:00,"Mulgrave, Melbourne VIC",Developers/Programmers (Information & Communication Technology),Full time,Competitive salary + 12% super,"AI Engineer
+89731186,AI Engineer,City Facilities Management,https://www.seek.com.au/job/89731186?type=standard&ref=search-standalone&origin=jobCard#sol=7c69c3373f77d3ca3ba59bfaba7a5cdecd0da318,3h ago,3.0,2026-01-16T02:00:00+00:00,"Mulgrave, Melbourne VIC",Developers/Programmers (Information & Communication Technology),Full time,Competitive salary + 12% super,"AI Engineer
 
 Location: City FM – Mulgrave, VIC
 
@@ -267,7 +819,7 @@ City FM is an Equal Opportunity Employer committed to creating an inclusive work
 Important Notice to Recruitment Agencies
 
 City does not accept unsolicited resumes or candidate profiles. No placement fees will be paid for unsolicited referrals."
-89730888,Senior AI Engineer,Virgin Australia,https://www.seek.com.au/job/89730888?type=standard&ref=search-standalone&origin=jobCard#sol=9cc55178ff75f4b77f793987e344957e18b65477,2h ago,2.0,2026-01-16T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Full-time, Brisbane or Sydney based position with some flexibility to work from home. 
+89730888,Senior AI Engineer,Virgin Australia,https://www.seek.com.au/job/89730888?type=standard&ref=search-standalone&origin=jobCard#sol=6a77a64b7c356a1f37c381b60fc367a104989c68,3h ago,3.0,2026-01-16T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Full-time, Brisbane or Sydney based position with some flexibility to work from home. 
 
 Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
@@ -331,7 +883,7 @@ We’re all individuals. And we love that. That’s why we encourage application
 Ready to apply?
 
 We’re ready to hear from you. Apply now."
-89730886,Data Engineer,University of Canberra,https://www.seek.com.au/job/89730886?type=standard&ref=search-standalone&origin=jobCard#sol=36758420a081b0902760c7dfea565000de64dded,2h ago,2.0,2026-01-16T02:00:00+00:00,"Bruce, Canberra ACT (Hybrid)","Engineering - Software (Information & Communication Technology)
+89730886,Data Engineer,University of Canberra,https://www.seek.com.au/job/89730886?type=standard&ref=search-standalone&origin=jobCard#sol=021cbc1e8ea6bde1d8b8e989179f1a2d9b769551,3h ago,3.0,2026-01-16T02:00:00+00:00,"Bruce, Canberra ACT (Hybrid)","Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,"$116,009 pa - $129,394 pa + 17% Super","Design the data foundations that will drive smarter decisions across the University
 UC Level 8, Salary Range $116,009 pa - $129,394 pa plus 17% Super
 2 x Full Time 12-month Fixed Term Opportunities available
@@ -389,7 +941,7 @@ For job specific information: please contact Preet Singh, Manager, Data Product
 For recruitment and application questions: please contact the Talent Solutions team on 02 6206 3867 or email uctalent@canberra.edu.au. If you would like to request a reasonable adjustment to the selection process, please feel free to contact us.
 
 Closing date: 11.55pm, Sunday 1 February 2026."
-89729344,Data Solutions Designer,SEEK Limited,https://www.seek.com.au/job/89729344?type=standard&ref=search-standalone&origin=jobCard#sol=13355a30a849a55fc562f61a43e7955abec92802,2h ago,2.0,2026-01-16T02:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Other (Information & Communication Technology),Full time,,"Company Description
+89729344,Data Solutions Designer,SEEK Limited,https://www.seek.com.au/job/89729344?type=standard&ref=search-standalone&origin=jobCard#sol=cf0989eaaf03d9f294832418876a6cb0d10ba8e6,4h ago,4.0,2026-01-16T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Other (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -450,7 +1002,7 @@ We know teams with diverse ideas, experiences and perspectives are more creative
 For this role, only those with eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89727850,Senior Integration Developer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89727850?type=standard&ref=search-standalone&origin=jobCard#sol=9f2857999c06ede88e32ee6710b39d0957ec74c1,3h ago,3.0,2026-01-16T01:00:00+00:00,"Melton, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"6 Month Contract - Government Client
+89727850,Senior Integration Developer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89727850?type=standard&ref=search-standalone&origin=jobCard#sol=3d4637f8c0b4ba346c629fda5397e7cce5ca55ca,5h ago,5.0,2026-01-16T00:00:00+00:00,"Melton, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"6 Month Contract - Government Client
 Melton Location - Hybrid Working Arrangement
 Integration using Azure Integration Services
 
@@ -480,7 +1032,7 @@ Government Client
 Melton Location - Hybrid Working Arrangement
 
 Please apply today to secure an interview or for more information please contact Sarah Jordan on sarah.jordan@talentinternational.com"
-89727824,Data Engineering Lead,FourQuarters Recruitment,https://www.seek.com.au/job/89727824?type=standard&ref=search-standalone&origin=jobCard#sol=6b25a3f3fe031bb06a04d2e5dd171740e56435f1,3h ago,3.0,2026-01-16T01:00:00+00:00,Sydney NSW (Hybrid),Team Leaders (Information & Communication Technology),Full time,Up to $180K + Super + Bonus,"The Company:
+89727824,Data Engineering Lead,FourQuarters Recruitment,https://www.seek.com.au/job/89727824?type=standard&ref=search-standalone&origin=jobCard#sol=41af0a3f8da316e2f5085d973d722beaca4be5d3,5h ago,5.0,2026-01-16T00:00:00+00:00,Sydney NSW (Hybrid),Team Leaders (Information & Communication Technology),Full time,Up to $180K + Super + Bonus,"The Company:
 An established and growing retail organisation is looking for a senior data engineer/lead to join a small data team and play an important role in executing on an established multi-year data strategy which includes several exciting data initiatives. Reporting directly into the CIO, you will be instrumental in enabling data-driven decision-making across the organisation that aligns with the business priorities.
   
 You must be based in Sydney and able to work in the office a minimum of 3 days per week. This is a great growth opportunity for a senior data engineer looking to take the next step into a hands-on leadership role.
@@ -505,7 +1057,7 @@ Enjoy business partnering with key stakeholders and C-Suite - become a trusted a
 Drive innovation, continuous improvement, knowledge sharing & an openness to new technologies for process improvement and data delivery.
   
 You must be Sydney based and hold Australian Citizenship or Permanent Residency to be considered for this role."
-89727413,Data Engineer,TEG Pty Ltd,https://www.seek.com.au/job/89727413?type=standard&ref=search-standalone&origin=jobCard#sol=dd68df7dab734fd930ac96fbc7a96d61e610f7bf,3h ago,3.0,2026-01-16T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Ticketek Entertainment Group​
+89727413,Data Engineer,TEG Pty Ltd,https://www.seek.com.au/job/89727413?type=standard&ref=search-standalone&origin=jobCard#sol=258691c63dc936d0f9a01999ffa99ded83cacf07,5h ago,5.0,2026-01-16T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Ticketek Entertainment Group​
 
 Ticketek Entertainment Group is a global fan experience company that tickets, promotes and delivers live experiences impossible to forget.  In a distracted world where nothing beats real human moments, We makes life better live!
 
@@ -578,7 +1130,7 @@ TEG is an equal opportunity employer committed to embrace diversity, respect, an
 If there are any adjustments that need to be made to ensure you have a fair and equitable experience in our recruitment process, please advise us when scheduling your interview. 
 
 *Only direct applications will be considered. No recruiters please*"
-89726729,Senior Data Engineer,Lanson Partners,https://www.seek.com.au/job/89726729?type=standard&ref=search-standalone&origin=jobCard#sol=bdd0cf45f04d48646d4a5fdcc957792358181e0d,4h ago,4.0,2026-01-16T00:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,"$1,100 per day","We’re working with a fast-growing financial services business building a modern data platform that underpins critical reporting, analytics and decision-making across the organisation.
+89726729,Senior Data Engineer,Lanson Partners,https://www.seek.com.au/job/89726729?type=standard&ref=search-standalone&origin=jobCard#sol=f53ba79a0672c01f0e5cce0af5eea2b5d550aa76,6h ago,6.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,"$1,100 per day","We’re working with a fast-growing financial services business building a modern data platform that underpins critical reporting, analytics and decision-making across the organisation.
 
 This is a hands-on engineering role for someone who enjoys building things properly - clean pipelines, reliable data products and platforms that scale. You’ll work closely with both technology and business teams and play a part in rolling out AI-enabled capabilities as the platform evolves.
 
@@ -604,7 +1156,7 @@ Experience with streaming, orchestration or infrastructure-as-code tools
 Hands-on exposure to AI/ML or LLM-powered applications
 Background in financial services or other regulated industries
 For more information please reach out to Matthew Nicholas. Email address is matthew@lansonpartners.com."
-89726255,Senior AI Analyst,Virgin Australia,https://www.seek.com.au/job/89726255?type=standard&ref=search-standalone&origin=jobCard#sol=d60ef8ad3957b5b0371ee5a2a259ef111152c9ce,5h ago,5.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Full-time role that can be based out of our Brisbane or Sydney office, with some flexibility to work from home
+89726255,Senior AI Analyst,Virgin Australia,https://www.seek.com.au/job/89726255?type=standard&ref=search-standalone&origin=jobCard#sol=f7bae827ec9e9a1f0bfd23beb44ad721a6207585,6h ago,6.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Full-time role that can be based out of our Brisbane or Sydney office, with some flexibility to work from home
 
 Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
@@ -651,7 +1203,7 @@ We’re all individuals. And we love that. That’s why we encourage application
 Ready to apply?
 
 We’re ready to hear from you. Apply now."
-89726067,Data Engineer,"CitiPower, Powercor and United Energy",https://www.seek.com.au/job/89726067?type=standard&ref=search-standalone&origin=jobCard#sol=db99e97dcbeee8d5e9eacdc063c7a343ce24f373,5h ago,5.0,2026-01-15T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Competitive salary + Employee Benefits + Bonus,"About us
+89726067,Data Engineer,"CitiPower, Powercor and United Energy",https://www.seek.com.au/job/89726067?type=standard&ref=search-standalone&origin=jobCard#sol=978809b935ce8bcca4ea2a0f087e406df7da3d81,6h ago,6.0,2026-01-15T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Competitive salary + Employee Benefits + Bonus,"About us
 
 At United Energy, we’re proud to deliver electricity to 715,000 Victorian customers every day through our network of poles and wires. But more than that, we’re here to power communities, support local businesses and keep critical services running smoothly, we’re essential to them all – and none of this happens without our people. As Victorians electrify everything from homes to transport, we’re focused on ensuring our networks are ready to meet that demand. If you want to be part of something essential, be essential with us.
 
@@ -728,7 +1280,7 @@ Beon, CitiPower, Powercor and United Energy recognise Australia’s Aboriginal a
  
 
 We are committed to creating a workplace where everyone feels valued, respected and supported to succeed. By making sure our workplace is physically and mentally safe, so that our people can be their authentic selves, share their unique perspectives and can thrive."
-89725982,Senior Data Scientist (LLMs),Virgin Australia,https://www.seek.com.au/job/89725982?type=standard&ref=search-standalone&origin=jobCard#sol=42ac4db8b2296336cac047657c1c8b0ff995cca3,5h ago,5.0,2026-01-15T23:00:00+00:00,Brisbane QLD (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Full-time, Brisbane or Sydney based hybrid role
+89725982,Senior Data Scientist (LLMs),Virgin Australia,https://www.seek.com.au/job/89725982?type=standard&ref=search-standalone&origin=jobCard#sol=a1befd75781afbcff6fc76d14d1598364695e440,6h ago,6.0,2026-01-15T23:00:00+00:00,Brisbane QLD (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Full-time, Brisbane or Sydney based hybrid role
 
 Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
@@ -779,7 +1331,7 @@ We’re all individuals. And we love that. That’s why we encourage application
 Ready to apply?
 
 We’re ready to hear from you. Apply now."
-89725972,"Senior Manager, Data Science",Lanson Partners,https://www.seek.com.au/job/89725972?type=standard&ref=search-standalone&origin=jobCard#sol=b980855eedb1e5decd9476b6e21b5b1b775774de,5h ago,5.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Contract/Temp,$200k-$230k base plus super plus bonus,"Lead the AI strategy behind large-scale customer experiences. Drive experimentation, advanced ML and Generative AI to deliver measurable commercial impact.
+89725972,"Senior Manager, Data Science",Lanson Partners,https://www.seek.com.au/job/89725972?type=standard&ref=search-standalone&origin=jobCard#sol=c5217fa9825186d4d9ae2937dfb3eb23daff105c,6h ago,6.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Contract/Temp,$200k-$230k base plus super plus bonus,"Lead the AI strategy behind large-scale customer experiences. Drive experimentation, advanced ML and Generative AI to deliver measurable commercial impact.
 
 This leadership role sits within a high-performing Data & AI function, partnering closely with Product and Engineering to solve complex, real-world problems at scale.
 
@@ -799,7 +1351,7 @@ Collaborative, people-first leadership style
 Practical experience applying Generative AI in production environments
 
 Please reach out to Matthew Nicholas for more information about this position. Email address is matthew@lansonpartners.com."
-89725954,Aeromedical Data Scientist,Department of Defence,https://www.seek.com.au/job/89725954?type=standard&ref=search-standalone&origin=jobCard#sol=ab6540cd94860ae5fded4e8978815c3a44ab1738,5h ago,5.0,2026-01-15T23:00:00+00:00,"Edinburgh, Adelaide SA","Air Force, Government - Federal (Government & Defence)",Full time,"$95,187 - $108,734 (APS 6) + Super","The Role
+89725954,Aeromedical Data Scientist,Department of Defence,https://www.seek.com.au/job/89725954?type=standard&ref=search-standalone&origin=jobCard#sol=e818dbe5af12527ee5c74faaa64fd8f01d746046,6h ago,6.0,2026-01-15T23:00:00+00:00,"Edinburgh, Adelaide SA","Air Force, Government - Federal (Government & Defence)",Full time,"$95,187 - $108,734 (APS 6) + Super","The Role
 
 The RAAF Institute of Aviation Medicine (IAM) is seeking a Data Scientist to join the Aeromedical Analysis and Decision Support (AADS) Team. 
 
@@ -837,7 +1389,7 @@ Proficiently use advanced features of Microsoft Software and statistical analysi
 Application Closing Date: Sunday 1 February 2026
 
 For further information please review the job information pack, reference AF/09967/25 on https://defencecareers.nga.net.au/?jati=FFA35A26-2D80-ACEF-9AD8-EC92C3CAF342"
-89725795,Engineering Manager - Hawthorn East,Coles,https://www.seek.com.au/job/89725795?type=standard&ref=search-standalone&origin=jobCard#sol=506d5f39da2195844bd5bea8a6ec919670cb256e,5h ago,5.0,2026-01-15T23:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"We’ve been proudly serving Australian communities since 1914 and have grown to become a top 30-listed company on the ASX with a portfolio of iconic homegrown brands. At the heart of our continued success is over 115,000 team members working across the country, all contributing to bringing our customers smiles. You’ll not only get to see your work make a difference, you’ll be part of a team working together to help Australians eat and live better every day.
+89725795,Engineering Manager - Hawthorn East,Coles,https://www.seek.com.au/job/89725795?type=standard&ref=search-standalone&origin=jobCard#sol=5ad66efcaa9a4d3a8945a18b845855f61c295053,6h ago,6.0,2026-01-15T23:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"We’ve been proudly serving Australian communities since 1914 and have grown to become a top 30-listed company on the ASX with a portfolio of iconic homegrown brands. At the heart of our continued success is over 115,000 team members working across the country, all contributing to bringing our customers smiles. You’ll not only get to see your work make a difference, you’ll be part of a team working together to help Australians eat and live better every day.
 
  
 
@@ -986,7 +1538,7 @@ Job ID: 174591
  
 
 Employment Type: Full time"
-89724745,Senior Machine Learning Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89724745?type=standard&ref=search-standalone&origin=jobCard#sol=fb9e710b27b5878f66d69db068c70cd10e195067,6h ago,6.0,2026-01-15T22:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior Machine Learning Engineer
+89724745,Senior Machine Learning Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89724745?type=standard&ref=search-standalone&origin=jobCard#sol=e0cc58bc9d81538de6b2b21f2668296cbe2a6bf5,7h ago,7.0,2026-01-15T22:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior Machine Learning Engineer
 Initial 6-Month Contract
 Surry Hills, Sydney - Hybrid Work Model
 
