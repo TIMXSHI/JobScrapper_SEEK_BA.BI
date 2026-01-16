@@ -1,5 +1,541 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89724745,Senior Machine Learning Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89724745?type=standard&ref=search-standalone&origin=jobCard#sol=ac0450caaf58d6ea6a34d9883f89c00e270e229f,1h ago,1.0,2026-01-15T22:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior Machine Learning Engineer
+89727850,Senior Integration Developer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89727850?type=standard&ref=search-standalone&origin=jobCard#sol=523038528cd6b085c7232e7a21d38b8068df9b25,1h ago,1.0,2026-01-16T01:00:00+00:00,"Melton, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"6 Month Contract - Government Client
+Melton Location - Hybrid Working Arrangement
+Integration using Azure Integration Services
+
+Our client is seeking a Senior Integration Developer to play a pivotal role in designing, delivering, and transitioning enterprise integrations into business-as-usual (BAU). This role sits at the intersection of architecture, delivery, operations, and stakeholders, acting as a key conduit between development teams, managed service providers (MSPs), and the business.
+
+Key Responsibilities:
+
+Align integration designs and implementations to the enterprise Architecture Framework and integration standards.
+Act as a conduit between developers, MSPs, and business/BAU teams, ensuring clear communication and accountability.
+Design, build, and support integrations using Azure technologies, including APIM, Logic Apps, and Function Apps.
+Lead and support the transition from project delivery to BAU, ensuring documentation, monitoring, and support processes are in place.
+Collaborate closely with DevOps teams to support CI/CD pipelines, monitoring, and operational best practices.
+
+Skills & Experience:
+
+Strong experience as a Senior Integration Developer in complex enterprise environments.
+Hands-on expertise with Azure Integration Services (APIM, Logic Apps, Function Apps).
+Experience working across project delivery and operational (BAU/Ops) models.
+Solid understanding of DevOps practices, operational support, and production readiness.
+Exposure to TechnologyOne integrations is highly desirable (nice to have).
+Excellent communication and stakeholder management skills, with the ability to translate technical concepts for non-technical audiences.
+
+What's in it for you:
+
+6 Month Contract
+Government Client
+Melton Location - Hybrid Working Arrangement
+
+Please apply today to secure an interview or for more information please contact Sarah Jordan on sarah.jordan@talentinternational.com"
+89727824,Data Engineering Lead,FourQuarters Recruitment,https://www.seek.com.au/job/89727824?type=standard&ref=search-standalone&origin=jobCard#sol=265ccccdea0944480c8bd5650da07fa350dbdb53,1h ago,1.0,2026-01-16T01:00:00+00:00,Sydney NSW (Hybrid),Team Leaders (Information & Communication Technology),Full time,Up to $180K + Super + Bonus,"The Company:
+An established and growing retail organisation is looking for a senior data engineer/lead to join a small data team and play an important role in executing on an established multi-year data strategy which includes several exciting data initiatives. Reporting directly into the CIO, you will be instrumental in enabling data-driven decision-making across the organisation that aligns with the business priorities.
+  
+You must be based in Sydney and able to work in the office a minimum of 3 days per week. This is a great growth opportunity for a senior data engineer looking to take the next step into a hands-on leadership role.
+  
+Key Priorities of the Role:
+
+Build strong stakeholder relationships and be a trusted delivery partner by translating data into actionable insights that drive strategic decision making.
+Collaborate cross-functionally to ensure data initiatives are aligned with business needs and integrated into operational workflows.
+Design and build new innovative data capabilities whilst improving the existing data platforms and enhancing data quality, reliability and accessibility across core business functions.
+Apply & develop your knowledge of emerging technologies and AI tools such as Claude, Snowflake Cortex, NLPs, LLMs & automation.
+Work collaboratively with a hybrid internal and external data delivery team.
+  
+Your Skillset:
+
+Minimum of 8+ years of data engineering experience, ideally from a Retail/FMCG industry background.
+Hands-on experience with Snowflake DWH at an enterprise-scale (Databricks will be considered); Data lake architecture, real-time streaming and event-driven design.
+Airflow, DBT, Python, CI/CD, PowerBI.
+Experience in SQL, SSAS cubes & OLAP solutions is also highly regarded.
+AI tools such as Claude, Snowflake Cortex & ML & NLPs.
+Experience leading/mentoring of data engineers & management of external vendor(s).
+Enjoy business partnering with key stakeholders and C-Suite - become a trusted advisor to multiple business & operational teams.
+Drive innovation, continuous improvement, knowledge sharing & an openness to new technologies for process improvement and data delivery.
+  
+You must be Sydney based and hold Australian Citizenship or Permanent Residency to be considered for this role."
+89727413,Data Engineer,TEG Pty Ltd,https://www.seek.com.au/job/89727413?type=standard&ref=search-standalone&origin=jobCard#sol=8d1ffb9df4502a526abbb31860ead058bf138f71,2h ago,2.0,2026-01-16T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Ticketek Entertainment Group​
+
+Ticketek Entertainment Group is a global fan experience company that tickets, promotes and delivers live experiences impossible to forget.  In a distracted world where nothing beats real human moments, We makes life better live!
+
+Our Group includes; our Fan Experience Platform (Ticketek) that sells tickets and provides value added services, Event promoting, with businesses across Sport (TEG Sport), Touring (TEG Touring) and Family Experiences (TEG Experiences) and our digital business (Ovation) which focuses on delivering seamless data-driven outcomes for our fans and partners.
+
+About the Role: 
+
+As a Data Engineer you will bring strong technical expertise in solution design, architecture, and coding to drive real outcomes in our data engineering initiatives. You will provide technical leadership, mentor junior engineers, and collaborate with Business and Product teams while continuously advancing your skills with the latest technologies and industry best practices.
+
+
+
+Requirements
+
+
+
+What does a day in the life look like?
+
+Ensure adherence to data privacy, security, observability, and governance standards. 
+Collaborate with architects and senior engineers to design resilient, high-performance data solutions. 
+Build scalable data pipelines to ingest, process, and expose data using technologies like Snowflake, AWS Redshift, Kinesis, Lambda, DynamoDB, S3, Glue, Apache Storm, and others. 
+Develop batch and streaming data solutions using Apache Kafka, Apache Spark, Airflow, and Delta Lake for real-time and scheduled data processing. 
+Design and implement event-driven data architectures with streaming frameworks such as Kafka Streams and Kinesis Data Firehose. 
+Implement Data Quality, Data Lineage, and Observability frameworks  
+Build CI/CD pipelines using tools such as GitHub Actions, Terraform,  
+Collaborate with Site Reliability Engineers to ensure stability and uptime of production pipelines and services. 
+Continuously identify opportunities for performance improvement, cost optimisation, and process efficiency. 
+Work with Data Scientists to ensure high-quality data for Machine Learning models and integrate them into production-ready pipelines. 
+Responsible for technical delivery, proactively identifying risks and solutions, and coordinating with engineers, BAs, QAs, and Project Managers (PMs) to ensure successful execution of data initiatives.
+
+About You 
+
+Essential experience & skills
+
+Undergraduate degree focused on Computer Science, Engineering, Data Science or a related discipline. 
+7+ years of hands-on experience in data profiling, source-to-target mapping, ETL development, SQL optimisation, testing, and implementation. 
+Proven experience delivering large-scale data ingestion, transformation, and processing using AWS technologies such as Kinesis, Athena, Redshift, DynamoDB, Lambda, and S3. 
+Proficient with modern data platforms and tools including Snowflake, Databricks and Apache Storm. 
+Strong experience working with relational databases (SQL) as well as NoSQL databases, particularly MongoDB. 
+Proven ability to translate complex business requirements into technical solutions through effective cross-functional collaboration, strong communication skills, and adaptable problem-solving approach.
+Exposure to CI/CD tools and practices, including Ansible, CloudFormation, Jenkins, and related automation technologies. 
+Experience developing and deploying solutions on cloud platforms such as AWS, GCP, or Azure. 
+
+Desirable experience & skills 
+
+Jira / Confluence experience 
+Experience consuming RET 
+Experience to AI/ML technologies.  
+
+
+Benefits
+
+
+
+Here’s a taste of what TEG offers: 
+
+Complimentary event tickets
+Birthday and volunteering leave
+Wellbeing discounts & flu vaccinations
+Paid parental leave & free employee support (EAP)
+Global rewards and recognition
+Learning, development & career pathways
+A diverse, inclusive, and passionate team
+
+Equal opportunities
+
+For more information about TEG please go to http://www.teg.com.au/ 
+
+TEG is an equal opportunity employer committed to embrace diversity, respect, and care for our people and communities. 
+
+If there are any adjustments that need to be made to ensure you have a fair and equitable experience in our recruitment process, please advise us when scheduling your interview. 
+
+*Only direct applications will be considered. No recruiters please*"
+89726729,Senior Data Engineer,Lanson Partners,https://www.seek.com.au/job/89726729?type=standard&ref=search-standalone&origin=jobCard#sol=a2ca4ba5995aa8bf35c7ae9612155f7fbfe90a5e,2h ago,2.0,2026-01-16T00:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,"$1,100 per day","We’re working with a fast-growing financial services business building a modern data platform that underpins critical reporting, analytics and decision-making across the organisation.
+
+This is a hands-on engineering role for someone who enjoys building things properly - clean pipelines, reliable data products and platforms that scale. You’ll work closely with both technology and business teams and play a part in rolling out AI-enabled capabilities as the platform evolves.
+
+What you’ll be doing
+Building and maintaining production-grade data pipelines using SQL and Python
+Developing data models and transformations that are reliable, testable and easy to maintain
+Implementing batch and streaming ingestion patterns on a cloud-based data platform
+Improving platform foundations including CI/CD, infrastructure automation and monitoring
+Supporting production systems, troubleshooting issues and keeping things running smoothly
+Working directly with stakeholders to turn business requirements into practical solutions
+Contributing to data quality, testing standards and documentation
+Getting involved in AI and machine learning use cases, including LLM-based solutions
+What we’re looking for
+3–5 years’ experience in data engineering or software engineering
+Strong SQL skills and solid Python experience
+Exposure to modern data platforms and transformation frameworks
+Good understanding of cloud environments (AWS preferred) and DevOps practices
+Comfortable working in a fast-paced, delivery-focused environment
+Clear communicator who can work across technical and non-technical teams
+Curiosity and interest in AI, even if it’s not your core background yet
+Nice to have
+Experience with streaming, orchestration or infrastructure-as-code tools
+Hands-on exposure to AI/ML or LLM-powered applications
+Background in financial services or other regulated industries
+For more information please reach out to Matthew Nicholas. Email address is matthew@lansonpartners.com."
+89726255,Senior AI Analyst,Virgin Australia,https://www.seek.com.au/job/89726255?type=standard&ref=search-standalone&origin=jobCard#sol=0a1b1ba60a57ab20156569faf375fc1d61119d7b,3h ago,3.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Full-time role that can be based out of our Brisbane or Sydney office, with some flexibility to work from home
+
+Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+
+What you’ll be doing
+
+As our Senior AI Analyst (Business Analyst - AI), you’ll support the identification, shaping and delivery of AI-enabled improvements across the organisation. Working under the direction of the AI Transformation Lead, this role supports discovery activities, maps processes and workflows, gathers requirements, and helps define AI use cases that improve productivity and reduce friction in day-to-day operations.
+
+Key responsibilities include:
+
+Engage with business teams to understand how work is currently performed and identify inefficiencies.
+Run workshops and interviews with subject-matter experts to uncover problems suitable for AI-enabled improvement.
+Map current-state processes and design future-state workflows showing AI-driven improvements.
+Define clear AI use cases with expected benefits and success measures.
+Translate business needs into structured requirements, user stories, and acceptance criteria.
+Work closely with engineers, data scientists, and platform teams to clarify requirements and support solution design.
+Assist delivery teams during implementation and participate in testing and validation activities.
+Support creation of operational documentation and training inputs.
+
+You’ll be great in this role if you have…
+
+A bachelor’s degree in business, information systems, commerce, or a related discipline, or equivalent professional experience.
+Strong analytical skills and structured problem-solving capabilities.
+Ability to translate between business and technical teams effectively.
+Working understanding of modern AI concepts such as LLMs, RAG and agent workflows (at a conceptual level).
+Experience in process mapping, requirements definition and stakeholder engagement.
+Excellent communication and collaboration skills.
+Formal training or coursework covering foundational AI concepts.
+Industry-recognised business analysis certifications such as CBAP, CCBA, or equivalent (desirable).
+
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
+
+Discounted flights for you and your loved ones (including $1000 worth of travel credits per year)
+A flexible, hybrid work style. Work from home or the office, adapt your location to suit your style and needs
+One of Brisbane’s most admired head office locations, with South Bank train station, a supermarket, pharmacy, and lunch options downstairs plus a 5-minute walk to the Busway, a rooftop restaurant and onsite gym (with a low membership fee) and South Bank Parklands just across the road
+Discounts on travel insurance, lounge membership, car hire, accommodation, and experiences worldwide
+Cheaper hospitality, retail, technology, beauty and wellness services
+Free counselling and access to a wellbeing app to support your physical, mental, social and financial health
+‘Dress for Your Day’ – enjoy the freedom to wear whatever makes you feel great for the type of work you do and the day you have ahead of you.
+
+When everyone is included, everyone wins
+
+We’re all individuals. And we love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
+
+Ready to apply?
+
+We’re ready to hear from you. Apply now."
+89726067,Data Engineer,"CitiPower, Powercor and United Energy",https://www.seek.com.au/job/89726067?type=standard&ref=search-standalone&origin=jobCard#sol=589723d1afcbf89d9a245e87457d0778ed24da05,3h ago,3.0,2026-01-15T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Competitive salary + Employee Benefits + Bonus,"About us
+
+At United Energy, we’re proud to deliver electricity to 715,000 Victorian customers every day through our network of poles and wires. But more than that, we’re here to power communities, support local businesses and keep critical services running smoothly, we’re essential to them all – and none of this happens without our people. As Victorians electrify everything from homes to transport, we’re focused on ensuring our networks are ready to meet that demand. If you want to be part of something essential, be essential with us.
+
+ 
+
+About the role
+
+The role is for a Data Engineer responsible for building and maintaining robust, scalable ETL data pipelines that enable analytics, reporting, and operational functions for Smart Meter applications across Citipower, Powercor, and United Energy. The position is primarily on‑premise but includes opportunities to support AWS modernisation and help shape the future data platform.
+
+ 
+
+Key responsibilities
+
+Design, develop, and maintain scalable and fault-tolerant ETL and data pipelines (batch & stream) to ingest, transform, and load data into analytical data stores.
+
+Design and implement automated data quality checks, data drift detection, and anomaly monitoring to ensure high-integrity data feeding analytics and operational reporting
+
+Serve as the go to expert for data related incidents (pipeline failures, data latency, performance issues) and coordinate resolution with engineering, operations, and IT security teams.
+
+Translate Smart Grid and operational data strategies into implementable data solutions, working across multiple business areas
+
+Work collaboratively with analytics, business, and IT teams to translate requirements into secure, scalable, and supportable data solutions, in line with organizational security and governance standards
+
+Provide cross division operational support for day-to-day needs
+
+ 
+
+For more information on the role’s responsibilities, please click here to download the position description.
+
+ 
+
+What you’ll need from day one
+
+Strong working knowledge of SQL and relational databases, particularly PostgreSQL and Oracle
+
+Experience with one or more ETL tools such as Pentaho, Oracle Data Integrator (ODI), Informatica or similar.
+
+Experience with Python or similar scripting language for data processing and automation
+
+Extensive experience in data analysis and data modelling, including extraction of data from core systems, data manipulation, and end-to-end solution design
+
+Previous experience in the Utilities sector preferred not mandatory
+
+Tertiary qualifications in Engineer or IT/Computer Science or business-related discipline (preferred)
+
+If you believe you have what it takes but don’t meet every requirement—or if you’d like to discuss flexible working arrangements to meet the key responsibilities —we encourage you to get in touch.
+
+ 
+
+Key Benefits
+
+We’re proud to offer an inclusive, supportive workplace where everyone feels safe, valued, and empowered to grow. Some of our benefits include hybrid work options, purchased leave, 15 weeks of gender neutral primary parental leave, health and wellbeing subsidiary, career development and planning opportunities, and exclusive discounts. Visit our company website to learn more.
+
+ 
+
+Diversity, Equity & Inclusion to support a fair workplace for all
+
+We are committed to building a safe, inclusive, and supportive workplace where people of all genders, ethnicities, sexual orientations, abilities and ages are valued for who they are and empowered to do their best. Through our Diversity, Equity & Inclusion Strategy (DEI), Reconciliation Action Plans and initiatives like Women in Power and Sparkle, our LGBTQIA+ allies network, we’re working to create equal opportunities for all. We are proud to be a WORK180 Endorsed Employer for Women. Explore our partnership with Work180.
+
+ 
+
+We welcome applicants from all backgrounds and experiences, and strongly encourage First Peoples, women, people from the LGBTIQA community, culturally and racially marginalised people and people with disabilities to apply. We recognise how people from marginalised groups can face extra barriers and self-select out of recruitment processes.  With this in mind, we’re committed to making reasonable adjustments to ensure a positive, barrier-free recruitment process.
+
+ 
+
+What’s next
+
+Submit your application via our careers’ website by 15 February 2026. To make a confidential reasonable adjustment query, please contact Nadya Kartika from the Talent team at careers@powercor.com.au
+
+ 
+
+Beon, CitiPower, Powercor and United Energy recognise Australia’s Aboriginal and Torres Strait Islander Peoples as the First Peoples and Traditional Custodians of the lands on which we work. We pay our respects to Elders past and present and acknowledge their ancient and continuing connection to Country.
+
+ 
+
+We are committed to creating a workplace where everyone feels valued, respected and supported to succeed. By making sure our workplace is physically and mentally safe, so that our people can be their authentic selves, share their unique perspectives and can thrive."
+89725982,Senior Data Scientist (LLMs),Virgin Australia,https://www.seek.com.au/job/89725982?type=standard&ref=search-standalone&origin=jobCard#sol=759d2c9c3f334b608786d1db0580166721b887a0,3h ago,3.0,2026-01-15T23:00:00+00:00,Brisbane QLD (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Full-time, Brisbane or Sydney based hybrid role
+
+Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+
+What you’ll be doing
+
+As a Senior Data Scientist specialising in the application of Large Language Models, you’ll design and deliver production-ready LLM-based systems that solve real business problems. This role combines deep expertise in Applied AI with the practical engineering skills that are needed to build, evaluate and optimise LLM-based solutions.
+
+Key responsibilities include:
+
+Design end-to-end LLM-based solutions including retrieval, prompting, fine-tuning, and tool/API integration.
+Build and iterate on retrieval-augmented generation pipelines (document ingestion, embeddings, vector search, reranking, context assembly).
+Design and implement agentic workflows for multi-step reasoning and tool usage.
+Write production-quality Python code to integrate LLM systems into business applications and workflows.
+Optimise systems for latency, reliability, and cost using caching, batching, and inference optimisation.
+Design evaluation frameworks for non-deterministic outputs (correctness, groundedness, reasoning coherence).
+Analyse model failures and implement improvements based on error patterns and feedback loops.
+Stay current with advances in LLMs, agentic systems, and retrieval techniques; translate research into production patterns.
+Collaborate with security, compliance, and platform teams for responsible AI alignment.
+
+You’ll be great in this role if you have…
+
+A bachelor’s degree or higher in computer science, data science, software engineering, or related discipline (or equivalent experience).
+Formal training or postgraduate study in machine learning, deep learning, NLP, or large language models.
+Experience building, deploying, and operating production-grade ML or AI systems (not just prototypes).
+Hands-on experience with LLMs in applied settings (RAG, tool-calling, multi-step reasoning workflows).
+Experience designing evaluation approaches for non-deterministic systems.
+Strong software engineering skills in Python for production-quality code.
+Ability to design end-to-end LLM systems including orchestration and integration with external tools.
+Knowledge of optimisation techniques such as fine-tuning, distillation, and inference efficiency improvements.
+Experience with observability practices (structured logging, tracing, dashboards) and managing cost/latency trade-offs.
+Ability to clearly explain technical concepts and trade-offs to non-technical audiences.
+Exposure to travel, transport, or other complex operational industries (desirable).
+
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
+
+Discounted flights for you and your loved ones (including $1000 worth of travel credits per year)
+A flexible, hybrid work style. Work from home or the office, adapt your location to suit your style and needs
+One of Brisbane’s most admired head office locations, with South Bank train station, a supermarket, pharmacy, and lunch options downstairs plus a 5-minute walk to the Busway, a rooftop restaurant and onsite gym (with a low membership fee) and South Bank Parklands just across the road
+Discounts on travel insurance, lounge membership, car hire, accommodation, and experiences worldwide
+Cheaper hospitality, retail, technology, beauty and wellness services
+Free counselling and access to a wellbeing app to support your physical, mental, social and financial health
+‘Dress for Your Day’ – enjoy the freedom to wear whatever makes you feel great for the type of work you do and the day you have ahead of you.
+
+When everyone is included, everyone wins
+
+We’re all individuals. And we love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
+
+Ready to apply?
+
+We’re ready to hear from you. Apply now."
+89725972,"Senior Manager, Data Science",Lanson Partners,https://www.seek.com.au/job/89725972?type=standard&ref=search-standalone&origin=jobCard#sol=2b7d7450484c2eea3adb4a5de40b2100c5bef5b7,3h ago,3.0,2026-01-15T23:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Contract/Temp,$200k-$230k base plus super plus bonus,"Lead the AI strategy behind large-scale customer experiences. Drive experimentation, advanced ML and Generative AI to deliver measurable commercial impact.
+
+This leadership role sits within a high-performing Data & AI function, partnering closely with Product and Engineering to solve complex, real-world problems at scale.
+
+What you’ll do
+Lead and grow a high-impact team of Data Scientists
+Own the end-to-end design, deployment and optimisation of AI & ML models
+Champion experimentation to accelerate insight and innovation
+Embed ethical, explainable and auditable AI governance
+Partner with Product and Engineering to operationalise models at scale
+Apply Generative AI to improve productivity and decision-making
+What you’ll bring
+Strong background in Data Science, Machine Learning and AI
+Proven leadership of AI/ML initiatives delivering measurable outcomes
+Deep hands-on experience across the full model lifecycle
+Experience establishing AI governance, risk and MLOps practices
+Collaborative, people-first leadership style
+Practical experience applying Generative AI in production environments
+
+Please reach out to Matthew Nicholas for more information about this position. Email address is matthew@lansonpartners.com."
+89725954,Aeromedical Data Scientist,Department of Defence,https://www.seek.com.au/job/89725954?type=standard&ref=search-standalone&origin=jobCard#sol=5d052f455076b4f1f5d75d1b8e386b2e2818c083,3h ago,3.0,2026-01-15T23:00:00+00:00,"Edinburgh, Adelaide SA","Air Force, Government - Federal (Government & Defence)",Full time,"$95,187 - $108,734 (APS 6) + Super","The Role
+
+The RAAF Institute of Aviation Medicine (IAM) is seeking a Data Scientist to join the Aeromedical Analysis and Decision Support (AADS) Team. 
+
+This offers the opportunity to support Defence aviation through the production of aeromedical guidance tailored to provide aviation safety stakeholders with information to support decision making in areas related to human performance, aeromedical hazards, and aviation safety.
+
+Working in an organisation that values innovation, you collaborate with uniformed and civilian aviation medicine and human factors specialists to provide timely and appropriate evidence-based guidance. 
+
+In your role as Data Scientist, you will form part of a small close-knit team to perform data processing and analysis to contribute to team outputs, and within scope of expertise undertake data collection and analysis, and written advice for directed tasking, encompassing; psychological, human factors, physical, and physiological dimensions of the aviation domain related to human performance, safety, and operational capability.
+
+About our Team
+
+Institute of Aviation Medicine is the Australian Defence Force centre of excellence in aviation medicine and human factors, dedicated to providing specialist guidance and expert advice across the three services as follows:
+
+Aviation medicine and human factors;
+Human-systems integration and ergonomics; 
+Interface between aircrew and life-support systems;
+Hazard analysis and advice in assessment/management of risks arising from human physiology, ergonomics, anthropometry, medical factors, or human performance limitations; 
+Assessing likelihood and consequence of medical hazards in aircrew and controllers, and working with risk-holders within a harmonised Defence risk-management system;
+Applying a structured approach to problem definition and providing evidence-based recommendations to support decision-makers. 
+
+This exciting and rare opportunity to grow your career in a supportive environment, will allow you to be integral to a team significantly contributing to Defence aviation capability and risk management.
+
+Our Ideal Candidate
+
+To succeed in the role, you will have the demonstrated ability to:
+
+Plan, provide advice, and deliver critical complex review activities, 
+Manage concurrent activities with competing priorities within the direction established by Institute of Aviation Medicine;
+Demonstrate effective verbal and written communication skills which enable you to positively liaise with internal and external stakeholders as required;
+Manage workflows and resources, prepare work area and team plans detailing measurable milestones and expected outcomes within specified deadlines;
+Apply the principles of problem definition and scientific method as the foundation of a problem-solving framework, and the ability to analyse and interpret data to develop evidence-based, meaningful and relevant recommendations;
+Apply scientific principles to problem definition, data analysis, and generation of evidence-based recommendations;
+Proficiently use advanced features of Microsoft Software and statistical analysis software.
+
+Application Closing Date: Sunday 1 February 2026
+
+For further information please review the job information pack, reference AF/09967/25 on https://defencecareers.nga.net.au/?jati=FFA35A26-2D80-ACEF-9AD8-EC92C3CAF342"
+89725795,Engineering Manager - Hawthorn East,Coles,https://www.seek.com.au/job/89725795?type=standard&ref=search-standalone&origin=jobCard#sol=22dac799a626f7a458573ef8fa31c2e12aa9d50f,3h ago,3.0,2026-01-15T23:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"We’ve been proudly serving Australian communities since 1914 and have grown to become a top 30-listed company on the ASX with a portfolio of iconic homegrown brands. At the heart of our continued success is over 115,000 team members working across the country, all contributing to bringing our customers smiles. You’ll not only get to see your work make a difference, you’ll be part of a team working together to help Australians eat and live better every day.
+
+ 
+
+About the team
+
+ 
+
+As the way Australians shop continues to evolve, our Data and AI Team keep Coles at the forefront of modern retail. We combine data, artificial intelligence, and applied engineering to reimagine how our stores, supply chain, and digital channels operate — creating smarter, more connected, and seamless experiences for our customers and team members.
+
+ 
+
+Operating as a centralised development and enablement function within Coles Technology, the team unites product, engineering, and platform capabilities to deliver the intelligence layer of the enterprise. We serve every part of Coles — from computer vision applications that enhance in-store experiences and reduce loss, to forecasting, optimisation, and decision-support solutions that drive efficiency, accuracy, and agility across our supply chain, retail operations, and corporate functions.
+
+ 
+
+The scale and impact of this work are significant. Coles serves millions of customers each week across more than a thousand stores nationwide, and our AI and data capabilities provide the intelligence that underpins how we plan, move, sell, and serve. By combining deep data capability with applied AI and modern engineering, we’re enabling Coles to become a truly AI-enabled enterprise, transforming how we operate and how Australia shops every day.
+
+
+
+About the role
+
+ 
+
+As an Engineering Manager, you'll lead a domain-specific, multi-disciplinary team comprised of data, machine learning, DevOps and software engineers to deliver on our data and AI roadmap. You'll be responsible for ensuring that AI and data engineering efforts deliver measurable business value, through agile ways of working and a focus on engineering practises.
+
+ 
+
+You’ll work alongside curious, likeminded individuals across Coles who are passionate about AI innovation and experimentation, in an inclusive environment that values different perspectives and approaches to problem-solving.
+
+ 
+
+Key Impact and Responsibilities
+
+ 
+
+The Engineering Manager leads the design, development, and delivery of complex, scalable AI/ML and data solutions. Projects can range from computer vision applications that enhance in-store experiences to forecasting, optimisation, and decision-support solutions that drive efficiency across our supply chain and retail operations.
+
+ 
+
+You will take a product led approach to engineering, partnering with Product Managers, Architects, Security, and other technology partners to delivery on the strategic roadmap. 
+
+ 
+
+You’ll lead and grow a high-performing team and drive delivery excellence by:
+
+ 
+
+Leading the design and development of complex, scalable, high-performance AI/ML and data solutions that deliver measurable business outcomes
+Partnering with Product Managers to translate business objectives into data and AI solutions through prioritisation, planning, and managing competing resource demands
+Collaborating with technology partners across architecture, security, and other technology teams to drive delivery outcomes
+Defining modern engineering practises, embedding them in the team and their ways of working, and embarking on a journey of continuous improvement. Constantly reflecting on ways of working to drive increased delivery outcomes
+Implementing modern DevOps practices, CI/CD, and robust QA processes that enable continuous, iterative, and reliable value delivery
+Recruiting, mentoring, and retaining top-tier engineering talent through structured career development programs and clear progression paths, providing coaching, mentoring and upskilling
+Fostering a culture of experimentation and continuous improvement, encouraging the exploration of new tools, technologies, and strategies
+
+ 
+
+About You and Your Skills
+
+ 
+
+We’re looking for an Engineering Manager with experience managing product led ML and/or data engineering teams.
+
+You'll bring the ability to institute change and uplift ways of working, driving cultural and technical transformation within the engineering team. Educating, coaching and upskilling your team, and providing opportunities for continuous learning will be integral to your role. You'll define modern engineering practices, embed them in the team, and foster a culture of continuous improvement.
+
+You'll have experience working in product-led organisations focused on continuous iteration and value delivery. This will be reflected in your experience with Agile delivery models, building software and ML/AI solutions following a modern SDLC built around automation and CI/CD.
+
+ 
+
+Further, you’ll have:
+
+ 
+
+Proven experience in the data and AI domain, particularly in building, developing, and supporting production-grade AI solutions
+Demonstrated ability to lead and manage multi-disciplinary teams (including ML Engineers, Software Engineers, and Data Engineers) while collaborating effectively with partners such as product managers, security specialists, and architects
+Strong product mindset, with the capability to translate business objectives into practical, scalable technical solutions
+
+ 
+
+While our technology stack is constantly evolving, at present it consists of:
+
+ 
+
+Cloud Platform: Azure (AKS, Foundry, AML)
+Infrastructure & DevOps: Docker, Terraform, Azure DevOps, CI/CD pipelines
+Languages: Python, R, TypeScript (React)
+Data Engineering: DataBricks, Snowflake, DBT
+Machine Learning: PyTorch, scikit-learn, MLOps practices
+AI Frameworks: LangChain, Semantic Kernel
+Development Practices: Agile, GitOps, CI/CD, IaC, Microservice Architecture
+
+ 
+
+We recognise that candidates will bring diverse combinations of skills and experience. While experience with these specific tools is valuable, we're equally interested in your ability to learn, adapt, and lead teams through technological change. We encourage you to apply if you have experience with similar tools and are passionate about technology, innovation, and developing high-performing engineering teams.
+
+ 
+
+Additionally, we are not just looking for someone with technical or leadership skills and expertise, we value cultural fit and we value diversity in the team in the pursuit of excellence and innovation.
+
+ 
+
+General Skills
+
+ 
+
+Building strong collaborative relationships and effectively communicating technical concepts across teams with diverse backgrounds and skillsets
+Passionate about developing engineers and sharing best practices in software development, data engineering, and MLOps
+Comfortable with agile ways of working, balancing the need for quality with near-term business benefit
+Demonstrating empathy and strong interpersonal skills, with a genuine interest in people growth and career development
+Good understanding of software architecture and enterprise integration patterns
+
+ 
+
+ 
+
+
+
+What’s in it for you?
+
+ 
+
+Flexible working options: We know that work is only one part of your life, so we actively encourage a positive work-life balance and provide hybrid working options to help you achieve it.
+Office perks: Take advantage of our gym facility and fitness classes, free parking, BBQ area, mini-Coles supermarket, fooderie hub where you can sample new products before they hit the shelves, school holiday program and so much more when you come in.
+Discounts: Eligible team members receive 5% discount all year round on your Supermarket and Liquor online and in-store purchases. We also offer additional periods of double discount (10%) at various times throughout the year. As well as hotdeals exclusive to team members that translate into additional savings.
+Reward through recognition: Give and receive recognition, linked to our Coles values, through our digital recognition platform ‘mythanks’. You can accumulate points to redeem in the online shop for exciting gifts and electronic gift cards from an extensive range of retailers.
+Opportunities for learning and development: No matter where you start within our diverse business, you’ll have experiences, exposure, and education to satisfy you. Discover and explore a variety of career development programs and job-specific training.
+Paid parental leave: We understand how important your life outside work is and offer permanent team members paid parental leave to support you in balancing work and family.
+Investment in your future: Our annual team member share plan offer allows eligible team members to make regular pre-tax salary sacrifice deductions to purchase Coles Group shares.
+
+ 
+
+About the recruitment process
+
+ 
+
+We’re continuing to build a gender equitable team, and a culture that is just as diverse, inclusive and welcoming as the communities we serve. We are committed to creating a workplace that is safe and respectful for our team. We encourage applications from people of all ages, cultures (including Aboriginal and Torres Strait Islander peoples), abilities, sexual orientation and gender identities.
+
+ 
+
+We’re happy to adjust our recruitment process to support candidates with disability. For further information and additional contact details visit the ‘Our Recruitment Process’ section of our careers site or email inclusionrecruitment@coles.com.au
+
+ 
+
+Job ID: 174591
+
+ 
+
+Employment Type: Full time"
+89724745,Senior Machine Learning Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89724745?type=standard&ref=search-standalone&origin=jobCard#sol=725d806a27791d8d30e082e3416f64d77e45a9cb,4h ago,4.0,2026-01-15T22:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior Machine Learning Engineer
 Initial 6-Month Contract
 Surry Hills, Sydney - Hybrid Work Model
 
