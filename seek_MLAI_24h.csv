@@ -1,5 +1,235 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89761731,Software Engineer - new architectures for AI infrastructure,MCS Consulting,https://www.seek.com.au/job/89761731?type=standard&ref=search-standalone&origin=jobCard#sol=28c496e1bb52be3b6f5f904d2cabfe7998a01911,3h ago,3.0,2026-01-18T20:00:00+00:00,"North Ryde, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,Adequate,"While the herd is moving to AI APIs, there is need for engineers who can work on the necessary infrastructure.
+89765983,"Platform Engineer (Python, K8s, AWS) - Perm or Contract",Software At Scale,https://www.seek.com.au/job/89765983?type=standard&ref=search-standalone&origin=jobCard#sol=a446b83d40529f17ff49df66740b8d08422e4a26,1h ago,1.0,2026-01-19T01:00:00+00:00,Sydney NSW (Hybrid),Systems Engineering (Engineering),Contract/Temp,,"Our 'black belt' specialists are leaders in their domains: digital champions, delivery-focused experts, top-tier security professionals, AI thought leaders, and engineering best practice advocates.
+
+With a global presence and local expertise, we deliver innovative solutions without compromising on quality. Our multidisciplinary teams provide tailored expertise to solve complex problems at scale, ensuring engineering excellence through our top technologists.
+
+Position Overview
+
+Are you ready for a very interesting challenge?
+
+Our client has developed a unique service platform that is currently in the Proof of Concept phase. They have a critical need to uplift this platform, transforming it into a fully enterprise-grade solution. To achieve this, we need a heavy hitter who can deliver a strong, robust, scalable, and secure offering that can serve the wider group.
+
+This is a hands-on, high-impact role. The core work will involve upgrading the CI/CD pipelines, re-engineering the Kubernetes (K8s) architecture, and upskilling/modernising the existing Python API frameworks to deliver the required outcomes.
+
+Crucially, we need someone who can apply their interest in AI to understand how to best architect the platform to support emerging AI capabilities and requirements. You won't just be building pipelines; you will be defining how we build and scale software for the future.
+
+Key Responsibilities
+
+Lead the Platform Uplift: Take ownership of moving the existing platform from a PoC to a production-ready, industrialised offering.
+Re-engineer Infrastructure: Redesign and manage the Kubernetes clusters and AWS infrastructure to ensure high availability, security, and scalability.
+Advanced CI/CD Architecture: Design and build sophisticated, highly automated CI/CD pipelines to support high-velocity deployment and testing.
+Modernise Python APIs: Refactor and upskill the existing Python API frameworks to ensure they are performant and maintainable.
+Architect for AI: Leverage your interest in AI to design platform capabilities that can support future AI workloads, model hosting, and inference requirements.
+Technical Leadership: Set the standard for engineering excellence, driving the strategy for how the platform evolves to meet enterprise needs.
+
+Skills & Experience
+
+Proven track record leading complex engineering projects, specifically taking platforms from 0 to 1 (PoC to Production).
+Deep expertise in Python (API development) and AWS.
+Extensive experience re-engineering, managing, and scaling Kubernetes clusters in a production environment.
+You can build advanced pipelines from scratch (e.g., GitHub Actions, GitLab CI, Jenkins) and understand the nuances of automated testing and security scanning.
+A strong interest in AI with the ability to understand its infrastructure requirements. You know how to architect platforms that can host or integrate with AI models effectively.
+Ability to see the ""big picture"" of the platform, understanding how APIs, Infrastructure, and AI components interact.
+
+Bonus Points For ✨
+
+Experience building platforms that host Generative AI or LLM-based applications.
+Background in Platform Engineering or Internal Developer Platforms (IDP).
+Experience with infrastructure-as-code (Terraform, CDK).
+Knowledge of MLOps principles.
+
+What We Offer:
+
+A collaborative and innovative work environment.
+Opportunities for professional growth and development.
+Competitive compensation.
+The chance to work on cutting-edge projects with a team of industry leaders.
+
+If you're ready to take your career to the next level and make a significant impact in the world of software engineering, we'd love to hear from you."
+89763474,Machine Learning Engineers,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89763474?type=standard&ref=search-standalone&origin=jobCard#sol=a0e29b71a6fe940d058fab9cd4000a58331c60c8,3h ago,3.0,2026-01-18T23:00:00+00:00,Adelaide SA,Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Machine Learning Engineers
+6 months initial contract with possible extension
+Adelaide Based Position
+
+Our client is seeking a highly skilled Machine Learning Engineer to lead the deployment, automation, and optimisation of machine learning models in preproduction and production environments. This role is critical in enabling scalable, secure, and efficient ML workflows that support data-driven initiatives.
+
+Duties and Responsibilities:
+
+Design, implement, and maintain ML pipelines for model training, deployment, and monitoring.
+Develop automation and CI/CD workflows for ML models using tools such as
+Ensure compliance with Australian Government security frameworks (ISM, PSPF) and agency policies.
+Optimise ML infrastructure for performance, scalability, and cost-effectiveness.
+Collaborate with data professionals to transition models from development to production.
+Implement monitoring and alerting for model performance and data drift.
+Provide technical advice and mentorship to team members and stakeholders.
+Stay current with emerging ML Ops technologies and best practices.
+
+Qualifications:
+
+Demonstrated experience in ML Ops or related roles within complex environments.
+Strong knowledge of ML lifecycle management and deployment strategies.
+Proficiency in cloud platforms (AWS, Azure, GCP) and containerisation (Docker, Kubernetes).
+Experience with ML Ops tools (Kubeflow, MLflow, Airflow) and CI/CD pipelines.
+Solid understanding of data engineering, version control (Git), and automation frameworks.
+Excellent problem-solving skills and ability to work under pressure.
+
+Apply now or reach to Ivan Aureus at 0480 806 152 for a confidential chat!"
+89763066,Operations Engineer,Elula,https://www.seek.com.au/job/89763066?type=standard&ref=search-standalone&origin=jobCard#sol=40ed3e2b7df593fb659bc87cd1180c6f8b4f24d2,3h ago,3.0,2026-01-18T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who we are
+
+Elula was founded in 2017 by a bunch of talented people with years of experience in enterprise and passions for technologies that deliver smarter decision making through the intelligent use of data.
+
+Our vision from the start has been making real, positive differences to businesses of all sizes, through AI. We work with some of Australia’s most well-known companies, both locally and internationally, to solve all sorts of business problems. And we partner with Amazon Web Services to make it all happen.
+
+Today, Elula includes some of the smartest data scientists and engineers in our region. We continually develop new ways to add value via an evolving understanding of customers—and how to respond to their ever-changing needs.
+
+We have a vibrant culture with an emphasis on teamwork, action, learning, creativity, and a can-do attitude. It is fast paced but a fun and supportive environment. At Elula you will always be pushed to be the best version of you and will be working in an exceptional team at the forefront of AI product development.
+
+Our products utilise machine learning algorithms, productionised models, data pipelines, explainable AI, visualisations, and technical-into-plain-English translation. We are focused on helping the financial services industry deliver personalised customer experiences and transform customer engagement and retention.
+
+Find out more about us at https://elula.ai/team/.
+
+
+
+
+About the role
+
+We are currently seeking skilled and motivated individuals to join our team in the role of Operations Engineer. If you have a passion for service management, improving operational efficiency, and delivering exceptional customer experiences, then this opportunity is for you. 
+
+
+
+
+Key Responsibilities
+
+You will be responsible for, but not limited to, the following:
+
+Service management and production operations.
+
+Technical issue resolution.
+
+Release management and deployments.
+
+Incident and issue management.
+
+Automation tool deployment for machine learning models.
+
+Delivering customers the highest level of service within a defined SLA. 
+
+
+
+
+Skills and Experience
+
+We encourage applicants who demonstrate the following skills and experiences to apply:
+
+A ‘can-do’ attitude together with strong communication skills (both written and verbal).
+
+Ability to collaborate across teams and provide excellent customer service with a desire for continual improvement.
+
+Analytical and problem-solving skills.
+
+Understanding of agile working practices, DevOps, and CI/CD principles.
+
+Ability to take ownership from start-to-finish, working with limited supervision with awareness of when to escalate and ask for help.
+
+Basic knowledge of Python and SQL as a minimum.
+
+University degree in computer science or similar.
+
+
+
+
+Knowledge
+
+While the following knowledge is not required, they are highly valued:
+
+Understanding of AWS products (S3, Athena, Lamba, etc.), machine learning, and big data technologies.
+
+IT service management experience.
+
+Exposure to risk and governance.
+
+Experience in financial services.
+
+Enjoy a start-up culture: team over individual, rapidly shifting priorities, flexibility surrounding assignments, and solving problems within, or outside of, formal duties.
+
+
+
+
+Benefits
+
+Work with talented people – we have high standards and hire the best and the brightest.
+
+Learn and develop at pace – we have great people leaders and actively support growth through training and education, with exposure to real-world problems.
+
+We believe we can do better by being together.
+
+Inclusivity and equality – all are welcome to apply for our roles because we truly believe that diversity is a game changer for Elula.
+
+Elula offers incentives and benefits to support further ambitions –Training programs, further education co-pay and exam leave, volunteer and exercise benefits, and more. 
+
+
+
+
+Interested?
+
+If you are excited about working with a close-knit team of highly motivated people, submit your CV and a cover letter telling us specifically what draws you to Elula, what draws you to the job, and what distinguishes you from others.
+
+Flexible work arrangements are available as are internal career development opportunities to any other role within the company."
+89762756,Data Engineer Lead,Perfection Fresh Australia Pty Ltd,https://www.seek.com.au/job/89762756?type=standard&ref=search-standalone&origin=jobCard#sol=4de3a440f4d2b341c88e83ad9a526ad218542f19,4h ago,4.0,2026-01-18T22:00:00+00:00,"Rhodes, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Our mission is to make fresh fruits and vegetables a more loved and essential part of everyone's life.
+
+Perfection Fresh is one of Australia’s largest privately owned fresh produce companies that’s been on an exciting journey of innovation and growth since 1978.
+We’re an Australian-based business that grows, packs, and markets fresh produce both domestically and internationally. You’ll recognize our produce – Qukes®, Broccolini®, Calypso® mangoes, and more.
+
+Our history 45-year history is one of continuous progress. We’re the market leader in our field and we’ve been listed on the Australian Financial Review’s top 100 private companies in Australia.
+We employ more than 2,000 people across a portfolio of farming sites, high-tech production facilities, research, corporate offices, and national logistics operations.
+
+Learn more about us and discover other exciting opportunities at www.perfection.com.au.
+ 
+
+
+
+
+Drive the future of data at Perfection Fresh!
+
+
+We’re looking for an experienced Enterprise Data Platform Lead to design, build, and manage our cutting-edge data platform powered by Microsoft Fabric. This is a pivotal role in delivering our Data Strategy, enabling secure, high-quality, and scalable data solutions that power reporting, analytics, AI/ML, and operational excellence across the organisation.
+
+What you’ll do
+Lead the development and management of the enterprise data platform built on Microsoft Fabric.
+Design and implement robust, scalable data pipelines and models to support diverse business needs.
+Champion best practices in data engineering, governance, and security.
+Drive innovation in data architecture and enable enterprise-wide decision-making through trusted, high-performance data solutions.
+
+ 
+
+
+
+
+Desired Skills and Experience
+
+Data Engineering Leadership
+Minimum 5 years’ experience in data engineering with proven leadership in Microsoft data technologies.
+
+Microsoft Fabric Expertise
+Hands-on experience delivering enterprise-scale solutions using Microsoft Fabric components, including OneLake, Lakehouse, Pipelines, and Real-Time Analytics.
+
+Advanced Analytics & BI
+Strong proficiency in Power BI, Azure Synapse, Data Factory, and Dataverse to enable scalable reporting and predictive modelling.
+
+Technical Skills
+Proficient in T-SQL, Python, and Spark within the Microsoft ecosystem, with deep knowledge of data modelling, lakehouse/warehouse architecture, and ETL/ELT best practices.
+
+Data Integration & Transformation
+Experience managing ingestion and transformation of diverse data sources such as APIs, databases, files, IoT, and cloud systems.
+
+Governance & Compliance
+Solid understanding of data governance, security, and metadata management, ideally leveraging Microsoft Purview for lineage and classification.
+
+Leadership & Collaboration
+Demonstrated ability to lead technical teams, mentor engineers, and deliver in agile environments while partnering effectively with business stakeholders.
+
+Communication Skills
+Excellent ability to translate complex technical concepts into clear business outcomes and engage stakeholders at all levels."
+89761731,Software Engineer - new architectures for AI infrastructure,MCS Consulting,https://www.seek.com.au/job/89761731?type=standard&ref=search-standalone&origin=jobCard#sol=74aec61f91281b5c7d9fdf40362498274d29d805,6h ago,6.0,2026-01-18T20:00:00+00:00,"North Ryde, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,Adequate,"While the herd is moving to AI APIs, there is need for engineers who can work on the necessary infrastructure.
 
 GPUs, and even TPUs, have fundamental constraints when a system needs to be scaled for global deployment of modern Generative AI models. The old architectures that served us well while Dennard scaling held are being replaced by more specialized silicon that allows greater power efficiency for application-specific tasks. AI systems such as transformer-based models are particularly suited to specialist hardware.
 
