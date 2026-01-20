@@ -1,5 +1,169 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89804206,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/89804206?type=standard&ref=search-standalone&origin=jobCard#sol=aaeadbfedc4fabe91e3dd588b5c9177a120b7711,Just now,0.0,2026-01-20T04:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
+89804552,AI Engineering Manager,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89804552?type=standard&ref=search-standalone&origin=jobCard#sol=ab7effbff04bdd73d3efd674e736bf809f62533c,1h ago,1.0,2026-01-20T04:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,$170k - $190k p.a. + + bonus component,"Our client is looking for an AI Engineering Manager to lead a multi-disciplinary team of data, machine learning, DevOps, and software engineers delivering high-impact AI and data solutions for a leading retailer.
+You'll take a product-led approach, partnering with Product Managers, Architects, and Security to deliver our AI and data roadmap while embedding modern engineering and agile practices that drive measurable business value.
+
+Responsibilities:
+
+
+Lead the design and delivery of scalable, production-grade AI/ML and data solutions
+
+Translate business objectives into prioritised technical outcomes alongside Product
+
+Drive modern engineering practices, CI/CD, DevOps, and quality standards
+
+Collaborate across architecture, security, and platform teams
+
+Recruit, mentor, and develop a high-performing engineering team
+
+Foster a culture of experimentation, continuous improvement, and innovation
+
+Proven experience leading product-led data and/or ML engineering teams
+
+Strong people leader with a passion for coaching and team development
+
+Solid background delivering AI solutions into production
+
+Comfortable working in agile environments focused on continuous value delivery
+
+Strong product mindset and stakeholder collaboration skills
+Tech stack
+
+
+Azure (AKS, Azure ML), Databricks, Snowflake, Docker, Terraform, CI/CD, Python, PyTorch, LangChain, Agile & DevOps practices.
+
+This is a permanent opportunity with flexible working arrangements, 3 days per week on site.
+
+
+For more information, contact Melissa Haddad at melissa.haddad@talentinternational.com"
+89804370,Data Engineer,Tassal Operations Pty Ltd,https://www.seek.com.au/job/89804370?type=standard&ref=search-standalone&origin=jobCard#sol=287a3329dc65493356b04050668ac361907393f0,1h ago,1.0,2026-01-20T04:00:00+00:00,Hobart TAS,Engineering - Software (Information & Communication Technology),Full time,,"Ready to engineer data systems that actually matter? At Tassal, we’re transforming the way Australia’s largest aquaculture business uses data and we are searching for a mid-level Data Engineer who wants to do work that makes a real impact. As part of Cooke Inc, you will also be connected to a global network of innovators working on the next evolution of analytics, AI and modern data platforms.
+
+Why This Role?
+
+You will step into a pipeline of high value, data driven projects across operations optimisation, advanced analytics, workflow automation and governed data products. You’ll be hands on in shaping the architecture, engineering practices and modern data stack as we move to Snowflake in the near future.
+
+You will work closely with our Senior Data Engineer, helping build the pipelines, tooling and foundations that unlock insights across our business.
+
+If you want to engineer systems that are scalable, battle tested and designed with real world complexity in mind, you will enjoy this role.
+
+What You Will Be Building
+
+You will have scope, ownership and trust to deliver genuine engineering work, including:
+
+• Designing and maintaining high performance data ingestion pipelines from operational systems into our cloud data warehouse
+• Developing modern ELT and orchestration workflows using Databricks or Snowflake, Azure Data Factory (ADF), dbt and Fivetran
+• Building scalable data models that support analytics, dashboards and mission critical decisions
+• Creating application to application integration pipelines to keep Tassal’s digital ecosystem working smoothly
+• Championing CI/CD and engineering best practice, including version control, peer reviews, testing and monitoring
+• Working with Digital and Data, Business Systems and business stakeholders to translate requirements into reliable architectures and high quality solutions
+
+What You Will Bring
+
+We are looking for someone who is curious, sharp and ready to take on a role with real influence. Ideally, you will have:
+
+• 3 to 5+ years working with Databricks or Snowflake and dbt
+• 3 to 5+ years experience in data engineering, analytics engineering or similar
+• Experience building efficient, scalable and maintainable data models
+• Strong SQL skills with readable and optimised queries
+• Experience designing and maintaining automated data pipelines with resiliency and reliable recovery
+• A good understanding of data governance, quality frameworks and security best practice
+• A commitment to continuous improvement across the Tassal Data Platform
+
+If you enjoy clean code, solid architecture, smart transformations and watching reliable pipelines run smoothly, you will fit in well.
+
+Why Join Tassal?
+
+• Your engineering will influence real world outcomes
+• Hybrid work options (WFH after probation)
+• A Hobart based role with global opportunities through Cooke Inc
+• A supportive and collaborative team that values engineering excellence
+• A modern data environment that is evolving quickly, and you get to help shape it
+
+Our Story:
+
+At Tassal Group, we are dedicated to “Sustainably Feeding Tomorrow.” With over 35 years of aquaculture experience, we focus on providing healthy, sustainable, and nutritious food, including salmon, prawn, and barramundi. We are committed to producing accessible food, supporting communities, and delivering strong economic results, all while prioritising sustainability to ensure a prosperous, healthy planet for future generations.
+
+Our Values:
+
+Our people each contribute in different ways, embracing our business values and harnessing our can-do, safety-first culture with purpose and intent. Our shared values are an essential part of our business culture; they define us. They underpin and guide our commitment, attitude, how we work, and the quality of our products. We are passionate, we achieve together, we own it, and we can do it safely.
+
+Please note, you must have full work rights in Australia to be considered for this role.
+
+If you have any questions, please email Joel at joel.sceney@tassal.com.au"
+89804271,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/89804271?type=standard&ref=search-standalone&origin=jobCard#sol=9949e52e1ff7708ae25d162e20dcb45d7b7470de,1h ago,1.0,2026-01-20T04:00:00+00:00,Brisbane QLD (Hybrid),Product Management & Development (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
+
+St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
+
+Are you an experienced Data Engineering leader ready to shape the future of healthcare technology? Join St Vincent's Health Australia (SVHA) and lead our transformation journey as we build an integrated Data, AI & Interoperability Platform to modernise healthcare delivery. This is your opportunity to pioneer the next generation of healthcare data infrastructure.
+
+The Opportunity
+
+St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. As the Data Engineering & Innovation Lead, you will be the platform owner for our modern data and AI platform, guiding St Vincent's through an exciting transformation to cloud & AI-native data capabilities.
+
+This is a unique opportunity to architect and lead the engineering function as we embark on our journey toward real-time IoT data integration, Generative AI and Machine Learning, self-service analytics, and data democratisation across our healthcare ecosystem.
+
+You and your team will be responsible for bring structured and unstructured data from multiple sources at many speeds, transforming it into meaningful inputs for advanced analytics and AI. You will also be leading the establishing and growth of cutting edge AI capabilities as St Vincent's navigates its journey to increasingly embedding AI into the services it provides to its patients and residents.
+
+Working closely with diverse stakeholders across clinical, operational and corporate functions, you'll build strong partnerships and implement process improvements that unlock the power of data to enhance patient care and operational excellence.
+
+This role is part of a broader Data Analytics Community across SVHA, and all activities must align with SVHA's Data Governance & Analytics Strategy and Standards, ensuring we build a sustainable, scalable platform for the future.
+
+What you will be doing.
+
+Key Responsibilities:
+As Data Engineering & Innovation Lead, you will be expected to:
+
+
+Serve as the technical platform owner for our modern Data & AI platform. Lead the design, implementation and evolution of data engineering solutions that enable real-time data processing, IoT integration, and advanced analytics capabilities across the organisation.
+Drive innovation through Generative AI and Machine Learning capabilities, establishing frameworks and pipelines that enable predictive analytics, intelligent automation and data-driven decision making to transform patient care and operational efficiency.
+Enable data democratisation by building robust, user-friendly data pipelines and self-service analytics capabilities that empower stakeholders across the organisation to access and leverage data insights independently and securely.
+Design and implement cloud-native data architectures including data lakes, lakehouses, streaming platforms and interoperability layers. Establish data modelling standards, ETL/ELT processes and data quality frameworks that support scalable, reliable data operations.
+Build strong relationships with clinical, operational and technical stakeholders to understand data needs, gather requirements and implement process change management. Act as a trusted advisor on data engineering best practices and innovation opportunities.
+Ensure the Mission, Vision, Creed, and Values of SVHA (Compassion, Justice, Integrity, Excellence) are effectively integrated into all areas of responsibility, maintaining ethical data practices and patient-centered technology solutions.
+
+What You'll Bring.
+
+Essential Experience & Skills:
+
+Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
+Extensive experience in data engineering, data architecture, and modern cloud-native data platforms (Azure preferred, Fabric, databricks, snowflake desirable)
+Proven track record of leading data engineering initiatives and serving as a platform owner for enterprise data solutions
+Strong expertise in data modelling, ETL/ELT pipelines, data warehousing, and real-time data processing
+Experience with AI/ML platforms, including Generative AI integration and MLOps practices
+Demonstrated ability to design and implement self-service analytics and data democratisation initiatives
+Deep understanding of data governance, data quality frameworks, and interoperability standards (particularly in healthcare)
+Excellent stakeholder management and communication skills, with ability to translate technical concepts for diverse audiences
+Experience driving innovation and continuous improvement in complex organisational environments
+
+Desirable:
+
+Data, infrastructure and/or AI certifications by recognised providers (Microsoft, , Databricks, Snowflake etc.)
+Knowledge and experience of the health industry and healthcare data standards (HL7, FHIR)
+Experience with IoT data platforms and real-time streaming technologies
+Track record of leading digital transformation initiatives in large, complex organisations
+
+If you are driven to achieve results, possess strong technical leadership and innovation skills, and want to contribute to a workplace that is safe and promotes personal wellbeing while transforming healthcare through data and technology, we encourage you to apply.
+
+Things that work for you:
+
+Opportunity to lead the engineering transformation for a major healthcare organisation
+Ability to visibly see your impact on patient care and health service delivery
+Work with cutting-edge technologies including AI, ML, IoT and modern cloud platforms
+Competitive salary packaging options
+Discounted private health insurance
+Employee Assistance Program for staff and their families
+Access to the Fitness Passport (FP)
+
+At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
+
+
+Pre-Employment Checks
+
+Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
+
+Equal Opportunity
+
+We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone."
+89804206,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/89804206?type=standard&ref=search-standalone&origin=jobCard#sol=46adb0afd78c63a1beb39bb3e844e04aadcfe2ba,1h ago,1.0,2026-01-20T04:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -75,7 +239,95 @@ Your employment is conditional upon the completion of all required pre-employmen
 Equal Opportunity
 
 We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone."
-89797808,Data Science Engineer,PointsBet,https://www.seek.com.au/job/89797808?type=standard&ref=search-standalone&origin=jobCard#sol=64ae31c8542bd21d879fddaccedc614ce24999d4,2h ago,2.0,2026-01-20T02:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us
+89804191,Lead Data Engineer,HCF Australia,https://www.seek.com.au/job/89804191?type=standard&ref=search-standalone&origin=jobCard#sol=3953d950fc29e7b13176e572671c8ea6636498b1,1h ago,1.0,2026-01-20T04:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Responsibilities
+
+Design, develop and implement complex data solutions to meet business, technical and user requirements.
+Lead engineering best practices to uplift capability and delivery quality.
+Design and implement data solutions, including data modeling such as Data Vault and different modelling techniques, in close collaboration with the data architect.
+Strong and proven hands-on experience in implementing the business use cases using the data-platform (data warehouse and data lake) tool AWS, Talend, Databricks, Spark, Hive and Snowflake and ETL technologies.
+Work closely with business and other teams for appropriate design and solution.
+Build and optimize data warehouse and data marts ensuring high performance, security and data governance.
+Technical ownership for data and data pipelines to ensure compliance with data and architectural standards.
+Create and maintain documentation for data pipelines, architectures and processes.
+Implement solutions to integrate Gen AI / LLM technologies into data pipelines enabling data enrichment.
+Contribute to the growth of our data engineering practice through automation, and governance uplift.
+Automate engineering solutions to create products to be used across the business.
+Establish and maintain collaboration with research and business teams to converge on the best solutions.
+Explore emerging tools and technologies and integrate to align optimal solutions with business goals.
+Technical ownership for data and data pipelines to ensure compliance with data and architectural standards.
+Responsible for solving problems related to Data Cleansing, Data Quality and Data Security (masking & encryption).
+
+Essential Skills
+
+Bachelor's or Master's degree in Computer Science / Engineering or a related discipline
+10 years + of commercial experience in a Data Engineering / ETL & Data Warehouse Development roles ideally in Insurance domain.
+Experience of Talend, Snowflake, Azure, Databricks, AWS ecosystem- EC2, EMR, S3, Aurora, Hive/ Spark etc. is preferred.
+Experience in Gen AI/LLM is preferred.
+Advanced SQL experience, including fluency with PL/SQL procedures
+Basic understanding of data modelling and concepts especially Data Vault and other modelling techniques.
+Strong fundamental knowledge of ETL/ELT and data warehousing concepts.
+Performance tuning and cost optimization in Snowflake and AWS.
+Good understanding of Business Intelligence and Data Management concepts
+Experience in Insurance Domain would be added advantage.
+
+About HCF
+
+At HCF, our purpose is to bring our human touch to healthcare. Since 1932 we've been putting our members and their health first. As Australia's largest not-for-profit health fund, we cover over 1.9 million members with health, life, travel and pet insurance and our vision is to make healthcare understandable, affordable, high quality and member centric.
+
+We want to be true health partners to our members, easily guiding the healthcare choices that are right for them. At HCF, our values are the way we do things and create the necessary culture to help us realise our purpose and deliver our Strategy. Living our values in action we step forward, walk in their shoes, stay human, make it better and get there together.
+
+Culture & Benefits
+
+Purpose-driven passion
+We're united by a common purpose: to make healthcare affordable, understandable, high quality and member-focused.
+
+Wellness and work-life balance
+We'll empower you with the necessary skills and tools to support your personal wellbeing journey, ensuring you perform at your best. Our offerings include:
+* 50% subsidy on HCF hospital and/or extras cover
+* 18 weeks of parental leave for all new parents
+* Mental health and wellbeing programs, including workshops, fitness classes, flu vaccinations, skin checks and more
+* Discounts on HCF's products, including life, pet and travel Insurance, as well as discounts at Fitness First gyms and on our eyecare products.
+
+Collaboration and inclusivity
+We embrace diversity as our strength and are committed to maintaining an inclusive and collaborative work environment. Our workplace is welcoming and safe for all our employees, irrespective of their unique characteristics including age, ethnicity, cultural or spiritual background, gender identity, disability, education and socio-economic status.
+
+Continuous learning and growth
+We believe in lifelong learning. HCF provides opportunities for personal and professional development. From workshops to mentorship programs, we encourage your growth and curiosity.
+
+
+
+Next steps
+
+If you require any adjustments to assist you in making your application or during the recruitment or onboarding process, please reach out to Talent Acquisition - peopleservices@hcf.com.au to discuss.
+
+We encourage applicants to submit their applications at their earliest convenience, as at HCF, we review applications as they are submitted, and may have filled the role prior to the job closing date."
+89802886,AI Engineer,Ashdown People,https://www.seek.com.au/job/89802886?type=standard&ref=search-standalone&origin=jobCard#sol=1910581fc5771c38be5a7d1113dc709e7d76390f,1h ago,1.0,2026-01-20T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We’re working with a business that’s moving beyond AI proof-of-concepts and actively deploying models into production. They’re now looking for an AI Engineer to join the team and help build, deploy, and maintain real-world AI solutions.
+
+This role suits someone who enjoys getting hands-on, working closely with engineers and the business, and owning solutions end to end.
+What you’ll be doing:
+Building and deploying machine learning and AI models into production
+Supporting ML and GenAI use cases across a modern data platform
+Working with data engineers and product teams to turn ideas into working solutions
+Improving and maintaining data pipelines, models, and services as the platform scales
+Helping shape standards around deployment, monitoring, and MLOps
+Getting involved in design decisions, not just model development
+What they’re looking for:
+Minimum 2 years’ commercial experience in Machine Learning or AI engineering
+5+ years’ experience in data engineering, including 1–2 years supporting ML use cases
+Hands-on commercial experience with Generative AI and Large Language Models
+Strong experience across Databricks, Spark, and Azure-based architectures
+Advanced skills in Python, SQL, and Git for data transformation and orchestration
+Proven experience deploying ML models into production, including CI/CD best practices
+Good understanding of containerisation, APIs, and serverless compute environments
+Comfortable working with real-world, imperfect data
+Strong communication skills and the ability to engage with both technical and non-technical stakeholders
+Why it’s worth a look:
+Focus on production AI
+Well-established data and cloud platform with strong investment in AI
+Supportive engineering culture with room to influence technical direction
+Flexible working arrangements
+Competitive salary and clear progression"
+89797808,Data Science Engineer,PointsBet,https://www.seek.com.au/job/89797808?type=standard&ref=search-standalone&origin=jobCard#sol=ab11e46fb77b9db44b8c1f62984d559c87f16c2a,3h ago,3.0,2026-01-20T02:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us
 
 At PointsBet, we’ve only built a fraction of what we have imagined. Launched in Australia in 2017, PointsBet has grown into a leader in the online gaming industry, delivering top-tier sportsbook and online gaming experiences to customers across Australia and Canada.
 
@@ -118,7 +370,7 @@ Strong organisational and communication skills.
 Apply now to start your journey at PointsBet, where your curiosity, grit and ideas can make a real impact.
 
 Don’t meet every requirement on the job description? That’s okay! We encourage you to apply anyway. We are built different at PointsBet, because we think different. We value diverse perspectives and are excited to hear from applicants with unique skill sets. Your individuality and experience could be the perfect addition to our team."
-89797395,AI Operations Lead,GRIT Talent Consulting,https://www.seek.com.au/job/89797395?type=standard&ref=search-standalone&origin=jobCard#sol=3081bab335dbd5c2075336957fb3e0be6ef6b125,2h ago,2.0,2026-01-20T02:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,"Up to $160,000 + Bonuses","We are seeking an experienced AI Engineering (MLOps) Team Lead to lead the design, delivery, and ongoing operation of production AI and machine learning solutions in a cloud-based environment. In this hands-on leadership role, you will guide a small team of AI specialists while working closely with software, data, and business stakeholders to ensure AI systems are reliable, scalable, secure, and aligned to organisational goals.
+89797395,AI Operations Lead,GRIT Talent Consulting,https://www.seek.com.au/job/89797395?type=standard&ref=search-standalone&origin=jobCard#sol=936883b986c56caec662a5cca0256db1b568399e,4h ago,4.0,2026-01-20T01:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,"Up to $160,000 + Bonuses","We are seeking an experienced AI Engineering (MLOps) Team Lead to lead the design, delivery, and ongoing operation of production AI and machine learning solutions in a cloud-based environment. In this hands-on leadership role, you will guide a small team of AI specialists while working closely with software, data, and business stakeholders to ensure AI systems are reliable, scalable, secure, and aligned to organisational goals.
 
 You will lead the delivery of production AI and MLOps solutions in a permanent, hybrid role requiring just one day per week in the office. Working primarily on Azure, you will take a hands-on leadership position, guiding and mentoring a small technical team while ensuring AI systems are robust, scalable, and effectively deployed into production.
 
@@ -142,7 +394,7 @@ Experience working in agile delivery environment
 Strong stakeholder engagement and communication skills
 APPLY NOW!!!
 Reach out to Tony via tony@grittalent.com for a confidential discussion."
-89796326,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/89796326?type=standard&ref=search-standalone&origin=jobCard#sol=15baaa2c205213bd8d18c75db9824824e6e4da97,3h ago,3.0,2026-01-20T01:00:00+00:00,Melbourne VIC (Hybrid),Product Management & Development (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
+89796326,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/89796326?type=standard&ref=search-standalone&origin=jobCard#sol=fa595e3533fb4d4ce5ac50515a600db502efaae9,4h ago,4.0,2026-01-20T01:00:00+00:00,Melbourne VIC (Hybrid),Product Management & Development (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -216,7 +468,7 @@ Your employment is conditional upon the completion of all required pre-employmen
 Equal Opportunity
 
 We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone."
-89794867,Capacity / Simulation Modeller,Onten Strategic Recruitment,https://www.seek.com.au/job/89794867?type=standard&ref=search-standalone&origin=jobCard#sol=429931646712df1f7ffd6354a2a1bee5c02a1e53,3h ago,3.0,2026-01-20T01:00:00+00:00,Brisbane QLD (Hybrid),Modelling & Simulation (Science & Technology),Full time,Attractive salary package on offer,"Our client, providing operational and infrastructure assessment, capacity modelling and optimisation services that support the performance of Queensland’s resources sector, is seeking a Capacity Modeller to join their small, high-performing team of specialists.
+89794867,Capacity / Simulation Modeller,Onten Strategic Recruitment,https://www.seek.com.au/job/89794867?type=standard&ref=search-standalone&origin=jobCard#sol=48822f138984e581e3b7ff4fcc214602150ca1d7,5h ago,5.0,2026-01-20T00:00:00+00:00,Brisbane QLD (Hybrid),Modelling & Simulation (Science & Technology),Full time,Attractive salary package on offer,"Our client, providing operational and infrastructure assessment, capacity modelling and optimisation services that support the performance of Queensland’s resources sector, is seeking a Capacity Modeller to join their small, high-performing team of specialists.
   
 In this role, you’ll work at the intersection of data, technology, and real-world rail and supply chain operations - delivering simulation insights that directly influence decisions. You will be exposed to complex, multi-stakeholder challenges, cutting‑edge modelling environments, and a culture that values curiosity, innovation, and continuous improvement.
 
@@ -251,7 +503,7 @@ A unique opportunity to develop your skills in a niche, high-impact area of supp
 To apply please send your latest resume and cover letter in Word format to Onten Strategic Recruitment. For an initial confidential discussion, please contact Michelle Gray or Sarah Armstrong on +61 7 3519 5810. 
   
 All third party and unsolicited resumes will be forwarded to Onten for an independent assessment."
-89794808,PLC Control Systems Engineer,HORNER Recruitment,https://www.seek.com.au/job/89794808?type=standard&ref=search-standalone&origin=jobCard#sol=65f36f7fdd02c7385054416886f61baab11d02c8,4h ago,4.0,2026-01-20T00:00:00+00:00,"Mulgrave, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Contract/Temp,$97142 - $129822 p.a. + superannuation,"Ready to elevate your engineering career beyond the ordinary?
+89794808,PLC Control Systems Engineer,HORNER Recruitment,https://www.seek.com.au/job/89794808?type=standard&ref=search-standalone&origin=jobCard#sol=9d0d93388aac26098f4b902aaadda59644cd0eb3,5h ago,5.0,2026-01-20T00:00:00+00:00,"Mulgrave, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Contract/Temp,$97142 - $129822 p.a. + superannuation,"Ready to elevate your engineering career beyond the ordinary?
 
 This isn't just another PLC engineering job - this is your chance to transform industries and impact lives through cutting-edge science and technology. Design world-class control systems that power Australia's most advanced research - enabling discoveries in medicine, clean energy, biotechnology, and beyond.
 
@@ -293,7 +545,7 @@ Click 'Apply' to upload your CV and a brief cover letter addressing the selectio
 At Horner we recognise the value of a diverse workforce and the creation of inclusive workforce cultures. We actively encourage applications from any background.
 
 We provide reasonable adjustments for individuals with disability - please email adjustments@horner.com.au if you require an adjustment to be made during the recruitment process. Please note that applications or resumes sent to this email address will not be accepted or responded to."
-89794797,Test Automation Architect,McMillan Shakespeare,https://www.seek.com.au/job/89794797?type=standard&ref=search-standalone&origin=jobCard#sol=5b52ff3f0b8a6721fe290213f4a23dc830740180,4h ago,4.0,2026-01-20T00:00:00+00:00,Melbourne VIC,Testing & Quality Assurance (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
+89794797,Test Automation Architect,McMillan Shakespeare,https://www.seek.com.au/job/89794797?type=standard&ref=search-standalone&origin=jobCard#sol=5876be8378d0f61b8f34242ad046c557bbbef214,5h ago,5.0,2026-01-20T00:00:00+00:00,Melbourne VIC,Testing & Quality Assurance (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
 
 Here’s how you will make a difference in this role…
 
@@ -362,7 +614,7 @@ Please note all successful candidates will undergo background checks (including 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89793664,Data Centre – Technical Services Roles,AFL Telecommunications Australia Pty Ltd,https://www.seek.com.au/job/89793664?type=standard&ref=search-standalone&origin=jobCard#sol=6a164d479c6734980029f2f46689c4be3af34556,4h ago,4.0,2026-01-20T00:00:00+00:00,Melbourne VIC (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,,"Work at the forefront of the AI revolution.  Join AFL and be part of our data centre growth journey!  
+89793664,Data Centre – Technical Services Roles,AFL Telecommunications Australia Pty Ltd,https://www.seek.com.au/job/89793664?type=standard&ref=search-standalone&origin=jobCard#sol=9374c86899dac0a7ef267d3100ff76c79ce435c3,6h ago,6.0,2026-01-19T23:00:00+00:00,Melbourne VIC (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,,"Work at the forefront of the AI revolution.  Join AFL and be part of our data centre growth journey!  
 
 
 
@@ -433,7 +685,7 @@ Benefits including hybrid and flexible work options, birthday leave, novated lea
 Ready to grow with us?    
 
 Don’t miss the chance to be part of our growth story. Express your interest today and help shape the future of data centre connectivity!"
-89793554,Data Centre – Technical Services Roles,AFL Telecommunications Australia Pty Ltd,https://www.seek.com.au/job/89793554?type=standard&ref=search-standalone&origin=jobCard#sol=4f8fc6f80a770083c746bd73c5aa5f34ec2b1430,4h ago,4.0,2026-01-20T00:00:00+00:00,Melbourne VIC (Hybrid),Field Engineering (Engineering),Full time,,"Work at the forefront of the AI revolution.  Join AFL and be part of our data centre growth journey!  
+89793554,Data Centre – Technical Services Roles,AFL Telecommunications Australia Pty Ltd,https://www.seek.com.au/job/89793554?type=standard&ref=search-standalone&origin=jobCard#sol=e8970e8d129b3ffcec95d83efc7c69de6661b31e,6h ago,6.0,2026-01-19T23:00:00+00:00,Melbourne VIC (Hybrid),Field Engineering (Engineering),Full time,,"Work at the forefront of the AI revolution.  Join AFL and be part of our data centre growth journey!  
 
 
 
@@ -506,7 +758,7 @@ Benefits including hybrid and flexible work options, birthday leave, novated lea
 Ready to grow with us?    
 
 Don’t miss the chance to be part of our growth story. Express your interest today and help shape the future of data centre connectivity!"
-89793401,Senior Data Engineer,University of New South Wales,https://www.seek.com.au/job/89793401?type=standard&ref=search-standalone&origin=jobCard#sol=1df8fb6db03bf63cd30ab7176655d7da085e2e30,5h ago,5.0,2026-01-19T23:00:00+00:00,"Kensington, Sydney NSW (Hybrid)","Engineering - Software (Information & Communication Technology)
+89793401,Senior Data Engineer,University of New South Wales,https://www.seek.com.au/job/89793401?type=standard&ref=search-standalone&origin=jobCard#sol=85ded5a1d718f92c6f2d7c83dace70e073151aff,6h ago,6.0,2026-01-19T23:00:00+00:00,"Kensington, Sydney NSW (Hybrid)","Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,,"Employment type – full time continuing role as a Senior Data Engineer, working within UNSW IT
 Starting salary $148012 plus generous superannuation and leave loading
 Location: UNSW Kensington Campus (Hybrid Working Opportunities, 2 days in the office)
@@ -590,71 +842,7 @@ Talent Acquisition Partner – UNSW IT
 Please apply through the application portal and not via the contact above.
 
 UNSW is committed to equity diversity and inclusion. Applications from women, people of culturally and linguistically diverse backgrounds, those living with disabilities, members of the LGBTIQ+ community; and people of Aboriginal and Torres Strait Islander descent, are encouraged. UNSW provides workplace adjustments for people with disability, and access to flexible work options for eligible staff. The University reserves the right not to proceed with any appointment."
-89793228,Field Service Engineer - FMCG,Miller Leith,https://www.seek.com.au/job/89793228?type=standard&ref=search-standalone&origin=jobCard#sol=e4e38184dd34a80a61008a7b3697c206a9bd8b63,5h ago,5.0,2026-01-19T23:00:00+00:00,Perth WA,Field Engineering (Engineering),Full time,"$95,000 - $105,000 + Super + Car Allowance","The Company
-A global industrial technology organisation supplying advanced food processing, automation and digital solutions to manufacturers across meat, poultry, seafood and prepared foods, with a strong focus on efficiency, food safety and long-term operational performance.
-
-This is a hands-on, autonomous role for a technically capable Field Service Engineer who enjoys working directly with customers and advanced equipment in a fast-moving environment.
-
-The Role
-As a Field Service Engineer, you will provide technical support for both installed systems and new equipment installations at customer sites. This role combines preventative maintenance, fault finding, system optimisation and customer engagement.
-
-You’ll work closely with customers to ensure equipment performance, reliability and service expectations are consistently met.
-
-Key Responsibilities
-
-
-Carry out preventative maintenance visits, including preparation, execution and reporting
-
-
-Attend customer sites to diagnose and resolve production and equipment issues
-
-
-Perform breakdown and repair services on high-technology food processing equipment
-
-
-Install machine upgrades and enhancements, testing and calibrating equipment to specification
-
-
-Troubleshoot complex electrical and control system faults
-
-
-Support new installations and commissioning activities
-
-
-Maintain clear, professional communication with customer management and site teams
-
-
-What We’re Looking For
-
-
-Industrial electrical trade background or equivalent experience
-
-
-PLC knowledge with the ability to diagnose and repair complex control systems
-
-
-Ability to read and interpret electrical schematics and circuit diagrams
-
-
-3–5 years’ experience in a manufacturing environment (FMCG highly regarded)
-
-
-Familiarity with conveyors, process lines, motors, VSDs and automation equipment
-
-
-Flexibility to work weekends or out-of-hours when required
-
-
-If you’re looking for a technically challenging role where no two days are the same and where your expertise genuinely adds value for customers, this is an opportunity worth exploring.
-
-Please reach out - Kaz kaz@millerleith.com.au or 0431 755 401
-
-
-
-By engaging Miller Leith for recruitment services and/or career support, you are agreeing to our Privacy Policy and Candidate Consent Form. For more information, please contact hello@millerleith.com.au.
-Privacy Policy: https://www.millerleith.com.au/privacy/ 
-Consent Form: https://www.millerleith.com.au/candidate-consent/"
-89791777,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/89791777?type=standard&ref=search-standalone&origin=jobCard#sol=c6c6876cbe5913137e488b373ae956d197dbbb95,6h ago,6.0,2026-01-19T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$135,000 + Super","Microsoft Fabric Data Engineer 
+89791777,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/89791777?type=standard&ref=search-standalone&origin=jobCard#sol=35cafb8fb9784f6fef3cecf5e71dbaea150aa23d,8h ago,8.0,2026-01-19T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$135,000 + Super","Microsoft Fabric Data Engineer 
 
 $135,000 + Super
 
@@ -707,7 +895,7 @@ Azure Synapse, ADF, Databricks, Azure SQL
 Experience in professional services, MSP, or consulting environments
 
 Apply now!"
-89791397,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89791397?type=standard&ref=search-standalone&origin=jobCard#sol=a3f8017994ec9cdeaa7b74505a64117d091030ae,7h ago,7.0,2026-01-19T21:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89791397,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89791397?type=standard&ref=search-standalone&origin=jobCard#sol=081b541ec1f3cd7f2069e4dbead537f2efefa9ff,9h ago,9.0,2026-01-19T20:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 This is your opportunity to join our team of forward-thinking, change-making individuals. Operating at the intersection of health and tech, you'll help us shape the future of healthcare. 
@@ -774,7 +962,7 @@ We're proud to share that Healthengine ranked 13th Best Workplace in Technology 
 Diversity and inclusion
 
 At Healthengine, we believe in the power of a diverse work environment to fulfil our mission and better serve our providers and patients. We’ve created a culture that genuinely values diverse perspectives and backgrounds, knowing that our differences can inspire new ideas. We are fully committed to building and maintaining our inclusive environment where all voices are respected and heard. If you think you have what it takes but don't check all the boxes, reach out anyway - we’d love to hear from you."
-89789716,Binance Accelerator Program - Web3 AI,Binance,https://www.seek.com.au/job/89789716?type=standard&ref=search-standalone&origin=jobCard#sol=ab203351a88950872596f445a93656c7b7929e9d,12h ago,12.0,2026-01-19T16:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Full time,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 230 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+89789716,Binance Accelerator Program - Web3 AI,Binance,https://www.seek.com.au/job/89789716?type=standard&ref=search-standalone&origin=jobCard#sol=43c1a97cb0651e13accaf18d992ea92355dc40b2,13h ago,13.0,2026-01-19T16:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Full time,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 230 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
 
 About Binance Accelerator Program
 
@@ -830,7 +1018,7 @@ Binance is committed to being an equal opportunity employer. We believe that hav
 By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
 
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
-89789712,Binance Accelerator Program - AI/ML,Binance,https://www.seek.com.au/job/89789712?type=standard&ref=search-standalone&origin=jobCard#sol=e57531f55c9baee8443145becd5dd95bb45a57b4,12h ago,12.0,2026-01-19T16:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 230 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+89789712,Binance Accelerator Program - AI/ML,Binance,https://www.seek.com.au/job/89789712?type=standard&ref=search-standalone&origin=jobCard#sol=081abda92475d96829938425f25b5f2b8bdb7aae,13h ago,13.0,2026-01-19T16:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 230 million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
 
 About Binance Accelerator Program
 
