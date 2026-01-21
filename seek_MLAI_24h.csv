@@ -1,5 +1,256 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89821806,Artificial Intelligence Manager,James Hardie,https://www.seek.com.au/job/89821806?type=standard&ref=search-standalone&origin=jobCard#sol=43a54badab923177d97b97de27c885dbd31daedc,1h ago,1.0,2026-01-20T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"James Hardie Industries is the world’s #1 producer and marketer of high-performance building solutions. As a local manufacturer, trusted innovator and industry leader James Hardie empowers homeowners and trade professionals to achieve dream modern homes with premium quality solutions that deliver endless design possibilities, trusted protection, and long-lasting beauty.
+89826248,AI Engineer,u&u. Recruitment Partners,https://www.seek.com.au/job/89826248?type=standard&ref=search-standalone&origin=jobCard#sol=b5d4a181dcb05bb0fbf1aec785e22b46e82e73ee,1h ago,1.0,2026-01-21T01:00:00+00:00,Brisbane QLD,Engineering - Software (Information & Communication Technology),Full time,,"This is an exciting opportunity to be at the forefront of Data Analytics and Artificial Intelligence for one of Queensland’s most well respected organisations. You will join a high impact transformation program where AI is being embedded into real enterprise operations, delivering measurable business outcomes across finance, ERP, and customer service environments.
+ 
+I am looking for an experienced AI Engineer who can design, build, and operationalise production grade, agentic AI solutions. This role is ideal for someone who understands how to move AI beyond experimentation and into safe, reliable, observable, and auditable enterprise workflows.
+ 
+You will work with modern Azure based platforms including Azure AI Foundry and Microsoft Fabric, building intelligent agents and multi agent workflows that integrate seamlessly with enterprise systems and processes.
+ 
+The Role
+ 
+As the AI Engineer, you will be responsible for designing and delivering AI driven solutions that automate complex business processes and enhance operational efficiency. You will work across financial and ERP transactional functions such as accounts payable and receivable, payroll, and debt management, while also enabling AI powered customer support solutions for contact centres and property helpdesks.
+ 
+You will collaborate closely with solution architects, data engineers, and technical analysts to deliver ethical, high quality, and production ready AI solutions aligned to organisational strategy.
+ 
+Key Responsibilities
+
+Design and deploy AI agents using Azure AI Foundry or equivalent platforms;
+Build multi agent workflows including planner executor, reviewer, routing, and human in the loop patterns;
+Integrate agents with enterprise systems using secure tool and function calling;
+Implement event driven and resilient orchestration using Logic Apps, Functions, Service Bus, Event Grid, and API Management;
+Apply enterprise grade reliability patterns including retries, idempotency, and recovery handling;
+Establish guardrails including validation, policy enforcement, and confidence thresholds;
+Implement full observability including logging, tracing, telemetry, and audit trails;
+Apply security best practices including Managed Identity, Key Vault, RBAC, and secure networking;
+Deliver production quality code with CI CD, automated testing, and infrastructure as code;
+Produce clear architecture artefacts, API specifications, and operational documentation;
+Test and evaluate models for accuracy, performance, and business suitability; and
+Integrate AI solutions into existing applications, APIs, and workflows.
+About You
+ 
+You are an engineer who understands how to make AI operational inside large organisations. You bring strong systems thinking, deep cloud experience, and the ability to design resilient, secure, and scalable AI solutions.
+
+Bachelor’s degree in Computer Science, Engineering, Data Analytics, or equivalent experience;
+Five or more years in software, integration, or data engineering roles;
+Hands on experience with Azure AI Foundry or equivalent agent based AI platforms;
+Strong experience with Azure Integration Services including Logic Apps, Service Bus, Event Grid, Functions, and API Management;
+Practical experience building RAG and grounded AI solutions;
+Strong coding skills in Python and or TypeScript or C#;
+Experience with distributed systems and event driven architecture;
+Experience with GitHub or Azure DevOps; and
+Ability to work autonomously and contribute strategically to transformation programs.
+This is a rare opportunity to shape how AI is delivered at enterprise scale within a highly respected Queensland organisation. If you are passionate about building real world AI solutions that are secure, scalable, and impactful, this role will put you at the centre of meaningful digital transformation.
+ 
+How to Apply
+ 
+For more information or a confidential discussion please call Greg Scharf at u&u on 07 3232 9136 quoting reference number 43912.
+ 
+At u&u Recruitment Partners, we value diversity, equity and inclusion. We welcome applications from Aboriginal and Torres Strait Islander people, people with diverse cultural and linguistic backgrounds and people with disability.
+ 
+Should you require reasonable adjustments or have a preferred method of communication throughout the recruitment process, we encourage you to make a request via adjustments@uandu.com or phone the above-mentioned u&u consultant to discuss. In response to these requests, we will collaborate closely with you to implement the appropriate adjustments.
+ 
+Additionally, for a barrier-free and inclusive online experience, you can access u&u’s opportunities using accessibility software Recite Me at https://www.uandu.com/jobs.
+ 
+Please submit your resume in Word format only.
+
+#SCR-greg-scharf"
+89825879,Lecturer in IT & AI,Victoria University,https://www.seek.com.au/job/89825879?type=standard&ref=search-standalone&origin=jobCard#sol=3fda0406def5d67103b3b98ca817f33a83cd69fe,1h ago,1.0,2026-01-21T01:00:00+00:00,"Footscray, Melbourne VIC","Teaching - Tertiary, Other (Education & Training)",Full time,"$113,221 – $134,449 per year","About VU:
+
+At Victoria University, our aim is to be a global leader in dual-sector learning and research by 2028. Join us on the journey and help us achieve our strategic drives embedded in our Strategic Plan 2022-2028: Start well, finish brilliantly. One of the drivers “Thriving place to Study and Work” will enable us to continue to create places that our students and staff love to belong and feel immense pride.
+
+About the Team: 
+
+The IT Program is one of seven programs within the College of Arts, Business, Law, Education and IT. The IT Program offers courses at the Footscray Park Campus, City Campus, VU Sydney Campus, and two offshore campuses in Sri Lanka (NSBM) and China (HeNan University).
+
+About the Role:
+
+As a Level B Lecturer in the Information Technology Program, you will support the Program’s strategic growth through AI-enhanced software and systems education. The role focuses on integrating Generative AI and large language models (LLMs) into modern IT disciplines, including software development, cloud and mobile applications, UI/UX, and ICT project management.
+
+The Program is undertaking a major course-modernisation initiative that integrates large language models (LLMs) into learning, teaching, practice and assessment. This GenAI integration will help students master complex concepts faster and deliver sophisticated solutions that meet industry demand. Accordingly, the lecturer is expected to have solid experience in LLM calls, RAG, and copilot systems such as Claude Code or OpenAI Codex. He/she will lead the redevelopment of units (subjects) in software development, network management, project management, mobile app development, cloud app development, UI/UX, and will design sample theses and capstone projects—at both undergraduate and postgraduate levels—that demonstrate innovative LLM applications in an industry context and research.
+
+Position Key Duties 
+
+Teaching & coordination – Deliver and coordinate IT units onshore and at TNE partner locations experiencing staff shortages.
+
+Curriculum renewal – Convert existing units in software development, mobile and cloud apps, UI/UX, network management and ICT management into GenAI-integrated offerings.
+
+Research & innovation – Develop an applied LLM research agenda aligned with IT and AI, leading to Q1/CORE A* publications and showcase systems.
+
+Student experience – Design capstone projects and theses demonstrating industry-relevant GenAI applications.
+
+Academic service – Contribute to grants, collegial activities and inclusive teaching practices.
+
+Salary:  Academic B, $113,221 - $134,449 per annum plus 17% employer superannuation
+Employment Type:  3-year full-time fixed-term contract (potential for ongoing appointment after the course-modernisation project)
+Hours:  36.75 hours per week (1.0 FTE)
+Location: Located at our Footscray Park & City Tower Campus (may be relocated to any existing or future work location)
+
+For a detailed overview of the role’s duties and responsibilities, please refer to the Position Description – Lecturer in IT & AI
+
+About You: 
+
+You are an IT academic with strong AI capability and a commitment to innovative, practice-oriented education.
+
+You will bring:
+
+A PhD in IT, AI or a related field
+
+Demonstrated expertise in LLM APIs, RAG and AI copilots (e.g. Claude Code, OpenAI Codex)
+
+A strong research trajectory in applied AI and IT systems
+
+Proven success in curriculum innovation and student supervision
+
+Strong communication skills and a collaborative, student-focused approach
+
+How to Apply
+
+Applications must be submitted as a Single Document, with your name leading the document name, comprising
+
+A cover letter.
+
+Curriculum vitae.
+
+Response to the selection criteria.
+
+List of units (subjects) in the existing IT courses from the program/discipline (see on the VU course site) in three categories: 1) subjects you are able to teach, 2) subjects you have taught with special expertise, 3) subjects you have the ability to develop, particularly in the area of demand.
+
+Two best research publications.
+
+A sample program of LLMs’ application, including LLM API calls, parsing of returned JSON and follow-up processing, with a link to the demonstration of the system (or YouTube videos), and the application of copilots such as Claude Code.
+
+Recent teaching feedback.
+
+The University is a Child Safe organisation. You will be required to hold a current Working with Children Check (WWCC) or be willing to obtain one prior to commencing employment.
+
+Who to Contact?
+
+For further information or clarification regarding the selection criteria or the position, please contact the Head of IT Program, Professor Yuan Miao at yuan.miao@vu.edu.au
+
+Applications will close  Wednesday the 18th of February 2026 (11:59pm AEDT). This advert may close earlier should a suitable candidate be identified. Early applications are strongly encouraged.
+
+Visa sponsorship is not available for this position. This role requires for applicants to have full and permanent working rights in Australia.
+
+Why Join VU
+
+VU provides competitive salaries, excellent superannuation, and a variety of benefits. The university fosters an environment where staff can excel, achieve their goals, and develop their careers. With a focus on diversity, inclusion, and family-friendly policies, VU supports both professional and personal well-being. For more information, please visit our Careers at VU Webpage
+
+Our Commitment to Protecting Country
+
+Victoria University honours its deep diversity as a foundation for collaboration and social progress. We will demonstrate sensitivity in respecting First Nation perspectives. We will ensure that we respect our Indigenous voices and commit to sustainable Protecting Country. We will take leadership responsibility, in all that we do, to improve the health and wellbeing of our local and global communities, and the planet that we share. 
+
+ Our Commitment to Progressive Inclusivity
+
+VU is an equal opportunity employer and proudly committed to progressive inclusivity. We welcome and celebrate diversity in all its forms including Aboriginal and Torres Strait Islander peoples, people with disability, culturally and racially marginalised communities, LGBTQIA+ individuals, and people of all ages and socio-economic backgrounds. We strive to reflect the communities we serve and foster an inclusive, respectful, and supportive environment where everyone feels they belong. We are proud to be a WGEA Employer of Choice for Gender Equality.
+
+ Our Commitment to Inclusive Recruitment
+
+VU is committed to providing a positive and barrier-free recruitment experience. If you require adjustments at any stage of the recruitment process, including accessible formats of documents, please contact us at inclusivecareers@vu.edu.au or call (03) 9919 5999."
+89825806,Data Vault Modeller,Milestone Information Technology,https://www.seek.com.au/job/89825806?type=standard&ref=search-standalone&origin=jobCard#sol=73e603de64fd7af4dd4243036d7d074e2a1fb790,1h ago,1.0,2026-01-21T01:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Are you a specialist in scalable data architecture? Milestone IT is partnering with a leading enterprise client to secure a Data Vault Modeller for a high-priority build of their modern data platform.
+Our client is moving away from legacy constraints and building a robust, agile ecosystem. We need a practitioner who doesn't just understand the theory of Data Vault 2.0 but can translate those patterns into high-performance physical models.
+The Role: As the Lead Modeller, you will be the architect of truth for the platform. You will bridge the gap between complex business processes and the technical physical layer, ensuring the data warehouse is extensible, auditable, and performant.
+Key Responsibilities:
+
+Logical & Physical Design: Design and maintain Data Vault 2.0 artifacts (Hubs, Links, Satellites) and drive the physical implementation on the cloud platform.
+Optimization: Tailor physical data models for specific compute environments (e.g., Snowflake, Databricks, or BigQuery) to ensure query efficiency.
+Standards Leadership: Establish naming conventions, metadata standards, and modeling best practices across the engineering team.
+Collaboration: Work closely with Data Engineers to automate the loading patterns and with Analysts to develop performant ""Information Marts.""
+Your Technical Toolkit
+Data Vault Mastery: Deep expertise in Data Vault 2.0 methodology (certification is a major plus).
+Physical Modelling: Proven experience in physical database design—indexing strategies, partitioning, and distribution keys.
+Tooling: Proficiency in modeling tools such as Erwin, SQLbm, or dbt.
+SQL Expert: Ability to write and optimize complex SQL in a distributed computing environment.
+Platform Experience: Experience building on modern cloud stacks (AWS, Azure, or GCP).
+
+Apply Now via the link below, or contact Tina M on 03-96706682 for a confidential discussion."
+89825656,IDAM Engineer,TAC,https://www.seek.com.au/job/89825656?type=standard&ref=search-standalone&origin=jobCard#sol=f8fb9541bb34bf4fd103d7e55f04405b9b3b0667,1h ago,1.0,2026-01-21T01:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)","Engineering - Network (Information & Communication Technology)
+Government - State (Government & Defence)",Full time,"$128,667 plus super and benefits","IDAM Engineer
+
+Full time, 12-month fixed term role
+Geelong office location, with flexible hybrid working (3 day office attendance required per week)
+Offering a competitive starting base salary of $128,667 plus super and benefits
+
+ 
+
+Care in Action
+
+With a career at the TAC, you’ll be helping us look out for the lives of everyone who travels on Victoria’s roads. That’s care in action.
+
+Find out more about our shared purpose, and what drives every one of us.
+
+Right now, we’re seeking an IDAM Engineer who will play their part in this shared purpose, while also supporting the progress of clients and colleagues so they can achieve great things. That’s truly rewarding work that will help us continue to deliver life-critical services where it matters. 
+
+ 
+
+About the role
+
+We’re seeking a highly skilled IDAM Engineer to lead the design and delivery of secure, efficient, and compliant identify and access management solutions within the TAC’s Microsoft Program. This role will focus on implementing Microsoft Entra ID capabilities, while ensuring seamless integration with existing platforms like Okta and One Identity.
+
+You’ll be responsible for configuring identity lifecycle management, entitlement and privileged access controls, and authentication protocols such as MFA and SSO. You’ll also play a key role in developing automated governance workflows and supporting compliance with industry standards.
+
+ 
+
+About the Team
+
+You’ll join a collaborative, cloud-focused team that’s driving digital transformation across the TAC. The MPower Program is a cornerstone of this work, and the IDAM stream is critical to ensuring secure and streamlined access for all users. This role will form part of a cross-functional cloud team delivering across cloud platforms such as M365, Azure, Dynamics 365 and Power Platform and building integrated, scalable solutions that support TAC’s mission and compliance obligations.
+
+ 
+
+What we’re looking for
+
+Expertise in Microsoft Entra ID & Identity Governance
+
+You have experience designing and managing Microsoft Entra ID environments, including identity lifecycle, access reviews, and privileged identity management.
+
+Integration & Automation Skills
+
+You’re using tools like PowerShell, Azure DevOps and GitHub to automate identity workflows and operations, including integrating Entra ID with platforms like Okta and One Identity.
+
+Security & Compliance Focus
+
+You understand authentication protocols, conditional access, and compliance frameworks (ISO27001, NIST, CIS), and can apply them practically to ensure TAC’s identity environment is secure and audit ready.
+
+ 
+
+Why you’ll love it here
+
+There’s more to work than a competitive salary and amazing employee benefits. As our newest IDAM Engineer you’ll also:
+
+Be rewarded for great work
+
+We value our people, offering a corporate incentive, salary packaging and a reward and recognition program.
+
+Grow and go places
+
+We’re invested in your progress. When you work for one of Victoria’s largest and leading workplaces, you’ll receive extensive internal opportunities for development and access to the LinkedIn Learning Digital Hub.
+
+Achieve, together
+
+We’re a collaborative and empathetic workplace. Work alongside your team to make a truly positive difference to people’s lives.
+
+ 
+
+Ready to put care in action? We’d like to hear from you.
+
+Click apply to submit your Cover Letter and Resume. If successful, you’ll progress to an interview. All applicants will be advised of the outcome of their application.
+
+For more information, read the attached Position Description or contact Nicola_mclennan@tac.vic.gov.au for a confidential discussion. Applications for this role will be accepted up until 11:55pm on Wednesday the 4th of February 2026.
+
+If we can do anything to help make applying for this role easier, please let our Talent Acquisition Team know at recruitment@tac.vic.gov.au. If over the phone is better for you, our number is 5225 7500.
+
+ 
+
+A safe place to work
+
+We’re committed to the health, safety and wellbeing of employees. This extends to inclusion, diversity and accessibility in our employment practices. We encourage Aboriginal and Torres Strait Islander people, people with disability, men, women and gender diverse people, culturally diverse and LGBTIQA+ people to apply for our roles.
+
+ 
+
+Child Safety
+
+At the TAC we are committed to the safety of children and young people. For more information regarding our commitment to child safety, please visit our website. 
+
+ IDAM Engineer - Position Description.pdf"
+89821806,Artificial Intelligence Manager,James Hardie,https://www.seek.com.au/job/89821806?type=standard&ref=search-standalone&origin=jobCard#sol=cb7de237b4761258df32faec98e5f14f82d32568,4h ago,4.0,2026-01-20T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"James Hardie Industries is the world’s #1 producer and marketer of high-performance building solutions. As a local manufacturer, trusted innovator and industry leader James Hardie empowers homeowners and trade professionals to achieve dream modern homes with premium quality solutions that deliver endless design possibilities, trusted protection, and long-lasting beauty.
   
 With a diverse workforce across Asia Pacific, our company culture is built on providing a foundation of “Zero Harm” and creating a positive impact in communities. We have a relentless focus on achievement, learning and continuous improvement.
 
@@ -45,7 +296,7 @@ Employee Assistance Program access for you & your immediate family members
 Proudly providing Australian Made fibre cement to the market for over 100 years.
    
 It’s Possible™ with James Hardie"
-89818940,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89818940?type=standard&ref=search-standalone&origin=jobCard#sol=cd0978830b9158510a35e46c23cda4398404ff06,9h ago,9.0,2026-01-20T14:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89818940,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89818940?type=standard&ref=search-standalone&origin=jobCard#sol=b9ef419bae75b16fba679e8ce438273f4a2976f0,12h ago,12.0,2026-01-20T14:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 
