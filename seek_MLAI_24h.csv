@@ -1,5 +1,265 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89849139,"Field Solutions Architect, Generative AI, Google Cloud",Google,https://www.seek.com.au/job/89849139?type=standard&ref=search-standalone&origin=jobCard#sol=bdb8b6c55f9e241ffd827ada51039664ca6ec561,4h ago,4.0,2026-01-21T17:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+89850518,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89850518?type=standard&ref=search-standalone&origin=jobCard#sol=9dc897217d7e04414c93af0843cd9e56cc1f314b,1h ago,1.0,2026-01-21T21:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Annual Salary with some great benefits!,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+
+What you’ll be doing
+
+At Virgin Australia, data is central to how we make decisions, serve our customers, and shape the future of our airline. We’re investing heavily in our Enterprise Data Platform (EDP) to ensure our data is trusted, well-defined, and ready to power analytics, AI, and commercial outcomes at scale.
+
+As our Data Modelling Lead, you’ll play a critical role in building enterprise trust in data. You’ll design and govern business-aligned data models that underpin analytics, AI, and decision-making across the organisation — ensuring data is reliable, consistent, and genuinely understood by the business.
+
+You’ll work closely with analytics, engineering, and business teams, treating data as a strategic asset and enabling faster, higher-quality insights across commercial, operational, and loyalty domains.
+
+The preferred location for this role is Brisbane. We are open to a  Sydney base however some travel would be expected.
+
+What you’ll be doing…,
+
+Define and govern a single set of business definitions, relationships, and metricsOwn enterprise dimensional and semantic data models
+Establishing modelling standards and patterns that teams can confidently reuse
+Reduce ambiguity across commercial operational, and loyalty datasets
+Enable scalable analytics through dbt, Databricks, and semantic layers (including administration and product ownership of support tools)
+Partnering with engineers to ensure performant, reliable data structures
+Treat the Enterprise Data Platform as a capability with clear road-maps, service levels and ownership
+Translating business needs into robust data models
+Coaching analysts and data scientists in effective modelling practices
+Design data models suitable for GenAI, RAG, and metrics layers
+Enable AI tooling such as Databricks Genie and ChatGPT Enterprise
+Ensure data structures support long-term scalability and future innovation
+
+You’ll be great if you have…
+
+10+ Yrs experience in data, analytics, or data platforms roles
+Strong dimensional modelling expertise (Kimball)
+Hands-on dbt experience (Must have)
+Advanced SQL skills (Must have)
+Practical experience working in Databricks (Must have)
+Experience in delivering enterprise-scale data solutions
+Excellent stakeholder communication across technical and business audiences
+Confidence to provide clear reasoning when challenging requirements
+Tertiary qualification in data, technology, engineering, mathematics or related field
+
+Desirable
+
+Experience in airline, travel, or complex operational domain environments
+Experience building semantic layers or enterprise metrics frameworks
+Exposure to conceptual, logical, or ontology-based modelling
+Experience supporting AI and advanced analytics information needs
+
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
+
+Discounted flights for you and your loved ones (including $1000 worth of travel credits per year)
+A flexible, hybrid work style. Work from home or the office, adapt your location to suit your style and needs
+One of Brisbane’s most admired head office locations, with South Bank train station, a supermarket, pharmacy, and lunch options downstairs plus a 5-minute walk to the Busway, a rooftop restaurant and onsite gym (with a low membership fee) and South Bank Parklands just across the road
+Discounts on travel insurance, lounge membership, car hire, accommodation, and experiences worldwide
+Cheaper hospitality, retail, technology, beauty and wellness services
+Free counselling and access to a wellbeing app to support your physical, mental, social and financial health
+‘Dress for Your Day’ – enjoy the freedom to wear whatever makes you feel great for the type of work you do and the day you have ahead of you.
+
+When everyone is included, everyone wins
+
+We’re all individuals. And we love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
+
+Ready to apply?
+
+We’re ready to hear from you. Apply now."
+89850192,Founding Engineer,EdAccelerator,https://www.seek.com.au/job/89850192?type=standard&ref=search-standalone&origin=jobCard#sol=aa10c232013af37fe588d506e40d0e9fc4339480,1h ago,1.0,2026-01-21T21:00:00+00:00,"South Yarra, Melbourne VIC (Hybrid)",Civil/Structural Engineering (Engineering),Full time,,"Attention: Exceptional Engineers
+
+Are you an experienced engineer who wants to help build something from the ground up?
+
+We’re looking for a Founding Engineer to join our early technical team and help scale the AI systems powering the education system of the future. You’ll work directly with the founders and our existing founding engineers, with deep ownership over core AI infrastructure and product-defining systems.
+
+This is a rare opportunity to join a VC-backed startup early, shape foundational technology decisions, and build AI that genuinely improves students’ lives.
+
+Who Is This For?
+
+This role is ideal for someone who:
+
+Has strong experience building and deploying AI/ML systems in production
+
+Has worked with LLMs, applied ML, or AI-driven products at scale
+
+Is deeply curious, technically rigorous, and product-minded
+
+Thrives in fast-moving startup environments
+
+Wants real ownership, responsibility, and influence over core systems
+
+Cares about building AI that creates real-world impact, not demos
+
+What Are We Building?
+
+We’re a VC-backed EdTech company on a mission to build the education system of the future.
+
+We’re building an AI-powered learning system designed to be the fastest, most effective, and most enjoyable way for students to learn any subject at school.
+
+We already support 1,000+ students, are growing extremely quickly, and are investing heavily in AI as a core product capability. AI is central to everything we build.
+
+The Role
+
+Full-time - Founding team
+
+You’ll:
+
+Architect and build core AI systems used by thousands of students
+
+Design and deploy LLM-powered features (feedback, assessment, personalisation, tutoring)
+
+Work directly with the founders and existing founding engineers on product vision and AI strategy
+
+Own decisions around model selection, evaluation, prompting, fine-tuning, and tooling
+
+Build scalable, reliable AI pipelines deeply integrated into the product
+
+Improve performance, cost efficiency, and reliability as usage scales
+
+Help define best practices for AI development, experimentation, and deployment
+
+Play a key role in shaping the engineering and AI culture from an early stage
+
+You’ll start with a 4-week in-office onboarding period, working side by side with the founders to deeply understand our users, product, and technical stack.
+
+Our Stack (Nice to Have, Not All Required)
+
+Languages: TypeScript, Python
+
+AI / ML: LLM APIs, prompt engineering, evaluation frameworks, embeddings, vector search
+
+Backend: Node.js
+
+Data: Postgres, vector databases
+
+Infra: Vercel, modern cloud infrastructure
+
+DevOps: CI/CD, monitoring, experimentation tooling
+
+What matters most is strong fundamentals, excellent judgment, and a bias toward building real, usable systems.
+
+❤️ Why You’ll Love It
+
+Join an early, mission-driven founding team that genuinely cares about student outcomes
+
+Work directly with the founders on high-leverage technical and product decisions
+
+Own AI systems that meaningfully improve students’ learning and confidence
+
+High autonomy and real influence over product and technical direction
+
+A calm, focused engineering culture that values clarity, quality, and impact
+
+The opportunity to help build one of Australia’s most advanced AI-powered education platforms
+
+💰 Compensation
+
+Competitive salary + Super + equity
+
+(Aligned with seniority and impact)
+
+📬 How To Apply
+
+📩 Submit your resume on Seek to be considered for the role
+
+or
+
+📧 Email pravinth@edaccelerator.com to be fast-tracked (include links to relevant work, GitHub, papers, or projects)"
+89849985,AI Engineer,EdAccelerator,https://www.seek.com.au/job/89849985?type=standard&ref=search-standalone&origin=jobCard#sol=98399ea17f6aa9ca0e8841c070ecc5d467dca489,1h ago,1.0,2026-01-21T21:00:00+00:00,"South Yarra, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Attention: Exceptional AI Engineers
+
+Are you an AI engineer who wants to go all in on an ambitious mission?
+
+We’re looking for a AI Engineer to own and scale the AI systems powering the education system of the future. This is a high-impact role with real autonomy, deep technical ownership, and direct collaboration with the founders.
+
+Join EdAccelerator, a VC-backed EdTech company on a mission to build the education system of the future.
+
+Who Is This For?
+
+This role is ideal for someone who:
+
+Has strong experience building and deploying AI/ML systems in production
+
+Has worked with LLMs, applied ML, or AI-driven products at scale
+
+Is deeply curious, technically rigorous, and product-minded
+
+Thrives in fast-moving startup environments
+
+Wants ownership, responsibility, and the chance to shape core technology
+
+If you care about building AI that genuinely improves people’s lives, this role is designed for you.
+
+What Are We Building?
+
+We’re a VC-backed EdTech company on a mission to build the education system of the future.
+
+We’re building an AI-powered learning system designed to be the fastest, most effective, and most enjoyable way for students to learn any subject at school.
+
+We already support 1,000+ students, are growing extremely quickly, and are investing heavily in AI as a core product capability. This is not a side project — AI is central to everything we build.
+
+The Role
+
+Full-time
+
+You’ll:
+
+Architect and own core AI systems used by thousands of students
+
+Design and deploy LLM-powered features (feedback, assessment, personalisation, tutoring)
+
+Work directly with the founders on product vision, AI strategy, and technical architecture
+
+Lead decisions around model selection, evaluation, prompting, fine-tuning, and tooling
+
+Build scalable, reliable AI pipelines that integrate deeply with the product
+
+Improve performance, cost efficiency, and reliability as usage scales
+
+Set best practices for AI development, experimentation, and deployment
+
+Mentor other engineers and help shape the engineering and AI culture from day one
+
+You’ll start with a 4-week in-office onboarding period, working side by side with the founders and CTO to deeply understand our users, product, and technical stack.
+
+Our Stack (Nice to Have, Not All Required)
+
+Languages: TypeScript, Python
+
+AI / ML: LLM APIs, prompt engineering, evaluation frameworks, embeddings, vector search
+
+Backend: Node.js
+
+Data: Postgres, vector databases
+
+Infra: Vercel, modern cloud infrastructure
+
+DevOps: CI/CD, monitoring, experimentation tooling
+
+What matters most is strong fundamentals, excellent judgment, and a bias toward building real, usable systems.
+
+❤️ Why You’ll Love It
+
+Join a warm, mission-driven team that genuinely cares about student outcomes
+
+Work directly with the founders and CTO on high-leverage technical decisions
+
+Own AI systems that meaningfully improve students’ learning and confidence
+
+High autonomy and real influence over product and technical direction
+
+A calm, focused engineering culture that values clarity, quality, and impact
+
+The opportunity to build one of Australia’s most advanced AI-powered education platforms
+
+💰 Compensation
+
+Competitive salary + Super + equity
+
+(Aligned with seniority and impact)
+
+📬 How To Apply
+
+📩 Submit your resume on Seek to be considered for the role
+
+or
+
+📧 Email pravinth@edaccelerator.com to be fast-tracked (include links to relevant work, GitHub, papers, or projects)"
+89849139,"Field Solutions Architect, Generative AI, Google Cloud",Google,https://www.seek.com.au/job/89849139?type=standard&ref=search-standalone&origin=jobCard#sol=5211ad82c3dc81114cfbe1ddebb55deb361dbdee,5h ago,5.0,2026-01-21T17:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sydney NSW, Australia; Melbourne VIC, Australia.Minimum qualifications:
 
@@ -32,7 +292,7 @@ Build high-performance evaluation pipelines and observability frameworks to ensu
 Identify repeatable field patterns and technical 'friction points' in Google’s AI stack, converting them into reusable modules or formal product feature requests for the engineering teams.
 Drive engineering excellence across the JAPAC region by mentoring talent, co-building with customer teams to instill best practices, and influencing cross-functional strategies to uplevel organizational technical capabilities.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-89848401,Senior Threat Detection Engineer - Tooling and Automation (ANZ remote),Canva,https://www.seek.com.au/job/89848401?type=standard&ref=search-standalone&origin=jobCard#sol=ec631c09b0d57d91102d81d59fe948d1f2a0aa7c,5h ago,5.0,2026-01-21T16:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Job Description
+89848401,Senior Threat Detection Engineer - Tooling and Automation (ANZ remote),Canva,https://www.seek.com.au/job/89848401?type=standard&ref=search-standalone&origin=jobCard#sol=65eedd755ea32c67c353d5a3731ae4794357a10c,6h ago,6.0,2026-01-21T16:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Job Description
 
 
 Join the team redefining how the world experiences design.
@@ -120,7 +380,7 @@ We see AI as a powerful amplifier of creativity and technology at Canva. We’re
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
 
 Please note that interviews are conducted virtually."
-89848099,Principal Engineer - MQ-28 Global Digital Ecosystem,Boeing Defence Australia,https://www.seek.com.au/job/89848099?type=standard&ref=search-standalone&origin=jobCard#sol=95e3bb3bbda579e133491fb66aad80c37d90790b,6h ago,6.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+89848099,Principal Engineer - MQ-28 Global Digital Ecosystem,Boeing Defence Australia,https://www.seek.com.au/job/89848099?type=standard&ref=search-standalone&origin=jobCard#sol=9772a80932f05d49a88e8103efecfb37594ef7a0,7h ago,7.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
 The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
@@ -171,7 +431,7 @@ BDA works with strong links with our global Boeing community, and we strongly en
  We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
 Please note, this role will be shortlisted in 2026. Your patience is appreciated."
-89848098,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89848098?type=standard&ref=search-standalone&origin=jobCard#sol=0f4a943dca52bebd3806c01b52092de1746cef1d,6h ago,6.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+89848098,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89848098?type=standard&ref=search-standalone&origin=jobCard#sol=97414aed6afc50f2943c3a996e3794001ed22494,7h ago,7.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
 The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
@@ -233,7 +493,7 @@ BDA works with strong links with our global Boeing community, and we strongly en
 We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
  Please note, this role will be shortlisted in 2026. Your patience is appreciated."
-89847676,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89847676?type=standard&ref=search-standalone&origin=jobCard#sol=fd1a4916aa6cc604fab21b068aa177eef6d5d6d2,7h ago,7.0,2026-01-21T14:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+89847676,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89847676?type=standard&ref=search-standalone&origin=jobCard#sol=b590ef848149fef877addb6828bf41523fcfbeb7,8h ago,8.0,2026-01-21T14:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
 What you’ll be doing
 
