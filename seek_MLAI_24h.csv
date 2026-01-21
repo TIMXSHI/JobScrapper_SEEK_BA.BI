@@ -1,994 +1,297 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89837516,Service Reliability Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89837516?type=standard&ref=search-standalone&origin=jobCard#sol=29d217ecf9444397fe0ab8925ac0ba4fe55075cd,2h ago,2.0,2026-01-21T06:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,$180k - $190k p.a.,"Location: Sydney (4 days in office, 1-day WFH)
-Reports to: Technical Operations Director, APAC
-Department: Global Technical Operations
+89849139,"Field Solutions Architect, Generative AI, Google Cloud",Google,https://www.seek.com.au/job/89849139?type=standard&ref=search-standalone&origin=jobCard#sol=bf198771879e549531c9a0b7206a944eb616fd3c,3h ago,3.0,2026-01-21T17:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
-The Opportunity:
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sydney NSW, Australia; Melbourne VIC, Australia.Minimum qualifications:
 
-A leading music organisation is now growing their Global Technical Operations hub in Sydney and looking for a Service Reliability Engineer (SRE) to join their team.
+Bachelor's degree in Science, Technology, Engineering, Mathematics, or equivalent practical experience
+8 years of experience shipping production-grade AI-driven solutions to external or internal customers in Python.
+Experience architecting AI systems on cloud platforms.
+Experience developing GenAI solutions utilizing foundation models, 1P model tuning, and RAG architectures.
+Preferred qualifications:
 
-This is more than a traditional ops role - it's an opportunity to bring a software engineering mindset to reliability, automation, and scalability in a global, high-impact environment.
+Master's degree in Computer Science, Engineering, or a related technical field.
+Experience implementing multi-agent systems using frameworks (e.g., LangGraph, CrewAI, or Google’s ADK) and complex patterns like ReAct, self-reflection, and hierarchical delegation.
+Knowledge of 'LLM-native' metrics (tokens/sec, cost-per-request) and techniques for optimizing state management and granular tracing.
+Proven ability to implement secure agentic workflows incorporating MCP, tool-calling, and OAuth-based authentication.
+Proven ability to build full-stack applications that interact with complex enterprise IT infrastructures.
+Ability to perform deep discovery interviews and translate complex hardware/AI constraints for C-suites and deep-technical teams.
+About the job
 
-What You'll Do:
 
-You'll join a collaborative, hands-on team responsible for the stability, performance, and scalability of global platforms. Working closely with development, infrastructure, and security teams, you'll help build a resilient environment that keeps music flowing - from studio tools to streaming systems.
+As a Field Solutions Architect at Google Cloud, you are an embedded builder who bridges the gap between frontier AI products and production-grade reality within customers. Unlike traditional advisory roles, you function as a 'builder-consultant', moving beyond high-level architecture to code, debug, and jointly ship bespoke agentic solutions directly within the customer’s environment.
 
+This role is designed for high-agency engineers with a founder’s mindset. You will work on blocker to production including solving the integration complexities, data readiness issues, and state-management challenges that prevent AI from reaching enterprise-grade maturity. By embedding with strategic accounts, you serve a dual purpose: providing 'white glove' deployment of complex AI systems and acting as a critical feedback loop, and transforming real-world field insights into Google Cloud’s future product roadmap.
 
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
 
-Design and maintain high-availability, high-performance systems for global applications.
-Automate everything - from infrastructure provisioning to deployment and scaling - using tools like Terraform, Ansible, and Python.
-Build robust monitoring and observability frameworks with AWS CloudWatch, Dynatrace, Prometheus, Grafana, or Splunk.
-Optimize CI/CD pipelines to improve reliability and deployment speed.
-Participate in on-call rotations, troubleshoot incidents, and lead post-incident reviews.
-Champion SRE principles - embed SLOs, SLIs, and error budgets into everyday engineering.
-Collaborate across Dev, Infra, and Security teams to create a culture of continuous improvement and reliability.
+Responsibilities
 
-About You
+Serve as the lead developer for complex AI applications, transitioning from rapid prototypes to production-grade agentic workflows (e.g., multi-agent systems, MCP servers) that drive measurable ROI.
+Architect and code the connection between Google’s AI products and customer's live infrastructure, including APIs, legacy data silos, and security perimeters.
+Build high-performance evaluation pipelines and observability frameworks to ensure agentic systems meet rigorous requirements for accuracy, safety, and latency.
+Identify repeatable field patterns and technical 'friction points' in Google’s AI stack, converting them into reusable modules or formal product feature requests for the engineering teams.
+Drive engineering excellence across the JAPAC region by mentoring talent, co-building with customer teams to instill best practices, and influencing cross-functional strategies to uplevel organizational technical capabilities.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
+89848401,Senior Threat Detection Engineer - Tooling and Automation (ANZ remote),Canva,https://www.seek.com.au/job/89848401?type=standard&ref=search-standalone&origin=jobCard#sol=e0dbd9894deb85cf2949ca472ab9d327f1775422,4h ago,4.0,2026-01-21T16:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Job Description
 
-You're a technically strong and level-headed engineer who loves automation, thrives in complex environments, and knows how to balance pragmatism with perfection.
 
+Join the team redefining how the world experiences design.
 
+Hey, hello, hiya, g'day, mabuhay, kia ora, 你好, hallo, vítejte!
 
-Background in systems administration (Linux/Windows) in a large-scale environment.
-Proficient in at least one programming language (Python, Go, or Java).
-Hands-on experience with AWS (GCP or Azure a bonus).
-Deep understanding of networking, containers (Docker/Kubernetes), and Infrastructure as Code (Terraform, Ansible).
-Experience with monitoring and observability tools such as Dynatrace, Prometheus, Grafana, or Datadog.
-Calm, collaborative communicator with strong analytical and problem-solving skills.
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
 
-Bonus Points For:
+Where and how you can work
 
+Our flagship campus is in Sydney. We also have a campus in Melbourne and co-working spaces in Brisbane, Perth and Adelaide. But you have choice in where and how you work. That means if you want to do your thing in the office (if you're near one), at home or a bit of both, it's up to you.
 
+What you’d be doing in this role
 
-Experience with ServiceNow or ITIL processes.
-Knowledge of chaos engineering, resilience testing, or advanced capacity planning.
-Previous experience managing distributed, global systems in production.
+As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
 
-Culture & Perks
+As a Senior Threat Detection Engineer, you will be a technical expert delivering high-impact security engineering solutions across our detection and platform engineering service streams. You will design and implement enterprise-grade detection capabilities, automate security workflows, and enhance our security platform infrastructure. Your work will directly strengthen Canva's security posture by enabling faster threat detection, reducing analyst toil through automation, and scaling our security operations capabilities.
 
+This role requires balancing security effectiveness with operational efficiency. You will leverage automation, infrastructure-as-code, and cloud-native technologies to deliver scalable, resilient security solutions while maintaining the operational excellence of production security systems.We are not looking for someone who checks every single box, we’re looking for lifelong learners and people who can make us better with their unique experiences.
 
+Lead detection engineering initiatives end-to-end, from threat research and design documentation through implementation, testing, and production deployment, developing high-fidelity detection logic covering threat vectors of interest to Canva.
+Participate in rotations and on-call schedules to support incident response and alert triage activities.
+Partner with Application Security, CTI, and Red Team to conduct threat modelling, translate threat intelligence into actionable detections, and validate detection effectiveness through threat simulation scenarios.
+Implement detection-as-code practices using version control, CI/CD pipelines, and automated testing frameworks to enable scalable, version-controlled detection deployment.
+Design and build sophisticated SOAR workflows that automate detection triage, investigation, and response activities, developing custom integrations with security tools and cloud platforms.
+Create automation and enrichment pipelines that reduce manual context-switching and cognitive load for analysts, improving mean-time-to-detect, analyse, and respond to security events.
+Architect and maintain security platform infrastructure supporting detection, investigation, and response capabilities using infrastructure-as-code (Terraform/Ansible) and establish service-level objectives for platform services.
+Establish monitoring and alerting for platform health, detection coverage, and operational metrics to ensure reliability and visibility.
+Collaborate across security and engineering teams including D&R Operations, DFIR, Application Security, and cloud infrastructure teams to define and integrate telemetry requirements, deploy security sensors, and ensure comprehensive visibility.
+Provide technical consultation and mentorship, advising stakeholders on detection strategy, automation capabilities, and platform limitations while developing junior engineers in detection engineering and platform operations.
 
-Annual bonus $
-Global collaboration and career growth opportunities
+You're probably a match if you have
 
-Interested?
-Apply now or contact Sophia Parrelli at Talent International for a confidential chat."
-89835908,Data Engineer Lead,Collingwood Football Club,https://www.seek.com.au/job/89835908?type=standard&ref=search-standalone&origin=jobCard#sol=7c76e713cf23eaf999fc57f1967bc73229ce9736,3h ago,3.0,2026-01-21T05:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"About the Collingwood Football Club 
-Collingwood Football Club (CFC) was founded in 1892.
+5+ years of hands-on experience in security engineering, threat hunting, detection engineering, or security operations (SOC), with proven ability to design and implement detection capabilities at scale.
+Experience in SOC and alert triage.
+Proven track record in threat hunting or designing, implementing, and tuning detection logic for enterprise security platforms (SIEM, EDR, SOAR).
+Experience with detection engineering lifecycle: threat research, detection development (KQL, SPL, ESQL, SQL-style languages), testing, deployment, tuning, and lifecycle management.
+Proficient in at least one programming language (Python or Go preferred) for automation development and custom tool creation.
+Hands-on experience with enterprise security platforms including: SIEM platforms (Elastic Security, Splunk, or similar), EDR solutions (SentinelOne, CrowdStrike, Microsoft Defender, or similar), SOAR platforms (Tines, Splunk SOAR, Cortex XSOAR, or similar).
+Experience building SOAR workflows or automation playbooks (with or without code).
+Infrastructure-as-code experience using Terraform/Ansible or similar tools to deploy and manage security infrastructure.
+Hands-on experience with cloud platforms (AWS, GCP, or Azure).
+Understanding of CI/CD pipelines and DevOps practices applied to security engineering workflows.
+Understanding of containerisation, Kubernetes, and cloud-native application architectures from a security perspective.
+Knowledge of networking concepts, protocols, and security controls relevant to detection and monitoring.
 
-Local residents, community and business leaders and politicians all hoped that having their own football club could help bring a measure of pride to a downtrodden suburb.
+Beneficial Experience (not required, but helpful)
 
-In 2026, CFC is one of the great icons of Australian sport. Our history spans 130 years, 16 premierships and more finals appearances than any other club. Most importantly, Collingwood has grown from being a football club to a sports club with a commitment to our community.
+Background in Threat Hunting, Threat Intelligence, DFIR.
+Experience with advanced detection techniques: behavioural analytics, anomaly detection, machine learning-based detection and GenAI workflows.
+Knowledge of big data analytic platforms and query optimisation.
+Prior experience building or operating Detection Engineering programs or Security Operations Centres.
+Contributing to open-source security tools or publishing detection engineering research.
 
+About the team
 
+The Detection & Response (D&R) organisation is responsible for protecting Canva from security threats through proactive detection engineering, incident response, and security platform operations. We operate at the intersection of security engineering and security operations, building and maintaining the detection capabilities, automation workflows, and security infrastructure that enable Canva to identify and respond to threats at scale.
 
+About DETA (Detection Engineering, Tooling & Automation) DETA provides specialised security engineering services across three distinct service streams: 
 
-The opportunity
+Detection Engineering: Threat detection development, MITRE ATT&CK coverage, detection-as-code practices, Alert optimisation, false positive reduction, detection lifecycle management
+Automation Engineering: SOAR workflows, GenAI, enrichment automation, incident response orchestration
+Platform Engineering: SIEM/EDR/SOAR platform operations, infrastructure optimisation, observability (log source integration, security telemetry standards, data pipeline support)
 
-The Data Engineer Lead is responsible for driving the organisation's data strategy by architecting and maintaining robust data infrastructure, enabling stakeholders access to timely, integrated, and reliable data for decision-making.
+What's in it for you?
 
-The Data Engineer Lead role also involves developing, testing, and maintaining the Performance Platform for live gameday analysis. The Data Engineer Lead works closely with departments across both Football and Administration to develop digital products and robust data pipelines that deliver valuable performance and business intelligence.
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
 
- 
+Here's a taste of what's on offer:
 
-Key responsibilities include:
+Equity packages - we want our success to be yours too
 
-Full Stack Development
+Inclusive parental leave policy that supports all parents & carers
 
-Maintain and support the Performance Platform using React, Angular, C#, TypeScript, JavaScript, and Node.js, ensuring a seamless user experience for coaches, analysts, recruiters and staff. 
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
 
-Maintain the Azure backend system to continue to adhere to DevOps best practices. 
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
 
-Perform regular Quality Assurance checks on completed code, ensuring code quality and functionality before publishing to the live site. 
+Check out lifeatcanva.com for more info.
 
-Collaborate with coaches, analysts, recruiters and staff to create innovative tools that improve decision-making both on and off the field, giving the club a competitive advantage. 
+Other stuff to know
 
-Data Engineering, Automation and Analysis:
+We see AI as a powerful amplifier of creativity and technology at Canva. We’re evolving how we assess AI skills in our Technology hiring experience - you’ll tackle interactive, real-time challenges that reflect the kind of work we do. In some interviews, you may also be asked to solve a problem using an AI tool to show how you approach challenges with tech by your side. Your recruitment partner will walk you through what to expect.
 
-Automate key business functions using Python, SQL, Power Automate, and other tools to create efficient workflows, reducing manual effort and improving productivity.
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
 
-Develop and maintain ETL processes using Snowflake and Fivetran, ensuring data integrity and delivering clean, actionable datasets for analysis and decision-making.
+Please note that interviews are conducted virtually."
+89848099,Principal Engineer - MQ-28 Global Digital Ecosystem,Boeing Defence Australia,https://www.seek.com.au/job/89848099?type=standard&ref=search-standalone&origin=jobCard#sol=fdb86710236e3bccce484184c8d6cf782805dbcd,5h ago,5.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
-Create dashboards and reports using data visualisation tools such as Power BI and Tableau, providing valuable insights to stakeholders across the organisation.
+The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
-Build Streamlit applications to support analysis, data validation, and operational workflows.
+MQ-28 is expanding globally with international customers as well as its international design and partner network. Those ambitions require a Global Digital Ecosystem that facilitates a global military digital design network as well as closer ongoing digital collaboration with military operators. 
 
-Champion secure code and data practices using GitHub for version control and collaboration.
+Role overview
 
-Implement and optimise Google Analytics across Collingwood FC digital products, drawing customer insights to enhance digital strategy and fan engagement.
+You will define and lead the evolution of a capability-based MQ-28 Global Digital Ecosystem ensuring it is secure, adhering to export-compliant digital architectures and solution patterns that enable global design collaboration. 
 
-Collaborate with stakeholders across all teams, supporting data-related technical issues, projects, and initiatives to ensure smooth data integration and usage.
+Key responsibilities
 
-Key Projects and Initiatives:
+Design and implement a Global Digital Ecosystem solution architecture for complex, multi‑stakeholder Defence programs
+Work with export control and the MQ-28 Data Architect ensuring data sovereignty and contractual IP/data rights as they relate to cloud and collaboration platforms
+Lead platform selection and migration for digital toolchains
+Produce architectural artefacts such as capability maps, sequence/flow diagrams, data models, interface specifications
+Stakeholder engagement with senior leaders and international partners 
 
-Data Centralisation: Consolidate organisational data into a unified data lake, creating a single source of truth for performance analytics.
+Essential skills & experience
 
-Performance Platform: Provide ongoing support for live and retrospective football analysis, enabling real-time insights during games and training.
+Deep understanding of cloud and hybrid integration patterns, including secure data flows, identity federation, multi‑tenant isolation and cross‑jurisdictional compliance
+Proven experience in business or solution architecture roles for complex, multi‑stakeholder engineering or defence programs
+Expertise in capability‑based planning and translating capability maps into implementable solution roadmaps
+Strong background in systems thinking and ability to map value streams across engineering, manufacturing, supply chain and sustainment
+Practical experience working with digital engineering toolchains
+Excellent stakeholder engagement, communication and leadership skills with ability to influence senior leaders and international partners.
+Australian Citizenship (required for Defence security clearance). 
 
-AI Strategy: Navigate the evolving AI landscape, identifying opportunities to leverage emerging technologies for performance analysis and competitive advantage across football and business operations.
+Desirable skills & experience
 
-Machine Learning Applications: Explore and implement machine learning solutions for recruiting, fan behaviour analysis, marketing optimisation, and business performance to drive data-driven decisions.
+Hands-on experience with tools such as 3DExperience, Teamcenter, CATIA, NX, DOORS, Ansys, Matlab, GitLab, Python and secure cloud platforms (AWS/Azure/GCP)
+Familiarity with model-based systems engineering (MBSE) and digital thread concepts
+Practical experience automating tasks via scripting and CI/CD for engineering toolchains
+Prior exposure to international defence programs or globally distributed supplier networks 
 
-Reporting and Analytics: Deliver data reporting solutions across departments to support operational and strategic decision-making.
+Other benefits
 
-Automation and Workflow Efficiency: Automate key processes across departments, improving efficiency and freeing up resources for higher-value work.
+Work on cutting edge projects with opportunities to work across platforms
+Attractive remuneration and annual bonus
+Formal reward and recognition program
+Access discounts for health insurance, travel and accommodation
+Paid parental leave and Defence leave
+Salary packaging options available
+Health and wellbeing benefits include annual flu vaccinations and Employee Assistance Program
+Social and community groups 
 
+BDA works with strong links with our global Boeing community, and we strongly encourage collaboration with our international counterparts.
 
+ We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
+Please note, this role will be shortlisted in 2026. Your patience is appreciated."
+89848098,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89848098?type=standard&ref=search-standalone&origin=jobCard#sol=92cf1f60ea5c1b2f6a118eb7c47f27817011ade2,5h ago,5.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
-About you
+The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
-To be successful as the Data Engineer Lead, you will be:
+As MQ-28 expands internationally, the program requires robust, secure and export-compliant data architecture to manage and store data across multiple customer nations. 
 
-A skilled full‑stack developer across React/Angular, TypeScript/JavaScript, Node.js and C#.
+Role overview
 
-Experienced in maintaining Azure backends and modern DevOps pipelines.
+You will partner closely with the MQ-28 Global Digital Ecosystem Principal Engineer to define, implement and govern the MQ-28 enterprise data architecture and reference data platforms.  Your role will deliver on the digital architecture and solution patterns that enable global design collaboration for engineering design, flight test, maintenance, logistics and operational analytics.
 
-Proficient in Python and SQL for building reliable ETL/ELT pipelines.
+Key responsibilities
 
-Capable of producing clear, actionable Power BI/Tableau dashboards.
+Define and maintain the MQ-28 enterprise data architecture and data product roadmap in alignment with program strategic roadmaps and product architecture.
+Design reference data platform architectures (cloud, hybrid, and on‑prem) to ingest, store, process and serve high‑volume flight test, telemetry, sensor and maintenance data at scale.
+Specify data models, canonical schemas, ontologies and metadata standards to enable cross‑domain interoperability (engineering, operations, logistics, analytics).
+Establish data governance, stewardship, cataloguing and lifecycle policies that incorporate export control, data rights, IP, and cross‑jurisdictional access constraints.
+Define secure data integration and exchange patterns.
+Develop architectures for efficient analytics and ML/AI workflows (data lakes, feature stores, data warehouses, MLOps pipelines) supporting test analysis, performance trending and predictive maintenance.
+Create reference implementation patterns and reusable data platform blueprints for supplier/partner onboarding and rapid capability delivery.
+Collaborate with security, export control, legal and compliance teams to ensure architecture meet export constraints and national security requirements.
+Define interoperability contracts, APIs, data contracts and SLAs for internal systems and external partners/nations.
+Lead data migrations, ingestion design and coexistence strategies for existing PLM/ALM/SE systems and new data platforms.
+Produce architecture artefacts including data flow diagrams, logical & physical data models, data lifecycle diagrams, capacity & cost models and interface specifications.
+Provide technical leadership and mentoring to data engineers, platform teams and stakeholders.
+Communicate architecture rationale, risks, cost/benefit tradeoffs and timelines to program leadership and international partners.
 
-Familiar with practical applications of AI/ML for business and performance.
+Essential skills & experience
 
-An effective collaborator across technical, football, and business teams.
+Proven experience as a Data Architect or Senior Data Engineering/Architecture role on complex, multi‑stakeholder defence, aerospace or mission‑critical programs
+Expertise designing large‑scale data platforms: data lakes, data warehouses, streaming platforms, feature stores and analytical pipelines
+Strong experience with cloud data architectures (AWS/Azure/GCP) and hybrid/on‑premises integration in regulated environments
+Deep understanding of data modelling (relational, time-series, event-sourced), metadata, master data management and ontologies
+Practical experience with ingestion and integration patterns (e.g. Kafka/streaming, ETL/ELT, CDC, APIs, message buses and batch processing)
+Experience implementing data security controls and familiarity with cyber control frameworks (e.g. Essential 8, ISM, NIST800-43)
+Familiarity with export control frameworks (ITAR/EAR or equivalents), data sovereignty requirements and contractual data/IP rights
+Australian Citizenship (required for Defence security clearance). 
 
-User‑centric mindset with a focus on building intuitive digital tools.
+Desirable skills & experience
 
-Strong problem‑solving, communication, and stakeholder engagement skills.
+Hands-on with data platform technologies and tools such as AWS (S3, Glue, Kinesis, Redshift, SageMaker), Azure (Data Lake, Event Hubs, Synapse, ML), GCP (BigQuery, Dataflow), Kafka, Snowflake, Databricks, Postgres/TimescaleDB.
+Familiarity with PLM/ALM/SE ecosystems and integrating engineering toolchains into data platforms.
+Experience with observability, data lineage and catalog tools (OpenLineage, Amundsen, DataHub, Collibra).
+Knowledge of ML/AI operationalisation, feature stores and MLOps practices.
+Scripting and automation skills (Python, CI/CD tooling) to support prototype and reference implementations.
+Prior exposure to global defence programs or multi‑national supplier networks. 
 
-Takes ownership, works proactively, and thrives in fast‑paced environments.
+Other benefits
 
-Curious, adaptable, and eager to explore new data and AI technologies.
+Work on cutting edge projects with opportunities to work across platforms
+Attractive remuneration and annual bonus
+Formal reward and recognition program
+Access discounts for health insurance, travel and accommodation
+Paid parental leave and Defence leave
+Salary packaging options available
+Health and wellbeing benefits include annual flu vaccinations and Employee Assistance Program
+Social and community groups 
 
+BDA works with strong links with our global Boeing community, and we strongly encourage collaboration with our international counterparts.
 
+We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
+ Please note, this role will be shortlisted in 2026. Your patience is appreciated."
+89847676,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89847676?type=standard&ref=search-standalone&origin=jobCard#sol=127e83f8300d1190b0518fc8760068a9f008103d,6h ago,6.0,2026-01-21T14:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
-Football Club’s are fast-paced environments but you will engrain yourself into the Collingwood culture, remain agile, adaptable, and consistently champion our Company values of DO BETTER, SIDE BY SIDE, A NEST FOR ALL and FLY HIGHER.
+What you’ll be doing
 
+At Virgin Australia, data is central to how we make decisions, serve our customers, and shape the future of our airline. We’re investing heavily in our Enterprise Data Platform (EDP) to ensure our data is trusted, well-defined, and ready to power analytics, AI, and commercial outcomes at scale.
 
-What we offer
-As a valued staff member of our Sporting Club you will be a part of a fun, inclusive and flexible work environment:
+As our Data Modelling Lead, you’ll play a critical role in building enterprise trust in data. You’ll design and govern business-aligned data models that underpin analytics, AI, and decision-making across the organisation — ensuring data is reliable, consistent, and genuinely understood by the business.
 
-Access to state of art High Performance Gym Facility
+You’ll work closely with analytics, engineering, and business teams, treating data as a strategic asset and enabling faster, higher-quality insights across commercial, operational, and loyalty domains.
 
-Access to Professional Development and Learning Development Courses
+The preferred location for this role is Brisbane. We are open to a  Sydney base however some travel would be expected.
 
-Access to tickets to all AFL and AFLW matches
+What you’ll be doing…,
 
-Access to exclusive partner offers, the likes of Nike, Emirates, AIA Vitality, La Trobe, CUB Economy, Business Class with Emirates, Sonos and TaylorMade
+Define and govern a single set of business definitions, relationships, and metricsOwn enterprise dimensional and semantic data models
+Establishing modelling standards and patterns that teams can confidently reuse
+Reduce ambiguity across commercial operational, and loyalty datasets
+Enable scalable analytics through dbt, Databricks, and semantic layers (including administration and product ownership of support tools)
+Partnering with engineers to ensure performant, reliable data structures
+Treat the Enterprise Data Platform as a capability with clear road-maps, service levels and ownership
+Translating business needs into robust data models
+Coaching analysts and data scientists in effective modelling practices
+Design data models suitable for GenAI, RAG, and metrics layers
+Enable AI tooling such as Databricks Genie and ChatGPT Enterprise
+Ensure data structures support long-term scalability and future innovation
 
-Opportunities to support with Collingwood community outreach and volunteer programs (Magpie Nest Cafe)
+You’ll be great if you have…
 
-Behind the scenes access to Match-Day, including the ability to support in on-ground activations
+10+ Yrs experience in data, analytics, or data platforms roles
+Strong dimensional modelling expertise (Kimball)
+Hands-on dbt experience (Must have)
+Advanced SQL skills (Must have)
+Practical experience working in Databricks (Must have)
+Experience in delivering enterprise-scale data solutions
+Excellent stakeholder communication across technical and business audiences
+Confidence to provide clear reasoning when challenging requirements
+Tertiary qualification in data, technology, engineering, mathematics or related field
 
+Desirable
 
+Experience in airline, travel, or complex operational domain environments
+Experience building semantic layers or enterprise metrics frameworks
+Exposure to conceptual, logical, or ontology-based modelling
+Experience supporting AI and advanced analytics information needs
 
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
 
-To Apply
-If you are interested in this position, please send through your CV and cover letter that addresses why you are interested in working with the Collingwood Football Club, how your skills/experience would qualify for the position, and how you would contribute to the culture of the organisation.
+Discounted flights for you and your loved ones (including $1000 worth of travel credits per year)
+A flexible, hybrid work style. Work from home or the office, adapt your location to suit your style and needs
+One of Brisbane’s most admired head office locations, with South Bank train station, a supermarket, pharmacy, and lunch options downstairs plus a 5-minute walk to the Busway, a rooftop restaurant and onsite gym (with a low membership fee) and South Bank Parklands just across the road
+Discounts on travel insurance, lounge membership, car hire, accommodation, and experiences worldwide
+Cheaper hospitality, retail, technology, beauty and wellness services
+Free counselling and access to a wellbeing app to support your physical, mental, social and financial health
+‘Dress for Your Day’ – enjoy the freedom to wear whatever makes you feel great for the type of work you do and the day you have ahead of you.
 
-Please send this application to careers@collingwoodfc.com.au. Applications close COB Friday 6 February 2026 (however, we may close this earlier if we receive a large volume of applications).
+When everyone is included, everyone wins
 
+We’re all individuals. And we love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
 
+Ready to apply?
 
-
-Please keep reading…
-
-Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalized folks tend to only apply when they check every box.
-
-So if you think you have what it takes, but don't necessarily meet every single point above, please still get in touch. We'd love to have a chat and see if you could be a great fit.
-
-We believe in being a Nest For All – we champion respect, diversity and inclusion to make our Club a safe and welcoming place for all. The Collingwood Football Club is an equal opportunity employer and encourages applications from suitably qualified and diverse candidates. We provide a welcoming, safe and flexible approach to work and provide an environment that benefits from and enables the best from everyone.
-
-As an organization we are committed to protecting children and young people from harm. It is essential that anyone involved with the Collingwood Football Club understands their responsibility in relation to child safety. Our organization requires all applicants to obtain a ‘Working with Children Check’ prior to appointment.
-
-To learn more about working at Collingwood Football Club and our values, please visit https://www.collingwoodfc.com.au/news/76/careers"
-89835516,Head of AI/ML,Robert Walters,https://www.seek.com.au/job/89835516?type=standard&ref=search-standalone&origin=jobCard#sol=9e3470a6a3bf838cd9dc611e41050b4c3c84b768,3h ago,3.0,2026-01-21T05:00:00+00:00,Perth WA,Other (CEO & General Management),Full time,,"A rare opportunity has arisen with one of our clients for a hands-on Head of AI/ML to shape technical strategy, innovate at scale, and drive industry‑leading AI solutions in a high‑growth environment.
-
-
-
-We're looking for an innovative leader with a strong technical foundation, deep expertise in the medical or healthcare sector, and a genuine passion for the transformative power of AI.
-
-
-
-
-Are you ready to lead cutting-edge advancements in AI and machine learning within the Technology industry? We are seeking a visionary Head of AI/ML to drive technical innovation, strategy, and product development for transformative healthcare solutions. This is an exceptional opportunity to shape the future of digital health and make a global impact.
-
-
-About the role
-
-
-As the Head of AI/ML, you will play a pivotal role in leading the development of industry-leading, clinically relevant AI-enabled products that improve healthcare outcomes. You will oversee a multidisciplinary technical team, champion Agile methodologies, and ensure compliance with medical-grade software standards (ISO 13485). Your expertise will guide architecture decisions, model development, and delivery while fostering a culture of innovation and excellence.
-
-This leadership position requires collaboration across clinical, commercial, regulatory, and product teams to align technology strategies with market needs. You will also engage with external stakeholders, including clinicians, clients, and partners, to ensure product-market fit and deliver impactful solutions.
-
-
-
-What you'll do
-
-Strategic Leadership: Define and execute long-term technical strategies aligned with organisational goals
-AI/ML Development: Lead the design, execution, and delivery of scalable AI models with clinical value
-Team Leadership: Inspire and mentor a high-performing technical team while driving continuous learning
-Innovation & IP Strategy: Foster innovation through R&D projects and manage intellectual property development
-Compliance & Cybersecurity: Ensure adherence to industry regulations (ISO 13485, HIPAA) and uphold data security standards
-Stakeholder Engagement: Translate complex technical concepts for non-technical audiences and liaise with clinicians and partners
-
-What you'll bring
-
-Minimum 15 years in senior technology roles, including 5+ years in leadership positions within regulated or high-growth environments
-Proven experience delivering cloud-based platforms, medical devices/software, or AI-driven solutions
-Expertise in AI/ML technologies, cloud infrastructure (AWS/Azure), web technologies, and modern software architecture
-Strong knowledge of regulated environments (ISO 13485/FDA/TGA) and intellectual property management
-Proven ability to lead cross‑functional and distributed technical teams
-Strong communication, innovation mindset, and strategic problem‑solving skills
-Postgraduate qualification in Computer Science, Engineering, AI/ML, or related field
-
-Why This Role?
-
-This is your chance to lead groundbreaking advancements in AI/ML within the MedTech space. You'll work alongside passionate professionals committed to improving healthcare outcomes globally through innovation. If you thrive on solving complex challenges and driving impactful change, this role is for you.
-
-Aboriginal and Torres Strait Islander Peoples are encouraged to apply.
-
-To apply please click apply or call Milena Wawrzyniak-Kalyanpur on +61 8 9266 0980 for a confidential discussion."
-89832732,Embedded Software Engineer,Designworks Group,https://www.seek.com.au/job/89832732?type=standard&ref=search-standalone&origin=jobCard#sol=8592ec3e5b829f2321c54479a940737cb0230041,4h ago,4.0,2026-01-21T04:00:00+00:00,"Seventeen Mile Rocks, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"About The Job
-
-Embedded Software Engineers work within a growing team creating autonomous aircraft flight control and onboard mission execution software.
-
-This includes systems and mission analysis, sensor integration, control system implementation and tuning, behaviour analysis, simulation and test, and interfacing with ground based mission control software.
-
-Embedded Software Engineers are expected to demonstrate the ability to analyse, implement, document and test with attention to detail, in a tight knit software team and within the wider team of electronics, mechanical and industrial design engineers.
-
-They are expected to constructively review code written by other team members and accept feedback on the code they produce, follow and refine processes and procedures.
-
-
-
-
-Flight test days can be stressful. Our code can break the mission. Safety is paramount.
-
-Teamwork is our answer to this and you can expect to be supported but also questioned and have your work double checked. You will be asked to do the same for others. ""Teamwork"" is not a throwaway HR platitude for us.
-
-
-
-
-What You'll Do
-
-Design and implement embedded software and scripts running on flight controllers and associated aircraft subsystems for military applications.
-
-Design and implement sensor processing, flight plan execution, high level mission logic, communications protocols and telemetry.
-
-Contribute end customer documentation and training materials.
-
-Conduct thorough testing and validation during development with the use of simulation and analysis of data from real-world flight tests, as well as improving automated test tooling.
-
-Assist with test flight mission planning and customer demonstration mission planning.
-
-Collaborate with cross-functional teams, including application software engineers, electronics and mechanical engineers.
-
-Support production and production engineering departments
-
-
-
-
-Required Qualifications and Experience
-
-Bachelor’s degree in Robotics, Mechatronics, Embedded Software Engineering, or equivalent experience
-
-Eligible to obtain and maintain an Australian Government security clearance
-
-Experienced and proficient in C++ for Embedded Systems, or C for Embedded Systems and willingness to upskill
-
-Experience with scripting languages such as Python and Lua
-
-Familiarity with autonomous vehicle hardware and sensors, and associated software
-
-Proven experience with implementation and debugging of communications protocols
-
-Bare metal microcontroller and RTOS experience
-
-Demonstrated experience with writing and debugging software that interfaces with electronic hardware devices
-
-Ability to collaborate with the wider team to define and implement robust validation and verification
-
-Willingness to learn and share knowledge, building team cohesion and capacity
-
-
-
-
-Preferred Qualifications and Experience
-
-Knowledge of Guidance, Navigation and Control (GNC) would be very highly regarded
-
-Experience with sensor fusion and Interial measurement units (IMU)
-
-Experience with autonomous systems of any type
-
-Experience with simulation tools and techniques for algorithm validation and testing
-
-Knowledge of safety standards and certification processes for autonomous systems
-
-An understanding of System Engineering concepts
-
-Experience with physical product production environments, including automated production test systems"
-89831891,AI Engineering Manager,Greenstone Financial Services,https://www.seek.com.au/job/89831891?type=standard&ref=search-standalone&origin=jobCard#sol=32ece21c1a57acbbd401e3106badb871980ce6e2,5h ago,5.0,2026-01-21T03:00:00+00:00,"Bella Vista, Sydney NSW (Hybrid)",Management (Information & Communication Technology),Full time,,"Full Time Opportunity
-
-As Engineering Manager – AI Platform, you’ll lead a high-performing team building the foundation for scalable, secure, and ethical AI across Greenstone. You’ll shape and deliver internal tools — from prompt orchestration and model monitoring to retrieval-augmented generation (RAG) — enabling product teams to safely embed Generative AI.
-
-Partnering closely with Product, Data, Risk, and Architecture, this is a hands-on leadership role focused on delivery, performance, and operational excellence.
-
-Key Duties:
-
-Deliver reusable AI tooling: model registries, prompt managers, eval frameworks
-Champion technical excellence and responsible AI in production
-Build and mentor a team of engineers, fostering accountability and growth
-Own platform metrics, performance, and continuous improvement
-Collaborate with cross-functional teams to align on risk, security, and business outcomes
-
-
-
-What are we looking for?
-
-Typically 7+ years in software engineering, incl. experience in leading delivery teams
-Strong cloud-native experience (AWS preferred); modern dev practices
-Experience building/integrating AI/ML pipelines (esp. GenAI / RAG / LLMs)
-Familiarity with tools like LangChain, OpenAI APIs, Hugging Face, vector DBs
-Exposure to AI observability, model lifecycle mgmt, inference infra
-Demonstrated leadership, coaching, and stakeholder engagement experience
-Bonus: Knowledge of DevOps, MLOps, application security or platform enablement
-
-
-
-Our Promise to Our People
-
-
-We are passionate about our core values of Customer First, We Care, One Team, and Results Driven, which define how we approach our work.
-
-We recognise that our colleagues are the key to our success. That's why you can expect to be rewarded for the hard work you put in through job satisfaction, career development and the fantastic range of benefits we offer:
-
-
-
-A hybrid working week of in-house collaboration and working from home flexibility
-Your own parking space onsite, or an annual $1200 travel allowance
-Modern building facilities including a dedicated & subsidised on-site company café (weekly free lunch)
-Free access to on-site company gym
-Health & well-being initiatives and programs
-Additional 'flexi-days' of leave acquired through tenure with the business
-Cashback discounts on a range of Insurance products through our Real Insurance brand
-Career development pathways and opportunity to take part in in-house leadership & emotional intelligence workshops
-Quarterly award functions and a grand annual conference to recognise our people
-Retail discounts e.g. movie tickets, easter show, live shows + more
-Morsl market (a fully automated self-serve, food and drink marketplace with a wide variety of meals, snacks and drinks)
-
-
-
-Who We Are
-
-Greenstone distributes insurance products under trusted brands in Australia, New Zealand and Canada. Some of our brands include: Real Insurance, Australian Seniors, New Zealand Seniors, OneChoice, RSPCA Pet Insurance, Kogan Australia, SPCA Pet Insurance, Prime Pet Insurance, North Cover, FiftyUp, Guardian and Choosi.
-
-We are the leading distributor of direct Insurance products in the Australian insurance market. Since launching into the Financial Services sector in 2007, Greenstone has experienced a commanding volume of growth being recognised for our credible brands, customer focused values and people-driven work culture.
-
-We are passionate about our core values, which contribute towards the positive culture that supports our employees, our customers and our community.
-
-Location
-
-Great central location in Norwest Business Park, Norwest, only a short walk from Norwest Metro station and also direct bus access from Parramatta and Blacktown.
-
-Apply Now
-
-If this role interests you, we would love to hear from you!
-
-Website: www.greenstone.com.au"
-89827950,Data Engineer,St Vincent's Health Australia,https://www.seek.com.au/job/89827950?type=standard&ref=search-standalone&origin=jobCard#sol=4fcecd663f19a40c8272fc455287a327e0b95ed1,6h ago,6.0,2026-01-21T02:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive salary packaging available,"About the role
-St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
-
-St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. We are seeking a high-calibre Senior Data Engineer to be a foundational senior leader of this transformation. This is a chance to build greenfield, mission-critical infrastructure that defines the national standard for a unified data platform and ethical AI deployment in healthcare.
-
-You will work closely with the Data & AI Platform lead, Data & AI Engineering & Analytics teams and clinical and operational stakeholders to deliver governed, high-performing and scalable data solutions across one of Australia's most diverse health and aged care ministries.
-
-This role is central to enabling remote patient monitoring, virtual care, AI-assisted clinical decision support and predictive analytics models that enhance safety, reduce administrative burden and improve care outcomes across our public hospitals, private hospitals, aged care services and virtual health programs.
-
-What you'll do
-
-Build, optimise and maintain enterprise-grade data pipelines (ETL/ELT) across Azure Data Factory, Databricks/Fabric and SQL/Analysis Services
-Gather, profile and integrate data from multiple systems to feed our Data Lakehouse and analytical models
-Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
-Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
-Deliver optimized business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
-Deliver optimised business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
-Develop and maintain Infrastructure as Code (IaC) templates to manage Azure data resources programmatically
-Support AI readiness by designing and building ML- and Generative-AI-optimised pipelines, including Vector Database pipelines (for RAG architectures) and governed feature stores
-Collaborate with Data Scientists to operationalise machine learning models (MLOps), managing model registries, feature stores, and drift monitoring
-Contribute to AI system governance by implementing data lineage, bias detection, and PII masking techniques within the data pipelines to ensure patient privacy and responsible data use
-Identify new opportunities for data gathering including the ingestion of unstructured data (clinical notes, images) to support downstream AI applications
-
-What you'll bring
-
-5+ years' experience in data engineering, data management and data warehousing.
-Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
-Minimum 5 years' experience in data engineering, data management, data modelling, data architecture and data warehousing technologies and practices
-Demonstrable recent experience (ideally at least three years) in ETL and data warehouse solution design on Microsoft Azure platforms, including Azure Data Factory
-Strong hands-on experience with Azure Data Factory, SQL, Python/Scala and modern Data Lakehouse platforms (Databricks or Microsoft Fabric)
-Experience with modern Data Lakehouse architectures blending data warehousing and data science capabilities
-Solid understanding of dimensional modelling, star schema design and cloud data architectures
-Sound knowledge of Relational Database management concepts and data modelling
-Experience building optimised pipelines for ML/AI applications, or a desire to deepen skills in this area
-Familiarity with Power BI, Analysis Services and enterprise reporting ecosystems
-Excellent business acumen with the ability to work with stakeholders at all levels
-
-Desirable Skills
-
-Knowledge and experience of the health industry
-Exposure to structured/unstructured data, big data architecture and predictive analytics solutions
-Knowledge of Generative AI concepts, including Prompt Engineering, RAG architectures, vector databases, and using Azure OpenAI Service
-Familiarity with containerisation (Docker, Kubernetes) for deploying data applications
-Data, infrastructure and/or AI certifications by recognised providers
-
-Why join St Vincent's
-
-Be part of a mission-driven organisation shaping the future of Australian healthcare
-Work with a high-calibre data and digital community committed to innovation, advanced analytics and responsible AI
-Flexible hybrid working across Melbourne, Sydney or Brisbane
-Opportunities for learning, development and progression across a national organisation
-Your work will directly improve patient safety, aged care support and wellbeing for thousands of Australians each day
-Competitive salary packaging options
-Discounted private health insurance
-Employee Assistance Program for staff and their families
-Access to the Fitness Passport (FP)
-
-At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
-
-Pre-Employment Checks
-
-Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
-
-Equal Opportunity
-
-We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone.
-
-How To Apply
-
-Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
-
-Respectfully, no recruitment agencies."
-89827801,Data Engineer,St Vincent's Health Australia,https://www.seek.com.au/job/89827801?type=standard&ref=search-standalone&origin=jobCard#sol=6249efdc84403b9ba1c4af68cff27b2404dae2a3,6h ago,6.0,2026-01-21T02:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive salary packaging available,"About the role
-
-St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
-
-St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. We are seeking a high-calibre Senior Data Engineer to be a foundational senior leader of this transformation. This is a chance to build greenfield, mission-critical infrastructure that defines the national standard for a unified data platform and ethical AI deployment in healthcare.
-
-You will work closely with the Data & AI Platform lead, Data & AI Engineering & Analytics teams and clinical and operational stakeholders to deliver governed, high-performing and scalable data solutions across one of Australia's most diverse health and aged care ministries.
-
-This role is central to enabling remote patient monitoring, virtual care, AI-assisted clinical decision support and predictive analytics models that enhance safety, reduce administrative burden and improve care outcomes across our public hospitals, private hospitals, aged care services and virtual health programs.
-
-What you'll do
-
-Build, optimise and maintain enterprise-grade data pipelines (ETL/ELT) across Azure Data Factory, Databricks/Fabric and SQL/Analysis Services
-Gather, profile and integrate data from multiple systems to feed our Data Lakehouse and analytical models
-Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
-Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
-Deliver optimized business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
-Deliver optimised business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
-Develop and maintain Infrastructure as Code (IaC) templates to manage Azure data resources programmatically
-Support AI readiness by designing and building ML- and Generative-AI-optimised pipelines, including Vector Database pipelines (for RAG architectures) and governed feature stores
-Collaborate with Data Scientists to operationalise machine learning models (MLOps), managing model registries, feature stores, and drift monitoring
-Contribute to AI system governance by implementing data lineage, bias detection, and PII masking techniques within the data pipelines to ensure patient privacy and responsible data use
-Identify new opportunities for data gathering including the ingestion of unstructured data (clinical notes, images) to support downstream AI applications
-
-What you'll bring
-
-5+ years' experience in data engineering, data management and data warehousing.
-Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
-Minimum 5 years' experience in data engineering, data management, data modelling, data architecture and data warehousing technologies and practices
-Demonstrable recent experience (ideally at least three years) in ETL and data warehouse solution design on Microsoft Azure platforms, including Azure Data Factory
-Strong hands-on experience with Azure Data Factory, SQL, Python/Scala and modern Data Lakehouse platforms (Databricks or Microsoft Fabric)
-Experience with modern Data Lakehouse architectures blending data warehousing and data science capabilities
-Solid understanding of dimensional modelling, star schema design and cloud data architectures
-Sound knowledge of Relational Database management concepts and data modelling
-Experience building optimised pipelines for ML/AI applications, or a desire to deepen skills in this area
-Familiarity with Power BI, Analysis Services and enterprise reporting ecosystems
-Excellent business acumen with the ability to work with stakeholders at all levels
-
-Desirable Skills:
-
-Knowledge and experience of the health industry
-Exposure to structured/unstructured data, big data architecture and predictive analytics solutions
-Knowledge of Generative AI concepts, including Prompt Engineering, RAG architectures, vector databases, and using Azure OpenAI Service
-Familiarity with containerisation (Docker, Kubernetes) for deploying data applications
-Data, infrastructure and/or AI certifications by recognised providers
-
-Why join St Vincent's
-
-Be part of a mission-driven organisation shaping the future of Australian healthcare
-Work with a high-calibre data and digital community committed to innovation, advanced analytics and responsible AI
-Flexible hybrid working across Melbourne, Sydney or Brisbane
-Opportunities for learning, development and progression across a national organisation
-Your work will directly improve patient safety, aged care support and wellbeing for thousands of Australians each day
-Competitive salary packaging options
-Discounted private health insurance
-Employee Assistance Program for staff and their families
-Access to the Fitness Passport (FP)
-
-At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
-
-Pre-Employment Checks
-
-Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
-
-Equal Opportunity
-
-We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone.
-
-How To Apply
-
-Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
-
-Respectfully, no recruitment agencies."
-89827743,Data Engineer,St Vincent's Health Australia,https://www.seek.com.au/job/89827743?type=standard&ref=search-standalone&origin=jobCard#sol=54dcae1fe722de0f069f4c11d4de3c2ac6df3781,6h ago,6.0,2026-01-21T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive salary packaging available,"About the role
-
-St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
-
-St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. We are seeking a high-calibre Senior Data Engineer to be a foundational senior leader of this transformation. This is a chance to build greenfield, mission-critical infrastructure that defines the national standard for a unified data platform and ethical AI deployment in healthcare.
-
-You will work closely with the Data & AI Platform lead, Data & AI Engineering & Analytics teams and clinical and operational stakeholders to deliver governed, high-performing and scalable data solutions across one of Australia's most diverse health and aged care ministries.
-
-This role is central to enabling remote patient monitoring, virtual care, AI-assisted clinical decision support and predictive analytics models that enhance safety, reduce administrative burden and improve care outcomes across our public hospitals, private hospitals, aged care services and virtual health programs.
-
-What you'll do
-
-Build, optimise and maintain enterprise-grade data pipelines (ETL/ELT) across Azure Data Factory, Databricks/Fabric and SQL/Analysis Services
-Gather, profile and integrate data from multiple systems to feed our Data Lakehouse and analytical models
-Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
-Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
-Deliver optimized business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
-Deliver optimised business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
-Develop and maintain Infrastructure as Code (IaC) templates to manage Azure data resources programmatically
-Support AI readiness by designing and building ML- and Generative-AI-optimised pipelines, including Vector Database pipelines (for RAG architectures) and governed feature stores
-Collaborate with Data Scientists to operationalise machine learning models (MLOps), managing model registries, feature stores, and drift monitoring
-Contribute to AI system governance by implementing data lineage, bias detection, and PII masking techniques within the data pipelines to ensure patient privacy and responsible data use
-Identify new opportunities for data gathering including the ingestion of unstructured data (clinical notes, images) to support downstream AI applications
-
-What you'll bring
-
-5+ years' experience in data engineering, data management and data warehousing.
-Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
-Minimum 5 years' experience in data engineering, data management, data modelling, data architecture and data warehousing technologies and practices
-Demonstrable recent experience (ideally at least three years) in ETL and data warehouse solution design on Microsoft Azure platforms, including Azure Data Factory
-Strong hands-on experience with Azure Data Factory, SQL, Python/Scala and modern Data Lakehouse platforms (Databricks or Microsoft Fabric)
-Experience with modern Data Lakehouse architectures blending data warehousing and data science capabilities
-Solid understanding of dimensional modelling, star schema design and cloud data architectures
-Sound knowledge of Relational Database management concepts and data modelling
-Experience building optimised pipelines for ML/AI applications, or a desire to deepen skills in this area
-Familiarity with Power BI, Analysis Services and enterprise reporting ecosystems
-Excellent business acumen with the ability to work with stakeholders at all levels
-
-Desirable Skills:
-
-Knowledge and experience of the health industry
-Exposure to structured/unstructured data, big data architecture and predictive analytics solutions
-Knowledge of Generative AI concepts, including Prompt Engineering, RAG architectures, vector databases, and using Azure OpenAI Service
-Familiarity with containerisation (Docker, Kubernetes) for deploying data applications
-Data, infrastructure and/or AI certifications by recognised providers
-
-Why join St Vincent's
-
-Be part of a mission-driven organisation shaping the future of Australian healthcare
-Work with a high-calibre data and digital community committed to innovation, advanced analytics and responsible AI
-Flexible hybrid working across Melbourne, Sydney or Brisbane
-Opportunities for learning, development and progression across a national organisation
-Your work will directly improve patient safety, aged care support and wellbeing for thousands of Australians each day
-Competitive salary packaging options
-Discounted private health insurance
-Employee Assistance Program for staff and their families
-Access to the Fitness Passport (FP)
-
-At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
-
-Pre-Employment Checks
-
-Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
-
-Equal Opportunity
-
-We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone.
-
-Respectfully, no recruitment agencies."
-89826248,AI Engineer,u&u. Recruitment Partners,https://www.seek.com.au/job/89826248?type=standard&ref=search-standalone&origin=jobCard#sol=6f6faa14f347978b11687bd854cdf0c7baf5e6e7,7h ago,7.0,2026-01-21T01:00:00+00:00,Brisbane QLD,Engineering - Software (Information & Communication Technology),Full time,,"This is an exciting opportunity to be at the forefront of Data Analytics and Artificial Intelligence for one of Queensland’s most well respected organisations. You will join a high impact transformation program where AI is being embedded into real enterprise operations, delivering measurable business outcomes across finance, ERP, and customer service environments.
- 
-I am looking for an experienced AI Engineer who can design, build, and operationalise production grade, agentic AI solutions. This role is ideal for someone who understands how to move AI beyond experimentation and into safe, reliable, observable, and auditable enterprise workflows.
- 
-You will work with modern Azure based platforms including Azure AI Foundry and Microsoft Fabric, building intelligent agents and multi agent workflows that integrate seamlessly with enterprise systems and processes.
- 
-The Role
- 
-As the AI Engineer, you will be responsible for designing and delivering AI driven solutions that automate complex business processes and enhance operational efficiency. You will work across financial and ERP transactional functions such as accounts payable and receivable, payroll, and debt management, while also enabling AI powered customer support solutions for contact centres and property helpdesks.
- 
-You will collaborate closely with solution architects, data engineers, and technical analysts to deliver ethical, high quality, and production ready AI solutions aligned to organisational strategy.
- 
-Key Responsibilities
-
-Design and deploy AI agents using Azure AI Foundry or equivalent platforms;
-Build multi agent workflows including planner executor, reviewer, routing, and human in the loop patterns;
-Integrate agents with enterprise systems using secure tool and function calling;
-Implement event driven and resilient orchestration using Logic Apps, Functions, Service Bus, Event Grid, and API Management;
-Apply enterprise grade reliability patterns including retries, idempotency, and recovery handling;
-Establish guardrails including validation, policy enforcement, and confidence thresholds;
-Implement full observability including logging, tracing, telemetry, and audit trails;
-Apply security best practices including Managed Identity, Key Vault, RBAC, and secure networking;
-Deliver production quality code with CI CD, automated testing, and infrastructure as code;
-Produce clear architecture artefacts, API specifications, and operational documentation;
-Test and evaluate models for accuracy, performance, and business suitability; and
-Integrate AI solutions into existing applications, APIs, and workflows.
-About You
- 
-You are an engineer who understands how to make AI operational inside large organisations. You bring strong systems thinking, deep cloud experience, and the ability to design resilient, secure, and scalable AI solutions.
-
-Bachelor’s degree in Computer Science, Engineering, Data Analytics, or equivalent experience;
-Five or more years in software, integration, or data engineering roles;
-Hands on experience with Azure AI Foundry or equivalent agent based AI platforms;
-Strong experience with Azure Integration Services including Logic Apps, Service Bus, Event Grid, Functions, and API Management;
-Practical experience building RAG and grounded AI solutions;
-Strong coding skills in Python and or TypeScript or C#;
-Experience with distributed systems and event driven architecture;
-Experience with GitHub or Azure DevOps; and
-Ability to work autonomously and contribute strategically to transformation programs.
-This is a rare opportunity to shape how AI is delivered at enterprise scale within a highly respected Queensland organisation. If you are passionate about building real world AI solutions that are secure, scalable, and impactful, this role will put you at the centre of meaningful digital transformation.
- 
-How to Apply
- 
-For more information or a confidential discussion please call Greg Scharf at u&u on 07 3232 9136 quoting reference number 43912.
- 
-At u&u Recruitment Partners, we value diversity, equity and inclusion. We welcome applications from Aboriginal and Torres Strait Islander people, people with diverse cultural and linguistic backgrounds and people with disability.
- 
-Should you require reasonable adjustments or have a preferred method of communication throughout the recruitment process, we encourage you to make a request via adjustments@uandu.com or phone the above-mentioned u&u consultant to discuss. In response to these requests, we will collaborate closely with you to implement the appropriate adjustments.
- 
-Additionally, for a barrier-free and inclusive online experience, you can access u&u’s opportunities using accessibility software Recite Me at https://www.uandu.com/jobs.
- 
-Please submit your resume in Word format only.
-
-#SCR-greg-scharf"
-89825879,Lecturer in IT & AI,Victoria University,https://www.seek.com.au/job/89825879?type=standard&ref=search-standalone&origin=jobCard#sol=2e5808b9cc1214449caa40737815008f66caa6fb,7h ago,7.0,2026-01-21T01:00:00+00:00,"Footscray, Melbourne VIC","Teaching - Tertiary, Other (Education & Training)",Full time,"$113,221 – $134,449 per year","About VU:
-
-At Victoria University, our aim is to be a global leader in dual-sector learning and research by 2028. Join us on the journey and help us achieve our strategic drives embedded in our Strategic Plan 2022-2028: Start well, finish brilliantly. One of the drivers “Thriving place to Study and Work” will enable us to continue to create places that our students and staff love to belong and feel immense pride.
-
-About the Team: 
-
-The IT Program is one of seven programs within the College of Arts, Business, Law, Education and IT. The IT Program offers courses at the Footscray Park Campus, City Campus, VU Sydney Campus, and two offshore campuses in Sri Lanka (NSBM) and China (HeNan University).
-
-About the Role:
-
-As a Level B Lecturer in the Information Technology Program, you will support the Program’s strategic growth through AI-enhanced software and systems education. The role focuses on integrating Generative AI and large language models (LLMs) into modern IT disciplines, including software development, cloud and mobile applications, UI/UX, and ICT project management.
-
-The Program is undertaking a major course-modernisation initiative that integrates large language models (LLMs) into learning, teaching, practice and assessment. This GenAI integration will help students master complex concepts faster and deliver sophisticated solutions that meet industry demand. Accordingly, the lecturer is expected to have solid experience in LLM calls, RAG, and copilot systems such as Claude Code or OpenAI Codex. He/she will lead the redevelopment of units (subjects) in software development, network management, project management, mobile app development, cloud app development, UI/UX, and will design sample theses and capstone projects—at both undergraduate and postgraduate levels—that demonstrate innovative LLM applications in an industry context and research.
-
-Position Key Duties 
-
-Teaching & coordination – Deliver and coordinate IT units onshore and at TNE partner locations experiencing staff shortages.
-
-Curriculum renewal – Convert existing units in software development, mobile and cloud apps, UI/UX, network management and ICT management into GenAI-integrated offerings.
-
-Research & innovation – Develop an applied LLM research agenda aligned with IT and AI, leading to Q1/CORE A* publications and showcase systems.
-
-Student experience – Design capstone projects and theses demonstrating industry-relevant GenAI applications.
-
-Academic service – Contribute to grants, collegial activities and inclusive teaching practices.
-
-Salary:  Academic B, $113,221 - $134,449 per annum plus 17% employer superannuation
-Employment Type:  3-year full-time fixed-term contract (potential for ongoing appointment after the course-modernisation project)
-Hours:  36.75 hours per week (1.0 FTE)
-Location: Located at our Footscray Park & City Tower Campus (may be relocated to any existing or future work location)
-
-For a detailed overview of the role’s duties and responsibilities, please refer to the Position Description – Lecturer in IT & AI
-
-About You: 
-
-You are an IT academic with strong AI capability and a commitment to innovative, practice-oriented education.
-
-You will bring:
-
-A PhD in IT, AI or a related field
-
-Demonstrated expertise in LLM APIs, RAG and AI copilots (e.g. Claude Code, OpenAI Codex)
-
-A strong research trajectory in applied AI and IT systems
-
-Proven success in curriculum innovation and student supervision
-
-Strong communication skills and a collaborative, student-focused approach
-
-How to Apply
-
-Applications must be submitted as a Single Document, with your name leading the document name, comprising
-
-A cover letter.
-
-Curriculum vitae.
-
-Response to the selection criteria.
-
-List of units (subjects) in the existing IT courses from the program/discipline (see on the VU course site) in three categories: 1) subjects you are able to teach, 2) subjects you have taught with special expertise, 3) subjects you have the ability to develop, particularly in the area of demand.
-
-Two best research publications.
-
-A sample program of LLMs’ application, including LLM API calls, parsing of returned JSON and follow-up processing, with a link to the demonstration of the system (or YouTube videos), and the application of copilots such as Claude Code.
-
-Recent teaching feedback.
-
-The University is a Child Safe organisation. You will be required to hold a current Working with Children Check (WWCC) or be willing to obtain one prior to commencing employment.
-
-Who to Contact?
-
-For further information or clarification regarding the selection criteria or the position, please contact the Head of IT Program, Professor Yuan Miao at yuan.miao@vu.edu.au
-
-Applications will close  Wednesday the 18th of February 2026 (11:59pm AEDT). This advert may close earlier should a suitable candidate be identified. Early applications are strongly encouraged.
-
-Visa sponsorship is not available for this position. This role requires for applicants to have full and permanent working rights in Australia.
-
-Why Join VU
-
-VU provides competitive salaries, excellent superannuation, and a variety of benefits. The university fosters an environment where staff can excel, achieve their goals, and develop their careers. With a focus on diversity, inclusion, and family-friendly policies, VU supports both professional and personal well-being. For more information, please visit our Careers at VU Webpage
-
-Our Commitment to Protecting Country
-
-Victoria University honours its deep diversity as a foundation for collaboration and social progress. We will demonstrate sensitivity in respecting First Nation perspectives. We will ensure that we respect our Indigenous voices and commit to sustainable Protecting Country. We will take leadership responsibility, in all that we do, to improve the health and wellbeing of our local and global communities, and the planet that we share. 
-
- Our Commitment to Progressive Inclusivity
-
-VU is an equal opportunity employer and proudly committed to progressive inclusivity. We welcome and celebrate diversity in all its forms including Aboriginal and Torres Strait Islander peoples, people with disability, culturally and racially marginalised communities, LGBTQIA+ individuals, and people of all ages and socio-economic backgrounds. We strive to reflect the communities we serve and foster an inclusive, respectful, and supportive environment where everyone feels they belong. We are proud to be a WGEA Employer of Choice for Gender Equality.
-
- Our Commitment to Inclusive Recruitment
-
-VU is committed to providing a positive and barrier-free recruitment experience. If you require adjustments at any stage of the recruitment process, including accessible formats of documents, please contact us at inclusivecareers@vu.edu.au or call (03) 9919 5999."
-89825806,Data Vault Modeller,Milestone Information Technology,https://www.seek.com.au/job/89825806?type=standard&ref=search-standalone&origin=jobCard#sol=fc223e7e6220fee4e410d2383ad3c529839a82e8,7h ago,7.0,2026-01-21T01:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Are you a specialist in scalable data architecture? Milestone IT is partnering with a leading enterprise client to secure a Data Vault Modeller for a high-priority build of their modern data platform.
-Our client is moving away from legacy constraints and building a robust, agile ecosystem. We need a practitioner who doesn't just understand the theory of Data Vault 2.0 but can translate those patterns into high-performance physical models.
-The Role: As the Lead Modeller, you will be the architect of truth for the platform. You will bridge the gap between complex business processes and the technical physical layer, ensuring the data warehouse is extensible, auditable, and performant.
-Key Responsibilities:
-
-Logical & Physical Design: Design and maintain Data Vault 2.0 artifacts (Hubs, Links, Satellites) and drive the physical implementation on the cloud platform.
-Optimization: Tailor physical data models for specific compute environments (e.g., Snowflake, Databricks, or BigQuery) to ensure query efficiency.
-Standards Leadership: Establish naming conventions, metadata standards, and modeling best practices across the engineering team.
-Collaboration: Work closely with Data Engineers to automate the loading patterns and with Analysts to develop performant ""Information Marts.""
-Your Technical Toolkit
-Data Vault Mastery: Deep expertise in Data Vault 2.0 methodology (certification is a major plus).
-Physical Modelling: Proven experience in physical database design—indexing strategies, partitioning, and distribution keys.
-Tooling: Proficiency in modeling tools such as Erwin, SQLbm, or dbt.
-SQL Expert: Ability to write and optimize complex SQL in a distributed computing environment.
-Platform Experience: Experience building on modern cloud stacks (AWS, Azure, or GCP).
-
-Apply Now via the link below, or contact Tina M on 03-96706682 for a confidential discussion."
-89825656,IDAM Engineer,TAC,https://www.seek.com.au/job/89825656?type=standard&ref=search-standalone&origin=jobCard#sol=177ef234165aaa8a3b0d5c142eb30b51a79e3309,7h ago,7.0,2026-01-21T01:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)","Engineering - Network (Information & Communication Technology)
-Government - State (Government & Defence)",Full time,"$128,667 plus super and benefits","IDAM Engineer
-
-Full time, 12-month fixed term role
-Geelong office location, with flexible hybrid working (3 day office attendance required per week)
-Offering a competitive starting base salary of $128,667 plus super and benefits
-
- 
-
-Care in Action
-
-With a career at the TAC, you’ll be helping us look out for the lives of everyone who travels on Victoria’s roads. That’s care in action.
-
-Find out more about our shared purpose, and what drives every one of us.
-
-Right now, we’re seeking an IDAM Engineer who will play their part in this shared purpose, while also supporting the progress of clients and colleagues so they can achieve great things. That’s truly rewarding work that will help us continue to deliver life-critical services where it matters. 
-
- 
-
-About the role
-
-We’re seeking a highly skilled IDAM Engineer to lead the design and delivery of secure, efficient, and compliant identify and access management solutions within the TAC’s Microsoft Program. This role will focus on implementing Microsoft Entra ID capabilities, while ensuring seamless integration with existing platforms like Okta and One Identity.
-
-You’ll be responsible for configuring identity lifecycle management, entitlement and privileged access controls, and authentication protocols such as MFA and SSO. You’ll also play a key role in developing automated governance workflows and supporting compliance with industry standards.
-
- 
-
-About the Team
-
-You’ll join a collaborative, cloud-focused team that’s driving digital transformation across the TAC. The MPower Program is a cornerstone of this work, and the IDAM stream is critical to ensuring secure and streamlined access for all users. This role will form part of a cross-functional cloud team delivering across cloud platforms such as M365, Azure, Dynamics 365 and Power Platform and building integrated, scalable solutions that support TAC’s mission and compliance obligations.
-
- 
-
-What we’re looking for
-
-Expertise in Microsoft Entra ID & Identity Governance
-
-You have experience designing and managing Microsoft Entra ID environments, including identity lifecycle, access reviews, and privileged identity management.
-
-Integration & Automation Skills
-
-You’re using tools like PowerShell, Azure DevOps and GitHub to automate identity workflows and operations, including integrating Entra ID with platforms like Okta and One Identity.
-
-Security & Compliance Focus
-
-You understand authentication protocols, conditional access, and compliance frameworks (ISO27001, NIST, CIS), and can apply them practically to ensure TAC’s identity environment is secure and audit ready.
-
- 
-
-Why you’ll love it here
-
-There’s more to work than a competitive salary and amazing employee benefits. As our newest IDAM Engineer you’ll also:
-
-Be rewarded for great work
-
-We value our people, offering a corporate incentive, salary packaging and a reward and recognition program.
-
-Grow and go places
-
-We’re invested in your progress. When you work for one of Victoria’s largest and leading workplaces, you’ll receive extensive internal opportunities for development and access to the LinkedIn Learning Digital Hub.
-
-Achieve, together
-
-We’re a collaborative and empathetic workplace. Work alongside your team to make a truly positive difference to people’s lives.
-
- 
-
-Ready to put care in action? We’d like to hear from you.
-
-Click apply to submit your Cover Letter and Resume. If successful, you’ll progress to an interview. All applicants will be advised of the outcome of their application.
-
-For more information, read the attached Position Description or contact Nicola_mclennan@tac.vic.gov.au for a confidential discussion. Applications for this role will be accepted up until 11:55pm on Wednesday the 4th of February 2026.
-
-If we can do anything to help make applying for this role easier, please let our Talent Acquisition Team know at recruitment@tac.vic.gov.au. If over the phone is better for you, our number is 5225 7500.
-
- 
-
-A safe place to work
-
-We’re committed to the health, safety and wellbeing of employees. This extends to inclusion, diversity and accessibility in our employment practices. We encourage Aboriginal and Torres Strait Islander people, people with disability, men, women and gender diverse people, culturally diverse and LGBTIQA+ people to apply for our roles.
-
- 
-
-Child Safety
-
-At the TAC we are committed to the safety of children and young people. For more information regarding our commitment to child safety, please visit our website. 
-
- IDAM Engineer - Position Description.pdf"
-89821806,Artificial Intelligence Manager,James Hardie,https://www.seek.com.au/job/89821806?type=standard&ref=search-standalone&origin=jobCard#sol=28bc56d3bb13ef47904413c5c7785ffb88ed168f,10h ago,10.0,2026-01-20T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"James Hardie Industries is the world’s #1 producer and marketer of high-performance building solutions. As a local manufacturer, trusted innovator and industry leader James Hardie empowers homeowners and trade professionals to achieve dream modern homes with premium quality solutions that deliver endless design possibilities, trusted protection, and long-lasting beauty.
-  
-With a diverse workforce across Asia Pacific, our company culture is built on providing a foundation of “Zero Harm” and creating a positive impact in communities. We have a relentless focus on achievement, learning and continuous improvement.
-
-The Opportunity
-
-We’re looking for a visionary Artificial Intelligence (AI) Manager to lead the development and deployment of AI solutions across the APAC region.
-
-Reporting to the Head of Information Technology – APAC, you’ll be the regional champion for AI—driving innovation, embedding intelligent technologies into core operations, and delivering measurable business outcomes.
-
-What you’ll do
-
-Develop and execute a comprehensive AI roadmap for APAC
-Lead end-to-end AI solution development and deployment
-Champion responsible AI and foster a culture of innovation
-Collaborate across IT, data, product, and business teams
-Mentor and build high-performing AI teams
-Define KPIs and communicate insights to senior leadership
-Standardize AI development and governance practices
-Deliver training programs to build AI literacy across the business
-  
-What you’ll bring
-
-Minimum 8 years’ experience in AI/ML or data science, with 3+ years in leadership
-Expertise in AI/ML frameworks (TensorFlow, PyTorch) and cloud platforms (Azure, AWS, GCP)
-Strong understanding of data engineering and governance
-Proven ability to drive AI strategy and deliver measurable business outcomes
-Bachelor’s degree in Computer Science, AI, Data Science, or related field (Master’s preferred)
-Excellent communication and stakeholder engagement skills
-Working @ James Hardie
-
-Stable growth at a global building products manufacturer
-Bonus scheme for all eligible employees
-Ability to take part in an Employee Share Scheme
-Fitness Passport Program
-Product discounts
-Paid parental leave of 16 weeks for the Primary Carer and 2 weeks for the Secondary Carer
-2 Volunteer days per year
-A robust rewards and recognition program
-Online shopping discounts
-International & domestic development and progression opportunities
-Access to thousands of free self-development modules via James Hardie University
-Employee Assistance Program access for you & your immediate family members
-Proudly providing Australian Made fibre cement to the market for over 100 years.
-   
-It’s Possible™ with James Hardie"
-89818940,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89818940?type=standard&ref=search-standalone&origin=jobCard#sol=2f640458354482ad5151236bb63ddf47bdbde9d1,18h ago,18.0,2026-01-20T14:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
-
-
-
-
-This is your opportunity to join our team of forward-thinking, change-making individuals. Operating at the intersection of health and tech, you'll help us shape the future of healthcare. 
-
-Our Mission
-
-Healthengine’s mission is to improve access to healthcare by helping Australians find and connect with all care providers. We strive to achieve this through Australia’s leading healthcare marketplace, bringing together over 4 million active Australians, and more than 10 thousand practitioners that are powered by our technology - and growing.
-
-We’re all patients, right? So, it’s easy to get behind a mission that seeks to improve the healthcare experience for all Australians. 
-
-
-
-
-
-
-
-Job Description
-
-
-
-
-The Gig
-
-This role sits at the intersection of enablement, innovation, and scaling—supercharging every engineer with advanced AI tools and workflows while exploring and prototyping the latest in AI developer technology. You'll also help standardise secure, high-performing AI environments across the business.
-
-If your background is primarily in data analysis, reporting, or BI, this role is unlikely to be a good fit.
-
-Responsibilities:
-
-Continuously explore, evaluate, and test emerging AI technologies to identify opportunities that could enhance engineering productivity and developer experience
-
-Monitor the performance, adoption, and effectiveness of existing engineering tools to understand usage patterns, gaps, and opportunities for improvement
-
-Build quick, effective prototypes, such as prompts or workflows that enable engineers to auto-generate Jira tasks, trigger background agents, and create PR-ready code with minimal input.
-
-Provide guidance and hands-on support to engineers looking to elevate their AI tooling skills
-
-Track and optimise AI tooling and infrastructure costs to ensure efficient, scalable, and sustainable usage across the engineering organisation.
-
-Care and commitment to information security practices to protect Healthengine and its customers
-
-About You
-
-You're the kind of person who takes accountability in a fast-paced, autonomous and flexible environment. Fast may be your default (like us!) but you never, ever compromise on what’s important, willing to take a steady, more informed approach when it comes to maintaining the trust of our team and customers. You handle change like a pro, and continuous improvement is a way of life. You are not afraid to speak up and share your thoughts respectfully, with the intention of making positive change. You take initiative and drive your own learning journey without waiting for someone to point you in the right direction. And ultimately, you care: about people, health and innovation. 
-
-Experience you’ll bring:
-
-Demonstrated track record of delivery of major technical initiatives, particularly those focused on developer tooling or internal platforms.
-
-Typically 4+ years successful execution at the Senior Engineer role or higher.
-
-Proven experience designing, building, and deploying AI-powered developer tools or workflows (e.g., code generation, task automation, prompt engineering).
-
-Hands-on experience with LLMs/Generative AI technologies and platforms (e.g., prompt development, fine-tuning, RAG architectures, model integration).
-
-Experience with engineering productivity metrics, monitoring, and optimization of internal tooling adoption and effectiveness.
-
-Experience using and implementing CI/CD systems, with an emphasis on automation within the SDLC.
-
-Demonstrated experience mentoring, training, and providing hands-on support to engineers on new tools and best practices.
-
-Familiarity with cloud platforms (e.g., AWS, GCP) and containerization technologies (e.g., Kubernetes) is a plus, but not the primary focus.
-
-
-
-
-
-
-
-Additional Information
-
-
-
-
-The perks behind the work
-
-Healthengine is where you’ll be your best self. You’ll collaborate with smart, interesting people who will challenge you to be better. You will learn a lot and grow even more. Healthengine is the ideal workplace to bring ideas, make change and leave a lasting impact on your team and the industry. 
-
-In addition to an array of growth opportunities, we also offer:
-
-A hybrid workplace that offers flexibility to balance work and life
-
-A vibrant social calendar of events, quarterly team-building activities and more
-
-Unlimited coffee and snacks, and a subsidised vending machine in our Perth office 
-
-Awesome discounts and salary packaging options through our benefit partner, Maxxia
-
-Access to learning resources to develop your personal and professional skills 
-
-Workplace wellness program, including extra leave and access to EAP and other wellbeing resources
-
-Extra leave so you can recharge and focus on your wellbeing 
-
-Support for you when it comes time to grow your family with paid parental leave
-
-We're proud to share that Healthengine ranked 13th Best Workplace in Technology 2023 and are a certified Great Place to Work in Australia 2025/26.
-
-Diversity and inclusion
-
-At Healthengine, we believe in the power of a diverse work environment to fulfil our mission and better serve our providers and patients. We’ve created a culture that genuinely values diverse perspectives and backgrounds, knowing that our differences can inspire new ideas. We are fully committed to building and maintaining our inclusive environment where all voices are respected and heard. If you think you have what it takes but don't check all the boxes, reach out anyway - we’d love to hear from you."
+We’re ready to hear from you. Apply now."
