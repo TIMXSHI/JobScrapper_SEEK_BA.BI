@@ -1,5 +1,219 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89826248,AI Engineer,u&u. Recruitment Partners,https://www.seek.com.au/job/89826248?type=standard&ref=search-standalone&origin=jobCard#sol=b5d4a181dcb05bb0fbf1aec785e22b46e82e73ee,1h ago,1.0,2026-01-21T01:00:00+00:00,Brisbane QLD,Engineering - Software (Information & Communication Technology),Full time,,"This is an exciting opportunity to be at the forefront of Data Analytics and Artificial Intelligence for one of Queensland’s most well respected organisations. You will join a high impact transformation program where AI is being embedded into real enterprise operations, delivering measurable business outcomes across finance, ERP, and customer service environments.
+89827950,Data Engineer,St Vincent's Health Australia,https://www.seek.com.au/job/89827950?type=standard&ref=search-standalone&origin=jobCard#sol=e6547fb1571b20df744f2aba38a39973a59f2eea,2h ago,2.0,2026-01-21T02:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive salary packaging available,"About the role
+St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
+
+St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. We are seeking a high-calibre Senior Data Engineer to be a foundational senior leader of this transformation. This is a chance to build greenfield, mission-critical infrastructure that defines the national standard for a unified data platform and ethical AI deployment in healthcare.
+
+You will work closely with the Data & AI Platform lead, Data & AI Engineering & Analytics teams and clinical and operational stakeholders to deliver governed, high-performing and scalable data solutions across one of Australia's most diverse health and aged care ministries.
+
+This role is central to enabling remote patient monitoring, virtual care, AI-assisted clinical decision support and predictive analytics models that enhance safety, reduce administrative burden and improve care outcomes across our public hospitals, private hospitals, aged care services and virtual health programs.
+
+What you'll do
+
+Build, optimise and maintain enterprise-grade data pipelines (ETL/ELT) across Azure Data Factory, Databricks/Fabric and SQL/Analysis Services
+Gather, profile and integrate data from multiple systems to feed our Data Lakehouse and analytical models
+Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
+Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
+Deliver optimized business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
+Deliver optimised business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
+Develop and maintain Infrastructure as Code (IaC) templates to manage Azure data resources programmatically
+Support AI readiness by designing and building ML- and Generative-AI-optimised pipelines, including Vector Database pipelines (for RAG architectures) and governed feature stores
+Collaborate with Data Scientists to operationalise machine learning models (MLOps), managing model registries, feature stores, and drift monitoring
+Contribute to AI system governance by implementing data lineage, bias detection, and PII masking techniques within the data pipelines to ensure patient privacy and responsible data use
+Identify new opportunities for data gathering including the ingestion of unstructured data (clinical notes, images) to support downstream AI applications
+
+What you'll bring
+
+5+ years' experience in data engineering, data management and data warehousing.
+Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
+Minimum 5 years' experience in data engineering, data management, data modelling, data architecture and data warehousing technologies and practices
+Demonstrable recent experience (ideally at least three years) in ETL and data warehouse solution design on Microsoft Azure platforms, including Azure Data Factory
+Strong hands-on experience with Azure Data Factory, SQL, Python/Scala and modern Data Lakehouse platforms (Databricks or Microsoft Fabric)
+Experience with modern Data Lakehouse architectures blending data warehousing and data science capabilities
+Solid understanding of dimensional modelling, star schema design and cloud data architectures
+Sound knowledge of Relational Database management concepts and data modelling
+Experience building optimised pipelines for ML/AI applications, or a desire to deepen skills in this area
+Familiarity with Power BI, Analysis Services and enterprise reporting ecosystems
+Excellent business acumen with the ability to work with stakeholders at all levels
+
+Desirable Skills
+
+Knowledge and experience of the health industry
+Exposure to structured/unstructured data, big data architecture and predictive analytics solutions
+Knowledge of Generative AI concepts, including Prompt Engineering, RAG architectures, vector databases, and using Azure OpenAI Service
+Familiarity with containerisation (Docker, Kubernetes) for deploying data applications
+Data, infrastructure and/or AI certifications by recognised providers
+
+Why join St Vincent's
+
+Be part of a mission-driven organisation shaping the future of Australian healthcare
+Work with a high-calibre data and digital community committed to innovation, advanced analytics and responsible AI
+Flexible hybrid working across Melbourne, Sydney or Brisbane
+Opportunities for learning, development and progression across a national organisation
+Your work will directly improve patient safety, aged care support and wellbeing for thousands of Australians each day
+Competitive salary packaging options
+Discounted private health insurance
+Employee Assistance Program for staff and their families
+Access to the Fitness Passport (FP)
+
+At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
+
+Pre-Employment Checks
+
+Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
+
+Equal Opportunity
+
+We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone.
+
+How To Apply
+
+Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
+
+Respectfully, no recruitment agencies."
+89827801,Data Engineer,St Vincent's Health Australia,https://www.seek.com.au/job/89827801?type=standard&ref=search-standalone&origin=jobCard#sol=5deb146a065c77a4527ce1100601a7a112ee4cf4,2h ago,2.0,2026-01-21T02:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive salary packaging available,"About the role
+
+St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
+
+St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. We are seeking a high-calibre Senior Data Engineer to be a foundational senior leader of this transformation. This is a chance to build greenfield, mission-critical infrastructure that defines the national standard for a unified data platform and ethical AI deployment in healthcare.
+
+You will work closely with the Data & AI Platform lead, Data & AI Engineering & Analytics teams and clinical and operational stakeholders to deliver governed, high-performing and scalable data solutions across one of Australia's most diverse health and aged care ministries.
+
+This role is central to enabling remote patient monitoring, virtual care, AI-assisted clinical decision support and predictive analytics models that enhance safety, reduce administrative burden and improve care outcomes across our public hospitals, private hospitals, aged care services and virtual health programs.
+
+What you'll do
+
+Build, optimise and maintain enterprise-grade data pipelines (ETL/ELT) across Azure Data Factory, Databricks/Fabric and SQL/Analysis Services
+Gather, profile and integrate data from multiple systems to feed our Data Lakehouse and analytical models
+Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
+Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
+Deliver optimized business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
+Deliver optimised business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
+Develop and maintain Infrastructure as Code (IaC) templates to manage Azure data resources programmatically
+Support AI readiness by designing and building ML- and Generative-AI-optimised pipelines, including Vector Database pipelines (for RAG architectures) and governed feature stores
+Collaborate with Data Scientists to operationalise machine learning models (MLOps), managing model registries, feature stores, and drift monitoring
+Contribute to AI system governance by implementing data lineage, bias detection, and PII masking techniques within the data pipelines to ensure patient privacy and responsible data use
+Identify new opportunities for data gathering including the ingestion of unstructured data (clinical notes, images) to support downstream AI applications
+
+What you'll bring
+
+5+ years' experience in data engineering, data management and data warehousing.
+Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
+Minimum 5 years' experience in data engineering, data management, data modelling, data architecture and data warehousing technologies and practices
+Demonstrable recent experience (ideally at least three years) in ETL and data warehouse solution design on Microsoft Azure platforms, including Azure Data Factory
+Strong hands-on experience with Azure Data Factory, SQL, Python/Scala and modern Data Lakehouse platforms (Databricks or Microsoft Fabric)
+Experience with modern Data Lakehouse architectures blending data warehousing and data science capabilities
+Solid understanding of dimensional modelling, star schema design and cloud data architectures
+Sound knowledge of Relational Database management concepts and data modelling
+Experience building optimised pipelines for ML/AI applications, or a desire to deepen skills in this area
+Familiarity with Power BI, Analysis Services and enterprise reporting ecosystems
+Excellent business acumen with the ability to work with stakeholders at all levels
+
+Desirable Skills:
+
+Knowledge and experience of the health industry
+Exposure to structured/unstructured data, big data architecture and predictive analytics solutions
+Knowledge of Generative AI concepts, including Prompt Engineering, RAG architectures, vector databases, and using Azure OpenAI Service
+Familiarity with containerisation (Docker, Kubernetes) for deploying data applications
+Data, infrastructure and/or AI certifications by recognised providers
+
+Why join St Vincent's
+
+Be part of a mission-driven organisation shaping the future of Australian healthcare
+Work with a high-calibre data and digital community committed to innovation, advanced analytics and responsible AI
+Flexible hybrid working across Melbourne, Sydney or Brisbane
+Opportunities for learning, development and progression across a national organisation
+Your work will directly improve patient safety, aged care support and wellbeing for thousands of Australians each day
+Competitive salary packaging options
+Discounted private health insurance
+Employee Assistance Program for staff and their families
+Access to the Fitness Passport (FP)
+
+At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
+
+Pre-Employment Checks
+
+Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
+
+Equal Opportunity
+
+We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone.
+
+How To Apply
+
+Please submit your application via the Apply button, include your resume and a brief cover letter outlining your experience and suitability.
+
+Respectfully, no recruitment agencies."
+89827743,Data Engineer,St Vincent's Health Australia,https://www.seek.com.au/job/89827743?type=standard&ref=search-standalone&origin=jobCard#sol=e6a0ee64950b98efcd2b1ed2649d3206bce9bf5a,2h ago,2.0,2026-01-21T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive salary packaging available,"About the role
+
+St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
+
+St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. We are seeking a high-calibre Senior Data Engineer to be a foundational senior leader of this transformation. This is a chance to build greenfield, mission-critical infrastructure that defines the national standard for a unified data platform and ethical AI deployment in healthcare.
+
+You will work closely with the Data & AI Platform lead, Data & AI Engineering & Analytics teams and clinical and operational stakeholders to deliver governed, high-performing and scalable data solutions across one of Australia's most diverse health and aged care ministries.
+
+This role is central to enabling remote patient monitoring, virtual care, AI-assisted clinical decision support and predictive analytics models that enhance safety, reduce administrative burden and improve care outcomes across our public hospitals, private hospitals, aged care services and virtual health programs.
+
+What you'll do
+
+Build, optimise and maintain enterprise-grade data pipelines (ETL/ELT) across Azure Data Factory, Databricks/Fabric and SQL/Analysis Services
+Gather, profile and integrate data from multiple systems to feed our Data Lakehouse and analytical models
+Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
+Own the pipelines that ingest complex FHIR and HL7 streams from our multi-EMR landscape, translating disparate clinical formats into a standardised, unified Silver Layer
+Deliver optimized business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
+Deliver optimised business solutions by data modelling/data architecture, performing impact/risk/gap analysis, identification of facts, dimensions, aggregates and hierarchies
+Develop and maintain Infrastructure as Code (IaC) templates to manage Azure data resources programmatically
+Support AI readiness by designing and building ML- and Generative-AI-optimised pipelines, including Vector Database pipelines (for RAG architectures) and governed feature stores
+Collaborate with Data Scientists to operationalise machine learning models (MLOps), managing model registries, feature stores, and drift monitoring
+Contribute to AI system governance by implementing data lineage, bias detection, and PII masking techniques within the data pipelines to ensure patient privacy and responsible data use
+Identify new opportunities for data gathering including the ingestion of unstructured data (clinical notes, images) to support downstream AI applications
+
+What you'll bring
+
+5+ years' experience in data engineering, data management and data warehousing.
+Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
+Minimum 5 years' experience in data engineering, data management, data modelling, data architecture and data warehousing technologies and practices
+Demonstrable recent experience (ideally at least three years) in ETL and data warehouse solution design on Microsoft Azure platforms, including Azure Data Factory
+Strong hands-on experience with Azure Data Factory, SQL, Python/Scala and modern Data Lakehouse platforms (Databricks or Microsoft Fabric)
+Experience with modern Data Lakehouse architectures blending data warehousing and data science capabilities
+Solid understanding of dimensional modelling, star schema design and cloud data architectures
+Sound knowledge of Relational Database management concepts and data modelling
+Experience building optimised pipelines for ML/AI applications, or a desire to deepen skills in this area
+Familiarity with Power BI, Analysis Services and enterprise reporting ecosystems
+Excellent business acumen with the ability to work with stakeholders at all levels
+
+Desirable Skills:
+
+Knowledge and experience of the health industry
+Exposure to structured/unstructured data, big data architecture and predictive analytics solutions
+Knowledge of Generative AI concepts, including Prompt Engineering, RAG architectures, vector databases, and using Azure OpenAI Service
+Familiarity with containerisation (Docker, Kubernetes) for deploying data applications
+Data, infrastructure and/or AI certifications by recognised providers
+
+Why join St Vincent's
+
+Be part of a mission-driven organisation shaping the future of Australian healthcare
+Work with a high-calibre data and digital community committed to innovation, advanced analytics and responsible AI
+Flexible hybrid working across Melbourne, Sydney or Brisbane
+Opportunities for learning, development and progression across a national organisation
+Your work will directly improve patient safety, aged care support and wellbeing for thousands of Australians each day
+Competitive salary packaging options
+Discounted private health insurance
+Employee Assistance Program for staff and their families
+Access to the Fitness Passport (FP)
+
+At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
+
+Pre-Employment Checks
+
+Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
+
+Equal Opportunity
+
+We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone.
+
+Respectfully, no recruitment agencies."
+89826248,AI Engineer,u&u. Recruitment Partners,https://www.seek.com.au/job/89826248?type=standard&ref=search-standalone&origin=jobCard#sol=cb1797d9487d56d1cd730cbe37f2349f963205cc,2h ago,2.0,2026-01-21T02:00:00+00:00,Brisbane QLD,Engineering - Software (Information & Communication Technology),Full time,,"This is an exciting opportunity to be at the forefront of Data Analytics and Artificial Intelligence for one of Queensland’s most well respected organisations. You will join a high impact transformation program where AI is being embedded into real enterprise operations, delivering measurable business outcomes across finance, ERP, and customer service environments.
  
 I am looking for an experienced AI Engineer who can design, build, and operationalise production grade, agentic AI solutions. This role is ideal for someone who understands how to move AI beyond experimentation and into safe, reliable, observable, and auditable enterprise workflows.
  
@@ -53,7 +267,7 @@ Additionally, for a barrier-free and inclusive online experience, you can access
 Please submit your resume in Word format only.
 
 #SCR-greg-scharf"
-89825879,Lecturer in IT & AI,Victoria University,https://www.seek.com.au/job/89825879?type=standard&ref=search-standalone&origin=jobCard#sol=3fda0406def5d67103b3b98ca817f33a83cd69fe,1h ago,1.0,2026-01-21T01:00:00+00:00,"Footscray, Melbourne VIC","Teaching - Tertiary, Other (Education & Training)",Full time,"$113,221 – $134,449 per year","About VU:
+89825879,Lecturer in IT & AI,Victoria University,https://www.seek.com.au/job/89825879?type=standard&ref=search-standalone&origin=jobCard#sol=e950c6f4a1576e2149e5b01cd299a9032a257270,3h ago,3.0,2026-01-21T01:00:00+00:00,"Footscray, Melbourne VIC","Teaching - Tertiary, Other (Education & Training)",Full time,"$113,221 – $134,449 per year","About VU:
 
 At Victoria University, our aim is to be a global leader in dual-sector learning and research by 2028. Join us on the journey and help us achieve our strategic drives embedded in our Strategic Plan 2022-2028: Start well, finish brilliantly. One of the drivers “Thriving place to Study and Work” will enable us to continue to create places that our students and staff love to belong and feel immense pride.
 
@@ -145,7 +359,7 @@ VU is an equal opportunity employer and proudly committed to progressive inclusi
  Our Commitment to Inclusive Recruitment
 
 VU is committed to providing a positive and barrier-free recruitment experience. If you require adjustments at any stage of the recruitment process, including accessible formats of documents, please contact us at inclusivecareers@vu.edu.au or call (03) 9919 5999."
-89825806,Data Vault Modeller,Milestone Information Technology,https://www.seek.com.au/job/89825806?type=standard&ref=search-standalone&origin=jobCard#sol=73e603de64fd7af4dd4243036d7d074e2a1fb790,1h ago,1.0,2026-01-21T01:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Are you a specialist in scalable data architecture? Milestone IT is partnering with a leading enterprise client to secure a Data Vault Modeller for a high-priority build of their modern data platform.
+89825806,Data Vault Modeller,Milestone Information Technology,https://www.seek.com.au/job/89825806?type=standard&ref=search-standalone&origin=jobCard#sol=50195c9af57c58920d1ee784d9d71886e5a627c4,3h ago,3.0,2026-01-21T01:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Are you a specialist in scalable data architecture? Milestone IT is partnering with a leading enterprise client to secure a Data Vault Modeller for a high-priority build of their modern data platform.
 Our client is moving away from legacy constraints and building a robust, agile ecosystem. We need a practitioner who doesn't just understand the theory of Data Vault 2.0 but can translate those patterns into high-performance physical models.
 The Role: As the Lead Modeller, you will be the architect of truth for the platform. You will bridge the gap between complex business processes and the technical physical layer, ensuring the data warehouse is extensible, auditable, and performant.
 Key Responsibilities:
@@ -162,7 +376,7 @@ SQL Expert: Ability to write and optimize complex SQL in a distributed computing
 Platform Experience: Experience building on modern cloud stacks (AWS, Azure, or GCP).
 
 Apply Now via the link below, or contact Tina M on 03-96706682 for a confidential discussion."
-89825656,IDAM Engineer,TAC,https://www.seek.com.au/job/89825656?type=standard&ref=search-standalone&origin=jobCard#sol=f8fb9541bb34bf4fd103d7e55f04405b9b3b0667,1h ago,1.0,2026-01-21T01:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)","Engineering - Network (Information & Communication Technology)
+89825656,IDAM Engineer,TAC,https://www.seek.com.au/job/89825656?type=standard&ref=search-standalone&origin=jobCard#sol=c3dfb55085e034e8806455102b0177ed2f19b3b9,3h ago,3.0,2026-01-21T01:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)","Engineering - Network (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$128,667 plus super and benefits","IDAM Engineer
 
 Full time, 12-month fixed term role
@@ -250,7 +464,7 @@ Child Safety
 At the TAC we are committed to the safety of children and young people. For more information regarding our commitment to child safety, please visit our website. 
 
  IDAM Engineer - Position Description.pdf"
-89821806,Artificial Intelligence Manager,James Hardie,https://www.seek.com.au/job/89821806?type=standard&ref=search-standalone&origin=jobCard#sol=cb7de237b4761258df32faec98e5f14f82d32568,4h ago,4.0,2026-01-20T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"James Hardie Industries is the world’s #1 producer and marketer of high-performance building solutions. As a local manufacturer, trusted innovator and industry leader James Hardie empowers homeowners and trade professionals to achieve dream modern homes with premium quality solutions that deliver endless design possibilities, trusted protection, and long-lasting beauty.
+89821806,Artificial Intelligence Manager,James Hardie,https://www.seek.com.au/job/89821806?type=standard&ref=search-standalone&origin=jobCard#sol=cb541b40d5069b045bebf666460a08181fa07262,6h ago,6.0,2026-01-20T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"James Hardie Industries is the world’s #1 producer and marketer of high-performance building solutions. As a local manufacturer, trusted innovator and industry leader James Hardie empowers homeowners and trade professionals to achieve dream modern homes with premium quality solutions that deliver endless design possibilities, trusted protection, and long-lasting beauty.
   
 With a diverse workforce across Asia Pacific, our company culture is built on providing a foundation of “Zero Harm” and creating a positive impact in communities. We have a relentless focus on achievement, learning and continuous improvement.
 
@@ -296,7 +510,7 @@ Employee Assistance Program access for you & your immediate family members
 Proudly providing Australian Made fibre cement to the market for over 100 years.
    
 It’s Possible™ with James Hardie"
-89818940,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89818940?type=standard&ref=search-standalone&origin=jobCard#sol=b9ef419bae75b16fba679e8ce438273f4a2976f0,12h ago,12.0,2026-01-20T14:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+89818940,AI Software Engineer,HEALTHENGINE,https://www.seek.com.au/job/89818940?type=standard&ref=search-standalone&origin=jobCard#sol=27d69aad5b813af622f7ef494b434c364b79bf42,14h ago,14.0,2026-01-20T14:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 
