@@ -1,1 +1,60 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+89878766,Data Engineer,Earth AI,https://www.seek.com.au/job/89878766?type=standard&ref=search-standalone&origin=jobCard#sol=0557087c8b5693960c85430d535bd3c0ee05ba79,1h ago,1.0,2026-01-22T22:00:00+00:00,"Alexandria, Sydney NSW",Developers/Programmers (Information & Communication Technology),Full time,"$130,000 – $160,000 per year","EARTH AI is a fast-growing tech startup transforming the way critical metals are discovered. Founded in 2016 in Sydney, we are on a mission to secure the future of technology and infrastructure by responsibly sourcing the metals essential for global advancement. Using cutting-edge technology, we identify and develop new metal deposits with unmatched efficiency and sustainability. Our vision is to lead the industry by discovering and owning the majority of future metal deposits while becoming the most advanced, efficient, and responsible metal commodity company in the world.
 
+About the Role
+
+Earth AI is seeking an early to mid-career Data Engineer to join our AI & Geoscience team. This role is focused on building, operating, and scaling production-grade data systems that power Earth AI’s machine learning and analytics platforms. You will engineer data pipelines that transform raw, heterogeneous geoscience data, including geochemistry, geophysics, multispectral imagery, and drilling datasets into AI-ready, reproducible datasets. Working closely with our Senior AI Researcher, geoscientists, and geologists, you will help translate complex field and historical data into robust schemas and reliable data products used in modelling and decision-making.
+
+Key responsibilities:
+
+Engineer and maintain end-to-end data pipelines for ingestion, standardisation, and quality assurance of geoscience datasets;
+
+Build transformation and feature-engineering workflows that support analytics and machine learning use cases;
+
+Design and deploy scalable, production-quality ETL systems using Python and SQL;
+
+Develop reproducible datasets, schemas, and metadata standards suitable for AI training and inference;
+
+Operate data pipelines across local high-performance compute environments and cloud infrastructure;
+
+Apply best practices for geospatial data engineering, including CRS management, spatial joins, and large-scale performance optimisation;
+
+Work closely with AI researchers and geoscientists to define data requirements, validation criteria, and delivery timelines;
+
+Own data engineering tasks from design through deployment and ongoing maintenance;
+
+About You
+
+Tertiary qualification in Computer Science, Data Science, Software Engineering, or a related field;
+
+2–5 years’ experience as a Data Engineer (or similar role) delivering production data pipelines;
+
+Strong proficiency in Python and SQL, with experience building reliable, testable ETL workflows;
+
+Demonstrated experience managing the full data lifecycle, from raw ingestion to ML-ready outputs;
+
+Comfortable working with messy, real-world geoscience data, including missing metadata and evolving schemas;
+
+Experience with cloud object storage and common geospatial and tabular data formats;
+
+Working knowledge of geospatial data concepts and tooling (e.g. GeoPandas, GDAL, Rasterio, PostGIS, QGIS, or equivalents);
+
+Familiarity with version control, code review processes, and basic CI/CD;
+
+Strong systems thinking, attention to detail, and pragmatic engineering judgement;
+
+Clear communicator who can collaborate effectively with technical and domain experts;
+
+Experience with large-scale, distributed, time-series, or survey-grid datasets is highly regarded. 
+
+Why Join Us:
+
+Growth Opportunities: We support professional development and career advancement;
+
+Collaborative Environment: Work with a team of passionate and supportive colleagues;
+
+Competitive compensation package, plus quarterly performance bonus;
+
+Team lunches;
+
+Company retreats."
