@@ -1,5 +1,194 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89862989,AI Lead Engineer,Yarra Valley Water,https://www.seek.com.au/job/89862989?type=standard&ref=search-standalone&origin=jobCard#sol=02082ef292df46e45fa8fb9efb62bb213033bcaf,1h ago,1.0,2026-01-22T04:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+89864377,Infrastructure Design Engineer,Clicks IT Recruitment (NSW),https://www.seek.com.au/job/89864377?type=standard&ref=search-standalone&origin=jobCard#sol=a5b8a8e2295289d51cf2264aa575fb9efac19db4,1h ago,1.0,2026-01-22T05:00:00+00:00,"Ultimo, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,$750 - $800 p.d.,"I'm looking for an experienced Infrastructure Design Engineer who enjoys sitting at the intersection of architecture and hands-on delivery. This role is all about translating high-level architectural concepts into practical, detailed technical designs that teams can actually build from.
+
+You'll work closely with an established Architecture function to co-design infrastructure solutions, review and challenge implementation approaches, and provide technical leadership as solutions move through delivery. If you enjoy being the ""technical glue"" between strategy and execution, this one's for you.
+
+What you'll be doing
+
+Partnering with the Architecture team to co-design infrastructure solutions
+Translating high-level concepts into detailed, build-ready technical designs
+Reviewing and validating implementation approaches
+Providing technical guidance and support to junior engineers during delivery
+Ensuring designs align with security, operational, and enterprise standards
+
+What you'll bring
+
+Strong hands-on capability across:
+
+Active Directory
+Entra ID
+Windows 11
+Group Policy
+Microsoft 365
+MECM / Intune
+Splunk
+Device vulnerability management, including patching and remediation
+
+You'll be comfortable operating in complex environments, confident in your design decisions, and able to clearly articulate why a solution works, not just how.
+
+If you're an Infrastructure Engineer who enjoys design ownership, technical depth, and seeing solutions through from concept to delivery, I'd love to hear from you.
+
+Apply now or reach out for a confidential discussion.
+
+If you wish to apply for this position, please submit your resume by clicking the 'Apply Now' button.
+
+At Clicks we embrace diversity, inclusion and equal opportunity. First Nations people are encouraged to apply.
+
+We provide reasonable adjustments, including alternate formats to the recruitment process for individuals with disability. If you require an adjustment to be made during the recruitment process, please call 1300 254 257 or email adjustments@clicks.com.au"
+89863486,Data and Analytics Technical Lead,Yarra Valley Water,https://www.seek.com.au/job/89863486?type=standard&ref=search-standalone&origin=jobCard#sol=ff41b6983495e6a6def0eb083a0f7548e0f1866c,1h ago,1.0,2026-01-22T05:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+Government - State (Government & Defence)",Contract/Temp,"Up to $181,800 TRP (inclusive of 12% Super)","Position overview
+
+2-Year Maximum-Term Contract, Full-Time opportunity
+True hybrid working - work from home and our Mitcham office
+$181,800 Total Remuneration Package per annum (inclusive of 12% superannuation)
+
+About us
+We're on a mission to create a brighter future, where you can be a change maker at the actual source. We're one of Australia's largest water utilities with over 30% of Victoria's population relying on us for their essential water and sanitation services.
+
+Our award-winning culture fosters an inclusive, collaborative, and flexible environment that enables our people to thrive. Here, you'll be inspired and challenged to grow alongside us.
+
+We're committed to reconciliation and supporting the self-determined role for Traditional Owners/Custodians in water and land management.
+
+The Role
+The Technical Lead will drive the design, delivery, and evolution of YVW's next-generation data platform, with end-to-end accountability for migrating our legacy finance system to modern platforms to underpin improved financial integrity, regulatory confidence, operational insight and decision-making. You will lead all phases of data ingestion, complex transformations, and enhancements, while also redesigning and optimising existing Enterprise, Data and Analytics (EDA) platform solutions to deliver scalable, automated, and high-performance data pipelines.
+
+Reporting directly to the Head of Data & Analytics, you will provide hands-on technical leadership across multi-disciplinary teams and contractors, ensuring solutions are delivered on time, to specification, and aligned to enterprise architecture and governance standards. This is a highly visible and strategic role, combining deep technical expertise, data engineering mastery, scripting proficiency, and delivery leadership with the ability to influence and guide senior stakeholders and vendor partners.
+
+You will also be responsible for reverse engineering existing ETL jobs, stored procedures, and reporting logic, modernising and optimising them for maintainability, performance, and automation, ensuring the platform delivers trusted, accurate, and timely reporting and analytics.
+
+Working closely with Project Managers, data engineers, delivery leads, analysts, architects, vendors, and business stakeholders, you will drive delivery excellence across all initiatives. This role is ideal for an experienced technical leader who thrives in complex, high-impact environments and is motivated by shaping the future of enterprise data at scale.
+
+Your key responsibilities
+
+Lead the end-to-end delivery of data migration, data engineering, and transformation initiatives across Finance domains (General Ledger, Accounts Payable/Receivable, Asset Accounting, Payroll, Procurement, Treasury) on Azure and Databricks, ensuring automation, scalability, reliability, and high data quality.
+Own data migration strategy, designs, and execution, including planning, remediation, and data quality validation throughout all phases of the migration.
+Provide hands-on technical leadership across multi-disciplinary teams and contractors, guiding delivery of migration, engineering, analytics, and EDA optimisation initiatives.
+Redesign, refactor, and optimise existing data pipelines, transformations, and models on the EDA platform to improve performance, maintainability, and alignment with target architecture.
+Assess current EDA solutions and identify opportunities to simplify logic, remove duplication, and retire technical debt.
+Architect, develop, and optimise scalable data pipelines, lakehouse architectures, and reusable data products.
+Lead complex legacy-to-cloud data migrations, including reverse engineering ETL jobs, stored procedures, and reporting logic, and re-engineering them for performance, automation, and maintainability.
+Design and implement enterprise-grade data models and semantic layers to support analytics, operational reporting, and future machine learning use cases.
+Ensure migrated and redesigned data assets are fully reconciled, validated, and fit for business consumption.
+Enable self-service analytics through well-curated, trusted datasets and Power BI semantic models.
+Implement CI/CD and DevOps practices to automate data ingestion, transformation, testing, and deployment.
+Enforce data governance, quality, security, and documentation standards across the data platform.
+Conduct data discovery and profiling of legacy and source systems to identify quality issues, gaps, risks, and ownership responsibilities.
+Develop and maintain source-to-target data mappings and support ETL processes using Databricks, SQL, and related technologies.
+Execute mock migrations, reconciliations, and validations across Dev, SIT, and UAT environments, documenting and resolving defects.
+Collaborate with business SMEs, analysts, and product owners to translate requirements into scalable, sustainable solutions.
+Provide technical oversight, assurance, and quality review of vendor-delivered solutions.
+Support Agile delivery, including estimation, planning, and management of technical dependencies.
+Mentor and coach data engineers and analysts, driving capability uplift, standards adoption, and delivery maturity.
+Drive continuous improvement across migration, data engineering, analytics, and EDA optimisation practices.
+
+What we're looking for
+
+Proven experience as a Tech Lead or Lead Data Engineer in complex enterprise environments.
+Delivering large-scale data migration projects, ideally within Finance systems
+Strong hands‑on expertise in data engineering, including ETL/ELT design, data modelling, and integration patterns.
+Demonstrated experience leading and delivering end‑to‑end data migration programs.
+Strong capability in reverse engineering undocumented or poorly documented legacy data solutions.
+Advanced Power BI experience, including semantic modelling, DAX, performance optimisation, and governance.
+Deep hands‑on experience with Microsoft Azure data services (e.g. Azure Data Lake, Data Factory, Azure SQL/Synapse, Databricks).
+Strong understanding of lakehouse architectures, scalable data pipelines, and modern analytics platforms.
+Experience implementing DevOps, CI/CD, and automation for data workloads.
+Strong stakeholder engagement and communication skills, with the ability to translate technical concepts for non‑technical audiences.
+Experience working in Agile, cross‑functional delivery environments.
+Demonstrated ability to manage multiple priorities under pressure, with excellent analytical and problem-solving skills.
+
+To view the full position description, click HERE.
+
+Why Yarra Valley Water?
+We celebrate and encourage new thinking at every level. Creating opportunities for you to grow - both professionally, and personally. When you flourish, we all do.
+
+$181,800 TRP per annum inclusive of 12% superannuation
+Flexible working arrangements where our people are empowered to design their days with their team. Read our hybrid playbook HERE.
+Free and secure on-site parking with on-site café at our Mitcham office.
+14 weeks paid leave parental leave.
+15 days paid personal leave, which can be used for caring, wellbeing, mental health, menstrual or menopause.
+Request to swap certain public holidays for another day of paid leave.
+
+To read more about our benefits and culture, read our employee handbook HERE.
+
+Did you know?
+Research shows that men apply to jobs when they meet an average of 60% of the criteria, while women and other marginalised people tend to only apply when they meet all of them. So, if you think you have what it takes, but don't necessarily tick every box, please apply or get in touch. We'd love to have a chat and see if you could be a great fit.
+
+How to apply
+Applications should include a supporting Cover Letter and Resume.
+Closing date: Thursday, 5th February 2026
+This position is available for Yarra Valley Water employees and external applicants.
+
+We welcome applications from everyone, including Aboriginal and/or Torres Strait Islander peoples, people with disability, mature age and young job seekers, members of the LGBTIQA+ community and people of all cultural backgrounds. If you need this information in an accessible format or would like to discuss reasonable adjustments during the recruitment process. Please call 03 9872 2599 or email dei@yvw.com.au. If you need any help with the application process or would like to discuss the recruitment process, please contact us via email recruit@yvw.com.au.
+
+Successful applicants must be eligible to work in Australia and agree to provide information for pre-employment checks, if required for the position. This may also include a Police Check or AusCheck, where an offer will be subject to a satisfactory outcome of these checks."
+89863383,Automation Engineer / Robot Programmer,Private Advertiser,https://www.seek.com.au/job/89863383?type=standard&ref=search-standalone&origin=jobCard#sol=43a8bd6a903b7ac1a778673f9a86449b87dab6df,1h ago,1.0,2026-01-22T05:00:00+00:00,"Eagle Farm, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $140,000 per year","Our client ""Industrial Automation Australia"" is seeking an Automation Engineer / Robot Programmer to join their team!
+
+This is an exceptional opportunity for a top-tier robotics professional to join one of Australia's fastest-growing automation firms. You'll work on cutting-edge robotic systems and automation solutions for leading manufacturers, taking on complex technical challenges that will shape the future of Australian industry. This senior, well-compensated role offers the chance to work with world-class KUKA robotics technology and lead innovative automation projects from concept to commissioning.
+
+About Our Client
+
+Industrial Automation Australia (IAA) is one of the fastest-growing robotics and automation firms in the country. Based in Brisbane with decades of engineering and fabrication experience, they design and deliver cutting-edge robotic systems, automation cells, and advanced manufacturing solutions to leading manufacturers across Australia. Their comprehensive capabilities span concept design, 3D simulation, fabrication, robotic integration, programming, and commissioning. As a KUKA Robotics partner, IAA is currently rolling out pilot projects with world-class automation technology that redefine how Australian manufacturers work.
+
+What you'll be doing?
+
+Robot Programming Excellence - Program and optimize industrial robots using advanced techniques, with preference for KUKA systems, ensuring peak performance across complex automation projects
+
+System Integration Leadership - Design, integrate, and commission complete robotic automation systems from initial concept through to fully operational production lines
+
+Technical Problem Solving - Apply high-level problem-solving skills to overcome complex technical challenges and optimize robotic system performance
+
+Electrical Implementation - Undertake electrical hookup, wiring, and comprehensive testing of sophisticated robotic systems
+
+Quality Assurance - Lead FAT and SAT processes to ensure automation projects meet the highest standards and client expectations
+
+Team Development - Guide and potentially manage small technical teams, sharing expertise and fostering professional growth
+
+Simulation and Programming - Utilize robot simulation software and offline programming to develop efficient, reliable automation solutions
+
+Who are they looking for?
+
+Extensive Robotics Experience - Minimum 5+ years of hands-on experience programming industrial robots, demonstrating proven expertise in complex automation projects
+
+KUKA Expertise Preferred - Strong capability with KUKA robotics systems, though exceptional candidates with other platforms will be considered
+
+PLC Integration Skills - Solid understanding of PLC programming and integration to ensure seamless automation system operation
+
+Simulation Proficiency - Experience with robot simulation software and offline programming techniques for efficient project development
+
+System Assembly Expertise - Proven track record in assembling, testing, and optimizing complete robotic systems from ground up
+
+Australian Residency - Must already be based in Australia, with interstate relocation support available for exceptional candidates
+
+Leadership Potential - Demonstrated ability to guide teams and take ownership of complex technical projects
+
+Why you should consider this opportunity?
+
+Our client offers an attractive remuneration package and other benefits, such as:
+
+Competitive Senior-Level Salary - Well-paid position reflecting the high-level expertise and experience required
+
+Cutting-Edge Technology Access - Work with world-class KUKA robotics technology and advanced automation systems
+
+Career Growth Potential - Leadership opportunities with ability to guide and manage technical teams
+
+Diverse Project Portfolio - Exposure to complex, high-profile automation projects across various industries
+
+Interstate Relocation Support - Assistance with relocation for exceptional candidates from other states
+
+Fast-Growing Company Environment - Join a rapidly expanding firm with significant growth opportunities
+
+Technical Challenge Variety - Work on projects spanning concept design through to full commissioning
+
+Industry Leadership Role - Contribute to redefining how Australian manufacturers operate through innovative automation
+
+How to apply
+
+Ready to join this role? Click Apply now to submit your resume and share your availability and expected salary with us!
+
+We encourage applications from all qualified professionals who are passionate about robotics and automation technology.
+
+All information received will be kept strictly confidential and will be used only for employment-related purposes."
+89862989,AI Lead Engineer,Yarra Valley Water,https://www.seek.com.au/job/89862989?type=standard&ref=search-standalone&origin=jobCard#sol=4fca6b682f230f548980111e1b539e28ee217a8e,2h ago,2.0,2026-01-22T04:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"Up to $180,000 TRP (inclusive of 12% Super)","Position overview
 
 Permanent, Full-time opportunity
@@ -64,7 +253,7 @@ This position is available for Yarra Valley Water employees and external applica
 We welcome applications from everyone, including Aboriginal and/or Torres Strait Islander peoples, people with disability, mature age and young job seekers, members of the LGBTIQA+ community and people of all cultural backgrounds. If you need this information in an accessible format or would like to discuss reasonable adjustments during the recruitment process. Please call 03 9872 2599 or email dei@yvw.com.au. If you need any help with the application process or would like to discuss the recruitment process, please contact us via email recruit@yvw.com.au.
 
 Successful applicants must be eligible to work in Australia and agree to provide information for pre-employment checks, if required for the position. This may also include a Police Check or AusCheck, where an offer will be subject to a satisfactory outcome of these checks."
-89862756,ActiveViam/ Java Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/89862756?type=standard&ref=search-standalone&origin=jobCard#sol=2f10640da341a33dba569134d22c6abb94cd37e1,1h ago,1.0,2026-01-22T04:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,fix-term salary or day rate option,"ActiveViam / Java Engineer Leading banking client (consulting through FinXL)
+89862756,ActiveViam/ Java Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/89862756?type=standard&ref=search-standalone&origin=jobCard#sol=3933fc324e8446061c2f8b2d9a5ea9eaf592dc14,2h ago,2.0,2026-01-22T04:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,fix-term salary or day rate option,"ActiveViam / Java Engineer Leading banking client (consulting through FinXL)
 
 FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
 
@@ -98,7 +287,7 @@ This role is also open to Sydney based candidates with existing work visa (e.g. 
 Next Steps
 
 Apply now highlighting relevant skills and experience and address your application to Julia Leung. Due to the high volume of applications only shortlisted candidates can be contacted."
-89861589,Senior Software Lead,Wabtec Australia,https://www.seek.com.au/job/89861589?type=standard&ref=search-standalone&origin=jobCard#sol=c556a75c3db298da74aa9245f779a75aee45635f,1h ago,1.0,2026-01-22T04:00:00+00:00,"Kent Town, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,,"Who are we?
+89861589,Senior Software Lead,Wabtec Australia,https://www.seek.com.au/job/89861589?type=standard&ref=search-standalone&origin=jobCard#sol=a31f4226d2864d0a3e01bed0475ffd58d7441478,2h ago,2.0,2026-01-22T04:00:00+00:00,"Kent Town, Adelaide SA",Engineering - Software (Information & Communication Technology),Full time,,"Who are we?
 
 Wabtec is a leading global provider of equipment, systems, digital solutions, and value-added services for the freight and transit rail sectors. Drawing on more than 150 years of experience, we are leading the way in safety, efficiency, reliability, innovation, and productivity. Whether it’s freight, transit, ports, logistics, mining, industrial, or marine, our expertise, technologies, and people together – are accelerating the future of transportation. With roots that date back to George Westinghouse, Thomas Edison, and Louis Faiveley, Wabtec has always built technologies and implemented solutions for a variety of sectors that are critical to meeting the needs of customers and governments alike.
 
@@ -186,7 +375,7 @@ Familiarity with railway inspection systems and associated standards.
 Experience with field support operations and remote troubleshooting.
 
 Familiarity with vision-based and acoustic inspection technologies."
-89860781,Cloud and Infrastructure Engineer,Ambition,https://www.seek.com.au/job/89860781?type=standard&ref=search-standalone&origin=jobCard#sol=07da1470151aebb67e01248a1bf4bb3845a8ea0b,1h ago,1.0,2026-01-22T04:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Full time,$130k - $135k p.a.,"Cloud & Infrastructure Engineer
+89860781,Cloud and Infrastructure Engineer,Ambition,https://www.seek.com.au/job/89860781?type=standard&ref=search-standalone&origin=jobCard#sol=f6dc0dcba3a8582ad1b1ca6696387e3025c0b918,3h ago,3.0,2026-01-22T03:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Full time,$130k - $135k p.a.,"Cloud & Infrastructure Engineer
 Sydney CBD | Permanent
 
 Join a high-performing, agile MSP in Sydney where you'll deliver end-to-end projects, work across hybrid and cloud environments, and have genuine influence over the solutions you design and implement.
@@ -212,7 +401,7 @@ Solid server and networking background
 Strong appreciation for security and compliance, with hands-on experience highly regarded
 
 If this role aligns with your experience and career goals, I'd like to hear from you. Apply now or contact me for a confidential discussion."
-89859582,Observability Engineer (Elastic),DevOps1,https://www.seek.com.au/job/89859582?type=standard&ref=search-standalone&origin=jobCard#sol=254b2c4c16eec19eed72ccdf7b2f33f968c06296,2h ago,2.0,2026-01-22T03:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Join DevOps1 – Where Innovation Meets Excellence
+89859582,Observability Engineer (Elastic),DevOps1,https://www.seek.com.au/job/89859582?type=standard&ref=search-standalone&origin=jobCard#sol=88ddc74c6b3a2b2b01a1b8779e361847af4fc48e,3h ago,3.0,2026-01-22T03:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Join DevOps1 – Where Innovation Meets Excellence
 
 About DevOps1
 
@@ -271,7 +460,7 @@ A collaborative, diverse, and forward-thinking environment.
 At DevOps1, we believe in pushing boundaries, fostering innovation, and delivering excellence. If you're looking for your next challenge, let's talk!
 
 📩 Apply now"
-89859151,"Data Engineer | Cloud, Databricks & AI Projects (Sydney)",DyFlex Solutions,https://www.seek.com.au/job/89859151?type=standard&ref=search-standalone&origin=jobCard#sol=2eb90c8231b8b7d06637d1007caa1c9dc29009b8,2h ago,2.0,2026-01-22T03:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
+89859151,"Data Engineer | Cloud, Databricks & AI Projects (Sydney)",DyFlex Solutions,https://www.seek.com.au/job/89859151?type=standard&ref=search-standalone&origin=jobCard#sol=b735ccb0fb96e7984f04c63af43fe98166fa9585,3h ago,3.0,2026-01-22T03:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 In 2025, we have been awarded
 
 
@@ -317,7 +506,7 @@ Join a renowned organisation delivering projects to some of Australia’s leadin
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-89857935,Data Architect - Advisory,KPMG,https://www.seek.com.au/job/89857935?type=standard&ref=search-standalone&origin=jobCard#sol=09e59415091350863ce94eb950787bb23e18286a,3h ago,3.0,2026-01-22T02:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,Our people build skills for the future,"Company Description
+89857935,Data Architect - Advisory,KPMG,https://www.seek.com.au/job/89857935?type=standard&ref=search-standalone&origin=jobCard#sol=555095441cc2adff7fbfe8de7abb291fc44aa846,4h ago,4.0,2026-01-22T02:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,Our people build skills for the future,"Company Description
 
 We reduce complexity and cost by delivering enterprise-grade data and AI platforms and solutions with minimal overhead – enabling smarter operations and insights without the cost and burden of fragmented systems.   
 
@@ -390,7 +579,7 @@ At KPMG, you’ll take control over how you work. We’re embracing a new way of
 Diverse candidates have diverse needs. During your recruitment journey, information will be provided about adjustment requests. If you require additional support before submitting your application, please contact the Talent Attraction Support Team.
 
 At KPMG every career is different, and we look forward to seeing how you grow with us."
-89857859,Automation Engineer,MHM Automation,https://www.seek.com.au/job/89857859?type=standard&ref=search-standalone&origin=jobCard#sol=4b5abd1ebe416510587f62ed34c22268f49fe5ea,3h ago,3.0,2026-01-22T02:00:00+00:00,"Eight Mile Plains, Brisbane QLD",Electrical/Electronic Engineering (Engineering),Full time,,"The Organisation:
+89857859,Automation Engineer,MHM Automation,https://www.seek.com.au/job/89857859?type=standard&ref=search-standalone&origin=jobCard#sol=7d02dd7b9be7391c4436446208c3fff5a725cba4,4h ago,4.0,2026-01-22T02:00:00+00:00,"Eight Mile Plains, Brisbane QLD",Electrical/Electronic Engineering (Engineering),Full time,,"The Organisation:
 
 MHM Automation (MHM) designs and delivers automated systems for the global food processing and logistics industries. Our solutions enhance efficiency, yield, and worker safety by integrating advanced technologies with innovative engineering.
 
@@ -448,7 +637,7 @@ MHM Automation has 4 product centres of excellence across Australia and New Zeal
 
 
 If this sounds just what you have been looking for, please apply on-line."
-89857853,Data Architect - Advisory,KPMG,https://www.seek.com.au/job/89857853?type=standard&ref=search-standalone&origin=jobCard#sol=3d509e3cc072dfa7cc15e34437a174554606b9bd,3h ago,3.0,2026-01-22T02:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,Our people build skills for the future,"Company Description
+89857853,Data Architect - Advisory,KPMG,https://www.seek.com.au/job/89857853?type=standard&ref=search-standalone&origin=jobCard#sol=d5d051f77d68c489bb827d1f601419eef67bc2c9,4h ago,4.0,2026-01-22T02:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,Our people build skills for the future,"Company Description
 
 We reduce complexity and cost by delivering enterprise-grade data and AI platforms and solutions with minimal overhead – enabling smarter operations and insights without the cost and burden of fragmented systems.   
 
@@ -521,7 +710,7 @@ At KPMG, you’ll take control over how you work. We’re embracing a new way of
 Diverse candidates have diverse needs. During your recruitment journey, information will be provided about adjustment requests. If you require additional support before submitting your application, please contact the Talent Attraction Support Team.
 
 At KPMG every career is different, and we look forward to seeing how you grow with us."
-89855926,Senior Machine Learning Engineer,The Onset,https://www.seek.com.au/job/89855926?type=standard&ref=search-standalone&origin=jobCard#sol=495aa64a819e11a59b8b0514434d8f246f09453a,4h ago,4.0,2026-01-22T01:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,"$165,000 + Super + Bonus","Here’s where you’ll work on greenfield, customer-facing machine learning products with visible impact on a high scale app and website. You’ll have the freedom to influence system design, choose appropriate technologies and deliver end-to-end solutions with less regulatory constraint than many industries.
+89855926,Senior Machine Learning Engineer,The Onset,https://www.seek.com.au/job/89855926?type=standard&ref=search-standalone&origin=jobCard#sol=3124f8796c1d1132a0b822a6967bf25837928f62,5h ago,5.0,2026-01-22T01:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,"$165,000 + Super + Bonus","Here’s where you’ll work on greenfield, customer-facing machine learning products with visible impact on a high scale app and website. You’ll have the freedom to influence system design, choose appropriate technologies and deliver end-to-end solutions with less regulatory constraint than many industries.
 
 Engineers operate in highly autonomous agile squads, giving you plenty of scope to shape how things are done while building your technical and leadership capabilities.
 
@@ -567,7 +756,7 @@ Sydney or Melbourne based.
 About the company One of the largest employers in Australia and New Zealand, operating a diverse portfolio of retail brands. Through its partnership with a data specialist firm, the employer brings together deep retail expertise and advanced data science and analytics capabilities to deliver data-driven solutions that support customer-facing digital products and large-scale retail operations.
 
 Please click the ‘Apply’ button. Don’t worry if your CV isn’t up to date. Just send what you have and we’ll deal with that later."
-89854148,Senior Integration Developer,Deakin University,https://www.seek.com.au/job/89854148?type=standard&ref=search-standalone&origin=jobCard#sol=c5c3ac122de779f897723c92ac57cc7c5fd49853,4h ago,4.0,2026-01-22T01:00:00+00:00,Melbourne VIC (Hybrid),"Developers/Programmers (Information & Communication Technology)
+89854148,Senior Integration Developer,Deakin University,https://www.seek.com.au/job/89854148?type=standard&ref=search-standalone&origin=jobCard#sol=27913282b7b71493518e7bbca80a3ecfa8d58777,6h ago,6.0,2026-01-22T00:00:00+00:00,Melbourne VIC (Hybrid),"Developers/Programmers (Information & Communication Technology)
 Other (Education & Training)",Full time,"• $118,801 - $136,018 (HEW 8) + 17% Superannuation","Why work with us?
 
 At Deakin you will have access to benefits such as a variety of leave options including generous parental leave and the ability to purchase additional leave; flexible working arrangements to help manage your work-life balance; ongoing learning and development opportunities to grow your career; an inclusive and supportive culture and environment to work in, both online and on campus.
@@ -638,7 +827,7 @@ We value diversity and aim to build an inclusive environment that champions, emb
 Pre-employment safety and suitability checks: In accordance with the National Higher Education Code to Prevent and Respond to Gender-based Violence, appointment to this role is subject to successful completion of relevant pre-employment checks, including Working With Children Checks and candidate gender-based violence declarations.   
 
 Candidates may be asked to declare whether they have been investigated for an allegation of Gender‑based Violence, or determined to have engaged in conduct that constitutes Gender‑based Violence during the course of their previous employment, or otherwise in a legal process.  A declaration is not required from individuals who have experienced gender‑based violence.  A ‘Yes’ response does not automatically exclude a candidate from employment, and any information provided will be treated confidentially and considered only for relevance to the role and the University’s safety obligations."
-89852313,Data Scientist,SEEK Limited,https://www.seek.com.au/job/89852313?type=standard&ref=search-standalone&origin=jobCard#sol=cc46d264767969b84f61fa7791437256b973e519,6h ago,6.0,2026-01-21T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
+89852313,Data Scientist,SEEK Limited,https://www.seek.com.au/job/89852313?type=standard&ref=search-standalone&origin=jobCard#sol=5cc7c51ea873ef209cee3da2705f88d5c50da948,7h ago,7.0,2026-01-21T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -722,7 +911,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-89852273,Senior Data Scientist,Lookahead,https://www.seek.com.au/job/89852273?type=standard&ref=search-standalone&origin=jobCard#sol=506264fffa05e6b0b16d94f41973685c7420b51d,6h ago,6.0,2026-01-21T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Role
+89852273,Senior Data Scientist,Lookahead,https://www.seek.com.au/job/89852273?type=standard&ref=search-standalone&origin=jobCard#sol=a50b86ddf192d9d54e8a6832b852d85750ad1473,7h ago,7.0,2026-01-21T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Role
 We’re hiring a Senior Data Scientist to join a high-growth, product-led technology company global scale-up.
   
 As the founding Data Scientist, you'll build traditional machine learning models for anomaly detection in unlabelled data - not another GenAI project. You'll explore massive datasets to identify adversarial behaviours, deploy ML models to detect automation across large-scale, high-velocity traffic, and build scalable real-time detection pipelines. This is a greenfield opportunity where you'll shape the data science function from the ground up.
@@ -739,7 +928,7 @@ The Offer
 A highly technical, collaborative team solving genuinely hard problems
 Flexible working hours and support for well-being
 Hybrid work arrangement - work from our Sydney / Melbourne office"
-89851687,Mechatronics Engineer,Boeing Aerostructures Australia,https://www.seek.com.au/job/89851687?type=standard&ref=search-standalone&origin=jobCard#sol=1fd7cf6bf958898cb52aa1a25e8456d09225467d,6h ago,6.0,2026-01-21T23:00:00+00:00,"Port Melbourne, Melbourne VIC",Other (Engineering),Full time,,"At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the sea bed to outer space, you’ll learn and grow, contributing to work that shapes the world. Find your future with us.
+89851687,Mechatronics Engineer,Boeing Aerostructures Australia,https://www.seek.com.au/job/89851687?type=standard&ref=search-standalone&origin=jobCard#sol=f3329a93707f82a251c71b77b73de594cce85faf,8h ago,8.0,2026-01-21T22:00:00+00:00,"Port Melbourne, Melbourne VIC",Other (Engineering),Full time,,"At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the sea bed to outer space, you’ll learn and grow, contributing to work that shapes the world. Find your future with us.
 
 
 
@@ -805,7 +994,7 @@ Boeing Aerostructures Australia is Australia's leading designer and manufacturer
 At Boeing Aerostructures Australia, we are committed to creating an inclusive and incident and injury free workplace, where employees can realise their career goals and make a positive contribution to Boeing’s success.
 
 If this role is you and you're excited by the opportunity to be part of building something amazing, we welcome your application."
-89851119,Data Annotator (AU),DroneShield,https://www.seek.com.au/job/89851119?type=standard&ref=search-standalone&origin=jobCard#sol=df7d250e87fadc3467a1bddd8dccca4a5c6348db,7h ago,7.0,2026-01-21T22:00:00+00:00,Sydney NSW (Remote),Other (Information & Communication Technology),Full time,,"Work with cutting edge AI technology, making the world a safer and more secure place. DroneShield (ASX:DRO) offers an opportunity to solve some of world’s most challenging technical problems in the rapidly growing counter-drone sector.   
+89851119,Data Annotator (AU),DroneShield,https://www.seek.com.au/job/89851119?type=standard&ref=search-standalone&origin=jobCard#sol=cb39ea63bb24b0d780738a746805e18a625822b6,8h ago,8.0,2026-01-21T22:00:00+00:00,Sydney NSW (Remote),Testing & Quality Assurance (Information & Communication Technology),Full time,,"Work with cutting edge AI technology, making the world a safer and more secure place. DroneShield (ASX:DRO) offers an opportunity to solve some of world’s most challenging technical problems in the rapidly growing counter-drone sector.   
 
 Our customers operate in some of the most challenging and high-stakes environments in the world, including military organisations, government agencies, airports, critical infrastructure operators, and law enforcement. Protecting airspace in these settings requires technology that performs under pressure and teams that understand what’s at stake. At DroneShield, employees work at the leading edge of counter-drone innovation, helping to address real-world security challenges as drone threats continue to evolve globally. 
 
@@ -825,6 +1014,8 @@ The role is based at DroneShield’s central Sydney headquarters. Overseas on-
 
 
 
+
+
 About the role
 
 DroneShield is seeking an individual with a keen eye for detail to join the team in Sydney, NSW as a Data Annotator. 
@@ -836,9 +1027,23 @@ As a Data Annotator, you will be part of the Data Processing team, supporting th
 
 Responsibilities, Duties and Expectations 
 
-Data Annotation: Accurately label and annotate data sets, ensuring the quality and precision required for training AI models.Data Quality Assurance: Review and verify the annotations to maintain high-quality data standards.Collaboration: Work closely with the Data Engineering and AI teams to understand the requirements and nuances of the data needed.Data Documentation: Ensure systematic documentation of annotated data, understanding its significance and usage.Qualifications, Experience and Skills 
+Data Annotation: Accurately label and annotate data sets, ensuring the quality and precision required for training AI models.
+Data Quality Assurance: Review and verify the annotations to maintain high-quality data standards.
+Collaboration: Work closely with the Data Engineering and AI teams to understand the requirements and nuances of the data needed.
+Data Documentation: Ensure systematic documentation of annotated data, understanding its significance and usage.
 
-Demonstrated ability to focus on detailed tasks for extended periods.Strong organizational skills and meticulous attention to detail.Proficiency in graph comprehension, facilitating informed decision-making.Comfort with repetitive tasks and a passion for data accuracy.Basic knowledge of database management and data documentation desirable but not essential.Experience with data labelling tools is an advantage.SQL experience is desirable but not essential.Familiarity with drones or related technology is desirable but not essential.
+Qualifications, Experience and Skills 
+
+Demonstrated ability to focus on detailed tasks for extended periods.
+Strong organizational skills and meticulous attention to detail.
+Proficiency in graph comprehension, facilitating informed decision-making.
+Comfort with repetitive tasks and a passion for data accuracy.
+Basic knowledge of database management and data documentation desirable but not essential.
+Experience with data labelling tools is an advantage.
+SQL experience is desirable but not essential.
+Familiarity with drones or related technology is desirable but not essential.
+
+
 
 
 Note for recruitment agencies: We do not accept unsolicited candidates from external recruiters unless specifically instructed.
@@ -848,7 +1053,7 @@ Note for recruitment agencies: We do not accept unsolicited candidates from exte
 
 
 PI281634230"
-89850518,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89850518?type=standard&ref=search-standalone&origin=jobCard#sol=12fddad9e9a4217bb878905cf7553103ca9eaab9,8h ago,8.0,2026-01-21T21:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Annual Salary with some great benefits!,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+89850518,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89850518?type=standard&ref=search-standalone&origin=jobCard#sol=4a0a1ed5d5bf208a6e699a03d1c23996eba1295a,9h ago,9.0,2026-01-21T21:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Annual Salary with some great benefits!,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
 What you’ll be doing
 
@@ -910,7 +1115,7 @@ We’re all individuals. And we love that. That’s why we encourage application
 Ready to apply?
 
 We’re ready to hear from you. Apply now."
-89850192,Founding Engineer,EdAccelerator,https://www.seek.com.au/job/89850192?type=standard&ref=search-standalone&origin=jobCard#sol=c37046781bc72afd0bd0a262ae09d7db5162aead,8h ago,8.0,2026-01-21T21:00:00+00:00,"South Yarra, Melbourne VIC (Hybrid)",Civil/Structural Engineering (Engineering),Full time,,"Attention: Exceptional Engineers
+89850192,Founding Engineer,EdAccelerator,https://www.seek.com.au/job/89850192?type=standard&ref=search-standalone&origin=jobCard#sol=335f8fe3318f67d399443c9ded8025bbd725f3d1,10h ago,10.0,2026-01-21T20:00:00+00:00,"South Yarra, Melbourne VIC (Hybrid)",Civil/Structural Engineering (Engineering),Full time,,"Attention: Exceptional Engineers
 
 Are you an experienced engineer who wants to help build something from the ground up?
 
@@ -1009,7 +1214,7 @@ Competitive salary + Super + equity
 or
 
 📧 Email pravinth@edaccelerator.com to be fast-tracked (include links to relevant work, GitHub, papers, or projects)"
-89849985,AI Engineer,EdAccelerator,https://www.seek.com.au/job/89849985?type=standard&ref=search-standalone&origin=jobCard#sol=6f52a2101c69e7cf19f9ac96fb044d56ca78bedc,9h ago,9.0,2026-01-21T20:00:00+00:00,"South Yarra, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Attention: Exceptional AI Engineers
+89849985,AI Engineer,EdAccelerator,https://www.seek.com.au/job/89849985?type=standard&ref=search-standalone&origin=jobCard#sol=2a9da5924f2758285829e632be81d4ae86345e28,10h ago,10.0,2026-01-21T20:00:00+00:00,"South Yarra, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Attention: Exceptional AI Engineers
 
 Are you an AI engineer who wants to go all in on an ambitious mission?
 
@@ -1108,7 +1313,7 @@ Competitive salary + Super + equity
 or
 
 📧 Email pravinth@edaccelerator.com to be fast-tracked (include links to relevant work, GitHub, papers, or projects)"
-89849139,"Field Solutions Architect, Generative AI, Google Cloud",Google,https://www.seek.com.au/job/89849139?type=standard&ref=search-standalone&origin=jobCard#sol=4d5cb2adbeb90838c1360d3e381e319701379482,12h ago,12.0,2026-01-21T17:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+89849139,"Field Solutions Architect, Generative AI, Google Cloud",Google,https://www.seek.com.au/job/89849139?type=standard&ref=search-standalone&origin=jobCard#sol=e7c499032a6609b57ff3395e343d8298cf1b8664,13h ago,13.0,2026-01-21T17:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sydney NSW, Australia; Melbourne VIC, Australia.Minimum qualifications:
 
@@ -1141,7 +1346,7 @@ Build high-performance evaluation pipelines and observability frameworks to ensu
 Identify repeatable field patterns and technical 'friction points' in Google’s AI stack, converting them into reusable modules or formal product feature requests for the engineering teams.
 Drive engineering excellence across the JAPAC region by mentoring talent, co-building with customer teams to instill best practices, and influencing cross-functional strategies to uplevel organizational technical capabilities.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-89848401,Senior Threat Detection Engineer - Tooling and Automation (ANZ remote),Canva,https://www.seek.com.au/job/89848401?type=standard&ref=search-standalone&origin=jobCard#sol=a0f9f9b0e239aea92b4b1c24221bd2e1e89298df,13h ago,13.0,2026-01-21T16:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Job Description
+89848401,Senior Threat Detection Engineer - Tooling and Automation (ANZ remote),Canva,https://www.seek.com.au/job/89848401?type=standard&ref=search-standalone&origin=jobCard#sol=93efd6ffac83ddd6201a82c9a8e018d7bbff39e2,14h ago,14.0,2026-01-21T16:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Job Description
 
 
 Join the team redefining how the world experiences design.
@@ -1229,7 +1434,58 @@ We see AI as a powerful amplifier of creativity and technology at Canva. We’re
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
 
 Please note that interviews are conducted virtually."
-89848098,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89848098?type=standard&ref=search-standalone&origin=jobCard#sol=22a9eee59bd4641fea28828d71358d790105644a,14h ago,14.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+89848099,Principal Engineer - MQ-28 Global Digital Ecosystem,Boeing Defence Australia,https://www.seek.com.au/job/89848099?type=standard&ref=search-standalone&origin=jobCard#sol=c7b67af1a04a6faff10fee11aa322ff16df19fe2,15h ago,15.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+
+The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
+
+MQ-28 is expanding globally with international customers as well as its international design and partner network. Those ambitions require a Global Digital Ecosystem that facilitates a global military digital design network as well as closer ongoing digital collaboration with military operators. 
+
+Role overview
+
+You will define and lead the evolution of a capability-based MQ-28 Global Digital Ecosystem ensuring it is secure, adhering to export-compliant digital architectures and solution patterns that enable global design collaboration. 
+
+Key responsibilities
+
+Design and implement a Global Digital Ecosystem solution architecture for complex, multi‑stakeholder Defence programs
+Work with export control and the MQ-28 Data Architect ensuring data sovereignty and contractual IP/data rights as they relate to cloud and collaboration platforms
+Lead platform selection and migration for digital toolchains
+Produce architectural artefacts such as capability maps, sequence/flow diagrams, data models, interface specifications
+Stakeholder engagement with senior leaders and international partners 
+
+Essential skills & experience
+
+Deep understanding of cloud and hybrid integration patterns, including secure data flows, identity federation, multi‑tenant isolation and cross‑jurisdictional compliance
+Proven experience in business or solution architecture roles for complex, multi‑stakeholder engineering or defence programs
+Expertise in capability‑based planning and translating capability maps into implementable solution roadmaps
+Strong background in systems thinking and ability to map value streams across engineering, manufacturing, supply chain and sustainment
+Practical experience working with digital engineering toolchains
+Excellent stakeholder engagement, communication and leadership skills with ability to influence senior leaders and international partners.
+Australian Citizenship (required for Defence security clearance). 
+
+Desirable skills & experience
+
+Hands-on experience with tools such as 3DExperience, Teamcenter, CATIA, NX, DOORS, Ansys, Matlab, GitLab, Python and secure cloud platforms (AWS/Azure/GCP)
+Familiarity with model-based systems engineering (MBSE) and digital thread concepts
+Practical experience automating tasks via scripting and CI/CD for engineering toolchains
+Prior exposure to international defence programs or globally distributed supplier networks 
+
+Other benefits
+
+Work on cutting edge projects with opportunities to work across platforms
+Attractive remuneration and annual bonus
+Formal reward and recognition program
+Access discounts for health insurance, travel and accommodation
+Paid parental leave and Defence leave
+Salary packaging options available
+Health and wellbeing benefits include annual flu vaccinations and Employee Assistance Program
+Social and community groups 
+
+BDA works with strong links with our global Boeing community, and we strongly encourage collaboration with our international counterparts.
+
+ We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
+
+Please note, this role will be shortlisted in 2026. Your patience is appreciated."
+89848098,Senior Engineer - MQ-28 Data Architect,Boeing Defence Australia,https://www.seek.com.au/job/89848098?type=standard&ref=search-standalone&origin=jobCard#sol=8ef7f09a13e3b60bea7a121d328f0f44f73f1ca8,15h ago,15.0,2026-01-21T15:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
 The Boeing MQ-28 - Ghost Bat is a globally significant program delivering disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years. 
 
@@ -1291,7 +1547,7 @@ BDA works with strong links with our global Boeing community, and we strongly en
 We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
 
  Please note, this role will be shortlisted in 2026. Your patience is appreciated."
-89847676,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89847676?type=standard&ref=search-standalone&origin=jobCard#sol=0f4fa999a32e68c0c66cd66843eea5688ca5b956,15h ago,15.0,2026-01-21T14:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+89847676,Data Modelling Lead,Virgin Australia,https://www.seek.com.au/job/89847676?type=standard&ref=search-standalone&origin=jobCard#sol=2bbe78e2d880de87cb66390fe23e0d2b807925d5,17h ago,17.0,2026-01-21T13:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
 
 What you’ll be doing
 
