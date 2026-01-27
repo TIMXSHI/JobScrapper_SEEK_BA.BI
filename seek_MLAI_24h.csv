@@ -1,1 +1,280 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+89939753,Lead Full-Stack Embedded & IoT Software Engineer,PlasmaLeap Technologies Pty Ltd,https://www.seek.com.au/job/89939753?type=standard&ref=search-standalone&origin=jobCard#sol=e7648063baa6f900644998bdf8df784c2a8c7c7a,1h ago,1.0,2026-01-27T01:00:00+00:00,"Camperdown, Sydney NSW",Systems Engineering (Engineering),Full time,,"About us
 
+PlasmaLeap Technologies is a globally recognised Australian clean-chemicals company reinventing how the world makes molecules. We’re decarbonising heavy industry by putting clean, distributed chemical production in the hands of communities themselves. Our proprietary plasma reactors use renewable electricity, air and water to produce green fertilisers and fuels, creating a scalable, commercially viable pathway to net-zero that strengthens food security and bypasses fragile, fossil-fuel global supply chains entirely. 
+
+If you want to build deep tech that solves climate and food security in the same breath, and you want to do it at speed, with urgency, with purpose, and with people who are actually executing not just talking about it, then you’ll fit right in. 
+
+The opportunity
+
+You’ll own software end-to-end across the stack. This is a hands-on role for someone who enjoys owning and developing new systems from scratch, fast!
+
+Embedded (PIC MCU)
+
+- Develop and maintain firmware on PIC microcontrollers
+
+- Implement and debug device communications: I2C, SPI, UART, RS-485, CAN
+
+- Build robust drivers for sensors/actuators, ADC/DAC interfaces, timing, interrupts, watchdogs
+
+- Design fault-tolerant state machines for safety-critical behaviour (interlocks, failsafes, graceful shutdown)
+
+- Support manufacturing bring-up: flashing tools, test hooks, factory calibration, board validation
+
+- Bring up new PCBs/modules with the electronics team: validate power rails, clocks, comms buses
+
+Edge/Linux (rack/controller level)
+
+Build services/applications on Linux devices (SBC/industrial PCs):
+
+- control orchestration
+
+- logging and data capture
+
+- configuration management
+
+- remote command & diagnostics
+
+OTA updates
+
+- Interface with modules over RS-485/CAN and expose clean APIs upwards
+
+- Package and deploy reliably (systemd services, containers if useful)
+
+IoT / Cloud integration
+
+- Implement/maintain MQTT telemetry and command channels (QoS, retained messages, session handling)
+
+- Device identity/provisioning, secure comms (certs/keys), and fleet operations basics
+
+- Integrate data into dashboards/alerts (Grafana/Prometheus, InfluxDB, cloud equivalents, etc.)
+
+- Build internal tools that help engineers and operators see what’s happening across devices
+
+What we’re looking for:
+
+Strong hands-on embedded experience (C/C++) on microcontrollers; comfortable with interrupts, peripherals, memory constraints
+Real hardware interfacing and debugging experience with at least I2C + RS-485 + CAN (or can demonstrate equivalent depth)
+Linux development experience (C/C++/Rust/Python/Go—pick your weapon) including system services and deployment
+Experience with MQTT and IoT patterns (telemetry, remote commands, device provisioning)
+Proven ability to debug across boundaries: firmware ↔ hardware ↔ Linux ↔ network
+Experience shipping industrial devices or field-deployed fleets
+OTA update experience
+Comfortable working in a fast, iterative environment with physical prototypes
+
+Why you should join PlasmaLeap Technologies:
+
+We Move Fast - Build, test, and learn outside your comfort zone alongside curious, driven teammates. 
+
+We Make an Impact - Work on meaningful challenges that decarbonise industry and improve global food security. 
+
+We’re Getting Recognised – PlasmaLeap is earning global recognition through international awards and world-class investors backing us from multiple continents,
+
+We Own It - Every team member has a voice and takes real ownership in a culture of experimentation as we rapidly develop, prototype and scale our technology.  
+
+We Celebrate Wins - Enjoy fun, engaging company events while working hard on ambitious goals. 
+
+We Reward Talent – To build the best, you have to employ the best. Competitive salary, equity, and coverage for training and conferences."
+89936560,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936560?type=standard&ref=search-standalone&origin=jobCard#sol=d65c6948a916b406a645bb9d422ac2d2186a3c3d,3h ago,3.0,2026-01-26T23:00:00+00:00,"Chatswood, Sydney NSW (Remote)",Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
+
+The Integration team builds software that connects MMS systems to third parties and internal consumers.
+
+Here’s how you will make a difference in this role… 
+
+In your Integration Engineering role, you will design, build, and support integration solutions that enable secure and reliable data exchange between MMS systems, third-party providers, and internal consumer platforms.
+
+You can work hybrid or remotely depending on your preferences from Melbourne, Brisbane or Sydney and surrounds. You will be required to come into the office in one of the major cities listed above for workshops on occasion.
+
+The successful candidate will have experience delivering and supporting integration solutions in a complex .NET and Azure-based corporate environment. They will be comfortable working across modern cloud services and legacy technologies, engaging with both technical and non-technical stakeholders.
+
+At MMS clear expectations help our people Be the Difference.  Your key responsibilities in this role will include: 
+
+Experience with Azure cloud services, including APIM, Azure Functions, App Services, Logic Apps and Service Bus
+
+Experience designing and building REST APIs using modern code design patterns, including Clean Architecture
+
+Experience building CI/CD pipelines and knowledge of DevOps practices using GitHub and Azure DevOps
+
+Cloud reliability and SRE concepts (observability, distributed tracing, resilience patterns) 
+
+Knowledge of automated testing of backend systems
+
+Knowledge of EF Core, SQL Server and Azure Cosmos DB
+
+Exposure or interest in building software using AI tools such as Github Copilot or Claude Code
+
+Knowledge of Azure Event Hubs and Event Grid Concepts will be advantageous but not essential
+
+ To be considered for this role you will have: 
+
+Strong verbal and written English communication skills 
+
+5+ years delivering backend or integration solutions in a medium-to-large enterprise
+
+Comfortable contributing to both project delivery and production support activities 
+
+Ability to collaborate effectively with architects, platform engineers, testers, business analysts, and business stakeholders 
+
+ What we can offer you:
+
+Novated leasing benefits and discounts
+
+12 weeks paid parental leave and access to our Parents Portal
+
+Comprehensive learning and development opportunities to support your career growth
+
+Sonder digital wellbeing platform, providing personalised support 24/7, plus annual flu vaccinations
+
+Default Income Protection Insurance reimbursed for members of the MMS Default Super Fund
+
+Exempt Employee Share Plan
+
+ Embracing our value of Everyone Matters we hold a collective commitment to foster an environment where all differences are valued and respected. 
+
+We encourage individuals from all backgrounds including Aboriginal and Torres Strait Islander peoples, those caring for someone or living with a disability, LGBTQIA+ and culturally diverse applicants to apply.
+
+We embrace hybrid working and welcome conversations about flexibility. 
+
+ Please note all successful candidates will undergo background checks (including criminal history and ASIC checks) and an NDIS Workers Screening Check if appropriate.  All information provided will be treated confidentially. 
+
+We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
+
+If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
+89936225,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936225?type=standard&ref=search-standalone&origin=jobCard#sol=4038819c1b6dfeb01e944e0752304c171a2cc5ff,3h ago,3.0,2026-01-26T23:00:00+00:00,Brisbane QLD (Remote),Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
+
+The Integration team builds software that connects MMS systems to third parties and internal consumers.
+
+Here’s how you will make a difference in this role… 
+
+In your Integration Engineering role, you will design, build, and support integration solutions that enable secure and reliable data exchange between MMS systems, third-party providers, and internal consumer platforms.
+
+You can work hybrid or remotely depending on your preferences from Melbourne, Brisbane or Sydney and surrounds. You will be required to come into the office in one of the major cities listed above for workshops on occasion.
+
+ The successful candidate will have experience delivering and supporting integration solutions in a complex .NET and Azure-based corporate environment. They will be comfortable working across modern cloud services and legacy technologies, engaging with both technical and non-technical stakeholders.
+
+At MMS clear expectations help our people Be the Difference.  Your key responsibilities in this role will include: 
+
+Experience with Azure cloud services, including APIM, Azure Functions, App Services, Logic Apps and Service Bus
+
+Experience designing and building REST APIs using modern code design patterns, including Clean Architecture
+
+Experience building CI/CD pipelines and knowledge of DevOps practices using GitHub and Azure DevOps
+
+Cloud reliability and SRE concepts (observability, distributed tracing, resilience patterns) 
+
+Knowledge of automated testing of backend systems
+
+Knowledge of EF Core, SQL Server and Azure Cosmos DB
+
+Exposure or interest in building software using AI tools such as Github Copilot or Claude Code
+
+Knowledge of Azure Event Hubs and Event Grid Concepts will be advantageous but not essential
+
+ To be considered for this role you will have: 
+
+Strong verbal and written English communication skills 
+
+5+ years delivering backend or integration solutions in a medium-to-large enterprise
+
+Comfortable contributing to both project delivery and production support activities 
+
+Ability to collaborate effectively with architects, platform engineers, testers, business analysts, and business stakeholders 
+
+ What we can offer you:
+
+Novated leasing benefits and discounts
+
+12 weeks paid parental leave and access to our Parents Portal
+
+Comprehensive learning and development opportunities to support your career growth
+
+Sonder digital wellbeing platform, providing personalised support 24/7, plus annual flu vaccinations
+
+Default Income Protection Insurance reimbursed for members of the MMS Default Super Fund
+
+Exempt Employee Share Plan
+
+ Embracing our value of Everyone Matters we hold a collective commitment to foster an environment where all differences are valued and respected. 
+
+We encourage individuals from all backgrounds including Aboriginal and Torres Strait Islander peoples, those caring for someone or living with a disability, LGBTQIA+ and culturally diverse applicants to apply.
+
+We embrace hybrid working and welcome conversations about flexibility. 
+
+ Please note all successful candidates will undergo background checks (including criminal history and ASIC checks) and an NDIS Workers Screening Check if appropriate.  All information provided will be treated confidentially. 
+
+We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
+
+If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
+89936217,Integrations Manager,Corto Pty Ltd,https://www.seek.com.au/job/89936217?type=standard&ref=search-standalone&origin=jobCard#sol=ff057c7f4332e8c7e074789c36d92538b0e9c57f,3h ago,3.0,2026-01-26T23:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,,"About CORTO
+
+We are CORTO, a cutting-edge software company dedicated to revolutionizing the legal industry. Our mission is to empower legal practitioners with AI-driven solutions that streamline their workflow, boost productivity, and provide more efficient client service.
+
+Our team of AI experts and engineers collaborate to develop intelligent software tailored to the unique needs of lawyers, paralegals, and legal assistants.
+
+Our innovative AI solutions automate routine tasks, simplify document management, and enhance decision-making, allowing legal professionals to focus on what they do best—providing expert legal counsel.
+
+What you’ll do
+
+We are looking for a talented Integrations Manager to own and grow CORTO’s third-party integration ecosystem. In this role, you will manage external developers and partners who build applications and integrations that call CORTO’s APIs, ensuring high-quality, secure, and scalable integrations.
+
+Reporting to the Head of Backend Engineering, you will sit at the intersection of engineering, product, and commercial teams—shaping integration standards, improving developer experience, and ensuring integrations deliver real value to customers.
+
+This is a hands-on role that combines technical understanding, stakeholder management, and operational excellence.
+
+To make this happen you will:
+
+This is an incredible opportunity to be part of an engineering team building the next generation of our products. The day to day will include:
+
+Owning the operational health and performance of CORTO’s third-party integrations and developer ecosystem
+Onboarding new integrations
+Liaising with CTO to provide reports on performance and usages of integrations
+Owning and maintaining CORTO’s API documentation
+Providing technical support for developers and other stakeholders
+Reviewing new and updated integrations
+Collecting feedback from stakeholders and communicating improvements required to the Development team
+Approving / rejecting application reviews
+Build strong internal and external relationships through clear, professional written and verbal communication
+Working closely with key business decision makers and cross-functional development and testing teams to offer guidance and advice on what solutions will best fit the business needs
+Reviewing and improving integrations team workflows
+The candidate will be required to be a good cultural fit for our team as values and behaviours are important within our teams
+
+What you’ll bring:
+
+Experience in working in a fast-paced Agile environment
+Experience in gathering requirements from stakeholders
+Experience in creating technical documentation specifications
+Experience in working on tech support tasks
+Familiarity with REST services and APIs
+Strong delivery focus to complete tasks within schedule and quality standards
+Strong stakeholder management skills
+
+Even better if you have;
+
+Database experience (mySQL, MSSQL and / or DynamoDB)
+Knowledgeable on best practices for both UI and UX development
+Knowledge of AWS products
+Knowledge of OAuth and Auth0
+Knowledge of LEAP products
+Experience in using Atlassian products
+Experience working with json / yaml specifications
+
+You are the type of person who has
+
+Strong problem-solving skills, analysis skills and attention to detail
+Strong verbal and written skills
+Enjoys working in fast-paced environments
+
+CORTO is an inclusive, people-first company committed to breaking down institutional barriers that keep people from reaching their potential. If you meet some, but not all the requirements above, we encourage you to still submit your application.
+
+Why join CORTO?
+
+Your work matters. We solve real world problems that improve and support local, everyday law firms. So they can do their best work for the people in the communities they serve.
+Make an impact. You won’t be another ‘cog in the wheel’ here. We give full trust and autonomy for you to be heard, to work on big & complex projects – and to make a real difference.
+Work with a group of authentic, passionate people who love what they do.
+Well-funded and global. CORTO is part ofATI – one of the largest international LegalTech companies.
+Flexible and hybrid working. We engage, share, and collaborate on ideas and workflows.
+Career and learning opportunities; we move fast and need smart people to get us where we're going. We are a scaling business and looking for people who want to grow with us.
+Have fun with us. Celebrations. Socials. Sports teams. Access to sailing and yacht events.
+We value your well-being - Wellness focus with additional time off, gym membership and other perks.
+Fast-paced tech environment, if we don't disrupt ourselves someone else will do it!
+Access to LEAP Home - a program unique to LEAP to support you in buying your primary residence."
