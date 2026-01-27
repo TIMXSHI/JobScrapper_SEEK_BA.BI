@@ -1,5 +1,78 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89948771,Data Modeller (Data Vault 2.0),Milestone Information Technology,https://www.seek.com.au/job/89948771?type=standard&ref=search-standalone&origin=jobCard#sol=011dcfd3be56471f701f99f745d7113e6b260c8f,2h ago,2.0,2026-01-27T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Are you an expert in scalable data architecture with hands-on experience in Data Vault 2.0?
+89950914,Machine Learning Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89950914?type=standard&ref=search-standalone&origin=jobCard#sol=e9ea83093d5706d3a41eb2fb35f64b58e209c771,1h ago,1.0,2026-01-27T06:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Initial 6 month contract with the potential view to extend
+Attractive daily rate and conveniently located in Melbourne CBD (2 days' WFH)
+Help implement computer vision solutions for a major Utility
+
+
+Our client is currently on the lookout for an experienced Machine Learning Data Engineer with a focus on implementing computer vision solutions. The role will focus on developing and refining training datasets, implementing computer vision and image processing algorithms and models, and managing MLOps pipelines.
+
+Key Responsibilities
+
+Engineering of computer vision models & training pipelines
+Implementation and deployment of cloud-based infrastructure (AWS) to support these pipelines
+Development of solutions that utilise the trained models to achieve business outcomes
+Diagnosing poor model performance causes and remediating training data sets, ML pipelines or software components
+
+Requirements:
+
+Image processing experience
+Computer vision experience
+AWS services (Lambda, Sagemaker, CDK, CodeBuild) usages for MLOps activities, development, and infrastructure
+Python development, testing and build
+PyTorch, Tensorflow, or other frameworks
+Machine learning experience
+Data management, data engineering experience
+
+If you would like to know more please contact Brandon Wong on 0422 461 080/Brandon.Wong@talentinternational.com or hit Apply Now"
+89950644,Machine Learning & AI Engineer | SQL,DyFlex Solutions,https://www.seek.com.au/job/89950644?type=standard&ref=search-standalone&origin=jobCard#sol=89177f1e719bd6ff6a331ac674312e7b06523e4a,1h ago,1.0,2026-01-27T06:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"Machine Learning & AI Engineer
+
+DyFlex is an SAP Platinum Partner delivering high-quality SAP solutions across Australia. We’re now expanding our Data and AI practice to match the strength and reputation of our established SAP capability.
+
+As a Machine Learning & AI Engineer, you’ll design, build, and deploy scalable data and machine learning solutions that deliver real business value. You’ll use strong SQL and modern cloud platforms to create reliable pipelines and support ML workloads. Experience with tools like Spark or Databricks is a plus but not required. You will work on meaningful technical challenges with autonomy and communicate technical outcomes clearly to both technical and non-technical stakeholders.
+
+We value engineers who think creatively, communicate effectively, and engage confidently with stakeholders. We’re looking for engineers who do more than write code. You’ll listen to client challenges, dig into the core problem, help shape solutions, and explain them clearly. If you want to build something from the ground up with a team that’s already proven it can deliver meaningful outcomes, we’d like to hear from you.
+
+Your tasks and responsibilities:
+
+Build and maintain scalable data and machine learning pipelines for ingesting, transforming, and delivering data into production environments
+Develop and maintain SQL-driven data models, reports, and analytical outputs that support real business use cases
+Manage and optimise databases, data warehouses, and cloud storage solutions, including platforms such as Databricks, Snowflake, or cloud-native services
+Implement data quality checks, validation processes, and testing to ensure reliable, production-ready systems
+Design, build, and deploy cloud-based solutions across AWS, Azure, or GCP
+Contribute to practical machine learning solutions, including feature engineering, model integration, and pipeline automation
+Take ownership of clearly defined technical components, working independently while collaborating closely with senior engineers and stakeholders
+Engage with internal teams and clients to understand business problems and translate them into workable technical solutions
+Apply modern engineering best practices, including version control, CI/CD, and infrastructure as code
+
+Your qualifications and experience:
+
+Junior to intermediate hands-on experience in data engineering, analytics engineering, or machine learning-adjacent roles in production environments
+Strong proficiency in SQL and Python, with the ability to write efficient queries, build pipelines, and support analytical and ML workflows
+Experience working with modern data or processing frameworks such as Apache Spark, Airflow, dbt, Kafka, or similar tools
+Practical exposure to machine learning pipelines, applied ML use cases, MLOps concepts, or agent-based / automated workflows is highly regarded
+Solid understanding of relational databases, data modelling, and query optimisation
+Experience working with cloud data platforms such as Databricks, Snowflake, or comparable technologies
+Degree in Computer Science, Engineering, Data Science, Mathematics, or a related technical field, or equivalent practical experience
+Strong problem-solving mindset with the ability to work independently, adapt quickly, and approach problems creatively
+Excellent communication skills, with the ability to clearly explain technical concepts to both technical and non-technical stakeholders
+
+What we offer:
+
+Work with SAP’s latest technologies on cloud as S/4HANA, BTP and Joule, plus Databricks, ML/AI tools and cloud platforms
+A flexible and supportive work environment including work from home
+Competitive remuneration and benefits including novated lease, birthday leave, remote working, additional purchased leave, and company-provided laptop
+Competitive remuneration and benefits including novated lease, birthday leave, salary packaging, wellbeing programme, additional purchased leave, and company-provided laptop Comprehensive training budget and paid certifications (Databricks, SAP, cloud platforms)
+Structured career advancement pathways with mentoring from senior engineers
+Exposure to diverse industries and client environments
+
+Join a renowned organisation delivering projects to some of Australia’s leading enterprises
+
+DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
+
+Please note that we cannot offer visa sponsorship for this role. Applicants must have full working rights in Australia.
+
+This role is open to Sydney-based applicants only and operates in a hybrid work environment."
+89948771,Data Modeller (Data Vault 2.0),Milestone Information Technology,https://www.seek.com.au/job/89948771?type=standard&ref=search-standalone&origin=jobCard#sol=cc9760647b36b12ab23c3767bf32e372c5dc2323,2h ago,2.0,2026-01-27T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Are you an expert in scalable data architecture with hands-on experience in Data Vault 2.0?
  
 Milestone IT is partnering with a leading enterprise client to secure a Data Vault Data Modeller for a high-priority modern data platform build.
 Our client is moving away from legacy constraints and building a robust, agile, and auditable cloud data ecosystem. This is a high-impact role where you’ll translate Data Vault patterns into high-performance physical models and help shape the organisation’s single source of truth.
@@ -29,7 +102,7 @@ Lead/Senior Data Vault Modeller with hands-on experience
 Someone who can bridge business requirements and technical implementation
 A practitioner who delivers performant, auditable, and scalable data models
 Please contact Tina Miljkovic on (03) 9670 6682 for a confidential discussion."
-89946789,Senior Integration & Automation Specialist,"Sharp & Carter Technology, Projects & Digital Brisbane",https://www.seek.com.au/job/89946789?type=standard&ref=search-standalone&origin=jobCard#sol=240012e47e2455bde26a0a42d60235291bbfb8ea,2h ago,2.0,2026-01-27T04:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Senior Technical Specialist – Integration & Automation (HCMS Program) 
+89946789,Senior Integration & Automation Specialist,"Sharp & Carter Technology, Projects & Digital Brisbane",https://www.seek.com.au/job/89946789?type=standard&ref=search-standalone&origin=jobCard#sol=572327ae8484e3a0c3172433ff1b455a6b2cd67d,3h ago,3.0,2026-01-27T04:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Senior Technical Specialist – Integration & Automation (HCMS Program) 
 Location: Brisbane 
 Temporary - Daily rate contract
 
@@ -62,7 +135,7 @@ Strong understanding of government information security and data handling standa
 Communication & Collaboration
 Excellent stakeholder engagement skills, with the ability to influence technical teams, facilitate discussions, and contribute to governance and assurance processes.
 For more information apply now or email me on khair@sharpandcarter.com.au for a detailed JD"
-89945377,Data Engineer – (Neurodiversity diagnosis),auticon Pty Ltd,https://www.seek.com.au/job/89945377?type=standard&ref=search-standalone&origin=jobCard#sol=bc83a78d6021472a76040bc6e72d823ba05224ff,3h ago,3.0,2026-01-27T03:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Neurodivergent Data Engineers
+89945377,Data Engineer – (Neurodiversity diagnosis),auticon Pty Ltd,https://www.seek.com.au/job/89945377?type=standard&ref=search-standalone&origin=jobCard#sol=4e7b841f829b6a6fd8f3fdc2f8f607868627f32e,4h ago,4.0,2026-01-27T03:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Neurodivergent Data Engineers
 
 Location: Sydney
 Type: Full-time
@@ -161,7 +234,7 @@ Use AI tools as first-class citizens—not side experiments
 Ready to Apply?
 
 You are neurodivergent and this sounds like your kind of environment—we’d love to hear from you at recruitment@auticon.com"
-89944949,Senior Integration and Data Engineer,The University Of Notre Dame,https://www.seek.com.au/job/89944949?type=standard&ref=search-standalone&origin=jobCard#sol=d5ec950aee7df5a7c1b8d47fb94a9c9bcb1b5f49,3h ago,3.0,2026-01-27T03:00:00+00:00,"Broadway, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Senior Integration and Data Engineer, IT
+89944949,Senior Integration and Data Engineer,The University Of Notre Dame,https://www.seek.com.au/job/89944949?type=standard&ref=search-standalone&origin=jobCard#sol=23f977c71714ba8f858dc1e0ff0fc3b7ecc8dfba,4h ago,4.0,2026-01-27T03:00:00+00:00,"Broadway, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Senior Integration and Data Engineer, IT
 Sydney (Broadway) Campus
 2 x Full-time, Continuing opportunities
 
@@ -246,7 +319,7 @@ Contact us
 Please direct your queries regarding this role to Haritha Garlapati, Haritha.Garlapati@nd.edu.au
 
 Unsolicited contact from recruitment agencies will not be entertained."
-89943903,Integration Specialist (Mulesoft),Western Sydney Airport,https://www.seek.com.au/job/89943903?type=standard&ref=search-standalone&origin=jobCard#sol=f24a7140a6a21747ad3c576a5b408259dbe08e0a,3h ago,3.0,2026-01-27T03:00:00+00:00,"Liverpool, Sydney NSW (Hybrid)",Networks & Systems Administration (Information & Communication Technology),Full time,,"Western Sydney International (Nancy-Bird Walton) Airport is at the heart of the incredible transformation across Western Sydney. WSI will be a 24/7 hub for international, domestic and cargo services, create fantastic career opportunities in Sydney's cultural heartland.
+89943903,Integration Specialist (Mulesoft),Western Sydney Airport,https://www.seek.com.au/job/89943903?type=standard&ref=search-standalone&origin=jobCard#sol=11a56c657be3d2182e7f8e578844b7e746c9a917,4h ago,4.0,2026-01-27T03:00:00+00:00,"Liverpool, Sydney NSW (Hybrid)",Networks & Systems Administration (Information & Communication Technology),Full time,,"Western Sydney International (Nancy-Bird Walton) Airport is at the heart of the incredible transformation across Western Sydney. WSI will be a 24/7 hub for international, domestic and cargo services, create fantastic career opportunities in Sydney's cultural heartland.
 
 We've reached a major milestone with completion of the terminal and runway, and we're now working towards opening our world class airport later this year. Designed for efficiency and sustainability with state-of-the-art infrastructure and technology, there'll be opportunities for generations to come in Sydney's fastest growing area. We're now looking for passionate people who want to be part of something special - building a legacy for Western Sydney.
 
@@ -317,7 +390,7 @@ To apply for this role, you must already have the right to lawfully work and liv
 If you're our preferred candidate, you'll be requested to undergo background and medical checks.
 
 For more information explore the WSI website https://wsiairport.com.au or our Facebook, Instagram or LinkedIn pages."
-89941169,IBM Integration Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89941169?type=standard&ref=search-standalone&origin=jobCard#sol=6591973ebda4b30f69954c535fa0bdbadeeee260,4h ago,4.0,2026-01-27T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+89941169,IBM Integration Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89941169?type=standard&ref=search-standalone&origin=jobCard#sol=ac9b6ef7751c3e55ba58a12e1415a24922888f8d,5h ago,5.0,2026-01-27T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -379,7 +452,7 @@ We recognise the significance of flexible work arrangements to provide support. 
 At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.
 
 Equip yourself with valuable certifications in the latest technologies such as AWS and Microsoft Azure."
-89941110,Data Scientist,The Onset,https://www.seek.com.au/job/89941110?type=standard&ref=search-standalone&origin=jobCard#sol=49e7afa7562c0b69c1cb5342a955a7e3225e5a0c,4h ago,4.0,2026-01-27T02:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$140,000 - $180,000 + Super + Bonus","So many job ads talk about ""accountability"" - but here, it's all about opportunity.
+89941110,Data Scientist,The Onset,https://www.seek.com.au/job/89941110?type=standard&ref=search-standalone&origin=jobCard#sol=96330faf7c6ec69a93c281c26a41598506a6f75e,5h ago,5.0,2026-01-27T02:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$140,000 - $180,000 + Super + Bonus","So many job ads talk about ""accountability"" - but here, it's all about opportunity.
 
 As the project architect, creator, and strategist, you’ll lead engagements end-to-end. You’ll be trusted to run delivery while tapping into internal and external support as needed. It’s a high-trust culture that rewards autonomy and craftsmanship.
 
@@ -403,7 +476,7 @@ High-performance bonus program with proven track record
 Strong global brand and high-impact projects
 Flexibility in working style and location
 Sound like you? Contact Ronny at ronny@theonset.com.au for a confidential discussion."
-89939753,Lead Full-Stack Embedded & IoT Software Engineer,PlasmaLeap Technologies Pty Ltd,https://www.seek.com.au/job/89939753?type=standard&ref=search-standalone&origin=jobCard#sol=c0c609d832274e9a66916eae8c5d358794b24ce2,5h ago,5.0,2026-01-27T01:00:00+00:00,"Camperdown, Sydney NSW",Systems Engineering (Engineering),Full time,,"About us
+89939753,Lead Full-Stack Embedded & IoT Software Engineer,PlasmaLeap Technologies Pty Ltd,https://www.seek.com.au/job/89939753?type=standard&ref=search-standalone&origin=jobCard#sol=39faa8ca13a8d7e9cbf5b78f6d86cde4789ed746,6h ago,6.0,2026-01-27T01:00:00+00:00,"Camperdown, Sydney NSW",Systems Engineering (Engineering),Full time,,"About us
 
 PlasmaLeap Technologies is a globally recognised Australian clean-chemicals company reinventing how the world makes molecules. We’re decarbonising heavy industry by putting clean, distributed chemical production in the hands of communities themselves. Our proprietary plasma reactors use renewable electricity, air and water to produce green fertilisers and fuels, creating a scalable, commercially viable pathway to net-zero that strengthens food security and bypasses fragile, fossil-fuel global supply chains entirely. 
 
@@ -479,7 +552,7 @@ We Own It - Every team member has a voice and takes real ownership in a cult
 We Celebrate Wins - Enjoy fun, engaging company events while working hard on ambitious goals. 
 
 We Reward Talent – To build the best, you have to employ the best. Competitive salary, equity, and coverage for training and conferences."
-89936560,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936560?type=standard&ref=search-standalone&origin=jobCard#sol=7aa9322c66e856c7ae6d7b4ae83c53e0544fa06c,7h ago,7.0,2026-01-26T23:00:00+00:00,"Chatswood, Sydney NSW (Remote)",Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
+89936560,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936560?type=standard&ref=search-standalone&origin=jobCard#sol=85723b6615e13088311349e0e886110ccdfc16bd,8h ago,8.0,2026-01-26T23:00:00+00:00,"Chatswood, Sydney NSW (Remote)",Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
 
 The Integration team builds software that connects MMS systems to third parties and internal consumers.
 
@@ -544,7 +617,7 @@ We embrace hybrid working and welcome conversations about flexibility. 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89936225,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936225?type=standard&ref=search-standalone&origin=jobCard#sol=1b50528a6958e3b685b7ea8de76632d08d08c14f,8h ago,8.0,2026-01-26T22:00:00+00:00,Brisbane QLD (Remote),Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
+89936225,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936225?type=standard&ref=search-standalone&origin=jobCard#sol=c992b78c4e7be925feeee4d1534e7685febc6806,9h ago,9.0,2026-01-26T22:00:00+00:00,Brisbane QLD (Remote),Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
 
 The Integration team builds software that connects MMS systems to third parties and internal consumers.
 
@@ -609,7 +682,7 @@ We embrace hybrid working and welcome conversations about flexibility. 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89936217,Integrations Manager,Corto Pty Ltd,https://www.seek.com.au/job/89936217?type=standard&ref=search-standalone&origin=jobCard#sol=83c877f95078a8fa479f2bd0e125e5c586fd8259,8h ago,8.0,2026-01-26T22:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,,"About CORTO
+89936217,Integrations Manager,Corto Pty Ltd,https://www.seek.com.au/job/89936217?type=standard&ref=search-standalone&origin=jobCard#sol=b6c77d6233ffe734e155fd1b726a80ceba79e7d2,9h ago,9.0,2026-01-26T22:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,,"About CORTO
 
 We are CORTO, a cutting-edge software company dedicated to revolutionizing the legal industry. Our mission is to empower legal practitioners with AI-driven solutions that streamline their workflow, boost productivity, and provide more efficient client service.
 
