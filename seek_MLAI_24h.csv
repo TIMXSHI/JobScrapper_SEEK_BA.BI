@@ -1,5 +1,222 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89943903,Integration Specialist (Mulesoft),Western Sydney Airport,https://www.seek.com.au/job/89943903?type=standard&ref=search-standalone&origin=jobCard#sol=75ab21c9b9e1d6f52643279f28b6b25133613480,1h ago,1.0,2026-01-27T03:00:00+00:00,"Liverpool, Sydney NSW (Hybrid)",Networks & Systems Administration (Information & Communication Technology),Full time,,"Western Sydney International (Nancy-Bird Walton) Airport is at the heart of the incredible transformation across Western Sydney. WSI will be a 24/7 hub for international, domestic and cargo services, create fantastic career opportunities in Sydney's cultural heartland.
+89946789,Senior Integration & Automation Specialist,"Sharp & Carter Technology, Projects & Digital Brisbane",https://www.seek.com.au/job/89946789?type=standard&ref=search-standalone&origin=jobCard#sol=2020bb5d434ed06c00cc75a63247136e16631724,1h ago,1.0,2026-01-27T04:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Senior Technical Specialist – Integration & Automation (HCMS Program) 
+Location: Brisbane 
+Temporary - Daily rate contract
+
+Our client is seeking an experienced Senior Technical Specialist to provide expert technical delivery, oversight, and system integration capability across a complex portfolio of legacy and modern platforms within the Human Capital Management Solution.
+
+This is a hands-on senior technical role responsible for the planning, development and management of integration patterns, automation routines, and infrastructure deployment across a federated ecosystem of up to 45 interconnected HR, payroll, identity, and operational systems.
+Working closely with system owners, architects, platform leads, SAP functional consultants, and government assurance stakeholders, you will deliver secure, scalable, and high-performance integration solutions that support Queensland’s critical workforce systems.
+
+The successful candidate will bring deep expertise in modern cloud-based architecture, particularly Microsoft Azure, API-first development, identity-aware design, and system interoperability, and will be capable of leading initiatives from concept through delivery with minimal oversight.
+Key Responsibilities As a Senior Technical Specialist, you will:
+
+Design, develop, and implement secure, scalable integration and automation solutions across legacy and cloud-based HR/Payroll systems.
+Lead technical delivery of Azure-based components including Logic Apps, Functions, API Management (APIM), Fabric, Service Bus, and broader Azure stack services.
+Build and consume RESTful APIs using secure authentication standards such as OAuth2, mTLS, Azure Entra ID, and Ping Federated identity frameworks.
+Collaborate with system integrators and internal teams to ensure technical alignment, reusable architecture, and performance optimisation.
+Contribute to interface specifications, technical design documentation, and source-to-target data mappings.
+Support deployment automation and infrastructure-as-code practices (Terraform) within CI/CD pipelines (Azure DevOps).
+Monitor, troubleshoot, and optimise integrations and data flows using Application Insights, Log Analytics, and dashboarding tools.
+Ensure compliance with Queensland Government information security standards (e.g. IPOLA, IRAP) across all technical designs and implementations.
+Capabilities & Desirable Attributes Technical Integration Expertise
+Demonstrated expert-level hands-on experience designing, developing, and supporting complex system integrations using Microsoft Azure tools and frameworks.
+API Design and Delivery
+Proven ability to develop and secure APIs (REST/SOAP) across hybrid environments, including identity propagation and lifecycle management.
+CI/CD and Automation Practices
+Strong capability in implementing automated pipelines using Azure DevOps, managing infrastructure via IaC, and enabling repeatable deployments.
+System Interoperability & Problem Solving
+Excellent diagnostic and analytical skills across legacy and modern platforms, with experience integrating PL/SQL, SQL, Python-based systems into modern data platforms.
+Governance and Compliance Alignment
+Strong understanding of government information security and data handling standards, including Queensland Government compliance constraints.
+Communication & Collaboration
+Excellent stakeholder engagement skills, with the ability to influence technical teams, facilitate discussions, and contribute to governance and assurance processes.
+For more information apply now or email me on khair@sharpandcarter.com.au for a detailed JD"
+89945377,Data Engineer – (Neurodiversity diagnosis),auticon Pty Ltd,https://www.seek.com.au/job/89945377?type=standard&ref=search-standalone&origin=jobCard#sol=0b1a18c4c6664e510368b5f1cd19f9bddf2b0f65,2h ago,2.0,2026-01-27T03:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Neurodivergent Data Engineers
+
+Location: Sydney
+Type: Full-time
+Company: auticon Pty LTD - Technology Services Company & Social Enterprise
+
+About Us
+
+auticon is a global social enterprise and IT professional services company that exclusively employs IT professionals who are neurodivergent.
+
+We’re a fast-moving technology services company and social enterprise building modern data and AI solutions for real-world impact. We believe great engineering comes from deep focus, psychological safety, and respect for different ways of thinking.
+
+If you’re neurodivergent, you are explicitly welcome here.
+
+We value outcomes over meetings, collaboration over noise, and engineers who love learning and developing—especially with AI.
+
+The Role
+
+We’re looking for Data Engineers who love building with AI and want to work in an environment designed for focus and flow.
+
+You’ll design and build modern data platforms, work hands-on with GenAI, and use AI coding tools as part of your everyday workflow. This is a role for engineers who enjoy autonomy, technical depth, and clean solutions.
+
+What You’ll Do
+
+Design and build scalable, cloud-native data pipelines and platforms using AWS, Data Mesh, and GenAI technologies
+
+Deliver end-to-end data solutions that are secure, reliable, and aligned with business strategy
+
+Develop AI-first data products that drive insight, automation, and innovation
+
+Ship, test, and iterate using prompt engineering, GitHub Copilot, and AI coding tools such as Cline, Roo, or Aider
+
+Lead by example in coding quality, solution architecture, and performance optimisation
+
+Collaborate with stakeholders in a low-ego, outcome-focused way
+
+Contribute to a culture of continuous learning, neuroinclusion, and technical excellence
+
+How We Work
+
+Async by default
+
+Deep focus is respected
+
+Minimal meetings, maximum clarity
+
+Clear goals, trust, and autonomy
+
+What You Bring
+
+We’re looking for engineers who are curious, driven, and excited to work in inclusive, high-trust teams. Ideally, you’ll have:
+
+5–7 years’ experience in Data Engineering
+
+AWS Certified Data Engineer – Associate (or equivalent hands-on experience)
+
+Excellent programming skills in Python, SQL, Spark, Scala
+
+Experience using AI-powered coding assistants (e.g. Cline, Roo, Aider)
+
+Knowledge of data governance and security, including:
+
+AWS DataZone, Lake Formation, IAM
+
+A practical, delivery-focused mindset and pride in your craft
+
+Familiarity with CI/CD & automation tools: Terraform, CloudFormation, GitOps
+
+Ability to optimize ETL jobs and drive cost-efficient, high-performance solutions
+
+Bonus Skills
+
+  Experience with Snowflake or Apache Iceberg
+
+Understanding of data mesh principles and data product thinking
+
+Why Join Us
+
+Work on modern data and AI problems that matter
+
+Be part of a neuroinclusive organisation built for different working styles
+
+Use AI tools as first-class citizens—not side experiments
+
+ Why Auticon
+
+·       Work in a neuroinclusive environment where your strengths are valued
+
+·       Be part of a mission-driven company making real social impact
+
+·       Enjoy flexible work arrangements across Australia
+
+·       Collaborate with a diverse team of engineers, advocates, and changemakers
+
+·       Access ongoing training, mentoring, and career development
+
+Ready to Apply?
+
+You are neurodivergent and this sounds like your kind of environment—we’d love to hear from you at recruitment@auticon.com"
+89944949,Senior Integration and Data Engineer,The University Of Notre Dame,https://www.seek.com.au/job/89944949?type=standard&ref=search-standalone&origin=jobCard#sol=9f21b53a020028d2f835fc2bfec33357ba36ccd1,2h ago,2.0,2026-01-27T03:00:00+00:00,"Broadway, Sydney NSW",Database Development & Administration (Information & Communication Technology),Full time,,"Senior Integration and Data Engineer, IT
+Sydney (Broadway) Campus
+2 x Full-time, Continuing opportunities
+
+Friendly and collaborative environment
+
+Rewarding opportunity
+
+$146,765 pa (level 9) + 14.5% superannuation
+
+About the university
+
+The University of Notre Dame Australia is a private Catholic University with over 1,000 permanent staff providing an exceptional educational experience to over 12,000 students across our Fremantle, Broome, and Sydney campuses, as well as clinical schools in Victoria and New South Wales.
+
+About the office
+
+The Information Technology Office is at the forefront of the University’s success, driving cutting-edge technology solutions that empower Learning & Teaching, Research, and Administration across the institution.
+ 
+
+
+About the role
+
+As our Senior Integration & Data Engineer, you will be a key contributor to UNDA’s Integration and Data Modernisation initiative. In this high impact role, you will architect, design, deliver, and maintain secure, scalable integration solutions and ETL/ELT data pipelines within our Microsoft Azure environment.
+
+You will act as the solution owner for integration platforms and data pipelines, collaborating closely with IT teams and business stakeholders to shape modern, connected digital experiences. You will also provide technical leadership and oversight to external contractors, ensuring solutions are delivered to a high standard and aligned with our enterprise architecture and security principles.
+
+Your work will be instrumental in integrating complex enterprise systems and business applications across the University-enabling seamless digital experiences, unified master data, and the advanced analytics that power data driven decision-making.
+
+Key Responsibilities
+
+Deliver integration and data solutions aligned with enterprise architecture principles and UNDA’s IT governance model, ensuring scalability, maintainability, and security.
+
+Ensure ETL/ELT processes and data pipelines are reliable, monitored, and meet SLAs while supporting analytics, reporting, and business intelligence needs.
+
+Apply DevSecOps practices to enable secure, automated, and resilient deployment of data and integration services, including infrastructure-as-code.
+
+Support service delivery in line with ITIL practices, focusing on reliability, incident response, change management, and continuous improvement.
+
+Collaborate with cross-functional teams, stakeholders, and external partners, and maintain clear system and user documentation for operational continuity.
+
+Provide mentorship and capability uplift to team members while driving continuous improvement through best practices, modern tooling, and automation.
+
+Qualifications, skills & experience
+
+Postgraduate qualification in Computer Science, Information Technology, or a related discipline, and equivalent relevant experience, or an equivalent combination of relevant experience and/or education/training.
+
+Preferred: Master’s degree in Data Science, Computer Science, or a closely related field.
+
+Proven experience designing and delivering enterprise-grade, cloud-native data and integration solutions on Microsoft Azure.
+
+Demonstrated experience designing, implementing, and governing integration and data solutions in complex enterprise environments using Microsoft Azure services, with strong capability in ETL/ELT, data warehousing, data lake architectures, SQL/NoSQL, and defining data engineering and modelling requirements for analytics and BI.
+
+Hands‑on expertise with Azure Functions, Logic Apps, ADF, APIM, Azure SQL, Data Lake, Service Bus, Event Grid, Azure DevOps, and Microsoft Fabric.
+
+Proficient in Python and C# and experienced with unit testing, automated testing, CI/CD pipelines, DevSecOps, and writing secure, high‑performance code while applying FinOps principles for cost optimisation.
+
+Proven ability to work across complex organisational structures, build strong cross‑functional relationships, apply data‑driven and risk‑based approaches to prioritise engineering activities, drive continuous improvement and innovation, and communicate technical concepts clearly to stakeholders.
+
+Benefits
+
+Fast paced environment with opportunity for professional growth
+
+Generous training and development opportunities
+
+Friendly and collaborative working environment
+
+How to apply
+
+Please apply online with a resume and cover letter outlining your suitability for the role.
+
+Applications closing date: 10 February 2026
+
+For further information on how to apply, please visit: How to apply | Notre Dame
+
+Applicants are expected to have current and valid work rights in Australia.
+
+Aboriginal and Torres Strait Islander people are encouraged to apply.      
+
+The University of Notre Dame Australia seeks to increase the diversity of our workforce to better meet the different needs of the University and its stakeholders and to improve equal opportunity outcomes for our staff.
+
+Contact us
+
+Please direct your queries regarding this role to Haritha Garlapati, Haritha.Garlapati@nd.edu.au
+
+Unsolicited contact from recruitment agencies will not be entertained."
+89943903,Integration Specialist (Mulesoft),Western Sydney Airport,https://www.seek.com.au/job/89943903?type=standard&ref=search-standalone&origin=jobCard#sol=8a590478fde2063091d9d0a6af56aeae67183a2e,2h ago,2.0,2026-01-27T03:00:00+00:00,"Liverpool, Sydney NSW (Hybrid)",Networks & Systems Administration (Information & Communication Technology),Full time,,"Western Sydney International (Nancy-Bird Walton) Airport is at the heart of the incredible transformation across Western Sydney. WSI will be a 24/7 hub for international, domestic and cargo services, create fantastic career opportunities in Sydney's cultural heartland.
 
 We've reached a major milestone with completion of the terminal and runway, and we're now working towards opening our world class airport later this year. Designed for efficiency and sustainability with state-of-the-art infrastructure and technology, there'll be opportunities for generations to come in Sydney's fastest growing area. We're now looking for passionate people who want to be part of something special - building a legacy for Western Sydney.
 
@@ -70,7 +287,7 @@ To apply for this role, you must already have the right to lawfully work and liv
 If you're our preferred candidate, you'll be requested to undergo background and medical checks.
 
 For more information explore the WSI website https://wsiairport.com.au or our Facebook, Instagram or LinkedIn pages."
-89941169,IBM Integration Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89941169?type=standard&ref=search-standalone&origin=jobCard#sol=e3d094d451835a28160c6efbfdba132381629f8f,2h ago,2.0,2026-01-27T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+89941169,IBM Integration Engineer,Capgemini Australia Pty Ltd,https://www.seek.com.au/job/89941169?type=standard&ref=search-standalone&origin=jobCard#sol=4c6397eae22af8816a7f6a341651d709d6d72183,3h ago,3.0,2026-01-27T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -132,7 +349,7 @@ We recognise the significance of flexible work arrangements to provide support. 
 At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.
 
 Equip yourself with valuable certifications in the latest technologies such as AWS and Microsoft Azure."
-89941110,Data Scientist,The Onset,https://www.seek.com.au/job/89941110?type=standard&ref=search-standalone&origin=jobCard#sol=82b304cdbf00a2f9b04635bcf251e8f4e2ef79db,2h ago,2.0,2026-01-27T02:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$140,000 - $180,000 + Super + Bonus","So many job ads talk about ""accountability"" - but here, it's all about opportunity.
+89941110,Data Scientist,The Onset,https://www.seek.com.au/job/89941110?type=standard&ref=search-standalone&origin=jobCard#sol=dbca1d0a977b70379ba26398372788755a32d3cc,3h ago,3.0,2026-01-27T02:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$140,000 - $180,000 + Super + Bonus","So many job ads talk about ""accountability"" - but here, it's all about opportunity.
 
 As the project architect, creator, and strategist, you’ll lead engagements end-to-end. You’ll be trusted to run delivery while tapping into internal and external support as needed. It’s a high-trust culture that rewards autonomy and craftsmanship.
 
@@ -156,7 +373,7 @@ High-performance bonus program with proven track record
 Strong global brand and high-impact projects
 Flexibility in working style and location
 Sound like you? Contact Ronny at ronny@theonset.com.au for a confidential discussion."
-89939753,Lead Full-Stack Embedded & IoT Software Engineer,PlasmaLeap Technologies Pty Ltd,https://www.seek.com.au/job/89939753?type=standard&ref=search-standalone&origin=jobCard#sol=6ace01445700be998c7b68e5176d45e1a60f3af5,2h ago,2.0,2026-01-27T02:00:00+00:00,"Camperdown, Sydney NSW",Systems Engineering (Engineering),Full time,,"About us
+89939753,Lead Full-Stack Embedded & IoT Software Engineer,PlasmaLeap Technologies Pty Ltd,https://www.seek.com.au/job/89939753?type=standard&ref=search-standalone&origin=jobCard#sol=7c4ec3a5e4498932336c9e140530fffa4c95a568,4h ago,4.0,2026-01-27T01:00:00+00:00,"Camperdown, Sydney NSW",Systems Engineering (Engineering),Full time,,"About us
 
 PlasmaLeap Technologies is a globally recognised Australian clean-chemicals company reinventing how the world makes molecules. We’re decarbonising heavy industry by putting clean, distributed chemical production in the hands of communities themselves. Our proprietary plasma reactors use renewable electricity, air and water to produce green fertilisers and fuels, creating a scalable, commercially viable pathway to net-zero that strengthens food security and bypasses fragile, fossil-fuel global supply chains entirely. 
 
@@ -232,7 +449,7 @@ We Own It - Every team member has a voice and takes real ownership in a cult
 We Celebrate Wins - Enjoy fun, engaging company events while working hard on ambitious goals. 
 
 We Reward Talent – To build the best, you have to employ the best. Competitive salary, equity, and coverage for training and conferences."
-89936560,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936560?type=standard&ref=search-standalone&origin=jobCard#sol=7048d761eae7824dd86894ff802a570e9d97dedf,5h ago,5.0,2026-01-26T23:00:00+00:00,"Chatswood, Sydney NSW (Remote)",Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
+89936560,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936560?type=standard&ref=search-standalone&origin=jobCard#sol=b180822fadb51b4932cf1f2b3af082945ca61bb5,6h ago,6.0,2026-01-26T23:00:00+00:00,"Chatswood, Sydney NSW (Remote)",Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
 
 The Integration team builds software that connects MMS systems to third parties and internal consumers.
 
@@ -297,7 +514,58 @@ We embrace hybrid working and welcome conversations about flexibility. 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89936225,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936225?type=standard&ref=search-standalone&origin=jobCard#sol=f7b51f4f53886740d6bfe3c66c009fecedf059c1,5h ago,5.0,2026-01-26T23:00:00+00:00,Brisbane QLD (Remote),Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
+89936307,Senior Software Engineer (.NET/AI),Corto Pty Ltd,https://www.seek.com.au/job/89936307?type=standard&ref=search-standalone&origin=jobCard#sol=a8a13688ba43fce1ce16d439801eec2c45177936,6h ago,6.0,2026-01-26T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"About CORTO
+
+CORTO is a rapidly growing Australian AI technology company reimagining how legal professionals work and is part of ATI – one of the largest international LegalTech companies. Our AI-powered platform streamlines every day legal tasks - from document drafting, research and matter analysis to intelligent filing and file-management - so lawyers, paralegals, and legal teams can focus on what really matters: delivering expert advice and excellent client service.
+
+We’re rapidly scaling from 80 to 150+ employees, with a highly technical workforce where around 90% of the team are developers and engineers. Working alongside our Sydney-based team of passionate high achievers, you’ll join a fast-growing technology business where things rarely stay the same for long - and if you’re smart, caring, and ambitious, you’ll be in great company.
+
+Meet the Content Systems team 
+
+You'll join our Content Systems team. Our Content Systems team is responsible for creating and maintaining key platforms used by our Content Development teams who create and deliver the legally drafted components of our world class software to our clients and law firms. There is a big focus on AI within this team!
+
+What you’ll do
+
+Your focus will be ensuring that the software being developed for internal Content Development teams and our clients meets our high expectations and functions seamlessly so there is minimal impact on them. This team is expanding, and you'll join as our newest Senior Software Engineer working on multiple projects varying from backend services to web applications, proposing new technologies and frameworks along the way to build the next generation of our products.
+
+To make this happen you will:
+
+Building and maintaining a complex enterprise MVVM WPF application with rigorous separation of concerns using Factory Pattern.
+Implementing AI-powered features that assist users with intelligent suggestions and automation.
+Creating sophisticated document processing workflows for legal documents.
+Working on integrating with cloud services and APIs for content management
+Working with WebView2 and hybrid web/desktop components and JavaScript.
+
+What you’ll bring:
+
+7+ years of professional experience in full stack development.
+Deep WPF/XAML experience with MVVM pattern.
+Proficiency in JavaScript, TypeScript and modern web development frameworks
+Knowledge of AI/ML integration in production applications
+Familiarity with OpenAI APIs or similar LLM services
+
+You are the type of person who
+
+Brings fresh ideas and challenges the status quo.
+Anticipates future needs and builds with extensibility in mind
+Collaborate openly and positively.
+Seeks deeper understanding and better solutions.
+
+CORTO is an inclusive, people-first company committed to breaking down institutional barriers that keep people from reaching their potential. If you meet some, but not all the requirements above, we encourage you to still submit your application.
+
+Why join CORTO?
+
+Your work matters. We solve real world problems that improve and support local, everyday law firms. So they can do their best work for the people in the communities they serve.
+Make an impact. You won’t be another ‘cog in the wheel’ here. We give full trust and autonomy for you to be heard, to work on big & complex projects – and to make a real difference.
+Work with a group of authentic, passionate people who love what they do.
+Well-funded and global. CORTO is part ofATI – one of the largest international LegalTech companies.
+Flexible and hybrid working. We engage, share, and collaborate on ideas and workflows.
+Career and learning opportunities; we move fast and need smart people to get us where we're going. We are a scaling business and looking for people who want to grow with us.
+Have fun with us. Celebrations. Socials. Sports teams. Access to sailing and yacht events.
+We value your well-being - Wellness focus with additional time off, gym membership and other perks.
+Fast-paced tech environment, if we don't disrupt ourselves someone else will do it!
+Access to LEAP Home - a program unique to LEAP to support you in buying your primary residence."
+89936225,Integration Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89936225?type=standard&ref=search-standalone&origin=jobCard#sol=61044d62db66596481328012c03853d8708d6716,7h ago,7.0,2026-01-26T22:00:00+00:00,Brisbane QLD (Remote),Developers/Programmers (Information & Communication Technology),Full time,"$145,000 – $150,000 per year","Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives. 
 
 The Integration team builds software that connects MMS systems to third parties and internal consumers.
 
@@ -362,7 +630,7 @@ We embrace hybrid working and welcome conversations about flexibility. 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89936217,Integrations Manager,Corto Pty Ltd,https://www.seek.com.au/job/89936217?type=standard&ref=search-standalone&origin=jobCard#sol=ef2b3b547852f063a55f75e9b2f274b4d793113c,5h ago,5.0,2026-01-26T23:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,,"About CORTO
+89936217,Integrations Manager,Corto Pty Ltd,https://www.seek.com.au/job/89936217?type=standard&ref=search-standalone&origin=jobCard#sol=a280127b20c8cf0bea7a51922cb55214f56f7052,7h ago,7.0,2026-01-26T22:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,,"About CORTO
 
 We are CORTO, a cutting-edge software company dedicated to revolutionizing the legal industry. Our mission is to empower legal practitioners with AI-driven solutions that streamline their workflow, boost productivity, and provide more efficient client service.
 
