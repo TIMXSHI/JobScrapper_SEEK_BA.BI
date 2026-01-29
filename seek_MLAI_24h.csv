@@ -1,5 +1,495 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-89991946,Senior AI Engineer,Insignia Financial Ltd,https://www.seek.com.au/job/89991946?type=standard&ref=search-standalone&origin=jobCard#sol=48c10c239ba41ac299bce0516186f74238b644c9,1h ago,1.0,2026-01-28T22:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+89995534,Lead MLOps Engineer – Imaging & Machine Vision,BT Imaging Pty Ltd,https://www.seek.com.au/job/89995534?type=standard&ref=search-standalone&origin=jobCard#sol=22aa823947f3ab20e0fb9bb85186b6457095e562,1h ago,1.0,2026-01-29T01:00:00+00:00,"Waterloo, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About BT Imaging:
+
+BT Imaging is the original inventor and world’s leading manufacturer of luminescence inspection tools for the solar photovoltaic industry. Headquartered in Sydney, Australia, BT Imaging develops and manufactures high-performance photoluminescence imaging systems used by solar cell manufacturers, researchers, and equipment makers worldwide. We combine innovative imaging techniques with industry-leading ML and data analytics capabilities to deliver imaging systems deployed by top-tier solar manufacturers and research institutions around the world to optimize production, improve quality control, and accelerate innovation in solar energy. With a focus on precision engineering, big data analytics, and sustainability, BT Imaging is a fast-growing, technology-driven company at the forefront of enabling the global transition to clean energy.
+
+
+
+
+About the Role 
+
+BT imaging is looking for an experienced MLOps and Image Processing Engineer to join our growing technology leadership team in Sydney.  
+
+This Role will spearhead the development, deployment, and optimization of machine vision algorithms and ML pipelines across BT Imaging’s product suite. You will architect robust infrastructure, work with cross-functional teams, engage with key strategic customers and ensure seamless integration of imaging ML models into production systems. This role blends hands-on engineering with strategic oversight and project management, with opportunities for customer engagement and leadership in a fast-growing sector. Furthermore, working in the Solar Industry offers the chance to make a tangible positive impact on the environment while engaging with cutting-edge technology.  
+
+
+
+
+Key Responsibilities 
+
+·        Lead development and maintenance of scalable and robust architectures for production ML systems and internal ML workflows, including scalable MLOps pipelines for training, testing, deployment, and monitoring of ML models. 
+
+·        Lead development of machine vision ML algorithms for solar cell defect detection, classification, and image enhancement in solar wafer inspection systems. 
+
+·        Lead/oversee project timelines, deliverables, and stakeholder communication for key strategic projects, balancing innovation with on-time execution. 
+
+·        Manage, implement and improve existing ML development workflows from requirements specification through to algorithm development and high-speed code implementation in C++ and/or Rust 
+
+·        Develop and incorporate best practices in CI/CD and on-premise cloud ML workflows, and ensure up to date machine learning models and training pipelines for image pattern recognition tasks, as appropriate. 
+
+·        Collaborate with hardware, software, and scientific teams to integrate high-performance ML models and align with product requirements 
+
+·        Document algorithm structure, system configurations, and usage in internal knowledge base. 
+
+·        Gather bug reports from the field to troubleshoot existing image processing algorithms and pipelines. 
+
+·        Participate in and guide external collaborations for ML development and lead technical reviews, ensuring code quality, reproducibility, and system reliability. 
+
+·        Support software development/deployment efforts and provide assistance with other ad-hoc projects as required 
+
+
+
+
+Essential Qualifications: 
+
+·        7+ years of experience in image processing, computer vision, and/or ML engineering. 
+
+·        Excellent communication and leadership skills with a track record of managing complex technical projects. 
+
+·        Proven expertise in MLOps tools (MLflow, Kubeflow, Airflow, etc.), ML deployment platforms (ONNX, etc) and cloud platforms (AWS, Azure, GCP) 
+
+·        Strong programming skills in Python, C++, and relevant ML/vision/image processing libraries (OpenCV, TensorFlow, PyTorch). 
+
+·        Experience with version control systems, release workflows and code management. 
+
+·        Experience with containerization, orchestration, and CI/CD pipelines. 
+
+·        Experience with project management and team productivity tools (Jira, Confluence). 
+
+·        Familiarity with machine vision and physical imaging systems. 
+
+
+
+
+Desired Qualifications and Experience 
+
+·        Ph.D. or Research Experience in Luminescence Imaging, Photovoltaic Device Physics, Image Machine Learning, Computer Vision, and related fields is a plus 
+
+·        Experience with developing supervised or semi-supervised ML pipelines for image segmentation tasks is highly preferred. 
+
+·        Experience with high performance computation optimization (OpenMP, memory profiling /layout, AVX/SIMD, GPU) is highly preferred 
+
+·        Familiarity with DLL interfacing in industrial software stacks based on Rust and/or LabView is preferred. 
+
+·        Experience of developing and packaging C++ software with Visual Studio is a plus. 
+
+
+
+
+Other Notes: 
+
+·        Candidates must have or be able to qualify for the right to work in Australia. 
+
+·        This is a senior role reporting to upper management and requires regular interaction with office-based teams. Hence, this is a fully office-based role and NOT a remote work role. 
+
+
+
+
+How To Apply 
+
+Please send your Cover letter and CV to hr@btimaging.com"
+89995210,Senior Data Engineer,Motion Recruitment,https://www.seek.com.au/job/89995210?type=standard&ref=search-standalone&origin=jobCard#sol=b042879d7f93d8f46b429656e34d9b6cffa32565,1h ago,1.0,2026-01-29T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,No,"Our client is expanding their data engineering practice and is looking for a Senior Data Engineer to design, build, and deliver modern data platforms. This is a hands-on role where you’ll code daily, while also leading small project squads; you'll be shaping scope, running stand-ups, managing risks, and ensuring business value is delivered with zero surprises.
+
+What you’ll do:
+
+Design and build scalable data models and pipelines on Snowflake and/or Microsoft Fabric (OneLake, Lakehouse, Pipelines, Dataflows Gen2, Semantic Models).
+Implement dbt transformations with best practices for modularity, lineage, and CI/CD.
+Optimise performance and cost across Snowflake virtual warehouses or Fabric capacities.
+Lead delivery: plan iterations, manage scope & risks, run ceremonies, and report progress to stakeholders.
+Uphold engineering excellence through code reviews, reusable patterns, and strong governance practices.
+What you’ll bring:
+
+5–10+ years of data engineering experience, preferably in consulting or enterprise delivery.
+Deep hands-on experience with Snowflake and/or Microsoft Fabric.
+Strong SQL, Python, and cloud storage/file format skills (Parquet/Delta/Iceberg).
+Experience leading small teams or workstreams, managing sprints, risks, and stakeholder communications.
+High attention to detail, excellent communication, and a passion for delivering quality solutions.
+Nice to have: Databricks, AWS data stack, Terraform/Bicep, advanced dbt/Coalesce skills, data governance, observability tools, BI/semantic modelling, and presales or project management experience.
+
+If you’re a hands-on Senior Data Engineer ready to take ownership of impactful projects, our client would love to hear from you!"
+89368653,"Lead Software Engineer (Full Stack), Applied AI",Motor Platform,https://www.seek.com.au/job/89368653?type=standard&ref=search-standalone&origin=jobCard#sol=b5c6e4250e3da470a2e88ac2cba7dc78aeaec2b7,2h ago,2.0,2026-01-29T00:00:00+00:00,"Lane Cove West, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About MotorPlatform
+
+MotorPlatform is Australia’s fastest-growing B2B automotive marketplace and SaaS platform.
+
+The core platform is built. The next phase is the hard, high-leverage work: scaling product, scaling engineering, and scaling operational excellence, while we shift to being AI-first in how we build and how the platform creates value.
+
+The role
+
+We’re hiring a Senior Full-Stack Engineer to act as Deputy Lead / 2IC in engineering. You’ll be a hands-on builder who can take ownership of major initiatives, lead projects end-to-end, and keep delivery moving with clarity and discipline.
+
+Onsite in Sydney. We want fast feedback loops, high collaboration, and strong product-engineering alignment.
+
+What you’ll be doing (this is a scale role, not a “greenfield” role)
+
+You’ll work on the problems that show up when something is already working and growing fast:
+
+Scale system performance, reliability, and developer velocity as usage expands
+
+Harden security, privacy, observability, and operational runbooks
+
+Build new marketplace capabilities that unlock liquidity, speed, and better dealer outcomes
+
+Reduce friction in critical workflows and improve conversion through product-led engineering
+
+Lead projects that cut across web, mobile, backend, and infrastructure
+
+Improve delivery predictability through planning, coordination, and proactive risk management
+
+Mentor engineers and set the bar for pragmatic, high-quality execution
+
+AI-first: what we expect from you
+
+We’re becoming an AI-first business. That means AI isn’t an experiment on the side—it’s part of the operating system.
+
+You’ll help embed AI into:
+
+Product: smarter workflows, better matching, better quality control, dealer-facing efficiency
+
+Operations: internal tools, automation, knowledge capture, faster support and triage
+
+Engineering: AI-assisted development, testing acceleration, improved reviews, quicker iteration
+
+You’ll partner with our AI/BI team to embed intelligence into the platform and marketplace, including:
+
+Integrating valuation engines into core workflows (pricing, buying, selling, approvals)
+
+Shipping analytics and insights (vehicle acquisition and disposal performance, liquidity signals, margin drivers)
+
+Productionising data/AI services: API contracts, monitoring, quality checks, fallbacks, latency and cost controls
+
+Building internal tools for faster decisions (dashboards, alerts, workflow automation)
+
+You don’t need an ML background. You do need to be comfortable shipping AI-enabled features responsibly and using AI to increase leverage.
+
+Tech stack
+
+Web: React
+
+Mobile: React Native
+
+Backend: PHP (Laravel & Vapor) + Node/TypeScript where it fits
+
+Database: Postgres
+
+Cloud: AWS (EC2, RDS, S3, Lambda)
+
+Delivery: CI/CD, testing, modern development practices
+
+What we’re looking for
+
+Must-haves
+
+Min 6+ years full-stack engineering experience in production
+
+Strong PHP/Laravel (non-negotiable)
+
+Strong React; React Native strongly valued
+
+Strong Postgres fundamentals (schema, migrations, optimisation)
+
+AWS experience (EC2/RDS/S3/Lambda)
+
+Track record leading delivery end-to-end and operating as a senior owner
+
+Highly organised, proactive, and quick to absorb product + industry context
+
+Wants to work onsite in Sydney (Lane Cove)
+
+Nice-to-haves
+
+Marketplace / high-growth SaaS scaling experience
+
+AI-enabled feature delivery (LLM APIs, retrieval/search, automation)
+
+IaC (Terraform/CloudFormation)
+
+Testing frameworks (PHPUnit/Pest, Jest/Mocha)
+
+Why this is a strong next step
+
+The platform is real and growing and your work immediately compounds
+
+You’ll have leadership scope without being removed from building
+
+You’ll help shape how we scale and how we embed AI into the business
+
+You’ll work closely with Product and influence what gets built and why
+
+Location
+
+Sydney (Onsite). Not remote. Not hybrid.
+
+
+
+
+Strictly no recruiters"
+89993379,Senior AI / GenAI Engineer (Google Cloud),Saltus Group,https://www.seek.com.au/job/89993379?type=standard&ref=search-standalone&origin=jobCard#sol=180ee92e0685c9a00039ff887ccd7a1918cc2685,3h ago,3.0,2026-01-28T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We're looking for a Senior AI / GenAI Engineer with deep Google Cloud Vertex AI experience to step into a client-facing technical lead role on a high-profile enterprise engagement. This is a 5 months contract to start with.
+ 
+This role is ideal for someone who enjoys solution shaping, GenAI architecture, and trusted-advisor work — without being locked into day-to-day offshore delivery.
+ 
+What You'll Do
+
+Act as the day-to-day technical face with enterprise stakeholders
+Translate business problems into AI & GenAI solution opportunities
+Provide early technical direction and architecture guidance
+Shape scalable, realistic solutions that flow cleanly into delivery
+Partner with Sales on upsell / cross-sell opportunities
+Collaborate closely with offshore engineering teams
+Must-Have Experience
+
+Google Vertex AI (advanced) -Model Garden, training, deployment, pipelines
+Generative AI on GCP -Gemini models, LLM integration, prompt engineering
+RAG architectures -Embeddings, chunking, vector search (Vertex AI Vector Search)
+Agentic AI- Tool/function calling, orchestration, guardrails
+MLOps / ML Engineering- Lifecycle management, monitoring, drift detection
+Strong client-facing / consulting experience
+Nice to Have
+
+Experience in regulated or large enterprise environments
+Strong stakeholder communication skills
+Exposure to enterprise architecture and cloud security
+What Success Looks Like
+
+Trusted technical advisor to senior client stakeholders
+Confident solution shaping that leads to scalable delivery
+Strong collaboration across onshore and offshore teams
+GenAI solutions delivering real, measurable business value
+Why this role?
+High-impact GenAI work on Google Cloud, a hybrid Sydney setup, and the chance to influence enterprise AI strategy without being buried in execution."
+89993141,Sr RPA Developer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89993141?type=standard&ref=search-standalone&origin=jobCard#sol=d8f0de41cdb917a556b792da2a4225c3fd131b91,3h ago,3.0,2026-01-28T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior RPA Developer - Blue Prism
+
+6-Month Contract | Sydney NSW | Hybrid
+Australian Citizenship Required
+
+About the Team
+
+Join a high-performing development team within the Smarter Data Program. You'll apply your technical expertise to challenging automation projects, helping deliver critical RPA processes that meet the highest standards for security, ethics, and performance. This is an opportunity to work in a collaborative environment with other RPA developers, contributing to impactful enterprise automation initiatives.
+
+
+About the Role
+
+We are seeking a Senior RPA Developer to design, develop, and deploy robust Blue Prism automation solutions. In this role, you will:
+
+Key Responsibilities:
+
+Design, develop, test, and deploy enterprise-level Blue Prism RPA processes.
+
+Prepare and contribute to Process Definition Documents (PDDs) and Solution Design Documents (SDDs) following the globally recognised Robotic Operating Model (ROM).
+
+Collaborate with business and technical stakeholders to deliver efficient, high-quality automation solutions.
+
+Apply critical thinking to troubleshoot and resolve complex technical problems.
+
+Implement secure coding practices and ensure all processes comply with government policies and mandated standards.
+
+Actively share knowledge and mentor junior team members.
+
+Introduce best practices and influence adoption of modern automation methodologies.
+
+
+About You
+
+You are a proactive, adaptable, and solution-oriented developer who thrives in collaborative and regulated environments.
+
+Key Attributes:
+
+Strong problem-solving skills and ability to work independently.
+
+Excellent written and verbal communication.
+
+Ability to translate feedback into actionable work items.
+
+Strong stakeholder management and collaboration focus.
+
+Willingness to learn new tools and technologies.
+
+Focus on best-practice adoption and knowledge sharing.
+
+
+Mandatory Skills & Experience
+
+Proven Blue Prism RPA development experience.
+
+Expertise in process optimisation and delivering automated solutions.
+
+Australian Citizenship is mandatory.
+
+
+Desirable
+
+Blue Prism Developer Certification (or equivalent).
+
+Qualifications in Computer Science, Software Engineering, Information Systems, or related fields.
+
+Experience with Blue Prism Interact and Control Room.
+
+
+Contract Details
+
+Duration: 6-month contract
+
+Location: Sydney NSW
+
+Work Arrangement: Hybrid
+
+
+How to Apply
+
+📩 Send your resume to priya.gabriel@talentinternational.com
+⏰ Applications close Friday, 30th January 2026"
+89993092,"AI Principal Technical Consultant , AI Delivery Acceleration",ServiceNow,https://www.seek.com.au/job/89993092?type=standard&ref=search-standalone&origin=jobCard#sol=0290e66b08f4cb5f39f29a408e7926a2d35c1877,3h ago,3.0,2026-01-28T23:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+
+
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+
+Job Description
+
+
+The Team
+
+We're on a mission to cut ServiceNow project delivery time in half through the strategic application of AI. Our team builds intelligent tools and solutions—leveraging both the ServiceNow platform and third-party technologies—that amplify the capabilities of our expert services personnel. From internal productivity tools to customer and partner-facing AI products, we're transforming how projects get delivered across the ecosystem.
+
+The Role
+
+The AI Principal Technical Consultant who can bridge deep ServiceNow platform expertise with modern AI capabilities. You'll design, build, and deploy AI-powered solutions that accelerate delivery for our services teams, partners, and customers. This is a hands-on role that combines technical implementation with consulting skills—you'll need to understand real delivery challenges and translate them into practical AI solutions. We're looking for a Principal Technical Consultant who can bridge deep ServiceNow platform expertise with modern AI capabilities. You will design and implement AI systems with NowAssist skills, AI Agents, and Workflow Data Fabric, relying on strong programming abilities across various languages and frameworks. You'll design, build, and deploy AI-powered solutions on the ServiceNow platform and using 3rd party tools. 
+
+What you get to do in this role:
+
+Design and implement AI solutions on the ServiceNow platform
+Stay current with emerging AI capabilities and evaluate their applicability to our platform and use cases
+Developing solutions specific to user requirements gathered in workshops
+Coordinating activities with other developers to ensure that Now Assist and platform functionality is designed to support the overall program objectives
+Ensuring that best practices in implementation AI solutions are followed
+Evaluating new technologies and 3rd party AI tools for use in the expert services organization
+Stay ahead of the ServiceNow platform roadmap, evaluating new AI features as they release and determining how they can accelerate delivery
+Develop deep expertise in Now Assist across workflows—understanding its configuration, customization, and optimal use cases for different implementation scenarios
+
+Qualifications
+
+
+To be successful in this role you have:
+
+Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.
+At least 8 years of configuration/development experience for complex, highly capable, solutions
+Demonstrated ability to influence and consult (providing options with pros, cons, and risks) in a complex and varied customer environment, while providing thought leadership to customer sponsors/stakeholders in solving business process and/or technical problems
+Maintain at least 2 ServiceNow mainline CIS certifications
+Maintain ServiceNow Certified Application Developer (CAD) certification
+Act as a technical lead on any engagement
+Understanding of AI Models, Deep Learning Models, and Large Language Models with a focus on Generative AI.
+Experience with ServiceNow’s Predictive/Task Intelligence, AI Search, and Virtual Agent is highly valued.
+Experience with development on the ServiceNow platform capabilities (Studio IDE, Mobile, Automated Test Framework, Delegated Development, Flow Designer, Source Control, APIs, and Integrations)
+Experience with data management, database design, and database concepts
+Knowledge and experience with technical components such as LDAP, VPN, SSL, SAML/SSO and other widespread enterprise technologies
+Connect chat, agent chat, and virtual agent configuration and design experience
+Encryption understanding and core design principals with customers (Platform, Edge, Database, Full Disk, etc)
+Strong Javascript skills with practical experience
+Experience with Self Hosted implementations and/or Domain Separation is a plus
+Experience with data management, database design, and database concepts
+Strong interpersonal skills, customer-centric attitude, and ability to operate within a culturally diverse environment
+Proven team builder with the ability to mentor and develop talent
+Analytical and problem-solving abilities
+A keen eye for detail and the ability to spot and fix errors in complex code
+Ability to perform tasks independently
+Good presentation and report-writing skills
+Up to 30% travel annually
+
+Additional Information
+
+
+Work Personas
+
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+
+Equal Opportunity Employer
+
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. 
+
+Accommodations
+
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance. 
+
+Export Control Regulations
+
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. 
+
+From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license."
+89993072,"AI Principal Technical Consultant , AI Delivery Acceleration",ServiceNow,https://www.seek.com.au/job/89993072?type=standard&ref=search-standalone&origin=jobCard#sol=45b24db328d831532997f32b75cbc11deeb3f4ea,3h ago,3.0,2026-01-28T23:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+
+
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+
+Job Description
+
+
+The Team
+
+We're on a mission to cut ServiceNow project delivery time in half through the strategic application of AI. Our team builds intelligent tools and solutions—leveraging both the ServiceNow platform and third-party technologies—that amplify the capabilities of our expert services personnel. From internal productivity tools to customer and partner-facing AI products, we're transforming how projects get delivered across the ecosystem.
+
+The Role
+
+The AI Principal Technical Consultant who can bridge deep ServiceNow platform expertise with modern AI capabilities. You'll design, build, and deploy AI-powered solutions that accelerate delivery for our services teams, partners, and customers. This is a hands-on role that combines technical implementation with consulting skills—you'll need to understand real delivery challenges and translate them into practical AI solutions. We're looking for a Senior Technical Consultant who can bridge deep ServiceNow platform expertise with modern AI capabilities. You will design and implement AI systems with NowAssist skills, AI Agents, and Workflow Data Fabric, relying on strong programming abilities across various languages and frameworks. You'll design, build, and deploy AI-powered solutions on the ServiceNow platform and using 3rd party tools. 
+
+What you get to do in this role:
+
+Design and implement AI solutions on the ServiceNow platform
+Stay current with emerging AI capabilities and evaluate their applicability to our platform and use cases
+Developing solutions specific to user requirements gathered in workshops
+Coordinating activities with other developers to ensure that Now Assist and platform functionality is designed to support the overall program objectives
+Ensuring that best practices in implementation AI solutions are followed
+Evaluating new technologies and 3rd party AI tools for use in the expert services organization
+Stay ahead of the ServiceNow platform roadmap, evaluating new AI features as they release and determining how they can accelerate delivery
+Develop deep expertise in Now Assist across workflows—understanding its configuration, customization, and optimal use cases for different implementation scenarios
+
+Qualifications
+
+
+To be successful in this role you have:
+
+Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.
+At least 8 years of configuration/development experience for complex, highly capable, solutions
+Demonstrated ability to influence and consult (providing options with pros, cons, and risks) in a complex and varied customer environment, while providing thought leadership to customer sponsors/stakeholders in solving business process and/or technical problems
+Maintain at least 2 ServiceNow mainline CIS certifications
+Maintain ServiceNow Certified Application Developer (CAD) certification
+Act as a technical lead on any engagement
+Understanding of AI Models, Deep Learning Models, and Large Language Models with a focus on Generative AI.
+Experience with ServiceNow’s Predictive/Task Intelligence, AI Search, and Virtual Agent is highly valued.
+Experience with development on the ServiceNow platform capabilities (Studio IDE, Mobile, Automated Test Framework, Delegated Development, Flow Designer, Source Control, APIs, and Integrations)
+Experience with data management, database design, and database concepts
+Knowledge and experience with technical components such as LDAP, VPN, SSL, SAML/SSO and other widespread enterprise technologies
+Connect chat, agent chat, and virtual agent configuration and design experience
+Encryption understanding and core design principals with customers (Platform, Edge, Database, Full Disk, etc)
+Strong Javascript skills with practical experience
+Experience with Self Hosted implementations and/or Domain Separation is a plus
+Experience with data management, database design, and database concepts
+Strong interpersonal skills, customer-centric attitude, and ability to operate within a culturally diverse environment
+Proven team builder with the ability to mentor and develop talent
+Analytical and problem-solving abilities
+A keen eye for detail and the ability to spot and fix errors in complex code
+Ability to perform tasks independently
+Good presentation and report-writing skills
+Up to 30% travel annually
+
+Additional Information
+
+
+Work Personas
+
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+
+Equal Opportunity Employer
+
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. 
+
+Accommodations
+
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance. 
+
+Export Control Regulations
+
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. 
+
+From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license."
+89991946,Senior AI Engineer,Insignia Financial Ltd,https://www.seek.com.au/job/89991946?type=standard&ref=search-standalone&origin=jobCard#sol=79dcadfd50bed0ee651bc261e70568fe64bf9372,4h ago,4.0,2026-01-28T22:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -96,7 +586,7 @@ Applicants will be required to provide evidence of their eligibility to work in 
 Please note that applications from agencies will not be considered at this time.
 
 We acknowledge and celebrate the richness that individual differences bring to our team. If you need assistance or an adjustment during the application process, please reach out and let us know."
-89991205,Power Platform Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89991205?type=standard&ref=search-standalone&origin=jobCard#sol=ab1e50481d93ff57290e6776e4b1aa2ba132f655,2h ago,2.0,2026-01-28T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
+89991205,Power Platform Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89991205?type=standard&ref=search-standalone&origin=jobCard#sol=b05b9cc02d65fcb11c99d40c36a40cd0f16cf2a7,6h ago,6.0,2026-01-28T20:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
 
 MMS is embarking on a major multi‑year technology transformation, rebuilding the core digital foundations that power some of Australia’s most recognised employee benefits and salary packaging brands.
 
@@ -175,7 +665,7 @@ Please note all successful candidates will undergo background checks (including 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89987278,Manufacturing Engineer,Anduril,https://www.seek.com.au/job/89987278?type=standard&ref=search-standalone&origin=jobCard#sol=329c1cad0cb5fa8edb71b86dba6109c0eeecab79,8h ago,8.0,2026-01-28T15:00:00+00:00,Sydney NSW,"Production, Planning & Scheduling (Manufacturing, Transport & Logistics)",Full time,,"Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+89987278,Manufacturing Engineer,Anduril,https://www.seek.com.au/job/89987278?type=standard&ref=search-standalone&origin=jobCard#sol=9cb4747c89a34f2955c8b0a77120a28d485fed44,11h ago,11.0,2026-01-28T15:00:00+00:00,Sydney NSW,"Production, Planning & Scheduling (Manufacturing, Transport & Logistics)",Full time,,"Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
 
 Anduril’s Manufacturing team is seeking a Manufacturing Engineer with an Electronic, Mechatronic or Process Engineering background to join our team in Sydney, Australia. The Manufacturing Team is responsible for rapidly iterating and building cutting-edge defence hardware for undersea and flight vehicles. As a Manufacturing Engineer, you will have responsibility for optimizing Anduril’s manufacturing operations for best-in-class quality, reliability, speed, and asset utilization, all while meeting critical customer and internal development timelines. The Manufacturing Engineer will be instrumental in taking a data-driven approach to designing production workstations and manufacturing processes to meet these objectives. Executing on this responsibility will entail active collaboration with Anduril teams across Supply Chain, Engineering, Quality, and Business Operations.
 
