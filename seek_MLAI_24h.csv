@@ -1,5 +1,365 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90006185,Human Factors Engineers (Various Levels),Network Rail Consulting,https://www.seek.com.au/job/90006185?type=standard&ref=search-standalone&origin=jobCard#sol=26ebb44d94c27b07b605c1e6e45e106f4dd38320,1h ago,1.0,2026-01-29T05:00:00+00:00,Sydney NSW,Management (Engineering),"Contract/Temp, Casual/Vacation, Full time",,"About Us
+90008444,Senior Data Engineer (Software Engineering background),Ailo,https://www.seek.com.au/job/90008444?type=standard&ref=search-standalone&origin=jobCard#sol=66cc9ce2079600291c5ce1671c95c8b60124600c,1h ago,1.0,2026-01-29T06:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"About Ailo
+
+Ailo (ailo.io) is a next-generation platform revolutionising the experience of managing, owning and living in an investment property, serving renters, investors, and property managers. With the help of industry-leading data insights and technology, we aim to empower property professionals with smarter tools to streamline operations, improve decision-making, whilst also creating new opportunities for renters and investors. Our vision is to make every investment a great home and every home a great investment.
+
+About the role
+
+Our Data Team is seeking a Data Engineer to integrate our data stack with our mobile and web products, while supporting internal teams and external customers with data-driven insights and analysis.
+
+In this role, you'll be instrumental in building reports and dashboards, and elevating our customer experience by developing AI-powered reporting and insights. This is a ground-floor opportunity to shape a new foundational capability, driving the future of data-driven decision-making for Ailo and our customers.
+
+What We're Looking For
+
+We’re seeking someone who brings expertise in both Data Engineering and Software Engineering.
+
+You should have:
+
+- Deep experience with modern data warehousing tools and data models
+
+- Proficiency in front-end and back-end development
+
+- The ability to develop quick prototypes and transform them into clean, production-ready
+
+solutions
+
+If you're passionate about data, analytics, and AI-driven insights, and eager to build something truly transformative, we’d love to hear from you!
+
+What does Ailo's tech stack look like:
+
+While your specific tech stack may differ, experience or a strong interest in the following types of technologies would be beneficial:
+
+● Back-end development (e.g., Node.js, Typescript, SQL like language)
+
+● Experience with cloud platforms (e.g., AWS)
+
+● Relational database (e.g., Postgres)
+
+● Data warehousing technologies (e.g., Redshift,).
+
+● Data transformation tools (e.g., Cubejs, dbt, etc).
+
+● Orchestration tools (e.g., Dagster, similar).
+
+● Version control (e.g., Git).
+
+● Basic CI/CD knowledge (e.g., Buildkite) Microservices and GraphQL
+
+What will you bring?
+
+● A strong engineering background with commercial software engineering experience.
+
+● Experience writing code in a variety of different languages and an enjoyment of learning
+
+new ones.
+
+● Strong SQL and Data Warehousing skills.
+
+● Experience with modern data warehouse stacks such as Redshift, Bigquery, Snowflake,
+
+or similar.
+
+● A focus on code quality and a preference for following engineering best practices.
+
+● Keenness to contribute to the development of analytics & data science tools.
+
+● An interest in learning more about distributed architectures and microservices.
+
+● A passion for solving real-world problems.
+
+● Curiosity and excitement when stepping into unfamiliar territory.
+
+● The ability to form your own opinions and a willingness to raise them.
+
+● An understanding of the importance of continuous integration and delivery (CI/CD)
+
+What’s in it for you?
+
+● A great place to learn. You'll work with people who are passionate about best
+
+practices in software development, and knowledgeable about software design
+
+patterns.
+
+● Flexible, non hierarchical working environment and a culture that empowers,
+
+supports and drives everyone to be their best.
+
+● Continuous feedback and a no-blame culture. You'll need to be comfortable giving
+
+and receiving feedback as well as sharing your knowledge and experiences with the
+
+team.
+
+If this role sounds anything like you please apply here …
+
+Please Note: We will not accept unsolicited CVs from recruitment agencies / 3rd parties
+
+and we will not be liable or responsible for any fees or costs associated with unsolicited
+
+CVs sent directly to line managers"
+90008328,Solution Architect - Data,Chandler Macleod,https://www.seek.com.au/job/90008328?type=standard&ref=search-standalone&origin=jobCard#sol=be67b3db5d716e9fac2825ab26b7ac106267167a,1h ago,1.0,2026-01-29T06:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,competitive market rates on offer,"We’re seeking a senior architecture professional to lead detailed solution design for a major enterprise data program currently transitioning from Foundation Solution Architecture (FSA) into full Detailed Design. You'll be joining our client AGL on a six month contract role, in Melbourne CBD working in a hybrid environment.
+
+This role requires someone who is hands‑on, technically credible, and experienced in navigating complex stakeholder environments with multiple vendors, engineering teams, and senior business leaders.
+
+About the Role
+As the Solution Architect, you will be responsible for shaping and delivering scalable Data & AI solutions across a large enterprise environment. You’ll champion a Data as a Product mindset and ensure modern, high‑performing architectural outcomes aligned to strategic objectives. You’ll play a pivotal role in designing data & AI capabilities across cloud platforms, enterprise data systems, emerging AI technologies, and model development pipelines. This is a technical leadership role with strong influence across engineering, business teams, and governance forums.
+
+What You’ll Be Doing
+
+Architecture & Design
+Develop detailed Data & AI solution designs, including network, security, metadata standards, and architectural documentation.
+Create data models, define relationships, and establish documentation such as data dictionaries and governance standards.
+Design scalable, high‑performance data architectures suitable for modern AI and GenAI workloads.
+Build reusable patterns and reference architectures across enterprise domains.
+Stakeholder Engagement & Leadership
+Work closely with business units, RTs, engineering teams, and multiple vendors to align solutions with strategic requirements.
+Present complex concepts in clear, business‑friendly language to senior stakeholders.
+Manage challenging stakeholders and drive alignment in ambiguous or high‑pressure environments.
+Provide technical leadership, mentoring, and oversight across delivery teams.
+Innovation & Emerging Tech
+Maintain deep expertise in AI/ML technologies and identify opportunities for their adoption.
+Explore and evaluate new technologies, including Open & Gen AI, LLMs (GPT‑5, Gemini, Claude), and advanced analytics capabilities.
+Lead Proof‑of‑Concept initiatives to validate solution strategies.
+Governance, Security & Compliance
+Apply industry regulations and standards including CDR, SOCI, Privacy, NIST/AESCSF, ISO 27001.
+Ensure all data solutions meet privacy, security, and compliance requirements.
+Support project planning and architectural governance across solution stages.
+What You’ll Bring
+Proven experience in Data & AI architecture and enterprise solution design.
+Hands‑on experience designing solutions using Databricks (not just leading teams).
+Proven expertise in Microsoft Fabric, cloud data platforms, big data, and advanced analytics.
+Strong skills in data modelling, data integration, and data warehousing.
+Practical experience with AI/ML model design, data preparation, training, tuning, and architecture definition.
+Knowledge of data mesh, microservices, event‑driven architectures, and Medallion architecture.
+Experience with technologies such as Apache Spark, NLP, Agentic AI, Computer Vision, AutoML, and Edge AI.
+High-level communication capability and a proven ability to work with difficult stakeholders in complex environments.
+Ideal Candidate Attributes
+Technically hands‑on and credible in front of engineering teams.
+Comfortable in fast‑paced, ambiguous environments.
+Capable of driving architecture through governance forums and delivery cycles.
+Strong problem-solving mindset with the ability to think creatively and strategically.
+Passionate about Data as a Product and modern data architecture principles.
+If you’re a highly experienced Data & AI Solution Architect ready to lead design for a flagship enterprise program, we’d love to hear from you.
+
+At Chandler Macleod, we are committed to fostering a diverse workforce where everyone is welcome. We encourage applications from Aboriginal and Torres Strait Islander peoples, women, neurodiverse, people living with a disability and the LGBTIQA+ community.
+
+You can read more about our commitment to diversity and inclusion at https://www.chandlermacleod.com/diversity-and-inclusion."
+90007765,Graph Engineer,Akkodis,https://www.seek.com.au/job/90007765?type=standard&ref=search-standalone&origin=jobCard#sol=58116ca8c5b74ba7885cb614dcff496692c11d06,1h ago,1.0,2026-01-29T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"What's in it for you?
+
+
+Cutting-edge role working on enterprise knowledge graphs, semantic tech, and Graph-RAG/LLM use cases.
+Hands-on engineering focus across ontology design, SPARQL, and production-grade graph DevOps.
+Flexible 12-month hybrid contract with 3 days onsite in Melbourne or Sydney.
+
+
+
+Role
+The Graph Engineer will design, build, and optimize scalable RDF-based knowledge graphs to enable advanced semantic querying and analytics. This role focuses on ontology modeling, data ingestion, and graph DevOps, working closely with data and business teams to unify complex data domains into a high-quality semantic architecture. The position is a 12-month contract, based in Melbourne or Sydney, with a hybrid work model.
+
+Location - Melbourne (preferred)/ Sydney (Secondary)
+
+Contract length - 12 months
+
+Expected 3 days in office per week
+
+
+Key Responsibilities
+
+Graph Database Development:
+Design, implement, and optimize RDF graph databases and triple stores to support scalable and performant semantic querying.
+Develop and manage data ingestion pipelines, integrating diverse data sources into the knowledge graph.
+Ontology Modeling and Semantic Mapping:
+Design and implement scalable ontologies and taxonomies (using OWL and RDFS) that accurately represent complex business domains.
+Perform semantic mapping to align disparate data sources into a unified, meaningful graph structure.
+Ensure data consistency and integrity using SHACL or ShEx constraints.
+Build reusable ontology components and templates that accelerate the design-to-build phase for new graph projects.
+Graph DevOps & Engineering Tooling:
+Contribute to internal frameworks and tooling that automate ontology generation, semantic mapping, and graph data ingestion workflows.
+Promote best practices for Graph DevOps, including automated validation, testing, and CI/CD pipelines for ontology and graph model deployment.
+Maintain versioning strategies and automated quality checks for RDF models, SHACL rules, and semantic assets.
+Develop efficient SPARQL queries and graph-based APIs to facilitate data retrieval and analytical workflows.
+Optimize data storage, indexing, and retrieval processes to ensure graph database performance and scalability.
+Semantic Architecture & Best Practices:
+Establish and enforce best practices for graph engineering, including naming conventions, schema design, and versioning strategies.
+Collaboration & Support:
+Actively engage with cross-functional teams (Data Domain Managers, Knowledge Modelers, Analysts) to support semantic use cases and ensure alignment with business objectives.
+Provide guidance and mentorship on RDF graph technologies to technical teams.
+
+
+
+
+Required Skills & Experience
+
+Demonstrated expertise with RDF, SPARQL, and OWL semantic standards.
+Minimum 3-5 years of experience designing, developing, and optimizing RDF-based knowledge graphs and semantic data solutions.
+Proven experience working with graph databases and triple stores (e.g., Stardog, Neo4j, Apache Jena, Amazon Neptune).
+Strong experience building robust data ingestion and integration pipelines from multiple data sources.
+Experience with languages such as Python & SQL and working knowledge of CI/CD frameworks (Jenkins, Terraform and Git)
+Familiarity with cloud services such as AWS, Azure, or Google Cloud for deploying graph database solutions.
+
+
+
+Nice to have
+
+Experience integrating RDF knowledge graphs with machine learning or AI-driven solutions.
+Experience using Knowledge Graphs to provide context for Large Language Models (LLMs) via Graph-RAG pattern
+Time series and Data virtualization experience
+
+
+
+
+Talented, committed, can-do individuals have always been the cornerstone of this dynamic organisation. If you have what it takes to thrive in this role and want to know more, please reach out to Isha Khanna at isha.khanna@akkodis.com
+
+
+
+Privacy
+
+
+
+Due to new privacy laws regarding the collection and handling of personal information, all applications must be submitted online. Once you click on the ""apply for this job"" button below you will be directed to our Online Centre where you will have the opportunity to read and agree to our Privacy and Consent statements and it will allow your details to be formally lodged and processed correctly.
+
+
+
+""Akkodis is an Equal Opportunity employer, committed to all forms of workforce inclusion. We actively invite and encourage applications by candidates from diverse backgrounds"""
+90007030,Data Engineer,Lockton Companies Australia,https://www.seek.com.au/job/90007030?type=standard&ref=search-standalone&origin=jobCard#sol=3a219e2ce2072e49f08a50d732b1466724f2d2a6,1h ago,1.0,2026-01-29T06:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Data Engineer
+
+Join the world’s largest privately owned insurance broker
+
+Advance your career in technology and insurance by collaborating with talented teams across the globe
+
+Primarily based at our Sydney office, with flexibility options available
+
+Report directly to our Analytics & BI Manager
+
+As a Data Engineer, you’ll play a pivotal role in Lockton’s data transformation journey. You’ll design and implement scalable, cost-efficient data architectures that power advanced analytics and business insights. By building and optimising high-performance data pipelines with Azure Databricks and Data Lake Storage, you’ll ensure seamless data flow across the enterprise. You’ll develop robust models and warehousing solutions for a single source of truth, apply governance and security best practices, and drive automation through CI/CD and DevOps. By collaborating globally and optimising performance, you’ll help shape a future‑ready data ecosystem that empowers smarter decisions.
+
+Working at Lockton is an exciting chance to be a part of a vision and growth which leads to results. Our flat structure allows anyone to raise ideas and think creatively; we are all about creating a culture where people feel valued and cared for.
+
+If this sounds like an environment you’d enjoy, we have an excellent opportunity for someone to join our team as a Data Engineer in our Sydney office.
+
+What will you be doing?
+
+Design and implement scalable and cost-efficient data architectures to enable advanced analytics and business insights.
+
+Build, optimise, and orchestrate high-performance data pipelines using Azure Databricks and Azure Data Lake Storage.
+
+Develop and maintain robust data models and warehousing solutions to deliver a trusted single source of truth.
+
+Apply data governance best practices, including cataloguing, lineage tracking, and validation processes.
+
+Ensure data security and compliance with corporate policies and standards.
+
+Drive DevOps and automation practices for data engineering, including CI/CD and automated deployments.
+
+Implement Git workflows and environment management across dev/test/prod.
+
+Collaborate with global teams to align architecture standards and share best practices.
+
+Monitor and optimise pipeline performance, implementing observability and alerts.
+
+Maintain clear documentation for data models, pipelines, and governance processes.
+
+ 
+
+You will need the following experience and qualifications:
+
+A bachelor’s degree in computer science, Information Technology, Data Science, or a related field.
+
+3–5 years of experience in data engineering, including at least 2 years with Azure Databricks.
+
+Proven experience in delivering production-grade pipelines and scalable solutions.
+
+Strong hands-on expertise with Azure Databricks (Spark, Delta Lake, workspace administration)
+
+Strong SQL and Python skills for data transformation, integration, and automation (R is a plus)
+
+Solid understanding of data architecture, data modelling and warehousing best practices.
+
+Familiarity with data governance tools (Unity Catalog, Microsoft Purview) and lineage tracking.
+
+Deep understanding of data security and compliance, including encryption, RBAC, and secure handling of sensitive information.
+
+Experience with DevOps for data engineering: CI/CD, Git workflows, automated deployments.
+
+Exposure to Infrastructure as Code (Terraform, ARM, or Bicep) is a bonus.
+
+Strong analytical and problem-solving skills with the ability to interpret complex data and deliver actionable insights.
+
+Excellent communication and stakeholder engagement skills to collaborate effectively with global teams.
+
+Certifications such as Microsoft Certified: Azure Data Engineer Associate or Databricks certifications are highly regarded.
+
+A growth mindset, high attention to detail, and commitment to continuous learning and innovation.
+
+About Lockton
+Lockton has grown to become the world’s largest privately owned insurance broker. At Lockton, we believe in empowering our people and fostering a culture of connection, innovation, and growth. You’ll be part of a collaborative team that values your voice and supports your professional development.
+
+With top-tier mentors and a 98% client retention rate in Australia, we employ some of the best and brightest minds in the risk and insurance industry.
+
+The insurance industry isn’t going anywhere. It’s stable. It’s secure. Over 300 Associates help organisations every-day to drive profitability over the long-term and become more resilient.
+
+To learn more about us, please visit global.lockton.com.
+
+
+
+
+We offer:
+
+A strong focus on training and development opportunities at all levels and a 10-week mentoring program.
+
+Discounted corporate private health insurance and a free flu vaccination program.
+
+Salary Continuance insurance to protect you and your family in the event you suffer an illness or injury.
+
+Extra paid Summer and Winter day to focus on your wellness.
+
+Paid parental leave and volunteer leave.
+
+Opportunities to give back to the communities in which we work and live.
+
+Access to an employee assistance program for coaching and counselling.
+
+The opportunity to get involved or participate in initiatives organised by our Wellness, Diversity, Equity, & Inclusion, Young Professionals and Corporate Social Responsibility Associate Resource Groups.
+
+
+
+
+How to apply:
+
+If you think you’d be a great fit, please click “apply” with a CV and detailed cover letter indicating why this job posting caught your attention and how your skills and experience are a fit for this role.
+
+Lockton is an equal opportunity employer. We strongly encourage applications from people of all backgrounds, ages, religions, including Aboriginal and Torres Strait Islander Peoples, LGBTIQ+ people, those with a disability, women and people with a cultural or linguistically diverse background.
+
+We do not accept speculative CVs from recruitment agencies and will not be liable for any fees associated with unsolicited submissions."
+90006945,Data Scientist - Spatial Imagery,TRS - Public Sector,https://www.seek.com.au/job/90006945?type=standard&ref=search-standalone&origin=jobCard#sol=bc8698350006d9b5aef29cd6966eab892292b237,1h ago,1.0,2026-01-29T06:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Flexible day rates based on exp,"Data Scientist | Spatial Imagery | Large Utilities Organisation
+6 month contract (multi year program)
+Flexible day rates based on experience
+Sydney / WFH (hybrid)
+Primary Purpose of the Role:
+
+Apply data science and engineering to large-scale imagery and spatial data to support asset identification, vegetation analytics, and infrastructure decision-making, using Azure-based data platforms.
+
+Key Accountabilities:
+
+Develop and deploy data science and analytics solutions on Azure
+Build and maintain Databricks notebooks and pipelines for large-scale image and spatial data processing
+Process and analyse high-volume imagery datasets for asset identification and condition insights
+Apply analytics and machine learning to imagery, LiDAR, point cloud, and 3D spatial data
+Support vegetation management and growth analytics for utility and infrastructure assets
+Work with structured and unstructured data across Azure Data Lake and related services
+Collaborate with engineers and infrastructure stakeholders to turn analytics into operational outcomes
+Contribute to scalable, production-ready data and analytics pipelines
+Selection Criteria:
+
+Hybrid data scientist / data engineer background
+Strong hands-on experience with Azure data platforms including Databricks and Data Lake
+Experience working with imagery, spatial, LiDAR, or asset-heavy datasets
+Strong Python skills with applied analytics or machine learning experience
+Comfortable operating in utilities or infrastructure environments
+Practical, delivery-focused mindset with production experience
+If you have relevant experience, please submit your latest CV and we will be in touch shortly!"
+90006185,Human Factors Engineers (Various Levels),Network Rail Consulting,https://www.seek.com.au/job/90006185?type=standard&ref=search-standalone&origin=jobCard#sol=54c96855099f5e43bad6e893e9f03d47b0753330,2h ago,2.0,2026-01-29T05:00:00+00:00,Sydney NSW,Management (Engineering),"Contract/Temp, Casual/Vacation, Full time",,"About Us
 
 Network Rail Consulting (NRC) is the international consultancy arm of Network Rail, the owner and operator of Britain’s railway. Since 2013, we’ve delivered over 200 consultancy contracts across Australia, the Middle East, and North America, supporting government agencies, public and private organisations, and passenger and freight operators.
 
@@ -58,7 +418,7 @@ Successful candidates will be required to undergo pre-employment checks which in
 NRC is an Equal Opportunity Employer. We welcome applications from all qualified candidates regardless of age, race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, or veteran status. Aboriginal and Torres Strait Islander peoples are encouraged to apply!
 
 We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation!"
-90005959,Principal Solution Architect - AI,NEC Australia Pty Ltd,https://www.seek.com.au/job/90005959?type=standard&ref=search-standalone&origin=jobCard#sol=ce228ca8dff80f87894a2a9496db13dc5bb12dbb,1h ago,1.0,2026-01-29T05:00:00+00:00,Perth WA,Architects (Information & Communication Technology),Full time,,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
+90005959,Principal Solution Architect - AI,NEC Australia Pty Ltd,https://www.seek.com.au/job/90005959?type=standard&ref=search-standalone&origin=jobCard#sol=bd6b42b720b1a526e09b17df4c0e24421df84ecc,2h ago,2.0,2026-01-29T05:00:00+00:00,Perth WA,Architects (Information & Communication Technology),Full time,,"Join a future-focused, innovative team driving digital transformation. NEC is a global leader in technology and communications solutions. As part of our growth, we’re looking for a passionate and experienced Principal Solution Architect – Artificial Intelligence (AI) Solutions to lead the strategic development and execution of AI products and solutions in the Australia and New Zealand (ANZ) markets.
 
 This role is pivotal in supporting the company’s vision and ensuring that our use of AI and offerings meet the evolving needs of our business across various use cases and applications. The successful candidate will work closely with internal teams, clients, and vendors to architect and enhance AI solutions, driving innovation and compliance with industry standards.
 
@@ -121,7 +481,7 @@ Work in a collaborative, inclusive, and forward-thinking environment.
 Opportunities for career growth, mentoring, and skill development.
 
 Please apply now."
-90005212,Senior Software Engineer - AI,Refactor.,https://www.seek.com.au/job/90005212?type=standard&ref=search-standalone&origin=jobCard#sol=d2d8a6ef4bdacbdcde1141303b3e4fac8f0b31b9,1h ago,1.0,2026-01-29T05:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,Up to $185k+super,"Senior Software Engineer, AI Development
+90005212,Senior Software Engineer - AI,Refactor.,https://www.seek.com.au/job/90005212?type=standard&ref=search-standalone&origin=jobCard#sol=740d987e769422b022fae5f3da04920cfd5bc3e6,2h ago,2.0,2026-01-29T05:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,Up to $185k+super,"Senior Software Engineer, AI Development
 
 Location: Australia (remote-first, AU-based)
 
@@ -347,7 +707,7 @@ james@re-factor.com.au
 
 
 #SCR-james-farrey"
-90004955,"Configuration Manager – Systems, Software & Data",Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90004955?type=standard&ref=search-standalone&origin=jobCard#sol=3d389d324316256c44d01688ee821e475e2db0a7,1h ago,1.0,2026-01-29T05:00:00+00:00,"Williamtown, Newcastle, Maitland & Hunter NSW",Other (Government & Defence),Full time,Competitive Salary + Great everyday discounts,"About us
+90004955,"Configuration Manager – Systems, Software & Data",Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90004955?type=standard&ref=search-standalone&origin=jobCard#sol=149c6f5ab7a25c7bd677800e392089ad109c0d04,2h ago,2.0,2026-01-29T05:00:00+00:00,"Williamtown, Newcastle, Maitland & Hunter NSW",Other (Government & Defence),Full time,Competitive Salary + Great everyday discounts,"About us
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -435,7 +795,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-90003352,Senior Data Scientist,Professional Search Group,https://www.seek.com.au/job/90003352?type=standard&ref=search-standalone&origin=jobCard#sol=bd07352c1e06b04067675e27a48e6a1d69efe0b9,2h ago,2.0,2026-01-29T05:00:00+00:00,Perth WA (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,Competitive,"Senior Data Scientist
+90003352,Senior Data Scientist,Professional Search Group,https://www.seek.com.au/job/90003352?type=standard&ref=search-standalone&origin=jobCard#sol=19b23df073a1f9ce16d0e77c20bb36b37f63208e,3h ago,3.0,2026-01-29T04:00:00+00:00,Perth WA (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,Competitive,"Senior Data Scientist
 
 Perth (Hybrid)
 Data Science | ML | NLP | GenAI | Data Platforms
@@ -483,7 +843,7 @@ Experience mentoring or guiding other data professionals
 
 If this sounds like you, please apply via Seek or email your CV directly to
 thana@psgaus.com.au"
-90003266,Data Architect,Professional Search Group,https://www.seek.com.au/job/90003266?type=standard&ref=search-standalone&origin=jobCard#sol=43b1415e3b9742fc379dfcbba79c728c95928291,2h ago,2.0,2026-01-29T05:00:00+00:00,Perth WA (Hybrid),Architects (Information & Communication Technology),Full time,Competitive,"Data Architect
+90003266,Data Architect,Professional Search Group,https://www.seek.com.au/job/90003266?type=standard&ref=search-standalone&origin=jobCard#sol=8b21eb5fcb794cfe7c65dca3a1405ff42bc21207,3h ago,3.0,2026-01-29T04:00:00+00:00,Perth WA (Hybrid),Architects (Information & Communication Technology),Full time,Competitive,"Data Architect
 
 Perth (Hybrid)
 Data Platforms | Architecture | Modelling | GenAI
@@ -522,7 +882,7 @@ Mentorship or technical leadership experience
 
 If this sounds like you, please apply via Seek or email your CV directly to
 thana@psgaus.com.au"
-90003209,Senior Controls Engineer,Six Degrees Executive Pty Ltd,https://www.seek.com.au/job/90003209?type=standard&ref=search-standalone&origin=jobCard#sol=73b0d73d756d3b315d2965096ce8ef01a6faa3d8,2h ago,2.0,2026-01-29T05:00:00+00:00,"Dandenong South, Melbourne VIC (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"The Business
+90003209,Senior Controls Engineer,Six Degrees Executive Pty Ltd,https://www.seek.com.au/job/90003209?type=standard&ref=search-standalone&origin=jobCard#sol=d86e550715e378d8de50b3aaa485de3c7c7a9d58,3h ago,3.0,2026-01-29T04:00:00+00:00,"Dandenong South, Melbourne VIC (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,,"The Business
 MiTek’s Automation business in Australia is one of its fastest-growing and most strategically important divisions, delivering advanced truss and frame manufacturing systems that combine mechanical design, control systems and software-driven automation. Over the past three years, revenue has grown from around $4 million to nearly $30 million, significantly exceeding targets and reflecting strong market demand for MiTek’s integrated automation solutions. The business designs, builds and supports everything from standalone machines to fully automated production lines across greenfield and brownfield sites, backed by a multidisciplinary local engineering team spanning controls, electrical, mechanical and software.
  
 This role
@@ -547,7 +907,7 @@ If this is interesting to you, please click apply or reach out to emmao@sde.com.
 Six Degrees Executive acknowledges the Traditional Custodians of the lands on which we work and live. We are also committed to equal opportunity and strive to promote diversity, inclusion, belonging, flexibility, and accessibility in all that we do.
 
 Should you require assistance in your interactions with us or through a recruitment process, please let us know so we can provide adjustments for you."
-90001010,Data Engineer,Alex Bank,https://www.seek.com.au/job/90001010?type=standard&ref=search-standalone&origin=jobCard#sol=4e501dcd2b4a067fb7fc9ef8dddf887bf20aad15,3h ago,3.0,2026-01-29T04:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At Alex Bank, we’re not like the big banks. We’re a digital-first, customer-focused lender committed to fairness, simplicity, and speed. With a rapidly growing customer base, award-winning digital products, and a culture built on innovation, Alex Bank has been recognised as one of Australia’s fastest-growing companies on both the AFR Fast Starters and Deloitte Fast 50 Technology lists.
+90001010,Data Engineer,Alex Bank,https://www.seek.com.au/job/90001010?type=standard&ref=search-standalone&origin=jobCard#sol=b1621a67d1f154a39c7cb7c0e494f0b93b42eec5,4h ago,4.0,2026-01-29T03:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At Alex Bank, we’re not like the big banks. We’re a digital-first, customer-focused lender committed to fairness, simplicity, and speed. With a rapidly growing customer base, award-winning digital products, and a culture built on innovation, Alex Bank has been recognised as one of Australia’s fastest-growing companies on both the AFR Fast Starters and Deloitte Fast 50 Technology lists.
 
 About the Role
 
@@ -601,7 +961,7 @@ If you're driven, customer-focused, and ready to play a key role in Alex Bank’
 Apply now to join a team that works hard, moves fast, and celebrates success together.
 
 Please note: This role is not open to recruitment agencies."
-90000306,AI Engineer,Aurecon,https://www.seek.com.au/job/90000306?type=standard&ref=search-standalone&origin=jobCard#sol=f19bc235b759b7b962eb135ce8ae0fb9abba4dc5,3h ago,3.0,2026-01-29T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Want to bring ideas to life?
+90000306,AI Engineer,Aurecon,https://www.seek.com.au/job/90000306?type=standard&ref=search-standalone&origin=jobCard#sol=da29b957b082a376f97e3f045e8614c61614caf1,4h ago,4.0,2026-01-29T03:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Want to bring ideas to life?
 
 You're in the right place. If you're looking for a fresh challenge, why choose Aurecon? It comes down to one, crucial question: What kind of world do you want to create for the next generation? Truth is, the decisions being made right now will determine the future of everything - from the local community to the entire planet. One of those decisions is: who do you decide to work for?
 
@@ -669,7 +1029,7 @@ Aurecon's strength has always been our people. It's our people who build our sha
 Ready to bring ideas to life?
 
 Apply now and help lead Aurecon's AI journey. Your background, unique needs and individuality will be valued. Visit our website to learn more at www.aurecongroup.com."
-89999355,Analytics Engineer,ABC,https://www.seek.com.au/job/89999355?type=standard&ref=search-standalone&origin=jobCard#sol=88b23ab2d08955f9d73cf413f95fd5837db73f70,4h ago,4.0,2026-01-29T03:00:00+00:00,Brisbane QLD (Hybrid),"Engineering - Software (Information & Communication Technology)
+89999355,Analytics Engineer,ABC,https://www.seek.com.au/job/89999355?type=standard&ref=search-standalone&origin=jobCard#sol=2e6e770485b1b4ffd284e365f0ae1db58ad49b0f,4h ago,4.0,2026-01-29T03:00:00+00:00,Brisbane QLD (Hybrid),"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,,"About the ABC
 
 The ABC is the nation's most trusted and independent source of Australian conversations, culture, and stories. With over 4,000 employees from diverse backgrounds across over 50 locations around Australia and overseas, we are proud to create, curate and deliver high-quality content that informs, educates and entertains Australian communities.
@@ -711,7 +1071,7 @@ To request recruitment and selection information in alternate formats, request a
 For more information on inclusive employee networks within the ABC please refer to Life Page on ABC LinkedIn. 
 
 For more information on working at the ABC visit abc.net.au/careers"
-89999243,Analytics Engineer,ABC,https://www.seek.com.au/job/89999243?type=standard&ref=search-standalone&origin=jobCard#sol=3d66b0faae502bf7c8e94333e30e74da46555bc1,4h ago,4.0,2026-01-29T03:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
+89999243,Analytics Engineer,ABC,https://www.seek.com.au/job/89999243?type=standard&ref=search-standalone&origin=jobCard#sol=3e0a93b2d3e2967b37af8b3e17032feb8be73ce2,4h ago,4.0,2026-01-29T03:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,,"About the ABC
 
 The ABC is the nation's most trusted and independent source of Australian conversations, culture, and stories. With over 4,000 employees from diverse backgrounds across over 50 locations around Australia and overseas, we are proud to create, curate and deliver high-quality content that informs, educates and entertains Australian communities.
@@ -753,7 +1113,7 @@ To request recruitment and selection information in alternate formats, request a
 For more information on inclusive employee networks within the ABC please refer to Life Page on ABC LinkedIn. 
 
 For more information on working at the ABC visit abc.net.au/careers"
-89999244,Analytics Engineer,ABC,https://www.seek.com.au/job/89999244?type=standard&ref=search-standalone&origin=jobCard#sol=ef6994e2d1e4a45b4e56355a441973b67b808316,4h ago,4.0,2026-01-29T03:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
+89999244,Analytics Engineer,ABC,https://www.seek.com.au/job/89999244?type=standard&ref=search-standalone&origin=jobCard#sol=dcb4328cc7cdf75100d6e07fc45f0d4d360b3b58,4h ago,4.0,2026-01-29T03:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,,"About the ABC
 
 The ABC is the nation's most trusted and independent source of Australian conversations, culture, and stories. With over 4,000 employees from diverse backgrounds across over 50 locations around Australia and overseas, we are proud to create, curate and deliver high-quality content that informs, educates and entertains Australian communities.
@@ -795,7 +1155,7 @@ To request recruitment and selection information in alternate formats, request a
 For more information on inclusive employee networks within the ABC please refer to Life Page on ABC LinkedIn. 
 
 For more information on working at the ABC visit abc.net.au/careers"
-89998817,Analytics Engineer,ABC,https://www.seek.com.au/job/89998817?type=standard&ref=search-standalone&origin=jobCard#sol=2e93bc54e16b5e9a4d0e17b051212fe96cdb5638,4h ago,4.0,2026-01-29T03:00:00+00:00,Sydney NSW (Hybrid),"Engineering - Software (Information & Communication Technology)
+89998817,Analytics Engineer,ABC,https://www.seek.com.au/job/89998817?type=standard&ref=search-standalone&origin=jobCard#sol=6a0e0fbb8d4ac81939b60aa81054924f9f283d80,5h ago,5.0,2026-01-29T02:00:00+00:00,Sydney NSW (Hybrid),"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,,"About the ABC
 
 The ABC is the nation's most trusted and independent source of Australian conversations, culture, and stories. With over 4,000 employees from diverse backgrounds across over 50 locations around Australia and overseas, we are proud to create, curate and deliver high-quality content that informs, educates and entertains Australian communities.
@@ -837,7 +1197,7 @@ To request recruitment and selection information in alternate formats, request a
 For more information on inclusive employee networks within the ABC please refer to Life Page on ABC LinkedIn. 
 
 For more information on working at the ABC visit abc.net.au/careers"
-89997807,Sr. Process Improvement Specialist,SALT SEARCH PTY LTD,https://www.seek.com.au/job/89997807?type=standard&ref=search-standalone&origin=jobCard#sol=b395c70600e9198b746f4a87a8b4946860ce5a6b,4h ago,4.0,2026-01-29T03:00:00+00:00,Sydney NSW (Hybrid),Programme & Project Management (Information & Communication Technology),Contract/Temp,$560 - $570 p.d. including super,"Hiring !! - Sr. Process Improvement Specialist
+89997807,Sr. Process Improvement Specialist,SALT SEARCH PTY LTD,https://www.seek.com.au/job/89997807?type=standard&ref=search-standalone&origin=jobCard#sol=1426d117cf4bcd853fd84bf5a77b34534d91ff9d,5h ago,5.0,2026-01-29T02:00:00+00:00,Sydney NSW (Hybrid),Programme & Project Management (Information & Communication Technology),Contract/Temp,$560 - $570 p.d. including super,"Hiring !! - Sr. Process Improvement Specialist
 
 Opportunity to work with Global organization leader in Agentic Ai.
 12 months contract - Possibility to extend
@@ -887,7 +1247,7 @@ To apply, click the link and upload your current resume in Microsoft Word format
 We're proud to have won the Best Mid-Sized Recruitment Company to Work For at the 2023 TIARA Recruitment Awards, and to have been finalists, for the second year in a row, in the Client Service and Recruitment Leader of the Year categories! At Salt, our mission is Creating Futures by putting our clients, candidates, partners, and team members at the heart of everything we do. We extend our sincere appreciation to everyone who has contributed to our continued success.
 
 Salt acknowledges the Traditional Owners of the lands across Australia as the continuing custodians of country and culture. We pay our respects to all First Nations Australians and their Elders past and present."
-89997021,Senior Data Engineer - Data Intelligence - Data ProductsNew,Culture Amp,https://www.seek.com.au/job/89997021?type=standard&ref=search-standalone&origin=jobCard#sol=28ff5a008026e320d8071c51f7826d66fa06a9bb,5h ago,5.0,2026-01-29T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Join us on our mission to make a better world of work. 
+89997021,Senior Data Engineer - Data Intelligence - Data ProductsNew,Culture Amp,https://www.seek.com.au/job/89997021?type=standard&ref=search-standalone&origin=jobCard#sol=83b41f29599a61145cac64827ceb2900f462021c,6h ago,6.0,2026-01-29T01:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Join us on our mission to make a better world of work. 
 
 Culture Amp is the world’s leading employee experience platform, revolutionizing how 25 million employees across more than 6,500 companies create a better world of work. Culture Amp empowers companies of all sizes and industries to transform employee engagement, drive performance management, and develop high-performing teams. Powered by people science and the most comprehensive employee dataset in the world, the most innovative companies including Canva, On, Asana, Dolby, McDonalds and Nasdaq depend on Culture Amp every day.
 
@@ -949,7 +1309,7 @@ Medical insurance coverage for you and your family (Available for US & UK only)�
 Additionally, we don't just focus on our internal community; we believe in creating a better world of work for all. We're committed to diversity, equity, and inclusion, with Employee Resource Groups and ally communities in place. 
 
 We have a strong commitment to Anti-Racism, and endeavor to lead by example. Every step we make as a business towards anti-racism is another step we can take to support our customers in making a better world (of work). You can see our current commitments to Anti-Racism here."
-89996992,Data Engineer - Data Intelligence - Data PlatformNew,Culture Amp,https://www.seek.com.au/job/89996992?type=standard&ref=search-standalone&origin=jobCard#sol=925418efccb7d3903916789fbcc730f65bc5a225,5h ago,5.0,2026-01-29T02:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Join us on our mission to make a better world of work. 
+89996992,Data Engineer - Data Intelligence - Data PlatformNew,Culture Amp,https://www.seek.com.au/job/89996992?type=standard&ref=search-standalone&origin=jobCard#sol=1cd85c96a641f4d839324c62710843ba5cec470e,6h ago,6.0,2026-01-29T01:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Join us on our mission to make a better world of work. 
 
 Culture Amp is the world’s leading employee experience platform, revolutionizing how 25 million employees across more than 6,500 companies create a better world of work. Culture Amp empowers companies of all sizes and industries to transform employee engagement, drive performance management, and develop high-performing teams. Powered by people science and the most comprehensive employee dataset in the world, the most innovative companies including Canva, On, Asana, Dolby, McDonalds and Nasdaq depend on Culture Amp every day.
 
@@ -1003,7 +1363,7 @@ Medical insurance coverage for you and your family (Available for US & UK only)�
 Additionally, we don't just focus on our internal community; we believe in creating a better world of work for all. We're committed to diversity, equity, and inclusion, with Employee Resource Groups and ally communities in place. 
 
 We have a strong commitment to Anti-Racism, and endeavor to lead by example. Every step we make as a business towards anti-racism is another step we can take to support our customers in making a better world (of work). You can see our current commitments to Anti-Racism here."
-89996990,Data Engineer - Data Intelligence - Data PlatformNew,Culture Amp,https://www.seek.com.au/job/89996990?type=standard&ref=search-standalone&origin=jobCard#sol=faf8dce81957332d407b279553ad903fc22c0407,5h ago,5.0,2026-01-29T02:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Join us on our mission to make a better world of work. 
+89996990,Data Engineer - Data Intelligence - Data PlatformNew,Culture Amp,https://www.seek.com.au/job/89996990?type=standard&ref=search-standalone&origin=jobCard#sol=d48f1394203999dbb5ee7920024d2d4dde9c609e,6h ago,6.0,2026-01-29T01:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"Join us on our mission to make a better world of work. 
 
 Culture Amp is the world’s leading employee experience platform, revolutionizing how 25 million employees across more than 6,500 companies create a better world of work. Culture Amp empowers companies of all sizes and industries to transform employee engagement, drive performance management, and develop high-performing teams. Powered by people science and the most comprehensive employee dataset in the world, the most innovative companies including Canva, On, Asana, Dolby, McDonalds and Nasdaq depend on Culture Amp every day.
 
@@ -1057,7 +1417,7 @@ Medical insurance coverage for you and your family (Available for US & UK only)�
 Additionally, we don't just focus on our internal community; we believe in creating a better world of work for all. We're committed to diversity, equity, and inclusion, with Employee Resource Groups and ally communities in place. 
 
 We have a strong commitment to Anti-Racism, and endeavor to lead by example. Every step we make as a business towards anti-racism is another step we can take to support our customers in making a better world (of work). You can see our current commitments to Anti-Racism here."
-89995534,Lead MLOps Engineer – Imaging & Machine Vision,BT Imaging Pty Ltd,https://www.seek.com.au/job/89995534?type=standard&ref=search-standalone&origin=jobCard#sol=c6455a9e42cfb925f8fdc5e3ddeb03f3db24bd16,5h ago,5.0,2026-01-29T02:00:00+00:00,"Waterloo, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About BT Imaging:
+89995534,Lead MLOps Engineer – Imaging & Machine Vision,BT Imaging Pty Ltd,https://www.seek.com.au/job/89995534?type=standard&ref=search-standalone&origin=jobCard#sol=292617c87b6b27ead3bafdb127cadfa68b6c5b3f,6h ago,6.0,2026-01-29T01:00:00+00:00,"Waterloo, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About BT Imaging:
 
 BT Imaging is the original inventor and world’s leading manufacturer of luminescence inspection tools for the solar photovoltaic industry. Headquartered in Sydney, Australia, BT Imaging develops and manufactures high-performance photoluminescence imaging systems used by solar cell manufacturers, researchers, and equipment makers worldwide. We combine innovative imaging techniques with industry-leading ML and data analytics capabilities to deliver imaging systems deployed by top-tier solar manufacturers and research institutions around the world to optimize production, improve quality control, and accelerate innovation in solar energy. With a focus on precision engineering, big data analytics, and sustainability, BT Imaging is a fast-growing, technology-driven company at the forefront of enabling the global transition to clean energy.
 
@@ -1146,7 +1506,7 @@ Other Notes: 
 How To Apply 
 
 Please send your Cover letter and CV to hr@btimaging.com"
-89995210,Senior Data Engineer,Motion Recruitment,https://www.seek.com.au/job/89995210?type=standard&ref=search-standalone&origin=jobCard#sol=15c8a757f1aa19c92427693146353eb1559ffaa8,5h ago,5.0,2026-01-29T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,No,"Our client is expanding their data engineering practice and is looking for a Senior Data Engineer to design, build, and deliver modern data platforms. This is a hands-on role where you’ll code daily, while also leading small project squads; you'll be shaping scope, running stand-ups, managing risks, and ensuring business value is delivered with zero surprises.
+89995210,Senior Data Engineer,Motion Recruitment,https://www.seek.com.au/job/89995210?type=standard&ref=search-standalone&origin=jobCard#sol=9acceda7672083d4f5edd9464cdcf7af6e413227,6h ago,6.0,2026-01-29T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,No,"Our client is expanding their data engineering practice and is looking for a Senior Data Engineer to design, build, and deliver modern data platforms. This is a hands-on role where you’ll code daily, while also leading small project squads; you'll be shaping scope, running stand-ups, managing risks, and ensuring business value is delivered with zero surprises.
 
 What you’ll do:
 
@@ -1165,7 +1525,7 @@ High attention to detail, excellent communication, and a passion for delivering 
 Nice to have: Databricks, AWS data stack, Terraform/Bicep, advanced dbt/Coalesce skills, data governance, observability tools, BI/semantic modelling, and presales or project management experience.
 
 If you’re a hands-on Senior Data Engineer ready to take ownership of impactful projects, our client would love to hear from you!"
-89368653,"Lead Software Engineer (Full Stack), Applied AI",Motor Platform,https://www.seek.com.au/job/89368653?type=standard&ref=search-standalone&origin=jobCard#sol=a1196022c9872f135366aa7983534205a38e57cb,6h ago,6.0,2026-01-29T01:00:00+00:00,"Lane Cove West, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About MotorPlatform
+89368653,"Lead Software Engineer (Full Stack), Applied AI",Motor Platform,https://www.seek.com.au/job/89368653?type=standard&ref=search-standalone&origin=jobCard#sol=f6bdb229dd0f56b44ffc777203e8dcea55e092d6,7h ago,7.0,2026-01-29T00:00:00+00:00,"Lane Cove West, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About MotorPlatform
 
 MotorPlatform is Australia’s fastest-growing B2B automotive marketplace and SaaS platform.
 
@@ -1281,7 +1641,7 @@ Sydney (Onsite). Not remote. Not hybrid.
 
 
 Strictly no recruiters"
-89993379,Senior AI / GenAI Engineer (Google Cloud),Saltus Group,https://www.seek.com.au/job/89993379?type=standard&ref=search-standalone&origin=jobCard#sol=141da8abf5c0f8dfdcaebef45946c796ee4df729,7h ago,7.0,2026-01-29T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We're looking for a Senior AI / GenAI Engineer with deep Google Cloud Vertex AI experience to step into a client-facing technical lead role on a high-profile enterprise engagement. This is a 5 months contract to start with.
+89993379,Senior AI / GenAI Engineer (Google Cloud),Saltus Group,https://www.seek.com.au/job/89993379?type=standard&ref=search-standalone&origin=jobCard#sol=bda9b4e5a21fb2d280cf997d30a9e1a59d2a1d32,8h ago,8.0,2026-01-28T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We're looking for a Senior AI / GenAI Engineer with deep Google Cloud Vertex AI experience to step into a client-facing technical lead role on a high-profile enterprise engagement. This is a 5 months contract to start with.
  
 This role is ideal for someone who enjoys solution shaping, GenAI architecture, and trusted-advisor work — without being locked into day-to-day offshore delivery.
  
@@ -1314,7 +1674,7 @@ Strong collaboration across onshore and offshore teams
 GenAI solutions delivering real, measurable business value
 Why this role?
 High-impact GenAI work on Google Cloud, a hybrid Sydney setup, and the chance to influence enterprise AI strategy without being buried in execution."
-89993141,Sr RPA Developer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89993141?type=standard&ref=search-standalone&origin=jobCard#sol=0cbd2aa88ac2e27b004c4e4e65d4947443cbece5,7h ago,7.0,2026-01-29T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior RPA Developer - Blue Prism
+89993141,Sr RPA Developer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/89993141?type=standard&ref=search-standalone&origin=jobCard#sol=26a23e96ded9210e23d68f00a6a96cc84a2d87ae,8h ago,8.0,2026-01-28T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Senior RPA Developer - Blue Prism
 
 6-Month Contract | Sydney NSW | Hybrid
 Australian Citizenship Required
@@ -1395,7 +1755,7 @@ How to Apply
 
 📩 Send your resume to priya.gabriel@talentinternational.com
 ⏰ Applications close Friday, 30th January 2026"
-89993092,"AI Principal Technical Consultant , AI Delivery Acceleration",ServiceNow,https://www.seek.com.au/job/89993092?type=standard&ref=search-standalone&origin=jobCard#sol=53244322136394f6ba01d2ecb730411cbffd5c57,7h ago,7.0,2026-01-29T00:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+89993092,"AI Principal Technical Consultant , AI Delivery Acceleration",ServiceNow,https://www.seek.com.au/job/89993092?type=standard&ref=search-standalone&origin=jobCard#sol=013884ffb9845558e0f0d8dab7f26be2555aceb3,8h ago,8.0,2026-01-28T23:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 
 It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
@@ -1471,7 +1831,7 @@ Export Control Regulations
 For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. 
 
 From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license."
-89993072,"AI Principal Technical Consultant , AI Delivery Acceleration",ServiceNow,https://www.seek.com.au/job/89993072?type=standard&ref=search-standalone&origin=jobCard#sol=7d00a7a0b19bc1b71a6458d913d03190fcc3f4b2,8h ago,8.0,2026-01-28T23:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+89993072,"AI Principal Technical Consultant , AI Delivery Acceleration",ServiceNow,https://www.seek.com.au/job/89993072?type=standard&ref=search-standalone&origin=jobCard#sol=40bffaab1338fadcfd2b4d81a5bf7f5938797939,8h ago,8.0,2026-01-28T23:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 
 It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
@@ -1547,7 +1907,7 @@ Export Control Regulations
 For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. 
 
 From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license."
-89991946,Senior AI Engineer,Insignia Financial Ltd,https://www.seek.com.au/job/89991946?type=standard&ref=search-standalone&origin=jobCard#sol=81697683fc7c2eb9dd90b164f48ec5444dc730eb,8h ago,8.0,2026-01-28T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+89991946,Senior AI Engineer,Insignia Financial Ltd,https://www.seek.com.au/job/89991946?type=standard&ref=search-standalone&origin=jobCard#sol=eaa0c23b7536179f1c1b18f5969ee160c0ac3a9d,9h ago,9.0,2026-01-28T22:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -1644,7 +2004,7 @@ Applicants will be required to provide evidence of their eligibility to work in 
 Please note that applications from agencies will not be considered at this time.
 
 We acknowledge and celebrate the richness that individual differences bring to our team. If you need assistance or an adjustment during the application process, please reach out and let us know."
-89991205,Power Platform Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89991205?type=standard&ref=search-standalone&origin=jobCard#sol=823bea6f9756956e96f9b5dad4b60562707441cf,10h ago,10.0,2026-01-28T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
+89991205,Power Platform Engineer,McMillan Shakespeare,https://www.seek.com.au/job/89991205?type=standard&ref=search-standalone&origin=jobCard#sol=731be009ccd11f6f754eedf4dde1455e94aedd20,11h ago,11.0,2026-01-28T20:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Making a difference isn’t just our purpose, it’s what motivates our people every day. For us, work is not about ticking a box. It’s about knowing that it matters. We make a meaningful difference every day by making it easier for our customers to focus on what matters in their lives.
 
 MMS is embarking on a major multi‑year technology transformation, rebuilding the core digital foundations that power some of Australia’s most recognised employee benefits and salary packaging brands.
 
@@ -1723,7 +2083,7 @@ Please note all successful candidates will undergo background checks (including 
 We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
 If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-89987278,Manufacturing Engineer,Anduril,https://www.seek.com.au/job/89987278?type=standard&ref=search-standalone&origin=jobCard#sol=5d4a05f6060af57df59c44a5f039e0d4a5c8c3d0,16h ago,16.0,2026-01-28T15:00:00+00:00,Sydney NSW,"Production, Planning & Scheduling (Manufacturing, Transport & Logistics)",Full time,,"Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+89987278,Manufacturing Engineer,Anduril,https://www.seek.com.au/job/89987278?type=standard&ref=search-standalone&origin=jobCard#sol=4152d6ebe8ac2162a5f2b7aeaadb6b13f19d88b7,17h ago,17.0,2026-01-28T14:00:00+00:00,Sydney NSW,"Production, Planning & Scheduling (Manufacturing, Transport & Logistics)",Full time,,"Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
 
 Anduril’s Manufacturing team is seeking a Manufacturing Engineer with an Electronic, Mechatronic or Process Engineering background to join our team in Sydney, Australia. The Manufacturing Team is responsible for rapidly iterating and building cutting-edge defence hardware for undersea and flight vehicles. As a Manufacturing Engineer, you will have responsibility for optimizing Anduril’s manufacturing operations for best-in-class quality, reliability, speed, and asset utilization, all while meeting critical customer and internal development timelines. The Manufacturing Engineer will be instrumental in taking a data-driven approach to designing production workstations and manufacturing processes to meet these objectives. Executing on this responsibility will entail active collaboration with Anduril teams across Supply Chain, Engineering, Quality, and Business Operations.
 
