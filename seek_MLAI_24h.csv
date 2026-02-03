@@ -1,5 +1,486 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90083764,Technical Analyst - AI,MFTE Staffing Services,https://www.seek.com.au/job/90083764?type=standard&ref=search-standalone&origin=jobCard#sol=c2ee4c6453f0f0a9e2b9ab2a04020b356b5d5d24,1h ago,1.0,2026-02-02T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$130,000 – $145,000 per year","Technical Analyst – AI & Automation
+90088723,Data Modeller,HCF Australia,https://www.seek.com.au/job/90088723?type=standard&ref=search-standalone&origin=jobCard#sol=eb2a5665f91b2d54d6f5633c95c369647d687c7d,1h ago,1.0,2026-02-03T01:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,,"This role exists to design and maintain high-quality data models that accurately represent the complex relationships within private health insurance, including member data, claims, benefits, providers, and regulatory reporting.
+
+
+
+Responsibilities
+
+Develop and maintain conceptual, logical, and physical data models that reflect core business domains such as members, policies, claims, providers, benefits, and regulatory reporting.
+Ensure models are scalable, reusable, performant, and aligned with enterprise and data architecture standards
+Analyse source systems to understand data structures, relationships, and business rules.
+Create and maintain detailed data requirements and data mapping documentation to support integration, transformation, and reporting
+Collaborate with business SMEs, data engineers, analysts, and architects to gather requirements and translate them into data models.
+Facilitate workshops and walkthroughs to align models with business processes and terminology
+Produce and maintain comprehensive documentation including data dictionaries, entity-relationship diagrams, and lineage diagrams.
+Contribute to metadata management and data cataloguing initiatives to improve data discoverability and governance
+Define and enforce data modelling standards, naming conventions, and data definitions.
+Support data governance efforts by ensuring models comply with privacy, security, and regulatory requirements
+Integrate data modelling and analysis tasks into automated CI/CD pipelines.
+Implement version control for data models and analysis code using different tools like Azure DevOps
+Explore and implement AI and GEN AI/LLM capabilities to enhance data mapping and modelling efforts
+Perform work in a manner that complies with relevant regulatory standards including Work Health & Safety (WHS) legislation
+
+Essential
+
+Bachelor's or Master's degree in Computer Science, Engineering or a related discipline
+7 years + of commercial experience in a Data Modeller role.
+Python and Advanced SQL experience, including fluency with PL/SQL procedures
+Advanced data mapping and modelling skills - dimensional modelling (star/snowflake schemas, fact/dimension models), Normalisation and Denormalisation (for logical and physical model design) and Modelling Tools (e.g. Erwin, SQL Server Data Tools, Visio).
+Experience in ETL/ELT and data warehousing concepts.
+Experience with Data Lakes and Data Warehouses (platforms like Snowflake, Databricks, Synapse, Amazon S3)
+Knowledge of Data Vault modelling technique
+Experience gathering and documenting data & reporting requirements, data catalogues, lineage tools and internal governance frameworks.
+Prior experience in the private health insurance or healthcare domain is highly desirable.
+Experience in Gen AI/LLM for data platforms is desirable
+
+About HCF
+
+At HCF, our purpose is to bring our human touch to healthcare. Since 1932 we've been putting our members and their health first. As Australia's largest not-for-profit health fund, we cover over 1.9 million members with health, life, travel and pet insurance and our vision is to make healthcare understandable, affordable, high quality and member centric.
+
+We want to be true health partners to our members, easily guiding the healthcare choices that are right for them. At HCF, our values are the way we do things and create the necessary culture to help us realise our purpose and deliver our Strategy. Living our values in action we step forward, walk in their shoes, stay human, make it better and get there together.
+
+Culture & Benefits
+
+Purpose-driven passion
+We're united by a common purpose: to make healthcare affordable, understandable, high quality and member-focused.
+
+Wellness and work-life balance
+We'll empower you with the necessary skills and tools to support your personal wellbeing journey, ensuring you perform at your best. Our offerings include:
+* 50% subsidy on HCF hospital and/or extras cover
+* 18 weeks of parental leave for all new parents
+* Mental health and wellbeing programs, including workshops, fitness classes, flu vaccinations, skin checks and more
+* Discounts on HCF's products, including life, pet and travel Insurance, as well as discounts at Fitness First gyms and on our eyecare products.
+
+Collaboration and inclusivity
+We embrace diversity as our strength and are committed to maintaining an inclusive and collaborative work environment. Our workplace is welcoming and safe for all our employees, irrespective of their unique characteristics including age, ethnicity, cultural or spiritual background, gender identity, disability, education and socio-economic status.
+
+Continuous learning and growth
+We believe in lifelong learning. HCF provides opportunities for personal and professional development. From workshops to mentorship programs, we encourage your growth and curiosity.
+
+
+
+Next steps
+
+If you require any adjustments to assist you in making your application or during the recruitment or onboarding process, please reach out to Talent Acquisition - peopleservices@hcf.com.au to discuss.
+
+We encourage applicants to submit their applications at their earliest convenience, as at HCF, we review applications as they are submitted, and may have filled the role prior to the job closing date."
+90087793,Platforms Engineer - Compute & Storage,AC3 Pty Limited,https://www.seek.com.au/job/90087793?type=standard&ref=search-standalone&origin=jobCard#sol=01dfa6e60b52fc424392ef0c29c105029210421c,1h ago,1.0,2026-02-03T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who you’ll be working with
+
+At AC3, our purpose is to make technology real, and as leaders in secure multi-cloud solutions, we get to bring that purpose to life for our customers every day. We’re an Australian-owned ICT managed service provider with teams in Sydney, Melbourne, Brisbane, and Auckland, supporting more than 700 enterprise organisations and over 50% of the NSW State Government.
+  
+Why join us?
+
+What sets us apart is our culture - people here have real relationships that go beyond work, and maintaining our awesome culture, supportive spirit, and belief that everyone is heard and treated with respect, is a top priority at AC3.
+We’re committed to a workplace that fosters open communication, flexible working arrangements, continuous learning, and providing support to get through life’s changing seasons.
+We live by the AC3 way - Work Wise, Work Humble, and Work Honest.
+  
+Who are we looking for?
+
+As a Platforms Engineer (Compute & Storage), you will be responsible for the planning, provisioning and lifecycle management of AC3’s compute, SAN/NAS storage and backup infrastructure. You’ll drive hardware install/config/validation, break-fix, upgrades, migrations and decommissioning, while continuously improving monitoring, capacity management, automation and documentation. This role partners closely with Cloud Infrastructure, Networking, SRE and Facilities teams and supports escalations across the business.
+
+AC3 is dedicated to grow the representation of women in technology and are warmly encouraged to apply.
+  
+What you’ll do?
+
+Plan, provision and manage compute and storage infrastructure across AC3: install, configure, validate, break-fix, migrate and decommission.
+Perform hardware and OOB/UEFI/middleware upgrades and refreshes; contribute to lifecycle planning and platform health recommendations.
+Support capacity management and automate tasks/processes wherever possible; use orchestration tooling where practical.
+Maintain and improve service-based monitoring coverage; consolidate physical asset information in a centralised database.
+Manage backup infrastructure (Commvault): lifecycle tasks, capacity management, monitoring intelligence and backup success targets.
+Work across Platforms teams to support integrations and automation (including HPE DMF where applicable).
+Participate as a standby/on-call resource for compute and storage hardware-specific alerts and escalations (as required).
+Maintain strong information security and quality practices (policies, training, reporting risks/events). 
+What we'd love to see?
+
+Australian citizenship.
+Experience working with compute infrastructure across common vendors and lifecycle management of converged/rackmount platforms.
+Experience implementing and managing NAS and SAN storage infrastructure and working with storage vendors (HPE, HDS, NetApp or Pure).
+Experience with large SAN-level data migrations.
+Experience with Commvault and backup infrastructure lifecycle management.
+Experience with hypervisors and common operating systems.
+Experience with ticketing/collaboration tooling (ServiceNow, Wiki, SharePoint preferred) and maintaining a monitoring platform.
+Strong customer service orientation, practical problem solving and ability to prioritise workload.
+ITIL Foundation (v3 or later).
+Even if you don't check every box, your passion and curiosity matter. If this role excites you, we would love to see your application.
+  
+A plus if you have…
+
+Experience working in an MSP environment.
+Broader platform knowledge across private/public cloud, Linux/Windows, hypervisors, firewalls and networks.
+Relevant vendor certifications (HPE, Cisco UCS, IBM, Dell, Lenovo, NetApp, EMC, HDS)."
+90087751,Senior RF Algorithms Software Engineer (AU),DroneShield,https://www.seek.com.au/job/90087751?type=standard&ref=search-standalone&origin=jobCard#sol=ccbc38fc2fb9e9db8c7229e4f4fb0ea3769e56fd,1h ago,1.0,2026-02-03T01:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Work with cutting edge AI technology, making the world a safer and more secure place. DroneShield (ASX:DRO) offers an opportunity to solve some of world’s most challenging technical problems in the rapidly growing counter-drone sector.   
+
+Our customers operate in some of the most challenging and high-stakes environments in the world, including military organisations, government agencies, airports, critical infrastructure operators, and law enforcement. Protecting airspace in these settings requires technology that performs under pressure and teams that understand what’s at stake. At DroneShield, employees work at the leading edge of counter-drone innovation, helping to address real-world security challenges as drone threats continue to evolve globally. 
+
+With one of the largest listed defence company market capitalisations in Australia, now part of the ASX200 index, DroneShield is experiencing a period of hypergrowth. Revenue has surged from A$57 million in 2024 to over A$190 million in 2025, representing growth of more than 400% year-on-year, with record profitability and cashflow. The total addressable global market for counter-drone is assessed at approximately $100 billion, and is currently at the nascent stage with much of the growth still to come, with DroneShield well positioned as a global market leader, and the only public listed pure-play business in this sector.   
+
+The company has grown from 11 employees in 2017 to over 450 staff globally today, and is on track to reach around 550 by the end of 2026. This expansion includes investment of over A$50 million annually in R&D, a global pipeline exceeding A$2.5 billion, and continuous scaling of production capacity to meet accelerating demand.  
+
+The role is based at DroneShield’s central Sydney headquarters. Overseas on-the-ground presence includes Virginia (USA), Netherlands, Denmark, Mexico and Dubai, as well as distributors in over 70 countries worldwide. 
+
+
+
+
+
+About the role
+
+DroneShield is seeking an Algorithms Software Engineer with relevant experience to join the team in Adelaide, South Australia. The position will report to the Director of Engineering, Sensors and Effectors.
+
+The Sensors and Effectors team at Droneshield is focused on providing fully operational and qualified modular devices to enable new product development of high-end RF based sensors and effectors. These modules are re-used across various product configurations including man-portable, vehicle mounted and fixed site. Key technical challenges for the electronics aspect of these modules include the design of complex wide-band RF circuitry, high speed digital interface and high-power radio frequency output. DroneShield designs and builds the full signal chain from signal generation to antenna.
+
+The primary focus of the role is to develop and maintain DroneShield’s RFAI Detection Capability, working closely with ML/AI, Data Science, RF and infrastructure teams to innovate and enhance DroneShield’s world leading Anti-Drone technology.
+
+Responsibilities, Duties and Expectations 
+
+Take drone detection algorithms from design to production using C++, working closely with a team of Algorithm and Software Engineers. Develop and maintain simulation software used to assist algorithm development. Design and implement data analysis and algorithm evaluation pipelines. Conduct unit testing to ensure software quality and reliability. Develop and maintain CI/CD pipelines. Assist software & hardware development teams to make informed decisions about the future direction of complex deployed system design. Advance the development of software architecture design processes within the team. Ensure software is designed for reliability, and performance on resource-constrained targets. Qualifications, Experience and Skills 
+
+Bachelor’s (or higher) degree in Computer Science, Electronics Engineering, a similar technical field of study, or equivalent practical experience.3+ years of software development experience (preferred: Python, C++).Ability to work in a multidisciplinary team, including communicating effectively with engineers from non-software / data science backgrounds.Ability to turn complex algorithms and mathematical models into high-performance software, operating on sensor data.Working knowledge of modern architectural patterns and software design patterns.Experience with the following: At least one compiled language (Go, C++, or C).At least one scripting language (Python, JavaScript, or Shell).Digital Signal Processing concepts and techniques.Embedded Linux platforms.Test Driven Development.Revision Control.Continuous Integration.Who you are
+
+You are comfortable deploying state of the art algorithmic models to deliver commercial value.You are a lifelong learner. You’re self-taught and continuously learning. You are interested in keeping up with current best practices in your areas of expertise.You are experienced working with modern infrastructure and tools.You are comfortable running your software in Linux environments. An abundance of ambition and motivation to grow the company and compete with the big players in the industry. Note for recruitment agencies: We do not accept unsolicited candidates from external recruiters unless specifically instructed.
+
+
+
+
+
+
+
+
+PI282031990"
+90086760,Data Engineer,Healthy Land and Water Ltd,https://www.seek.com.au/job/90086760?type=standard&ref=search-standalone&origin=jobCard#sol=a77ca609f96e7d3be55bc3a848f8e143f09d85ca,2h ago,2.0,2026-02-03T00:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Contract/Temp,$125K + 12% Superannuation,"About us
+
+Healthy Land & Water (HLW) works with community, industry, and government to deliver innovative and science-based solutions to challenges affecting our landscapes, waterways, and biodiversity. We help people understand the values and condition of South East Queensland’s environment so we can ensure the sustainable use of our natural environment long into the future.
+
+We believe that maintaining healthy landscapes and waterways is not just important for wildlife and ecosystems. A healthy environment also supports a vibrant economy, strong livelihoods, great lifestyles and the happiness and wellbeing of the community. Through our work, we encourage people to examine and change their behaviours for the benefit of the natural world and for the people and places we love.
+
+The opportunity
+
+We’re looking for a Data Engineer to join the Commercial team, who is responsible for the design, development, testing and deployment of the organisation’s data pipelines. They will ensuring the effective movement, enhancement, integration, quality, and availability of data across the business. This role is pivotal in supporting the data roadmap, data stores and data warehouse, information management practices, and the development of reporting capabilities.
+
+Given the current maturity of the data environment, the Data Engineer will play a key role in shaping data flows that align with the organisation’s present state while also laying the foundation for a scalable and future ready data landscape. The Data Engineer reports directly to the IT Lead and is a full-time 12 month contract role. This is a great hands on opportunity for a Data Engineer with some early career experience, to contribute to an environmental NFP, and own and deliver key components of the IT strategy.
+
+Your responsibilities will include:
+
+Designing, building, testing, and deploying scalable data pipelines using ETL/ELT patterns and API‑based ingestion processes.
+Developing and maintaining data models and datasets that support analytics and reporting.
+Monitoring production data workloads, troubleshoot issues, and optimise performance.
+Implementing monitoring, logging, and alerting for critical data processes.
+Contributing to solution designs and technical problems.
+Improving data hygiene practices to ensure that data is well organised, accessible, and engaging.
+Maintaining technical documentation for pipelines, data structures, and integrations.
+Working closely with the business stakeholders to refine the data strategy and form a business view of the data domain.
+
+About you
+
+Ideally, you will share our vision to lead the change that will deliver an environment for future generations to thrive. You will be highly motivated and can work autonomously in agreed timeframes. To be successful in this role, you will have all or many of the following requirements:
+
+3+ years of data engineering or closely related experience
+Strong experience designing and developing data pipelines using ETL/ELT and API ingestion patterns.
+Proficiency with cloud‑based data platforms (e.g., Azure Data Factory, Snowflake) and associated data integration tools.
+Experience building and optimising data models to support analytics and reporting.
+Practical understanding of data governance principles, including data quality, metadata, master data and reference data management.
+Experience working with Power BI datasets, models, or report configuration.
+Proven capability of working in low‑maturity or greenfield data environments, including uplifting processes and implementing scalable foundations.
+Excellent communication, negotiation, and problem-solving skills.
+Ability to work to strict deadlines and manage time-critical and sensitive information effectively.
+Strong interpersonal and relationship-building skills with internal and external stakeholders.
+
+What we offer
+
+We’re a diverse team of experts, who enjoy sharing knowledge and learning. We recognise and celebrate our employees and teams for affecting real and innovative change in our communities. We value integrity, collaboration, care, innovation, and courage. Some of our benefits include:
+
+Flexible working arrangements
+
+Employee Assistance Program (EAP) to support your mental, nutritional, and financial wellbeing
+
+Novated leasing
+
+Annual professional development allowance
+
+Annual private health insurance reimbursement
+
+Annual wellbeing reimbursement
+
+Salary continuance insurance
+
+Paid Birthday & Volunteer leave
+
+Annual All Staff Retreat
+
+Healthy Land & Water is committed to our Reconciliation Action Plan (RAP), and we strongly encourage Aboriginal and Torres Strait Islander peoples to apply. Aboriginal and/or Torres Strait Islander applicants will be highly regarded per affirmative measures under section 8(1) of the Racial Discrimination Act 1975.
+
+Applications close Monday 16 February 2026."
+90086719,Performance Architect,Technology One Limited,https://www.seek.com.au/job/90086719?type=standard&ref=search-standalone&origin=jobCard#sol=0f8fd78c3246d9605f02cb699027a4f2e9e28699,2h ago,2.0,2026-02-03T00:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Competitive Remuneration & Benefits,"We are seeking a highly experienced Performance Architect to join our Software Engineering organisation, working closely with our Site Reliability Engineering (SRE) team to lift performance, scalability, and reliability maturity across the business.
+
+This is a senior, influential role focused on building a strong engineering culture around performance, scalability, and resilience - defining what ""good"" looks like, setting meaningful KPIs and SLOs, enforcing standards, and driving continuous optimisation across our platforms. You'll combine deep technical understanding with strong advisory skills, helping teams design, build, and operate scalable, reliable enterprise software.
+
+While the role is primarily strategic and advisory, it can include hands-on work in performance analysis, load testing, fault investigation, and optimisation depending on the candidate's strengths and interests.
+
+What you'll be doing:
+
+Define and champion performance, scalability, and reliability standards, principles, and best practices across engineering teams.
+Partner closely with SRE, architecture, platform, and delivery teams to embed performance and resilience thinking into system design, development, and operations.
+Establish and evolve meaningful performance KPIs, SLOs, error budgets, and benchmarks - and drive accountability for meeting them.
+Lead performance, scalability, and reliability reviews across infrastructure, application code, and data layers.
+Analyse reliability faults, error patterns, and system behaviours to identify systemic issues and improvement opportunities.
+Drive identification, prioritisation, and delivery of performance and scalability optimisation initiatives.
+Support and guide teams in performance and load testing approaches, capacity planning, and fault testing.
+Design and evolve dashboards, reporting, and metrics to provide clear visibility into system health, performance, and reliability.
+Act as a trusted advisor to engineering leaders on performance, scalability, and reliability risks, trade-offs, and investment decisions.
+Ensure compliance with internal engineering standards, policies, and operational requirements.
+Contribute to continuous improvement of engineering culture, practices, and ways of working.
+
+
+Your Talents…
+
+8+ years' experience working with large-scale, distributed, or enterprise software systems.
+Strong understanding of system performance, scalability, and reliability across infrastructure, application code, and databases (including SQL).
+Experience working closely with SRE, platform, or operations teams in high-availability environments.
+Proven ability to define and drive KPIs, SLOs, error budgets, and performance standards at scale.
+Experience with performance analysis, profiling, load testing, and fault investigation techniques.
+Ability to reason about failure modes, capacity constraints, and system bottlenecks.
+Broad technical skill set, with the ability to move comfortably between architecture, code, data, and infrastructure discussions.
+Strong communication and influencing skills, with the ability to guide teams without direct authority.
+Pragmatic mindset - able to balance ideal performance and reliability outcomes with real-world constraints.
+Experience working in enterprise software or SaaS environments.
+
+
+Benefits…
+
+Competitive remuneration package
+Industry leading employee share plan
+Amazing Culture: 8 x Australian Business Awards ""Employer of Choice"" winner
+We love our team events & celebrate diversity
+Flexible hours: we are family-friendly and value life outside of work
+Free gym membership in your region (or, if you are located at HQ, we have a new state of the art Gym onsite, exclusive and available 24/7).
+Additional 2.5 days of leave per year dedicated to volunteering at a charity of your choice
+Free breakfast and coffee on-site
+Defined career framework - know what options you have in your career path and how you can get there
+
+Who we are…
+
+TechnologyOne (ASX: TNE) is Australia's largest enterprise software company and one of Australia's top 100 ASX-listed companies, with locations across six countries. We provide a global SaaS ERP solution that transforms business and makes life simple for our customers. Our deeply integrated enterprise SaaS solution is available on any device, anywhere and anytime and is incredibly easy to use. Over 1,200 leading corporations, government agencies, local councils and universities are powered by our software.
+
+For more than 36 years, we have been providing our customers with enterprise software that evolves and adapts to new and emerging technologies, allowing them to focus on their business and not technology."
+90085406,"Data Engineer - Databricks, Python, SQL, Azure - Up to $190K Package",Private Advertiser,https://www.seek.com.au/job/90085406?type=standard&ref=search-standalone&origin=jobCard#sol=4254863faa6350183a69a12f6bfda7ee3a25bf54,3h ago,3.0,2026-02-02T23:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,Up to $190K package,"The Role
+
+ASX-200 organisation seeking an experienced Data Engineer to design, build and operate resilient, scalable data platforms and pipelines at enterprise scale.
+
+You will transform complex, high-volume data into trusted, high-quality datasets underpinning analytics, reporting and machine-learning initiatives.
+
+Working closely with data scientists, analysts, product and engineering teams, as well as senior stakeholders, you’ll deliver production-grade data solutions that directly enable data-driven business outcomes.
+
+Key Responsibilities
+Design, build and optimise scalable ETL/ELT pipelines across cloud data platforms
+Develop robust data models in data warehouses and data lakes (e.g. Databricks / Delta Lake)
+Build and automate ingestion using Microsoft Fabric (Dataflows Gen2, Power Query, low-code integrations)
+Integrate data from APIs, relational systems and ERP platforms (including SAP ECC6 / S/4HANA)
+Implement monitoring, alerting, data quality checks and cost/performance optimisation
+Contribute to data governance, lineage, documentation and platform standards
+Collaborate across analytics, AI/ML, product and engineering teams
+Experience
+
+5+ years’ experience in data engineering or similar roles
+Strong Python and SQL skills
+Hands-on experience with cloud data platforms (Azure, AWS, or GCP)
+Experience with Databricks, data lakes and modern ELT tooling (e.g. dbt)
+Exposure to ERP / supply chain data (SAP ECC6, S/4HANA highly regarded)
+Solid engineering practices: Git, CI/CD, monitoring, documentation
+Ability to communicate clearly with both technical and non-technical stakeholders
+What’s on Offer
+North Sydney - hybrid working (2-3 days WFH)
+Modern data stack with genuine scale and complexity
+Opportunity to influence and evolve a core enterprise data platform
+Please apply now for interview slots this week!"
+90085134,Senior AI / Python Engineer,Recruitment Hive,https://www.seek.com.au/job/90085134?type=standard&ref=search-standalone&origin=jobCard#sol=00594bcc6d1171ad1c042d3f1d9147d25bcb9fcb,3h ago,3.0,2026-02-02T23:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$145 - $170 per hour (inc-Super),"4 + 12 month contract - ASAP Start
+Obtain your Baseline Security Clearance
+Deploying open-weight LLMs - Python generative AI libraries
+
+Our client, a large, Federal Government Organisation responsible for health research, funding, promotion and regulation, require the services of a Senior AI / Python Engineer.
+
+Duties of the Senior AI / Python Engineer
+
+Lead the design, engineering & deployment of data science and AI solutions;
+Architect, build & manage cloud infrastructure (Azure, AWS or Google Cloud) using Infrastructure as Code (IaC) & ensure appropriate security controls & scalability;
+Drive strategic projects involving data ingestion & curation, exploratory data analysis, natural language processing, use of generative AI;
+Prototype & develop engineering solutions at short notice for high priority data science & AI projects.
+
+Skills and Experience Required
+
+Experience leading data, AI & cloud engineering work within the public service or a complex, multi-stakeholder environment;
+Experience designing, implementing & managing relational databases such as Teradata, BigQuery & others;
+Experience designing & implementing CI/CD pipelines, monitoring systems, containerisation, orchestration & automation;
+Experience with Agile or other iterative solution delivery practices, including DevOps;
+Experience designing & managing cloud infrastructure in Azure, AWS or Google Cloud; 
+Experience with implementing engineering solutions for generative AI (including agent-based generative AI), prompt engineering & evaluation of AI outputs (desired);
+Experience deploying open-weight LLMs in environments, fine-tuning them, & integrating them with web applications via API endpoints (desired);
+Understanding of AI ethics, bias, risk & output evaluation frameworks (desired);
+Experience using popular Python generative AI libraries such as Hugging Face Transformers, OpenVINO, Unsloth, llama-cpp-python, DSPy, &PyTorch (desired);
+Experience working with both structured & unstructured data, with a strong grasp of data engineering principles for building & maintaining reliable ETL pipelines (desired);
+Experience with a business intelligence tool such as PowerBI (desired).
+
+How to Apply
+
+ For a copy of the full job description, including the application instructions, please get in touch with Ben at Recruitment Hive by clicking the Quick Apply button. Alternatively you can reach Ben on (02) 6299 1006 to discuss further.
+
+ Please note that applications close on Tuesday the 17th of February 2026 at 11am. Recruitment Hive welcome late applications to be considered for future opportunities.
+
+ Job ID: BC665064 | LH-05429
+
+We Value Diversity
+
+The Recruitment Hive is a proud Equal Opportunity Employer. We recognise the value of diverse perspectives and experience and are committed to an inclusive workplace where everyone feels valued and respected for who they are. We encourage people with disability, indigenous, veterans and people of all backgrounds and abilities to express their interest in this role."
+90084494,Data Scientist,The Onset,https://www.seek.com.au/job/90084494?type=standard&ref=search-standalone&origin=jobCard#sol=2023a897da11467465b015defa1d45127da7a8a1,4h ago,4.0,2026-02-02T22:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$140,000 - $160,000 + Super","Some Data Scientists love research.
+Some prefer the safety of large corporate teams.
+Some chase FAANG logos.
+
+And then there are the ones who just want to do great work with real-world AI — wherever the challenge is.
+
+If you're in that last group, read on.
+
+We're hiring a Data Scientist for a PE-backed AI consultancy with a growing national footprint (currently sub-10 people, but scaling fast). This team thrives on tackling high-impact, technically complex problems — from GenAI tooling to agent-based AI systems and government-grade infrastructure.
+
+This role is open only to Australian Citizens due to upcoming work with federal agencies — if you have experience in or exposure to government departments, that’s a plus (but not essential).
+
+What you’ll be doing:
+
+
+Building and deploying ML models and GenAI systems
+
+
+Working hands-on with AI agents, LLM pipelines, and secure environments
+
+
+Seeing your work go to production, not just proof-of-concept
+
+
+Collaborating with senior DS mentors who bring deep R&D and commercial expertise
+
+
+What you bring:
+
+
+5+ years hands-on experience in Data Science
+
+
+Strong Python skills across modelling and data wrangling
+
+
+Experience working with LLMs or AI agents (bonus points)
+
+
+Models in production (not just notebooks)
+
+
+PhD preferred, but not required
+
+
+Bonus: any background working on government or regulated data projects
+
+
+Location:
+
+
+Melbourne preferred
+Open to Sydney-based candidates for the right fit
+Must be an Australian Citizen (due to project security requirements)
+
+Want to work with smart people, ship real AI solutions, and get your hands dirty?
+
+Build, deploy, and enjoy.
+
+Contact ronny@theonset.com.au or call 0448 808 848 to learn more."
+90084407,AI Engineer Specialist,Talent Street,https://www.seek.com.au/job/90084407?type=standard&ref=search-standalone&origin=jobCard#sol=4e569ccd7301c043d655335b1339e06584bacea0,4h ago,4.0,2026-02-02T22:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive,"ML/AI Specialist
+
+12 Month Contract with a 12 Month extension 
+
+Hybrid Working Style 
+
+Qld State Gov 
+
+Brisbane City 
+
+Position Overview
+The ML/AI Specialist will design, develop, and deliver machine learning and artificial intelligence solutions and provide strategic guidance on policy and frameworks as part of an enterprise GenAI Adoption Program. The role will progress Statements of Need through rapid Proofs of Concept (PoCs), pilots, and preparation for production—ensuring compliance with government enterprise architecture, information security, privacy, and responsible AI principles while providing operational readiness insights for handover to BAU/operations. The position contributes to program governance by producing clear technical evidence to support adoption decisions.
+
+Key Responsibilities Solution Development
+
+
+Build and evaluate ML models and GenAI solutions including LLMs and RAG pipelines
+Integrate enterprise-approved AI services and orchestrate LLM/RAG components to augment business processes
+Implement prompt engineering techniques and safety filters to ensure responsible use
+Data Engineering
+
+
+Prepare, transform, and curate datasets to ensure quality and compliance with privacy legislation
+Align data handling with organisational classification and security expectations
+Leverage existing enterprise data pipelines and products where appropriate
+Deployment & Automation
+
+
+Package PoCs for pilot environments and collaborate with MLOps on CI/CD pipelines
+Develop operational readiness artefacts including observability baselines, SLO proposals, and incident scenarios
+Provide change and release inputs to support transition to operations
+Governance & Compliance
+
+
+Prepare model summaries, evaluation reports, and risk mitigation documentation
+Support program stage-gates and governance forums
+Align solutions with protective security, data sovereignty, and relevant government guidance
+Strategic Policy & Framework Guidance
+
+
+Provide expert input to policy owners on updates to AI governance frameworks
+Contribute to assessment processes aligned with State/Federal guidance and industry practice
+Collaboration & Capability Uplift
+
+
+Work within cross-functional squads to advise on feasibility and solution design
+Participate in governance reviews and workshops
+Produce reference implementations and concise guidance to embed lessons learned
+Capabilities / Desirable Attributes 1. AI/ML Engineering, LLMs, RAG & Data
+
+
+Strong Python skills (pandas, scikit-learn)
+Experience with LLM orchestration, retrieval patterns, and prompt engineering
+Familiarity with embeddings, vector databases, and RAG architectures
+Data preprocessing, feature engineering, and model evaluation
+2. Cloud, MLOps & DevOps
+
+
+Experience with cloud platforms (Azure preferred)
+Exposure to AI/ML services, data platforms, and search technologies
+GitHub/Azure DevOps, CI/CD, and containerisation (Docker)
+Relevant Azure AI/ML certifications desirable
+3. Security, Privacy & Responsible AI
+
+
+Understanding of privacy-by-design and responsible AI principles
+Knowledge of security controls such as encryption and access management
+Ability to explain complex AI concepts to non-technical stakeholders
+Agile mindset with rapid prototyping experience
+Mandatory Requirements
+Degree in Computer Science, Data Science, AI/ML, or related discipline
+SFIA 9 Alignment
+Machine Learning (MLNG) – Level 5: Leads design, training, tuning, and evaluation of models
+Programming/Software Development (PROG) – Level 5: Leads design, coding, testing, documentation
+Cloud Computing (CLCO) – Level 4: Implements and operates cloud services
+Information Security (SCTY) – Level 4: Applies and maintains security controls
+Consultancy (CNSL) – Level 4: Provides technical advice and stakeholder engagement
+Information Assurance (INAS) – Level 5: Ensures governance and risk compliance
+Key Selection Criteria Candidates will be assessed on:
+
+
+Demonstrated experience performing the key responsibilities
+Evidence of desirable capabilities
+Meeting all mandatory requirements
+Strong written and oral communication skills
+Availability to commence at the required start date
+Work Model
+Flexible resource model – the successful candidate may be assigned across similar projects and initiatives to support organisational priorities.
+
+Application Notes
+Applicants should provide a CV and response addressing the key selection criteria, highlighting experience with GenAI, RAG, cloud AI platforms, governance, and production readiness."
+90083764,Technical Analyst - AI,MFTE Staffing Services,https://www.seek.com.au/job/90083764?type=standard&ref=search-standalone&origin=jobCard#sol=7538cf92297429387d9c678f1b0e58280895bf85,5h ago,5.0,2026-02-02T21:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$130,000 – $145,000 per year","Technical Analyst – AI & Automation
 
 Sydney | Hybrid (3 days in office)
 $140k + Super
