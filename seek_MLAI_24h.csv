@@ -1,5 +1,459 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90180481,Azure Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90180481?type=standard&ref=search-standalone&origin=jobCard#sol=7b41a28b2f5131a26f135e76413d547fd43bc21d,1h ago,1.0,2026-02-06T05:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,$140k - $150k p.a.,"Azure Data Engineer
+90182169,Data Engineer (12-month Max Term),hummgroup,https://www.seek.com.au/job/90182169?type=standard&ref=search-standalone&origin=jobCard#sol=4e77b6b41f12480431d6b0fa2e9ffac6cbe2b766,1h ago,1.0,2026-02-06T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We Dream. We Design. We Deliver.
+
+Join hummgroup, one of Australasia's most successful and enduring non-bank financial services institutions. We specialise in fast, easy finance with a market-leading range of business asset finance, credit cards and point of sale payment plan solutions designed around the core needs of today's businesses and retail consumers. Come join our team and be a part of our next chapter of innovation and growth.
+
+
+What's so exciting about this role?
+
+The Data Engineering role is a multi-faceted function. You will work on strategic projects, provide trusted advice regarding data use and distribution, help to shape hummgroup's modern data platform by engineering robust, reusable, and optimised pipelines, and take responsibility for the hygiene of these solutions.
+
+Your primary driver is to enable our organisation to extract the most value possible from our data assets, striving for efficiency by aligning data systems with business goals.
+
+
+What Does An Average Day Look Like?
+
+No day is average at humm but here's an idea of what you can expect to do in this role:
+
+
+Partner across the business to understand data-sharing, enrichment, analytics and ML needs, and develop high‑value, reusable data products that support multiple applications.
+Engineer and optimise data pipelines, including ingestion, modelling, transformation and enrichment, using modern tools (e.g., Snowflake, ADF, DBT Cloud) to ensure performance, scalability and reliability.
+Ensure data quality, consistency and fitness for purpose by integrating data from multiple sources, understanding data lineage and authority, and applying strong governance, security and access controls.
+Design and maintain robust data architectures that enable predictive/prescriptive modelling and advanced analytics, while continuously improving platform efficiency, reliability and outcomes.
+Monitor and troubleshoot pipelines, proactively identifying issues and implementing improvements to minimise failures and performance bottlenecks.
+
+
+
+Who will thrive in this role?
+
+This role is ideal for someone with a strong background in cloud data engineering, data pipeline development and data modelling, particularly in a complex financial services data environment.
+
+
+We're also looking for someone who brings:
+
+
+
+Strong SQL skills and experience working in a modern cloud environment (Azure or AWS), including data modelling and pipeline development (must have).
+Experience with cloud‑native tools (e.g., Azure Data Factory, AWS S3/Glue, AWS DMS, DBT Cloud) and understands how to build and optimise data workflows.
+An understanding of CI/CD practices and orchestration for deploying data solutions.
+Practical experience with Python or scripting, plus good knowledge of data governance, security and best‑practice engineering.
+You're collaborative, agile in your ways of working, and able to turn complex data requirements into scalable, reliable solutions.
+Experience in implementing data governance principles (preferred)
+Exposure to streaming tools like Kafka or Kinesis and familiarity with financial or customer analytics environments. (Nice to have)
+
+
+
+Working at hummgroup
+
+We embrace flexible working arrangements, ensuring a genuine work-life balance and a fun, vibrant inclusive culture that embraces diverse perspectives and values the unique contributions of each of our team through our behaviours Curious - Adaptable - Tenacious - Accountable - Respectful.
+
+We invite candidates of all gender expressions, ethnicities, ages, and other culturally diverse groups to apply. We are committed to making reasonable adjustments to provide a positive, barrier-free recruitment process and welcoming and supportive environment where all our people can thrive.
+
+If this sounds like the opportunity, you have been looking for then apply today!"
+90181823,Control Systems Researcher,AIM Defence,https://www.seek.com.au/job/90181823?type=standard&ref=search-standalone&origin=jobCard#sol=5b233a68aa8f50da7646aa60f7b3a12bcff3122f,1h ago,1.0,2026-02-06T06:00:00+00:00,"Port Melbourne, Melbourne VIC",Systems Engineering (Engineering),Full time,,"About AIM
+
+AIM Defence is a fast-growing deep-tech startup developing high-power laser systems to protect people from weaponised drones. We operate at the intersection of cutting-edge technology and defence, with a focus on practical outcomes, not bureaucracy. We are seeking an experienced Control Systems Researcher to design, implement, and optimise advanced control systems, ensuring that all outputs are rigorous, accurate, and actionable.
+
+The Role
+
+Design, implement, and troubleshoot advanced control systems, including gimbals.
+
+Mentor less experienced engineers and potentially take a leadership role.
+
+Solve problems through rigorous analysis, not trial and error.
+
+Communicate technical thinking clearly to the team, preferably using plots.
+
+Ensure all designs are mathematically sound, reproducible, and operationally reliable.
+
+Key Responsibilities
+
+Develop advanced control system algorithms, including model predictive control.
+
+Hands-on work with motors, embedded systems, and gimbal platforms.
+
+Lead and mentor team members, supporting professional development.
+
+Communicate complex technical concepts logically and effectively.
+
+Integrate systems into operational platforms safely and reliably.
+
+Skills & Experience
+
+Experience building gimbal control systems mandatory.
+
+Expertise in advanced control systems and model predictive control.
+
+Proficient in C++.
+
+Leadership potential and mentoring capability.
+
+Humble, collaborative, and analytical mindset.
+
+Able to solve problems using math and analysis rather than trial and error.
+
+Requirements
+
+Australian Citizen with NV1 Defence Security Clearance.
+
+Willingness to work onsite.
+
+Why Join AIM?
+
+Influence development of cutting-edge defence systems.
+
+Work in a collaborative, high-performance engineering team."
+90181597,Systems Engineer,AIM Defence,https://www.seek.com.au/job/90181597?type=standard&ref=search-standalone&origin=jobCard#sol=9cefe8afd52025d6ab87b9970802f58fa49e4570,1h ago,1.0,2026-02-06T06:00:00+00:00,"Port Melbourne, Melbourne VIC",Systems Engineering (Engineering),Full time,,"About AIM
+
+AIM Defence is a fast-growing deep-tech startup developing high-power laser systems to protect people from weaponised drones. We operate at the intersection of cutting-edge technology and defence, with a focus on practical outcomes, not bureaucracy. We are seeking an experienced Systems Engineer to produce high-quality documentation for defence procurement and international partner integration, ensuring that all outputs are rigorous, accurate, and actionable.
+
+The Role
+
+Reporting to the Co-CEO, you will:
+
+Work with the Project Manager and tech leads to gather, validate, and analyse system data.
+
+Identify gaps in data and collaborate to fill them.
+
+Produce technical documentation for defence integration and international partners.
+
+Work in parallel with engineering teams without disrupting workflows.
+
+Interact with customers and partners as part of integration and delivery projects.
+
+Key Responsibilities
+
+Produce comprehensive technical documentation for defence and partner requirements.
+
+Liaise with tech leads to clarify technical data and ensure accuracy.
+
+Identify missing or inconsistent data and drive corrective action.
+
+Communicate technical concepts clearly to internal and external stakeholders.
+
+Support engineering teams without distracting core development work.
+
+Skills & Experience
+
+Defence systems engineering experience is mandatory.
+
+Startup experience advantageous.
+
+Tertiary qualification in systems engineering preferred but not required.
+
+Strong analytical skills and attention to detail.
+
+Ability to work autonomously and maintain focus on outcomes.
+
+Requirements
+
+Australian Citizen with NV1 Defence Security Clearance.
+
+Willingness to work onsite.
+
+Why Join AIM?
+
+Contribute to large-scale defence procurement projects.
+
+Play a key role in documentation and integration with global partners."
+90181583,Data Factory Engineer,Calleo,https://www.seek.com.au/job/90181583?type=standard&ref=search-standalone&origin=jobCard#sol=34e94f8c753be8bb99f4a5f393797290d917ece1,1h ago,1.0,2026-02-06T06:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Contract/Temp,AUD 120 - 150 per hour,"Job Overview  
+
+Collaborating with team members and stakeholders to design data integration solutions that meet business requirements, utilising Microsoft Azure tools such as Azure Data Factory and SQL.
+Develop, implement, and maintain ETL pipelines to ensure efficient and secure data transfer between various systems, adhering to best practices for data processing and transformation.
+Design and maintain data models, ensuring data accuracy, consistency, and availability while considering scalability and performance optimisations.
+Implement data validation and quality checks to identify and rectify data anomalies, errors, and inconsistencies within integrated systems.
+Continuously monitor and optimise data integration processes to enhance performance, reduce latency, and minimise resource consumption.
+Create and maintain comprehensive documentation for data integration solutions, including technical specifications, data flow diagrams, and operational procedures.
+Work closely with cross-functional teams, including developers, and system analysts, to understand data requirements and ensure integrations align with business objectives.
+Troubleshoot and resolve data integration issues, working collaboratively with the team to implement effective solutions and prevent recurrence.
+Stay updated on emerging technologies and industry trends related to data engineering and integration, applying this knowledge to improve integration processes and tools. 
+Job Requirement    
+
+Strong Microsoft Azure Data Factory skills and experience
+Proven experience in data engineering, including data integration, ETL processes, and data modelling.
+Strong SOL skills and experience with data warehousing concepts.
+Knowledge of data governance, security, and compliance best practices.
+Excellent problem-solving skills and the ability to work effectively in a collaborative team environment.
+Effective communication skills for collaborating with technical and non-technical stakeholders. 
+Job Location
+
+Canberra / Sydney 
+ 
+If you are interested in the above job opportunity, please apply through the links provided or please feel free to contact Newman for more details.
+ 
+newman.ponniah@calleo.com.au
+0404 331 242
+ 
+Due to the nature of this role, this job is open to Australian Citizens only. Candidates who currently hold or able to obtain Federal Government Security Clearances are highly desirable.
+ 
+Calleo is an equal opportunity employer and we encourage applications from all people including Aboriginal and Torres Strait Islander peoples.
+ 
+Follow Calleo on LinkedIn and visit our website to keep up to date on all our current job vacancies:
+www.linkedin.com/company/calleoresourcing
+www.calleo.com.au"
+90181549,Data Factory Engineer,Calleo,https://www.seek.com.au/job/90181549?type=standard&ref=search-standalone&origin=jobCard#sol=7d82237bbb18167ca62c8c92034d9d0fe076e711,1h ago,1.0,2026-02-06T06:00:00+00:00,Canberra ACT,Consultants (Information & Communication Technology),Contract/Temp,AUD 120 - 150 per hour,"Job Overview  
+
+Collaborating with team members and stakeholders to design data integration solutions that meet business requirements, utilising Microsoft Azure tools such as Azure Data Factory and SQL.
+Develop, implement, and maintain ETL pipelines to ensure efficient and secure data transfer between various systems, adhering to best practices for data processing and transformation.
+Design and maintain data models, ensuring data accuracy, consistency, and availability while considering scalability and performance optimisations.
+Implement data validation and quality checks to identify and rectify data anomalies, errors, and inconsistencies within integrated systems.
+Continuously monitor and optimise data integration processes to enhance performance, reduce latency, and minimise resource consumption.
+Create and maintain comprehensive documentation for data integration solutions, including technical specifications, data flow diagrams, and operational procedures.
+Work closely with cross-functional teams, including developers, and system analysts, to understand data requirements and ensure integrations align with business objectives.
+Troubleshoot and resolve data integration issues, working collaboratively with the team to implement effective solutions and prevent recurrence.
+Stay updated on emerging technologies and industry trends related to data engineering and integration, applying this knowledge to improve integration processes and tools. 
+Job Requirement    
+
+Strong Microsoft Azure Data Factory skills and experience
+Proven experience in data engineering, including data integration, ETL processes, and data modelling.
+Strong SOL skills and experience with data warehousing concepts.
+Knowledge of data governance, security, and compliance best practices.
+Excellent problem-solving skills and the ability to work effectively in a collaborative team environment.
+Effective communication skills for collaborating with technical and non-technical stakeholders. 
+Job Location
+
+Canberra / Sydney 
+ 
+If you are interested in the above job opportunity, please apply through the links provided or please feel free to contact Newman for more details.
+ 
+newman.ponniah@calleo.com.au
+0404 331 242
+ 
+Due to the nature of this role, this job is open to Australian Citizens only. Candidates who currently hold or able to obtain Federal Government Security Clearances are highly desirable.
+ 
+Calleo is an equal opportunity employer and we encourage applications from all people including Aboriginal and Torres Strait Islander peoples.
+ 
+Follow Calleo on LinkedIn and visit our website to keep up to date on all our current job vacancies:
+www.linkedin.com/company/calleoresourcing
+www.calleo.com.au"
+90181255,Senior Manufacturing & Project Engineer,Li-S Energy Limited,https://www.seek.com.au/job/90181255?type=standard&ref=search-standalone&origin=jobCard#sol=006cce835ba5f6b234f7913b6750d98d10da6353,1h ago,1.0,2026-02-06T06:00:00+00:00,"Waurn Ponds, South West Coast VIC",Process Engineering (Engineering),Full time,,"Li-S Energy is seeking a Senior Manufacturing & Project Engineer with a strong manufacturing background to expand our production capabilities and drive the development, commissioning, and optimisation of battery cell manufacturing equipment.
+
+This is an opportunity to join a well-funded, ASX listed Australian technology company and play a key role in the commercialisation of world-leading battery technology.
+
+About us
+
+Climate change demands action, and the future of transportation needs cleaner, lighter power solutions. At Li-S Energy, we're not just keeping up; we're driving the change with groundbreaking lithium sulfur technology. Our vision extends far beyond electric vehicles (EVs), encompassing drones, electric aircraft, and countless other innovations shaping tomorrow's world.
+
+At Li-S Energy, we're not your average company. We combine the stability and resources of an ASX-listed company with the agility and excitement of a trailblazing start-up. We also have some seriously cutting-edge technology at our fingertips, with our advanced pouch cell production line in the largest battery dry room in Australia. This unique blend lets us make a real impact on the world, pushing the boundaries of battery technology while enjoying the collaborative, fast-paced environment of a start-up culture. But to truly revolutionise the world, we need passionate individuals like you.
+
+The opportunity
+
+Reporting to the CTO, you'll work in our purpose-built facility at Deakin University's Waurn Ponds campus, supporting development of cutting-edge battery cells.
+
+This newly created role brings together the critical functions of production development, engineering project coordination, and manufacturing operations leadership. It is designed for an experienced engineering professional who can operate across pilot-scale development, production engineering, and operational management to support Li-S Energy's growth and commercialisation pathway. This role is highly cross-functional, working closely with R&D, Quality and Operations teams.
+
+Working within a high-tech, ASX-listed organisation, this role supports both day-to-day operations and long-term strategic objectives.
+
+
+Key Responsibilities
+
+Production Development & Engineering
+
+Develop, assemble, and commission pilot-scale production equipment.
+
+Maintain, service, and improve production and ancillary equipment.
+
+Troubleshoot complex electromechanical, control, and process issues.
+
+Produce CAD models, technical drawings, process documentation, and equipment specifications.
+
+Identify and implement process improvements for yield, quality, and throughput.
+
+
+
+
+Project Engineering & Coordination
+
+Liaise with external consultants as required (engineering, environmental, financial, etc.).
+
+Review and provide input on process flow diagrams, cost estimates, equipment lists, and design packages.
+
+Prepare progress reports, technical summaries, and documentation for leadership.
+
+
+
+
+Manufacturing Operations Leadership
+
+Oversee daily production activities, ensuring safety, efficiency, and quality.
+
+Monitor key KPIs such as yield, cycle time, scrap rates, and equipment uptime.
+
+Support R&D-to-production technology transfer and new product introduction.
+
+Coordinate cross-functional teams including Quality, Supply Chain, and Engineering.
+
+Ensure compliance with ISO standards, QMS requirements, and regulatory obligations.
+
+
+
+
+Safety, Quality & Documentation Systems
+
+Develop and maintain safe working procedures in collaboration with the OHS Advisor.
+
+Lead traceability and document control system development to support scale-up.
+
+Implement audit trails, version control, change management, and digital documentation tools.
+
+Ensure alignment with ISO 9001 and develop internal quality frameworks.
+
+
+
+
+Team Development & Leadership
+
+Train and mentor production staff and junior engineers.
+
+Foster a culture of continuous improvement and proactive problem-solving.
+
+Support recruitment, performance management, and capability development.
+
+
+
+
+Qualifications & Experience
+
+Essential
+
+Bachelor's or Master's degree in Mechanical, Electrical, Mechatronic, or related engineering field.
+
+5+ years of experience in manufacturing, production engineering, or pilot-scale development.
+
+Demonstrated experience operating and troubleshooting complex equipment.
+
+Strong skills in CAD, data analysis, and documentation.
+
+Proven ability to lead multi-disciplinary engineering or production activities.
+
+Strong understanding of QMS, ISO 9001, and process documentation systems.
+
+Candidates must have current Australian work rights at the time of application.
+
+
+
+
+Advantageous
+
+Experience with battery production, advanced materials, or precision manufacturing.
+
+Experience implementing traceability systems, MES-lite solutions, or digital quality systems.
+
+Lean or Six Sigma training.
+
+RP.Eng. registration or ability to obtain.
+
+
+
+
+Key Competencies
+
+Strong problem-solving and analytical skills.
+
+Excellent communication and stakeholder management.
+
+Ability to manage competing priorities in a fast-paced environment.
+
+Hands-on technical aptitude with a continuous improvement mindset.
+
+Leadership qualities that foster teamwork, accountability, and safety.
+
+
+
+
+Why Join Us?
+
+Work on cutting-edge battery technology with global impact.
+
+Contribute to the scale-up of world-leading lithium-sulfur technology.
+
+Enjoy flexibility, autonomy, and significant growth opportunities.
+
+Be part of a collaborative, high-performance team pushing the boundaries of energy storage.
+
+How to Apply
+
+To apply for the position please submit your resume and other relevant information via the 'Quick apply' link.
+
+For more information about careers at Li-S Energy, visit lis.energy/careers"
+90181052,"AI & ML Engineer / Permanent / up to $160,000 + super / Sydney",Allura Partners,https://www.seek.com.au/job/90181052?type=standard&ref=search-standalone&origin=jobCard#sol=d1c9f9de2a1daed9c8f0db1b22d97dd8e61868e0,1h ago,1.0,2026-02-06T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,155000,"AI & ML Engineer / Permanent / up to $160,000 + super / Sydney
+
+About the company
+Our client is a large, data-led organisation operating across digital and technology-enabled services in Australia. With a strong focus on innovation and growth, they invest in advanced analytics and AI to improve products, customer experiences, and long-term business outcomes.
+
+About the role
+Reporting into a senior data leader, this role designs, builds, and maintains AI and machine learning solutions embedded within core products. Working closely with product, analytics, and business teams, the role delivers scalable, interpretable models aligned to commercial and customer objectives.
+
+Benefits
+
+Full time, permanent opportunity - $150k - $160k + super
+Work on production-grade AI and ML products
+Exposure to modern AI, ML, and generative AI tooling
+Collaborative, cross-functional environment
+Ongoing learning and career development support
+Duties / Key responsibilities
+
+Develop, deploy, and maintain machine learning and AI models for customer and product use cases
+Translate complex datasets into scalable, business-aligned AI solutions
+Collaborate with product owners, analysts, and stakeholders across the business
+Implement model monitoring, versioning, and retraining processes
+Ensure models are reliable, interpretable, and fit for regulated environments
+Skills and experience
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, Mathematics, AI, or similar
+3+ years’ industry experience in machine learning or data science
+Strong Python and SQL capability, with experience using Pandas and NumPy
+Experience with ML frameworks such as scikit-learn and PyTorch
+Strong understanding of generative AI, LLMs, prompt engineering, and RAG frameworks
+Experience with model lifecycle management tools such as MLflow
+Confident communicator with strong stakeholder collaboration skills
+Experience using GitHub or similar code repositories
+Exposure to Databricks, cloud platforms, or insurance data is beneficial
+If you’re interested
+If you’re interested in this opportunity and feel you’re the right fit please click “apply” 
+
+About Allura Partners
+Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
+
+AI & ML Engineer / Permanent / up to $160,000 + super / Sydney"
+90180612,Principal Data Scientist,Aurizn Pty Ltd,https://www.seek.com.au/job/90180612?type=standard&ref=search-standalone&origin=jobCard#sol=fa260a1c152fc0d23fbb120ae9f05b7f134c7da6,2h ago,2.0,2026-02-06T05:00:00+00:00,Adelaide SA,Systems Engineering (Engineering),Full time,,"About Aurizn
+
+We are an Australian owned Defence Technology company pushing the limits to support Australian and allied forces deliver a more secure future.
+
+Shape the world at Aurizn to make a real impact and join our team. A recognised Great Place to Work, Aurizn people are driven by our values; Think Clever, Always Deliver, Embrace the Unknown and Be Better Together.
+
+With an industry-leading suite of benefits including ongoing training and growth opportunities, a variety of leave types, health and wellness offerings, flexible working and more, a career with Aurizn empowers you to perform at your best and push the limits for a more secure future.
+
+Shape the world at Aurizn.
+
+The Opportunity
+
+Aurizn is seeking a Principal Data Scientist who is highly competent in Machine Learning and AI to plan, lead, and deliver strategic and complex machine learning system. This role combines deep technical expertise with technical leadership, stakeholder engagement, and contribution to organisational best practice and strategy.
+
+Key Responsibilities Include:
+
+Plan and lead the delivery of strategic, large, or complex AI and Machine Learning systems.
+Ensure the quality, robustness, and operational performance of data-driven algorithms in production AI solutions.
+Provide authoritative advice and solutions to complex technical problems in high-risk environments.
+Identify and evaluate emerging AI/ML methods, models, datasets, and architectures, and communicate findings internally.
+Act as a technical authority when engaging externally with clients, partners, and in public or professional forums.
+Contribute to organisational strategy, standards, tools, and best practices for AI/ML, MLOps, and software engineering.
+
+What We Are Seeking
+
+Active NV1 clearance.
+A degree in Computer Science, Engineering, Data Science, or a related discipline, with postgraduate qualifications at a Master’s or PhD level is highly regarded.
+Professional experience, ideally completed 8+ years of work experience or postgraduate research in implementing deployable algorithms for manipulating data
+Hands-on expertise in Python, PyTorch, and modern AI/ML frameworks, with working knowledge of NLP, speech processing, LLMs, and agentic AI.
+Strong communication, presentation, and stakeholder engagement skills, with experience operating as a technical authority.
+Demonstrated technical leadership, including guiding teams, setting technical direction, and ensuring delivery quality are desirable.
+Experience working in secure or regulated environments, with Defence industry experience desirable.
+Experience working with competency frameworks is desirable.
+
+Due to a requirement for Defence Clearance to undertake the duties of the role, Australian Citizenship is required.
+
+We welcome applicants with diverse backgrounds. Please reach out to careers@aurizn.co if you have any particular needs that we can support you with throughout this process."
+90180481,Azure Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90180481?type=standard&ref=search-standalone&origin=jobCard#sol=2cd7681738603471a7554bf9ec26091f74b4a7f0,2h ago,2.0,2026-02-06T05:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,$140k - $150k p.a.,"Azure Data Engineer
 
 
 Sydney or Newcastle, NSW
@@ -44,7 +498,7 @@ Why Apply?
 Choice of Sydney or Newcastle location
 Work with modern Azure data platforms in a complex, enterprise environment
 Opportunity to collaborate across cloud ecosystems and mature data operations"
-90180207,Senior Data Scientist,Queensland Building and Construction Commission (QBCC),https://www.seek.com.au/job/90180207?type=standard&ref=search-standalone&origin=jobCard#sol=89ff6ddea700f040fd45f327b573386468e22939,1h ago,1.0,2026-02-06T05:00:00+00:00,Brisbane QLD (Hybrid),"Business/Systems Analysts (Information & Communication Technology)
+90180207,Senior Data Scientist,Queensland Building and Construction Commission (QBCC),https://www.seek.com.au/job/90180207?type=standard&ref=search-standalone&origin=jobCard#sol=e0c314b9a5185ca9f4bf8b2bb98c54ee86b9fe2b,2h ago,2.0,2026-02-06T05:00:00+00:00,Brisbane QLD (Hybrid),"Business/Systems Analysts (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,Plus 17.5% leave loading and 12.75% superannuation,"About QBCC
 
 The QBCC is Queensland's independent building and construction regulator, dedicated to educating, protecting and supporting both the industry and the community. Through fair, transparent and accountable regulation, the QBCC helps build confidence and strengthens one of Queensland's most vital industries.
@@ -77,7 +531,7 @@ Referee checks 
 It is recommended you seek approval when nominating a person as a referee. Referees should have a thorough knowledge of your work performance and conduct, and it is preferable to include your current/ immediate past supervisor.  
 
 By providing the names and contact details of your referee/s you consent for these people to be contacted by the selection panel. If you do not wish the panel to contact your referees without your permission, please make this clear on your resume."
-90180007,Delivery Focused Data & AI Architect,Data#3 Limited,https://www.seek.com.au/job/90180007?type=standard&ref=search-standalone&origin=jobCard#sol=9e439899567426afb6eb9e33027beaa0d88846f0,1h ago,1.0,2026-02-06T05:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"HRD Employer of Choice, Accredited Family Inclusive Workplace
+90180007,Delivery Focused Data & AI Architect,Data#3 Limited,https://www.seek.com.au/job/90180007?type=standard&ref=search-standalone&origin=jobCard#sol=735fc520b1611a3467d5ed4de60d4ef0ea7beb7f,2h ago,2.0,2026-02-06T05:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"HRD Employer of Choice, Accredited Family Inclusive Workplace
 
 Join a forward-thinking organisation that values new ideas and innovation.
 
@@ -140,7 +594,7 @@ Data#3 will request as part of the recruitment process, reference checks, police
 
 
 REF: SACA113657"
-90179589,Associate Production Engineer,EDMI Pty Ltd,https://www.seek.com.au/job/90179589?type=standard&ref=search-standalone&origin=jobCard#sol=b6479421c391851e0968e39b1251f63392c47482,1h ago,1.0,2026-02-06T05:00:00+00:00,"Dandenong South, Melbourne VIC",Mechanical Engineering (Engineering),Full time,,"Who we are
+90179589,Associate Production Engineer,EDMI Pty Ltd,https://www.seek.com.au/job/90179589?type=standard&ref=search-standalone&origin=jobCard#sol=13245e10ca890210ace57bece6dc1857d8faede6,2h ago,2.0,2026-02-06T05:00:00+00:00,"Dandenong South, Melbourne VIC",Mechanical Engineering (Engineering),Full time,,"Who we are
 
 EDMI Gas Pty Ltd, based in Dandenong South, specialises in providing, repairing, and maintaining gas and water measurement equipment. As part of the global EDMI smart metering group, we offer production of and services for industrial and domestic gas meters and support advanced utility solutions. 
 
@@ -212,7 +666,7 @@ Proven ability to document technical processes for a Culturally and Linguistical
 At EDMI, we are committed to fostering a diverse, equitable, and inclusive workplace where everyone can thrive. We believe that our differences make us stronger and are dedicated to creating an environment where every individual, regardless of background, identity, or perspective, feels valued and respected. We celebrate diversity in all its forms and actively work to build an inclusive culture that promotes fairness, equal opportunity, and mutual respect.
 
 For any questions, please email William Gaung, Senior Production Engineer at Ye.Gaung@edmi.com.au with your contact details, and he will be in touch."
-90179479,Solution Architect,Boeing Australia Holdings,https://www.seek.com.au/job/90179479?type=standard&ref=search-standalone&origin=jobCard#sol=a189edbb9bb88450d010d89705c1e923906b1fa5,1h ago,1.0,2026-02-06T05:00:00+00:00,"Port Melbourne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Solution Architect – Aerospace, Defence & Manufacturing
+90179479,Solution Architect,Boeing Australia Holdings,https://www.seek.com.au/job/90179479?type=standard&ref=search-standalone&origin=jobCard#sol=b3fddc935946e2fa3c8b26757ec780d1ecec0f44,2h ago,2.0,2026-02-06T05:00:00+00:00,"Port Melbourne, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Solution Architect – Aerospace, Defence & Manufacturing
 
 Location: Boeing Australia (Melbourne with hybrid work options)
 
@@ -304,7 +758,7 @@ Health and wellbeing benefits 
 Here what our employees have to say about working at Boeing:  
 
 https://www.boeing.com.au/"
-90176926,Data Engineer,Quinn Allan,https://www.seek.com.au/job/90176926?type=standard&ref=search-standalone&origin=jobCard#sol=1e221e7a08a1504267c7679b7a3142c3363b2f77,2h ago,2.0,2026-02-06T04:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"We are looking for a skilled Data Engineer to join a collaborative team on a hybrid contract basis in Melbourne. This is an exciting opportunity to work on complex, high impact data projects that directly support strategic decision making across the organisation.
+90176926,Data Engineer,Quinn Allan,https://www.seek.com.au/job/90176926?type=standard&ref=search-standalone&origin=jobCard#sol=a2850386ea89e8b328b3ba7e55c0cfc6c6f7b1ae,3h ago,3.0,2026-02-06T04:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"We are looking for a skilled Data Engineer to join a collaborative team on a hybrid contract basis in Melbourne. This is an exciting opportunity to work on complex, high impact data projects that directly support strategic decision making across the organisation.
 
 Key responsibilities
 Design and maintain Kimball-style dimensional data models, including facts, dimensions, conformed dimensions and SCDs.
@@ -323,7 +777,7 @@ Advanced SQL skills with a strong focus on data quality, validation and performa
 Excellent communication and stakeholder engagement skills, with the ability to translate complex technical concepts into business-friendly language.
 Self-motivated, adaptable, and able to contribute immediately in a fast-paced hybrid environment.
 How to Apply To apply, please click ‘Apply’ to submit your CV online"
-90175359,Data & AI Engineer,HorizonOne Recruitment,https://www.seek.com.au/job/90175359?type=standard&ref=search-standalone&origin=jobCard#sol=1c684363abb729436dac2baf58f6ac917122a445,3h ago,3.0,2026-02-06T03:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"This large federal social policy agency manages rich, complex datasets to inform programs and services that improve outcomes for Australians.
+90175359,Data & AI Engineer,HorizonOne Recruitment,https://www.seek.com.au/job/90175359?type=standard&ref=search-standalone&origin=jobCard#sol=6e90f6c109d6ac23910dd36f1020f513532b252d,4h ago,4.0,2026-02-06T03:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"This large federal social policy agency manages rich, complex datasets to inform programs and services that improve outcomes for Australians.
  
 You will join the Data Science Section, a high-calibre team of data scientists, analysts, and engineers, led by a new EL2 driving enduring, customer-focused AI and data products.
  
@@ -379,7 +833,7 @@ To apply online, please click on the appropriate link.
 Alternatively, for a confidential discussion, please contact Lucas Walker on 02 6108 4878 quoting ref no. 21320.
  
 HorizonOne is committed to building a diverse and inclusive workforce and we encourage applications from people of all cultures, capabilities and backgrounds."
-90174797,Integration Engineer,Mineral Resources Limited,https://www.seek.com.au/job/90174797?type=standard&ref=search-standalone&origin=jobCard#sol=1eb86968df2770c7bab2549a74cdf3cbe8fccc9b,3h ago,3.0,2026-02-06T03:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,"Attractive Salary Packaging, Bonuses & Benefits","MinRes Can Offer You
+90174797,Integration Engineer,Mineral Resources Limited,https://www.seek.com.au/job/90174797?type=standard&ref=search-standalone&origin=jobCard#sol=ee9fb94b89f038a28844d528f9db23863738e5d0,4h ago,4.0,2026-02-06T03:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,"Attractive Salary Packaging, Bonuses & Benefits","MinRes Can Offer You
 
 A dynamic global leader with cutting edge innovation. 
 We invest in your career, with a focus on leadership, upskilling, training and development programs. 
@@ -417,7 +871,7 @@ Mineral Resources Ltd (ASX: MIN) is a leading diversified resources company with
  
 
 At MinRes, the future's bright. Be part of our next chapter"
-90172961,Senior AI Engineer,Emanate Technology Pty Ltd,https://www.seek.com.au/job/90172961?type=standard&ref=search-standalone&origin=jobCard#sol=a51f13ff7a6a3869848563dfcfd365ca7b0eedf1,4h ago,4.0,2026-02-06T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior AI Engineer
+90172961,Senior AI Engineer,Emanate Technology Pty Ltd,https://www.seek.com.au/job/90172961?type=standard&ref=search-standalone&origin=jobCard#sol=d7e78fbc8b6abb0e1a7263ca7e9acf5e8a7114cc,5h ago,5.0,2026-02-06T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior AI Engineer
 
 We are seeking an experienced AI Engineer to design, develop, and scale intelligent systems that drive meaningful business outcomes. This role combines strong data engineering foundations with modern AI and cloud technologies and is well suited to someone who thrives in dynamic, evolving environments.
 
@@ -445,7 +899,7 @@ Opportunity to contribute to an organisation that values clarity, trust, and gen
 
 
 We are an inclusive employer committed to fostering a diverse and accessible workplace. We encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, LGBTQIA+ individuals, people of all ages, and those from culturally and linguistically diverse backgrounds."
-90172910,Verification & Validation Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90172910?type=standard&ref=search-standalone&origin=jobCard#sol=456d52e353b105712186387fae48afaba743899d,4h ago,4.0,2026-02-06T02:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us:
+90172910,Verification & Validation Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90172910?type=standard&ref=search-standalone&origin=jobCard#sol=019a9506707f1cbd26819c42cfd7d65ade036707,5h ago,5.0,2026-02-06T02:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Great everyday discounts,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -519,7 +973,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-90172733,Systems Engineer Opportunities - Defence and Advanced Technology Programs,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90172733?type=standard&ref=search-standalone&origin=jobCard#sol=a7bd1888238b4bac7944bcb2034ea445b621eb85,4h ago,4.0,2026-02-06T02:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
+90172733,Systems Engineer Opportunities - Defence and Advanced Technology Programs,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90172733?type=standard&ref=search-standalone&origin=jobCard#sol=49ebeb9c7c3fb399d951db3f530fedebd1de13ea,5h ago,5.0,2026-02-06T02:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Multiple opportunities are available,"About Us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -601,7 +1055,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-90172423,Specialist Data Scientist,Brunel,https://www.seek.com.au/job/90172423?type=standard&ref=search-standalone&origin=jobCard#sol=99f980989426434206bf0a55dec7053df8be5c04,4h ago,4.0,2026-02-06T02:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,Competitive day rate,"This role sits at the intersection of AI, data engineering and analytics, and is ideal for someone excited about applying LLMs and modern AI tooling to real-world business problems. Help build and fine-tune next-generation AI solutions that support data, reporting and operational insights.
+90172423,Specialist Data Scientist,Brunel,https://www.seek.com.au/job/90172423?type=standard&ref=search-standalone&origin=jobCard#sol=2ba2a30ec3097b1c918df8caa930095763ca3d0f,5h ago,5.0,2026-02-06T02:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,Competitive day rate,"This role sits at the intersection of AI, data engineering and analytics, and is ideal for someone excited about applying LLMs and modern AI tooling to real-world business problems. Help build and fine-tune next-generation AI solutions that support data, reporting and operational insights.
 
 Description
 
@@ -659,7 +1113,7 @@ Brunel is proud to be equal opportunity employer and encourages applications fro
 Do you have questions?
 
 If you have any questions or would like to discuss the details of this role, please contact Terence Gomes on t.gomes@brunel.net"
-90171982,AI Engineer,Mineral Resources Limited,https://www.seek.com.au/job/90171982?type=standard&ref=search-standalone&origin=jobCard#sol=554495eb1d8011ef103cca19cd249aecb7aca0ea,4h ago,4.0,2026-02-06T02:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"MinRes can offer you! 
+90171982,AI Engineer,Mineral Resources Limited,https://www.seek.com.au/job/90171982?type=standard&ref=search-standalone&origin=jobCard#sol=4bc08805cb11dc99ab60cbd35ef45c7daf7adc95,6h ago,6.0,2026-02-06T01:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"MinRes can offer you! 
 
 ASX 200 Company - A dynamic global leader with cutting edge innovation 
 We invest in your career, with a focus on leadership, upskilling, training and development programs 
@@ -709,7 +1163,7 @@ MinRes is a leading diversified resources company with extensive operations in l
 Our headquarters at 20 Walters Drive sets a new standard for workplace wellness.  World class facilities include a café, restaurant, commercial gym, crèche, daycare and health centre, including GP. 
 
 At MinRes, the future's bright. Be part of our next chapter."
-90171258,AI Solutions Architect,Harry the Hirer,https://www.seek.com.au/job/90171258?type=standard&ref=search-standalone&origin=jobCard#sol=711e015ebae0fe803311b09ff64bad6b35a57dd5,5h ago,5.0,2026-02-06T01:00:00+00:00,"Abbotsford, Melbourne VIC",Other (Information & Communication Technology),Full time,,"The Company
+90171258,AI Solutions Architect,Harry the Hirer,https://www.seek.com.au/job/90171258?type=standard&ref=search-standalone&origin=jobCard#sol=a47559ad283909abf9878ca98be2746df5b699b1,6h ago,6.0,2026-02-06T01:00:00+00:00,"Abbotsford, Melbourne VIC",Other (Information & Communication Technology),Full time,,"The Company
 
 Harry The Hirer is Australia’s leading events company. For 40+ years, we’ve powered the country’s most iconic events: Australian Open, Formula 1 Grand Prix, MotoGP, Melbourne Cup.
 
@@ -772,7 +1226,7 @@ Include your resume and answer: “Describe a framework or system you designed t
 Harry The Hirer
 Australian Open | Formula 1 | MotoGP | Melbourne Cup
 www.harrythehirer.com.au"
-90171111,AI Engineering,Harry the Hirer,https://www.seek.com.au/job/90171111?type=standard&ref=search-standalone&origin=jobCard#sol=24b51b18c6ddfa03b145ed9069554bfe1b0f55f0,5h ago,5.0,2026-02-06T01:00:00+00:00,"Abbotsford, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"The Company
+90171111,AI Engineering,Harry the Hirer,https://www.seek.com.au/job/90171111?type=standard&ref=search-standalone&origin=jobCard#sol=9858b9a2476da0b6953983d9325f52d467391012,6h ago,6.0,2026-02-06T01:00:00+00:00,"Abbotsford, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"The Company
 
 Harry The Hirer is Australia’s leading events company. For 40+ years, we’ve powered the country’s most iconic events: Australian Open, Formula 1 Grand Prix, MotoGP, Melbourne Cup.
 
@@ -829,7 +1283,7 @@ Include your resume and answer: “Describe a production ML system you built and
 Harry The Hirer
 Australian Open | Formula 1 | MotoGP | Melbourne Cup
 www.harrythehirer.com.au"
-90170764,Data Engineer,Robert Walters,https://www.seek.com.au/job/90170764?type=standard&ref=search-standalone&origin=jobCard#sol=9cb562ee6fe08e6d6cd665750a0aeff87d62b43e,5h ago,5.0,2026-02-06T01:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Contract/Temp,$140k - $170k p.a. + + Super + flexibility (WFH),"Join a forward-thinking team dedicated to building scalable, secure, and high-quality data platforms using the latest Microsoft technologies.
+90170764,Data Engineer,Robert Walters,https://www.seek.com.au/job/90170764?type=standard&ref=search-standalone&origin=jobCard#sol=acde1177410eb9707330ce40a8eae997eb9760bf,6h ago,6.0,2026-02-06T01:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Contract/Temp,$140k - $170k p.a. + + Super + flexibility (WFH),"Join a forward-thinking team dedicated to building scalable, secure, and high-quality data platforms using the latest Microsoft technologies.
 Enjoy flexible working opportunities that promote work-life balance, and professional growth through training programmes and mentorship initiatives.
 Make a tangible impact by collaborating with cross-functional teams to deliver advanced analytics capabilities that inform strategic decision-making across the organisation.
 
@@ -860,7 +1314,7 @@ Apply today by clicking on the link provided-your next rewarding challenge await
 Aboriginal and Torres Strait Islander Peoples are encouraged to apply.
 
 To apply, please click apply or email John Riordan at john.riordan@robertwalters.com.au for a confidential discussion."
-90170726,Data and Strategy Architect,Preacta Recruitment,https://www.seek.com.au/job/90170726?type=standard&ref=search-standalone&origin=jobCard#sol=2d89bcbb8aa8c9d21bf74797a2a1de9696017c9c,5h ago,5.0,2026-02-06T01:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Great Permanent opportunity for a Data Architecture & Strategy Lead to join a high growth technology first Scale up based in Sydney, flexible hybrid role.
+90170726,Data and Strategy Architect,Preacta Recruitment,https://www.seek.com.au/job/90170726?type=standard&ref=search-standalone&origin=jobCard#sol=1d39577aecec4028a8ce27d5dae303e19f18a838,7h ago,7.0,2026-02-06T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Great Permanent opportunity for a Data Architecture & Strategy Lead to join a high growth technology first Scale up based in Sydney, flexible hybrid role.
 We’re partnering with a high growth, technology led financial services scale up that is investing heavily in its data platform to support the next phase of business growth, automation, and AI driven capability.
 
 The Opportunity
@@ -901,7 +1355,7 @@ Strong experience in data architecture and hands on data engineering/ Science le
 • Strong stakeholder management skills and the ability to influence without authority
 • A lean, outcome focused mindset over technical perfection
 Interviews for this role will be starting next week so if you would like to know more about the company and opportunity apply Today and ill give you a call. For more information speak to Jamie at Preacta recruitment 0401488853"
-90167864,Engineering Manager (Infra) - AI Reliability (ANZ Remote),Canva,https://www.seek.com.au/job/90167864?type=standard&ref=search-standalone&origin=jobCard#sol=66d3963dbce1c10361f29b90cf7b63882074787f,10h ago,10.0,2026-02-05T20:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+90167864,Engineering Manager (Infra) - AI Reliability (ANZ Remote),Canva,https://www.seek.com.au/job/90167864?type=standard&ref=search-standalone&origin=jobCard#sol=171438ce78f91bc9f4c29bd085dda66e5d27a524,11h ago,11.0,2026-02-05T20:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -981,7 +1435,7 @@ We make hiring decisions based on your experience, skills and passion, as well a
 We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above - we still want to hear from you!
 
 Please note that interviews are conducted virtually."
-90167463,Domain Architect,Nokia,https://www.seek.com.au/job/90167463?type=standard&ref=search-standalone&origin=jobCard#sol=7d79525f44d3c87058e912d24b58a776bbe50b73,11h ago,11.0,2026-02-05T19:00:00+00:00,Australia,Architects (Information & Communication Technology),Full time,,"Join our team as a Domain Architect in the Autonomous Networks, where you will drive the design and implementation of complex solutions. You will work with cutting-edge technologies. This role offers an opportunity to work with global teams, provide technical guidance, and drive innovation in security architecture. As an Architect, you have an opportunity to drive the team with AI powered initiatives to enhance the productivity.
+90167463,Domain Architect,Nokia,https://www.seek.com.au/job/90167463?type=standard&ref=search-standalone&origin=jobCard#sol=650d1edc79714c7310d717f6dd7443cdb9f3fd81,12h ago,12.0,2026-02-05T19:00:00+00:00,Australia,Architects (Information & Communication Technology),Full time,,"Join our team as a Domain Architect in the Autonomous Networks, where you will drive the design and implementation of complex solutions. You will work with cutting-edge technologies. This role offers an opportunity to work with global teams, provide technical guidance, and drive innovation in security architecture. As an Architect, you have an opportunity to drive the team with AI powered initiatives to enhance the productivity.
 
 Advancing connectivity to secure a brighter world.
 
