@@ -1,5 +1,299 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90295045,Data Architect - Contract,PRA,https://www.seek.com.au/job/90295045?type=standard&ref=search-standalone&origin=jobCard#sol=1bb9a6ce2bcb8f2f95e21a0d8968aa807fed2363,1h ago,1.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,n,"We are seeking a Contract Senior Data Architect / Data Modeller to lead the design of a common enterprise data model supporting the migration of fragmented data assets from SAS NEO to a Databricks Lakehouse platform.
+90300183,Data Analyst - Collision Avoidance System,Brunel,https://www.seek.com.au/job/90300183?type=standard&ref=search-standalone&origin=jobCard#sol=cbe922d3350f20143701a6ae7c985c70cc029d1c,1h ago,1.0,2026-02-12T04:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Brunel has partnered with a leading resources company on a contract opportunity for an Data Analyst. Ideal for a data analyst/data scientist with mining and telemetry experience who can turn complex operational data into trusted, actionable insights.
+
+Description
+
+This role delivers data models, analytics, and decision-support tools that improve safety, performance, and operational efficiency of a Collision Avoidance System across mining operations. You'll work across operational, sensor, and spatial datasets to support incident review, optimisation, and strategic decision making, partnering with operations, engineering, and technology teams to define metrics and embed data-driven practices.
+
+Key outcomes:
+
+Analytical models and data pipelines that are robust, accurate, maintainable, and trusted by stakeholders.
+Predictive models and statistical analysis using spatial data for creating visualisations, reports and decision making.
+Integrated, well-governed datasets combining sensor, geological, and operational data to support repeatable analysis and decision making.
+Well-documented business cases and analytical findings that inform product, process, and technology decisions.
+
+Key Responsibilities:
+
+Apply statistical and machine learning techniques to analyse operational and sensor datasets; build predictive models to identify trends and anomalies.
+Integrate diverse data sources (sensor, geological, operational) into reliable datasets for analysis and reporting.
+Design algorithms that support optimisation and automation, working with developers on proof-of-concepts where needed.
+Build dashboards and visualisations that make complex analysis easy to understand, partnering with UI/UX teams as required.
+Run stakeholder workshops to gather requirements, identify opportunities, and support adoption of process improvements.
+Work with architecture and delivery teams to map analytics impacts to solution requirements.
+Partner with IT/data platform teams to ensure data security, integrity, and availability.
+Drive continuous improvement by identifying where data can improve safety, productivity, and decision making.
+
+Profile
+
+Bachelor's degree in Computer Science, Statistics, or a related discipline.
+Proven experience delivering data analytics/data science in an industrial environment, ideally mining.
+Strong programming capability in Python (or Matlab/R).
+Experience with geospatial tooling (e.g. ArcGIS or similar).
+Experience with modern data platforms (Snowflake and AWS analytics services).
+Experience with dashboards/visualisation tools (Power BI, Tableau, Grafana or similar).
+Strong communication skills and a structured, detail-focused approach to data quality and documentation.
+3+ years' experience in mining operations; knowledge of open pit mining (iron ore preferred).
+
+Highly regarded:
+
+Experience with telemetry and sensor datasets (V2X, heavy mobile equipment, or safety systems).
+Familiarity with OT environments, mine control, or autonomy operations.
+Experience working with large-scale IoT datasets and networks.
+Background supporting safety analysis, incident investigations, or continuous improvement programs with data.
+Exposure to production-grade data pipelines and cloud analytics tooling.
+
+Job Offer
+
+About Brunel:
+
+Brunel is a recruitment and flexible workforce solution provider which connects talented people with opportunities throughout Australasia and around the world. We specialise in highly skilled roles across a variety of technical, professional, trades and craft disciplines, pairing candidates with industry-leading projects and organisations on a contract, permanent or secondment basis.
+
+Operating in Australasia since 1997, Brunel has major bases of operation in Perth, Sydney, Brisbane and Port Moresby, which are further backed by the strength and reach of a truly global network spanning over 45 countries, 120 offices and 45 years of successful operation.
+
+Brunel is proud to be equal opportunity employer and encourages applications from Aboriginal and Torres Strait Islander and female candidates.
+
+How to apply:
+
+If you meet the above requirements and would like to be considered for this role, please submit your interest using the 'Apply' button. Applying is quick and easy - just make sure you have the following documents ready to go:
+
+Resume
+Cover Letter (optional)"
+90299530,Service Reliability Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90299530?type=standard&ref=search-standalone&origin=jobCard#sol=445f73a91e5041e21b2e48c4531c76ae36d87c14,1h ago,1.0,2026-02-12T04:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,Up to $180k p.a.,"Location: Sydney (4 days in office, 1-day WFH)
+Reports to: Technical Operations Director, APAC
+Department: Global Technical Operations
+Salary: $180,000 + super + bonus
+
+
+The Opportunity:
+
+A leading music organisation is now growing their Global Technical Operations hub in Sydney and looking for a Service Reliability Engineer (SRE) to join their team.
+
+This is more than a traditional ops role - it's an opportunity to bring a software engineering mindset to reliability, automation, and scalability in a global, high-impact environment.
+
+What You'll Do:
+
+You'll join a collaborative, hands-on team responsible for the stability, performance, and scalability of global platforms. Working closely with development, infrastructure, and security teams, you'll help build a resilient environment that keeps music flowing - from studio tools to streaming systems.
+
+
+
+
+Design and maintain high-availability, high-performance systems for global applications.
+Automate everything - from infrastructure provisioning to deployment and scaling - using tools like Terraform, Ansible, and Python.
+Build robust monitoring and observability frameworks with AWS CloudWatch, Dynatrace, Prometheus, Grafana, or Splunk.
+Optimize CI/CD pipelines to improve reliability and deployment speed.
+Participate in on-call rotations, troubleshoot incidents, and lead post-incident reviews.
+Champion SRE principles - embed SLOs, SLIs, and error budgets into everyday engineering.
+Collaborate across Dev, Infra, and Security teams to create a culture of continuous improvement and reliability.
+
+About You
+
+You're a technically strong and level-headed engineer who loves automation, thrives in complex environments, and knows how to balance pragmatism with perfection.
+
+
+
+
+Background in systems administration (Linux/Windows) in a large-scale environment.
+Proficient in at least one programming language (Python, Go, or Java).
+Hands-on experience with AWS (GCP or Azure a bonus).
+Deep understanding of networking, containers (Docker/Kubernetes), and Infrastructure as Code (Terraform, Ansible).
+Experience with monitoring and observability tools such as Dynatrace, Prometheus, Grafana, or Datadog.
+Calm, collaborative communicator with strong analytical and problem-solving skills.
+
+Bonus Points For:
+
+
+
+
+Experience with ServiceNow or ITIL processes.
+Knowledge of chaos engineering, resilience testing, or advanced capacity planning.
+Previous experience managing distributed, global systems in production.
+
+Culture & Perks
+
+
+
+
+Annual bonus $
+Global collaboration and career growth opportunities
+
+Interested?
+Apply now or contact Sophia Parrelli at Talent International for a confidential chat."
+90299234,Embedded Developer,Brunel,https://www.seek.com.au/job/90299234?type=standard&ref=search-standalone&origin=jobCard#sol=e9c6a6dd8e13b57d782a99aaa2c30df5ab3ce031,1h ago,1.0,2026-02-12T04:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Brunel has partnered with a leading resources company on a contract opportunity for an Embedded Developer. This role suits someone with collision avoidance systems experience who can deliver safety-critical, production-grade software for real-time environments.
+
+Description
+
+This role will design, implement, and optimise safety-critical decision-making software that prevents collisions across heavy mobile equipment. Working within a cross-functional autonomy squad, you'll deliver production-grade C/C++ components that integrate sensors, localisation, mapping, and control to ensure reliable fail-operational behaviour in dynamic, mixed-traffic environments.
+
+Key Responsibilities:
+
+Build collision avoidance components with a focus on performance, safety, modularity, testability, observability, and redundancy.
+Uplift an existing codebase to production standard, including compliance with MISRA or similar guidelines.
+Analyse field data and telemetry to scope and deliver new features that improve real-world performance.
+Produce and maintain technical design documentation, safety cases, interface specifications, and operational guidance.
+Perform hazard analysis and FMEA, and develop and validate safety-related functions and diagnostics.
+Lead reviews of requirements and architecture, defining clear component boundaries and interfaces.
+Run code, design, and test reviews to meet coding standards, safety requirements, and established practices.
+Create and maintain unit, integration, HIL, and simulation-based tests, including regression suites for edge cases and collision scenarios.
+Support field triage and root-cause resolution using logs, telemetry, and simulation reproductions.
+Mentor engineers in modern C/C++, safe concurrency, numerical robustness, and data-driven validation.
+
+Profile
+
+3+ years' experience delivering real-time or near real-time systems in C/C++.
+Experience across collision avoidance, motion planning, or ADAS, including control integration.
+Strong modelling capability for control and planning (kinematic/dynamic models, constraints, feasibility).
+Modern C++ (C++17+), performance optimisation, and strong engineering workflows (CMake, Docker, Git/PRs/CI).
+Linux and networking fundamentals, plus observability practices (metrics, tracing, structured logs).
+Safety-critical development experience, including safety mechanisms, watchdogs, and degraded modes.
+Familiarity with standards such as MISRA/AUTOSAR and static analysis tooling.
+Experience with DDS and/or ROS 2 in distributed systems (QoS, message schemas, lifecycle nodes).
+Ability to scope work and estimate effort accurately.
+
+Highly regarded:
+
+V2X / DSRC communications experience.
+Data-driven collision avoidance, PID control, brake control algorithms.
+GPS/GNSS experience.
+Embedded software delivery in production environments (mining, automotive, rail).
+
+Job Offer
+
+About Brunel:
+
+Brunel is a recruitment and flexible workforce solution provider which connects talented people with opportunities throughout Australasia and around the world. We specialise in highly skilled roles across a variety of technical, professional, trades and craft disciplines, pairing candidates with industry-leading projects and organisations on a contract, permanent or secondment basis.
+
+Operating in Australasia since 1997, Brunel has major bases of operation in Perth, Sydney, Brisbane and Port Moresby, which are further backed by the strength and reach of a truly global network spanning over 45 countries, 120 offices and 45 years of successful operation.
+
+Brunel is proud to be equal opportunity employer and encourages applications from Aboriginal and Torres Strait Islander and female candidates.
+
+How to apply:
+
+If you meet the above requirements and would like to be considered for this role, please submit your interest using the 'Apply' button. Applying is quick and easy - just make sure you have the following documents ready to go:
+
+Resume
+Cover Letter (optional)"
+90298697,Elastic Observability Engineer,Talent Insights Group Pty Ltd,https://www.seek.com.au/job/90298697?type=standard&ref=search-standalone&origin=jobCard#sol=df2dfe9ada0e41fd2f7a7c704a4b2d5b8b13ad36,1h ago,1.0,2026-02-12T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Elastic Observability Engineer – Telco Client | 6–12 Month Daily Contract | Sydney (Hybrid)
+
+We are seeking an experienced Elastic Observability Engineer to design, implement, and operate an enterprise-scale observability platform using the Elastic Stack (Elasticsearch, Kibana, Elastic Observability).
+
+The role delivers end-to-end observability across hybrid and cloud environments, covering logs, metrics, traces, uptime, and APM, enabling faster incident detection and root-cause analysis.
+
+You’ll work closely with SRE, DevOps, Platform, and Application teams to onboard services, define standards, and improve observability maturity.
+
+Responsibilities:
+
+Deploy and operate Elastic Observability platform (Elasticsearch, Kibana, Beats, Logstash, APM).
+Ensure cluster performance, scalability, reliability, and high availability.
+Build dashboards, alerts, and ingestion pipelines; troubleshoot performance issues.
+Automate provisioning using IaC (Terraform, Ansible, Helm) and support Kubernetes/container deployments.
+Collaborate with teams to onboard services, define observability standards, and optimize ILM, retention, and cost.
+Requirements:
+
+Hands-on Elastic Stack experience; Elasticsearch internals, indexing, performance tuning.
+Kubernetes and cloud (AWS, Azure, GCP) experience; Linux, networking, distributed systems knowledge.
+CI/CD, automation (Python/Bash). SRE/DevOps/Platform background.
+Nice to Have:
+
+Elastic Certified Observability Engineer, OpenTelemetry, enterprise/hybrid-cloud experience, ITSM tools (ServiceNow/PagerDuty)."
+90298439,EOI - Experienced Systems Engineers,John Holland,https://www.seek.com.au/job/90298439?type=standard&ref=search-standalone&origin=jobCard#sol=f1ee4f37759c72aeffae91fd862ae2483ff1bf92,1h ago,1.0,2026-02-12T04:00:00+00:00,"Pyrmont, Sydney NSW",Systems Engineering (Engineering),Full time,,"John Holland Group is seeking Expressions of Interest from highly experienced Systems Engineers, from Engineering level to Systems Engineering Managers, to join our Rail Engineering & Integration group of specialist rail engineers, supporting the delivery of SESA services across our portfolio of upcoming and ongoing rail projects in Sydney and Melbourne. These roles will contribute to the delivery of complex, safety‑critical systems that underpin the performance, reliability, and regulatory compliance of our rail projects.
+
+This opportunity can be based in our Sydney or Melbourne offices.
+
+About the Opportunity:
+We are looking to engage Systems Engineering professionals with demonstrated capability across the full systems engineering lifecycle to join our team. This is a long-term opportunity to join our SESA team where successful candidates will work within multi‑disciplinary engineering teams, supporting the development, integration, assurance, and verification of rail systems and subsystems.
+
+This EOI aims to identify individuals who can provide expertise aligned with recognised rail standards, including but not limited to:
+
+-EN 50126 / 50128 / 50129 (RAMS)
+-Systems Engineering (ISO/IEC 15288)
+-CENELEC standards for safety‑related systems
+-Australian rail safety and accreditation frameworks
+
+Key Responsibilities:
+
+We are seeking Systems Engineers with strong capability across the structured engineering lifecycle with experience in the following Systems Engineering competencies:
+
+Requirements Engineering
+-Eliciting, analysing, validating, and managing system requirements
+-Developing requirements baselines and ensuring traceability
+
+System Architecture & Design
+-Developing system architectures, functional models, and interface definitions
+-Conducting functional decomposition and allocation of requirements
+
+Interface Management
+-Identifying, defining, and controlling internal and external interfaces
+-Managing interface hazards, performance dependencies, and integration constraints
+
+Verification & Validation (V&V)
+-Preparing V&V strategies, plans, traceability matrices, and test evidence
+-Executing and coordinating verification across multidisciplinary teams
+
+Integration Planning & Coordination
+-Sequencing integration activities and resolving integration issues
+-Ensuring subsystem compatibility and alignment to the system architecture
+
+Configuration & Change Management
+-Applying disciplined SE control processes to manage baselines and technical change
+
+Systems Assurance
+-Supporting RAMS, hazard management, and compliance to applicable standards (e.g., EN 50126 series)
+-Contributing to system safety cases and assurance artefacts
+
+Lifecycle Management
+-Applying the V Model and ISO/IEC 15288 principles across concept, development, test, and operational phases
+
+Qualifications:
+-Degree in Systems Engineering, Electrical Engineering, Mechatronics, Software, or related discipline
+-Postgraduate qualifications in Systems Engineering (desirable)
+-CSEP/ESEP certification (desirable)
+-Rail‑specific safety competencies where relevant"
+90298317,Data Engineer,Generator Talent Group,https://www.seek.com.au/job/90298317?type=standard&ref=search-standalone&origin=jobCard#sol=f9028772c5901c0605163f7c766f0f0d8a1a0659,2h ago,2.0,2026-02-12T03:00:00+00:00,"Artarmon, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+
+Fulcrum3D is expanding and looking for a Data Engineer to help build advanced wind and solar forecasting technologies used across Australia and international energy markets.
+
+You’ll work hands-on with real-world energy data, contributing to cloud-based solar forecasting, wind resource assessment, and short-term power system modelling — all within a fast-moving, R&D-led environment.
+
+This role suits either an enthusiastic graduate or someone with deeper experience. What matters most is curiosity, initiative, and the ability to learn quickly.
+
+What You’ll Do
+
+Build and maintain data engineering pipelines for renewable energy systems
+
+Develop short-term energy forecasting models
+
+Contribute to computer vision–based solar forecasting
+
+Support wind sensing and power resource assessment platforms
+
+Collaborate closely with engineers and researchers on cutting-edge R&D
+
+Must-Have Skills
+
+Strong Python programming
+
+Competency in C/C++
+
+Comfortable working in Linux environments
+
+Demonstrated experience in data engineering or data science pipelines
+
+Nice to Have
+
+Machine learning or statistical modelling exposure
+
+Experience with dynamic systems or numerical methods
+
+Knowledge of energy markets (especially Australia’s NEM)
+
+Strong communication skills
+
+Qualifications
+
+STEM degree (Computer Science, Engineering, Physics, Maths, Statistics, etc.)
+
+Postgraduate study helpful but not required"
+90295045,Data Architect - Contract,PRA,https://www.seek.com.au/job/90295045?type=standard&ref=search-standalone&origin=jobCard#sol=ea1ab0f0aa7fcc8ee6e2ea7c89ad39c9824ca67f,3h ago,3.0,2026-02-12T02:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,n,"We are seeking a Contract Senior Data Architect / Data Modeller to lead the design of a common enterprise data model supporting the migration of fragmented data assets from SAS NEO to a Databricks Lakehouse platform.
 
 This role plays a critical part in establishing a unified, governed data foundation that standardises core entities, definitions, and relationships across the organisation, enabling scalable analytics, reporting, and AI/ML use cases.
 
@@ -32,7 +326,7 @@ Power BI, Tableau, Qlik
 MDM and data quality tooling
 Infrastructure-as-code exposure (Terraform / ARM)
 If you would like to hear more please APPLY below. Australian Citizens or PR only."
-90294367,Integration Solutions Specialist,Metropolitan Memorial Parks Land Manager,https://www.seek.com.au/job/90294367?type=standard&ref=search-standalone&origin=jobCard#sol=61118f05af4ab5e6f56178e60bd978e8e26b58b6,1h ago,1.0,2026-02-12T01:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,130k - 140k annual base salary,"About us:
+90294367,Integration Solutions Specialist,Metropolitan Memorial Parks Land Manager,https://www.seek.com.au/job/90294367?type=standard&ref=search-standalone&origin=jobCard#sol=fe1fbd7d7b978b609753eba1893b1dad94161322,3h ago,3.0,2026-02-12T02:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,130k - 140k annual base salary,"About us:
 
 Metropolitan Memorial Parks is a NSW Government entity responsible for managing eight Memorial Parks across the Sydney and Hunter region. We're committed to providing genuine care and affordable choices for everyone, while expanding our services to meet the diverse needs of our communities.
 
@@ -81,7 +375,7 @@ Certifications in integration platforms or project management (e.g., PMP, ITIL) 
 Experience in cemetery and crematorium operations or government enterprise systems would be highly regarded
 
 If you're a skilled integration professional looking for a new challenge, please submit your application, including your resume and cover letter, addressing the key responsibilities."
-90293843,Data Engineer - Databricks,TRS - Public Sector,https://www.seek.com.au/job/90293843?type=standard&ref=search-standalone&origin=jobCard#sol=5026ed8391877355200f39d8be5845a042456bf3,2h ago,2.0,2026-02-12T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $1000 p/d + super (may be negotiable),"Data Engineer | ASAP Start | Large Utilities Organisation
+90293843,Data Engineer - Databricks,TRS - Public Sector,https://www.seek.com.au/job/90293843?type=standard&ref=search-standalone&origin=jobCard#sol=0bc17d26d1fcbcb7b1b62205cf25f44354a1e361,4h ago,4.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $1000 p/d + super (may be negotiable),"Data Engineer | ASAP Start | Large Utilities Organisation
 
 6 month contract with likely extensions
 Up to $1000 p/d + super (may be negotiable)
@@ -112,7 +406,7 @@ Experience with Microsoft Fabric
 Experience supporting or integrating with Power BI
 Exposure to enterprise analytics environments
 If you have relevant experience, please submit your latest CV and we will be in touch shortly!"
-90293092,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293092?type=standard&ref=search-standalone&origin=jobCard#sol=5e803fa92d90dfc0211356034ac6cabf1fe75138,2h ago,2.0,2026-02-12T00:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+90293092,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293092?type=standard&ref=search-standalone&origin=jobCard#sol=736bf3c9e3fa65380a9e98defb89f9649d3614bb,4h ago,4.0,2026-02-12T01:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
 
 As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
 
@@ -188,7 +482,7 @@ Application Closing Date: Sunday, 1 March 2026
 
 
 For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
-90293080,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293080?type=standard&ref=search-standalone&origin=jobCard#sol=a16cd6ee0cab5a703095e0191a250eaaa6eb189e,2h ago,2.0,2026-02-12T00:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+90293080,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293080?type=standard&ref=search-standalone&origin=jobCard#sol=80dde13bd2f1591ec3d98f43672818e6cabc491e,4h ago,4.0,2026-02-12T01:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
 
 As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
 
@@ -264,7 +558,7 @@ Application Closing Date: Sunday, 1 March 2026
 
 
 For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
-90293075,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293075?type=standard&ref=search-standalone&origin=jobCard#sol=0a6aa2f8b3568dee2dc520296887ef8d570467fb,2h ago,2.0,2026-02-12T00:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+90293075,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293075?type=standard&ref=search-standalone&origin=jobCard#sol=ca1cb616e6f926da8f36d0b25f063320d4a0254f,4h ago,4.0,2026-02-12T01:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
 
 As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
 
@@ -340,7 +634,7 @@ Application Closing Date: Sunday, 1 March 2026
 
 
 For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
-90292004,Observability Engineer,Compare the Market,https://www.seek.com.au/job/90292004?type=standard&ref=search-standalone&origin=jobCard#sol=7a58d86b1761e2ba68e3e1dc5f803cfcc8a6d538,3h ago,3.0,2026-02-11T23:00:00+00:00,Brisbane QLD,Networks & Systems Administration (Information & Communication Technology),Full time,,"Who We Are
+90292004,Observability Engineer,Compare the Market,https://www.seek.com.au/job/90292004?type=standard&ref=search-standalone&origin=jobCard#sol=f0947a61c27009a8b90652d8a2a2e749d1b2d2c7,5h ago,5.0,2026-02-12T00:00:00+00:00,Brisbane QLD,Networks & Systems Administration (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -422,7 +716,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-90291516,Lead Automation Developer,Department of Education,https://www.seek.com.au/job/90291516?type=standard&ref=search-standalone&origin=jobCard#sol=3029e3cbd153d408fa3e5268e2b9e7246b3894f1,3h ago,3.0,2026-02-11T23:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Full time,From 129464 to 142665 AUD per year,"Company description:
+90291516,Lead Automation Developer,Department of Education,https://www.seek.com.au/job/90291516?type=standard&ref=search-standalone&origin=jobCard#sol=fb9e985d98a8f4e74297017b87bd5dbae7958f3d,5h ago,5.0,2026-02-12T00:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Full time,From 129464 to 142665 AUD per year,"Company description:
 
 
 
@@ -521,7 +815,7 @@ We welcome applications from all ages and genders, Aboriginal and Torres Strait 
 
 
 A recruitment pool may be created through this recruitment process. A recruitment pool is a group of applicants who have been assessed and identified as suitable for this role, and who may be considered for a range of similar roles, including temporary, term or ongoing roles, over the next 18 months."
-90290423,Senior System Engineer - L3 MSP,Kaliba Pty Ltd,https://www.seek.com.au/job/90290423?type=standard&ref=search-standalone&origin=jobCard#sol=4a038365ce75ac97306d6db935294abcc8df99bd,4h ago,4.0,2026-02-11T22:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Full time,"$120,000 – $140,000 per year","Level 3 Engineer (MSP)
+90290423,Senior System Engineer - L3 MSP,Kaliba Pty Ltd,https://www.seek.com.au/job/90290423?type=standard&ref=search-standalone&origin=jobCard#sol=f6e21d33a7dbd3a70aa01cd9bdcfa468098565d6,6h ago,6.0,2026-02-11T23:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Full time,"$120,000 – $140,000 per year","Level 3 Engineer (MSP)
 
 Location: Sydney (hybrid)
 Salary: $120,000 – $140,000 + Super (+ performance based bonus)
@@ -584,7 +878,7 @@ Experience with RMM/PSA tools (ConnectWise, Datto, Kaseya, etc.)
 Exposure to security best practices and frameworks
 
 Project delivery experience"
-90289762,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/90289762?type=standard&ref=search-standalone&origin=jobCard#sol=979bdb3ee675a6f6104347a50f681d4223fa8526,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
+90289762,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/90289762?type=standard&ref=search-standalone&origin=jobCard#sol=a184fe5127a26e1e49f18549ff252d2fde612f89,7h ago,7.0,2026-02-11T22:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 
 In 2025, we have been awarded
 
@@ -634,7 +928,7 @@ Join a renowned organisation delivering projects to some of Australia’s leadin
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-90289855,Senior Machine Learning Engineer - Learning Experience,Canva,https://www.seek.com.au/job/90289855?type=standard&ref=search-standalone&origin=jobCard#sol=6d15dd26ba8d1e4c654788251ba5a93ad78de994,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
+90289855,Senior Machine Learning Engineer - Learning Experience,Canva,https://www.seek.com.au/job/90289855?type=standard&ref=search-standalone&origin=jobCard#sol=1b92de36982befff4291f27af4e93ddde44349c5,7h ago,7.0,2026-02-11T22:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -721,7 +1015,7 @@ Check out  lifeatcanva.com for more info.
 Other stuff to know
 
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
-90289847,Senior Research Engineer - Design Generation,Canva,https://www.seek.com.au/job/90289847?type=standard&ref=search-standalone&origin=jobCard#sol=72482103f18e7794d11a251259307fe754673498,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW,"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Company Description
+90289847,Senior Research Engineer - Design Generation,Canva,https://www.seek.com.au/job/90289847?type=standard&ref=search-standalone&origin=jobCard#sol=162f9b06cad9700b037bac26f9a2b0811e469533,7h ago,7.0,2026-02-11T22:00:00+00:00,Sydney NSW,"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
