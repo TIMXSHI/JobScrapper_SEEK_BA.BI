@@ -1,5 +1,392 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90290403,Financial Modeller,Sharp & Carter South East Melbourne,https://www.seek.com.au/job/90290403?type=standard&ref=search-standalone&origin=jobCard#sol=e71b5e514699b44c564dedab0fe102c284638815,1h ago,1.0,2026-02-11T22:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Accounting),Contract/Temp,,"Our client is an iconic multinational consumer goods organisation that is continuing to invest in its growth and has capitalised on an increasing amount of market share within its sector. Working within a world-class finance division presents an excellent opportunity for an ambitious Finance Analyst to join the team.
+90295045,Data Architect - Contract,PRA,https://www.seek.com.au/job/90295045?type=standard&ref=search-standalone&origin=jobCard#sol=715aeaa5c36e5dab3eda99e65c47829100b53e08,1h ago,1.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,n,"We are seeking a Contract Senior Data Architect / Data Modeller to lead the design of a common enterprise data model supporting the migration of fragmented data assets from SAS NEO to a Databricks Lakehouse platform.
+
+This role plays a critical part in establishing a unified, governed data foundation that standardises core entities, definitions, and relationships across the organisation, enabling scalable analytics, reporting, and AI/ML use cases.
+
+You will work across architecture, data engineering, analytics, and business teams to rationalise existing schemas, translate embedded business logic, and define canonical domains aligned to modern Lakehouse and cloud data architecture principles.
+
+Key Responsibilities
+Design conceptual, logical, and physical data models supporting enterprise analytics and AI
+Define canonical data domains, entities, and relationships
+Map legacy SAS NEO datasets and unstructured sources to target Databricks models
+Translate embedded business logic into governed, reusable data structures
+Define OLTP, OLAP, and dimensional models (star/snowflake)
+Establish metadata, lineage, and documentation standards
+Ensure alignment with Lakehouse, ELT, and cloud architecture patterns
+Collaborate with engineers, architects, and stakeholders on target-state design
+Required Skills & Experience
+Strong experience in Data Architecture, Data Modelling & Design
+Proven migration experience to Databricks or Lakehouse platforms
+Conceptual, logical and physical modelling expertise
+Dimensional modelling (star/snowflake) and OLTP vs OLAP design
+Advanced SQL
+Experience with relational databases (SQL Server, Oracle, Postgres, MySQL, SAS)
+Cloud platforms: Azure, AWS or GCP
+Data integration & ETL/ELT design patterns
+Metadata management, lineage, and governance frameworks
+Nice to Have
+Python, Scala, or Spark
+Informatica, ADF, Talend, Boomi, SSIS
+Kafka / Event Hubs / streaming
+Power BI, Tableau, Qlik
+MDM and data quality tooling
+Infrastructure-as-code exposure (Terraform / ARM)
+If you would like to hear more please APPLY below. Australian Citizens or PR only."
+90295022,Revenue Management Analyst,Storage King,https://www.seek.com.au/job/90295022?type=standard&ref=search-standalone&origin=jobCard#sol=1064dbf684aaa18c270f4679ca4e8ad7e125f5e5,1h ago,1.0,2026-02-12T01:00:00+00:00,"North Sydney, Sydney NSW",Business/Systems Analysts (Information & Communication Technology),Full time,,"About the role
+We’re seeking a Revenue Management Analyst to drive pricing optimisation and revenue performance across our AU & NZ portfolio. Reporting to the General Manager Store Performance, you’ll partner closely with Innovation & IT and key stakeholders to deliver data-driven insights, strengthen our Revenue Management System (RMS) and support strategic pricing decisions across the business.
+  
+Key responsibilities
+
+Analyse occupancy, pricing and demand to identify revenue opportunities
+Provide competitor and market insights
+Build and maintain revenue and demand forecasts
+Develop pricing scenarios and elasticity insights
+Create and automate dashboards
+Support pricing tests and measure impact
+Partner with IT to enhance RMS and ensure data integrity  
+
+What you’ll bring
+
+Experience in commercial analytics, pricing or revenue management
+Strong SQL and Python skills
+Experience with data warehouses and pipeline tools
+Advanced Excel and business intelligence tool capability
+Strong communication and stakeholder engagement skills
+High attention to detail and problem-solving mindset
+
+Why Storage King
+
+Competitive salary + bonus potential
+Vibrant North Sydney office
+Supportive, approachable team culture 
+Discounted health insurance through Medibank
+Assure Wellbeing Program – confidential counselling, financial advice, lifestyle coaching, and more
+Access to exclusive retail discounts on fashion, groceries, travel, and more via our employee platform
+Want to learn more about working with us? Visit our Careers Site to hear from our team, watch employee videos and see what makes Storage King a great place to grow your career. https://storagekingcareers.com.au/
+
+If this sounds like the opportunity you've been looking for, we’d love to hear from you – apply today!
+  
+We value the important work recruitment agencies do, but all our hiring is managed exclusively by our internal recruitment team. We kindly ask agencies not to contact us regarding these opportunities. Thank you for your understanding."
+90294892,Marketing Insights & Lead Generation Manager,Vocus,https://www.seek.com.au/job/90294892?type=standard&ref=search-standalone&origin=jobCard#sol=bc63709ea93a0ec372bf847150d2aeb7339fdb77,1h ago,1.0,2026-02-12T01:00:00+00:00,"North Sydney, Sydney NSW",Market Research & Analysis (Marketing & Communications),Full time,,"Are you looking for an awesome place to work, where you can proudly be your authentic self and be part of a talented team?
+
+
+
+
+We’re looking for a highly analytical, data-driven marketer who gets excited by digging into raw data, uncovering patterns, and turning insight into action. Someone who thrives on understanding customer journeys end-to-end and using data to fuel smarter lead generation, automation and campaign performance.
+
+ 
+
+About the role
+
+
+
+As the Marketing Insights & Lead Generation Manager, you will play a critical role in building and scaling an elite, data-led lead generation engine for Vocus.
+
+
+
+
+This role is about deep analysis, insight generation and optimisation. You will work hand-in-glove with our Marketing Automation & CRM Manager, using data to inform how leads are sourced, segmented, nurtured, scored and converted across the funnel.
+
+
+
+
+You’ll be responsible for analysing various data sets (CRM, campaign, behavioural, customer and third-party data), identifying opportunities, and translating insight into clear actions that improve demand generation, campaign effectiveness and customer experience.
+
+ 
+
+What you’ll be responsible for
+
+
+
+Lead Generation & Demand Optimisation
+
+Analyse lead, opportunity and campaign data to identify performance drivers, gaps and optimisation opportunities across the full funnel
+Support the design and ongoing refinement of lead nurture programs, working closely with the Marketing Automation & CRM Manager
+Use insights to inform targeting, segmentation, messaging, CTAs and offers to improve conversion and pipeline contribution
+
+ 
+
+Customer & Market Insights
+
+Deeply analyse customer behaviour, preferences and buying signals across Simple Enterprise, Mid-Market and SMB segments
+Identify trends, patterns and opportunities from raw data sets and translate them into actionable insights
+Analyse competitive offers and market activity to inform positioning, propositions and campaign strategy
+
+ 
+
+Customer Journey Analysis
+
+Map and continuously refine customer journeys using data to understand drop-off points, friction and moments of opportunity
+Cross-match behavioural, campaign and CRM data to uncover how customers move through the funnel and lifecycle
+Identify opportunities for personalisation, automation and smarter engagement at each stage
+
+ 
+
+Data Analysis & Reporting
+
+Own the analysis and interpretation of marketing and sales data, turning complex data into clear, compelling insights
+Build and maintain dashboards, reports and ad-hoc analysis to support decision-making (monthly MBRs and on-demand reporting)
+Track and report on key KPIs including lead quality, conversion rates, pipeline contribution, campaign ROI and customer engagement
+
+ 
+
+CRM & Data Management (Salesforce)
+
+Support end-to-end lead and data management within Salesforce, including data enrichment, list processing and lead reporting
+Partner closely with CRM, SFMC and data teams to ensure data integrity, usability and insight generation
+Support opportunity campaign creation for outbound sales and coordination of EDM and communication lists
+
+ 
+
+Collaboration & Stakeholder Engagement
+
+Work closely with the Marketing Automation & CRM Manager to operationalise insights into automated journeys and campaigns
+Partner with sales, digital performance, segment leads and data teams to align insight, execution and outcomes
+Communicate insights clearly to stakeholders, helping teams understand the “so what” and “what next”
+
+ 
+
+What you’ll bring to the role
+
+
+
+Experience & Background
+
+8–10+ years’ experience in B2B marketing, insights, demand generation or analytics-focused roles
+Experience in telecommunications, technology, SaaS or digital infrastructure highly regarded
+Degree in Marketing, Business, Analytics, Data, or equivalent industry experience (MBA or analytics qualifications highly regarded)
+
+ 
+
+Capabilities & Skills
+
+Strong data and analytical capability - confident working with large, complex data sets
+Advanced Excel skills (pivot tables, formulas, data manipulation) and strong reporting capability
+Experience working with CRM and marketing automation platforms (Salesforce / SFMC experience highly regarded)
+Deep understanding of lead generation mechanics, funnels, lifecycle marketing and customer journeys
+Commercially minded with the ability to translate data into clear, actionable recommendations
+Comfortable operating in fast-paced, evolving environments with ambiguity
+
+ ..."
+90293431,Senior Research Analyst,Mirvac,https://www.seek.com.au/job/90293431?type=standard&ref=search-standalone&origin=jobCard#sol=bedc6d61122082c25b168797b19ac69ac7f584c5,2h ago,2.0,2026-02-12T00:00:00+00:00,Sydney NSW,Analysts (Real Estate & Property),Full time,,"More than 50 years ago a foundation was laid, with a vision for the future. To re-imagine the environments where Australians would live, work and grow. In this time, Mirvac has evolved from a small joint venture to a thriving ASX-listed property group, leading in sustainability, innovation, safety, and placemaking.
+
+Mirvac has created some of Australia's most iconic places, from thriving residential communities, to landmark offices and mixed-use precincts. At the heart of every project: a deep commitment to our customers, and an ambition to reimagine urban life.
+
+Our opportunity
+
+We have an opportunity for a Senior Research Analyst (depending on experience, Research Analyst is a possibility), you will provide high quality insights of market performance, risks and return drivers for the Group and external clients. Craft analytics & insights spanning economic, demographic, capital market and property spheres for a variety of internal and external clients.
+
+Your responsibilities will include:
+
+
+Play an integral role in the Group Research team while liaising with business stakeholders from various divisions including Investments, Funds Management, Asset Management, Development, Investor Relations, and Corporate Services on requirements
+Build expertise on property return drivers and become a strong internal point of contact for market intelligence
+Learn the variety of key macro-economic and real estate data sources including key splits & segmentations that underpin investment performance
+Create and supply senior business stakeholders with visual storytelling analytics via charting software
+Problem-solve by transforming granular datasets, internal intelligence and external contacts into relevant insights for business teams
+Play a central role in execution of regular external client reporting products as well as ad-hoc requirements
+Collect, update and maintain sector workbooks, outlook packs, forecast models and chart decks
+Produce quarterly commentary on sectors for internal and external clients and attend presentations with Head of Research and team members
+Work with New Business teams and Strategy teams on content for Group and Division strategy plus project feasibility assumptions, capital partnering initiatives & Investment Committee paper input etc
+
+Your point of difference
+
+You will be professionally qualified in Business/Finance, Economics Property Economics with experience operating at a senior level with translating data into relevant business insights. You will have a strong understanding of Real Estate and/or Investments as well as macroeconomic, capital market, demographic and regulatory concepts and how they impact real estate.
+
+You will have confidence to present at meetings, and have clear, concise writing and presentation skills with demonstrated experience in tailoring output to various audiences.
+
+All of these qualities are preferred, if you think you may be the right fit for the role please still apply."
+90293337,Change & Business Analyst,Davidson,https://www.seek.com.au/job/90293337?type=standard&ref=search-standalone&origin=jobCard#sol=d4db3d8028c4316b535ad0231f7886215a28c270,2h ago,2.0,2026-02-12T00:00:00+00:00,"Phillip, Canberra ACT (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Senior Change Analyst - Cyber Security
+
+IMPORTANT: You must be an Australian Citizen to apply for this role.
+
+We are seeking an experienced Senior Change Analyst to support a large scale cyber security uplift program within a government environment.
+
+This role sits within a digital health and technology operations function and will support the delivery of cyber security initiatives with a strong focus on workforce adoption, structured change management and high quality documentation.
+
+This is a single hybrid role requiring both organisational change and business analysis capability. We are not recruiting separate Change and Business Analyst positions.
+
+
+Key responsibilities include:
+
+Lead organisational change management activities supporting cyber security and ICT uplift initiatives
+Conduct structured change impact assessments, readiness evaluations and stakeholder analysis
+Develop governance aligned change strategies integrated with program milestones
+Produce high quality executive briefings, decision papers, talking points and workforce communications
+Translate complex cyber security and ICT concepts into clear, practical guidance
+Undertake business analysis activities including requirements clarification and impact assessment
+Develop and maintain operational documentation, knowledge articles and SharePoint based repositories
+Provide advice on adoption risks, workforce readiness and change dependencies
+
+To be successful you will demonstrate:
+
+Experience delivering organisational change in complex ICT or cyber security programs
+Strong business analysis capability including impact assessment and documentation
+Exceptional written communication skills, including executive level materials
+Experience in government or regulated environments will be highly regarded
+
+You must be an Australian Citizen and able to pass a National Police Check.
+
+Contract commencing February 2026 through to end of June 2026, with possibility of extension to end of June 2027.
+
+
+
+
+Please apply with current resume in Microsoft Word format only (.doc or .docx). If you would like to have a confidential discussion, please contact Terry Park on terry.park@davidsonwp.com, quoting reference JN -022026-42476. Want to know more about Davidson? Visit us at www.davidsonwp.com"
+90292302,"Senior Manager, Statistical Programming",Avance Clinical Pty Ltd,https://www.seek.com.au/job/90292302?type=standard&ref=search-standalone&origin=jobCard#sol=d16b8f007b975bde9eaea768ae5d10f518cc5a64,3h ago,3.0,2026-02-11T23:00:00+00:00,Melbourne VIC (Hybrid),Clinical/Medical Research (Healthcare & Medical),Full time,,"Who are we?
+We’re Avance Clinical a Contract Research Organisation. We offer specialised services supporting drug development for the pharmaceutical and biotechnology industry. We have a rich history in this area with our founding roots dating back to the 1980’s. If you already work in this industry you’ll know that we are experts in our field.
+
+Why should you join Avance Clinical?
+We appreciate that our most important asset is our people. We offer a fun, friendly work environment and a culture that values honesty and respect. We have a strong sense of team. We genuinely appreciate each individual but recognise the collective when achieving success.
+We are committed to creating a flexible work environment for our people by supporting them to balance their work commitments and personal needs, both now and into the future.
+
+The Senior Manager, Statistical Programming is responsible for planning and executing or overseeing projects by coordinating staff and processes to deliver projects on time, within budget and with the desired outcomes while ensuring the trial is conducted in accordance with the protocol, company Standard Operating Procedures (SOPs), ICH GCP guidelines and other applicable regulatory requirements.
+
+Core Responsibilities
+• Provide technical leadership and oversight for statistical programming deliverables, ensuring high-quality, compliant datasets, tables, listings, and figures through effective cross-functional collaboration and adherence to CDISC standards, regulatory requirements, and internal SOPs.
+• Analyse study protocols, statistical analysis plans, and sponsor requirements to translate business and research needs into technical programming specifications.
+• Develop, modify, and validate SAS programs to generate clinical datasets, tables, listings, and figures (TLFs) in accordance with CDISC SDTM and ADaM standards.
+• Perform unit testing, debugging, validation, and documentation of statistical programs to ensure data integrity and reproducibility.
+• Maintain and enhance existing programming codebases, implementing improvements to efficiency, reliability, and standardisation.
+• Collaborate with Biostatistics, Data Management, PK, Clinical Operations, and Medical Writing teams to ensure technical consistency, accurate data flow, and timely delivery of programming outputs.
+• Identify, analyse, and resolve programming defects, performance issues, and data inconsistencies throughout the project lifecycle.
+• Ensure all programming activities comply with internal SOPs, regulatory requirements, and applicable quality standards.
+• Contribute to the development, maintenance, and optimisation of programming macros, utilities, libraries, and tools to support scalable and reusable solutions.
+• Participate in peer code reviews and quality checks to ensure adherence to technical standards and best practices.
+• Support audit and inspection activities by providing technical explanations, programming documentation, and validated outputs as required.
+• Provide technical guidance and knowledge sharing to colleagues on programming methodologies, standards, and tools, as needed.
+• Perform other programming-related duties as directed by the Line Manager.
+
+
+Departmental Responsibilities
+• Collaborate effectively with members of the Biometrics department to support integrated technical delivery of clinical data outputs.
+• Identify and mitigate technical risks related to statistical programming deliverables.
+• Participate in technical training and continuous professional development related to programming tools, standards, and methodologies.
+• Contribute to continuous improvement initiatives relating to programming processes, standards, and automation.
+• Manage sponsor communication, project timelines, risks, and programming-related resources, including forecasting, change control, and issue resolution, to ensure successful and timely project delivery.
+
+
+Qualifications, Skills and Experience
+• Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or a related quantitative discipline.
+• Minimum 5 years of hands-on programming experience, with the majority of time spent writing, testing, and maintaining code.
+• Demonstrated expertise in SAS programming, including development of SDTM and ADaM datasets.
+• Strong experience in application-style programming logic, data processing workflows, and system optimisation.
+• Proven ability to analyse requirements and translate them into technical solutions.
+• Experience working within regulated environments and adhering to documented standards and procedures.
+• Strong problem-solving, debugging, and analytical skills.
+
+What we offer
+
+Stimulating work
+Project diversity
+An intellectual challenge
+An agile & flexible workplace
+Opportunity to progress
+Stability
+Sense of community
+A leadership team that are working together on a common goal
+Flexible work options
+Great tools / tech to do your job
+A competitive salary & an extra days holiday for your birthday!"
+90292180,Principal Data Architect,Lime Recruitment,https://www.seek.com.au/job/90292180?type=standard&ref=search-standalone&origin=jobCard#sol=f78c81bfa1b4021e7e56b500c5cca7de68d146fd,3h ago,3.0,2026-02-11T23:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Contract/Temp,No contractor fees / two pay runs per week,"Principal Data Architect
+
+Contract for 12 months| Brisbane CBD | Hybrid working
+
+Brisbane based candidates only
+
+We are partnering with a leading Queensland Government client to recruit an experienced Principal Data Architect. In this role, you will lead the design and implementation of the department’s central data capability – a strategic function that unifies data architecture, governance, engineering and business intelligence analysis into a coordinated service model.
+
+Key Requirements:
+
+Work with business stakeholders to understand and map key business capabilities and processes, ensuring data architecture reflects business functions and supports strategic outcomes.
+
+Review existing systems and data flows to define current-state architecture. Design and maintain enterprise data architecture aligned with DSDIP’s ICT strategy and government standards.
+
+Monitor data needs across divisions, guiding projects to avoid duplication and promoting shared solutions.
+
+Engage with business stakeholders on data needs and develop high-level requirements and solution design  that can be used to engage delivery partners. Collaborate with ICT delivery partners and vendors to ensure seamless integration of data solutions and alignment with enterprise architecture.
+
+Review and validate detailed designs to ensure alignment with architecture, security and privacy standards.
+
+What We’re Looking For?
+
+Experience in data architecture or senior data roles in complex organisations.
+
+Strong skills in business and data modelling, integration, and architecture using platforms like Microsoft Azure, Dynamics 365, ArcGIS, SQL, and Power BI
+
+Sound knowledge of governance, metadata, privacy and security frameworks.
+
+Proven leadership and stakeholder engagement skills.
+
+Relevant qualifications or equivalent experience; certifications (e.g., Azure, TOGAF) and knowledge of QLD Government ICT frameworks are desirable.
+
+Why apply through Lime Recruitment?
+
+Enjoy two pay runs per week without contractor fees. As a Queensland-owned agency, we offer personalised service and are a Tier 1 supplier to the Queensland Government. Awarded Australia’s top-performing small agency in 2021 and 2022, with a finalist spot in 2023. Partner with Lime for genuine, experienced, friendly recruiters dedicated to securing the best opportunities for you. Apply now or contact Kate Gear on 0477 624 569 or kate@limejobs.com.au to find out more!"
+90291861,Business Analyst,Akkodis,https://www.seek.com.au/job/90291861?type=standard&ref=search-standalone&origin=jobCard#sol=1badbc6f6dea92d5c3d68a45a2aa47941dbbb030,3h ago,3.0,2026-02-11T23:00:00+00:00,Adelaide SA,Business/Systems Analysts (Information & Communication Technology),Full time,$100k - $150k p.a.,"Full time permanent position
+Serve as a key link between business stakeholders and the IT department
+Optimize operational efficiency within the Pronto Xi ERP environment
+
+The Business Analyst will serve as a key link between business stakeholders and the IT department to optimize operational efficiency within the Pronto Xi ERP environment. You will be responsible for identifying business needs, documenting requirements, and implementing process improvements across supply chain, and finance modules.
+
+
+Responsibilities
+
+Act as the Subject Matter Expert (SME) for Pronto Xi, ensuring the system is configured to meet evolving business requirements.
+Lead workshops with stakeholders from Sales, and Distribution to capture functional and technical specifications.
+Analyze ""as-is"" and ""to-be"" business processes, identifying bottlenecks and proposing lean solutions within the ERP framework.
+Work with department heads to develop meaningful KPIs and dashboards using Pronto's reporting tools or integrated BI solutions.
+Oversee User Acceptance Testing (UAT), develop test scripts, and manage the rollout of new modules or system upgrades.
+Create training documentation and provide hands-on support to end-users to ensure high system adoption rates.
+
+Required Skills & Experience
+
+Proven experience as a Business Analyst or Systems Analyst specifically within a Pronto Xi environment.
+Strong understanding of SQL, data mapping, and ERP integration points (e.g., E-commerce platforms or EDI).
+Expertise in writing high-quality Business Requirement Documents (BRD) and Functional Specification Documents (FSD).
+Ability to explain complex technical concepts to non-technical staff and build rapport with warehouse and factory personnel.
+
+If you have what it takes to thrive in this role and want to know more, please reach out to Max Marslen on 08 8306 8205 OR max.marslen@akkodis.com"
+90291174,Systems Security Senior Analyst,Ventia,https://www.seek.com.au/job/90291174?type=standard&ref=search-standalone&origin=jobCard#sol=401c1df1663cc5a202ce3d0f81922c77d58a0e2a,3h ago,3.0,2026-02-11T23:00:00+00:00,"Cremorne, Melbourne VIC",Security (Information & Communication Technology),Full time,120-160 Package dep on exp,"About the role 
+Ventia’s Finance team require a full-time SAP Security and Risk Senior Analyst to join the team.
+
+This role reports to the SAP Security Assurance Manager and is responsible to ensure SAP security, roles and risks and governance are managed effectively.
+
+This role is based out of Cremorne, VIC, but open to any applicants for any of the major states.
+
+What you’ll be doing: 
+
+Manage role and access requests for Ventia’s SAP landscape including SAP ECC and BTP
+Manage stakeholders from IT, business areas and external service providers to provide solutions and obtain resolutions in a timely manner
+Daily reporting of Segregation of Duties and Sensitive Transactions risks and mitigating controls
+Analyse and remediate SOD and Sensitive Access risks and improve role management processes
+Maintain Ventia’s GRC solution – Soterion for ruleset and mitigating control updates
+Identify and implement solutions to uplift Ventia’s risk and control environment based on risk frameworks, best practice and experience
+
+About you 
+The successful applicant will have worked in a similar position ideally within a large organisation in the infrastructure industry accompanied with:
+
+Business Process specific SOD and Sensitive Transaction knowledge and remediation experience
+Strong analytical skills to analyse information across different applications to draw insights and actions
+Project execution experience to manage end-to-end change management, including ability to develop multiple options to resolve a problem
+Internal / external audit and risk management
+In-depth understanding of core Cybersecurity concepts that relate to Identity and Access Management, SAP and ERP applications specific Identity and GRC processes
+Security and Identity Access Management fluent
+
+
+
+Diversity
+Ventia is enriched by the diverse experiences, talents and cultures that our people bring to the organisation, while celebrating and respecting the communities we operate in. We are committed to providing a safe and positive environment that provides equal opportunities for individuals of all backgrounds, including Aboriginal and Torres Strait Islander people, Māori and Pasifika people, LGTBQI+, Women, Veterans and spouses and people with disabilities.
+
+What We Offer You
+Not only do we offer a competitive salary and career growth, we have also partnered with some reputable organisations to be able to offer discounts on Health Insurance, Banking (new home loans, credit cards, everyday bank accounts), flights & accommodation, car hire, car leasing and much more.
+
+How to apply
+
+Select ""Apply Now"" to submit your application.
+
+Position Reference Number: 165614"
+90290403,Financial Modeller,Sharp & Carter South East Melbourne,https://www.seek.com.au/job/90290403?type=standard&ref=search-standalone&origin=jobCard#sol=ecaa7158f4b925e03924f3207b15cfabf7df383c,4h ago,4.0,2026-02-11T22:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Accounting),Contract/Temp,,"Our client is an iconic multinational consumer goods organisation that is continuing to invest in its growth and has capitalised on an increasing amount of market share within its sector. Working within a world-class finance division presents an excellent opportunity for an ambitious Finance Analyst to join the team.
 
 Role details
 Our client is seeking a strong financial modeller who can assist them in continuing to be best in class with their financial and data analysis. 
@@ -13,7 +400,7 @@ About you
 
 Apply:
 To discuss this opportunity in more detail, please contact Danielle Bower on 0473 489 543 or dbower@sharpandcarter.com.au"
-90290017,Senior Financial Performance & Analysis Analyst- 6 month contract,Cleanaway Operations Pty Ltd,https://www.seek.com.au/job/90290017?type=standard&ref=search-standalone&origin=jobCard#sol=eacf7b0a280ca92e2fa1b17e2863426d74ff26bc,1h ago,1.0,2026-02-11T22:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Accounting),Contract/Temp,,"About Us
+90290017,Senior Financial Performance & Analysis Analyst- 6 month contract,Cleanaway Operations Pty Ltd,https://www.seek.com.au/job/90290017?type=standard&ref=search-standalone&origin=jobCard#sol=e5cdeb6a25db8673932e55a0841026d288e20ebf,5h ago,5.0,2026-02-11T21:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Accounting),Contract/Temp,,"About Us
 
 Join us at Cleanaway and contribute to making a sustainable future possible, together.
 
@@ -78,7 +465,7 @@ If you require any adjustments during the recruitment process, please contact us
 Join us on our exciting journey towards a sustainable future.
 
 Simply click the Apply button or visit https://www.cleanaway.com.au/about-us/careers and let's make a positive impact together."
-90289886,Senior Data Engineer,Intuit Technologies,https://www.seek.com.au/job/90289886?type=standard&ref=search-standalone&origin=jobCard#sol=9ae2a0b95fe1fbb6883024318b4bc49c356268b4,2h ago,2.0,2026-02-11T21:00:00+00:00,Hobart TAS (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$106,667 – $160,000 per year","More Than Just a Job - It's Your Next Career Adventure
+90289886,Senior Data Engineer,Intuit Technologies,https://www.seek.com.au/job/90289886?type=standard&ref=search-standalone&origin=jobCard#sol=22b162c4f811f6f4db5a568c022c302b016846bb,5h ago,5.0,2026-02-11T21:00:00+00:00,Hobart TAS (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$106,667 – $160,000 per year","More Than Just a Job - It's Your Next Career Adventure
 
 
 
@@ -202,7 +589,7 @@ Ready to Transform Your Career?
 Join a leading Microsoft solutions partner with 20+ years of excellence. Your expertise + our supportive culture = limitless possibilities.
 
 Ready to innovate and make a real impact? Apply today!"
-90289762,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/90289762?type=standard&ref=search-standalone&origin=jobCard#sol=fd188e9f5a3136eb89a32b64f1670159b06dfaa1,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
+90289762,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/90289762?type=standard&ref=search-standalone&origin=jobCard#sol=942d187f6057cd226b2fcc2ec70b6d8fc59c8243,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 
 In 2025, we have been awarded
 
@@ -252,7 +639,7 @@ Join a renowned organisation delivering projects to some of Australia’s leadin
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-90289830,"Manager, Finance Transformation",Canva,https://www.seek.com.au/job/90289830?type=standard&ref=search-standalone&origin=jobCard#sol=09ec746fbc1ab50ba8dff58cc1cb0a19424ed6a8,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW,Programme & Project Management (Information & Communication Technology),Full time,,"Company Description
+90289830,"Manager, Finance Transformation",Canva,https://www.seek.com.au/job/90289830?type=standard&ref=search-standalone&origin=jobCard#sol=0aac697c7ab75d61e58b5fb4c6c67ba0c4eb388f,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW,Programme & Project Management (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -322,7 +709,7 @@ We make hiring decisions based on your experience, skills and passion, as well a
 We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above - we still want to hear from you!
 
 Please note that interviews are conducted virtually."
-90289596,Senior Technical Business Analyst - AI projects,Future Secure AI Pty Ltd,https://www.seek.com.au/job/90289596?type=standard&ref=search-standalone&origin=jobCard#sol=809f7dc0f509f0fa7f9b8869e732ffd0095498e6,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Future Secure AI (FSAI) is a fast‑growing enterprise AI company built in deep partnership with one of the world’s largest financial institutions. We work directly with C‑suite leaders across global enterprises to deliver AI solutions that transform how organisations operate.
+90289596,Senior Technical Business Analyst - AI projects,Future Secure AI Pty Ltd,https://www.seek.com.au/job/90289596?type=standard&ref=search-standalone&origin=jobCard#sol=44ea9ab2a66c7475a5d1e32ac2b713aba637f0ff,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"Future Secure AI (FSAI) is a fast‑growing enterprise AI company built in deep partnership with one of the world’s largest financial institutions. We work directly with C‑suite leaders across global enterprises to deliver AI solutions that transform how organisations operate.
 
 We’re expanding rapidly and are now looking for a Senior Technical Business Analyst to join our Sydney team and help shape several high‑impact AI initiatives already underway.
 
@@ -393,7 +780,7 @@ Ready to make an impact?
 If you’re excited about working with cutting‑edge AI, partnering with global leaders, and joining a high‑growth company, we’d love to hear from you.
 
 For a quicker response, we encourage you to apply directly through our website at https://www.futuresecure.ai/. There, you can meet our Digital Co-worker and experience our product first hand."
-90289584,Senior Group FP&A Analyst - ASX200,Perigon Group Pty Limited,https://www.seek.com.au/job/90289584?type=standard&ref=search-standalone&origin=jobCard#sol=a04659a42527746205164070363eebdb075dc36b,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Analysis & Reporting (Accounting),Full time,$140-160K + super + bonus on offer,"Hybrid working, supportive culture, WFH flexibility
+90289584,Senior Group FP&A Analyst - ASX200,Perigon Group Pty Limited,https://www.seek.com.au/job/90289584?type=standard&ref=search-standalone&origin=jobCard#sol=704e81c39dad96eb6da97212c72ab25f3e6b630d,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Analysis & Reporting (Accounting),Full time,$140-160K + super + bonus on offer,"Hybrid working, supportive culture, WFH flexibility
 $140-160K + super + bonus on offer
 Requires strong excel, modelling and presentation capabilities
 Reporting into the Group FP&A Manager of this ASX200, this Senior Analyst role presents a compelling opportunity to join an Australian institution.

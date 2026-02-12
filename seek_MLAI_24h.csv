@@ -1,5 +1,527 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90290423,Senior System Engineer - L3 MSP,Kaliba Pty Ltd,https://www.seek.com.au/job/90290423?type=standard&ref=search-standalone&origin=jobCard#sol=16b5fc6fda69798e23d55051bda80720e8a6d64a,1h ago,1.0,2026-02-11T22:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Full time,"$120,000 – $140,000 per year","Level 3 Engineer (MSP)
+90295045,Data Architect - Contract,PRA,https://www.seek.com.au/job/90295045?type=standard&ref=search-standalone&origin=jobCard#sol=1bb9a6ce2bcb8f2f95e21a0d8968aa807fed2363,1h ago,1.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,n,"We are seeking a Contract Senior Data Architect / Data Modeller to lead the design of a common enterprise data model supporting the migration of fragmented data assets from SAS NEO to a Databricks Lakehouse platform.
+
+This role plays a critical part in establishing a unified, governed data foundation that standardises core entities, definitions, and relationships across the organisation, enabling scalable analytics, reporting, and AI/ML use cases.
+
+You will work across architecture, data engineering, analytics, and business teams to rationalise existing schemas, translate embedded business logic, and define canonical domains aligned to modern Lakehouse and cloud data architecture principles.
+
+Key Responsibilities
+Design conceptual, logical, and physical data models supporting enterprise analytics and AI
+Define canonical data domains, entities, and relationships
+Map legacy SAS NEO datasets and unstructured sources to target Databricks models
+Translate embedded business logic into governed, reusable data structures
+Define OLTP, OLAP, and dimensional models (star/snowflake)
+Establish metadata, lineage, and documentation standards
+Ensure alignment with Lakehouse, ELT, and cloud architecture patterns
+Collaborate with engineers, architects, and stakeholders on target-state design
+Required Skills & Experience
+Strong experience in Data Architecture, Data Modelling & Design
+Proven migration experience to Databricks or Lakehouse platforms
+Conceptual, logical and physical modelling expertise
+Dimensional modelling (star/snowflake) and OLTP vs OLAP design
+Advanced SQL
+Experience with relational databases (SQL Server, Oracle, Postgres, MySQL, SAS)
+Cloud platforms: Azure, AWS or GCP
+Data integration & ETL/ELT design patterns
+Metadata management, lineage, and governance frameworks
+Nice to Have
+Python, Scala, or Spark
+Informatica, ADF, Talend, Boomi, SSIS
+Kafka / Event Hubs / streaming
+Power BI, Tableau, Qlik
+MDM and data quality tooling
+Infrastructure-as-code exposure (Terraform / ARM)
+If you would like to hear more please APPLY below. Australian Citizens or PR only."
+90294367,Integration Solutions Specialist,Metropolitan Memorial Parks Land Manager,https://www.seek.com.au/job/90294367?type=standard&ref=search-standalone&origin=jobCard#sol=61118f05af4ab5e6f56178e60bd978e8e26b58b6,1h ago,1.0,2026-02-12T01:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,130k - 140k annual base salary,"About us:
+
+Metropolitan Memorial Parks is a NSW Government entity responsible for managing eight Memorial Parks across the Sydney and Hunter region. We're committed to providing genuine care and affordable choices for everyone, while expanding our services to meet the diverse needs of our communities.
+
+About the role:
+
+As our new Integration Solutions Specialist, you will play a pivotal role in designing, implementing, and maintaining system integrations across MMP’s enterprise platforms. You’ll ensure seamless data flow, support operational efficiency, and enable strategic decision-making through robust system connectivity.
+
+Key responsibilities:
+
+Collaborate with Head of Technology and IT leaders to develop integration architecture strategy and roadmap
+
+Architect and implement integration solutions across platforms such as ERP, CRM, HRIS.
+
+Develop and maintain APIs and ETL processes to support data exchange and interoperability.
+
+Strong knowledge of integration technologies and standards (APIs, REST, SOAP, messaging, ESB, event streaming).
+
+Hands-on experience with WebMethods (or equivalent platforms such as MuleSoft, Boomi, Azure Integration Services).
+
+Provide expert-level diagnostics, troubleshooting, and performance tuning for integration-related issues.
+
+Create and maintain comprehensive documentation for all integration points and architecture.
+
+Ensure compliance with IT governance, privacy laws & change management frameworks.
+
+Engage with stakeholders, including business analysts, developers & system owners.
+
+Provide training and support to end-users and helpdesk teams.
+
+Monitor integration performance and identify opportunities for optimisation
+
+About you:
+
+Proven experience in system integration across SaaS enterprise platforms
+
+Strong understanding of API design, ETL processes, and data governance.
+
+Familiarity with SaaS implementation and project lifecycle management.
+
+Excellent problem-solving, communication, and stakeholder engagement skills.
+
+Degree in Information Technology, Computer Science, or related field is desirable
+
+Certifications in integration platforms or project management (e.g., PMP, ITIL) would be an advantage
+
+Experience in cemetery and crematorium operations or government enterprise systems would be highly regarded
+
+If you're a skilled integration professional looking for a new challenge, please submit your application, including your resume and cover letter, addressing the key responsibilities."
+90293843,Data Engineer - Databricks,TRS - Public Sector,https://www.seek.com.au/job/90293843?type=standard&ref=search-standalone&origin=jobCard#sol=5026ed8391877355200f39d8be5845a042456bf3,2h ago,2.0,2026-02-12T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $1000 p/d + super (may be negotiable),"Data Engineer | ASAP Start | Large Utilities Organisation
+
+6 month contract with likely extensions
+Up to $1000 p/d + super (may be negotiable)
+Melbourne Location (Hybrid)
+ Primary Purpose of the Role Deliver scalable data pipelines and platform enhancements across Databricks and AWS, supporting the build of new enterprise data products. The role will apply medallion architecture, data mesh principles, and modern engineering practices.
+
+Exposure to Microsoft Fabric and/or Power BI is highly desirable as the organisation continues to evolve its analytics and reporting capability.
+Key Accountabilities
+Build and enhance data pipelines in Databricks and AWS
+Develop reusable data engineering components using Python
+Apply integration patterns and scalable engineering practices
+Implement and support medallion architecture and data mesh design principles
+Support data definition, modelling and transformation activities
+Ensure quality, reliability and performance across all pipelines
+Collaborate with platform, architecture, analytics and reporting teams
+Contribute to design, testing and release processes
+Support downstream consumption of data via Microsoft Fabric and/or Power BI
+Essential Requirements
+Strong hands-on experience in Databricks
+Solid AWS infrastructure knowledge
+Advanced Python for data engineering
+Experience building scalable pipelines and integration patterns
+Strong understanding of medallion architecture and data mesh
+Solid data modelling and data definition experience
+Ability to work in a fast-paced environment with minimal supervision
+Highly Desirable
+Experience with Microsoft Fabric
+Experience supporting or integrating with Power BI
+Exposure to enterprise analytics environments
+If you have relevant experience, please submit your latest CV and we will be in touch shortly!"
+90293092,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293092?type=standard&ref=search-standalone&origin=jobCard#sol=5e803fa92d90dfc0211356034ac6cabf1fe75138,2h ago,2.0,2026-02-12T00:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+
+As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
+
+In your role, you will be expected to liaise with both customers and engineers and will need to be able to explain the methods and results of your work to people with varying levels of data science experience. Continuous learning and a thirst for knowledge are expected as you maintain your knowledge of both our abilities and the state of the art possibilities, blending the best of what the data science community has on offer. You will need to work in a multi-disciplinary environment to deliver capabilities that allow ASD’s intelligence and cyber analysts to have the right information, provided in the right way at the right time. 
+
+Further information can be found at: I’m changing my career | Australian Signals Directorate (asd.gov.au).
+
+
+
+
+Key Duties:
+
+ASD 4 Data Scientist
+
+An ASD 4 Data Scientists, you will work to the broad direction of the executive leadership to perform and achieve complex data generation and analysis work within an integrated workforce. You will require knowledge of compliance with the legislative frameworks, government decision-making and an understanding of Australian Signals Directorate’s mission.
+
+You will be deliberate with the learning of technical and analytical skills and proactive with communicating with their team and leadership. You will exercise sound decision-making to provide technical advice and in line with direction, will engage in complex problem solving to deliver data science solutions that affect strategic, political or operational outcomes for the Australian Signals Directorate.
+
+You will positively contribute to building team capability and will be accountable to contribute towards ongoing self-improvement and professional development for their career. 
+
+
+
+
+ASD 5 Data Scientist
+
+An ASD 5 Data Scientist will work under limited direction to perform and achieve complex data generation and analysis work within an integrated workforce. You are accountable to have and maintain a well-developed understanding of compliance to relevant legislative frameworks, government decision-making and the Australian Signals Directorate’s mission and policy requirements.
+
+You will be accountable for organising your workflow and making independent decisions relating to their area of responsibility. You will interpret and provide advice within the data function area based on legislation, policy and procedures. You will undertake research and analysis, conduct investigations and perform data generation and analysis work to achieve results.
+
+You may coordinate and contribute to the work of a team and provide advice and assistance on methods of task completion to team members. You may be a team coach and are expected to be capable of reviewing and developing the quality of work undertaken by others and identifying opportunities for on-the-job training within a work unit.
+
+As a Data Scientist, you will be required to engage and communicate with stakeholders to respond and provide advice on issues to mission outcomes. You will be accountable to contribute towards ongoing self-improvement and professional development.
+
+
+
+
+ASD 6 Data Scientist
+
+An ASD 6 Data Scientist is accountable, under the broad direction of the executive leadership, to perform and achieve complex to very complex data generation and analysis work within an integrated workforce. You will require knowledge of compliance with legislative frameworks, government decision-making and strong understanding of Australian Signals Directorate’s mission.
+
+You will exercise a degree of independence and perform a subject matter expert role. You will exercise sound decision making and judgement to provide strong technical advice. Engage in complex to very complex problem solving and issue management and may coordinate and contribute to detailed or sensitive projects that impact on strategic, political or operational outcomes for the Australian Signals Directorate.
+
+You may be a Line Manager and mentor, and will be accountable for the outcomes of the planning for work and performance goals. You are expected to be capable of building team capability through coaching, feedback and developing the quality of work undertaken by others within a work unit.
+
+As a Data Scientist, you will be involved in key stakeholder relationships and will be required to identify relevant stakeholders’ expectations and concerns to develop and communicate methodologies and practices to achieve outcomes. You will be accountable to contribute towards ongoing self-improvement and professional development of their work area.  
+
+
+
+
+About the Team
+
+Data scientist roles within Mission Data Division (MDD) develops capabilities and data solutions to enable ASD mission areas, to support ASD and ADF mission requirements.
+
+This is achieved through the delivery of data platforms, ensuring the data is fit for purpose, delivering bespoke mission tools and applications, and providing complex analytic support, including Machine Learning and Artificial Intelligence capability.
+
+As part of your job, ASD will support you and provide opportunities to stay up-to-date with the latest trends and technologies to develop new ways to collect information and solve intelligence problems. The work we do is unique, critical and incredibly rewarding. 
+
+
+
+
+Our Ideal Candidate
+
+Our ideal candidate has a thirst for learning and an ability to convince data to tell its story. They can have industry experience, formal training or a particular domain expertise but regardless of this, they must have strong critical thinking and reasoning and be able to demonstrate this through the selection process. At the core of their skills is an understanding of the fundamentals of data or geospatial analysis and/or data science. Our ideal candidate embraces diversity and is willing to approach problems from a cross disciplinary perspective. They have strong interpersonal skills and the ability to ask the right questions. Most importantly, they need to enjoy working as part of a dynamic team to solve interesting problems.
+
+ASD is seeking applicants to fill current and anticipated vacancies and to create a merit pool for future vacancies. In line with the Australian Public Service Commissioner’s Direction 2022, upon completion of the recruitment activity, the merit pool will be available to locations across Australia. 
+
+
+
+
+Application Closing Date: Sunday, 1 March 2026
+
+
+
+
+For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
+90293080,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293080?type=standard&ref=search-standalone&origin=jobCard#sol=a16cd6ee0cab5a703095e0191a250eaaa6eb189e,2h ago,2.0,2026-02-12T00:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+
+As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
+
+In your role, you will be expected to liaise with both customers and engineers and will need to be able to explain the methods and results of your work to people with varying levels of data science experience. Continuous learning and a thirst for knowledge are expected as you maintain your knowledge of both our abilities and the state of the art possibilities, blending the best of what the data science community has on offer. You will need to work in a multi-disciplinary environment to deliver capabilities that allow ASD’s intelligence and cyber analysts to have the right information, provided in the right way at the right time. 
+
+Further information can be found at: I’m changing my career | Australian Signals Directorate (asd.gov.au).
+
+
+
+
+Key Duties:
+
+ASD 4 Data Scientist
+
+An ASD 4 Data Scientists, you will work to the broad direction of the executive leadership to perform and achieve complex data generation and analysis work within an integrated workforce. You will require knowledge of compliance with the legislative frameworks, government decision-making and an understanding of Australian Signals Directorate’s mission.
+
+You will be deliberate with the learning of technical and analytical skills and proactive with communicating with their team and leadership. You will exercise sound decision-making to provide technical advice and in line with direction, will engage in complex problem solving to deliver data science solutions that affect strategic, political or operational outcomes for the Australian Signals Directorate.
+
+You will positively contribute to building team capability and will be accountable to contribute towards ongoing self-improvement and professional development for their career. 
+
+
+
+
+ASD 5 Data Scientist
+
+An ASD 5 Data Scientist will work under limited direction to perform and achieve complex data generation and analysis work within an integrated workforce. You are accountable to have and maintain a well-developed understanding of compliance to relevant legislative frameworks, government decision-making and the Australian Signals Directorate’s mission and policy requirements.
+
+You will be accountable for organising your workflow and making independent decisions relating to their area of responsibility. You will interpret and provide advice within the data function area based on legislation, policy and procedures. You will undertake research and analysis, conduct investigations and perform data generation and analysis work to achieve results.
+
+You may coordinate and contribute to the work of a team and provide advice and assistance on methods of task completion to team members. You may be a team coach and are expected to be capable of reviewing and developing the quality of work undertaken by others and identifying opportunities for on-the-job training within a work unit.
+
+As a Data Scientist, you will be required to engage and communicate with stakeholders to respond and provide advice on issues to mission outcomes. You will be accountable to contribute towards ongoing self-improvement and professional development.
+
+
+
+
+ASD 6 Data Scientist
+
+An ASD 6 Data Scientist is accountable, under the broad direction of the executive leadership, to perform and achieve complex to very complex data generation and analysis work within an integrated workforce. You will require knowledge of compliance with legislative frameworks, government decision-making and strong understanding of Australian Signals Directorate’s mission.
+
+You will exercise a degree of independence and perform a subject matter expert role. You will exercise sound decision making and judgement to provide strong technical advice. Engage in complex to very complex problem solving and issue management and may coordinate and contribute to detailed or sensitive projects that impact on strategic, political or operational outcomes for the Australian Signals Directorate.
+
+You may be a Line Manager and mentor, and will be accountable for the outcomes of the planning for work and performance goals. You are expected to be capable of building team capability through coaching, feedback and developing the quality of work undertaken by others within a work unit.
+
+As a Data Scientist, you will be involved in key stakeholder relationships and will be required to identify relevant stakeholders’ expectations and concerns to develop and communicate methodologies and practices to achieve outcomes. You will be accountable to contribute towards ongoing self-improvement and professional development of their work area.  
+
+
+
+
+About the Team
+
+Data scientist roles within Mission Data Division (MDD) develops capabilities and data solutions to enable ASD mission areas, to support ASD and ADF mission requirements.
+
+This is achieved through the delivery of data platforms, ensuring the data is fit for purpose, delivering bespoke mission tools and applications, and providing complex analytic support, including Machine Learning and Artificial Intelligence capability.
+
+As part of your job, ASD will support you and provide opportunities to stay up-to-date with the latest trends and technologies to develop new ways to collect information and solve intelligence problems. The work we do is unique, critical and incredibly rewarding. 
+
+
+
+
+Our Ideal Candidate
+
+Our ideal candidate has a thirst for learning and an ability to convince data to tell its story. They can have industry experience, formal training or a particular domain expertise but regardless of this, they must have strong critical thinking and reasoning and be able to demonstrate this through the selection process. At the core of their skills is an understanding of the fundamentals of data or geospatial analysis and/or data science. Our ideal candidate embraces diversity and is willing to approach problems from a cross disciplinary perspective. They have strong interpersonal skills and the ability to ask the right questions. Most importantly, they need to enjoy working as part of a dynamic team to solve interesting problems.
+
+ASD is seeking applicants to fill current and anticipated vacancies and to create a merit pool for future vacancies. In line with the Australian Public Service Commissioner’s Direction 2022, upon completion of the recruitment activity, the merit pool will be available to locations across Australia. 
+
+
+
+
+Application Closing Date: Sunday, 1 March 2026
+
+
+
+
+For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
+90293075,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293075?type=standard&ref=search-standalone&origin=jobCard#sol=0a6aa2f8b3568dee2dc520296887ef8d570467fb,2h ago,2.0,2026-02-12T00:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+
+As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
+
+In your role, you will be expected to liaise with both customers and engineers and will need to be able to explain the methods and results of your work to people with varying levels of data science experience. Continuous learning and a thirst for knowledge are expected as you maintain your knowledge of both our abilities and the state of the art possibilities, blending the best of what the data science community has on offer. You will need to work in a multi-disciplinary environment to deliver capabilities that allow ASD’s intelligence and cyber analysts to have the right information, provided in the right way at the right time. 
+
+Further information can be found at: I’m changing my career | Australian Signals Directorate (asd.gov.au).
+
+
+
+
+Key Duties:
+
+ASD 4 Data Scientist
+
+An ASD 4 Data Scientists, you will work to the broad direction of the executive leadership to perform and achieve complex data generation and analysis work within an integrated workforce. You will require knowledge of compliance with the legislative frameworks, government decision-making and an understanding of Australian Signals Directorate’s mission.
+
+You will be deliberate with the learning of technical and analytical skills and proactive with communicating with their team and leadership. You will exercise sound decision-making to provide technical advice and in line with direction, will engage in complex problem solving to deliver data science solutions that affect strategic, political or operational outcomes for the Australian Signals Directorate.
+
+You will positively contribute to building team capability and will be accountable to contribute towards ongoing self-improvement and professional development for their career. 
+
+
+
+
+ASD 5 Data Scientist
+
+An ASD 5 Data Scientist will work under limited direction to perform and achieve complex data generation and analysis work within an integrated workforce. You are accountable to have and maintain a well-developed understanding of compliance to relevant legislative frameworks, government decision-making and the Australian Signals Directorate’s mission and policy requirements.
+
+You will be accountable for organising your workflow and making independent decisions relating to their area of responsibility. You will interpret and provide advice within the data function area based on legislation, policy and procedures. You will undertake research and analysis, conduct investigations and perform data generation and analysis work to achieve results.
+
+You may coordinate and contribute to the work of a team and provide advice and assistance on methods of task completion to team members. You may be a team coach and are expected to be capable of reviewing and developing the quality of work undertaken by others and identifying opportunities for on-the-job training within a work unit.
+
+As a Data Scientist, you will be required to engage and communicate with stakeholders to respond and provide advice on issues to mission outcomes. You will be accountable to contribute towards ongoing self-improvement and professional development.
+
+
+
+
+ASD 6 Data Scientist
+
+An ASD 6 Data Scientist is accountable, under the broad direction of the executive leadership, to perform and achieve complex to very complex data generation and analysis work within an integrated workforce. You will require knowledge of compliance with legislative frameworks, government decision-making and strong understanding of Australian Signals Directorate’s mission.
+
+You will exercise a degree of independence and perform a subject matter expert role. You will exercise sound decision making and judgement to provide strong technical advice. Engage in complex to very complex problem solving and issue management and may coordinate and contribute to detailed or sensitive projects that impact on strategic, political or operational outcomes for the Australian Signals Directorate.
+
+You may be a Line Manager and mentor, and will be accountable for the outcomes of the planning for work and performance goals. You are expected to be capable of building team capability through coaching, feedback and developing the quality of work undertaken by others within a work unit.
+
+As a Data Scientist, you will be involved in key stakeholder relationships and will be required to identify relevant stakeholders’ expectations and concerns to develop and communicate methodologies and practices to achieve outcomes. You will be accountable to contribute towards ongoing self-improvement and professional development of their work area.  
+
+
+
+
+About the Team
+
+Data scientist roles within Mission Data Division (MDD) develops capabilities and data solutions to enable ASD mission areas, to support ASD and ADF mission requirements.
+
+This is achieved through the delivery of data platforms, ensuring the data is fit for purpose, delivering bespoke mission tools and applications, and providing complex analytic support, including Machine Learning and Artificial Intelligence capability.
+
+As part of your job, ASD will support you and provide opportunities to stay up-to-date with the latest trends and technologies to develop new ways to collect information and solve intelligence problems. The work we do is unique, critical and incredibly rewarding. 
+
+
+
+
+Our Ideal Candidate
+
+Our ideal candidate has a thirst for learning and an ability to convince data to tell its story. They can have industry experience, formal training or a particular domain expertise but regardless of this, they must have strong critical thinking and reasoning and be able to demonstrate this through the selection process. At the core of their skills is an understanding of the fundamentals of data or geospatial analysis and/or data science. Our ideal candidate embraces diversity and is willing to approach problems from a cross disciplinary perspective. They have strong interpersonal skills and the ability to ask the right questions. Most importantly, they need to enjoy working as part of a dynamic team to solve interesting problems.
+
+ASD is seeking applicants to fill current and anticipated vacancies and to create a merit pool for future vacancies. In line with the Australian Public Service Commissioner’s Direction 2022, upon completion of the recruitment activity, the merit pool will be available to locations across Australia. 
+
+
+
+
+Application Closing Date: Sunday, 1 March 2026
+
+
+
+
+For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
+90292004,Observability Engineer,Compare the Market,https://www.seek.com.au/job/90292004?type=standard&ref=search-standalone&origin=jobCard#sol=7a58d86b1761e2ba68e3e1dc5f803cfcc8a6d538,3h ago,3.0,2026-02-11T23:00:00+00:00,Brisbane QLD,Networks & Systems Administration (Information & Communication Technology),Full time,,"Who We Are
+
+ 
+
+iSelect and Compare the Market are trusted, well-known brands dedicated to helping millions of Australians compare and buy personal finance and household products such as insurance, energy, and loans. Together, we provide a seamless, customer-focused experience that makes it easier for Australians to find the right products to suit their needs.
+
+ 
+
+What You’ll Be Doing
+
+ 
+
+• Manage and optimise observability platforms, especially New Relic
+• Build and maintain dashboards, visualisations, and service insights
+• Implement observability tooling using Terraform and other IaC practices
+• Partner with engineering teams to improve instrumentation and distributed tracing
+• Enhance alert quality, support incident root cause analysis, and evaluate new observability capabilities
+
+                                                                                                                                        
+
+ 
+
+What’s In It For You
+
+ 
+
+At Compare the Market and iSelect, we’re all about helping people make smart choices – and joining us might just be yours.  We offer an environment where your ideas are heard, your contributions are valued, and your growth genuinely matters. Collaboration is part of our DNA, and you’ll be joining a supportive, forward-thinking team where you can do meaningful work (and be recognised for it!) 
+
+ 
+
+We’re guided by three shared values that shape how we work, how we treat each other, and how we show up for our customers - Drive, Noble Intent and All Together.
+
+ 
+
+Plus, we offer a range of great perks to help you thrive both in and out of work:
+
+ 
+
+Vibrant and social community who have annual celebrations, family fun days and regular events
+Enjoy flexible work arrangements, including the option of one day working from home each week or a 9-day fortnight
+Enjoy additional leave days - ‘ME’ leave and ‘Volunteer Day’ leave
+Option to purchase additional leave
+Return To Work bonus for returning parents
+Quarterly Award and Recognition program
+
+ 
+
+ 
+
+What Sets You Apart
+
+ 
+
+We’d love to hear from professionals who have…..
+
+• Strong understanding of observability concepts—metrics, logs, traces, distributed tracing, service maps
+• Hands-on experience with New Relic or similar tools (Datadog, Grafana, Prometheus, Dynatrace)
+• Experience building dashboards, alert policies, and instrumentation
+• Exposure to Terraform, scripting/automation, and cloud/container environments (Kubernetes, Docker)
+• Familiarity with OpenTelemetry, SRE practices (SLIs/SLOs), CI/CD pipelines, and logging platforms would be desireable
+
+ 
+
+ 
+
+ 
+
+Sound like a good fit? Let’s talk.
+
+ 
+
+ 
+
+At Compare the Market and iSelect we’re proud to be an Equal Opportunity Employer and we embrace diversity.  
+
+ 
+
+This role is available to candidates with unlimited Australian working rights only. Sponsorship is not available.  
+
+ 
+
+Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
+90291516,Lead Automation Developer,Department of Education,https://www.seek.com.au/job/90291516?type=standard&ref=search-standalone&origin=jobCard#sol=3029e3cbd153d408fa3e5268e2b9e7246b3894f1,3h ago,3.0,2026-02-11T23:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Full time,From 129464 to 142665 AUD per year,"Company description:
+
+
+
+The NSW Department of Education is the largest provider of public education in Australia with responsibility for delivering high-quality public education to two-thirds of the NSW student population. For more information about the NSW Department of Education, please visit https://education.nsw.gov.au/
+
+
+
+Job description:
+
+
+
+At the NSW Department of Education, we educate and inspire lifelong learners - from early childhood, through schooling to vocational education and training.
+
+Ongoing Full-Time opportunity to make impactful transformative service improvement
+Located in Parramatta with flexible working arrangements available
+Salary ranges from $129,464 to $142,665 p.a. plus superannuation and annual leave loading
+
+About Us
+
+The Intelligent Automation Team within the NSW Department of Education is a mature automation practice that has developed extensive robotic process automation (RPA) capabilities using Blue Prism as its core RPA tool, alongside Microsoft Power Platform solutions. The team operates within the Shared Services Directorate, which is responsible for transforming how we deliver services to our customers.
+
+We are a group of passionate professionals committed to delivering high-quality services. Our team has a proven track record of successfully developing and implementing RPA solutions that streamline internal processes and enhance service delivery.
+
+About the role
+
+As the Lead Automation Developer, you will be responsible for leading a team of high-performing developers to identify, build and deliver automated solutions. Working in an agile environment your responsibilities will include:
+
+Engaging with stakeholders and leading the discovery and delivery of high-quality solutions
+Leading process discovery to identify and assess automation opportunities that improves operational effectiveness
+Ensuring automation solutions are effective and aligned with regulatory requirements and best practices.
+Build automation capability across the Department, by guiding stakeholders to support adoption of Intelligent automation.
+
+For further information please click here to view the role description
+
+About you
+
+You are a driven and innovative Lead Automation Developer with proven industry experience delivering intelligent automation solutions. You bring strong technical leadership and architectural expertise across the full automation lifecycle, from design through to implementation and quality assurance.
+
+The ideal candidate will demonstrate:
+
+A minimum of 3 years' experience in end-to-end lifecycle implementation of automation technologies, including Robotic Process Automation (RPA) tools such as Blue Prism or equivalent tools, Low-code platforms, Microsoft Power Platform, or Cognitive Automation - with expertise in AI and ML technologies (Certifications are a plus)
+Exceptional stakeholder management and presentation skills with the confidence to engage with our Senior Leadership team
+Solid understanding of Blue Prism Infrastructure and Robotic Operating Model (ROM)
+Solid understanding of technology and architecture concepts, including OCR, AI, chatbots, virtual agents, and human-in-the-loop/attended automation tools
+Strong analytical and problem-solving capabilities.
+Strong logical reasoning and solutions ideation skills
+
+Key Knowledge and Experience
+
+Knowledge of and commitment to implementing the Department's Aboriginal Education Policy and upholding the Department's Partnership Agreement with the NSW AECG and to ensure quality outcomes for Aboriginal people.
+
+Essential requirements of the role
+
+Tertiary qualifications in IT, Computer Science, Business or a related discipline and/or demonstrated equivalent professional experience.
+Demonstrated understanding of and commitment to the value of public education.
+
+Benefits
+
+Flexible working arrangements
+35 hour working week
+Competitive salary, salary sacrificing, employer's contribution to superannuation and annual leave loading
+Flex Leave entitlements, generous holidays & leave conditions
+Opportunities for advancement and mobility across the Department to support your career growth
+
+How to apply
+
+Attach a resume (maximum 5 pages) and a cover letter (maximum 2 pages) outlining how you meet the requirements and capabilities of this role, as well as providing answers to the pre-screening question below:
+
+Question:
+
+Describe a time you achieved stakeholder support where there was resistance to an automation initiative. What was the reason for the resistance, how did you approach it and what was the result? (max 350 words)
+
+Applicants are encouraged to prepare their application materials independently. The selection panel values authentic and personally written responses that reflect your own experience, insights and alignment with the Department's values and priorities.
+
+Please refer to the Applicant's Guide to Applying to assist you with your application.
+
+If you are an existing Education Support Staff (corporate staff) with the NSW Department of Education, click here for instructions on how to submit your application.
+
+All other applicants please submit your application by clicking ‘Apply Now'.
+
+
+Note: the selection process will include a range of assessment techniques to assist in determining your suitability for the role. Successful candidates will be required to undertake pre-employment screening for this role which includes a National Criminal History Check.
+
+As a condition of employment, successful candidates not currently employed by the Department must provide a valid Working with Children Check (WWCC) clearance number. Renewal is not required after the WWCC expires, as long as you remain in a non-child-related role. Employer obligations only apply while the WWCC is valid.
+
+Candidates must have Australian work rights (citizens, permanent residents, New Zealand citizens or a valid work visa). Ongoing (permanent) roles are open to Australian citizens and permanent residents and New Zealand citizens, while temporary roles welcome applicants with a visa.
+
+
+Closing date: Friday 27 February 2025 at 11:59pm.
+
+
+For role enquiries please contact Neelu Choudhury at neelakshi.choudhury@det.nsw.edu.au and for recruitment process enquiries please contact Jenny Nguyen at jenny.nguyen199@det.nsw.edu.au
+
+
+We welcome applications from all ages and genders, Aboriginal and Torres Strait Islander peoples, culturally and linguistically diverse groups, the LGBTQIA+ community, veterans, refugees and people with disability. If we can make some adjustments to our recruitment/interview process to better enable you to shine, please contact the Diversity and Inclusion Team (youbelong@det.nsw.edu.au) or visit NSW Department of Education Diversity and Inclusion.
+
+
+A recruitment pool may be created through this recruitment process. A recruitment pool is a group of applicants who have been assessed and identified as suitable for this role, and who may be considered for a range of similar roles, including temporary, term or ongoing roles, over the next 18 months."
+90290423,Senior System Engineer - L3 MSP,Kaliba Pty Ltd,https://www.seek.com.au/job/90290423?type=standard&ref=search-standalone&origin=jobCard#sol=4a038365ce75ac97306d6db935294abcc8df99bd,4h ago,4.0,2026-02-11T22:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Full time,"$120,000 – $140,000 per year","Level 3 Engineer (MSP)
 
 Location: Sydney (hybrid)
 Salary: $120,000 – $140,000 + Super (+ performance based bonus)
@@ -62,7 +584,7 @@ Experience with RMM/PSA tools (ConnectWise, Datto, Kaseya, etc.)
 Exposure to security best practices and frameworks
 
 Project delivery experience"
-90289762,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/90289762?type=standard&ref=search-standalone&origin=jobCard#sol=9ee132a3a1316e88d2494244cd04a922c1b112c4,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
+90289762,Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/90289762?type=standard&ref=search-standalone&origin=jobCard#sol=979bdb3ee675a6f6104347a50f681d4223fa8526,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"DyFlex is an established SAP Platinum Partner with offices across Australia. We are recognised as a leader in our area of SAP expertise. We deliver fit-for-purpose SAP solutions, and our services range from greenfield and brownfield implementations, change management to ongoing Aftercare services and support.
 
 In 2025, we have been awarded
 
@@ -112,7 +634,7 @@ Join a renowned organisation delivering projects to some of Australia’s leadin
 DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
 
 Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
-90289855,Senior Machine Learning Engineer - Learning Experience,Canva,https://www.seek.com.au/job/90289855?type=standard&ref=search-standalone&origin=jobCard#sol=fa9cf4c3e777d7e2e3347a888e476ce064f29417,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
+90289855,Senior Machine Learning Engineer - Learning Experience,Canva,https://www.seek.com.au/job/90289855?type=standard&ref=search-standalone&origin=jobCard#sol=6d15dd26ba8d1e4c654788251ba5a93ad78de994,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -199,7 +721,7 @@ Check out  lifeatcanva.com for more info.
 Other stuff to know
 
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
-90289847,Senior Research Engineer - Design Generation,Canva,https://www.seek.com.au/job/90289847?type=standard&ref=search-standalone&origin=jobCard#sol=daa739b050f59f3e296b138ec6c11ac6a2367bd1,2h ago,2.0,2026-02-11T21:00:00+00:00,Sydney NSW,"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Company Description
+90289847,Senior Research Engineer - Design Generation,Canva,https://www.seek.com.au/job/90289847?type=standard&ref=search-standalone&origin=jobCard#sol=72482103f18e7794d11a251259307fe754673498,5h ago,5.0,2026-02-11T21:00:00+00:00,Sydney NSW,"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
