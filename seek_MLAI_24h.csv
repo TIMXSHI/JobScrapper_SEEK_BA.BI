@@ -1,5 +1,170 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90304415,Power BI Engineer | Mount Cotton | On Site,Robert Half,https://www.seek.com.au/job/90304415?type=standard&ref=search-standalone&origin=jobCard#sol=0ef4089706b33d9a02b215416473370626509e19,1h ago,1.0,2026-02-12T06:00:00+00:00,"Mount Cotton, Brisbane QLD",Help Desk & IT Support (Information & Communication Technology),Full time,"$130,000 - $165,000 p.a. + Superannuation","Robert Half has partnered with a leading Australian organisation within the food industry / supply chain sector seeking an experienced Data Engineer to support the design, development, and optimisation of enterprise data solutions powering operational and commercial decision-making.
+90306852,Cloud Systems Engineer,DRD Group Australia Pty Ltd,https://www.seek.com.au/job/90306852?type=standard&ref=search-standalone&origin=jobCard#sol=1a7779d0d57e8ada39df286767aaf4306fa1d25a,1h ago,1.0,2026-02-12T07:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Cloud Systems Engineer
+ 
+Role Summary
+As a Cloud-Based Engineer, you will architect, deploy, and manage the cloud and edge-to-cloud infrastructure that underpins the safety and observability of our Collision Avoidance Systems (CAS). Working at the intersection of embedded systems and big data, you will own the telemetry pipelines, device management, and cloud ingestion paths that keep heavy mobile equipment operating safely. You will modernise LTE/MQTT communication paths and build scalable APIs as we transition hardware to industrial SBCs, ensuring the system remains high-performing and fail-safe.
+ 
+Key Outcomes
+
+Resilient Ingestion: Maintain low-latency data paths via LTE/4G using optimised MQTT policies for safety and bandwidth efficiency.
+API Excellence: Deliver production-grade APIs and data models for cross-team use in analytics, simulations, and safety case development.
+Full-Stack Observability: Implement comprehensive monitoring (metrics, traces, logs) and fleet health dashboards with actionable SLOs.
+Hardened Security: Manage secure device identity, provisioning, and lifecycle management (IEC62443) with a focus on least-privilege access.
+Data Integrity: Establish retention policies that provide robust evidence for safety analysis and regulatory compliance.
+ 
+Responsibilities
+
+Cloud-Native Design: Build cloud services for CAS telemetry and device messaging using MQTT, REST, and gRPC.
+Pipeline Engineering: Develop streaming and batch data pipelines to process field logs and metrics for fleet-wide analytics.
+Architecture Collaboration: Partner with Principal Architects to analyse and visualise data for new feature development.
+Contract Management: Define and protect message schemas across onboard, roadside, and cloud boundaries to ensure backward compatibility.
+Scalable Storage: Operate high-performance storage layers (Time-series, Object, Relational) with cost-effective indexing and lifecycle policies.
+Observability Standards: Lead the implementation of OpenTelemetry, centralised logging, and on-call readiness for cloud services.
+Security & IAM: Manage PKI, certificate rotations, and role-based access control (RBAC) for all internal dashboards and services.
+Safety Validation: Collaborate with embedded engineers to translate safety requirements into cloud-side watchdogs and command rate limits.
+Operational Readiness: Create interface specifications, deployment runbooks, and CI/CD pipelines using Infrastructure-as-Code (Terraform).
+ 
+Your Technical Profile
+
+Cloud & IoT: 3+ years in cloud platform engineering for IoT or safety-critical systems.
+Connectivity Mastery: Deep expertise in MQTT (QoS, session state), device identity, and cellular networking (LTE/4G).
+Backend Development: Strong coding skills in C#, Go, Python, or Java with experience in message brokers and event streaming.
+Infrastructure as Code: Expert knowledge of AWS, Azure, or GCP, including Docker, Kubernetes (K8s), and Terraform.
+Observability Tooling: Proficiency with Prometheus, OpenTelemetry, and log pipeline management.
+Data Engineering: Skilled in schema design (Protobuf, Avro, JSON) and time-series data governance.
+Security-by-Design: Experience with PKI, secrets management, and threat modelling for device-to-cloud interactions.
+ 
+Highly Regarded Extra Strengths:
+
+Front-end development skills in ReactJS, TypeScript, or Figma.
+Experience with V2X/DSRC telemetry and spatiotemporal data visualisation.
+Familiarity with Digital Twins, replay frameworks, and GNSS data handling.
+Knowledge of RS-232 integration and control system observability.
+ 
+DRD Group is a specialist recruitment provider renowned for recruiting quality project teams on major projects within the Energy, Resources, Defence, Renewables and Infrastructure sectors.
+
+DRD Group embraces a diverse workforce culture and encourages applicants from all backgrounds to apply. All work assignments are subject to successful completion of a medical, drug and alcohol screen plus verification of all original certifications and qualifications.
+
+
+#SCR-fab-frascari"
+90306107,Embedded Software Developer,DRD Group Australia Pty Ltd,https://www.seek.com.au/job/90306107?type=standard&ref=search-standalone&origin=jobCard#sol=dbd4d3def35ebe537e3fb78891d9d599e0e1fd45,1h ago,1.0,2026-02-12T07:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Role Summary
+As an Embedded Software Developer, you will be at the forefront of safety-critical innovation, designing and implementing software that prevents collisions for heavy mobile equipment. You will work within an elite autonomy squad to produce high-performance C/C++ components. Your work will bridge the gap between complex sensor data (Localisation, Mapping, Perception) and real-time control systems to ensure fail-safe, autonomous behaviour in challenging, dynamic environments.
+ 
+Key Responsibilities
+
+Safety-Critical Coding: Architect and implement collision-prevention software modules with a focus on modularity, performance, and system redundancy.
+Production Excellence: Modernise existing firmware to meet industrial production standards, ensuring strict MISRA (or similar) compliance.
+Continuous System Improvement: Leverage telemetry and field data to identify bottlenecks and design new features that enhance system reliability.
+Technical Documentation: Maintain a robust library of technical design docs, safety cases, and interface specifications for cross-functional stakeholders.
+Risk & Reliability: Lead hazard analysis and FMEA processes to validate safety functions and diagnostic coverage.
+Software Architecture: Define component boundaries and lead architectural reviews to ensure a scalable and secure software foundation.
+Quality Assurance: Execute detailed code and design reviews, enforcing high standards for safety-critical logic and concurrency.
+Testing & Simulation: Build and support automated regression suites using HIL (Hardware-in-the-Loop) and simulation platforms to test complex edge cases.
+Field Problem Solving: Provide high-level technical support for field issues, using log analysis and simulation to drive root-cause resolutions.
+Engineering Mentorship: Promote best practices in modern C++, numerical robustness, and data-driven validation across the broader development team.
+ 
+ 
+Required Skills & Background
+Professional Skills:
+
+Experience: 3+ years in embedded software development, specifically with real-time or near real-time C/C++ systems.
+Domain Knowledge: Proven background in robotics, ADAS, or automotive motion planning systems.
+Control Systems: Hands-on experience in kinematic/dynamic modelling and maneuvering feasibility within autonomous design lifecycles.
+Modern Tooling: High proficiency in C++17 (or later), CMake, Docker, and Git-based CI/CD workflows.
+System Integration: Solid understanding of Linux, networking, and containerization for on-vehicle edge deployments.
+Safety Engineering: Experience implementing safety mechanisms, watchdogs, and well-defined degraded behaviours.
+Middleware Mastery: Familiarity with DDS and ROS 2 for managing low-latency communication in distributed systems.
+Compliance: Knowledge of automotive/robotics standards like MISRA or AUTOSAR.
+Highly Regarded Extra Strengths:
+
+Exposure to V2X or DSRC communication protocols.
+Background in data-driven collision avoidance, PID control, or electronic braking systems.
+Experience with GPS/GNSS integration.
+Prior delivery of embedded software for high-volume production in Mining, Rail, or Automotive sectors.
+ 
+DRD Group is a specialist recruitment provider renowned for recruiting quality project teams on major projects within the Energy, Resources, Defence, Renewables and Infrastructure sectors.
+
+DRD Group embraces a diverse workforce culture and encourages applicants from all backgrounds to apply. All work assignments are subject to successful completion of a medical, drug and alcohol screen plus verification of all original certifications and qualifications.
+ 
+#SCR-fab-frascari"
+90306009,ML/AI Engineer,Australian Retirement Trust,https://www.seek.com.au/job/90306009?type=standard&ref=search-standalone&origin=jobCard#sol=dcbd838d1900fdde9a4367c5b9b390ad1557f7eb,1h ago,1.0,2026-02-12T07:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,,"Take hold of a monster opportunity and join our Data & AI as an ML/AI Engineer.  If you’re a good fit for this role and live in Brisbane, Sydney or Melbourne, we’d love you to apply. 
+
+Why join us?
+
+You'll get 14% super as standard, to help your future come alive.
+Unleash your potential and build a career to be proud of through excellent training and development opportunities.
+Balance your work between in-person days at our purpose-built hubs and working from home.
+In the office, enjoy end of trip facilities, a yoga and multi-faith room, parent and carer rooms, quiet rooms, BrewHub coffee facilities, and collaborative team spaces.
+
+About the role
+
+We’re all about helping our members make the most of their money. And while they go after their goals, you can too. As an ML/AI Engineer at Australian Retirement Trust, you will play a pivotal role in developing and deploying advanced machine learning and AI solutions that drive strategic decision-making and enhance member experience. You’ll collaborate closely with stakeholders to understand business challenges and deliver impactful data-driven insights. This is an exciting opportunity to shape the future of superannuation through innovative technology in a purpose-driven organisation.
+
+Key Responsibilities:
+
+Develop, build, and maintain segmentation, predictive models, forecasting, and other data science solutions to meet business needs and improve outcomes.
+Deploy AI solutions that integrate with enterprise systems to enhance operational efficiency and customer experience.
+Analyse internal and external data using statistical and machine learning techniques to uncover trends in ART and the broader superannuation industry.
+Automate and maintain CI/CD pipelines for models, ensuring seamless integration and continuous delivery of updates.
+Monitor data science and AI system performance in production, proactively identifying and resolving issues to maintain accuracy and efficiency.
+Conduct exploratory data analysis on structured and unstructured data to uncover new opportunities and insights.
+Communicate findings and recommendations through clear documentation, visualisations, and stakeholder engagement.
+Ensure compliance with ART’s data and AI governance and reporting standards.
+
+This role is a permanent opportunity. 
+
+📍 Location: Brisbane, Sydney or Melbourne. 
+
+About you
+
+It goes without saying you'll be a great communicator with top notch interpersonal skills. We'll also expect you to pick up problems and come up with quick, creative ways to solve them.
+
+You are a passionate and collaborative ML/AI professional with a strong analytical mindset and a drive to deliver innovative solutions. You thrive in a team environment, communicate complex ideas clearly, and are committed to continuous learning and improvement. Your technical expertise and stakeholder engagement skills will help shape the future of retirement for millions of Australians.
+
+ 
+
+Key Skills and Experience:
+
+Tertiary qualifications in Mathematics, Data/Computer Science, Information Management, Statistics, or a related field.
+Experience using machine learning and AI to solve business problems, preferably in financial services.
+Proficiency in SQL and Python/R, ideally within a cloud environment (e.g., Databricks on Azure/AWS).
+Strong knowledge of data models and data mining techniques.
+Demonstrated analytical, modelling, and data mining skills with attention to detail and accuracy.
+Proven ability to analyse and apply customer information to generate actionable insights.
+Advanced written and verbal communication skills, with the ability to present solutions to stakeholders.
+Demonstrated ability to work collaboratively within and across multi-disciplinary teams.
+
+About us
+
+Our 2.4 million members trust us to take care of over $330 billion in retirement savings. And we help them take charge of their finances and face the future with confidence. Our inclusive culture means you’ll be valued and heard in a respectful workplace. We've created an environment where you can be yourself and do amazing work. It's that simple.
+
+Apply online now
+
+Everyone is welcome to apply. We value diverse thinking, cultures, perspectives, backgrounds, and abilities. Awaken your career at Australian Retirement Trust and apply now. Applications close 11:30pm 25 February 2026. 
+
+We don’t want to leave you with a monstrous wait. So, you’ll hear from us after the closing date to find out whether you’ve made it through to the next round or not. Being fair and up-front is important to us – and recruitment is no different."
+90305976,Senior Data Engineer -MS Fabric PySpark and SQL $800/day,Areti Professional,https://www.seek.com.au/job/90305976?type=standard&ref=search-standalone&origin=jobCard#sol=ce87bf291c6aa1e9de799d39dd761975c6d553ca,1h ago,1.0,2026-02-12T07:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"This initial 6mth contract will see you responsible for contributing to the overall design and development of my client’s enterprise data platform
+  
+Key Responsibilities  for this role include :
+  
+
+Design, build and enhance data engineering solutions
+Design, build and enhance lakehouses for investment data
+Implementation of a modern tech stack for data analytics, aggregation and storage of investment data, data feeds to downstream systems
+  
+Experience Requirements  :
+  
+
+Prior enterprise experience performing data engineering in a medallion architecture
+Extensive history of software development and data transformation experience within an enterprise environment in Australia
+Strong understanding of Spark, PySpark, SparkSQL
+Strong SQL and Python experience
+Experience with Microsoft Fabric, Azure and associated technologies building data engineering solutions within the Microsoft ecosystem
+Design and implementation of data transformation solutions based on both Parquet and SQL normalised data
+Excellent communication skills and be highly collaborative
+Investment Management data domain knowledge desirable.
+For more details please send your resume to seonc@aretiprofessional.com or contact Seon on 0414 720 562"
+90304415,Power BI Engineer | Mount Cotton | On Site,Robert Half,https://www.seek.com.au/job/90304415?type=standard&ref=search-standalone&origin=jobCard#sol=88d392ee28e46e1d24c0a462e6b021efbe0bf63c,2h ago,2.0,2026-02-12T06:00:00+00:00,"Mount Cotton, Brisbane QLD",Help Desk & IT Support (Information & Communication Technology),Full time,"$130,000 - $165,000 p.a. + Superannuation","Robert Half has partnered with a leading Australian organisation within the food industry / supply chain sector seeking an experienced Data Engineer to support the design, development, and optimisation of enterprise data solutions powering operational and commercial decision-making.
 
 Reporting into senior technology leadership, this role is responsible for building and maintaining robust data pipelines, backend services, and reporting platforms that enable scalable, secure, and high-performing analytics solutions. While a key component of the role involves developing Power BI dashboards and reporting outputs, the backend data architecture and transformation layer is built in C#, requiring strong hands-on development capability in that language.
 
@@ -41,7 +206,7 @@ Apply Today
 Learn more about our Brisbane recruitment services: https://www.roberthalf.com.au/brisbane
 
 By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
-90304113,AI Copilot Agent Developer,RACV,https://www.seek.com.au/job/90304113?type=standard&ref=search-standalone&origin=jobCard#sol=8c30ed4e72b04e46012dd785134aa0c06250f5ab,1h ago,1.0,2026-02-12T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Melbourne | RACV Head Office
+90304113,AI Copilot Agent Developer,RACV,https://www.seek.com.au/job/90304113?type=standard&ref=search-standalone&origin=jobCard#sol=1cea594907de92ced161321b09f2a6722495ba13,3h ago,3.0,2026-02-12T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Melbourne | RACV Head Office
 Permanent Full Time | Hybrid Working 
 A Competitive Salary | Discounts on Selected RACV Products
 New Role  – play a key part within our Transformation team
@@ -107,7 +272,7 @@ If required, click Forgot your password to receive a link to reset
 If you have not previously registered:
 Click Create an account to apply for our career opportunities; or
 Click Apply Now and create your Candidate Profile as part of your application"
-90303461,Principal Observability Engineer,SustainRecruit,https://www.seek.com.au/job/90303461?type=standard&ref=search-standalone&origin=jobCard#sol=f106fcd5a7803bf930361f797f1a029733241041,1h ago,1.0,2026-02-12T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Are you a seasoned engineering leader with a passion for building world‑class observability across complex, high‑scale systems? We’re looking for a Principal Observability Engineer to drive the strategy, standards, and technical excellence behind our organisation’s next‑generation observability and AIOps capabilities.
+90303461,Principal Observability Engineer,SustainRecruit,https://www.seek.com.au/job/90303461?type=standard&ref=search-standalone&origin=jobCard#sol=acc7092f35f982a72cd777665bb6134cfc289082,3h ago,3.0,2026-02-12T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Are you a seasoned engineering leader with a passion for building world‑class observability across complex, high‑scale systems? We’re looking for a Principal Observability Engineer to drive the strategy, standards, and technical excellence behind our organisation’s next‑generation observability and AIOps capabilities.
 
 In this role, you’ll shape the future direction of our observability platforms, partner with cross‑functional teams across engineering and operations, and enable the business to proactively detect issues, optimise performance, and deliver exceptional reliability for mission‑critical systems.
 
@@ -132,7 +297,7 @@ Deep understanding of enterprise‑scale cloud infrastructure, networking, and m
 Demonstrated use of ML/GenAI for predictive monitoring, incident analysis, correlation, and summarisation.
 Experience building auto‑healing workflows (e.g., using Ansible).
 If you'd like an opportunity to lead the observability strategy at enterprise level, please apply now."
-90302689,Senior Software Engineer- ML & Data Pipelines,Correlate Resources,https://www.seek.com.au/job/90302689?type=standard&ref=search-standalone&origin=jobCard#sol=ecb267df7ffb9de7fc6458cf63416c8ad1ac6550,2h ago,2.0,2026-02-12T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Software Engineer – ML & Data Pipelines
+90302689,Senior Software Engineer- ML & Data Pipelines,Correlate Resources,https://www.seek.com.au/job/90302689?type=standard&ref=search-standalone&origin=jobCard#sol=30ff60e9cf17c104dc58e07bab2899dd5158bf65,3h ago,3.0,2026-02-12T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Software Engineer – ML & Data Pipelines
 
 We are a growing fintech scale-up, building the next generation of data-driven financial applications. We are looking for an experienced software and data engineer to help design, develop, and scale our systems and ML pipelines.
 Responsibilities
@@ -159,7 +324,7 @@ Why this role is exciting
 Join a fast-growing fintech scale-up building innovative, high-impact systems.
 Collaborate with a skilled, multidisciplinary team of engineers and data specialists.
 Opportunity to grow your skills across software development, data engineering, and ML Ops."
-90302632,Systems Integration Engineer,bdna Group Pty Ltd,https://www.seek.com.au/job/90302632?type=standard&ref=search-standalone&origin=jobCard#sol=6337886908b531b6cf926e8f8e8493da560359c5,2h ago,2.0,2026-02-12T05:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"At bdna, we exist to improve society. We choose to only work with clients that have a direct impact on community wellbeing, safety and improvement - which means that we get to make a difference every day! 
+90302632,Systems Integration Engineer,bdna Group Pty Ltd,https://www.seek.com.au/job/90302632?type=standard&ref=search-standalone&origin=jobCard#sol=eaf48cc933dfaea5c3ca4ca65024c979cb1742c1,3h ago,3.0,2026-02-12T05:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"At bdna, we exist to improve society. We choose to only work with clients that have a direct impact on community wellbeing, safety and improvement - which means that we get to make a difference every day! 
 
 We are looking for a number of motivated integration engineers/developers with a passion for solving challenging problems, learning on the go and working with teammates to get stuff done!
 
@@ -226,7 +391,7 @@ Must be Australian citizen (Required)
 Ability to obtain and maintain security clearances (if required) e.g. NV1 security clearance
 
 If you possess substantial experience and demonstratable success in integration development and a genuine belief that you can make a significant contribution to this role, we encourage you to apply."
-90301744,Solaris Engineer,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/90301744?type=standard&ref=search-standalone&origin=jobCard#sol=ccf1cfc8ee74b05bbd3f679602321d4bb3e66e28,2h ago,2.0,2026-02-12T05:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+90301744,Solaris Engineer,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/90301744?type=standard&ref=search-standalone&origin=jobCard#sol=72d656479407b54217dce48b0692370d7c44d44d,4h ago,4.0,2026-02-12T04:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Full time,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
 
 The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
 
@@ -263,7 +428,7 @@ Note: Please follow the link to apply to the role with your recent resume. If yo
 Candidate Data Privacy Notice | HCL Technologies
 
 We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data. By replying to this email or submitting any personal data to HCL Tech, you acknowledge that you have read and understood the candidate privacy notice and have provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”."
-90300183,Data Analyst - Collision Avoidance System,Brunel,https://www.seek.com.au/job/90300183?type=standard&ref=search-standalone&origin=jobCard#sol=1c3d9970cef760a98a88dc15cae59aefd6116ff0,3h ago,3.0,2026-02-12T04:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Brunel has partnered with a leading resources company on a contract opportunity for an Data Analyst. Ideal for a data analyst/data scientist with mining and telemetry experience who can turn complex operational data into trusted, actionable insights.
+90300183,Data Analyst - Collision Avoidance System,Brunel,https://www.seek.com.au/job/90300183?type=standard&ref=search-standalone&origin=jobCard#sol=ea5daaa812ee5e66fb6d9b8eb5903528bf7b0aec,5h ago,5.0,2026-02-12T03:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Brunel has partnered with a leading resources company on a contract opportunity for an Data Analyst. Ideal for a data analyst/data scientist with mining and telemetry experience who can turn complex operational data into trusted, actionable insights.
 
 Description
 
@@ -322,7 +487,7 @@ If you meet the above requirements and would like to be considered for this role
 
 Resume
 Cover Letter (optional)"
-90299530,Service Reliability Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90299530?type=standard&ref=search-standalone&origin=jobCard#sol=f7f7ed36c9140f414e5c1d5aae5908ac288baef2,3h ago,3.0,2026-02-12T04:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,Up to $180k p.a.,"Location: Sydney (4 days in office, 1-day WFH)
+90299530,Service Reliability Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90299530?type=standard&ref=search-standalone&origin=jobCard#sol=23f990c4592e4dd63d25b0dbd85b3a1639ad4dc5,5h ago,5.0,2026-02-12T03:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,Up to $180k p.a.,"Location: Sydney (4 days in office, 1-day WFH)
 Reports to: Technical Operations Director, APAC
 Department: Global Technical Operations
 Salary: $180,000 + super + bonus
@@ -382,7 +547,7 @@ Global collaboration and career growth opportunities
 
 Interested?
 Apply now or contact Sophia Parrelli at Talent International for a confidential chat."
-90299234,Embedded Developer,Brunel,https://www.seek.com.au/job/90299234?type=standard&ref=search-standalone&origin=jobCard#sol=910daf33d75cf9433a7a90c7e6225bbe0207d8e0,3h ago,3.0,2026-02-12T04:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Brunel has partnered with a leading resources company on a contract opportunity for an Embedded Developer. This role suits someone with collision avoidance systems experience who can deliver safety-critical, production-grade software for real-time environments.
+90299234,Embedded Developer,Brunel,https://www.seek.com.au/job/90299234?type=standard&ref=search-standalone&origin=jobCard#sol=ee19d2828904be985cd0ec723ee1f4aa5aa4849a,5h ago,5.0,2026-02-12T03:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Contract/Temp,,"Brunel has partnered with a leading resources company on a contract opportunity for an Embedded Developer. This role suits someone with collision avoidance systems experience who can deliver safety-critical, production-grade software for real-time environments.
 
 Description
 
@@ -436,7 +601,7 @@ If you meet the above requirements and would like to be considered for this role
 
 Resume
 Cover Letter (optional)"
-90298697,Elastic Observability Engineer,Talent Insights Group Pty Ltd,https://www.seek.com.au/job/90298697?type=standard&ref=search-standalone&origin=jobCard#sol=96a72e37a05744c3a5749f102c81de9262ae6faa,4h ago,4.0,2026-02-12T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Elastic Observability Engineer – Telco Client | 6–12 Month Daily Contract | Sydney (Hybrid)
+90298697,Elastic Observability Engineer,Talent Insights Group Pty Ltd,https://www.seek.com.au/job/90298697?type=standard&ref=search-standalone&origin=jobCard#sol=58a7f41e36dd6b2be5b7f2f43dd773004d8c0387,5h ago,5.0,2026-02-12T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"Elastic Observability Engineer – Telco Client | 6–12 Month Daily Contract | Sydney (Hybrid)
 
 We are seeking an experienced Elastic Observability Engineer to design, implement, and operate an enterprise-scale observability platform using the Elastic Stack (Elasticsearch, Kibana, Elastic Observability).
 
@@ -459,7 +624,7 @@ CI/CD, automation (Python/Bash). SRE/DevOps/Platform background.
 Nice to Have:
 
 Elastic Certified Observability Engineer, OpenTelemetry, enterprise/hybrid-cloud experience, ITSM tools (ServiceNow/PagerDuty)."
-90298439,EOI - Experienced Systems Engineers,John Holland,https://www.seek.com.au/job/90298439?type=standard&ref=search-standalone&origin=jobCard#sol=7d150b46b38fcf5daefda681432287dcc5522c97,4h ago,4.0,2026-02-12T03:00:00+00:00,"Pyrmont, Sydney NSW",Systems Engineering (Engineering),Full time,,"John Holland Group is seeking Expressions of Interest from highly experienced Systems Engineers, from Engineering level to Systems Engineering Managers, to join our Rail Engineering & Integration group of specialist rail engineers, supporting the delivery of SESA services across our portfolio of upcoming and ongoing rail projects in Sydney and Melbourne. These roles will contribute to the delivery of complex, safety‑critical systems that underpin the performance, reliability, and regulatory compliance of our rail projects.
+90298439,EOI - Experienced Systems Engineers,John Holland,https://www.seek.com.au/job/90298439?type=standard&ref=search-standalone&origin=jobCard#sol=886bdb66e59a9cb1429cc47cba00f494cd2ac7f8,5h ago,5.0,2026-02-12T03:00:00+00:00,"Pyrmont, Sydney NSW",Systems Engineering (Engineering),Full time,,"John Holland Group is seeking Expressions of Interest from highly experienced Systems Engineers, from Engineering level to Systems Engineering Managers, to join our Rail Engineering & Integration group of specialist rail engineers, supporting the delivery of SESA services across our portfolio of upcoming and ongoing rail projects in Sydney and Melbourne. These roles will contribute to the delivery of complex, safety‑critical systems that underpin the performance, reliability, and regulatory compliance of our rail projects.
 
 This opportunity can be based in our Sydney or Melbourne offices.
 
@@ -512,7 +677,7 @@ Qualifications:
 -Postgraduate qualifications in Systems Engineering (desirable)
 -CSEP/ESEP certification (desirable)
 -Rail‑specific safety competencies where relevant"
-90298317,Data Engineer,Generator Talent Group,https://www.seek.com.au/job/90298317?type=standard&ref=search-standalone&origin=jobCard#sol=f3d2cca10de4fcd958556ad1c3fcdab5f7dbb621,4h ago,4.0,2026-02-12T03:00:00+00:00,"Artarmon, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
+90298317,Data Engineer,Generator Talent Group,https://www.seek.com.au/job/90298317?type=standard&ref=search-standalone&origin=jobCard#sol=aee7fe6ee629bf1394fbf35846de33237a354b5d,5h ago,5.0,2026-02-12T03:00:00+00:00,"Artarmon, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"The Opportunity
 
 Fulcrum3D is expanding and looking for a Data Engineer to help build advanced wind and solar forecasting technologies used across Australia and international energy markets.
 
@@ -557,7 +722,7 @@ Qualifications
 STEM degree (Computer Science, Engineering, Physics, Maths, Statistics, etc.)
 
 Postgraduate study helpful but not required"
-90295045,Data Architect - Contract,PRA,https://www.seek.com.au/job/90295045?type=standard&ref=search-standalone&origin=jobCard#sol=1cc2e195f965c349eb346ceef7491428e4c91b48,5h ago,5.0,2026-02-12T02:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,n,"We are seeking a Contract Senior Data Architect / Data Modeller to lead the design of a common enterprise data model supporting the migration of fragmented data assets from SAS NEO to a Databricks Lakehouse platform.
+90295045,Data Architect - Contract,PRA,https://www.seek.com.au/job/90295045?type=standard&ref=search-standalone&origin=jobCard#sol=ab60d2bba0260cc29047e881fc5c83fdc93a1ebd,7h ago,7.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,n,"We are seeking a Contract Senior Data Architect / Data Modeller to lead the design of a common enterprise data model supporting the migration of fragmented data assets from SAS NEO to a Databricks Lakehouse platform.
 
 This role plays a critical part in establishing a unified, governed data foundation that standardises core entities, definitions, and relationships across the organisation, enabling scalable analytics, reporting, and AI/ML use cases.
 
@@ -590,7 +755,7 @@ Power BI, Tableau, Qlik
 MDM and data quality tooling
 Infrastructure-as-code exposure (Terraform / ARM)
 If you would like to hear more please APPLY below. Australian Citizens or PR only."
-90294367,Integration Solutions Specialist,Metropolitan Memorial Parks Land Manager,https://www.seek.com.au/job/90294367?type=standard&ref=search-standalone&origin=jobCard#sol=38925eadda0b88ee678ad2ea34b946fda2739f27,6h ago,6.0,2026-02-12T01:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,130k - 140k annual base salary,"About us:
+90294367,Integration Solutions Specialist,Metropolitan Memorial Parks Land Manager,https://www.seek.com.au/job/90294367?type=standard&ref=search-standalone&origin=jobCard#sol=e3920f22b51e0bd2fd273fe2df8f66b7a1dfa009,7h ago,7.0,2026-02-12T01:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,130k - 140k annual base salary,"About us:
 
 Metropolitan Memorial Parks is a NSW Government entity responsible for managing eight Memorial Parks across the Sydney and Hunter region. We're committed to providing genuine care and affordable choices for everyone, while expanding our services to meet the diverse needs of our communities.
 
@@ -639,7 +804,7 @@ Certifications in integration platforms or project management (e.g., PMP, ITIL) 
 Experience in cemetery and crematorium operations or government enterprise systems would be highly regarded
 
 If you're a skilled integration professional looking for a new challenge, please submit your application, including your resume and cover letter, addressing the key responsibilities."
-90293843,Data Engineer - Databricks,TRS - Public Sector,https://www.seek.com.au/job/90293843?type=standard&ref=search-standalone&origin=jobCard#sol=50325199d608ac01fb4dbf82d2c0529d3a363b8c,6h ago,6.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $1000 p/d + super (may be negotiable),"Data Engineer | ASAP Start | Large Utilities Organisation
+90293843,Data Engineer - Databricks,TRS - Public Sector,https://www.seek.com.au/job/90293843?type=standard&ref=search-standalone&origin=jobCard#sol=76704c413be6f1fe454defc780e7b954f954caa6,8h ago,8.0,2026-02-12T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $1000 p/d + super (may be negotiable),"Data Engineer | ASAP Start | Large Utilities Organisation
 
 6 month contract with likely extensions
 Up to $1000 p/d + super (may be negotiable)
@@ -670,7 +835,7 @@ Experience with Microsoft Fabric
 Experience supporting or integrating with Power BI
 Exposure to enterprise analytics environments
 If you have relevant experience, please submit your latest CV and we will be in touch shortly!"
-90293092,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293092?type=standard&ref=search-standalone&origin=jobCard#sol=689deddf59797968867312072e06ccfb692ad0d7,6h ago,6.0,2026-02-12T01:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+90293092,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293092?type=standard&ref=search-standalone&origin=jobCard#sol=fcccaad3b5dedaa9d5a6f67f5050399e2a8a324f,8h ago,8.0,2026-02-12T01:00:00+00:00,Brisbane QLD,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
 
 As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
 
@@ -746,7 +911,7 @@ Application Closing Date: Sunday, 1 March 2026
 
 
 For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
-90293080,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293080?type=standard&ref=search-standalone&origin=jobCard#sol=ccf0f33cd8900c945a9441d1cf03bfe6b8de1e0f,6h ago,6.0,2026-02-12T01:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+90293080,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293080?type=standard&ref=search-standalone&origin=jobCard#sol=2ac04e3a6b74c38d4930641984d58e985eedb846,8h ago,8.0,2026-02-12T01:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
 
 As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
 
@@ -822,7 +987,7 @@ Application Closing Date: Sunday, 1 March 2026
 
 
 For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
-90293075,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293075?type=standard&ref=search-standalone&origin=jobCard#sol=5b5c08f52b212a3104b870923d3f54abc62c9b3b,6h ago,6.0,2026-02-12T01:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
+90293075,"ASD 4, 5 & 6 Data Scientists",Australian Signals Directorate,https://www.seek.com.au/job/90293075?type=standard&ref=search-standalone&origin=jobCard#sol=7028bbe0443ad36e9486a268a44b3736435aa225,8h ago,8.0,2026-02-12T01:00:00+00:00,Melbourne VIC,Government - Federal (Government & Defence),Full time,"Salary Package: $83,489 - $116,169 (plus super)","About The Role
 
 As a Data Scientist, you can expect every day to be different, but there are a few workflows that are consistent. In line with the expectations for each ASD level, you will be responsible for identifying suitable data sets and problems, as well as subsequently planning and performing analysis on a wide range of data. You will do this in accordance with our legislative, policy and ethical frameworks. 
 
@@ -898,7 +1063,7 @@ Application Closing Date: Sunday, 1 March 2026
 
 
 For further information, please review the Information Pack, reference ASD/00859/26 on www.asd.gov.au/careers."
-90292004,Observability Engineer,Compare the Market,https://www.seek.com.au/job/90292004?type=standard&ref=search-standalone&origin=jobCard#sol=79a35da01d4ecaf67b0fb551f885d6f59f4155e5,7h ago,7.0,2026-02-12T00:00:00+00:00,Brisbane QLD,Networks & Systems Administration (Information & Communication Technology),Full time,,"Who We Are
+90292004,Observability Engineer,Compare the Market,https://www.seek.com.au/job/90292004?type=standard&ref=search-standalone&origin=jobCard#sol=65c724dacc7909255adce1c9a1a75be591591587,9h ago,9.0,2026-02-12T00:00:00+00:00,Brisbane QLD,Networks & Systems Administration (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -980,7 +1145,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-90291516,Lead Automation Developer,Department of Education,https://www.seek.com.au/job/90291516?type=standard&ref=search-standalone&origin=jobCard#sol=a8552d27184722763a502ab0525b237085e14f1b,8h ago,8.0,2026-02-11T23:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Full time,From 129464 to 142665 AUD per year,"Company description:
+90291516,Lead Automation Developer,Department of Education,https://www.seek.com.au/job/90291516?type=standard&ref=search-standalone&origin=jobCard#sol=631a30eba6cc5d94fe092f225cecf1014c9a70ff,9h ago,9.0,2026-02-12T00:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Full time,From 129464 to 142665 AUD per year,"Company description:
 
 
 
@@ -1079,7 +1244,7 @@ We welcome applications from all ages and genders, Aboriginal and Torres Strait 
 
 
 A recruitment pool may be created through this recruitment process. A recruitment pool is a group of applicants who have been assessed and identified as suitable for this role, and who may be considered for a range of similar roles, including temporary, term or ongoing roles, over the next 18 months."
-90290423,Senior System Engineer - L3 MSP,Kaliba Pty Ltd,https://www.seek.com.au/job/90290423?type=standard&ref=search-standalone&origin=jobCard#sol=bc704e8eb0716edb5ba6c7784f9f7ce8afa1fb48,8h ago,8.0,2026-02-11T23:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Full time,"$120,000 – $140,000 per year","Level 3 Engineer (MSP)
+90290423,Senior System Engineer - L3 MSP,Kaliba Pty Ltd,https://www.seek.com.au/job/90290423?type=standard&ref=search-standalone&origin=jobCard#sol=ca49ea849c0ea3d14a9a745d473e4ab9c50344da,10h ago,10.0,2026-02-11T23:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Full time,"$120,000 – $140,000 per year","Level 3 Engineer (MSP)
 
 Location: Sydney (hybrid)
 Salary: $120,000 – $140,000 + Super (+ performance based bonus)
@@ -1142,7 +1307,7 @@ Experience with RMM/PSA tools (ConnectWise, Datto, Kaseya, etc.)
 Exposure to security best practices and frameworks
 
 Project delivery experience"
-90289855,Senior Machine Learning Engineer - Learning Experience,Canva,https://www.seek.com.au/job/90289855?type=standard&ref=search-standalone&origin=jobCard#sol=0fade3955232a3a990fc5527bf3130b96c2b9f15,9h ago,9.0,2026-02-11T22:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
+90289855,Senior Machine Learning Engineer - Learning Experience,Canva,https://www.seek.com.au/job/90289855?type=standard&ref=search-standalone&origin=jobCard#sol=5fd5df900d32af3554fa14902461f61a1f2c7fb0,11h ago,11.0,2026-02-11T22:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -1229,7 +1394,7 @@ Check out  lifeatcanva.com for more info.
 Other stuff to know
 
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
-90289847,Senior Research Engineer - Design Generation,Canva,https://www.seek.com.au/job/90289847?type=standard&ref=search-standalone&origin=jobCard#sol=43be501b38011671eb912494c0ffb7d87121f0b5,9h ago,9.0,2026-02-11T22:00:00+00:00,Sydney NSW,"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Company Description
+90289847,Senior Research Engineer - Design Generation,Canva,https://www.seek.com.au/job/90289847?type=standard&ref=search-standalone&origin=jobCard#sol=1ae26d49efbd96e6f6c6eb92242500cbe98bb08e,11h ago,11.0,2026-02-11T22:00:00+00:00,Sydney NSW,"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
