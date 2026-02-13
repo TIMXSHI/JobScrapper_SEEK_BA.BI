@@ -1,5 +1,703 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90316562,Data Engineer,Charterhouse,https://www.seek.com.au/job/90316562?type=standard&ref=search-standalone&origin=jobCard#sol=dac2e2b73793c490be0fd71b0031afbf17d7144e,1h ago,1.0,2026-02-12T22:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,AUD 140000 - 160000 per annum,"About the Role
+90320398,Lead AI Engineer,TalentLink,https://www.seek.com.au/job/90320398?type=standard&ref=search-standalone&origin=jobCard#sol=4a586e61c76a328f00929ce565120b467fd073cb,1h ago,1.0,2026-02-13T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Lead AI Engineer - Enterprise AI Platforms (LLMs | AWS | Databricks)
+ 
+We're partnering with a large enterprise at a critical point in its AI evolution.
+ 
+This role is for a Lead Engineer who can own the design, delivery and operation of production AI systems — setting technical direction while staying hands-on. You'll lead the build of AI platforms that are safe, scalable, observable and trusted, not experimental or hype-driven.
+ 
+This is a true technical leadership role at the intersection of AI engineering, platform architecture, governance and cross-functional delivery.
+ 
+ 
+What You'll Own
+
+Technical ownership of enterprise-grade AI systems using LLMs and agentic architectures
+Design and operation of LLMOps / AgentOps (prompt lifecycle, evaluation, red-teaming, HITL controls)
+Architecture of end-to-end AI data paths: ingestion, embeddings, vector stores, RAG pipelines, caching and quality controls
+Safe release strategies: canary deployments, A/B testing, feature flags and controlled exposure
+AI system observability, reliability and incident response
+Platform evolution, architectural standards and technical debt roadmaps
+Technical leadership across teams, including mentoring and engineering standards
+Deep collaboration with Product, Security, Legal/Privacy and Executive stakeholders
+ 
+What You Bring
+
+6+ years in software engineering with significant ownership of production AI systems
+Deep hands-on experience with LLMs, RAG, tool/function calling, planning and memory
+Strong delivery experience on AWS and Databricks (MLflow / Mosaic AI)
+Advanced Python engineering (FastAPI / FastMCP preferred)
+Strong cloud architecture, CI/CD and Infrastructure-as-Code capability
+Deep understanding of AI safety, evaluation, governance and risk controls
+Experience leading engineers and setting technical direction
+Technical Environment
+ 
+- Python | FastAPI | React + TypeScript
+- Databricks Lakehouse | Vector DBs (pgvector or equivalent)
+- Advanced RAG + guardrails
+- AWS cloud platforms
+- CI/CD, automated evals, model registries
+- Observability (metrics, logs, traces)
+ 
+This Role Suits Someone Who
+
+Thinks in systems, not demos
+Understands AI failure modes and operational risk
+Balances speed, safety and scalability
+Can lead technically while remaining hands-on
+Is comfortable influencing across engineering, product and executive teams
+If you want to shape enterprise AI platforms that are safe, trusted and built to last, this is a rare leadership opportunity.
+ 
+Apply now or reach out for a confidential discussion."
+90320230,Senior AI Engineer,TalentLink,https://www.seek.com.au/job/90320230?type=standard&ref=search-standalone&origin=jobCard#sol=7a6162d4398f04d182292a829a73fb04bb345740,1h ago,1.0,2026-02-13T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior AI Engineer - Production Systems (LLMs | AWS | Databricks)
+ 
+We're partnering with a large enterprise at a pivotal stage of its AI journey.
+They need a Senior Software Engineer who understands AI deeply enough to build safe, reliable, production-grade systems — not prototypes. Someone who can translate AI capability into scalable, governed solutions that solve real business problems.
+ 
+This role sits at the intersection of AI engineering, platform architecture and cross-functional delivery.
+ 
+ 
+What You'll Do
+
+Design and ship production AI systems using LLMs and agentic architectures
+Build and operate LLMOps / AgentOps (prompt management, automated evals, red-teaming, human-in-the-loop)
+Engineer end-to-end AI pipelines: ingestion, embeddings, vector stores, retrieval (RAG), caching and quality controls
+Deploy safely using canary releases, A/B experiments and controlled rollouts
+Implement observability (metrics, logs, traces) and participate in incident response
+Partner across Product, Security, Engineering and Leadership to deliver trusted AI solutions
+ 
+Essential Experience
+
+3+ years delivering production-grade AI systems
+Hands-on with LLMs, RAG, tool/function calling, planning, memory
+Deploying AI on AWS and Databricks (MLflow / Mosaic AI)
+Strong Python engineering capability (FastAPI preferred)
+CI/CD, model registries and secure cloud architecture
+Security fundamentals (IAM, secrets, PII handling, auditability)
+Technical Stack
+ 
+- Python | FastAPI | React + TypeScript
+- Databricks | Vector DBs (pgvector or equivalent)
+- AWS cloud architecture
+- Advanced RAG + guardrails
+- CI/CD + automated evaluation frameworks
+ 
+ 
+We're Looking For Someone Who
+
+Thinks beyond experimentation and understands production risk
+Designs AI systems that are safe, observable and scalable
+Balances speed with governance and reliability
+Can communicate complex architecture clearly across technical and executive audiences
+If you want to build enterprise AI that actually works — safely, reliably and at scale — we'd love to speak with you."
+90319750,Data Architect,Bureau Of Meteorology,https://www.seek.com.au/job/90319750?type=standard&ref=search-standalone&origin=jobCard#sol=b14900a62139ad6153b4a45de773f2a4daa593dd,2h ago,2.0,2026-02-13T00:00:00+00:00,Canberra ACT (Hybrid),"Architects (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,"$135,402 – $152,073, plus an additional 15.4% supe","Data Architect
+
+Executive Level 2
+
+Melbourne and Canberra
+
+Position overview
+
+The Planning and Architecture Program is seeking a talented and dynamic Data Architect with significant strategic, communication, interpersonal, and organisational skills.
+
+The Data Architect will have a focus on technology and can work in a strategic manner across all programs. This role will assist in collating and developing Data Technology Solutions (Including Cloud) to be used by all users at the Bureau, as well as in the development and maturity of the Planning and Architecture future state for Data.
+
+Under broad direction, the Data Architect will undertake or assist with the functions of:
+
+Domain Architecture:
+Data standards including Metadata, Master data and refence data for the Bureau
+Knowledge and understanding of multi-dimensional scientific data files, timeseries data and geospatial data. This will include input into the development, publishing and maintenance of various policies, procedures, guide, and reference artefacts to assist the Bureau technology use across all teams and programs.
+Effective data sharing between internal users and external parties.
+Input and Maintenance of the appropriate data technology components of the Technology Reference Model (TRM)
+Experience and understanding of on-premise to Cloud and cloud to premise pipelines for data and processing as part of Cloud and Hybrid Solutions focusing on AWS and Azure.
+Large data experience and awareness of Machine Learning and Artificial Intelligence.
+Data Technology Roadmap Development: Set the strategic direction to support long-term technology planning and investment aligned to the business trajectory.
+Technology Investment Planning: Assist GM Planning & Architecture with investment planning and recommendations to CITO where Cloud technologies are to be considered used
+Solution Architecture: Working with the Lead Architect, Chief Architect and other members of the Planning and Architecture team as well as operational staff across DDG to help generate solutions in accordance with business requirements.
+
+The successful candidate will have:
+
+· Experience in architecting, designing, developing and Implementing Solutions on premise, Hybrid, and cloud (AWS and Azure)
+
+· Experience in producing detailed designs utilising components, including Compute, Storage, Data Processing, Machine Learning and Artificial Intelligence, HPC, Networking, Alerting and
+
+Monitoring
+
+· Awareness and understanding with Scientific Data formats including HDF5, NetCDF, and Zarr
+
+· Well-developed engagement and communication skills
+
+Application Closing Date: Sunday, 1 March 2026
+
+For further information please review the position description on https://bomcareers.nga.net.au/?jati=44FB3633-1397-3B75-247A-ECA95980C235"
+90319742,Data Architect,Bureau Of Meteorology,https://www.seek.com.au/job/90319742?type=standard&ref=search-standalone&origin=jobCard#sol=e44e1fb8730bf72f7c14f299f4c4a07bde872dfd,2h ago,2.0,2026-02-13T00:00:00+00:00,Melbourne VIC (Hybrid),"Architects (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,"$135,402 – $152,073, plus an additional 15.4% supe","Data Architect
+
+Executive Level 2
+
+Melbourne and Canberra
+
+Position overview
+
+The Planning and Architecture Program is seeking a talented and dynamic Data Architect with significant strategic, communication, interpersonal, and organisational skills.
+
+The Data Architect will have a focus on technology and can work in a strategic manner across all programs. This role will assist in collating and developing Data Technology Solutions (Including Cloud) to be used by all users at the Bureau, as well as in the development and maturity of the Planning and Architecture future state for Data.
+
+Under broad direction, the Data Architect will undertake or assist with the functions of:
+
+Domain Architecture:
+Data standards including Metadata, Master data and refence data for the Bureau
+Knowledge and understanding of multi-dimensional scientific data files, timeseries data and geospatial data. This will include input into the development, publishing and maintenance of various policies, procedures, guide, and reference artefacts to assist the Bureau technology use across all teams and programs.
+Effective data sharing between internal users and external parties.
+Input and Maintenance of the appropriate data technology components of the Technology Reference Model (TRM)
+Experience and understanding of on-premise to Cloud and cloud to premise pipelines for data and processing as part of Cloud and Hybrid Solutions focusing on AWS and Azure.
+Large data experience and awareness of Machine Learning and Artificial Intelligence.
+Data Technology Roadmap Development: Set the strategic direction to support long-term technology planning and investment aligned to the business trajectory.
+Technology Investment Planning: Assist GM Planning & Architecture with investment planning and recommendations to CITO where Cloud technologies are to be considered used
+Solution Architecture: Working with the Lead Architect, Chief Architect and other members of the Planning and Architecture team as well as operational staff across DDG to help generate solutions in accordance with business requirements.
+
+The successful candidate will have:
+
+· Experience in architecting, designing, developing and Implementing Solutions on premise, Hybrid, and cloud (AWS and Azure)
+
+· Experience in producing detailed designs utilising components, including Compute, Storage, Data Processing, Machine Learning and Artificial Intelligence, HPC, Networking, Alerting and
+
+Monitoring
+
+· Awareness and understanding with Scientific Data formats including HDF5, NetCDF, and Zarr
+
+· Well-developed engagement and communication skills
+
+Application Closing Date: Sunday, 1 March 2026
+
+ 
+
+For further information please review the position description on https://bomcareers.nga.net.au/?jati=44FB3633-1397-3B75-247A-ECA95980C235"
+90319147,Azure Cloud Architect,Latitude IT,https://www.seek.com.au/job/90319147?type=standard&ref=search-standalone&origin=jobCard#sol=e14308bdebe1a06798bb53d417ac753d4ca0710a,2h ago,2.0,2026-02-13T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,Up to $190k base + super,"Azure Cloud Architect
+Location: Sydney, 50/50 hybrid
+Package: Up to $190k base + 15% super
+  
+The Opportunity
+A nationally critical Government regulator is entering the next phase of its cloud and cyber evolution. The cloud foundations are in place. Core platforms are operating across Azure and AWS. The migration is done.
+  
+Now the focus shifts to hardening, securing, and governing the environment at the national scale.
+  
+A multi-year cyber uplift program is underway. Identity, monitoring, data governance, and secure delivery are being strengthened across the Microsoft ecosystem. This is enterprise cloud architecture inside a PROTECTED environment. Decisions made here influence how regulatory systems operate across Australia.
+  
+This is not a SOC role. Not policy-only. Not GRC advisory. It is a platform-level Microsoft architecture with ownership. Think Real systems. Real scrutiny. Real accountability.
+  
+The Role:
+
+You will operate as a senior Microsoft-aligned Cloud Architect embedded within a long-term cyber uplift program.
+Producing high and low-level architecture across Azure and Microsoft security workloads
+Designing and strengthening identity architecture across Entra ID and Active Directory
+Embedding security controls into M365, Sentinel, and Purview environments
+Contributing to secure SDLC integration across CI/CD pipelines
+Shaping platform guardrails and governance patterns aligned to PROTECTED controls
+Improving monitoring, logging, and security visibility across the estate
+Partnering with cyber, infrastructure, and engineering teams to remove architectural friction
+Presenting and defending design decisions within governance forums
+Balancing strong security posture with operational pragmatism
+Business Context:
+
+Enterprise-scale regulated environment
+Commercial off-the-shelf platforms hosted in the cloud
+Strict governance and compliance frameworks
+Multi-year cybersecurity uplift program
+This role is structured as a 2-year FTC aligned to the cyber program roadmap. The broader program extends beyond that timeframe, and high performers are typically retained where possible.
+  
+What We’re Looking For:
+
+5+ years in Azure cloud or infrastructure architecture
+Strong alignment with the Microsoft ecosystem
+Experience across Azure, M365, Sentinel, Purview, and identity architecture
+Exposure to regulated, enterprise, financial services, or government environments
+Confidence operating in structured governance settings
+Clear, concise communicator with strong architectural judgement
+Australian citizen with Baseline eligibility
+Ideal career trajectory: Infrastructure or identity engineer → cloud/security engineer → cloud architect.
+Less suited: Pure GRC or compliance-only profiles without deep platform architecture experience.
+Apply now or reach out for a confidential discussion."
+90318802,Mid-Senior AI Engineer – Agents & AWS (Music Industry),Tuned Global Pty Ltd,https://www.seek.com.au/job/90318802?type=standard&ref=search-standalone&origin=jobCard#sol=7c6858394b7ad04ae494ffad7e3e0f61a91da9bf,2h ago,2.0,2026-02-13T00:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$150,000 – $165,000 per year","At Tuned Global, we build the technology that powers music and audio streaming for some of the world's most recognisable brands. Our platforms sit behind large-scale consumer products, delivering millions of audio experiences every day.
+
+We're not experimenting with AI, we're shipping it into production at scale.
+
+Across the company, we are investing heavily in AI capabilities including:
+
+Proprietary in-house audio detection models
+
+LLM-powered agent systems
+
+Personalisation and recommendation intelligence
+
+Scalable AI infrastructure and orchestration
+
+Headquartered in Melbourne, we also have an expanding global AI capability group, including an AI Sciences team based in the UK, and a Data Science team in Sweden, working alongside our local product and engineering teams to deliver next-generation music intelligence products.
+
+We're now looking for a Mid-Senior AI Software Engineer to join our Melbourne team and help build the next wave of applied AI systems for audio and streaming platforms.
+
+We are located on the edge of the CBD in Docklands, with easy access via train, tram, or car. We offer an excellent package and flexible work arrangements, including working from home for a number of days each week and birthday leave.
+
+The Role
+
+As a Mid-Senior AI Engineer you will be focused on designing, building, and scaling AI agents that operate within real business workflows and combine modern cloud engineering with advanced Agentic workflows.
+
+You will help define the technical patterns, standards, and best practices for how AI agents are built and operated across our music cloud platform.
+
+You will work on projects such as:
+
+LLM-powered orchestration systems and AI agents
+
+Retrieval-Augmented Generation (RAG) pipelines
+
+AI-powered automation tools integrated into real platforms
+
+Internal AI developer tooling and infrastructure
+
+AI services deployed on AWS for reliability, scale, and performance
+
+This is a hands-on engineering role with real ownership, building AI agents that are used at scale in commercial environments.
+
+You will work hands-on with Python, AWS, AWS Bedrock, LLMs, and modern agent frameworks, collaborating closely with product, platform, and operational teams in a fast-moving scale-up environment.
+
+Key Responsibilities
+AI Agent & Workflow Development
+
+Design and build AI-powered agents and multi-step agentic workflows to automate and augment internal business processes using LLMs.
+
+Implement tool-using agents that can call internal services, APIs, and data sources.
+
+Build retrieval-augmented generation (RAG) pipelines and structured knowledge access.
+
+Apply modern agent patterns such as multi step planning, orchestration, and human-in-the-loop workflows.
+
+Platform & Cloud Engineering
+
+Develop and operate AI systems using AWS-native services, including Lambda, ECS/EKS, Step Functions, SQS, DynamoDB, and S3, Bedrock (or equivalent LLM services).
+
+Design secure, scalable, and cost-aware solutions suitable for production environments.
+
+Build internal tools and services required to support agents (APIs, data models, workflow services).
+
+Integration & Collaboration
+
+Work closely with engineering, product, and operational teams to identify high-impact use cases for AI agents.
+
+Translate business problems into reliable, maintainable AI-driven systems.
+
+Contribute to architectural decisions and technical standards around AI and automation.
+
+Reliability & Continuous Improvement
+
+Implement monitoring, logging, and evaluation for agent behaviour and system performance.
+
+Continuously improve prompt quality, agent reliability, and workflow efficiency.
+
+Stay current with emerging best practices in LLMs, agent frameworks, and AI system design.
+
+
+
+
+Skills / Experience:
+Required
+
+5+ years of professional software engineering experience
+
+Strong experience building backend services in production environments
+
+Minimum 2+ years of AWS cloud experience designing and deploying real workloads
+
+Experience working with LLMs, including API-based models and prompt engineering
+
+Understanding of AI system patterns (RAG, agents, embeddings, vector stores, evaluation)
+
+Strong proficiency in Python (and/or other backend languages)
+
+Strong engineering fundamentals: system design, scalability, performance, reliability
+
+Australian work authorisation required at time of application
+
+Preferred / Nice to Have
+
+Experience with agent frameworks such as:
+
+LangChain
+
+Function / tool calling
+
+Multi-agent or orchestrated workflows
+
+Familiarity with Model Context Protocol (MCP) or similar approaches to structured tool and context integration.
+
+Experience with:
+
+Retrieval-augmented generation (RAG)
+
+Vector databases and embeddings
+
+Event-driven or asynchronous architectures
+
+Experience building internal developer or operational tooling.
+
+Exposure to music, media, or content platforms.
+
+
+
+Why Tuned Global
+
+This is an opportunity to join a company with:
+
+A mature, global platform powering real audio streaming businesses
+
+A growing AI investment strategy with international collaboration
+
+A culture of building and shipping, not endless experimentation
+
+Access to real-world datasets and production systems
+
+The chance to build applied AI that directly improves products
+
+
+
+
+What's on Offer
+
+Competitive salary package
+
+Hybrid work model based in Melbourne
+
+Opportunity to work with world-class engineering and AI teams across Australia, the UK and Sweden
+
+High-impact role with real ownership and room to grow
+
+Work on cutting-edge LLM and AI agent systems deployed into production
+
+
+
+No Agencies Please"
+90320060,"Domain Expert, Analyst - Defense (12 Month Fixed-Term)","Dataminr, Inc and Affiliates",https://www.seek.com.au/job/90320060?type=standard&ref=search-standalone&origin=jobCard#sol=148c740fb929f1ddcef5f09cfd8a1fd8d35cc61d,2h ago,2.0,2026-02-13T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"See yourself at Dataminr
+
+Dataminr’s Domain Experts work with Dataminr’s AI platform in real time ensuring the alerts and intelligence we send to our clients are of the best possible quality. Domain Experts use deep human expertise to examine and analyze our data feeds and annotate, label, and edit signals in real time. You will be an integral part of our algorithm training process and our advanced realtime human-AI feedback loop that integrates key knowledge domains into our AI models and develops our AI platform. As a Domain Expert, you will also play a key role in defining new factors to improve our alerts, data source coverage, machine learning, AI models, and AI tooling.
+
+This role is open as remote (Australia) or hybrid, and requires the ability to work core hours of 8:00am - 4:00pm AEST or 10:00am - 6:00pm AEDT in a real-time information environment. Please note that this role requires rotational weekend work as well as projects and meetings outside of business hours. This role is a fixed term contract opportunity that runs for a period of up to 12 months.
+
+AI Innovation at Dataminr 
+
+Working at Dataminr you’ll have the opportunity to tackle the most exciting trends in AI on a daily basis to power a revolutionary product that uncovers critical events around the world as they unfold.
+
+Regenerative AI: our AI technology, ReGenAI, is a new form of generative AI that automatically regenerates real-time Live Event Briefs as events unfold. Learn more here.
+
+Agentic AI: we recently launched our Agentic AI capability, what we’re calling our Intel Agents, that autonomously generates critical context for our clients on real-time events, threats, and risks allowing them to see the clearest, most accurate view of what’s happening on the ground. Learn more here
+
+Multimodal AI: our platform detects events from many different types of data (images, video, sensor data, audio, and text in over 150 languages). Learn more here. 
+
+The opportunity
+
+
+ Serve as an expert on Defense, Military Affairs and related geopolitical developments and the relevant source environment and data sets associated with these areas to improve our AI models
+
+Monitor and analyse the quality of our data feeds
+
+Annotate and label complex real time events, making real-time decisions with incomplete data
+
+Own and develop projects to improve performance of AI models and AI tooling in the real time event detection space
+
+Collaborate and communicate about daily priorities in a team-centric environment 
+
+What you bring
+
+
+At Dataminr, we value you for who you are. We encourage you to apply for this role, even if you don't meet every qualification. Our candidates are reviewed on the basis of their skill and potential to succeed.
+
+Bachelor's degree required; ideally with a concentration in: Defense or Strategic Studies, political science, security/conflict studies, or a closely related field strongly preferred
+
+Ability to monitor and analyze data with strong online research skills in a fast-paced environment in English; other languages a plus
+
+An understanding of geopolitical risk and world events
+
+Passion for breaking news, current world events, technology, and a great understanding of both social media and publicly-available data
+
+Ability to interpret and succinctly describe ongoing, complex events with incomplete data
+
+Fluency with AI tools and LLMs, and experience using them to solve problems, improve workflows, and make efficiencies 
+
+Enthusiastic approach to innovation and strategic thinking
+
+#LI-SM
+
+#LI-REMOTE
+
+About Dataminr
+
+At Dataminr, we are a mission driven team of talented builders, creators and visionaries who have real-world impact on how organizations are able to respond to events. Dataminr’s groundbreaking, AI-powered, intelligence platform provides organizations with the earliest signals of emerging risks, events, and threats before they unfold. Trusted by two-thirds of the Fortune 50 and half of the Fortune 100, Dataminr’s platform analyzes billions of public data inputs spanning text, image, video, audio and sensor data across 150+ languages, empowering our clients to stay one step ahead in an increasingly complex world where every second counts. 
+
+Founded in 2009, we have pioneered the world’s first real-time event detection platform, long before the recent Gen AI ‘boom.’ Dataminr operates all around the world united by our passion to use AI for the greater good, be agents of positive change and put our technology into the hands of clients charged with the responsibility to keep organizations running and keep people safe.
+
+As our employees focus on developing our revolutionary technology, we focus on our employees. Dataminr is proud to offer a variety of flexible work arrangements, offices all over the world to foster collaboration, generous PTO and sick leave, and more, as part of our competitive benefits package aimed at keeping all our employees happy and healthy. Explore all our benefits here. 
+
+We believe our differences give us strength. Our employees are empowered to be their best, authentic selves through various opportunities, such as our robust employee resource group (ERG) network, manager development programming, professional development funds, and more.
+
+We serve a global community made up of many cultures and strive to reflect the world and clients we serve, with a workforce built on merit and equity. We actively condemn racism and discrimination in any form. We stand for social good, fostering a culture of allyship, and standing up for those who face systemic barriers to equality. We lead with empathy and strive to be agents of positive change in our company and in our communities.
+
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, colour, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
+
+Dataminr will collect and process your personal data. All personal data will be processed in accordance with applicable data protection laws. Please see Dataminr's candidate privacy notice available here. By providing your details and applying via our careers website, you acknowledge that you have read our candidate privacy notice. If you have any queries, please contact the People Team at hr@dataminr.com or privacy@dataminr.com."
+90318056,Conversational AI Designer,Emanate Technology Pty Ltd,https://www.seek.com.au/job/90318056?type=standard&ref=search-standalone&origin=jobCard#sol=8da520dddc895aeac9e6438fc88b6f1b75e2f370,3h ago,3.0,2026-02-12T23:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Conversational AI Designer ( Mid / Senior or Lead )  
+
+Adelaide CBD
+
+Hybrid (3 days onsite)
+
+Full-time | Permanent
+Emanate Technology is partnering with a leading enterprise organisation to appoint a Conversational AI Designer to play a key role in designing and delivering next-generation, AI-driven customer experiences.
+
+This is an opportunity to move beyond traditional chatbot flows and lead the design and development of Agentic AI systems that can plan, reason and take action across complex booking and service platforms.
+If you’re excited by AI that doesn’t just respond but acts, this role is for you.
+
+The Opportunity
+You will design, build and optimise intelligent conversational systems across digital channels, with a strong focus on booking platforms, transactional workflows and automation at scale.
+Working within an agile delivery environment, you will collaborate with product, engineering, architecture and operational stakeholders to transform complex service journeys into scalable, AI-powered experiences.
+This role requires someone who understands how conversational AI operates inside large corporate ecosystems, particularly those with high-volume digital transactions and contact centre operations.
+
+Key Responsibilities
+Design and develop Agentic AI systems capable of multi-step reasoning, planning and workflow orchestration
+Translate business requirements into conversational architectures and automated service flows
+Design NLU models, prompt frameworks, dialog structures and decision trees
+Map and optimise end-to-end booking and transactional journeys
+Improve containment rates and reduce agent handling time through intelligent automation
+Analyse performance data and continuously optimise AI behaviour
+Collaborate with technical teams on API integrations, backend systems and orchestration layers
+Influence conversational AI standards and best practice across the organisation
+
+About You
+We’re open to diverse backgrounds including Conversation Design, UX, Service Design, Product, Business Analysis or Development — what matters is your ability to design systems that work in the real world.
+You will ideally bring:
+Experience designing conversational AI across chat, voice or messaging platforms
+Exposure to LLMs, NLU/NLP frameworks and prompt engineering
+Experience building or contributing to Agentic systems or multi-step automated workflows
+Experience working on booking platforms, transactional systems or high-volume digital services
+Experience in large corporate environments
+Exposure to contact centre technology (Genesys, Salesforce, Cognigy or similar) highly regarded
+Strong stakeholder engagement and workshop facilitation skills
+Ability to navigate ambiguity and turn complexity into structured, scalable solutions
+Why Apply
+This is an opportunity to work on enterprise-grade AI solutions that impact thousands of users daily. You will help shape how intelligent systems operate within complex corporate environments and contribute to the evolution of AI-driven customer engagement. If you’re ready to design AI that doesn’t just talk — but acts — we’d welcome a confidential discussion.
+This role also comes with fantastic employee benefits unique to the client. 
+
+
+We are an inclusive employer committed to fostering a diverse and accessible workplace. We encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, LGBTQIA+ individuals, people of all ages, and those from culturally and linguistically diverse backgrounds."
+90317954,Azure AI Solutions Architect - 100% remote.,Eagna Consulting,https://www.seek.com.au/job/90317954?type=standard&ref=search-standalone&origin=jobCard#sol=e03a0c1f7286afc9b2ae2ce2f482df43ab1f621b,3h ago,3.0,2026-02-12T23:00:00+00:00,Sydney NSW (Remote),Architects (Information & Communication Technology),Full time,Up To $240K,"Senior Azure AI Architect. GenAI & Agentic AI Permanent | 100% Remote | Government Projects. Security clearance Required.
+
+The Opportunity We are seeking a Senior Azure AI Architect to lead the design and delivery of Azure native Generative AI and agentic AI solutions across complex enterprise and government environments.
+
+This is a senior, hands-on architecture role requiring deep expertise in Python, Azure OpenAI, Semantic Kernel, and modern LLM orchestration patterns. You will shape AI strategy, lead technical direction, and deliver secure, scalable, production-grade solutions.
+
+If you’re passionate about building real-world AI systems at scale and influencing long-term transformation programs, this role offers genuine impact.
+Key Responsibilities
+Architect and implement Generative AI and agentic AI solutions on Microsoft Azure
+Build intelligent agents using Azure AI Semantic Kernel, vector memory, and orchestration patterns
+Design scalable AI pipelines, integrations, and model optimisation workflows
+Lead stakeholder workshops and define AI strategies aligned to government and enterprise objectives
+Provide architectural leadership and best-practice guidance to engineering and delivery teams
+Translate complex AI concepts into clear, commercially aligned solutions
+Skills & Experience
+10+ years’ IT experience, including 5+ years on Microsoft Azure
+Strong Python engineering skills for workflows and orchestration
+Hands-on experience with Azure AI Services, Azure OpenAI, Cognitive Search, and vector databases
+Practical experience with agentic AI, MLOps/LLMOps, CI/CD, and enterprise governance
+Experience working in distributed and containerised environments such as Kubernetes and Git
+Ability to engage confidently with senior business and technology stakeholders
+Desirable
+Microsoft Azure certifications such as AI-102, AZ-204, or Azure Solutions Architect
+Experience in data engineering and large-scale data processing including PySpark or Databricks"
+90317753,AI Engineer - Data,PERSOL,https://www.seek.com.au/job/90317753?type=standard&ref=search-standalone&origin=jobCard#sol=ace77eabade5f32fcd88229b341c1901224d608e,3h ago,3.0,2026-02-12T23:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Contract/Temp,$70-$90 per hour super,"PERSOL is one of Australia's largest and longest serving recruitment providers. Delivering both quality temporary and permanent options, we specialise in the recruitment of Professional, ICT, Government, STEM, Management and Executive talent.
+
+We are currently hiring for AI Engineer to join the Data & AI Platform team that design and operate the platforms, components, and workflows that support machine learning, GenAI, data-driven optimisation, and enterprise automation.
+
+As an AI Engineer / Developer, you will help build and operate AI platform-supporting traditional ML, LLM-based applications, orchestration frameworks, and end-to-end MLOps/LLM Ops processes. You'll work with data scientists, architects, and product teams to deliver reliable, integrated, and value-focused AI solutions across the business.
+
+Responsibilities
+
+Develop and maintain reusable AI components, APIs, microservices, and orchestration frameworks.
+Support the implementation of ML and GenAI architectures, including retrieval pipelines and agentic workflows.
+Build platform capabilities for model deployment, automation, monitoring, evaluation, and lifecycle management (MLOps & LLM Ops).
+Integrate AI services into business workflows, ensuring alignment with enterprise architecture, security, and data governance.
+Collaborate with cross-functional teams to deliver scalable and production-ready AI solutions.
+
+Experience Required
+
+Bachelor's degree in Computer Science, Engineering, Artificial Intelligence, or related field.
+Minimum 2+ years of experience in designing, developing and deliverin AI/ML systems, including cloud-native solutions.
+Software Engineering/Programming: Proficient in Python (essential). Familiarity with TypeScript/JavaScript, C#, or Go beneficial.
+ML/AI Frameworks: Practical experience with ML frameworks such as PyTorch, TensorFlow, Hugging Face, and LangChain.
+GenAI & RAG: Exposure to embedding models, vector stores, retrieval chains, and agentic orchestration approaches is desirable.
+Cloud & DevOps: Working knowledge of cloud platforms (AWS or Azure), containerization (Docker), orchestration (Kubernetes), infrastructure-as-code (Terraform), and familiarity with CI/CD processes and monitoring tools.
+
+If interested in this role please apply today or alternatively send your resume to Neema Mehra, neema.mehra@persolapac.com Please note that due to the high volume of applicants only shortlisted candidates will be contacted."
+90317584,"Data Engineers - Azure / Databricks - Fabric, Synapse Link, PowerBI",Novon,https://www.seek.com.au/job/90317584?type=standard&ref=search-standalone&origin=jobCard#sol=45b75370aa40b5fcc2ebf244bb3d4882264caf46,3h ago,3.0,2026-02-12T23:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"Are you a senior Data Engineer, immersed in data-driven projects that help organisations modernise their platforms and build scalable analytics solutions?
+
+Support our customers by designing and delivering data engineering solutions. Success will come from being proactive, clarifying requirements, and building trust with stakeholders while solving complex problems.
+
+Requirements:
+
+Design, Develop, Model and Optimise Databricks Lakehouse services
+Design, build, and test Data Services and Pipelines using DBT
+Ensure data quality, integrity, and platform reliability
+Build scalable solutions using modern, cloud-native tools
+Apply best practices around data security and compliance
+Monitor and improve data workflows and performance
+Technology / Tooling:
+
+Databricks
+DBT
+Synapse / Azure
+Synapse Link
+Power BI (preferable)
+
+About YOU: You’ll ideally bring min 5 years’ experience in data engineering roles and be confident deploying and maintaining Databricks Lakehouse on Azure. You’re a team player, curious, coachable, and love learning from others as much as teaching them.
+
+• Challenging Projects – You’ll be embedded in client teams helping deliver high-impact data engineering initiatives across ingestion, modelling, transformation, and governance.
+
+• Learn from Experts – Be part of a collaborative, knowledge-sharing consulting team that values mentorship, continuous learning and community."
+90317079,Data Engineer,Live Nation Australasia,https://www.seek.com.au/job/90317079?type=standard&ref=search-standalone&origin=jobCard#sol=751165aaa81da1d8acf83961639badac9ec8ffb2,3h ago,3.0,2026-02-12T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About Live Nation:
+Join the team at Live Nation, where innovation meets live entertainment on a global scale! With 40,000 shows and 500 million tickets sold each year, we’re the industry leader, powered by 44,000 talented individuals worldwide. At Live Nation, we’re passionate about transforming live events and creating extraordinary moments for artists, event professionals, and fans.
+
+
+
+
+About the Role:
+We’re looking for a Data Engineer (6-month contract) to play a key role in evolving our cloud data platforms across Live Nation Australia and New Zealand.
+
+Working within our AWS and Databricks environments, you’ll design, build, and optimise data pipelines that underpin reporting, business intelligence, marketing performance, and emerging AI initiatives. Your focus will be on data quality, scalability, and operational excellence – ensuring our teams can trust and leverage data at speed.
+
+This is a hands on role within a modern, cloud-first data ecosystem supporting millions of fan interactions and high impact commercial decisions.
+
+
+
+
+What you’ll be doing: 
+
+Pipeline development and operations: Build, maintain, and monitor data pipelines in AWS and Databricks, ingesting and transforming data from ticketing, POS, access systems, subscriptions, and marketing platforms to support analytics and AI/ML use cases.
+
+Data quality and governance: Ensure data integrity, security, and availability across first-party and partner sources while contributing to governance standards including access controls, naming conventions, and documentation.
+
+Analytics and modelling: Develop and maintain modelled datasets for BI, segmentation, and downstream use cases, supporting reliable reporting and business decision-making.
+
+AI/ML enablement: Prepare production-ready datasets and features for predictive models including propensity, churn, demand, and lifecycle use cases.
+
+Platform monitoring and optimisation: Monitor pipeline health and platform usage, escalating performance or reliability issues and assisting with onboarding new data sources as business needs evolve.
+
+Cross-functional collaboration: Act as the day-to-day engineering voice within projects, translating business requirements into practical data solutions while maintaining clear technical documentation and runbooks.
+
+
+
+
+What we’re looking for:
+
+Cloud and platform expertise: Strong hands-on experience with AWS (S3, IAM, cost awareness) and Databricks (Jobs, Workflows, Lakehouse concepts), with solid Apache Spark proficiency in SQL and DataFrame APIs.
+
+Production-level SQL and Python: Strong, production-ready skills in SQL and Python for complex data transformations, pipeline orchestration, and large-scale data processing.
+
+Data modelling and pipeline reliability: Experience building data models for analytics and segmentation, with a strong focus on data quality, validation, pipeline monitoring, and operational support to maintain high availability.
+
+Security and governance mindset: Familiarity with secure data access practices including secure views, Delta Sharing, and RBAC, along with a commitment to clear documentation and governance standards.
+
+AI/ML dataset preparation: Ability to prepare datasets and features for predictive and machine learning use cases, understanding how to structure data for effective model training and deployment.
+
+Practical problem-solver: A solutions-focused engineer who communicates clearly, documents thoroughly, and enjoys working across teams to turn complex requirements into reliable data solutions.
+
+
+
+Equal Opportunities: 
+We are passionate and committed to our people and go beyond the rhetoric of diversity and inclusion. You will be working in an inclusive environment and be encouraged to bring your whole self to work. We will do all that we can to help you successfully balance your work and Homelife. As a growing business, we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with. It's talent that matters to us and we encourage applications from people irrespective of their gender, race, sexual orientation, religion, age, disability status or caring responsibilities."
+90293890,Senior MLOps Engineer,"TRU Recognition AI Pty Ltd,",https://www.seek.com.au/job/90293890?type=standard&ref=search-standalone&origin=jobCard#sol=69f7ee3052b26b6b953294e0ec8f8c4879689541,4h ago,4.0,2026-02-12T22:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Role Overview
+
+As a Senior–Staff–Principal MLOps Engineer, you will own the end-to-end ML systems lifecycle at TRU: training, evaluation, deployment, monitoring, and continuous improvement of production models.
+
+This is not a support role. You will design the ML platform itself—setting standards, defining architecture, and making trade-offs that directly affect product performance, cost, and customer trust.
+
+You will work tightly with Computer Vision, Backend, and Product teams to ensure that experimentation translates into stable, observable, and scalable production systems.
+
+Key Responsibilities
+Foundation Model Ops
+
+Design deployment patterns for LLM/VLM inference (GPU scheduling, concurrency control, caching, batching, streaming responses where relevant).
+
+Implement RAG and multimodal retrieval pipelines (vector DBs, embedding lifecycle, evaluation, refresh policies).
+
+Build evaluation harnesses for LLM/VLM systems (golden sets, regression tests, hallucination/consistency checks, safety filters).
+
+Support fine-tuning / adapters (LoRA/QLoRA), model registry, and rollback-safe release processes.
+
+Own cost/performance governance for foundation models (latency SLOs, token/image cost budgets, GPU utilization).
+
+ML Platform & Deployment
+
+Design and operate CI/CD pipelines for ML training, validation, and deployment (GitHub Actions, GitLab CI, Jenkins).
+
+Build and maintain scalable, GPU-backed model serving infrastructure (Triton, TorchServe, FastAPI/gRPC, or managed services).
+
+Own containerization and Kubernetes deployment patterns for inference and batch workloads.
+
+Data & Streaming Systems
+
+Design and operate real-time, event-driven pipelines using Kafka / Redpanda / Pulsar / Kinesis / Pub/Sub / NATS.
+Implement and tune stream processing frameworks (Flink, Beam, Spark Structured Streaming) for low-latency analytics.
+
+Enforce data contracts, schemas, and lineage across training and inference paths.
+
+Model Lifecycle & Observability
+
+Implement experiment tracking, model versioning, and lineage (MLflow, W&B, DVC, custom).
+
+Build automated retraining and continuous evaluation pipelines.
+
+Own observability across infrastructure and model behavior (latency, throughput, drift, quality metrics).
+Design alerting and dashboards (Prometheus, Grafana, Datadog).
+
+Performance & Reliability
+
+Collaborate with CV engineers to optimize GPU inference (batching, concurrency, memory, profiling).
+
+Drive cost/performance trade-offs across cloud, hybrid, and on-prem deployments.
+
+Ensure secure, reproducible, and auditable ML releases.
+
+Leadership
+
+Act as a technical authority for MLOps architecture.
+
+Mentor junior engineers and influence engineering best practices across teams.
+
+Required Skills & Experience
+
+5+ years in MLOps / ML Platform / DevOps for ML, with deep Python experience.
+
+Strong production experience with Docker and Kubernetes.
+
+Proven operation of real-time or near-real-time streaming systems.
+
+Hands-on production model serving experience, including GPU workloads.
+
+CI/CD, IaC (Terraform, Helm), and experience on AWS, GCP, or Azure.
+
+Strong systems thinking and cross-team communication skills.
+
+Nice to Have
+
+CUDA, TensorRT, mixed precision, quantization, or model optimization for edge.
+
+vLLM / TensorRT-LLM / Triton for LLMs, KV-cache management.
+
+Multimodal pipelines (image/video + text), prompt/version management, LLM eval tooling (custom or open-source).
+
+Experience deploying foundation models in on-prem / constrained / privacy-sensitive environments.
+
+Video analytics or large-scale computer vision systems.
+
+On-prem / air-gapped deployments, secure model packaging, encryption.
+
+Data governance and lakehouse technologies (Delta, Iceberg, Hudi)."
+90316562,Data Engineer,Charterhouse,https://www.seek.com.au/job/90316562?type=standard&ref=search-standalone&origin=jobCard#sol=2f5918ea3d2078a53f8acc46d2fcb1f353ff770b,4h ago,4.0,2026-02-12T22:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,AUD 140000 - 160000 per annum,"About the Role
 
 We’re working with a high-growth, technology-led financial services organisation building a modern Data & AI Platform that underpins analytics, machine learning, and emerging AI-driven capabilities across the business.
 As a Data Engineer, you’ll play a pivotal role in designing and scaling the pipelines, infrastructure, and data products that power business intelligence, advanced analytics, and AI experimentation.
@@ -43,7 +741,7 @@ Additional wellbeing and recharge days
 Team-based volunteer initiatives
 Regular social events and collaborative team culture
 Health and wellness support initiatives"
-90316402,Data & AI Engineer,Charterhouse,https://www.seek.com.au/job/90316402?type=standard&ref=search-standalone&origin=jobCard#sol=a5441ee3cff38991475fa8755f5761deaf6e69e2,1h ago,1.0,2026-02-12T22:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,AUD 140000 - 160000 per annum,"About the Role
+90316402,Data & AI Engineer,Charterhouse,https://www.seek.com.au/job/90316402?type=standard&ref=search-standalone&origin=jobCard#sol=82d36e2735e1e86a346958f725363430019a23e6,4h ago,4.0,2026-02-12T22:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,AUD 140000 - 160000 per annum,"About the Role
 
 We’re partnering with a high-growth, technology-led financial services organisation building a modern Data & AI Platform to power analytics, machine learning, and next-generation AI capabilities across the business.
 This is a hands-on engineering role within a small, high-impact team responsible for designing and scaling the foundations that enable trusted data, advanced analytics, and production-grade AI solutions.
@@ -91,7 +789,7 @@ Work on real-world AI use cases beyond experimentation
 Influence architecture in a growing data and AI platform
 Join a lean, high-impact team with strong executive backing
 Build systems that directly power product innovation and business growth"
-90316044,Senior Machine Learning Engineer - Design Import (ANZ remote),Canva,https://www.seek.com.au/job/90316044?type=standard&ref=search-standalone&origin=jobCard#sol=d5b2bc90eaea655eb39fc5334219e2ab8220afcc,1h ago,1.0,2026-02-12T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+90316044,Senior Machine Learning Engineer - Design Import (ANZ remote),Canva,https://www.seek.com.au/job/90316044?type=standard&ref=search-standalone&origin=jobCard#sol=3dbb688cf2df7ec947b7ba383680ac594aa897ab,5h ago,5.0,2026-02-12T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -179,7 +877,7 @@ Check out  lifeatcanva.com for more info.
 Other stuff to know
 
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process."
-90315793,Senior AI Research Computing Engineer,Monash University,https://www.seek.com.au/job/90315793?type=standard&ref=search-standalone&origin=jobCard#sol=55e778b74207c4f325eae32ea19f36deff4df99f,2h ago,2.0,2026-02-12T21:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+90315793,Senior AI Research Computing Engineer,Monash University,https://www.seek.com.au/job/90315793?type=standard&ref=search-standalone&origin=jobCard#sol=09004c72a735ce71616b6e03505836327d0fbeed,5h ago,5.0,2026-02-12T21:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,"$140,157 - $148,769 pa HEW Level 09 plus 17% super","Job No.: 686114
 
 Location: Clayton campus
