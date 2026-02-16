@@ -1,5 +1,537 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90361250,Principal Data and Application Engineer,City of Moreton Bay,https://www.seek.com.au/job/90361250?type=standard&ref=search-standalone&origin=jobCard#sol=1d5c186c9a30096f38afd17b32c815f139ace832,1h ago,1.0,2026-02-16T04:00:00+00:00,"Strathpine, Brisbane QLD (Hybrid)","Engineering - Software (Information & Communication Technology)
+90364677,Azure Integration Engineer,Latitude IT,https://www.seek.com.au/job/90364677?type=standard&ref=search-standalone&origin=jobCard#sol=5a0b7f614e5de7078ee8f64ff801f982cf6c40f1,1h ago,1.0,2026-02-16T06:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"We’re partnering with a well-established organisation delivering large-scale digital services across Australia. They are investing heavily in their Azure ecosystem and are looking for an Integration Engineer to become a key technical owner within a growing internal team.
+  
+This is a role for someone who likes variety; part solution delivery, part automation, and part platform reliability.
+  
+What You’ll Be Doing
+You’ll work across a modern Microsoft cloud environment, helping teams connect systems, streamline data flows, and improve deployment maturity. Expect a mix of project delivery and ongoing platform enhancement rather than pure support work.
+  
+Typical activities include:
+
+Creating and enhancing API and workflow integrations
+Automating deployments and improving release pipelines
+Supporting messaging and event-driven services
+Investigating and resolving production incidents
+Strengthening monitoring, alerting, and performance visibility
+Partnering with developers and architects to design practical, scalable solutions
+Improving documentation and engineering standards
+Tech Environment
+You don’t need to know everything, but strong exposure to most of the following is ideal:
+
+Azure Logic Apps & Azure Functions
+API Management platforms and API security practices
+Messaging/event services such as Service Bus or Event Grid
+CI/CD tooling (Azure DevOps, GitHub Actions, or similar)
+Infrastructure as Code - Bicep, ARM, or Terraform
+.NET / C# or similar development background
+SQL or data-centric integration experience
+The Kind of Engineer Who Will Thrive
+
+Comfortable working across both delivery and operational support
+Enjoys troubleshooting and improving existing systems
+Able to work independently but values collaboration
+Practical mindset - focuses on outcomes, not over-engineering
+Experience in mid-to-large enterprise environments is beneficial
+Interested?
+Email: Derekmccormack@latitudeit.com.au for more info"
+90364473,Solution Engineer / Designer – Data Platforms,Kirra Services pty ltd,https://www.seek.com.au/job/90364473?type=standard&ref=search-standalone&origin=jobCard#sol=613dc7ea66e1ad4148e8d0190d19b3f65c733b2d,1h ago,1.0,2026-02-16T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the Role
+
+An opportunity exists for an experienced Solution Engineer / Designer to lead the end-to-end design and delivery of modern data solutions within complex enterprise environments. This role sits at the intersection of data engineering, analytics platforms, cloud architecture, and project delivery.
+
+The position is responsible for designing scalable, future-ready data solutions—from source system extraction and ingestion through to transformation and the creation of reusable, governed data assets for analytics, reporting, and AI use cases.
+
+This is a senior, client-facing role requiring strong technical depth, architecture capability, and the ability to lead solution design in complex financial services environments.
+
+Key Responsibilities
+
+Design, develop, test, and support end-to-end data solutions across batch and near real-time pipelines
+
+Lead solution architecture across data ingestion, transformation, modelling, and consumption layers
+
+Deliver big data and cloud-based data lake platforms
+
+Develop Proof of Concepts and working demonstrations
+
+Collaborate with client architects and internal delivery teams to own solution outcomes
+
+Provide technical leadership and troubleshooting support in complex enterprise environments
+
+Conduct workshops and contribute to consulting and delivery engagements
+
+Mentor junior consultants within delivery teams
+
+Present and defend architectural decisions in large forums and stakeholder sessions
+
+Essential Experience & Skills
+
+Demonstrated delivery experience across big data platforms
+
+Proven experience delivering cloud data lake solutions (Azure preferred)
+
+Strong hands-on expertise in Hadoop, Apache Spark (PySpark), Python
+
+Advanced data transformation experience (3+ years)
+
+Data quality analysis and remediation experience (3+ years)
+
+Unix/Linux hands-on experience (3+ years)
+
+7+ years’ experience designing and engineering complex data solutions
+
+Experience presenting solution designs and architecture to senior stakeholders
+
+Experience working within large, complex financial services environments (banking preferred)
+
+Strong written and verbal communication skills
+
+Ability to work autonomously and manage competing priorities in fast-paced environments
+
+Desirable
+
+Understanding of Data Mesh architecture and domain-oriented data products
+
+Data modelling expertise (Entity Relationship Modelling, 3NF, Dimensional Modelling)
+
+Experience with Atlassian toolset (JIRA, Confluence, Bitbucket)
+
+Exposure to ML/AI-enabled data platforms
+
+Qualifications
+
+Tertiary qualification in Computer Science, Engineering, or equivalent practical experience in data and technology delivery."
+90363806,Data Engineer,Bluefin Resources Pty Limited,https://www.seek.com.au/job/90363806?type=standard&ref=search-standalone&origin=jobCard#sol=f21c24d1615b4d9daf73d04341b3ec23e4d2e948,1h ago,1.0,2026-02-16T06:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Part time,Competitive,"Overview We’re partnering with a leading client to hire a Data Engineer who thrives in fast-paced, delivery-focused environments and enjoys working across modern cloud data platforms. This contract role can be based in Adelaide or Melbourne, and will be part time (3 days per week).
+
+Responsibilities 
+Designing and building robust data pipelines end-to-end
+Developing scalable data models to support analytics and reporting
+
+
+Working across cloud platforms to enable modern data and AI use cases
+
+
+Collaborating with stakeholders, analysts, and architects in a consulting delivery model
+
+
+Supporting uplift programs across data platforms, governance, and migration initiatives
+
+
+Skills You’ll have hands-on experience across:
+
+
+Python for data engineering and automation
+
+
+Strong SQL for transformation, modelling, and performance tuning
+
+
+Microsoft Azure data ecosystem
+
+
+Microsoft Fabric (Lakehouse, Pipelines, Warehousing)
+
+
+Databricks (Spark, Delta, modern ELT workflows)
+Proven experience delivering data engineering solutions in consulting or complex enterprise environments
+Strong communication skills and ability to work client-facing
+
+
+A practical, delivery-oriented mindset — someone who builds, not just designs
+
+
+Experience with modern engineering practices (CI/CD, orchestration, data quality) is a plus
+
+For a confidential discussion about the role, please reach out to Pat via pat@bluefinresources.com.au."
+90362052,Senior Integration Engineer,Bueno,https://www.seek.com.au/job/90362052?type=standard&ref=search-standalone&origin=jobCard#sol=d95c8cd333847ff6c5e4d64889cbbb9a3904d99c,2h ago,2.0,2026-02-16T05:00:00+00:00,Melbourne VIC (Hybrid),Building Services Engineering (Engineering),Full time,,"Senior Integration Engineer
+
+Location: Melbourne, VIC (Hybrid/Office-Based)
+
+Experience: 5+ years in BMS, Master Systems Integration (MSI), Integrated Service Platforms (ISP), OT Network Engineering
+
+
+The Role: Your Impact
+
+We are looking for an experienced Senior Integration Engineer to join our Australian operations. You will be the technical specialist linking complex physical building systems (BMS, HVAC, EMS, etc.) with our cutting-edge cloud analytics platform.
+
+
+This isn't just a ""BMS tech"" role. You will own the full integration lifecycle, from complex network architecture to deployment ensuring high-fidelity data flow to the cloud. You’ll leverage your deep knowledge of industry protocols and network engineering to solve the ""last mile"" challenges of smart building technology.
+
+
+Key Responsibilities & Deliverables
+
+As the Australian-based subject matter expert, you will be responsible for technical execution and project coordination.
+
+Technical Ownership & Core Integration
+
+System Ownership: Act as the Integration Specialist in Deployment Team, owning the technical process for connecting client building data to the Bueno platform on a portfolio rollout.
+
+Solution Design: Evaluate and design best-practice integration approaches based on site-specific conditions, IT/Cyber Security policies, and deployment readiness.
+
+Network Engineering: Work directly with client IT/OT departments/Vendor to navigate cybersecurity requirements, request firewall rules changes, and ensure secure outbound connectivity.
+
+Edge & Gateway Management: Install and configure physical or virtual edge devices in Linux (Ubuntu) environments, including Niagara framework configurations where required.
+
+Data Quality & Verification: Ensure integration integrity by performing network health checks (BACnet scans/Wireshark) and verifying objects against design schematics. Own the final data modelling and platform referencing process to ensure accurate, high-fidelity data before handover.
+
+
+
+
+Deployment & Coordination Focus
+
+Stakeholder Alignment: Participate in all project coordination meetings (e.g., Project Kick-Off, recurring progress meetings) to ensure technical alignment across all internal and external teams.
+
+Issue Resolution: Coordinate with technical stakeholders to proactively resolve integration issues, maintain project progress, and confirm deployment readiness.
+
+Documentation & Knowledge Transfer: Prepare and maintain up-to-date deployment documentation and internal records. Ensure a smooth handover of all relevant information to operational or support teams, and provide post-deployment support during the transition and warranty phases.
+
+Process Improvement: Identify and suggest improvements to deployment tools, processes, and documentation, and promote knowledge sharing across the broader engineering and service teams.
+
+
+Required Skills & Experience
+
+Experience: 5+ years of progressive, hands-on experience in a dedicated MSI, Advanced BMS, or Network Engineering role.
+
+BMS Expertise: Deep working knowledge of major platforms (e.g., Siemens, Honeywell, Tridium/Niagara, Alerton, and Schneider) and protocols (BACnet, Modbus, MQTT, API).
+
+Network Engineering: Strong understanding of IT networking (IP addressing, subnets, VLANs, and VPNs) and cybersecurity standards.
+
+Linux Proficiency: Practical experience with Linux environments (specifically Ubuntu LTS) for remote device deployment.
+
+
+Cultural fit and alignment with Bueno’s values.
+
+At Bueno Analytics, our values aren't just words – they guide how we work, build our products, and support each other every day.
+
+Empower People - We build tools and share insights that help people think smarter and act sustainably. We also grow together—through mentoring, learning, and playing to each other’s strengths.
+
+See the Bigger Picture - Real progress happens when systems work as one. We think beyond silos and connect people, processes, and platforms to drive change at scale.
+
+Champion Quality - We never cut corners. From product to delivery, we hold ourselves to the highest standard—because quality drives real, lasting impact.
+
+Walk in the Customer’s Shoes - We lead with empathy. Our solutions start with understanding customer pain points and meeting them with practical, confident answers.
+
+Bring Your True Self - We’re honest, human, and ego-free. Our culture values authenticity and real results over noise, because the planet can’t wait for posturing.
+
+
+
+
+Why Join Us?
+
+Lead the Market: Work for the industry leader in data-driven building performance.
+
+Values-Driven: We are a team that values authenticity, quality, and seeing the ""bigger picture"" for the planet.
+
+Flexibility: While we prefer a Melbourne-based candidate for local collaboration, we offer a flexible, hybrid work environment.
+
+Impact: Your work directly contributes to reducing the carbon footprint of the built environment.
+
+
+
+
+Find out about us more at https://buenoanalytics.com/"
+90362041,Principal Software Engineer,Commonwealth Bank,https://www.seek.com.au/job/90362041?type=standard&ref=search-standalone&origin=jobCard#sol=cb6964c8cfe376ff25b8e3ef0182b85ba19f3c2b,2h ago,2.0,2026-02-16T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Principal Software Engineer
+
+ You are passionate about building intelligent, resilient, and always-available platforms that power customer conversations at scale. You thrive at the intersection of engineering excellence and AI innovation, shaping technical direction while staying close to complex, hands-on delivery.
+
+ 
+
+Do work that matters 
+
+We’re on a mission to transform tomorrow’s bank today. Our Customer Service Delivery (CSD) team is reimagining how millions of customers interact with the bank across self-service and assisted channels.
+
+ The Galaxy Programme is a three-year strategic initiative enabling AI across all CSD channels — spanning customer, support, and assist experiences. At its core is the transformation of our self-service capabilities through advanced chat and voice bots, moving from legacy IVR to intelligent, AI-powered conversational platforms.
+
+ As a Principal Engineer in AI Self-Service, you’ll play a critical role in shaping the future of conversational banking. Your primary focus will be leading the engineering direction of our voice bot platform, driving the migration from our legacy Genesys IVR to a modern, AI-enabled solution.
+
+See yourself in our team
+
+ You’ll join the Self-Service Experiences crew — a growing, high-impact engineering group.
+
+Our crew is responsible for:
+
+Customer chat and voice bots
+
+Agentic orchestration and generative AI enablement
+
+Multilingual and multimodal conversational capabilities
+
+Seamless handoffs between self-service and agent experiences
+
+We work closely with the Agent Experiences crew and broader Contact Centre transformation teams to ensure consistent, intelligent, and reliable customer journeys across automated and assisted channels.
+
+ As Principal Engineer, you’ll operate across two squads, partnering closely with other engineering leaders to uplift standards, drive technical objectives, and modernise our architecture.
+
+What you’ll do
+
+Provide technical leadership and architectural direction across AI Self-Service, with a strong focus on voice bot migration
+
+Lead the transition from legacy IVR to an AI-enabled voice platform, ensuring stability, scalability, and cost efficiency
+
+Design low-latency, highly available conversational systems suitable for high-volume voice interactions
+
+Drive enterprise-aligned architecture decisions, respecting service domain boundaries and integration patterns
+
+Advance agentic orchestration and generative AI capabilities within chat and voice experiences
+
+Uplift engineering practices across squads — including CI/CD, DevSecOps, testing, observability, and reliability
+
+Embed security, risk, and compliance considerations into conversational and AI system design
+
+Mentor engineers and influence technical strategy across crews without formal authority
+
+What we’re looking for
+
+We’re interested in hearing from people who have:
+
+Proven experience delivering large-scale, distributed systems in complex or regulated environments
+
+Strong backend engineering experience (with full-stack exposure advantageous)
+
+Experience building and operating microservices in cloud-native environments
+
+A deep appreciation for performance and latency considerations — particularly in real-time or voice-based systems
+
+Experience modernising legacy platforms while balancing delivery risk and operational stability
+
+The ability to operate across multiple squads and influence technical outcomes at crew level
+
+Strong enterprise architecture awareness, including domain boundaries and integration complexity
+
+
+
+
+Highly regarded:
+
+Experience with conversational AI, voice platforms, or contact centre technologies
+
+Exposure to generative AI platforms (e.g., OpenAI, Copilot Studio) and agentic orchestration patterns
+
+Experience supporting high-volume, customer-facing digital or conversational platforms
+
+Skills & technologies
+
+We use a broad range of tools and platforms. You don’t need to know them all, but experience with some of the following will set you up for success:
+
+Backend & Services:
+
+Any other programming language such as .Net, Nodejs, Python or Java etc.
+
+Cloud:
+
+Azure and/or AWS (experience with any major cloud provider is valued)
+
+Architecture & Engineering:
+
+Microservices and API-driven design
+
+DevSecOps practices
+
+CI/CD pipelines
+
+Observability and operational readiness
+
+AI & Automation (desirable):
+
+Generative AI platforms
+
+Conversational AI frameworks
+
+Agentic orchestration patterns
+
+If you’re excited by the challenge of transforming conversational banking at scale — and want to lead one of the most visible AI modernisation initiatives in the bank — we’d love to hear from you.
+
+
+
+
+Apply today!"
+90362031,Principal Data Engineer - Fabric,City of Moreton Bay,https://www.seek.com.au/job/90362031?type=standard&ref=search-standalone&origin=jobCard#sol=ead9d2a7f1e405b148c1f49ca58808832b22f1f9,2h ago,2.0,2026-02-16T05:00:00+00:00,"Strathpine, Brisbane QLD (Hybrid)","Engineering - Software (Information & Communication Technology)
+Government - Local (Government & Defence)",Full time,"From $117,900pa +super +9 day fortnight (RDO)","The details: 
+
+Permanent Full Time | 9 day fortnight
+$117,990pa up to $125,339pa + 12% super (level 7)
+72.5 hour fortnight
+Hybrid, flexible working environment, including some work from home days.
+Location: Strathpine, close to train station and onsite parking
+
+Join City of Moreton Bay as a Principal Data Engineer and help shape and enhance our communities for today and tomorrow.
+
+The City of Moreton Bay is embarking on one of the most ambitious digital transformation programs in local government. At the centre is our City Brain initiative, a bold vision to unify data, intelligence, and innovation to better serve our community.
+
+We’re looking for a Principal Data Engineer (Microsoft Fabric) who will be the technical authority and driving force behind our modern data ecosystem. If you're passionate about architecture, governance, and building scalable, high-impact data platforms, this is the role where you’ll shape the future.
+
+As our Principal Data Engineer, you will lead the end-to-end design, governance, and optimisation of the Microsoft Fabric platform, ensuring OneLake becomes the trusted, unified data foundation powering analytics, Copilot, AI/ML, and real-time insights across the council.
+
+You’ll guide the operational model, champion engineering excellence, and build high-performing data products and pipelines that enable smarter decisions for the City.
+
+Key responsibilities include:
+
+Oversee workspace design, capacity planning and cost management.
+Implement enterprise data governance and security using Microsoft Purview.
+Build scalable data products and high-performance ETL/ELT pipelines.
+Optimise Spark workloads and ensure reliable DataOps monitoring and SLAs.
+Modernise legacy data pipelines and migrate workloads into Fabric.
+Support AI/ML by enabling feature stores and MLOps workflows.
+Lead API and integration standards and own Fabric CI/CD processes.
+Set engineering standards, mentor the team and drive innovation across Fabric.
+Design, own, and govern enterprise-grade semantic models in Microsoft Fabric, ensuring consistent business definitions, performance optimisation, security, and reuse across analytics, Power BI, and AI workloads.
+Partner with senior stakeholders, vendors and Microsoft specialists to deliver enterprise data platform outcomes.
+
+To succeed in this role, you will have:
+
+Significant hands on data engineering expertise, supported by solid leadership experience in advanced technical roles.
+Advanced technical capability across the Microsoft Fabric ecosystem (OneLake, Lakehouse/Delta, Spark, Data Factory, Eventstreams, Power BI).
+Strong Python and SQL proficiency.
+Expertise in Purview governance, hybrid ingestion patterns, and distributed systems.
+Experience with CI/CD, DataOps, and IaC practices.
+Ability to influence, mentor, and lead multidisciplinary teams.
+Experience with MLOps, feature engineering, and geospatial data (highly desirable).
+Microsoft certifications beneficial or in progress.
+
+ Position Description_Principal Data Engineer - Fabric.pdf
+
+Why City of Moreton Bay?
+
+What you do with your life matters. It’s the same with your career.
+
+We’re the third-largest council in Australia and one of the fastest-growing areas. As Australia’s newest city, we’re building something that’s never been done before: a new kind of city, inspired and empowered by a new kind of council.
+
+This is your opportunity to develop skills and experience in a truly unique place, at a truly unique point in time.
+
+At City of Moreton Bay, we’re focused on the vital work we do today. But we’re also focused on the future. On what can be – for our city, our Council and your career.
+
+Here’s what you’ll love about a career with us:
+
+See it. To build a city of the future, first, you have to see it. The polycentric city we’re building will bring greater prosperity, sustainability and affordability to our city. This is your chance to contribute to something that’s never been done before.
+Shape it. You’ll get hands-on in a rewarding career, serving and strengthening our communities for today and tomorrow. Our work is diverse, interesting and it matters – and it’s yours to shape and own.
+Live it. Contribute to the city you and your family want to live in and enjoy the lifestyle you deserve. And if you don’t live here, you’ll still find pride and connection in so many ways with our successful, resilient team.
+
+You’ll also enjoy a range of other benefits:
+
+Find a better work-life balance with a nine-day (72.5-hour) fortnight, plus a hybrid, flexible working environment with some work-from-home days.
+Negotiated salary increases locked in through our EBA - 4% in July 2026 and a further 4% in July 2027 (or CPI capped at 4.5%, whichever is greater).
+Advance your skills and career through our Study, Training And Research Scheme (STARS).
+Make your pay go further with salary packaging options on novated leases, superannuation payments, smartphones and devices.
+Prioritise your health and wellbeing with discounted health insurance, free annual flu vaccinations and our Fitness Passport Program.
+Get support when you and your family need it most with our 24/7 confidential counselling service, leader support hotline and Mates in Construction program.
+Our Strathpine office has local parking on site and is close to public transport networks, making for an easy commute.
+
+Ready for a career that matters?
+
+Join City of Moreton Bay, and help shape our city of the future.
+
+Click on the 'Apply Now' button below to complete your online application. Please upload a current resume that demonstrates how you meet the requirements for this role.  You will also have the option to add a cover letter should you wish.
+
+As part of the recruitment process, applicants will be required to undergo a National Criminal History Check.
+
+To obtain further details please contact our Careers team at careers@moretonbay.qld.gov.au. 
+
+For more information about City of Moreton Bay and to stay across what's happening in our city, follow us on LinkedIn.
+
+Your Future City.
+See it. Shape it. Live It.
+
+City of Moreton Bay extends across the traditional lands of the Jinibara, Kabi Kabi, and Turrbal peoples, and we acknowledge and pay respects to Traditional Custodians. We believe diversity of thought, background and experience creates better outcomes for our people and communities, and we strongly encourage applications from Aboriginal and Torres Strait Islander peoples and people of all ages, genders, abilities and cultural backgrounds."
+89863383,Automation Engineer / Robot Programmer,Private Advertiser,https://www.seek.com.au/job/89863383?type=standard&ref=search-standalone&origin=jobCard#sol=bc91f3a56331658e0f0a6ef7fc5445aa861fa251,2h ago,2.0,2026-02-16T05:00:00+00:00,"Eagle Farm, Brisbane QLD (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,"$120,000 – $140,000 per year","Our client ""Industrial Automation Australia"" is seeking an Automation Engineer / Robot Programmer to join their team!
+
+This is an exceptional opportunity for a top-tier robotics professional to join one of Australia's fastest-growing automation firms. You'll work on cutting-edge robotic systems and automation solutions for leading manufacturers, taking on complex technical challenges that will shape the future of Australian industry. This senior, well-compensated role offers the chance to work with world-class KUKA robotics technology and lead innovative automation projects from concept to commissioning.
+
+About Our Client
+
+Industrial Automation Australia (IAA) is one of the fastest-growing robotics and automation firms in the country. Based in Brisbane with decades of engineering and fabrication experience, they design and deliver cutting-edge robotic systems, automation cells, and advanced manufacturing solutions to leading manufacturers across Australia. Their comprehensive capabilities span concept design, 3D simulation, fabrication, robotic integration, programming, and commissioning. As a KUKA Robotics partner, IAA is currently rolling out pilot projects with world-class automation technology that redefine how Australian manufacturers work.
+
+What you'll be doing?
+
+Robot Programming Excellence - Program and optimize industrial robots using advanced techniques, with preference for KUKA systems, ensuring peak performance across complex automation projects
+
+System Integration Leadership - Design, integrate, and commission complete robotic automation systems from initial concept through to fully operational production lines
+
+Technical Problem Solving - Apply high-level problem-solving skills to overcome complex technical challenges and optimize robotic system performance
+
+Electrical Implementation - Undertake electrical hookup, wiring, and comprehensive testing of sophisticated robotic systems
+
+Quality Assurance - Lead FAT and SAT processes to ensure automation projects meet the highest standards and client expectations
+
+Team Development - Guide and potentially manage small technical teams, sharing expertise and fostering professional growth
+
+Simulation and Programming - Utilize robot simulation software and offline programming to develop efficient, reliable automation solutions
+
+Who are they looking for?
+
+Extensive Robotics Experience - Minimum 5+ years of hands-on experience programming industrial robots, demonstrating proven expertise in complex automation projects
+
+KUKA Expertise Preferred - Strong capability with KUKA robotics systems, though exceptional candidates with other platforms will be considered
+
+PLC Integration Skills - Solid understanding of PLC programming and integration to ensure seamless automation system operation
+
+Simulation Proficiency - Experience with robot simulation software and offline programming techniques for efficient project development
+
+System Assembly Expertise - Proven track record in assembling, testing, and optimizing complete robotic systems from ground up
+
+Australian Residency - Must already be based in Australia, with interstate relocation support available for exceptional candidates
+
+Leadership Potential - Demonstrated ability to guide teams and take ownership of complex technical projects
+
+Why you should consider this opportunity?
+
+Our client offers an attractive remuneration package and other benefits, such as:
+
+Competitive Senior-Level Salary - Well-paid position reflecting the high-level expertise and experience required
+
+Cutting-Edge Technology Access - Work with world-class KUKA robotics technology and advanced automation systems
+
+Career Growth Potential - Leadership opportunities with ability to guide and manage technical teams
+
+Diverse Project Portfolio - Exposure to complex, high-profile automation projects across various industries
+
+Interstate Relocation Support - Assistance with relocation for exceptional candidates from other states
+
+Fast-Growing Company Environment - Join a rapidly expanding firm with significant growth opportunities
+
+Technical Challenge Variety - Work on projects spanning concept design through to full commissioning
+
+Industry Leadership Role - Contribute to redefining how Australian manufacturers operate through innovative automation
+
+How to apply
+
+Ready to join this role? Click Apply now to submit your resume and share your availability and expected salary with us!
+
+We encourage applications from all qualified professionals who are passionate about robotics and automation technology.
+
+All information received will be kept strictly confidential and will be used only for employment-related purposes."
+90361848,Principal Reliability & Observability Engineer,Peoplebank Australia NSW,https://www.seek.com.au/job/90361848?type=standard&ref=search-standalone&origin=jobCard#sol=4f6380cbac17da7de960c01a0cf7c675c16f9f09,2h ago,2.0,2026-02-16T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"A high-growth, ASX-listed financial technology organisation is seeking a Principal Reliability & Observability Engineer to lead the evolution of enterprise reliability, observability and AIOps capability across mission-critical systems.
+This is a strategic principal-level role focused on building scalable, resilient platforms and embedding intelligent operational visibility across distributed cloud environments. You will operate at the intersection of platform engineering, SRE, infrastructure and AI-driven operational intelligence, shaping standards, driving alignment and influencing reliability outcomes across the business.
+
+Job Responsibilities
+
+Design and implement enterprise-wide observability architecture across cloud and distributed systems
+Establish best practice standards for metrics, logs, traces, dashboards and alerting
+Define and monitor performance indicators including latency, traffic, errors and saturation
+Drive AIOps capability including anomaly detection, predictive monitoring and intelligent incident correlation
+Build and scale telemetry pipelines capable of handling high-volume, real-time data
+Architect automation and auto-remediation workflows to reduce operational toil
+Partner with Engineering, DevOps, SRE, Network and Product teams to uplift reliability maturity
+Provide technical leadership and peer review across scalability, performance and resilience
+This is a principal-level engineering position with real influence over system health, customer experience and platform stability.
+
+Knowledge & Experience
+
+10+ years’ experience across software engineering, DevOps, SRE or platform operations
+Proven experience designing and operating large-scale distributed systems
+Strong experience with observability tooling and telemetry frameworks
+Deep understanding of cloud infrastructure, Kubernetes, containerisation and microservices
+Experience building scalable monitoring and metrics pipelines
+Exposure to ML or AI-driven anomaly detection within operational environments
+Experience implementing automation and self-healing workflows
+Ability to influence senior stakeholders and articulate technical strategy in commercial terms
+You are a systems thinker who designs for scale and reliability.
+You see patterns in complexity.
+You care about engineering excellence and measurable impact.
+
+Why This Role?
+This is an opportunity to shape reliability and observability strategy within a fast-moving financial technology environment serving customers at national scale. You will have visibility, autonomy and the platform to define how operational intelligence is embedded across the organisation. If you have built resilient distributed systems and are ready to lead observability strategy at principal level, this is a rare opportunity to make a genuine impact. If you are interested in this opportunity please apply now and quote #269818
+
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+90361250,Principal Data and Application Engineer,City of Moreton Bay,https://www.seek.com.au/job/90361250?type=standard&ref=search-standalone&origin=jobCard#sol=7fdf6278bdfb6ff54b22f76a74c7924908014486,3h ago,3.0,2026-02-16T04:00:00+00:00,"Strathpine, Brisbane QLD (Hybrid)","Engineering - Software (Information & Communication Technology)
 Government - Local (Government & Defence)",Full time,"From $117,900pa +super +9 day fortnight (RDO)","Permanent Full Time| 9 day fortnight
 $117,990pa up to $125,339pa + 12% super (level 7)
 72.5 hour fortnight
@@ -83,7 +615,7 @@ Your Future City.
 See it. Shape it. Live It.
 
 City of Moreton Bay extends across the traditional lands of the Jinibara, Kabi Kabi, and Turrbal peoples, and we acknowledge and pay respects to Traditional Custodians. We believe diversity of thought, background and experience creates better outcomes for our people and communities, and we strongly encourage applications from Aboriginal and Torres Strait Islander peoples and people of all ages, genders, abilities and cultural backgrounds."
-90360974,Research Fellow in Nonlinear Estimation,The University Of Melbourne,https://www.seek.com.au/job/90360974?type=standard&ref=search-standalone&origin=jobCard#sol=ed56bcb9a29cb971b83ec6434fc85d0abf4ff165,1h ago,1.0,2026-02-16T04:00:00+00:00,"Parkville, Melbourne VIC","Other (Engineering)
+90360974,Research Fellow in Nonlinear Estimation,The University Of Melbourne,https://www.seek.com.au/job/90360974?type=standard&ref=search-standalone&origin=jobCard#sol=c5a9146e6039f3a5e3e5c065d831c0f5497018f4,3h ago,3.0,2026-02-16T04:00:00+00:00,"Parkville, Melbourne VIC","Other (Engineering)
 Other (Education & Training)",Contract/Temp,$110319 - $118416 p.a. + 17% super,"Role type: Full-time; Fixed-term for 24 months
 Faculty: Engineering and Information Technology
 School: Electrical, Mechanical and Infrastructure Engineering
@@ -172,7 +704,7 @@ Position Description:
 
 JR-009130 Research Fellow in Nonlinear Estimation PD.docx
 JR-009130 Research Fellow in Nonlinear Estimation PD.pdf"
-90360577,Software Engineer – AI & Data (Platform Growth),Real Time Traffic Pty Ltd,https://www.seek.com.au/job/90360577?type=standard&ref=search-standalone&origin=jobCard#sol=67d3263c7a614d3a204e9fa200d064d14bcf4fa9,1h ago,1.0,2026-02-16T04:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$95,000 – $115,000 per year","Full-time | Melbourne (Hybrid)
+90360577,Software Engineer – AI & Data (Platform Growth),Real Time Traffic Pty Ltd,https://www.seek.com.au/job/90360577?type=standard&ref=search-standalone&origin=jobCard#sol=077d364bb2d582f101475a2d5ad0052cc4ba9fa1,3h ago,3.0,2026-02-16T04:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$95,000 – $115,000 per year","Full-time | Melbourne (Hybrid)
 
 https://www.realtimetraffic.com.au/
 
@@ -397,7 +929,7 @@ Those uncomfortable with ambiguity
 People who want to stay narrowly specialised
 
 This role is for someone who wants to grow fast, take ownership early, and help build a category leader."
-90360131,Principal Systems Architect,NSW Electoral Commission,https://www.seek.com.au/job/90360131?type=standard&ref=search-standalone&origin=jobCard#sol=6b9df2ad8f7b3d7f612eb870f4e42b1c56a322a0,1h ago,1.0,2026-02-16T04:00:00+00:00,Sydney NSW (Hybrid),"Architects (Information & Communication Technology)
+90360131,Principal Systems Architect,NSW Electoral Commission,https://www.seek.com.au/job/90360131?type=standard&ref=search-standalone&origin=jobCard#sol=5ee2735d4011d7ae3aad3dcdd7954f6735064c7b,3h ago,3.0,2026-02-16T04:00:00+00:00,Sydney NSW (Hybrid),"Architects (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$149,739 - $173,174","Enjoy the opportunity to work in lean dynamic and dedicated team, collaborative and dynamic learning environment 
 Excellent work/life balance
 
@@ -483,7 +1015,7 @@ A talent pool may be created from this recruitment action for ongoing and tempor
 This role is based in at our Elizabeth Street, Sydney office with a hybrid work arrangement.
 
 Applications Close: Sunday 1st March 2026 @ 11.59pm"
-90357291,Mechanical Engineer - Marine Systems (Autonomous Vessels),Smart-Tech Enterprise Solutions Pty Ltd,https://www.seek.com.au/job/90357291?type=standard&ref=search-standalone&origin=jobCard#sol=1bb3a0ed9453b00dc0f50bb75e35d6390168bfcc,2h ago,2.0,2026-02-16T03:00:00+00:00,"Clyde North, Melbourne VIC",Mechanical Engineering (Engineering),Full time,,"About the Role
+90357291,Mechanical Engineer - Marine Systems (Autonomous Vessels),Smart-Tech Enterprise Solutions Pty Ltd,https://www.seek.com.au/job/90357291?type=standard&ref=search-standalone&origin=jobCard#sol=201f602c255eca000eab0896df2e28f79b6935aa,5h ago,5.0,2026-02-16T02:00:00+00:00,"Clyde North, Melbourne VIC",Mechanical Engineering (Engineering),Full time,,"About the Role
 
 We are seeking a Mechanical Engineer with marine systems knowledge to join our R&D team developing an AI-powered Autonomous Marine Docking & AutoPilot System.
 
@@ -535,7 +1067,7 @@ For any enquiries kindly email the HR team hr@smart-tech.melbourne
 If you haven’t received a call yet, please don’t lose hope. Our HR team is still reviewing applications, and candidates whose profiles closely match the requirements will be contacted soon.
 
 We truly appreciate your interest and patience."
-90357239,Data Engineer,FlowLogic,https://www.seek.com.au/job/90357239?type=standard&ref=search-standalone&origin=jobCard#sol=214cfa4eb0f5555d8708c830672b6049a61c5638,2h ago,2.0,2026-02-16T03:00:00+00:00,Brisbane QLD (Hybrid),Other (Engineering),Full time,,"The Role
+90357239,Data Engineer,FlowLogic,https://www.seek.com.au/job/90357239?type=standard&ref=search-standalone&origin=jobCard#sol=e4fb2b19aaf7de672f2823fdb190a1ab57ef4dfa,5h ago,5.0,2026-02-16T02:00:00+00:00,Brisbane QLD (Hybrid),Other (Engineering),Full time,,"The Role
 
 We are seeking a skilled Data Engineer to join our data team and help design, build, and maintain our data infrastructure and analytics pipelines. You'll work with modern data tools including Databricks, Amazon Quick Suite, and DBT to deliver high-quality data solutions that drive business insights and decision-making. 
 
@@ -599,7 +1131,7 @@ How to apply
 We appreciate all candidates who have taken the time to apply, but only shortlisted candidates will be contacted.
 
 We value diversity, and we believe that our uniqueness makes us stronger. We encourage applicants from diverse and/or minority backgrounds to express their interest. We believe in creating a working environment where individuals are able to bring their full selves to work and are valued for their unique contributions."
-90354026,Lead Data Engineer,The Onset,https://www.seek.com.au/job/90354026?type=standard&ref=search-standalone&origin=jobCard#sol=53f60df26b213dfcd4e6608fffea364d200c6084,4h ago,4.0,2026-02-16T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200k - $220k + super (depending on experience),"Lead Data Engineer
+90354026,Lead Data Engineer,The Onset,https://www.seek.com.au/job/90354026?type=standard&ref=search-standalone&origin=jobCard#sol=47c2f4bab54b404cd51c1fec418977c15108b2c9,6h ago,6.0,2026-02-16T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200k - $220k + super (depending on experience),"Lead Data Engineer
 
 Sydney | Hybrid
 
@@ -638,7 +1170,7 @@ Strong programming capability in Python, plus at least one compiled language (Go
 Deep understanding of data collection, ingestion, storage, and governance best practices
 Experience enabling scalable, reliable data access for algorithm or model development teams
 If this sounds like you and you've got the relevant skills hit apply or reach out to ailbhe@theonset.com.au"
-90352996,Lead Engineer - Power System Modelling,Australian Energy Market Operator (AEMO),https://www.seek.com.au/job/90352996?type=standard&ref=search-standalone&origin=jobCard#sol=f5ea951e96428f394ae8619429e2efd993dd6688,5h ago,5.0,2026-02-16T00:00:00+00:00,Melbourne VIC (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,,"AEMO at the Heart of Energy 
+90352996,Lead Engineer - Power System Modelling,Australian Energy Market Operator (AEMO),https://www.seek.com.au/job/90352996?type=standard&ref=search-standalone&origin=jobCard#sol=26d3401a289a6b5487fe3146e9986c4596809af7,7h ago,7.0,2026-02-16T00:00:00+00:00,Melbourne VIC (Hybrid),Electrical/Electronic Engineering (Engineering),Full time,,"AEMO at the Heart of Energy 
 
 AEMO is Australia’s independent energy system and market operator and system planner. AEMO’s purpose is to ensure safe, reliable and affordable energy today, and enable the energy transition for the benefit of all Australians.  Australian governments are now committed to a net zero economy for Australia by 2050 and our vision is to enable this. We have the once-in-a-lifetime opportunity to co-design the future of our energy systems, and our core values revolve around character, commitment, and connection. Join us as we contribute to this significant transition in the energy sector.   
 
