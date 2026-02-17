@@ -1,40 +1,440 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90380139,Data Engineer – Azure | 12 Month Contract | Canberra,The Recruitment Company,https://www.seek.com.au/job/90380139?type=standard&ref=search-standalone&origin=jobCard#sol=6822dc457611ae5fc181ae31d621adec52a8a967,1h ago,1.0,2026-02-16T22:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,Daily Rate Contract,"3 x Data Engineers required for a 12-month Canberra-based contract delivering modern Azure data platforms within a secure government environment.
+90382599,AIR6500 Lead Hardware Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90382599?type=standard&ref=search-standalone&origin=jobCard#sol=31931cb3fa47ec024b952bd26a8d6c970bc5942c,2h ago,2.0,2026-02-17T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,"Purchase Additional Leave, Online Discount program","About us:
 
-This opportunity would suit a junior to mid-level Data Engineer seeking a stable, long-term contract.
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
 
-The Role 
+AIR6500 will provide a Joint Air Battle Management System capability for the Royal Australian Air Force. The system will provide multi-domain integration of air, electromagnetic, and missile defence battle management including deployable & fixed operations centres, communications, and both active & passive sensors. The AIR6500 Hardware Engineering Lead as a member in the System Engineering Integration Team (SEIT) has the responsibility for providing technical guidance and ensuring design integrity and consistency of the Hardware components across the program throughout the project lifecycle. Your primary responsibility is to oversee and lead the Hardware technical aspects of the project, ensuring that all design and development activities are completed to the highest standard and meet the required technical specifications.
 
-Designing and building scalable data pipelines
+Responsibilities
 
-Developing and implementing ETL processes for data migration and deployment
+Working on the AIR6500 project the Hardware Engineering Lead will provide services including but not limited to:
 
-Managing data migrations and ensuring secure data access
+·         Provide oversight to all IPTs for Hardware development across the program
 
-Monitoring and optimising pipelines for performance and reliability
+·         Drive the AIR6500 Hardware solution and interfaces in the architectural model to the AIR6500 solution
 
-You will engage across multiple teams and play an active role in solution design and delivery.
+·         Review and guidance of Hardware and non-functional related requirements, product trades, and the sell-off approach
 
-Required Skills & Experience
+·         Work with IPTs and System Architects to establish hardware requirements and sizing for AIR6500 elements
 
-Advanced proficiency in Microsoft Azure SQL Database
+·         Work with the SEIT Lead to drive the development of key AIR6500 technical documents and artefacts such as solution description, trade studies, and definition of requirements
 
-Strong experience in Azure Data Engineering
+·         Capture and assess Hardware metrics (e.g., on-time releases, quality / defect, supplier impact)
 
-Experience with data migrations, data access, and data processing
+·         Work with a broad set of stakeholders across the Lockheed Martin Business and design partners for the achievement of common goals
 
-Proven capability building and maintaining data pipelines
+·         Provide oversight and validation of subcontractor analysis reports
 
-Exposure to reporting/data environments
+·         Provide cross skilling and knowledge transfer to LMA engineers
 
-What’s On Offer
+·         Desire to 'roll up the sleeves' and execute activities in addition to providing review and mentoring roles.
 
-$500–$550 per day
+·         Drive development of AIR6500 deployable elements and ruggedized solutions for packaging hardware components.
 
-12-month contract with strong likelihood of extension
+·         Author technical documentation and develop Technical Data packs as required
 
-Long-term, stable program of work
+·         Develop Test Plans, Procedures and Test reports as required
 
-Exposure to modern cloud and data technologies
+·         Perform Trade Studies to evaluate possible technical substitutions as required
 
-If you are an AUS Citizen and  are looking for your next Canberra-based contract, apply now or reach out for a confidential discussion text me on 0426 503 822 with your name and question and I will get back to you."
+ 
+
+About you:
+
+To be successful in this role you will also have:
+
+·         Extensive experience with hardware environmental qualification testing methods and standards
+
+·         Extensive experience in the development and derivation of environmental requirements for COTS equipment
+
+·         Extensive experience in undertaking gap analysis and compliance assessments for equipment environmental test reports
+
+·         Significant experience in physical designs that are certified to operate at higher classification levels
+
+·         Significant experience in arrangement of hardware solutions that operate at multiple security classification levels
+
+·         Experience in optimising designs for operator and manned spaces
+
+·         Expert experience in communicating, co-ordinating, prioritising and monitoring work progress towards a stated goal
+
+Desired
+
+·         Experience in comparison of and applicability across test methods and approaches for Military Standard Environmental Specifications (UT and NATO)
+
+·         Experience in the design of field deployable and mobile military systems
+
+·         Experience in design and analysis for optimisation of rack-based equipment to address thermal, emission coupling etc.
+
+·         Experience in integration and verification approaches for hardware systems.
+
+·         Understanding of analysis approaches and mitigation techniques for Co-Site RF designs
+
+·         Any knowledge of packaging for ruggedized deployable land-based systems
+
+·         Expertise across the systems engineering lifecycle, including architectural definition and analysis methods; test and integration.
+
+·         Model-based System engineering experience (Rhapsody experience)
+
+·         Requirement decomposition (DOORSNG experience)
+
+ 
+
+An awareness of:
+
+·         Ground-based Sensors
+
+·         Ground based Effectors
+
+·         Infrastructure software technologies include virtualisation, multilevel security, cyber defence, network accreditation, information assurance, system management
+
+·         Infrastructure hardware technologies including computing (servers, clients, storage) network, cross domain solutions.
+
+·         Agile Engineering Methodology
+
+·         Configuration Management principals
+
+·         Proven ability to design and develop innovative solutions to complex technical problems, and to think creatively and outside the box
+
+·         Ability to lead and mentor junior team members, and to provide guidance and coaching on technical matters
+
+How we reward and support you:
+
+When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
+
+We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
+
+·         Flexible work & Hybrid work options
+
+·         Access to our online discounts program offering immediate discounts or cashback
+
+·         A variety of leave options including Purchase Leave to support you and your family  
+
+·         Additional benefits such as Novated Leasing and Fitness Programs
+
+·         Learning & Development platforms to encourage ongoing self-development
+
+Special Requirements:
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace:
+
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
+
+ 
+
+Equal Opportunity Statement:
+
+Australia:
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees’ unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+90381658,Mid-Level Software Engineer - AI,RBOL TECH PTY LTD,https://www.seek.com.au/job/90381658?type=standard&ref=search-standalone&origin=jobCard#sol=0741bdb00710a7d2de2d77724174f6cfaaaadcc0,3h ago,3.0,2026-02-16T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$140,000 + Super + Health Benefits","A global, market-leading SaaS company operating in the AI-powered legal technology space, is currently expanding their engineering presence in Australia.
+
+This is a rare opportunity to join as a founding engineer in a newly established Sydney-based engineering team, helping shape the technical direction, delivery standards, and culture from day one — while building highly scalable, customer-facing products used by thousands globally.
+
+
+
+
+Huge progression opportunity & higher earning potential, with world class health care benefits!
+
+Flexible Remote working, with just 1-2 days in their CBD office required weekly!
+
+
+
+
+
+The Role:
+
+Reporting directly to the Director of Engineering, you’ll join a high-calibre engineering organisation and play a key role in building out their APAC engineering hub.
+
+You’ll work primarily with Ruby on Rails, contributing to large-scale SaaS platforms that combine AI-driven capabilities, elegant UX, and highly scalable backend systems.
+
+No Rails? No problem! But you must be okay with learning it on the job. Other tech in their environment consists of TypeScript, React, Hotwire, Python, AI Tools & AWS Cloud Services.
+
+
+
+
+Responsibilities:
+
+Designing, building, and scaling high-performance web applications using Ruby on Rails & fullstack tech
+
+Solving complex product and platform challenges with clean, maintainable solutions
+
+Working across full-stack environments on a large-scale SaaS platform
+
+Collaborating with distributed global engineering teams
+
+Participating in architecture discussions and system design
+
+
+
+
+Requirements:
+
+Strong experience in Ruby on Rails development, alternatively with TypeScript, Python, JavaScript or C#
+
+Working across full-stack technologies, ideally within a SaaS environment
+
+Solid skills utilising AI tools and experience with working on AI centric projects is essential
+
+Experience working across monolith and/or microservices architectures
+
+Ability to thrive in fast-moving, collaborative product environments
+
+
+
+
+If the opportunity has piqued your interest, please apply now for a confidential chat!"
+90381394,Technical Data Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90381394?type=standard&ref=search-standalone&origin=jobCard#sol=1360456f120da3213cd94b0a4ab22b82392a5b06,3h ago,3.0,2026-02-16T23:00:00+00:00,"Mawson Lakes, Adelaide SA",Other (Government & Defence),Full time,Competitive Salary + Great everyday discounts,"About us:
+
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
+
+
+About the program:
+
+LMA has entered into an arrangement with BAE, Saab and CoA (MIWS) for the execution of all Combat System Integration work related to the Aegis Surface Combatant fleet. 
+
+The agreement, called the Combat Systems Integration – Integrated Project Team (CSI-IPT) Collaboration Agreement or CCA forms a collaborative enterprise organisation to execute scopes of work across Hobart Class Destroyer (SEA4000 Phase 6 and other related Destroyer Capability Enhancement (DCE) upgrades) and the Hunter Class Frigates (HCFs - SEA5000 Phase 1). The CSI-IPT evolves the current independently executing programs such as SEA4000 Phase  6 and SEA5000 Phase 1 under an umbrella enterprise organisation formed as a program of programs. 
+
+ 
+
+About the role:
+
+We are seeking an experienced Technical Data Management professional to join our CSI-IPT DDG team, supporting a major Defence program.
+
+This is an emerging leader opportunity suited to someone with experience in Data Management within Defence who is ready to step up and take ownership of program-level data activities. You don’t need to have held a formal Lead title before, we’re looking for someone confident in the work and ready to guide others.
+
+In this role, you will ensure project documentation and technical data are delivered, controlled and compliant with contractual and Defence requirements. You will work closely with engineering teams, subcontractors and the customer to keep data flowing accurately and on schedule. 
+
+Key responsibilities include:
+
+Manage Data Management activities across the program
+
+Manage customer data deliverables (CDRLs) and track comment resolution
+
+Manage incoming subcontractor documentation (SDRLs) and support review processes
+
+Ensure documentation meets contractual and company standards
+
+Maintain technical records in accordance with Configuration & Data Management Plans
+
+Support export-controlled and sensitive data compliance requirements
+
+Provide guidance and mentoring to team members
+
+Contribute to continuous improvement of Data Management processes
+
+ 
+
+About you:
+
+You are organised, confident and comfortable working with structured processes in a Defence environment. You understand how technical documentation and engineering data move through a program and enjoy working across multiple teams. 
+
+Essential skills:
+
+Experience in Data Management within Defence or complex engineering programs
+
+Experience managing document deliverables such as CDRLs and SDRLs
+
+Experience using CM/PLM tools such as Windchill or similar systems
+
+Strong organisational and stakeholder engagement skills
+
+Ability to manage multiple deliverables and priorities
+
+An active Baseline security clearance (with eligibility to obtain NV1) and ability to handle Export Controlled information
+
+
+
+
+Why join us:
+
+Work on a complex, high-profile Defence program
+
+Broaden your Data Management experience across engineering teams
+
+Be part of a collaborative and supportive team environment
+
+
+Special Requirements:
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace:
+
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
+
+Equal Opportunity Statement:
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees' unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+90381032,Mechatronics Support Engineer,Just Digital People,https://www.seek.com.au/job/90381032?type=standard&ref=search-standalone&origin=jobCard#sol=a779a63bfc67421429a53d9c07132f750cdda1b6,3h ago,3.0,2026-02-16T23:00:00+00:00,Melbourne VIC,Mechanical Engineering (Engineering),Full time,,"This is not a standard support engineering role.
+  
+You’ll be working on complex, custom-built mechatronic and motion systems deployed globally in high-profile, technically demanding environments. These are precision machines combining mechanical engineering, automation, controls and motion technology. When something needs diagnosing, validating or improving, you’re the person stepping in.
+  
+The role sits within a high-performing Service and Support team and blends mechanical depth with applied PLC and motion troubleshooting. It is hands-on, analytical and collaborative.
+  
+The Role
+You’ll sit within a high-performing Service & Support team, providing mechanical and controls engineering expertise across new and existing installations.
+  
+Day to day, you will:
+
+• Design and modify mechanical and mechatronic components
+• Maintain SolidWorks models and technical drawings
+• Perform core engineering calculations and validation
+• Troubleshoot PLC systems including Beckhoff and Allen Bradley
+• Diagnose servo, hydraulic and electric motion issues
+• Conduct root cause analysis on complex faults
+• Produce clear technical documentation and service notes
+• Support global clients remotely and attend site when required
+• Collaborate closely with engineers, designers and technicians
+  
+What You’ll Bring
+
+• Degree in Mechatronics, Mechanical Engineering or similar
+• Strong mechanical fundamentals with hands-on troubleshooting experience
+• SolidWorks capability
+• PLC exposure ideally Beckhoff and/or Allen Bradley
+• Exposure to custom machinery or safety-critical systems is advantageous
+• Australian Citizen or PR
+  
+This role is not one you want to miss, so if you want to hear more please don't hesitate to reach out!
+nat@justdigitalpeople.com.au"
+90380809,M365 Consultant/Engineer (NV1),Unisys,https://www.seek.com.au/job/90380809?type=standard&ref=search-standalone&origin=jobCard#sol=6d6deb37b8cc5e8207532a697e26c2df77fc7386,3h ago,3.0,2026-02-16T23:00:00+00:00,Canberra ACT (Hybrid),Consultants (Information & Communication Technology),Full time,,"What success looks like in this role:
+
+We are seeking a highly experienced Microsoft 365 Consultant/Engineer to join our dynamic team. The ideal candidate will possess extensive experience in Microsoft 365 implementation, configuration, and migration projects. This role requires exceptional technical skills, strong communication abilities, and a solid understanding of both on-premises and cloud-based infrastructure.
+
+Key Responsibilities
+
+Work with Architect and execute Microsoft 365 implementation and migration projects, ensuring minimal disruption to business operations.
+
+Implement comprehensive Microsoft 365 solutions tailored to client needs, encompassing various workloads including Exchange Online, SharePoint Online, OneDrive for Business, Teams, Teams Voice, Active Directory, and Entra ID.
+
+Provide expert IT consulting services, guiding clients through the design and implementation phases of Microsoft 365 projects.
+
+Collaborate with cross-functional teams to integrate Microsoft 365 solutions with existing on-premises infrastructure, such as Active Directory, servers, network, EUC, and applications.
+
+Utilize PowerShell scripting to automate administrative tasks and enhance the efficiency of Microsoft 365 implementations.
+
+Maintain up-to-date knowledge of Microsoft 365 technologies, industry trends, and best practices to ensure the delivery of cutting-edge solutions.
+
+Identify and troubleshoot technical issues related to Microsoft 365 environments, providing timely resolutions to maintain optimal system performance.
+
+Communicate effectively with clients, stakeholders, and team members to ensure the successful delivery of projects and fulfillment of client requirements.
+
+
+Required Skills and Experience
+
+Proven experience in delivering complex Microsoft 365 projects.
+
+A minimum of 3-5 years of experience in delivering complex Microsoft 365 projects is required.
+
+Expertise in Microsoft 365 implementation, configuration, and migration.
+
+Strong technical skills across various Microsoft 365 workloads, including:
+
+Exchange Online
+
+SharePoint Online
+
+OneDrive for Business
+
+Teams
+
+Teams Voice
+
+Extensive knowledge of on-premises infrastructure, including Active Directory, servers, networks, EUC, and applications.
+
+Advanced scripting skills in PowerShell for automation and administrative tasks are essential.
+
+Excellent communication skills, with the ability to convey technical concepts to non-technical stakeholders.
+
+Strong troubleshooting skills and a methodical approach to problem-solving.
+
+Ability to work independently and as part of a team, managing multiple priorities and deadlines.
+
+
+You will be successful in this role if you have:
+
+NV1 Security Clerance is required.
+
+Excellent communication and interpersonal skills.
+
+Strong problem-solving and analytical abilities.
+
+Familiarity with industry best practices and regulatory requirements related to Microsoft 365 and cloud-based solutions."
+90380799,Engineering Manager - AI & Intelligent Automation - AWS,Profusion PAC Pty Ltd,https://www.seek.com.au/job/90380799?type=standard&ref=search-standalone&origin=jobCard#sol=f7aa201ed5e5ef4c10e8825d3cd3dfaa64fb81c5,3h ago,3.0,2026-02-16T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $250k inc super & bonus,"Engineering Manager – AI & Intelligent Automation
+
+Join a globally recognised intelligent automation and AI engineering team committed to building the next generation of AI‑infused automation solutions. This hands‑on leadership role blends engineering excellence, cloud architecture, AI agent development, and team uplift to deliver high‑impact outcomes across a large‑scale enterprise environment.
+
+You will lead technical delivery across AI, ML, LLM orchestration, RPA, IDP, workflow automation, cloud engineering and intelligent automation platforms. Working closely with product, data and operations teams, you will shape automation strategy, uplift engineering maturity, and drive innovation across Westpac’s enterprise automation ecosystem.
+
+What You’ll Do:
+Provide hands‑on technical leadership across AI, machine learning, cloud engineering, robotics, IDP, workflow automation and intelligent automation technologies. 
+Run experiments, build proofs‑of‑concept, and guide engineers through solution design, development and deployment.
+Mentor and inspire a diverse team of automation specialists, fostering a culture of innovation, quality and continuous learning. 
+Collaborate across product, engineering, data, security and operations to deliver aligned, high‑value outcomes.
+Translate complex AI and automation concepts into clear, actionable insights for technical and non‑technical stakeholders. 
+Drive and embed engineering best practices including Agile, CI/CD, automated testing, monitoring, observability and DevOps. 
+Guide the end‑to‑end development lifecycle for AI‑powered and automation‑based solutions, including compliance and risk considerations.
+Stay ahead of emerging AI technologies (LLMs, BedRock, LangChain, AutoGen, agent frameworks, A2A patterns) and apply them to real‑world business challenges.
+You will thrive in this role if you bring:
+
+A strong track record delivering intelligent automation solutions in financial services or large enterprise environments. 
+At least 3 years in engineering leadership and 5+ years delivering automation/AI/ML solutions.
+Hands‑on cloud engineering capability across AWS and Microsoft Azure, with experience in ML/AI frameworks (BedRock, LangChain, AutoGen, Strands or similar). 
+Ability to switch between individual contributor mode and orchestration/leadership mode.
+Excellent stakeholder management, communication and influencing skills.
+Experience working under pressure, delivering to tight deadlines and balancing multiple priorities.
+Relevant certifications in cloud engineering (AWS/Azure) or intelligent automation platforms. 
+Why Join Us?
+Be part of a globally recognised automation and AI capability.
+Build cutting‑edge AI agent and intelligent automation solutions.
+Lead high‑impact engineering work in a major enterprise environment.
+Work with modern AI/ML, automation and cloud technologies.
+A culture of innovation, experimentation and continuous learning.
+To apply please follow the link or send your CV directly to josh.kitchin@profusiongroup.com"
+90380568,Asset Management & Analytics Engineer,Toshiba International Corporation,https://www.seek.com.au/job/90380568?type=standard&ref=search-standalone&origin=jobCard#sol=2446112cfaa11ccd5ca2e5d0f7b185174fde3b10,3h ago,3.0,2026-02-16T23:00:00+00:00,"Winston Hills, Sydney NSW","Power Generation & Distribution (Mining, Resources & Energy)",Full time,,"About Toshiba
+
+Established in Australia in 1978, Toshiba International Corporation Pty Ltd (TIC) is a wholly owned subsidiary of Toshiba Corporation, Japan. TIC has established itself as a market leader in the power generation sector in Australia, providing industrial equipment, generators, turbines, transformers, motors, battery energy storage equipment and associated power infrastructure for this industry, including both the supply and installation of new equipment and the maintenance or upgrading of existing equipment. Our Company consists of engineering, technical, commercial and business development staff, with all staff focusing on customer needs (mostly the owners/operators and developers of power stations including thermal, hydro-electric, wind and battery energy storage and transmission and distribution plant).
+
+Job Summary
+
+With the recent growth in Digital Asset Management capability and workload, TIC is seeking a highly motivated Asset Management and Analytics Professional to join the ESS business.  The role is focused on working with our customers during the implementation and operation of our Asset Performance and Condition Monitoring Platform (Digital Twin), based on the EtaPRO® platform (https://etapro.com/).  As such, the role requires a working knowledge of power generation facilities, including steam turbine generator-based systems.  It is anticipated that the ideal candidate will bring process mechanical capability, broad thermodynamic knowledge and experience to this role.
+
+Key Responsibilities:
+
+Apply mechanical / process engineering knowledge across the ESS Asset Performance and Condition Monitoring business operations, including:
+
+Working with the existing team to support the safe implementation and operation of online Digital Twin platforms for Toshiba Power Generation customers in Australia, New Zealand, Southeast Asia and other global regions
+
+Providing engineering support to operations and maintenance activities / sustaining capital projects identified through the operation of the EtaPRO platform
+
+Providing process / mechanical technical support to broader ESS business activities from time to time (for example capital project development activity associated with the deployment of Toshiba energy systems)
+
+Work closely with Toshiba teams globally to understand Toshiba ESS Asset Performance and Condition Monitoring technology in order to effectively develop and deploy the technology across TIC regions of responsibility
+
+Our ideal candidate will possess:
+
+Relevant work experience in the power generation sector, including experience in steam turbine generator or boiler-based systems
+
+Tertiary qualifications in Process, Mechanical or a relevant and related field of Engineering
+
+Technical understanding of power generation facilities, including working at power station sites in operations, reliability or process engineering roles
+
+Technical understanding of thermodynamic modelling
+
+Project management experience (preferable)
+
+Ability to work on-site and away from home when required
+
+An Australian Driver’s License (essential)
+
+ If you are looking for a role where you can genuinely add value and grow your career, we encourage you to apply via Seek."
