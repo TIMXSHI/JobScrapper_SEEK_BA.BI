@@ -1,5 +1,226 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90389224,Senior AI Engineer,Fortescue,https://www.seek.com.au/job/90389224?type=standard&ref=search-standalone&origin=jobCard#sol=514085997814a34e837ee6fc175546fb95f3a48a,1h ago,1.0,2026-02-17T05:00:00+00:00,Perth WA,Other (Information & Communication Technology),Full time,,"About Us
+90390713,Senior Machine Learning Engineer,Hydrogen Group Pty Ltd,https://www.seek.com.au/job/90390713?type=standard&ref=search-standalone&origin=jobCard#sol=84c80289c8448bb113a7c9f79660f91e03aec9a3,1h ago,1.0,2026-02-17T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$800 - $900.00 p.d.,"We are seeking a talented Machine Learning Engineer with hands-on experience in Google Cloud Platform (GCP) to design, build, and deploy scalable machine learning solutions. You will work closely with data scientists, software engineers, and product teams to transform data into production-ready ML systems that drive business impact.
+
+Key Responsibilities
+
+Design, develop, and deploy machine learning models in production environments
+Build scalable ML pipelines using GCP services such as Google Cloud Vertex AI, BigQuery, Cloud Storage, and Cloud Functions
+Implement CI/CD pipelines for ML workflows (MLOps best practices)
+Optimize models for performance, scalability, and cost-efficiency in cloud environments
+Collaborate with data engineers to design robust data ingestion and transformation processes
+Monitor model performance and implement retraining strategies
+Ensure solutions follow security, governance, and compliance best practices
+Document architecture, workflows, and technical decisions
+
+Required Qualifications
+
+Bachelor's or Master's degree in Computer Science, Engineering, Data Science, or related field
+3+ years of experience in machine learning engineering or related role
+Strong programming skills in Python
+Experience with ML frameworks such as TensorFlow, PyTorch, or scikit-learn
+Hands-on experience with GCP services, especially Vertex AI and BigQuery
+Experience deploying models using Docker and Kubernetes
+Familiarity with data pipelines and orchestration tools (e.g., Airflow)
+Strong understanding of software engineering principles and version control (Git)
+
+Preferred Qualifications
+
+Experience with distributed data processing (e.g., Spark)
+Knowledge of feature stores and model registries
+Experience with real-time inference systems
+Familiarity with REST APIs and microservices architecture
+GCP Professional Machine Learning Engineer certification
+
+What We Offer
+
+Competitive salary and performance-based bonuses
+Flexible work environment (remote/hybrid options)
+Professional development and certification support
+Opportunity to work on high-impact, data-driven products
+Collaborative and innovative team culture
+
+..."
+90390497,Senior Data Scientist,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/90390497?type=standard&ref=search-standalone&origin=jobCard#sol=237a28a50a22375e74e1450714da69fe88237a1f,1h ago,1.0,2026-02-17T06:00:00+00:00,"Barangaroo, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
+
+Harnessing its own patented camera systems, imagery capture, AI, geospatial tools, and advanced SaaS platforms, Nearmap stands as the definitive source of truth that shapes the livable world.
+
+Job Description
+
+
+Nearmap's Data Science team designs, prototypes, and develops machine learning products using Nearmap imagery data. As a Senior Data Scientist (Model R&D), you will own the statistical and practical performance of models that ship – framing problems, selecting modelling approaches, training and validating models, identifying failure modes, and improving results through modelling choices, data strategy, and disciplined evaluation. Off-the-shelf models, with minor fine tuning often do not suit our needs, so expect to be making complex decisions about problem formation/specification and model architecture. You will work closely with Machine Learning Engineers who build the training and deployment infrastructure. Your core accountability is the quality, robustness, and suitability of the predictions those tools produce.
+
+Important: This is a hands-on modelling role focused on novel approaches to computer vision and deep learning. If your strength is dashboards, BI, reporting, classical modelling, or deployment of off-the-shelf models, this role is not the right fit for you.
+
+What You’ll Do
+
+Own the modelling lifecycle end-to-end: problem formulation → dataset strategy → training → evaluation → error analysis → improvement
+
+Develop, or select and make novel adaptations to, model architectures for 2D/3D vision tasks using Nearmap’s multi-date, multi-angle, and 3D data
+Use PyTorch and important associated packages and libraries (timm, xformers) to develop bespoke models that underlie Nearmap products.
+Remain familiar with core conceptual elements of modern deep learning (attention, positional encoding, receptive field, pre-training), so that you can develop and adapt models to fit our needs.
+Keep up to date with important developments in the field, such as innovations in the fields of vision and 3D
+Design experiments and ablations to understand what drives performance and to de-risk model changes
+Improve model performance through sampling strategies, labelling guidance, quality checks, and targeted collection for hard/rare cases
+Work with ML Engineers to productionise models and ensure they are robust (monitoring, regression testing, reproducibility)
+Communicate clearly about trade-offs, failure modes, and performance, primarily to technical stakeholders
+
+Qualifications
+
+
+Required
+
+Background in a relevant discipline (Computer Science, Mathematics, Physics, or similar)
+Strong grasp of core ML fundamentals and the ability to explain them clearly (validation, regularisation, optimisation, over/underfitting, error analysis)
+Hands-on experience training and evaluating ML models end-to-end, including designing baselines and iterating based on evidence
+Strong coding ability in scientific Python in a Linux environment, using Git for source control
+Demonstrated scientific rigour: forming hypotheses, designing experiments, and interpreting results using appropriate metrics and statistical reasoning
+Experience delivering outcomes in real-world settings (shipping models, improving model quality over time, or delivering robust research prototypes)
+
+
+Desirable
+
+Computer vision experience (segmentation, detection, representation learning)
+Experience working with geospatial data, aerial/satellite imagery, multi-view imagery, or multi-temporal imagery
+Experience with 3D vision / photogrammetry / structure-from-motion, or working with point clouds / 3D meshes
+Experience improving models via data strategy (label quality, sampling, active learning, hard-negative mining, dataset auditing)
+Experience training at scale (GPUs, distributed training) and working with large datasets that require efficient IO and compute
+Cloud computing experience (AWS or GCP)
+Software engineering skills for contributing production-quality code to shared codebases (testing, reproducibility, documentation)
+
+
+Personal Attributes
+
+Curiosity and learning mindset: you keep your fundamentals fresh and stay up to date with modern deep learning
+Pragmatism: you are capable of novelty and creativity, but not for its own sake: you prioritise solutions that work and ship over novelty
+Strong judgment and “model taste”: you can choose sensible baselines, interpret failures, and iterate effectively
+Collaboration: you communicate well, share knowledge, and work effectively in teams
+
+Additional Information
+
+
+Some of our benefits
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Work from Anywhere policy for up to 4 weeks each year
+Stocked kitchen with access to all the snacks you need
+In-office catered lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+At Nearmap, we embrace a flexible hybrid approach that empowers teams to determine what works best for them. Rather than mandating specific office days, we trust our teams to collaborate with their managers and decide when in-person time adds the most value.
+
+This means you'll have the flexibility to balance remote work with office collaboration in a way that suits your role, your team, and your life. There are no company-wide mandatory office days, giving you the autonomy to work where you're most productive while staying connected with your colleagues.
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+
+Nearmap AI
+
+Note to agencies: Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
+90389994,Lead Data Scientist,Lendi Group,https://www.seek.com.au/job/90389994?type=standard&ref=search-standalone&origin=jobCard#sol=814b0242ae687f833451092d5cebf6dce9511e6e,2h ago,2.0,2026-02-17T05:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Company Description
+
+Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
+
+Powered by an advanced AI proprietary platform, a national network of 1,300 brokers, 230 retail stores, a team of experienced buyer’s agents, integrated property search and conveyancing, Aussie is supporting customers at every step of their property journey to find, buy and own with more confidence than ever before. Lendi Group’s loan book is more than $100b and it was named Australia’s Aggregator of the Year for 2024.
+
+To learn more about life at Lendi Group check out our blog: https://www.lendi.com.au/inspire/category/life-at-lendi/
+
+Why Join Us?
+
+Innovation at Our Core – We challenge the status quo and push boundaries to create better solutions.
+Work with the Best – Collaborate with some of the brightest minds in fintech, financial services, and strategy.
+Make an Impact – Contribute to meaningful projects that shape our business and the future of property finance.
+Grow & Evolve – Develop your skills and advance your career in a fast-moving, purpose-driven environment.
+
+As a Lead Data Scientist, you'll lead a growing data science team and play a pivotal role in shaping and delivering data-driven solutions across stakeholders. Your primary responsibilities include leading and mentoring your team, designing and implementing advanced machine learning and statistical models, translating complex business problems into scalable data products, and leading the end-to-end lifecycle from discovery to production. You will lead by example with modern data science techniques and tooling, providing clear technical direction and coaching to team members. 
+
+We’re looking for a collaborative team player who thrives in a dynamic environment, embraces the challenge of legacy systems, remains composed under pressure, and is driven to deliver continuous improvement and strategic impact.  This role provides a unique opportunity to connect directly with our stakeholders.  You should be a versatile data leader who can both drive hands-on delivery and lead the development of new data initiatives—balancing strategic oversight with practical execution. 
+
+ 
+
+ 
+
+Job Description
+
+On a typical day you will: 
+
+Lead, mentor and motivate a data science team (up to10 people) and set the technical direction and standards 
+Collaborate within a cross-functional digital team, including Product Management, Engineering and Design. 
+Bridge the gap between business problems and data science solutions, turning opportunities into impactful, production-ready models. 
+Utilise strong analytical and modelling skills to design, build, and validate machine learning solutions, particularly tree-based methods (e.g. XGBoost, GBM, LightGBM), neural networks, and transformer-based approaches. 
+Define and lead the end-to-end lifecycle of data products in an agile environment, from problem framing and experimentation through to deployment and monitoring. 
+Conduct and document detailed analysis, including business case development, to prioritise use cases and clearly communicate trade-offs and expected value to stakeholders. 
+Work closely with data and platform engineers on ETL pipelines, containerised solutions (e.g. Docker, Kubernetes), and cloud-based environments (e.g. GCP, AWS, Azure), with exposure to modern data platforms such as Snowflake and Databricks. 
+Collaborate with cross-functional Agile teams (Engineering, Product, Design, QA) in remote and on-site settings, applying appropriate governance and engagement models to data projects. 
+Provide BAU support for existing models and data products, while actively managing demand, prioritisation, and stakeholder expectations to create space for strategic, high-impact data science initiatives. 
+Qualifications
+Proven end-to-end Data Science experience (6+ years), including recent experience operating at Senior/Lead level 
+Proven ability to lead, mentor and motivate a data science team (typically 3–10 people) and to set technical direction and standards 
+Strong, hands-on expertise with modern machine learning models and algorithms, particularly tree-based methods (e.g. XGBoost, GBM, LightGBM), statistical models, and neural networks 
+Demonstrated experience working with LLMs, transformers and embeddings in practical, production-oriented use cases 
+Solid understanding of the end-to-end lifecycle of data products, from problem framing and model development through to productisation, pipelining and BAU support 
+Proficiency in Python and a strong command of SQL for data exploration, feature engineering and model implementation 
+Experience working with cloud platforms (e.g. GCP, AWS or Azure) and familiarity with modern data ecosystems such as Snowflake and/or Databricks (or ability to upskill quickly) 
+Exposure to containerised solutions (e.g. Docker) and collaborating with engineers on production deployment and MLOps practices 
+Strong stakeholder management and communication skills, with the ability to translate business problems into data solutions and tell a compelling story with insights 
+Experience contributing to or leading governance and engagement models (e.g. steering committees, RACI/RASCI frameworks, working groups) across multiple stakeholders 
+Demonstrated capability in prioritisation and managing tradeoffs in a resourceconstrained or scaleup environment, including pushing back on lowvalue work 
+Experience developing or contributing to business cases for data and AI initiatives, including articulating value, risks and assumptions 
+Additional Information
+
+Lendi Group teams operate across Australia and the Philippines. Bringing together diverse expertise, innovative technology and a customer-first approach, our teams work seamlessly to simplify the property journey, helping Australians find, buy and own property with confidence.
+
+We support our people in a variety of ways, but a few of the benefits that our people rave about include:
+
+A vibrant, relaxed, yet professional culture.
+Hybrid working arrangement designed to support work-life balance, while fostering meaningful connection and collaboration.
+A holistic wellbeing programs offering 24/7 support, including medical, mental health, and financial wellbeing services to enable our workforce to thrive at home and work.
+Generous paid Parental Leave: we celebrate our growing Lendi Group family with 18-26 weeks leave for primary carers and up to 4 weeks for secondary carers.
+An additional week’s Loyalty Leave each year after reaching 3 years’ service.
+Wellness initiatives with a strong focus on psychological safety.
+
+We’re committed to fostering a diverse and inclusive community at Lendi Group. We believe that a team reflecting the world around us leads to greater innovation, stronger collaboration, and a more engaging workplace.
+
+Our culture is guided by our 3 core values: We Are Stronger United; Act Like You Own It; and Keep Home Loans Human. Our values are part of our core DNA that helps Lendi Group to attract, engage and evolve the right talent and build best-in-class products.
+
+This is an opportunity to shape the future of a fast-growing, purpose-driven company that’s transforming the homeownership journey.
+
+Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
+
+#lendigroup #LI-GR2 #LI-hybrid"
+90389745,Data Centre Engineer,ACRWORLD,https://www.seek.com.au/job/90389745?type=standard&ref=search-standalone&origin=jobCard#sol=0f6279d98155e847bbbfe669158f02fec52d4ae5,2h ago,2.0,2026-02-17T05:00:00+00:00,Melbourne VIC,Management (Construction),Full time,,"The Opportunity
+
+We are currently seeking 2–3 Data Centre Commissioning Engineers to join a specialist delivery team working across mission-critical projects in Melbourne.
+This role offers exposure to high-value, complex data centre environments and full lifecycle commissioning delivery.
+
+Key Responsibilities
+Writing, reviewing and executing commissioning scripts
+Witnessing and validating commissioning activities
+Managing delivery coordination across M&E packages
+Producing and managing commissioning documentation
+Ensuring compliance across Levels 1–5 commissioning
+Supporting stakeholders through handover and sign-off
+About You
+M&E background (electrical or mechanical)
+Minimum 2 years’ commissioning experience
+Proven data centre project experience (essential)
+Strong understanding of mission-critical systems
+Confident communicator with strong documentation skills
+What’s On Offer
+Salary guide $150k + super (flexible for the right candidate)
+Immediate start
+Exposure to large-scale, complex data centre builds
+Clear pathway for growth within mission-critical environments"
+90389224,Senior AI Engineer,Fortescue,https://www.seek.com.au/job/90389224?type=standard&ref=search-standalone&origin=jobCard#sol=e2261cfa3d53d0a19a5d1e4998a2e214d0553f68,2h ago,2.0,2026-02-17T05:00:00+00:00,Perth WA,Other (Information & Communication Technology),Full time,,"About Us
 
 Fortescue is both a proud West Australian company and a global green solutions business. We are recognised for our culture, innovation and industry-leading development of infrastructure, mining assets and green energy initiatives.
 
@@ -39,7 +260,7 @@ https://fortescue.com/careers
 Internal Candidates / Current Contractors please apply via Success Factors Careers Portal. For further information on how to apply please visit the Fortescue Hub.
 
 Fortescue reserves the right to close applications early should a suitable pool of candidates be identified. Fortescue will never contact you to ask for payment of any kind, whether directly or through a third party."
-90388799,Head of AI Enablement,RACV,https://www.seek.com.au/job/90388799?type=standard&ref=search-standalone&origin=jobCard#sol=abae6f0145d2f880baf89a3ee18fd93f4146e2e7,1h ago,1.0,2026-02-17T05:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"Melbourne | RACV Head Office
+90388799,Head of AI Enablement,RACV,https://www.seek.com.au/job/90388799?type=standard&ref=search-standalone&origin=jobCard#sol=a167f026f291881545ba67660bb565305a40b96f,3h ago,3.0,2026-02-17T04:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"Melbourne | RACV Head Office
 Permanent Full Time | Hybrid Working 
 Competitive Salary | Discounts on Selected RACV Products
 New Role  – play a key part within our Transformation team
@@ -101,7 +322,7 @@ If required, click Forgot your password to receive a link to reset
 If you have not previously registered:
 Click Create an account to apply for our career opportunities; or
 Click Apply Now and create your Candidate Profile as part of your application"
-90386303,Control Systems Engineer,Liontown Resources,https://www.seek.com.au/job/90386303?type=standard&ref=search-standalone&origin=jobCard#sol=4c9c6e6d37ee341f91f73cd0d6e4dd13985b18a2,3h ago,3.0,2026-02-17T03:00:00+00:00,Perth WA,"Mining - Engineering & Maintenance (Mining, Resources & Energy)",Full time,Competitive base salary + Super + Incentives,"Who are we?
+90386303,Control Systems Engineer,Liontown Resources,https://www.seek.com.au/job/90386303?type=standard&ref=search-standalone&origin=jobCard#sol=86c3ba73c3f7e52c60bc36bbdf1b5faf14c14ea3,5h ago,5.0,2026-02-17T02:00:00+00:00,Perth WA,"Mining - Engineering & Maintenance (Mining, Resources & Energy)",Full time,Competitive base salary + Super + Incentives,"Who are we?
 
 At Liontown Resources, our Kathleen Valley operation is moving confidently into full-scale production. Following our recent capital raise and significant investment in growth, we're expanding our technical teams to support the long-term success of the mine.
 
@@ -170,7 +391,7 @@ At Liontown, you'll be joining a company that's helping drive the clean energy f
 This is your opportunity to take ownership of a pivotal technical role during a major project phase, while enjoying the stability of a long-term site-based position.
 
 Visit: liontown.com to learn more."
-90386301,Senior Azure Data Engineer (onsite- Brisbane),NRI Australia & New Zealand,https://www.seek.com.au/job/90386301?type=standard&ref=search-standalone&origin=jobCard#sol=2c578163f45f84a717a1fde4ea967ef12a23c022,3h ago,3.0,2026-02-17T03:00:00+00:00,Brisbane QLD,Database Development & Administration (Information & Communication Technology),Full time,"Permanent role, onsite in Brisbane with WFH","About Us
+90386301,Senior Azure Data Engineer (onsite- Brisbane),NRI Australia & New Zealand,https://www.seek.com.au/job/90386301?type=standard&ref=search-standalone&origin=jobCard#sol=d14b4920eada9c8d2c254d7e2ca0d9d114c6e842,5h ago,5.0,2026-02-17T02:00:00+00:00,Brisbane QLD,Database Development & Administration (Information & Communication Technology),Full time,"Permanent role, onsite in Brisbane with WFH","About Us
 At NRI, we're more than just IT experts we're your reliable partner for transformative digital solutions. From personalized strategies to infrastructure management, our global presence ensures localized decision-making for businesses across sectors. With our forward-thinking vision and dedicated team, we keep you ahead of tomorrow's challenges.
  
 We are seeking an experienced Senior Azure Data Engineer to join a key energy client in Brisbane. This is a hands-on, delivery-focused role supporting and enhancing an established Azure data platform in a BAU and continuous improvement capacity.
@@ -210,7 +431,7 @@ Transformative digital solutions take the right team, making the right moves at 
 Diversity & Inclusion
 We celebrate the diversity of people, and we pride ourselves on ensuring everyone belongs. As an equal-opportunity employer, we want to create opportunities for everyone and will consider all applications without bias.
 We value our collaborative culture and work together to support a variety of community organisations and social issues."
-90382599,AIR6500 Lead Hardware Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90382599?type=standard&ref=search-standalone&origin=jobCard#sol=5da40af4b088b3a618ef54e7a97d7faf6c431a60,5h ago,5.0,2026-02-17T01:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,"Purchase Additional Leave, Online Discount program","About us:
+90382599,AIR6500 Lead Hardware Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90382599?type=standard&ref=search-standalone&origin=jobCard#sol=9ae27a57fabd19e01903b6e3c8e5f479025f4c44,7h ago,7.0,2026-02-17T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,"Purchase Additional Leave, Online Discount program","About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
 
@@ -343,7 +564,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-90381658,Mid-Level Software Engineer - AI,RBOL TECH PTY LTD,https://www.seek.com.au/job/90381658?type=standard&ref=search-standalone&origin=jobCard#sol=3ff3d27ab6e19c2d938c9dae5ca3b52d3128271a,6h ago,6.0,2026-02-17T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$140,000 + Super + Health Benefits","A global, market-leading SaaS company operating in the AI-powered legal technology space, is currently expanding their engineering presence in Australia.
+90381658,Mid-Level Software Engineer - AI,RBOL TECH PTY LTD,https://www.seek.com.au/job/90381658?type=standard&ref=search-standalone&origin=jobCard#sol=9d0eb9ab5a84acce15d0a9939084a14133d4b06e,8h ago,8.0,2026-02-16T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$140,000 + Super + Health Benefits","A global, market-leading SaaS company operating in the AI-powered legal technology space, is currently expanding their engineering presence in Australia.
 
 This is a rare opportunity to join as a founding engineer in a newly established Sydney-based engineering team, helping shape the technical direction, delivery standards, and culture from day one — while building highly scalable, customer-facing products used by thousands globally.
 
@@ -400,7 +621,7 @@ Ability to thrive in fast-moving, collaborative product environments
 
 
 If the opportunity has piqued your interest, please apply now for a confidential chat!"
-90381394,Technical Data Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90381394?type=standard&ref=search-standalone&origin=jobCard#sol=a5164475543f9c3af3d850b0f241ecebf19e1ada,6h ago,6.0,2026-02-17T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Other (Government & Defence),Full time,Competitive Salary + Great everyday discounts,"About us:
+90381394,Technical Data Lead,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/90381394?type=standard&ref=search-standalone&origin=jobCard#sol=9d9efcb5eed85ee7467c05800c7527c915a36a4a,8h ago,8.0,2026-02-16T23:00:00+00:00,"Mawson Lakes, Adelaide SA",Other (Government & Defence),Full time,Competitive Salary + Great everyday discounts,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
 
@@ -486,7 +707,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-90381032,Mechatronics Support Engineer,Just Digital People,https://www.seek.com.au/job/90381032?type=standard&ref=search-standalone&origin=jobCard#sol=f390300093c8b4fe833850d66246ae96fb5a3d8f,6h ago,6.0,2026-02-17T00:00:00+00:00,Melbourne VIC,Mechanical Engineering (Engineering),Full time,,"This is not a standard support engineering role.
+90381032,Mechatronics Support Engineer,Just Digital People,https://www.seek.com.au/job/90381032?type=standard&ref=search-standalone&origin=jobCard#sol=a5857272b9b7b92b5dee659a2f76a13557025c31,8h ago,8.0,2026-02-16T23:00:00+00:00,Melbourne VIC,Mechanical Engineering (Engineering),Full time,,"This is not a standard support engineering role.
   
 You’ll be working on complex, custom-built mechatronic and motion systems deployed globally in high-profile, technically demanding environments. These are precision machines combining mechanical engineering, automation, controls and motion technology. When something needs diagnosing, validating or improving, you’re the person stepping in.
   
@@ -518,7 +739,7 @@ What You’ll Bring
   
 This role is not one you want to miss, so if you want to hear more please don't hesitate to reach out!
 nat@justdigitalpeople.com.au"
-90380809,M365 Consultant/Engineer (NV1),Unisys,https://www.seek.com.au/job/90380809?type=standard&ref=search-standalone&origin=jobCard#sol=13992b10760ff36c21041dab08b093c13307e430,7h ago,7.0,2026-02-16T23:00:00+00:00,Canberra ACT (Hybrid),Consultants (Information & Communication Technology),Full time,,"What success looks like in this role:
+90380809,M365 Consultant/Engineer (NV1),Unisys,https://www.seek.com.au/job/90380809?type=standard&ref=search-standalone&origin=jobCard#sol=c8211fcfdc518aa3563b9bf745e2b912534cb60f,8h ago,8.0,2026-02-16T23:00:00+00:00,Canberra ACT (Hybrid),Consultants (Information & Communication Technology),Full time,,"What success looks like in this role:
 
 We are seeking a highly experienced Microsoft 365 Consultant/Engineer to join our dynamic team. The ideal candidate will possess extensive experience in Microsoft 365 implementation, configuration, and migration projects. This role requires exceptional technical skills, strong communication abilities, and a solid understanding of both on-premises and cloud-based infrastructure.
 
@@ -581,7 +802,7 @@ Excellent communication and interpersonal skills.
 Strong problem-solving and analytical abilities.
 
 Familiarity with industry best practices and regulatory requirements related to Microsoft 365 and cloud-based solutions."
-90380799,Engineering Manager - AI & Intelligent Automation - AWS,Profusion PAC Pty Ltd,https://www.seek.com.au/job/90380799?type=standard&ref=search-standalone&origin=jobCard#sol=8c612b3f03c11216fb19e65d1787ca864c08f7b9,7h ago,7.0,2026-02-16T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $250k inc super & bonus,"Engineering Manager – AI & Intelligent Automation
+90380799,Engineering Manager - AI & Intelligent Automation - AWS,Profusion PAC Pty Ltd,https://www.seek.com.au/job/90380799?type=standard&ref=search-standalone&origin=jobCard#sol=d316c5a27dc97e7e8ab352ce42861ea5c93e77b3,8h ago,8.0,2026-02-16T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $250k inc super & bonus,"Engineering Manager – AI & Intelligent Automation
 
 Join a globally recognised intelligent automation and AI engineering team committed to building the next generation of AI‑infused automation solutions. This hands‑on leadership role blends engineering excellence, cloud architecture, AI agent development, and team uplift to deliver high‑impact outcomes across a large‑scale enterprise environment.
 
@@ -612,7 +833,7 @@ Lead high‑impact engineering work in a major enterprise environment.
 Work with modern AI/ML, automation and cloud technologies.
 A culture of innovation, experimentation and continuous learning.
 To apply please follow the link or send your CV directly to josh.kitchin@profusiongroup.com"
-90380568,Asset Management & Analytics Engineer,Toshiba International Corporation,https://www.seek.com.au/job/90380568?type=standard&ref=search-standalone&origin=jobCard#sol=41d8b19d63d7f33c23493ea44832a51667447c2f,7h ago,7.0,2026-02-16T23:00:00+00:00,"Winston Hills, Sydney NSW","Power Generation & Distribution (Mining, Resources & Energy)",Full time,,"About Toshiba
+90380568,Asset Management & Analytics Engineer,Toshiba International Corporation,https://www.seek.com.au/job/90380568?type=standard&ref=search-standalone&origin=jobCard#sol=f108debd4aeb703cce7ce471764d6b5ac004df9d,9h ago,9.0,2026-02-16T22:00:00+00:00,"Winston Hills, Sydney NSW","Power Generation & Distribution (Mining, Resources & Energy)",Full time,,"About Toshiba
 
 Established in Australia in 1978, Toshiba International Corporation Pty Ltd (TIC) is a wholly owned subsidiary of Toshiba Corporation, Japan. TIC has established itself as a market leader in the power generation sector in Australia, providing industrial equipment, generators, turbines, transformers, motors, battery energy storage equipment and associated power infrastructure for this industry, including both the supply and installation of new equipment and the maintenance or upgrading of existing equipment. Our Company consists of engineering, technical, commercial and business development staff, with all staff focusing on customer needs (mostly the owners/operators and developers of power stations including thermal, hydro-electric, wind and battery energy storage and transmission and distribution plant).
 
