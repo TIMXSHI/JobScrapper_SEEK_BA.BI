@@ -1,5 +1,1185 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90423013,Data & Information Manager,Metro Trains Melbourne,https://www.seek.com.au/job/90423013?type=standard&ref=search-standalone&origin=jobCard#sol=d3f5756a2fd0ab6afb0c00ceadebc0113e702b0f,1h ago,1.0,2026-02-18T22:00:00+00:00,"Docklands, Melbourne VIC",Management (Information & Communication Technology),Full time,,"Melbourne is Australia's fastest growing city, and public transport is vital to keeping it moving. Since 2009, Metro has proudly operated and maintained a world-class train service and delivered major transport projects that shape the future of our city. Guided by our value of Safely Always, we are one team dedicated to ensuring everyone gets home safely while helping to connect and create a better Melbourne.
+90433956,Senior Machine Learning Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/90433956?type=standard&ref=search-standalone&origin=jobCard#sol=9d38c8057c397364fda768f21beb1e73aeffd3f3,1h ago,1.0,2026-02-19T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At Intelligen, we’re scaling fast, and intentionally. Over the past few years, we’ve built a strong reputation delivering complex data, AI and governance transformations for enterprise and mid-market organisations across Australia.
+
+This Senior Machine Learning Engineer role is primarily a software engineering + MLOps position focused on building and operating ML inference and pipeline systems (not deep data science/model training). You’ll work in a cross-functional squad with data scientists and product/BA/agile counterparts, helping move models safely into production with strong engineering practices.
+
+Design and build components of an ML platform that supports scalable, reliable model deployment and inference
+Develop and maintain ML pipelines (deployment, orchestration, monitoring, reliability) with strong engineering discipline
+Build and maintain APIs/services (Python-based) to serve models and platform capabilities
+Work heavily with SQL and data interfaces required to support ML pipelines (light-to-moderate data processing as needed)
+Implement and improve CI/CD practices for ML services and pipelines.
+Contribute to system design: propose robust architectures, trade-offs, and operational considerations.
+Collaborate closely with stakeholders and adjacent teams (project is in an early phase with frequent discussions).
+Mentor a mid-level ML Engineer within the squad; lift engineering standards and delivery confidence.
+
+
+Requirements
+
+
+
+Core software engineering foundation with demonstrated experience delivering production systems, including:
+
+Strong Python engineering (clean code, testing, packaging, performance-aware development).
+Experience building APIs / backend services (REST/gRPC or similar).
+Strong SQL capability.
+Experience with systems design (designing maintainable, scalable services/pipelines).
+Practical MLOps / ML pipeline experience (deployment/inference pipelines; orchestration; monitoring; reliability)
+Exposure to CI/CD and modern engineering practices
+Cloud experience in at least one major provider; GCP preferred (team is on GCP), but other-cloud experience is acceptable if you can ramp quickly.
+
+
+Benefits
+
+
+
+We’re not just delivering AI and data projects, we’re humanising them. That means we care deeply about the how, not just the what. We value curiosity, creativity, and a willingness to challenge the status quo. We look for people who are driven to build a business, get curious, and offer up their opinions and ideas.
+
+As well as:
+
+Work From Home - Flexible hours
+Training & Development
+Free Food & Snacks
+Many socials and community groups
+Opportunity to drive projects that are of interest to you!
+
+You’ll work with a team that’s smart, kind, and ambitious. You’ll have real influence in your projects, your practice, and our business. And as we grow, so will you."
+90433115,AI Enablement Lead,Enscope,https://www.seek.com.au/job/90433115?type=standard&ref=search-standalone&origin=jobCard#sol=215213f260afa2278e027e3132a251f67888ac61,2h ago,2.0,2026-02-19T04:00:00+00:00,"Doncaster, Melbourne VIC (Hybrid)",Management (Information & Communication Technology),Full time,,"About the Company:
+
+Headquartered in Doncaster, Quanta Services Australia (QSA) performs energy infrastructure construction in all states of Australia with Operating Units including Consolidated Power Projects, Enscope and Nacap and Intellect Systems. These companies are wholly owned subsidiaries of Quanta Services Inc., a New York Stock Exchange listed company (NYSE:PWR) and have offices Australia wide.
+
+This role would be based around our Doncaster office location.
+
+Candidates must have existing Australian work authorization.
+
+About the role
+
+The AI Enablement Lead is a strategic leadership role responsible for driving responsible and effective AI adoption across the organisation.
+
+This role will lead the design, delivery, and governance of AI solutions, manage the AI innovation pipeline from ideation through to production, and build organisational capability through training, guidance, and communities of practice.
+
+The role is also tasked with logging and tracking tickets through the ITSM system, ensuring issues are promptly addressed and resolved within the agreed SLAs, maintaining accurate documentation, adhering to IT Policies and Procedures, ensuring compliance with Health and Safety regulations and following Security Best Practices. The support Officer will provide recommendations for new technologies that could benefit the business.
+
+Key responsibilities include (but are not limited to):
+
+AI Strategy and Governance
+
+Establish and maintain enterprise AI principles, policies, standards, and guidelines in collaboration with QSA and Quanta stakeholders
+
+Own the risk assessment process for proposed AI solutions and use cases.
+
+Define guardrails and controls to ensure AI solutions are developed and deployed safely, responsibly and meet quality standards
+
+Collaborate with legal, risk, and compliance teams to ensure AI initiatives meet regulatory requirements and organisational policies.
+
+Monitor emerging AI regulations and standards. Adapt governance frameworks accordingly
+
+Establish metrics and reporting mechanisms to track AI adoption, value delivery, and governance compliance.
+
+AI Solution Design & Delivery
+
+Lead the design and delivery of AI solutions aligned to business priorities and strategic objectives.
+
+Ensure AI solutions integrate with enterprise architecture, data architecture, and technology standards.
+
+Collaborate with data teams to ensure AI solutions are built on trusted, quality data foundations.
+
+Define solution architectures for AI applications, considering scalability, performance, security and maintainability.
+
+AI Innovation Pipeline Management
+
+Manage the enterprise AI innovation pipeline, from ideation and use case identification through pilot and production deployment.
+
+Establish processes for capturing, evaluating, and prioritising AI opportunities across the QSA business
+
+Facilitate workshops and innovation sessions with business stakeholders to identify high-value AI use cases.
+
+Develop business cases for AI initiatives, including value assessment, feasibility analysis, and resource requirements.
+
+Oversee pilot programs and proof-of-concepts, establishing success criteria and evaluation frameworks
+
+AI Enablement and Engagement
+
+Develop training programs and materials to build AI literacy and capability across the organisation.
+
+Design and deliver presentations, workshops, and training sessions to QSA staff and stakeholder groups.
+
+Create practical guidance, playbooks, and toolkits to support responsible AI adoption and development.
+
+Establish and facilitate communities of practice for AI practitioners, business analysts, and stakeholders.
+
+
+
+
+To be successful in this role, you will have;
+
+7-10 years of experience in technology roles, with at least 3-5 years focused on AI/ML solutions, data science, or AI strategy.
+
+Demonstrated experience in designing, implementing, and governing AI solutions in enterprise environments.
+
+Strong knowledge of AI platforms and tools (e.g., Azure AI, AWS AI/ML services, Google Cloud AI, enterprise AI platforms).
+
+Understanding of data architecture, data governance, and data quality principles as they relate to AI.
+
+Experience with AI risk assessment methodologies and governance frameworks.
+
+Understanding of enterprise architecture principles and integration patterns.
+
+Familiarity with cloud platforms and modern technology architectures.
+
+Knowledge of cybersecurity, privacy, and compliance considerations for AI systems.
+
+Proven leadership skills with the ability to influence and drive change across an organization.
+
+Strong  communication and presentation skills, with the ability to explain complex AI concepts to diverse audiences.
+
+Strong stakeholder management capabilities, including experience working with executive leadership and governance committees.
+
+Demonstrated ability to develop and deliver training programs and capability building initiatives.
+
+Strategic thinking with the ability to align AI initiatives with business objectives.
+
+Strong analytical and problem-solving skills with a data-driven approach to decision-making.
+
+Experience managing innovation pipelines and driving value from emerging technologies.
+
+Excellent facilitation skills for workshops, working groups, and communities of practice.
+
+Project and program management capabilities with experience delivering complex initiatives.
+
+Change management expertise with experience leading organizational transformation.
+
+Willingness to travel to various Operating Unites around Australia.
+
+
+Behaviours
+Consistent with Quanta Services Core Values, we also look for all employees to demonstrate the following behaviours:
+
+Demonstrate best-in-class safety leadership and performance.
+
+Deliver exceptional value to our customers.
+
+Drive operational and commercial excellence.
+
+Identify and develop exceptional employees.
+
+Applying
+
+To be considered for this role, please submit your application through this site and 'Apply Now'.
+
+Expression of interest from Recruitment Agencies will not be considered.
+
+Please note only shortlisted candidates will be contacted."
+90432800,"Expression of Interest - Information, Digital, Technology & Security",Boeing Defence Australia,https://www.seek.com.au/job/90432800?type=standard&ref=search-standalone&origin=jobCard#sol=07293ab711a89df912b492906d9931ae93fb0a30,2h ago,2.0,2026-02-19T04:00:00+00:00,"Toowoomba, Toowoomba & Darling Downs QLD",Business/Systems Analysts (Information & Communication Technology),Full time,,"The Opportunity
+
+Boeing Defence Australia (BDA) are seeking Expressions of Interest for Information, Digital, Technology & Security professionals to join the MQ‑28 Ghost Bat Production Facility currently being built at Wellcamp Toowoomba, QLD.
+
+In these roles you will be part of a team that builds something that matters, grow with a high-performing team, and leave a legacy in Australian defence manufacturing
+
+Why this is exciting
+
+Right from the start, the design, development and production of MQ-28 program has taken a digital first approach. It has been designed and built on a foundation of Model Based Engineering (MBE) principles with the target of business and production automation through establishing Operational Digital Threads and the Digital Transformation of Boeing's Operational Processes and Systems.  To continue to enable the next wave of Digital Transformation and drive technology innovation, Boeing IT is seeking to grow its' talent base by seeking applicants from a diverse range of backgrounds and skill sets.
+
+We're seeking expressions of interest for candidates with the below experience and expertise
+
+Full Stack development or development experience in either of Python, C#, .Net, ASP.Net, SQL, PL/SQL 
+3DExperience, Siemens Teamcenter, Siemens OpsCenter
+Oracle eBusiness (MRP, ERP, Supply Chain)  
+Data, Analytics and Enterprise Integration 
+DevOps and Systems Administration 
+
+These roles will start late 2026 to Mid 2027.
+
+What you'll get to do
+
+Working for Boeing and supporting MQ-28 you will have opportunities to gain and expand your knowledge across a few Digital and Model Based value streams associated with aircraft design, engineering and production and to by addressing the complex technology challenges associated with this, deepen your experience in your chosen technology domain.
+
+Successful applicants will be comfortable working in a fast-paced, dynamic technology, engineering and manufacturing environment 
+
+Who we're looking for:
+
+Bachelors' or Masters' degree in a computer, mechatronics, engineering or quantitative discipline (e.g., statistics, data science, artificial intelligence, computer science, mathematics) or equivalent work experience 
+Excellent analytical, problem-solving, and communication skills with strong organisational and planning skills 
+Strong communication and interpersonal skills, with the ability to effectively collaborate with cross-functional and global enterprise teams 
+Ability to work independently and manage multiple priorities in a fast-paced environment 
+Commitment to continuous improvement and Boeing's core values of safety, quality, and integrity 
+
+Security requirement:
+
+Applicants must be Australian Citizens to meet defence security requirements.
+
+Location:
+
+Wellcamp, Toowoomba
+
+Boeing values that guide the work we do:
+
+Integrity — We are honest, transparent and accountable.
+Safety — We always put safety first in design, manufacturing and operations.
+Quality — We deliver products and processes that meet the highest standards.
+Customer focus — We aim to understand and exceed our customers' mission needs.
+Teamwork & One Boeing — We collaborate across teams and partners to accomplish shared goals.
+Inclusion & Respect — We value diverse perspectives and create an environment where everyone can contribute.
+
+Why join Boeing Australia at Wellcamp
+
+Work on a once-in-a-generation defence program be part of the delivery for Boeing's first final assembly facility outside North America and help produce Australia's first military-designed combat aircraft in 50+ years — a standout, high-visibility achievement for your career.
+Work with cutting‑edge autonomous aircraft technology and a team of highly skilled Boeing and industry experts.
+Opportunity to shape processes, culture and capability from the facility's inception.
+Career development, ongoing training and real opportunity to grow within Boeing Australia.
+
+How to Express Interest Please submit:
+
+A brief cover letter outlining which role(s) you're interested in and your most relevant achievements.
+Current CV.
+
+Join us and help build something big — a sovereign manufacturing capability, a bold new aircraft program, and the next chapter of Boeing in Australia."
+90432707,MECM System Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/90432707?type=standard&ref=search-standalone&origin=jobCard#sol=80a140264baf18378f09575b6722a70f9a06f497,2h ago,2.0,2026-02-19T04:00:00+00:00,Canberra ACT,Engineering - Network (Information & Communication Technology),Full time,Competitive salary + Leidos Life days,"Description
+
+We're a 'Family Friendly' certified workplace - we understand the often many and varied roles our team members need to play within their own unique family setting and actively support them.
+
+ 
+
+Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers
+
+ 
+
+Do Work That Matters
+
+Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life.  Our 2000 local experts, backed by our global experience and network of partners, are working to solve the world's toughest challenges in government, intelligence, defence, aviation, border protection and health markets.
+
+ 
+
+Your New Role and Responsibilities
+
+ 
+
+The Systems Engineer is accountable under general direction to design, implement, sustain, and optimise enterprise endpoint configuration management capabilities based on Microsoft System Center Configuration Manager (MECM).
+
+ 
+
+The role supports Defence and large enterprise programs by delivering secure, compliant, and reliable endpoint management solutions in accordance with approved architectures, security policies, and governance frameworks. The Systems Engineer operates with limited supervision, applying sound engineering judgement to complex problems and contributing across project delivery and operational sustainment.
+
+ 
+
+Key Responsibilities
+
+Engineer, administer, and maintain enterprise?scale MECM solutions, delivering endpoint configuration management including application/OS deployment, patching, compliance enforcement, and build/driver management.
+
+Develop, test, and maintain application packages, task sequences, collections, deployment workflows, and PowerShell automation to support deployment, monitoring, and reporting.
+
+Configure and manage Software Update Points (SUPs), ADRs, maintenance windows, configuration baselines, compliance controls, and remediation activities aligned with security and assurance requirements.
+
+Perform technical investigation and resolution of MECM?related issues across clients, site systems, and content distribution, contributing to integration, verification, validation, and acceptance activities.
+
+Produce and maintain technical documentation and engineering artefacts, while collaborating closely with project managers, architects, security teams, and service operations.
+
+ 
+
+About You and What You'll Bring
+
+Tertiary qualifications in IT, Engineering, or equivalent industry experience.
+
+Demonstrated experience supporting Microsoft MECM in Defence or large?enterprise environments, with strong knowledge of Windows client OS, Active Directory, and Group Policy.
+
+Skilled in application packaging and deployment technologies (MSI, MSIX, scripted installers) and capable of producing effective PowerShell?based automation.
+
+Proven ability to deliver patching and compliance outcomes within regulated environments, with knowledge of modern endpoint management practices and exposure to Intune/Co?Management.
+
+Strong written and verbal communication skills with the ability to work effectively across multi?disciplinary teams.
+
+ 
+
+This role does require the successful applicant to be an Australian Citizen and hold a NV-1 level security clearance but be willing and able to uplift to an NV-2.
+
+ 
+
+Diverse Team Members, Shared Values and a Common Purpose
+
+Providing our customers with smarter solutions takes an incredible team with diversity of thought, experience and perspectives driving innovation. Inclusion is at the heart of our culture and is one of our core values. It's about creating a workplace where everyone can do important work, feels welcome, valued, and respected, and has equal access to opportunities to thrive. Paul Chase - Chief Executive, Leidos Australia.
+
+ 
+
+Leidos Australia is an equal opportunities organisation and is committed to creating a truly inclusive workplace. We welcome and encourage applications from Aboriginal and Torres Strait Islanders, culturally and linguistically diverse people, people with disabilities, veterans, neurodiverse people, and people of all genders, sexualities, and age groups.
+
+ 
+
+Our five Advocacy Groups (Women and Allies Network, Young Professionals, Defence & Emergency Services, Action for Accessibility and Abilities and Pride+) provide an opportunity for team members to connect and collaborate on shared interests, and work to support and celebrate our diverse community.
+
+ 
+
+Next Steps
+
+To apply for this role, follow the links or apply via our Careers page.
+
+Recruitment process - virtual / face to face interview & background checks.
+
+Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1.
+
+We are committed to making our recruitment process accessible to all candidates. Please contact our Careers team careers.au@au.leidos.com if you'd like to discuss any additional support during your application or throughout the recruitment process. 
+
+If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo - because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 - and moving faster than anyone else dares.
+
+ 
+ 
+Original Posting:
+
+ 
+
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+ 
+
+ 
+
+Pay Range:
+
+ 
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+
+ 
+
+About Leidos
+
+ 
+
+Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.
+
+ 
+
+Pay and Benefits
+
+ 
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.
+
+ 
+
+Securing Your Data
+
+ 
+
+Beware of fake employment opportunities using Leidos' name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system - never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.
+
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+
+ 
+
+Commitment to Non-Discrimination
+
+ 
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws."
+90429054,Lead Software Engineer – GenAI Developer Tooling,Peoplebank Australia NSW,https://www.seek.com.au/job/90429054?type=standard&ref=search-standalone&origin=jobCard#sol=dce800a1f1dab407c76ee6031834f14fa9b9d4c0,3h ago,3.0,2026-02-19T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Build the Infrastructure Behind AI-Augmented Engineering
+
+Our long-term, a premier B&F brand, has public CEO backing and the funding to drive software development output through harnessing GenAI dev tooling. They are committed to materially increasing engineering output over the next three years through GenAI-enabled tooling and workflow transformation. To achieve that, they are expanding a dedicated GenAI Developer Tooling team focused on building AI-powered platforms that integrate directly into the software development lifecycle. This is a rare opportunity to work on applied AI that directly impacts how software is built at scale.
+
+The Team
+This team operates across:
+
+Greenfield and brownfield GenAI tooling initiatives
+Workflow automation and internal platform engineering
+Direct collaboration with development teams to embed AI into real projects
+You will help design and implement the tools engineers rely on every day.
+
+What You’ll Be Doing
+
+Building backend services in Go and/or Java (SpringBoot)
+Developing internal web tooling in TypeScript (React / Next.js)
+Integrating LLM APIs into structured engineering workflows
+Automating CI/CD and GitHub processes
+Building SDK and API integrations
+Optimising AI-driven workflows for performance and cost
+Contributing to experimentation, iteration and platform evolution
+Participating in incident response and continuous improvement
+You will move ideas from prototype to production within a high-impact engineering environment.
+
+What They’re Looking For
+A strong senior engineer who:
+
+Has solid backend engineering foundations
+Has worked in DevOps-driven environments
+Is comfortable with automation, CI/CD and integration patterns
+Has experimented with LLM APIs or AI tooling in meaningful ways
+Is curious about AI-native development practices
+Enjoys building internal platforms that improve engineering velocity
+You might have:
+Built personal AI side projects
+Integrated LLM APIs into applications
+Used AI IDE tooling extensively
+Automated repetitive development tasks
+They are seeking engineers who view AI as a serious productivity layer, not a novelty.
+
+Why This Role Is Exciting
+This is not maintenance engineering. It is the opportunity to build the AI-enabled infrastructure that modern development teams will depend on. Very few organisations are investing in GenAI developer tooling at this scale and with this level of intent. If you want to work at the forefront of AI-augmented engineering, this is where it is being built.
+To learn more about this innovative opportunity, ""apply now"" - job reference #269566.
+
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+90428742,Lead Platform Engineer - GenAI Developer Tooling,Peoplebank Australia NSW,https://www.seek.com.au/job/90428742?type=standard&ref=search-standalone&origin=jobCard#sol=c6e1a35540a23de64b413571453998b769764e6b,3h ago,3.0,2026-02-19T03:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Redefine How Software Is Built
+
+Our long-term, a premier B&F brand, has public CEO backing and the funding to drive software development output through harnessing GenAI dev tooling. They have set an ambitious goal: increase developer output by 50% over three years through GenAI-enabled tooling and workflow transformation.
+To deliver on that mandate, they are investing in a dedicated GenAI Developer Tooling capability focused on embedding AI directly into the software development lifecycle at enterprise scale.
+This is not surface-level AI adoption. It is about building the internal platforms, automation frameworks and AI-assisted workflows that materially change how software is designed, written and delivered. They are hiring two Technical Leads to help shape and build that future.
+
+The Opportunity
+
+This team operates at the intersection of:
+
+LLM integration
+AI-assisted development
+Developer experience platforms
+SDLC automation
+Internal tooling engineering
+
+You will sit between architectural direction and engineering delivery, turning GenAI strategy into production-grade systems. This role is approximately 50% hands-on coding.
+
+What You’ll Be Doing
+
+Designing and implementing low-level architecture for GenAI developer tooling initiatives
+Building proof-of-concepts and production-ready AI-integrated components
+Embedding LLMs into engineering workflows and IDE environments
+Developing internal tooling using Go, Java (SpringBoot) and TypeScript (React / Next.js)
+Implementing automation via GitHub workflows, webhooks and API integrations
+Optimising AI workflows for performance, cost and governance
+Mentoring and uplifting a growing GenAI engineering team
+Partnering with engineering squads to embed AI into live delivery projects
+Participating in incident response and post-mortem improvement
+This is platform engineering combined with applied AI at scale.
+
+What They’re Looking For
+
+You are a deeply hands-on senior engineer or staff-level technical leader who:
+Has built real LLM integrations into production systems
+Understands token limits, hallucination behaviour, cost trade-offs and security implications
+Has experience building internal tooling or developer platforms
+Is fluent in backend engineering and automation patterns
+Has operated in DevOps-heavy, CI/CD-driven environments
+Can mentor and technically elevate engineers around you
+Is curious, experimental and comfortable operating in ambiguity
+You may have:
+
+Built internal AI assistants or dev productivity tools
+Integrated Claude or similar models into structured workflows
+Used AI IDE tooling such as Cursor in depth
+Created automation frameworks that remove friction from the SDLC
+Learned through breaking and refining LLM-driven systems
+They are seeking practitioners who have moved beyond experimentation into real-world application.
+
+Why This Role Is Different
+Few organisations are building enterprise-scale GenAI developer tooling as a strategic productivity initiative. This is a funded, executive-backed transformation with clear impact targets. You will help shape how thousands of engineers build software in the AI era.
+
+To find out more about this opportunity, please apply now using reference number ""269493""
+
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+90428599,Azure Data Engineer,Robert Half,https://www.seek.com.au/job/90428599?type=standard&ref=search-standalone&origin=jobCard#sol=3e7c2b8118e98f8d2ac165729218596eb59fbd33,3h ago,3.0,2026-02-19T03:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$800 - $1k p.d. + Base + super,"This management consultancy business is actively looking for a highly skilled Data Engineer to join their Data and Analytics team. As a Data Engineer, you will play a key role in building modern data platforms on Microsoft Azure, enabling advanced analytics, AI, and business intelligence solutions for leading organisations across multiple sectors. You will work closely with consultants, architects, analysts, and client stakeholders to translate business requirements into robust technical solutions.
+
+If you thrive in a collaborative environment and have a passion for data, this is the perfect opportunity for you!
+
+Key Responsibilities:
+
+Design and implement end-to-end data solutions using Azure services.
+Build and optimise data pipelines using Azure Data Factory, Azure Synapse Analytics, and Azure Databricks.
+Develop scalable data models for analytics and reporting.
+Implement data lakes and lakehouse architectures using Azure Data Lake Storage.
+Ensure data quality, governance, and security best practices.
+Support real-time and batch data processing solutions.
+Collaborate with business stakeholders to understand analytical requirements.
+Contribute to architecture design and best practice development.
+
+Essential skills:
+
+Proven background with data engineering and development.
+Experience with Azure Data Factory, Microsoft Fabric, Azure Databricks and/or Synapse Analytics, Azure Event Hubs.
+Knowledge of Medallion Architecture/ Lakehouse/Data Warehouse in Fabric.
+Experience in building data ingestion pipelines in Fabric.
+Experience in Infrastructure-As-Code tools such as Terraform.
+Experience in data architecture, data modelling, Data warehousing and SDLC.
+Advanced SQL experience.
+Experience with cloud storage concepts (e.g., Azure Blob Storage).
+Use Microsoft DevOps (CI/CD) to deploy new pipelines or implement changes to existing ones.
+Expertise in SQL and Python scripting.
+Experienced with Docker/containerisation.
+Experience with visualisation tools such as Power BI.
+Excellent communication skills with the ability to work effectively with a range of stakeholders.
+Have a deep understanding of IaaS and PaaS services offered on the various cloud platforms and understand how to use them together to build complex solutions.
+Ability to work independently and effectively within a team environment.
+
+The client offers 3 days in office / 2 days from home hybrid working model.
+
+By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
+90426499,"Lead AI Engineer - Gain Production GenAI/Agentic AI -$220,000-Melbourne/Hybrid",Morgan Consulting,https://www.seek.com.au/job/90426499?type=standard&ref=search-standalone&origin=jobCard#sol=a8b03e4f0c0a946e384d9068f5e812094a26e9f7,5h ago,5.0,2026-02-19T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,AUD 180000 - 220000 per annum,"Lead AI Engineer - Gain Production GenAI/Agentic AI - $220,000 - Melbourne - Hybrid 
+
+Morgan Consulting is partnering with a data driven innovator that is shaping the next era of Generative AI, Agentic AI, and Machine Learning. As they scale advanced AI capabilities across products, platforms, and engineering practices, they are seeking a Lead AI Engineer to define technical direction, build high impact solutions, and mentor a cross‑functional squad working across production GenAI, Agentic AI and ML Systems.
+
+
+About the Role:(reference V-66350)
+
+This is a hands‑on technical leadership role, you will architect, build, and operate reliable ML/AI solutions, elevate engineering standards, and accelerate the adoption of Generative and Agentic AI across mission‑critical, client‑facing platforms. This position combines strategic influence with deep technical execution, ideal for someone who wants to lead, innovate, and deliver tangible impact.
+
+What You Will Do:
+
+Set technical vision and roadmap for ML/AI engineering, including GenAI testing, automation, agentic patterns, MLOps, and production GenAI.
+Lead and mentor engineers across automation, frontend testing, and ML through reviews, pairing, and capability uplift.
+Architect end‑to‑end ML/AI systems: feature pipelines, model training/evaluation, inference/agentic services, observability, and scalable continuous delivery.
+Establish GenAI and Agentic AI testing frameworks, including custom LLM test models, and drive best practice in evaluation, safety, and release governance.
+Build and evolve automation frameworks for web/mobile (Playwright, Cypress, Appium/Detox) with GenAI‑driven test generation, prioritisation, and self‑healing.
+Standardise ML/GenAI delivery patterns: feature stores, CI/CD, registries, canary/blue‑green, rollbacks, A/B & back‑testing, agent orchestration.
+Own reliability, performance, resilience, latency, and cost optimisation; ensure SLOs, alerting, and runbooks for ML and production GenAI.
+Close gaps across DevSecOps, guardrails, data governance, secrets, PII handling, and compliance for ML, LLMs, and agents.
+Partner with Data Science to productionise advanced models (LLMs, multimodal, agentic systems) with experimentation, telemetry, and monitoring.
+Champion continuous improvement, automation‑first mindset, developer experience uplift, and platform investments.
+Design and implement feature pipelines, inference services, and agentic execution paths (APIs, streaming, batch) with drift, hallucination, performance, and cost monitoring.
+Build and maintain CI/CD pipelines for ML, GenAI, and automation (GitHub Actions primary; Jenkins/Codemagic as needed).
+Lead test strategy for ML, LLMs, and agentic systems: contract tests, model evals, guardrails, synthetic data, behavioural tests, production validation.
+Perform peer reviews and ensure engineering standards: secure coding, documentation, reproducibility.
+Drive estimation, prioritisation, and delivery alignment with product and platform teams.
+Diagnose and resolve production issues across ML/LLM failures, agentic misbehaviour, data drift, and infra bottlenecks; own incident analysis and remediation.
+Ensure observability and explainability: metrics, logs, traces, model cards, evaluation reports for all ML/AI systems.
+Support adoption of quantitative/price‑assurance frameworks and contribute to solver/simulation‑based applications.
+What you will bring:
+
+Proven experience leading engineering teams or guilds across Gen AI and Agentic AI/ML/MLOps and test automation in production, customer-facing contexts.
+Strong software engineering in Python and one of Rust/C++/Java/Go, with demonstrable knowledge of concurrency, parallelisation, performance tuning, and memory safety.
+Hands-on with ML pipelines, model registries, feature stores, containerisation (Docker) and orchestration (Kubernetes).
+Expertise in CI/CD and quality engineering at scale; deep experience integrating GitHub Actions (preferred) or Jenkins/Codemagic.
+Solid track record with frontend/mobile test frameworks (Playwright, Cypress, Appium/Detox, Selenium) and GenAI enabled testing (test synthesis, self healing, flake reduction).
+Proficient in model experimentation & evaluation (A/B testing, back testing, cross validation, error analysis), plus real time prediction use cases (regression, classification, time-series, anomaly detection).
+Strong grasp of DevSecOps for ML, secrets, compliance, access control, PII handling, dependency risk, and secure SDLC.
+Excellent communication, stakeholder management, and the ability to influence standards across multiple teams.
+Experience with quant/price assurance frameworks or solver/simulation based applications.
+Familiarity with data models such as Medallion, Kimball, or Data Vault.
+TypeScript/JavaScript for tooling and test frameworks; mobile CI familiarity.
+Knowledge of LLM evaluation frameworks, prompt testing/hardening, and guardrail libraries.
+
+Why Join:
+
+Opportunity to gain significant GenAI and Agentic AI production experience at enterprise scale. 
+Strong Career Development.
+Amazing culture - data driven innovator that is shaping the next era of Generative AI, Agentic AI, and Machine Learning.
+
+If you're a Lead AI Engineer, who thrives in a fast-paced environment, and is outcome focussed we would love to hear from you. Apply now or reach out for a confidential conversation (reference V-66350)."
+90423534,LabVIEW Developer,BT Imaging Pty Ltd,https://www.seek.com.au/job/90423534?type=standard&ref=search-standalone&origin=jobCard#sol=5a58dd68b9a82d619085bc125e92119a799a4886,6h ago,6.0,2026-02-19T00:00:00+00:00,"Waterloo, Sydney NSW",Engineering - Software (Information & Communication Technology),Contract/Temp,,"About BTi:
+
+BT Imaging is the original inventor and world’s leading manufacturer of luminescence inspection tools for the solar photovoltaic industry. Headquartered in Sydney, Australia, BT Imaging develops and manufactures high-performance photoluminescence imaging systems used by solar cell manufacturers, researchers, and equipment makers worldwide. Our innovative optical and imaging solutions are deployed by top-tier solar manufacturers and research institutions around the world and is routinely deployed to optimize production, improve quality control, and accelerate innovation in solar energy. With a focus on precision engineering, data analytics, and sustainability, BT Imaging is at the forefront of enabling the global transition to clean energy.
+
+Job Description:
+
+BT imaging is looking for LabVIEW Developer (Contractor) to support our growing technology team in Sydney.
+
+You will be responsible for delivering a LabView user interface for a next-generation metrology hardware product involving aspects of UI and data visualization, hardware control, DB management, data processing, communication protocols and high speed (low latency) performance. You will also work closely with a Senior Software Developer as well as other Technology team members to conduct ad-hoc maintenance tasks on similar software architectures for existing products, develop new LabView software features on existing or new systems, and conduct QA/QC testing aimed at reproducing and diagnosing issues from the field. You will be part of the technology team, interfacing with other hardware and software engineers.
+
+Responsibilities:
+
+- Deliver LabView software project for new systems 
+
+Own and manage project timelines and provide regular timeline updates for key milestones for LabView software development.  
+
+Coordinate closely with Senior Developer and the Technology team to determine and action on project priorities 
+
+Develop LabView-based hardware interfaces for metrology system components including cameras, power systems, motorized components, DAQ and PLC. 
+
+Develop LabView user interface and data visualization for imaging (2D/3D) and curve-based (0D/1D) measurement data 
+
+Review and update LabView protocols for data ETL and processing as well as database management 
+
+Review and update communication protocols to enable memory-efficient and high speed (low latency) performance 
+
+Incorporate end-user and technology team feedback to improve existing architecture/processes and develop new features. 
+
+Document design choices, known issues and potential feature improvements. 
+
+-- Assist with software improvements for new products:  
+
+Develop, document and implement new software features as assigned for inline metrology systems 
+
+Assist with product revival efforts and special order products 
+
+Assist with determining interface requirements for new hardware and identify parts or software packages required 
+
+Assist with project work package management and enable deadline-driven software development projects as required 
+
+Provide feature feasibility insights  
+
+-- Assist with managing of LabView software portfolio for existing systems / products 
+
+Assist Senior Engineer to provide remote or on-site support to ensure timely response to priority customers including strategic clients and customers with high uptime requirements.  
+
+Support QA/QC efforts to fix routine issues in timely manner and update / modify software to meet new customer requirements 
+
+Support Field Service Engineers as required to resolve LabView software bugs during installation/commissioning and post-commissioning service. 
+
+Maintain backward compatibility replacing phased out hardware 
+
+Conduct ad-hoc maintenance tasks as assigned for existing product software including versioning, release and deployment. 
+
+Assist with “Service triage” for Bug fixing on existing LabView-based platforms 
+
+-- Provide support technology and product development teams as required (e.g. control system, hardware communication, root cause analysis and cost down efforts) 
+
+ 
+
+Essential Qualifications: 
+
+Bachelor’s Degree or higher in Engineering, Computer Science or related fields 
+
+At least 5 years of experience delivering and maintaining commercial LabVIEW software systems for instrumentation or other hardware products 
+
+Proficient with LabVIEW2020 and LVOOP 
+
+Experience with customizing type-definition Control/indicator for UI 
+
+Experience with interfacing, control, synchronizing and integrating various hardware (including but not limited to cameras, motorized stages, source measurement units, DAQ, PLC, etc) 
+
+Experience / knowledge of LabView based feedback / PID control 
+
+Experience with SQL and database management 
+
+Experience with implementing / interpreting network protocol base on TCP/UDP 
+
+Able to interpret electronic circuits and electrical schematics 
+
+Able to work independently 
+
+Must work in the office (not a remote role) 
+
+Desirable Qualifications: 
+
+Experience with machine vision, imaging systems, laser systems or electrical metrology applications is desirable (e.g. LabView control of source measurement units, cameras, motorized stages, etc) 
+
+Knowledge / ability to interface with Rust / C++ and Python modules is advantageous 
+
+Knowledge / Experience interfacing with Structured Text and PLC (e.g. Beckhoff, Siemens, Rockwell, etc) is advantageous 
+
+Ability to communicate in spoken/written Mandarin is advantageous"
+90424430,Contract Data Scientist - North Brisbane,Edison Talent,https://www.seek.com.au/job/90424430?type=standard&ref=search-standalone&origin=jobCard#sol=e76914231235c97be73467e12b7b884a1dfe1b9b,6h ago,6.0,2026-02-19T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$100 – $150 per hour,"Edison Talent is partnering with a large enterprise organisation in North Brisbane seeking an experienced Data Scientist to join a mature data environment supporting major infrastructure and asset operations.
+
+This is an initial 8 month contract with review for extensions.
+
+The Role
+
+You will work across data, GIS and operational teams to deliver practical, high impact analytics that support performance, forecasting and long term investment decisions.
+
+Key focus areas:
+
+• Build predictive and forecasting models using complex operational data
+• Work with spatial and asset related datasets
+• Develop time series and optimisation models
+• Automate workflows using Python
+• Partner with data engineering and GIS teams to deliver clean, analysis ready data
+• Present clear, commercial insights to senior stakeholders
+• 3/2 work environment
+
+What You Bring
+
+• Proven Data Scientist experience in a complex enterprise environment
+• Strong Python and SQL capability
+• Experience with large structured datasets
+• Exposure to spatial or geospatial data highly regarded
+• Strong stakeholder engagement and communication skills
+
+This is a strong contract opportunity within a well established organisation investing heavily in data and analytics.
+
+For a confidential discussion, please contact:
+
+Tom McGruther
+0411404469
+tom@edisontalent.com.au"
+90424354,Data & Automation Engineer,Deloitte,https://www.seek.com.au/job/90424354?type=standard&ref=search-standalone&origin=jobCard#sol=d2574c90e0e3ad770cdc7b09f12daec799ec612e,6h ago,6.0,2026-02-19T00:00:00+00:00,Sydney NSW (Hybrid),Web Development & Production (Information & Communication Technology),Full time,,"Company description:
+
+
+
+Deloitte Services Pty Ltd
+
+
+
+Job description:
+
+
+
+Data Integration & Analytics Engineer - Sydney
+
+Work in a start-up like environment - opportunity to develop new features  
+
+Flexible work arrangements - work in a way that suits you best  
+
+Holistic well-being program - flu vaccinations and health & wellbeing focused work  
+
+What will your typical day look like?
+
+Day to day, you'll build and improve the data and analytics solutions that power Deloitte's Audit & Assurance platform. You'll work hands-on with large, complex datasets—shaping, modelling and transforming data so it's ready for high-impact audit and finance use cases. Your work will be used by thousands of people across Australia and Asia Pacific, giving you real scale and visibility.
+
+You'll collaborate with architects, analysts and engineers to turn real business and regulatory needs into reliable data pipelines and Python-based analytics apps. Along the way, you'll help modernise our ETL workflows, support smooth releases through CI/CD, and share your knowledge with junior team members—while continuing to grow your own skills.
+
+About the team
+
+The Audit & Assurance (A&A) Data & Digital team sits at the heart of Deloitte's Asset Transformation Strategy across Asia Pacific. We're a diverse, multidisciplinary group of data engineers, designers, developers and consultants, united by a shared mission: delivering next-generation solutions through our proprietary Big Data Platform.
+
+Our platform processes billions of records across hundreds of solutions and supports thousands of clients and engagements. It's a fast-paced, collaborative environment where engineering excellence, innovation and real-world impact go hand in hand.
+
+Enough about us, let's talk about you.
+
+You may have all or some of the following skills / experiences:
+
+2-4+ years' experience as a Data Engineer or Data Product Engineer, ideally in consulting or complex, multi-system environments
+
+Strong Python skills for data wrangling and analytics (e.g. Pandas, Polars, PySpark)
+
+Confident working with SQL and tuning queries for performance (e.g. Azure SQL, Postgres, DuckDB)
+
+Hands-on experience building and running ETL/ELT pipelines, using modern data integration tools or custom Python solutions
+
+Comfortable working with large, complex datasets, including modelling, mapping and data quality checks
+
+Experience building Python-based analytics or reporting apps, and supporting APIs or backend services
+
+Familiar with CI/CD ways of working and common tooling
+
+A collaborative communicator who enjoys working with engineers, analysts and architects
+
+Self-driven and adaptable, with a genuine interest in learning and improving
+
+Bonus points for exposure to Docker, Power BI/Tableau, Databricks or AI-powered developer tools—but these aren't essential.
+
+Why Deloitte?  
+
+At Deloitte, we focus our energy on interesting and impactful work. We're always learning, innovating and setting the standard; making a positive difference to our clients and our society. We put coaching at the heart of what we do, helping our people grow their careers in any direction - whether it be up, moving into something new, or even moving across the world.
+
+We embrace diversity, equity and inclusion. We have a diverse collection of people from different backgrounds, with different experiences, gender identities, abilities and thinking styles. What binds us together is a shared commitment to value everyone's perspective and to cultivate inclusion; so that our work environment is a safe space we can all belong.
+
+We support flexibility and choice. We encourage you to find the right balance between connecting in person with your clients and teams and meeting your own personal needs.
+
+We help you live and work well. To support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave and return to work support package.
+
+
+Next Steps  
+Sound like the sort of role for you? Apply now.  
+
+Please note: Deloitte has a shutdown period from Friday the 19th of December to Monday the 5th of January, and applications will not be reviewed until we return"
+90424146,Data Engineer,Hanwha Energy Australia Pty Ltd,https://www.seek.com.au/job/90424146?type=standard&ref=search-standalone&origin=jobCard#sol=65e3e8cf6ecd496e2b665ebb56b7208521c1d61b,6h ago,6.0,2026-02-19T00:00:00+00:00,"North Sydney, Sydney NSW",Architects (Information & Communication Technology),Full time,,"About Us
+
+Hanwha Energy Australia, part of the global Hanwha Group, is a fast-growing renewable energy company operating across utility-scale generation, storage, and distributed energy solutions. Through our consumer brand, Nectr, we deliver clean energy products, solar & battery installations, and innovative customer solutions nationwide.
+
+As our business continues to scale, high-quality data engineering is essential to supporting smarter decision-making, better customer insights, and stronger operational performance across our energy retail and solar divisions. We are investing heavily in our data and analytics capability — and this is your chance to be part of that growth.
+
+The Opportunity
+
+We’re seeking a hands-on Data Engineer to help build and optimise modern, scalable, and secure data platforms across the Hanwha/Nectr ecosystem.
+This role reports to our Head of Data & Analytics and works closely with teams across Retail, Solar & Battery Installations, Operations, Finance, and Strategy.
+
+You’ll design and deliver reliable data pipelines, enhance our Databricks-based Lakehouse environment, and support reporting and analytics used by leaders across the business. If you love solving real-world problems with data and want to make an impact in the clean energy sector, you’ll thrive here.
+
+Key Responsibilities
+Data Engineering & Platform Development
+
+Design and implement scalable data pipelines using Databricks, Delta Lake, and PySpark.
+
+Develop high-performance ETL/ELT workflows using Databricks Workflows, Airflow, or similar orchestration tools.
+
+Integrate data from APIs, SaaS applications, relational databases, and flat files.
+
+Ensure robust data quality, lineage, governance, and metadata tracking across datasets.
+
+Implement monitoring and alerting to ensure pipeline reliability.
+
+Support CI/CD workflows, Git-based development, and containerised deployments.
+
+Explore emerging Databricks and AWS services to enhance our analytics ecosystem.
+
+Analytics & Reporting Enablement
+
+Collaborate with analysts to support dashboarding in Power BI, Tableau, or Qlik.
+
+Optimise data models and tables for performance, accuracy, and usability.
+
+About You
+
+You’re someone who enjoys working end-to-end on data solutions and takes pride in building systems that teams can rely on every day. You communicate well, collaborate naturally, and enjoy improving tools, processes, and architecture over time.
+
+Experience & Skills
+
+Strong experience with Databricks, Delta Lake, notebooks, and large-scale data processing.
+
+Proficient in Python, SQL, and PySpark.
+
+Understanding of data modelling, governance, orchestration, and best-practice engineering.
+
+Comfortable with CI/CD, Git workflows, and containerisation.
+
+3+ years’ experience in data engineering or a related analytics engineering role.
+
+Bonus: experience with Python ML workflows or predictive analytics.
+
+Energy or utilities sector background is highly regarded.
+
+Personal Attributes
+
+Positive, collaborative, and proactive approach.
+
+Strong problem-solving mindset with a focus on delivery quality.
+
+Ability to work both independently and in cross-functional teams.
+
+Curiosity to explore new technologies and continuously improve.
+
+Why Join Us
+
+Be part of a global business accelerating Australia’s transition to clean, affordable energy.
+
+Work with modern data technologies and shape a growing analytics platform.
+
+Exposure to energy retail, solar & battery installations, and distributed energy innovation.
+
+Supportive team culture with opportunities for learning, ownership, and career growth.
+
+Competitive remuneration based on experience.
+
+North Sydney office with hybrid flexibility."
+90424050,Senior Systems Architect,Boeing Defence Australia,https://www.seek.com.au/job/90424050?type=standard&ref=search-standalone&origin=jobCard#sol=7a1aaba3056c7524587a1ce26f9f49048126239c,6h ago,6.0,2026-02-19T00:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,,"Boeing Defence Australia (BDA) are looking for a seasoned architect to join Phantom Works Australia (PW‑A) to outline the design, development and delivery of AI‑enabled, systems‑oriented solutions for defence.
+
+You will define the technical vision, create architecture artefacts, and guide multidisciplinary teams as they build cloud‑native, data‑integrated platforms that leverage large language models, machine‑learning pipelines, autonomous agents and workflow automation.
+
+PW‑A specialises in identifying, analysing and prototyping strategic capabilities that can be transitioned to a BDA business unit within a five‑year timeframe. This role would shape the development and implementation of world leading strategic capabilities in a fast-paced rapid prototyping environment and observe its direct transition into real operational systems.
+
+Location: Brisbane
+Reports to: Phantom Works Australia Engineering Manager
+
+Key Responsibilities
+
+Architectural Guidance - Create and maintain architecture artefacts (requirements, algorithms, interfaces, design docs) for complex AI‑enabled systems.
+AI & Automation - Apply LLM, ML, agent development, and workflow‑automation techniques to new and existing defence solutions.
+Service‑Oriented Design - Lead Service Oriented Architecture (SOA) design, definition, and development, ensuring reusable, loosely‑coupled services across platforms.
+Cloud & IaC - Design cloud‑based architectures, data‑integration flows and implement Infrastructure‑as‑Code (IaC) (e.g., Terraform) for scalable deployments.
+Monitoring & Logging - Define and implement monitoring, logging and key‑performance‑metric frameworks to guarantee reliability and observability.
+Development Excellence - Steward high‑quality, maintainable code (Python required; C++ desirable) and, where needed, front‑end components using React/TypeScript.(desirable)
+Testing & Reliability - Foster intentional testing methodologies, debugging and performance optimisation throughout the software lifecycle.
+Mentoring & Collaboration - Guide senior engineers, foster best‑practice engineering culture and act as primary liaison with customers, internal stakeholders and international Boeing partners.
+Continuous Innovation - Stay current with emerging AI, cloud and automation technologies and evaluate their suitability for strategic outcomes
+
+Required Experience & Qualifications
+
+14 + years of relevant work experience (or equivalent combination of education and experience, e.g., PhD + 9 years, Master + 12 years).
+Proven senior‑level experience architecting complex systems‑oriented solutions in high‑security or defence environments.
+Strong Python development background and domain expertise in LLMs, machine learning, agent development and workflow automation
+
+Applicants must be Australian Citizens to meet Defence security requirements.
+
+ What's on offer?
+
+Boeing values the health and wellbeing of our employees and offer true flexibility including working from home, compressed work weeks, and opportunities for part time arrangements, allowing you to balance your career with what is important to you outside of work.
+
+Other benefits:
+
+Work on cutting edge projects with opportunities to work across platforms.
+Attractive remuneration and annual bonus.
+Formal mentoring and training as well as on the job learning.
+Formal reward and recognition program.
+Access discounts for health insurance, travel and accommodation.
+Paid study leave, paid parental leave and Defence leave.
+Salary packaging options available.
+Health and wellbeing benefits including annual flu vaccinations and Employee Assistance Program.
+Social and community groups.
+
+BDA works with strong links with our global Boeing community and we strongly encourage collaboration with our international counterparts.
+
+We are committed to building a diverse and inclusive workplace. Female applicants, people of Aboriginal or Torres Strait Island descent and veterans are encouraged to apply.
+
+If you are ready to join an innovative industry leader and would like to register your interest in working for Boeing, please click Apply Now."
+90424087,Senior Machine Learning Engineer - Inspire & Create (AU Remote),Canva,https://www.seek.com.au/job/90424087?type=standard&ref=search-standalone&origin=jobCard#sol=308e22782b2a6d0358eeb9f7fc2d7a09b2e43728,6h ago,6.0,2026-02-19T00:00:00+00:00,Sydney NSW (Remote),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+
+
+Join the team redefining how the world experiences design.
+
+Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. 
+
+Where and how you can work
+
+Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide, and Auckland, NZ. You have flexibility in how and where you work — whether that's from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia, so you can choose the setup that empowers you and your team to do your best work.
+
+Job Description
+
+
+Join the team redefining how the world experiences design.
+
+Hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte!
+
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+
+About the team
+
+We're Canva Grow, one of Canva’s newest product groups, born from the acquisition of MagicBrief. Our mission is to build the surface inside Canva that brings creativity, data, and insights together - helping businesses grow through better advertising.
+
+Advertising, when done well, connects people with things they love. Our goal is to help every business create ads that are effective, creative, and respectful of attention. We’re scaling fast, with the agility of a startup and the backing of Canva’s global platform.
+
+You'll be joining the Inspire & Create team, leading product development at the intersection of publishing systems, creative performance, and integrated ad platforms. But your work won’t be constrained to a single team. As our first MLE in Grow we will be looking to you to inform the full feedback loop across the whole group - your work will impact the entire customer journey from Inspire → Create → Publish → Insights → Recommend → Inspire.
+
+What you’d be doing in this role:
+
+As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+
+At the moment, this role is focused on:
+
+Building, testing, and shipping ML-powered features that enhance our ad generation experiences
+
+Designing scalable ML pipelines in collaboration with our platform teams
+
+Working closely with PMs, designers and engineers to align on user needs and product direction
+
+Running experiments to validate assumptions and improve model effectiveness
+
+Contributing to shared ML infrastructure and best practices at Canva
+
+Keeping up with state-of-the-art developments and exploring ways to apply them at scale
+
+You're probably a match if
+
+You’re a highly skilled machine learning engineer with a proven track record of delivering ML-powered product features in production.
+
+You bring deep technical expertise across the ML lifecycle - from data wrangling and model development to evaluation, deployment, and monitoring.
+
+You’re comfortable operating independently while collaborating deeply with cross-functional teams, and you’re motivated by user impact and product outcomes.
+
+You have demonstrated experience building and deploying ML-powered features in production environments.
+
+You have proficiency with Python and frameworks like TensorFlow or PyTorch.
+
+You are skilled across the ML lifecycle: data processing, model training, evaluation, deployment, and monitoring.
+
+You have proven ability to work independently while collaborating cross-functionally with product, design, and data.
+
+You have experience with Generative AI (GenAI): LLMs, diffusion models, prompt engineering, RAG, or fine-tuning.
+
+You have familiarity with GenAI platforms (e.g. OpenAI, Hugging Face, Anthropic) and embedding-based systems.
+
+You have a strong product mindset - prioritises ML solutions that improve user experience and product outcomes.
+
+You are committed to scalable, maintainable ML systems with clear metrics and impact tracking.
+
+You are passionate about ethical ML and responsible data usage, especially in learning environments.
+
+You enjoy mentoring and sharing best practices within the team.
+
+Additional Information
+
+
+Don't tick all the boxes? Don't worry about that - nobody does!  
+
+We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you're excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!
+
+What's in it for you?
+
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
+
+Here's a taste of what's on offer:
+
+Equity packages - we want our success to be yours too
+Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
+
+Check out  lifeatcanva.com for more info.
+
+Other stuff to know
+
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
+
+All interviews are conducted virtually"
+90423795,AI Systems Engineer & Architect,First or Nothing,https://www.seek.com.au/job/90423795?type=standard&ref=search-standalone&origin=jobCard#sol=5f00d6ea50fd65b84bd4530adfe0c14153e31fc5,7h ago,7.0,2026-02-18T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Part time,"$100,000 – $130,000 per year","Hi, thanks for having a look.
+
+We're FON, and we're not just another health company - we're building the future of intelligent customer engagement as well.
+
+What We're Looking For
+
+We need a seriously talented AI Systems Developer who can turn complex technical challenges into elegant solutions. If you are all out about pushing the boundaries of AI and can transform raw data into actionable intelligence, this is your moment.
+
+The Role
+
+You'll be our weapon in developing cutting-edge AI systems that transform how we interact with customers. We're not just building a tool - we're crafting an intelligent layer that learns, adapts, and drives real business results.
+
+Tech Stack You'll Need
+
+Python
+
+OpenAI/Azure AI APIs
+
+Cloud scheduling technologies
+
+Shopify/E-commerce platform integrations
+
+PostgreSQL/NoSQL databases
+
+Advanced Skills We're Hunting For
+
+OpenClaw or similar orchestration platforms
+
+RAG (Retrieval Augmented Generation) architectures
+
+A/B testing framework expertise
+
+What Makes This Exciting
+
+You'll be at the forefront of AI development
+
+We're launching a SAAS platform this year to support international expansion
+
+Working with a team that thinks differently about health technology and customer experience
+
+The Real Challenge
+
+We need someone who can:
+
+Optimize AI usage cycles for minimal billing
+
+Solve complex problems with creative solutions
+
+Understand deep AI mechanics beyond surface-level implementations
+
+Transform raw API interactions into intelligent, adaptive systems
+
+Who Are We?
+
+First or Nothing is not just another supplement company. We're tech innovators disrupting the health and wellness space. Our approach? Blend cutting-edge science, intelligent technology, and user-centric design.
+
+What You'll Bring
+
+A brain that thinks in algorithms and possibilities
+
+An obsession with efficiency and intelligent design
+
+The ability to see connections others miss
+
+A portfolio that screams ""I don't just code, I create magic""
+
+Compensation
+
+Competitive salary
+
+Interested?
+
+If you read this and your pulse quickened, this is your role. Send us something that proves you're not just another developer - you're a technology architect.
+
+Shoot your most impressive work to mo@usefon.com
+
+Let's build something revolutionary.
+
+Please Note: We're not looking for average. We're looking for exceptional."
+90423792,Analyst Intelligent Automation,Department of Education,https://www.seek.com.au/job/90423792?type=standard&ref=search-standalone&origin=jobCard#sol=71890b4d9fb7576b2615d78eac4eaf62be33f18f,7h ago,7.0,2026-02-18T23:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,From 99938 to 110271 AUD per year,"Company description:
+
+
+
+The NSW Department of Education is the largest provider of public education in Australia with responsibility for delivering high-quality public education to two-thirds of the NSW student population. For more information about the NSW Department of Education, please visit https://education.nsw.gov.au/
+
+
+
+Job description:
+
+
+
+At the NSW Department of Education, we educate and inspire lifelong learners - from early childhood, through schooling to vocational education and training.
+
+Ongoing Full-Time employment
+Located in Parramatta with flexible working arrangements available
+Salary ranges from $99,938 to $110,271 p.a. plus superannuation and annual leave loading
+
+About Us
+
+The Intelligent Automation Team within the NSW Department of Education is a mature automation practice that has developed extensive robotic process automation (RPA) capabilities using Blue Prism as its core RPA tool, alongside Microsoft Power Platform solutions, over the years. The team operates within the Shared Services Directorate, which is responsible for transforming how we deliver services to our customers.
+
+We are a group of passionate professionals committed to delivering high-quality services. Our team has a proven track record of successfully developing and implementing RPA solutions that streamline internal processes and enhance service delivery.
+
+
+About the role
+
+As the Analyst Intelligent Automation, you will be responsible for the delivery of high-quality robotic process automation and intelligent Automation solutions aimed at enhancing customer experience across the Department.
+
+Your responsibilities:
+
+Collaborating with business SME to deliver end-to-end automation solutions
+Manage automation schedules, monitor system performance for quality assurance
+Provide operation support for production releases and develop comprehensive handover and user training
+
+For further information please click here to view the role description
+
+About you
+
+The ideal candidate is highly solution-focused, bringing strong analytical and problem-solving skills and proven experience delivering end-to-end low-code robotic automation solutions that improves efficiency and customer outcomes. You will demonstrate:
+
+Experience in process automation with the ability to recommend technologies that improve business process efficiencies.
+Experience using RPA tools such as Blue Prism (highly desirable), Microsoft Power Platform, or other similar automation technologies.Exceptional written and verbal communication skills, with the ability to clearly and effectively translate complex and technical concepts
+Knowledge of a programming language such as VBA, .NET, JAVA, C++, SQL scripting, SOAP/REST-based API, or equivalent
+Solid understanding of technology and architecture concepts, including OCR, AI, chatbots, virtual agents, and human-in-the-loop/attended automation tools.
+
+Key Knowledge and experience
+
+Knowledge of and commitment to implementing the Department's Aboriginal Education Policy and upholding the Department's Partnership Agreement with the NSW AECG and to ensure quality outcomes for Aboriginal people.
+
+Essential requirements of the role
+
+Tertiary qualifications in IT, Computer Science, Business or a related discipline and/or equivalent relevant experience.
+Demonstrated understanding of and commitment to the value of public education.
+
+Benefits
+
+Flexible working arrangements
+35 hour working week
+Competitive salary, salary sacrificing, employer's contribution to superannuation and annual leave loading
+Flex Leave entitlements, generous holidays & leave conditions
+Opportunities for advancement and mobility across the Department to support your career growth
+
+How to apply
+
+Attach a resume (maximum 5 pages) and a cover letter (maximum 2 pages) outlining how you meet the requirements and capabilities of this role.
+
+Applicants are encouraged to prepare their application materials independently. The selection panel values authentic and personally written responses that reflect your own experience, insights and alignment with the Department's values and priorities.
+
+Please refer to the Applicant's Guide to Applying to assist you with your application.
+
+If you are an existing Education Support Staff (corporate staff) with the NSW Department of Education, click here for instructions on how to submit your application.
+
+All other applicants please submit your application by clicking ‘Apply Now'.
+
+
+Note: the selection process will include a range of assessment techniques to assist in determining your suitability for the role. Successful candidates will be required to undertake pre-employment screening for this role which includes a National Criminal History Check.
+
+As a condition of employment, successful candidates not currently employed by the Department must provide a valid Working with Children Check (WWCC) clearance number. Renewal is not required after the WWCC expires, as long as you remain in a non-child-related role. Employer obligations only apply while the WWCC is valid.
+
+Candidates must have Australian work rights (citizens, permanent residents, New Zealand citizens or a valid work visa). Ongoing (permanent) roles are open to Australian citizens and permanent residents and New Zealand citizens, while temporary roles welcome applicants with a visa.
+
+
+Closing date: Thursday 5 March 2026 at 11:59pm.
+
+
+For role enquiries please contact Neelu Choudhury at neelakshi.choudhury@det.nsw.edu.au and for recruitment process enquiries please contact Jenny Nguyen at jenny.nguyen199@det.nsw.edu.au
+
+
+We welcome applications from all ages and genders, Aboriginal and Torres Strait Islander peoples, culturally and linguistically diverse groups, the LGBTQIA+ community, veterans, refugees and people with disability. If we can make some adjustments to our recruitment/interview process to better enable you to shine, please contact the Diversity and Inclusion Team (youbelong@det.nsw.edu.au) or visit NSW Department of Education Diversity and Inclusion.
+
+
+A recruitment pool may be created through this recruitment process. A recruitment pool is a group of applicants who have been assessed and identified as suitable for this role, and who may be considered for a range of similar roles, including temporary, term or ongoing roles, over the next 18 months."
+90423782,Associate AI Pattern Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/90423782?type=standard&ref=search-standalone&origin=jobCard#sol=0204a5198303b969f154628e431929efc82e181d,7h ago,7.0,2026-02-18T23:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Contract/Temp,,"FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
+
+FinXL is seeking an Associate AI Pattern Engineer to join our consulting team and be deployed with a leading organisation.
+
+As an Associate AI Pattern Engineer, you will support the evolution of our client's Document Management System. You will focus on the design, implementation, and refinement of AI patterns that enable automated data extraction, classification, and ""retraining"" of models to improve accuracy over time.
+
+You will be joining the FinXL Associate Program, an award-winning initiative designed to accelerate the careers of emerging technology talent. As an Associate, you will benefit from structured mentorship, access to continuous upskilling, and the opportunity to work on high-impact enterprise projects while being supported by a dedicated account team.
+
+Key Skills & Experience
+
+AI Engineering background
+Experience in GenAI Tools including Prompt Engineering, and coding assistants like GitHub Copilot.
+Java development experience
+University degree in STEM, Computer Science, AI or related field
+
+Next Steps
+
+If you would like to apply to this fantastic opportunity please apply online or call Jackie Gibbons on 0432 268 298
+
+Code: S12"
+90423013,Data & Information Manager,Metro Trains Melbourne,https://www.seek.com.au/job/90423013?type=standard&ref=search-standalone&origin=jobCard#sol=0303d6cdd1fe53196bb9e73e61c42eb13397353f,7h ago,7.0,2026-02-18T23:00:00+00:00,"Docklands, Melbourne VIC",Management (Information & Communication Technology),Full time,,"Melbourne is Australia's fastest growing city, and public transport is vital to keeping it moving. Since 2009, Metro has proudly operated and maintained a world-class train service and delivered major transport projects that shape the future of our city. Guided by our value of Safely Always, we are one team dedicated to ensuring everyone gets home safely while helping to connect and create a better Melbourne.
 
 
 
@@ -40,7 +1220,7 @@ Be part of an inclusive, diverse, and supportive company made up of various back
 Work-life balance options including flexible working arrangements, 14 weeks paid parental leave, and purchasing up to 4 weeks of additional leave per year.
 All eligible Metro employees receive a free Myki Pass that allows free Public Transport in Victoria.
 Access to a wide range of corporate discounts including healthcare, fitness, finance, and more."
-90422694,Engineering Team Lead,Plenti,https://www.seek.com.au/job/90422694?type=standard&ref=search-standalone&origin=jobCard#sol=a75a555dafc5ec278fba0276d19e34e468963666,1h ago,1.0,2026-02-18T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Who is Plenti?
+90422694,Engineering Team Lead,Plenti,https://www.seek.com.au/job/90422694?type=standard&ref=search-standalone&origin=jobCard#sol=3bc4dec5164e1e72a552cb62ecd1dfbd2ec167a4,8h ago,8.0,2026-02-18T22:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Who is Plenti?
 
 Plenti is a fintech lender, providing faster, fairer loans by leveraging its smart technology. Plenti is a dynamic and innovative business that is growing strongly. By continuing to deliver better customer experiences, Plenti is taking market share from incumbent players in the personal lending, renewable energy, and automotive finance markets.
 
@@ -132,7 +1312,7 @@ In return, you will enjoy a culture of innovation and entrepreneurship to take y
 Plenti is committed to a diverse and inclusive workforce.
 
 We encourage people from different backgrounds to apply, including Aboriginal and Torres Strait Islander people and people with disabilities. When you apply, let us know of any reasonable adjustments you may need during the interview process so we can accommodate you."
-90421757,AI & Automation Specialist,UpGuard,https://www.seek.com.au/job/90421757?type=standard&ref=search-standalone&origin=jobCard#sol=a3f91f297bd3a333785fe27f11d960d0a58ad0b8,6h ago,6.0,2026-02-18T17:00:00+00:00,Sydney NSW (Remote),Business/Systems Analysts (Information & Communication Technology),Full time,,"Who are we?
+90421757,AI & Automation Specialist,UpGuard,https://www.seek.com.au/job/90421757?type=standard&ref=search-standalone&origin=jobCard#sol=ee0b954a8322a9f05a14847f74c5391bc12f02be,13h ago,13.0,2026-02-18T17:00:00+00:00,Sydney NSW (Remote),Business/Systems Analysts (Information & Communication Technology),Full time,,"Who are we?
 
 UpGuard’s mission is to make life easier for security teams. We meticulously create robust solutions that enable our customers to identify, assess, and remediate cybersecurity risk across their attack surface, vendor ecosystem, workforce, and trust relationships. Our integrated cyber risk posture management platform combines comprehensive security ratings, instant risk assessments, templated security questionnaires, threat intelligence capabilities, and agentic AI to give organizations a holistic view of their risk surface.
 
