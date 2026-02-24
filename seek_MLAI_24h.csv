@@ -1,5 +1,627 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90514613,"AI Engineer, Software",Correlate Resources,https://www.seek.com.au/job/90514613?type=standard&ref=search-standalone&origin=jobCard#sol=12c8fca7dad62d5f89a4abc5587ce952170951b6,1h ago,1.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are partnering with a leading enterprise organisation undertaking a major AI uplift across its technology platform. This is a hands on AI Engineering role focused on designing and delivering scalable, production grade AI solutions embedded directly into enterprise systems. This is not a research or proof of concept position. You will be building robust, maintainable AI enabled services that operate at scale within distributed cloud environments.
+90519481,Data Platform Manager,Vicinity Centres,https://www.seek.com.au/job/90519481?type=standard&ref=search-standalone&origin=jobCard#sol=536e9cac896ae47e750dbbaf794d0d094ffdd1d3,1h ago,1.0,2026-02-24T01:00:00+00:00,"Chadstone, Melbourne VIC",Management (Information & Communication Technology),Full time,,"We're reimagining the way Australians live, work, and play. We own and manage some of the most recognisable and loved retail destinations across Australia.
+
+We’re evolving our portfolio into destinations that offer a broad selection of retail, residential, and office spaces. Through our diverse portfolio, data-led decision-making, and nationwide development pipeline, we do things differently.
+
+We’re looking for a Data Platform Manager who’s passionate about building scalable, secure, and high performing data platforms that power everything from analytics to machine learning and AI. In this role, you’ll lead the architecture, development, and operations of our enterprise data platforms—ensuring they are reliable, observable, trusted, and designed to support the organisation’s strategic ambitions. 
+
+You’ll collaborate with engineers, architects, data scientists, analysts, and business stakeholders to create modern data environments that uplift decision making, embed data and AI governance, and accelerate innovation across Vicinity. 
+
+What you’ll be doing 
+
+Platform Architecture 
+
+Design, develop, and maintain scalable data platform architectures aligned with business needs. 
+
+Ensure data quality and seamless integration across multiple systems and sources. 
+
+Own and enforce data security standards aligned to governance and privacy policies. 
+
+Stay across emerging technologies to drive continuous platform innovation. 
+
+Provide technical leadership and mentorship across the data and engineering teams. 
+
+Translate complex data requirements into practical, high quality technical solutions. 
+
+Platform Operations 
+
+Lead day to day operations to ensure our data platforms are stable, secure, and high performing. 
+
+Implement and govern MLOps practices to enable reliable model deployment, monitoring, and lifecycle management. 
+
+Establish monitoring, observability, and alerting across all data pipelines and platforms. 
+
+Coordinate the Data Engineering team to maintain platform reliability and operational excellence. 
+
+Maintain high quality documentation, standards, and operational best practices. 
+
+Partner closely with platform, security, and governance teams to uphold data privacy and compliance. 
+
+Platform Engineering 
+
+Design and manage ETL/ELT processes that ensure efficient, accurate data movement. 
+
+Oversee development of data warehousing and lakehouse solutions that support ML, AI, and analytics. 
+
+Optimise data workflows for performance, scalability, and resilience. 
+
+Monitor, troubleshoot, and continuously improve ETL processes and data availability. 
+
+Work with business and technical stakeholders to shape technical specifications from data requirements. 
+
+What you’ll bring 
+
+Essential Experience 
+
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or similar. 
+
+10+ years in software development, including 7+ years across Data Analytics, Machine Learning, or AI. 
+
+Expertise in data architecture across SQL and NoSQL ecosystems. 
+
+Strong experience deploying containerised solutions. 
+
+Proven capability delivering production grade data pipelines. 
+
+Leadership experience managing Data Engineers and Platform Operations Engineers. 
+
+Critical Knowledge 
+
+Deep experience with at least one major cloud platform (AWS, GCP, or Azure). 
+
+Proficiency in SQL and NoSQL technologies. 
+
+Skilled in Python and JavaScript. 
+
+Strong understanding of Docker and Kubernetes. 
+
+CI/CD experience (e.g., BuildKite) and Gitbased code management. 
+
+Databricks highly advantageous
+
+Capabilities 
+
+Advanced skills in CI/CD and modern DevOps for data and ML workloads. 
+
+Ability to operationalise and deploy data pipelines, ML models, and AI services in containerised environments. 
+
+Strong observability mindset—ensuring data reliability, model quality, and pipeline performance. 
+
+Ability to build and mature data observability practices. 
+
+Excellent communication and stakeholder engagement skills. 
+
+Strength in designing and delivering data platform solutions that enable ML and AI at scale. 
+
+ Why join us? 
+
+At Vicinity, you’ll be stepping into a role that sits at the intersection of data, digital innovation, and enterprise strategy. You’ll shape the foundations of our AI and analytics capabilities and influence how data drives our future. This is a rare opportunity to lead a modern data platform practice in an environment ready to invest, evolve, and innovate.
+
+Our benefits program focuses on creating an awesome place to work in which our people are rewarded and recognised. This includes:
+
+Flexible working options 
+
+Birthday leave & purchased additional leave
+
+$1,000 worth of VCX securities rewarded for eligible team members
+
+Internal mentoring program
+
+Generous Parental Leave
+
+We live and work by our values of Respect, Integrity, Customer Focus, Collaboration and Excellence.  They are the foundation to everything we do and provide us a north star with which we can shape meaningful places where communities connect.
+
+At Vicinity we embrace and celebrate diversity and are committed to creating an inclusive work environment where we attract, retain and develop our people regardless of gender identity, ethnicity, sexual orientation, disability and age. Applications are encouraged from all sectors of the community and we strongly encourage applications from the Aboriginal and/or Torres Strait Islander community.
+
+Our people and our Employee Advocacy Groups (Gender Balance, Cultural Diversity, Disability & Access and Pride & Allies) actively build community and provide allyship within Vicinity. If you’d like to speak to someone to understand what it’s like firsthand to work here, please reach out to our Talent Acquisition team.
+
+We are aware of current limitations with our website accessibility and are working towards improving this. Should you experience any issues accessing information in this job advertisement or the application form, and require this in an alternate format, please contact our Talent Acquisition Team. Similarly, if you would like to discuss workplace accessibility, any reasonable adjustments we can make to better support you during the recruitment process, or your potential future role please reach out to our Talent Acquisition team:
+
+Email: talent.acquisition@vicinity.com.au
+
+Phone: +61 3 7001 4000 (request to speak to our Talent Acquisition team)
+
+Note: To be eligible to apply for this position, you must have existing, relevant Australian work rights. At the later stages of the recruitment process the shortlisted candidate/candidates will be required to undergo a Criminal History Background/Police Check as a mandatory part of the process. Additional qualification checks may also be required dependant on role and level."
+90518641,Agentic AI Engineer with AWS Cloud,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/90518641?type=standard&ref=search-standalone&origin=jobCard#sol=e7a683b7614259f6727264dae8dbe950f41a128e,1h ago,1.0,2026-02-24T01:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Contract/Temp,,"“We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+ The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
+
+Are you ready to be an important part of this ever-transformational journey? At HCLTech Australia, we value the unique perspective and contributions of all individual people to apply for this role.”
+
+Agentic AI Engineer with AWS Cloud
+
+Location: Sydney
+
+Detailed JD AI+Cloud:
+
+You will have demonstrated ability to deliver Gen AI solutions, into an enterprise scale production environments, with a focus on application security and observability.
+
+You will have experience building and deploying enterprise grade agent-based architectures and multi-agent orchestration.
+
+You will have strong programming skills in Python, and experience with full-stack development, ensuring quality with automated unit and regression testing.
+
+You will have considerable hands-on experience with the following AI ""tech stack"".
+
+You will have deep understanding of foundational AI models, prompt engineering, and fine-tuning techniques.
+
+You will have experience deploying Generative AI solutions using enterprise-grade DevOps practices and CI/CD pipelines.
+
+You will have exposure to AI governance, compliance, and ethical AI frameworks, and the development and implementation of security guardrails.Experience delivering software solutions in a banking environment.
+
+You will have experience in fraud detection, customer personalisation, or conversational AI is a plus.
+
+You will have strong communication and stakeholder engagement skills.
+
+Must Have:
+
+Languages: Python (primary) with FastAPI
+
+Containers : Docker and Kubernetes
+
+Security models: OAuth and RBAC security
+
+LLM Frameworks: LangChain, LangGraph
+
+Machine Learning Platform (for build, train and deploy ML models): AWS SageMaker for Model hosting. Hugging Face is good to have.
+
+Databases: Postgres, Snowflake
+
+Good to have:
+
+Front End: React and Next.js
+
+Scala/Java and R
+
+Why Us
+
+We are one of the fastest-growing large tech companies in the world, with offices in 50+ countries across the globe and 219,000 employees
+
+Our company is extremely diverse with 165 nationalities represented
+
+We offer the opportunity to work with colleagues across the globe
+
+We offer a virtual-first work environment, promoting a good work-life integration and real flexibility
+
+We offer comprehensive benefits for all employees
+
+We are a certified great place to work and a top employer in 17 countries, offering a positive work environment that values employee recognition and respect
+
+Equality & Opportunity for All
+
+Representing 165 nationalities across the globe, we pride ourselves on being an equal opportunity employer, committed to providing equal employment opportunities to all applicants and employees regardless of race, religion, sex, colour, age, national origin, pregnancy, sexual orientation, physical disability or genetic information, military or veteran status, Aboriginal and Torres Strait Islander people or any other protected classification, in accordance with federal, state, and/or local law.
+
+Candidate Data Privacy Notice | HCL Technologies
+
+We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data. By replying to this email or submitting any personal data to HCLTech, you acknowledge that you have read and understood the candidate privacy notice and have provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”."
+90518262,Data Architect,Talenza,https://www.seek.com.au/job/90518262?type=standard&ref=search-standalone&origin=jobCard#sol=9f19322baccb960a7298b8d57cfa2a5e6a1bcb09,1h ago,1.0,2026-02-24T01:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,$220k - $230k p.a.,"Consumer Data Architect
+Sydney NSW
+$230,000 inc Super + Bonus
+
+
+
+Role Purpose
+
+The Consumer Data Architect is a pivotal senior leadership role within Data, Analytics & AI Architecture, accountable for the enterprise customer data domain. The role leads architecture and design across Customer Identity, Customer Data Platforms, Customer Analytics and AI/ML, establishing and delivering the organisation's Customer Data & AI Strategy.
+
+Key Accountabilities
+
+Customer Data & AI Architecture Leadership
+
+Own target and transition-state architecture for customer data, analytics and AI across the enterprise.
+Lead strategic transformation programs across customer data platforms, identity and activation.
+Define architecture patterns for real-time profiles, event streaming, decisioning and AI across channels.
+Establish customer data & AI strategy, reference architectures and roadmap.
+
+Customer Identity, Data & Activation
+
+Define customer data models (profiles, events, preferences) and identity graph / ID stitching approaches.
+Design consent, preference and PII data management aligned to Australian Privacy Principles.
+Establish activation and data-sharing patterns across MarTech, AdTech and enterprise platforms.
+Guide Customer 360 / MDM and CDP architecture and integration patterns.
+
+AI & Advanced Analytics Architecture
+
+Define customer AI architecture covering predictive models, decisioning and LLM-enabled experiences.
+Guide AI use cases including personalisation, churn, next-best-action, support automation and measurement.
+Establish MLOps patterns (feature stores, model lifecycle, monitoring, governance).
+Define responsible AI guardrails and compliance controls.
+
+Architecture Governance & Delivery
+
+Produce end-to-end architecture, solution options and transition plans for major initiatives.
+Provide technical leadership to architects, engineers and vendors across the customer domain.
+Govern solution design artefacts and ensure alignment to enterprise standards.
+Partner with Legal, Risk, Security and Privacy on compliant customer data solutions.
+
+Capabilities & Experience
+
+10+ years in data or solution architecture with deep customer data domain expertise.
+5+ years as Lead / Domain Data Architect on enterprise-scale transformation programs.
+Strong experience with CDPs and customer data platforms (e.g., Adobe Experience Platform, Salesforce Data Cloud).
+Expertise in customer identity, consent, activation and Customer 360 / MDM patterns.
+Hands-on architecture experience with cloud data platforms, streaming and event-driven architectures.
+Experience designing architectures supporting customer data science and ML use cases.
+Knowledge of MLOps, model lifecycle and AI governance patterns.
+Understanding of Australian Privacy Principles and privacy-by-design.
+Strong stakeholder engagement, executive communication and architecture governance skills.
+
+Desirable
+
+Experience with Adobe Experience Cloud, Salesforce Marketing Cloud or similar MarTech stacks.
+Knowledge of LLMs, embeddings, vector stores and RAG patterns.
+Experience in regulated or large enterprise environments.
+
+If you feel you possess the relevant skills to the above, apply now with most updated CV!"
+90517708,Automation Engineer,The Recruitment Company,https://www.seek.com.au/job/90517708?type=standard&ref=search-standalone&origin=jobCard#sol=0c17bc41b51305b8fb85ee857eb579c6a1dde2c6,1h ago,1.0,2026-02-24T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$700 - $750 inc super per day,"My client is a leading financial services organisation and is seeking a highly capable Automation/DevOps Engineer with strong CI/CD and payments domain experience to support mission-critical acquiring and payments platforms.
+
+This role will suit a hands-on engineer who thrives in Agile environments, enjoys automating complex delivery pipelines, and has experience working across hybrid cloud and on-premise environments within regulated financial services environments.
+
+Key Skills & Experience
+
+Strong hands-on experience with GitHub Actions in complex CI/CD environments, including clear separation of build and release pipelines.
+
+Proven experience designing and integrating CI/CD pipelines across hybrid cloud and on-premise delivery models.
+
+Experience developing CI/CD workflows for Postillion Realtime, Backoffice and related payment processing flows.
+
+Strong scripting capability (Windows PowerShell, Python), with solid YAML, Git and pipeline troubleshooting skills.
+
+Experience working with AWS and integrating CI/CD pipelines with cloud platforms.
+
+Ability to develop automated testing and reporting frameworks to enable faster, high-quality production releases
+
+Payments domain knowledge
+
+If the above aligns well with your background and you’re looking for a long-term contract with genuine impact, then please APPLY to be immediately considered. Please send CVs in Word format.
+
+Should you have any questions, please contact me on adame@therecruitmentcompany.com
+or you can phone me on 02 8346 6703 or mobile 0481 701 023."
+90517757,Senior Research Scientist,MongoDB,https://www.seek.com.au/job/90517757?type=standard&ref=search-standalone&origin=jobCard#sol=f3be4777d0f25e35ba4314d894f059caa7e8c1b5,1h ago,1.0,2026-02-24T01:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"We seek an exceptional researcher specializing in Machine Learning with particular expertise in areas such as Code-oriented LLMs, Agentic Systems, Reinforcement Learning and Reasoning Models. The ideal candidate will demonstrate a strong track record of publishing in top-tier conferences and journals (e.g., NeurIPS, ICML, ICLR, ACL).
+
+We are looking to speak to candidates who are based in Sydney for our hybrid working model.
+
+Responsibilities
+
+Conduct cutting-edge research in Machine Learning in areas such as Code LLMs, Reasoning Models, Agentic Systems and Reinforcement Learning
+Publish influential research outcomes in top-tier Machine Learning conferences and journals (e.g., NeurIPS, ICML, ICLR, ACL)
+Collaborate closely with other Research Scientists and Research Engineers, as well as our Engineering teams to translate cutting-edge research into practical solutions applicable in commercial database products
+Mentor intern researchers, fostering a collaborative and productive research environment
+Qualifications
+
+Ph.D. in Computer Science, Computer Engineering, or a closely related field with a specialization in Machine Learning
+Proven track record of impactful research publications in top-tier Machine Learning conferences and journals (e.g., NeurIPS, ICML, ICLR, ACL)
+Post-PhD industry experience of applying computer science concepts to large scale software development problems is a plus
+Experience in building research prototypes and conducting rigorous empirical studies to validate theoretical models
+Excellent technical communication skills, verbal and written, with the ability to collaborate across teams
+About MongoDB
+
+
+MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the database for the AI era, enabling innovators to create, transform, and disrupt industries with software. MongoDB’s unified database platform—the most widely available, globally distributed database on the market—helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud database and is available across AWS, Google Cloud, and Microsoft Azure.
+
+With offices worldwide and nearly 60,000 customers—including 75% of the Fortune 100 and AI-native startups—relying on MongoDB for their most important applications, we’re powering the next era of software.
+
+Our compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB. 
+
+To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB, and help us make an impact on the world!
+
+MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.
+
+MongoDB is an equal opportunities employer.
+
+Requisition ID
+
+1273359257"
+90516525,Data Engineer- Data Analytics,ZEN Energy,https://www.seek.com.au/job/90516525?type=standard&ref=search-standalone&origin=jobCard#sol=a75a34139fdf1ac12f4709aac85f447d8dbda5e5,2h ago,2.0,2026-02-24T00:00:00+00:00,Melbourne VIC (Hybrid),"Analysis & Reporting (Mining, Resources & Energy)",Full time,,"ROLE: Data Engineer- Data Analytics
+LOCATION: Melbourne, VIC
+REPORTS TO: Head of Data and process
+This role is responsible for the day-to-day operational management of ZEN Energy’s core enterprise data platform, ensuring data integrity, reliability, and quality standards that enable ZEN’s data analytical, modelling and reporting needs with confidence.
+You will be working closely with internal and external stakeholders, and delivery partners as the role contributes to the ongoing evolution of ZEN’s data architecture and engineering practices, helping to maintain excellence in data design, integration, and operational processes as the platform continues to grow and mature.
+Key Responsibilities:
+•Develop and maintain our data platform including:
+o Our data-lake (based on Azure Databricks)
+o Our transactional databases
+o The flow of data into and between these systems
+•Support business users with access to the data that they need and understanding their data.
+•Ensure the ongoing correctness, integrity and security of our data.
+•Work closely with stakeholders to understand their data needs and design data solutions to meet those needs.
+oTroubleshoot and resolve data related issues including:
+o Investigation and resolution of data and pipeline issues
+o Root cause analysis of ongoing data issues and development of remediations
+•Develop and maintain documentation defining how data is stored and how data flows between data subsystems. This should include high level / logical description of data entities as well as detailed entity/relation diagrams.
+•Collaborate with developers and peers in the maintenance and development of data driven applications.
+•Participate in peer design and coding reviews.
+•Collaborate and work with data analysts in the business.
+•Manage relevant aspects of our data platform including:
+o Data quality and delivery timeliness
+o Performance
+o Backup and availability management
+o Cost analysis and management
+o Security management
+•Work with vendors and other support providers to meet data management needs.
+•Undertake work in accordance with ZEN’s design and coding standards, security standards and agreed SDLC processes.
+As part of the ZEN team, you will be curious, have a bold imagination, strive to be your best in everything you can do and be ready to laugh and have fun at work.
+Education and Qualifications
+•A degree in computer science, engineering, mathematics or an appropriate field.
+Experience
+•3 or more years of experience in data engineering and/or software development
+Technical Skills - Required
+•Strong proficiency in data modelling, particularly for analytical and time-series datasets
+•Strong proficiency in SQL and Python
+•Hands-on experience with data lake / Lakehouse platforms (e.g. Databricks)
+•Strong experience with Spark (PySpark preferred)
+•Experience with relational databases such as PostgreSQL and SQL Server
+•Experience with data orchestration tools (preferably Azure Data Factory)
+•Strong analytical and problem-solving skills, with the ability to work with complex datasets
+•Effective communicator able to work across technical and non-technical stakeholders
+Technical Skills - Desirable
+•Experience working in energy markets, utilities, or trading environments (electricity, gas, renewables, or related)
+•Familiarity with energy market data such as pricing, forecasts, settlements, or meter data
+•Knowledge of Azure cloud services
+•Background in mathematics, engineering, or a related discipline
+•Experience in energy markets or financial trading environments
+•Familiarity with Terraform, Azure DevOps, and CI/CD pipelines
+•Additional programming experience such as C#(.NET)
+Personal and Professional Capabilities
+•Comfortable working in time-critical, data-intensive environments with evolving requirements
+•High levels of initiative, ownership, and accountability
+•Strong professionalism, integrity, and ethical judgement
+•Excellent interpersonal and communication skills, including constructive conflict management
+•Proven ability to work independently and deliver outcomes end-to-end
+•Strong attention to detail and consistency in meeting deadlines
+•Alignment with ZEN’s values, reflected in day-to-day behaviours and ways of working"
+90515930,GEN AI Architect,HCL Australia Services Pty Ltd,https://www.seek.com.au/job/90515930?type=standard&ref=search-standalone&origin=jobCard#sol=a95f5c086a2237a2c4cb5650f19f74155fe58e0c,3h ago,3.0,2026-02-23T23:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
+
+Are you ready to be an important part of this ever-transformational journey?
+
+At HCLTech Australia, we value the unique perspective and contributions of all individual and we actively encourage applications from Aboriginal and Torres Strait Islander people to apply for this role.
+
+Job Role Overview:
+
+As a GEN AI Architect, you will play a pivotal role in shaping the design, development, and deployment of advanced Gen AI systems within our organization. This position demands a visionary problem-solver who combines technical expertise with a passion for innovation. You will work collaboratively with multidisciplinary teams to create scalable, efficient, and ethical AI solutions that drive business value and push the boundaries of artificial intelligence technology.
+
+Mandatory Qualifications/Skills: 
+
+A bachelor's or master's degree or equivalent in computer science, Artificial Intelligence, or related field.
+
+Experience with large language models (LLMs) and prompt engineering.
+Experience in designing and developing AI systems, including machine learning, deep learning, and neural networks.
+
+Strong programming skills in languages such as Python, R, or JavaFamiliarity with AI libraries, frameworks, and tools such as TensorFlow, PyTorch, or Keras.
+
+Proven understanding of cloud computing platforms (e.g., AWS, Azure, Google Cloud) and experience deploying AI models on these platforms.
+
+Solid understanding of AI concepts, algorithms, and methodologies. Knowledge of designing large scale AI solutions, data integration, cleansing, and transformation techniques.
+
+Excellent problem-solving and analytical skills, with the ability to think creatively and provide innovative solutions.
+
+Strong communication and collaboration skills to work effectively in multidisciplinary teams. Knowledge of ethical AI practices and laws is a plus.
+
+
+Preferred Skills : 
+
+Knowledge of NVIDIA CUDA, cuDNN, TensorRT and Experience with NVIDIA GPU hardware and software stack and Understanding of HPC and AI workloads.
+
+Familiarity with BigData platforms and technologies, such as Hadoop or Spark.
+
+Why Us
+
+We are one of the fastest-growing large tech companies in the world, with offices in 50+ countries across the globe and 219,000 employees.
+
+Our company is extremely diverse with 165 nationalities represented.
+
+We offer the opportunity to work with colleagues across the globe.
+
+We offer a virtual-first work environment, promoting a good work-life integration and real flexibility.
+
+We offer comprehensive benefits for all employees.
+
+We are a certified great place to work and a top employer in 17 countries, offering a positive work environment that values employee recognition and respect.
+
+Equality & Opportunity for All
+
+Representing 165 nationalities across the globe, we pride ourselves on being an equal opportunity employer, committed to providing equal employment opportunities to all applicants and employees regardless of race, religion, sex, color, age, national origin, pregnancy, sexual orientation, physical disability or genetic information, military or veteran status, Aboriginal and Torres Strait Islander people or any other protected classification, in accordance with federal, state, and/or local law.
+
+Candidate Data Privacy Notice | HCL Technologies"
+90515560,Project Engineer - Building Management Systems,Carrier Australia,https://www.seek.com.au/job/90515560?type=standard&ref=search-standalone&origin=jobCard#sol=736be9007dde3537fc81facbdb0f55ae73a3b2ac,3h ago,3.0,2026-02-23T23:00:00+00:00,Sydney NSW,Other (Trades & Services),Full time,,"Build a career with confidence!
+
+Automated Logic is now part of Carrier, a global leader in intelligent climate and energy solutions is committed to creating solutions that matter for people and our planet for generations to come. From the beginning, we've led in inventing new technologies and entirely new industries. Today, we continue to lead because we have a world-class, diverse workforce that puts the customer at the center of everything we do.
+
+The Role
+
+In this role, you’ll play a key part in shaping the technical excellence of our projects. You’ll produce engineering documentation, develop BMS software and graphics, optimise control systems, and provide on-site technical support to ensure every project is accurate, efficient, and fit for purpose.
+
+Key responsibilities:
+
+Create and update engineering drawings, points lists, functional descriptions, and O&M manuals
+
+Develop BMS software, graphics, programming, and site-building
+
+Tune PID loops and support commissioning teams with troubleshooting
+
+Conduct site visits to ensure programs and graphics meet operational requirements
+
+Configure system IP networks, including internet connectivity
+
+Identify value-adding, cross-selling, and efficiency improvement opportunities
+
+Communicate effectively and work collaboratively across teams
+
+Participate in training, promotions, and cross-functional initiatives
+
+Support a culture of continuous improvement and quality standards
+
+Requirements:
+
+Strong experience with BMS, HVAC, building controls, or automation systems
+
+Background in managing or supporting technical teams
+
+Experience with installations, commissioning support, and controls engineering
+
+Well-developed analytical, reporting, and problem-solving abilities
+
+Excellent customer service and communication skills
+
+Highly organised, detail-oriented, and self-motivated
+
+Able to manage multiple tasks and shifting priorities
+
+Strong relationship-building ability and a solutions mindset
+
+Benefits:
+
+Attractive salary package + Full time permanent opportunity
+
+Car allowance + mobile phone + laptop
+
+Excellent job stability + Ongoing training and development opportunities
+
+Inclusive work environment + Supportive management team
+
+Our commitment to you
+
+Our greatest assets are the expertise, creativity, and passion of our employees. We strive to provide a great place to work that attracts, develops, and retains the best talent, promotes employee engagement, fosters teamwork, and ultimately drives innovation for the benefit of our customers. We strive to create an environment where you feel that you belong, with diversity and inclusion as the engine to growth and innovation. We develop and deploy best-in-class programs and practices, providing enriching career opportunities, listening to employee feedback, and always challenging ourselves to do better. This is The Carrier Way.
+
+Join us and make a difference.
+
+Apply Now!"
+90515053,AI Engineer,Virtusa,https://www.seek.com.au/job/90515053?type=standard&ref=search-standalone&origin=jobCard#sol=5c44b6e2fb89c033191125479d1d0c4c6075a3b9,3h ago,3.0,2026-02-23T23:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"7 yrs of Experience
+Languages: Python (primary), Node.js/TypeScript (secondary
+AI or ML Frameworks: LangChain, PyTorch. OpenAI SDK
+Frameworks: REST API, Kafka, Event Streaming
+Gen AI Models: LLMs (GPT, Claude), RAG patterns, prompt engineering
+Workflow Orchestration: Any of these  Temporal, Step Func., Flink Services
+Cloud: AWS (Bedrock, Lambda, S3, IAM
+Security & Responsible AI: Compliance and governance
+CI/CD & Observability: Automated pipelines, monitoring tools
+Innovation: Experiment with emerging AI technologies
+
+7 yrs of Experience
+AI or ML Frameworks: LangChain, PyTorch. OpenAI SDK
+Frameworks: REST API, Kafka, Event Streaming
+Gen AI Models: LLMs (GPT, Claude), RAG patterns, prompt engineering
+Workflow Orchestration: Any of these  Temporal, Step Func., Flink Services
+Cloud: AWS (Bedrock, Lambda, S3, IAM
+Security & Responsible AI: Compliance and governance
+CI/CD & Observability: Automated pipelines, monitoring tools
+Innovation: Experiment with emerging AI technologies"
+90514821,Systems/DevOps Engineer,Deloitte,https://www.seek.com.au/job/90514821?type=standard&ref=search-standalone&origin=jobCard#sol=a0dc36cd3ab704d91994199d30926f7a76c00617,4h ago,4.0,2026-02-23T22:00:00+00:00,Melbourne VIC (Hybrid),Web Development & Production (Information & Communication Technology),Full time,,"Company description:
+
+
+
+Deloitte Services Pty Ltd
+
+
+
+Job description:
+
+
+
+DevOps Engineer - AI | Technology & GenAI - Productionisation & Automation | Melbourne
+
+Be at the forefront of our AI journey
+
+Choice and flexibility on where, when and how you work
+
+Learn from the best in the business 
+
+What will your typical day look like?
+
+As a DevOps Engineer, you'll be at the heart of Deloitte's ClearTrack Generative AI & Digital Assets platform, helping design, build and run highly secure, scalable GenAI infrastructure that powers real-world outcomes. You'll work closely with AI engineers, developers and architects to keep platforms fast, resilient and production-ready — while continuously evolving our stack to stay ahead of emerging AI technologies.
+
+In this role, you will:
+
+Design, implement and operate the central GenAI & Assets platform, built on Kubernetes
+
+Engineer reliable, secure cloud infrastructure across AWS and/or Azure
+
+Monitor performance, availability and cost, optimising systems for scale and speed
+
+Troubleshoot complex system, software and networking issues
+
+Own system security, patching, updates and resilience
+
+Drive Infrastructure as Code, CI/CD and DevSecOps best practice
+
+Ensure robust backup, disaster recovery and platform documentation
+
+Partner with IT, security and engineering teams to integrate new AI capabilities
+
+About the team
+
+The National Generative AI and Assets team sits within Deloitte's Strategy, Transformation & Innovation office — a group shaping the future of how the firm delivers value to its largest and most complex clients.
+
+We bring together Design, AI and Software Engineering to build enterprise-grade GenAI platforms and digital products that improve productivity, decision-making and business performance. Our work moves quickly from idea to production, combining cutting-edge technology with strong governance and security.
+
+If you're excited by scaling AI responsibly in enterprise environments, this is where it happens.
+
+What success looks like:
+
+High availability, low-latency GenAI platforms running in production
+Secure, compliant systems with minimal downtime
+Well-documented, automated infrastructure and deployment pipelines
+Continuous improvements to performance, reliability and developer experience
+On-time delivery of platform enhancements and upgrades
+
+Enough about us — let's talk about you
+
+You bring strong systems engineering fundamentals plus hands-on GenAI platform experience.
+
+You'll likely have:
+
+A minimum of 3-5 years professional experience as a Systems Engineer, preferably with a focus on Generative AI
+Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, or a related field is preferrable
+Experience with platform and software development, release management in a mature managed services environment
+
+Technical experience we're looking for:
+
+Core engineering
+
+AWS and/or Azure cloud platforms
+
+Linux/UNIX systems administration
+
+Networking, databases, messaging and security fundamentals
+
+Infrastructure as Code (Terraform)
+
+CI/CD and DevSecOps tools (GitHub, ADO, ArgoCD)
+
+Identity and security protocols (OAuth, SAML, OpenID Connect)
+
+Generative AI & platform experience is desirable:
+
+Designing, building and operating AI chatbots and conversational AI systems
+
+Hands-on experience with LLM frameworks (LangChain, Haystack, OpenAI / Azure OpenAI)
+
+Building RAG-based solutions (document ingestion, embeddings, semantic search)
+
+Experience with agentic and automation frameworks (n8n, LangGraph, AutoGen, CrewAI)
+
+Strong understanding of AI tooling: vector databases, prompt management, model evaluation
+
+Integrating AI systems with enterprise platforms, APIs and workflows
+
+Solid software engineering skills (Python and/or JavaScript) in production environments
+
+Knowledge of AI governance, security and responsible AI in enterprise settings
+
+Why Deloitte?  
+
+At Deloitte, we focus our energy on interesting and impactful work. We're always learning, innovating and setting the standard; making a positive difference to our clients and our society. We put coaching at the heart of what we do, helping our people grow their careers in any direction - whether it be up, moving into something new, or even moving across the world.   
+We embrace diversity, equity and inclusion. We have a diverse collection of people from different backgrounds, with different experiences, gender identities, abilities and thinking styles. What binds us together is a shared commitment to value everyone's perspective and to cultivate inclusion; so that our work environment is a safe space we can all belong.  
+We support flexibility and choice. We encourage you to find the right balance between connecting in person with your clients and teams and meeting your own personal needs.
+We help you live and work well. To support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave and return to work support package.  
+
+Next Steps
+
+Apply now, we'd love to hear from you!
+
+#LI-Hybrid"
+90514613,"AI Engineer, Software",Correlate Resources,https://www.seek.com.au/job/90514613?type=standard&ref=search-standalone&origin=jobCard#sol=563f89e18a38f9e583bdcbe57b07a1619de4db12,4h ago,4.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are partnering with a leading enterprise organisation undertaking a major AI uplift across its technology platform. This is a hands on AI Engineering role focused on designing and delivering scalable, production grade AI solutions embedded directly into enterprise systems. This is not a research or proof of concept position. You will be building robust, maintainable AI enabled services that operate at scale within distributed cloud environments.
 
 The Role
 You will sit at the intersection of software engineering, distributed systems, and applied LLM technologies. Working closely with engineering and business stakeholders, you will translate complex challenges into scalable AI driven architectures.
@@ -32,7 +654,7 @@ What Success Looks Like
 • Reusable frameworks adopted across engineering teams
 • Automation that meaningfully reduces manual processes
 • Production grade AI services with clear architecture and observability"
-90514199,Senior Data Scientist,Lookahead,https://www.seek.com.au/job/90514199?type=standard&ref=search-standalone&origin=jobCard#sol=b37f9a14d2492f7552d6d3c10d776c4defe17eff,1h ago,1.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Role
+90514199,Senior Data Scientist,Lookahead,https://www.seek.com.au/job/90514199?type=standard&ref=search-standalone&origin=jobCard#sol=c55f41cf9819aa233de174bb2dbb707b9ea63533,4h ago,4.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Role
 We’re hiring a Senior Data Scientist to join a high-growth, product-led technology company global scale-up.
   
 As the founding Data Scientist, you'll build traditional machine learning models for anomaly detection in unlabelled data - not another GenAI project. You'll explore massive datasets to identify adversarial behaviours, deploy ML models to detect automation across large-scale, high-velocity traffic, and build scalable real-time detection pipelines. This is a greenfield opportunity where you'll shape the data science function from the ground up.
@@ -49,7 +671,7 @@ The Offer
 A highly technical, collaborative team solving genuinely hard problems
 Flexible working hours and support for well-being
 Hybrid work arrangement - work from our Sydney / Melbourne office"
-90513617,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/90513617?type=standard&ref=search-standalone&origin=jobCard#sol=b44c3d1696c9f86ca690dc8b5d7e8df211f4e3f6,2h ago,2.0,2026-02-23T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Microsoft Fabric Data Engineer 
+90513617,Microsoft Fabric Data Engineer,Azured Consulting Pty Ltd,https://www.seek.com.au/job/90513617?type=standard&ref=search-standalone&origin=jobCard#sol=3d8400f870521e6d5cae7ec856d0fda2928186d3,5h ago,5.0,2026-02-23T21:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Microsoft Fabric Data Engineer 
 
 Great opportunity
 
@@ -104,7 +726,7 @@ Azure Synapse, ADF, Databricks, Azure SQL
 Experience in professional services, MSP, or consulting environments
 
 Apply now!"
-90513368,Senior Data Engineer,Elula,https://www.seek.com.au/job/90513368?type=standard&ref=search-standalone&origin=jobCard#sol=c77f583dc3963f05884c077797312853149d87d2,3h ago,3.0,2026-02-23T20:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Data Engineer
+90513368,Senior Data Engineer,Elula,https://www.seek.com.au/job/90513368?type=standard&ref=search-standalone&origin=jobCard#sol=4993fa8e55cf41a47690241fe77d8a1837784c13,6h ago,6.0,2026-02-23T20:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior Data Engineer
 
 At Elula, we partner with some of Australia's top financial institutions to tackle a wide range of business challenges through cutting-edge AI-as-a-service (AIaaS). Our vision? To make the complex simple and easy, delivering amazing customer experiences and personalisation that matters.
 
@@ -195,7 +817,7 @@ If you're excited about shaping the future of AI, this is where you belong! Subm
 We're committed to fostering a culture of inclusivity and equality. All are welcome to apply for our roles because we truly believe that diversity is a game changer.
 
 ..."
-90512755,Early Careers - Digital Technology,SLB,https://www.seek.com.au/job/90512755?type=standard&ref=search-standalone&origin=jobCard#sol=092da4caf5da4ae4bdd2b5bdbc7f385890bf0ceb,6h ago,6.0,2026-02-23T17:00:00+00:00,Australia,Engineering - Software (Information & Communication Technology),Full time,,"SLB is leading our industry into digital transformation. Our digital technology experts harness the full power of data to solve the domain's biggest challenges. We leverage the elasticity and collaboration of the cloud, apply the efficiency of high-performance computing, tap into the connectivity of the Industrial Internet of Things (IIoT), and create the industry's most advanced data ecosystems. Data drives everything we do, and our teams are at the heart of each innovation, collaborating with interdisciplinary experts to shape our dynamic global industry.  
+90512755,Early Careers - Digital Technology,SLB,https://www.seek.com.au/job/90512755?type=standard&ref=search-standalone&origin=jobCard#sol=cb5185e7bb16674c66ec01955730911edb174248,9h ago,9.0,2026-02-23T17:00:00+00:00,Australia,Engineering - Software (Information & Communication Technology),Full time,,"SLB is leading our industry into digital transformation. Our digital technology experts harness the full power of data to solve the domain's biggest challenges. We leverage the elasticity and collaboration of the cloud, apply the efficiency of high-performance computing, tap into the connectivity of the Industrial Internet of Things (IIoT), and create the industry's most advanced data ecosystems. Data drives everything we do, and our teams are at the heart of each innovation, collaborating with interdisciplinary experts to shape our dynamic global industry.  
 
 With more than 90 technology centers worldwide, we have cultivated the industry's most expansive innovation network. Our teams play a crucial role in this technology leadership, collaborating with the world's brightest minds to solve challenges others deem impossible. With robust, dynamic training in emerging technologies and professional development, we support our teams at every stage of their SLB journey. 
 

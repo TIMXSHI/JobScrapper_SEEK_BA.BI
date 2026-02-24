@@ -1,5 +1,1056 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90514199,Senior Data Scientist,Lookahead,https://www.seek.com.au/job/90514199?type=standard&ref=search-standalone&origin=jobCard#sol=a343c55de1ff214e0ee2ecee64cd649413b2e104,1h ago,1.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Role
+90519484,Solution Designer - SAS Experience / Credit Risk,Kirra Services pty ltd,https://www.seek.com.au/job/90519484?type=standard&ref=search-standalone&origin=jobCard#sol=91d15021ce4c1b8580b5a628ec6f57f596efdf9d,1h ago,1.0,2026-02-24T01:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Contract/Temp,,"About the Role
+
+We are seeking an experienced Senior Data Solution Architect (SAS Experience) to lead the design and implementation of enterprise-scale data products within a complex Credit Risk and Banking environment.
+
+This role will be responsible for delivering cross-functional data solutions across multiple platforms, ensuring enterprise reusability, strong governance, and alignment to architecture standards. You will work closely with business stakeholders, service owners, and technical teams to drive high-value data outcomes across risk and analytics programs.
+
+Key Responsibilities
+
+Design and implement cross-functional solutions that deliver enterprise data products across diverse technologies and platforms.
+
+Engineer scalable and reusable data products across sourcing, design, data quality, transformation, and placement layers.
+
+Define and oversee common enterprise components to improve delivery consistency and maintainability.
+
+Architect solutions across multi-technology environments including SAS, Hadoop & Big Data ecosystems, Azure, Azure Machine Learning, Teradata, Informatica, and leading BI platforms.
+
+Collaborate with Credit Risk stakeholders, Tech Leads, Service Owners, and Line of Business Leads to prioritise and size requirements and manage delivery backlogs.
+
+Ensure alignment of projects and programs with enterprise design principles, standards, and governance frameworks.
+
+Partner with business units to define and manage credit risk data elements, including reference data, metadata, and lineage.
+
+Guide Agile delivery teams through design, development, testing, implementation, and support using modern full-stack and DevOps practices.
+
+Skills & Experience
+
+3+ years’ experience within a large, complex Credit Risk and/or Banking environment.
+
+10+ years’ experience delivering business and technology solutions involving complex data engineering processes.
+
+5+ years’ advanced SQL and SAS experience, including Base SAS, SAS Macro, SAS DI Studio, SAS Enterprise Guide, SAS Management Console, and overall SAS platform capability.
+
+5+ years’ experience with Big Data and distributed technologies including Hadoop, Spark, Hive, HBase, Python, Java, Spring Boot, Git, Flink, CosmosDB, Akka, Scala, SQL, and Synapse.
+
+Extensive experience in data warehousing, data modelling, and integration tools such as Informatica and Sterling.
+
+Strong familiarity with BI tools including IBM Cognos/TM1, Power BI, and Tableau.
+
+Proven experience designing cloud-based and serverless architectures, preferably within Microsoft Azure.
+
+Experience delivering Risk Models and Analytics solutions using SAS RFW, SAS Risk Stratum, SAS Viya, and/or Azure Machine Learning.
+
+Hands-on experience with DevOps pipelines, particularly Azure DevOps and Jenkins."
+90519481,Data Platform Manager,Vicinity Centres,https://www.seek.com.au/job/90519481?type=standard&ref=search-standalone&origin=jobCard#sol=b3608210a423b1393d225459c3710eaff65447eb,1h ago,1.0,2026-02-24T01:00:00+00:00,"Chadstone, Melbourne VIC",Management (Information & Communication Technology),Full time,,"We're reimagining the way Australians live, work, and play. We own and manage some of the most recognisable and loved retail destinations across Australia.
+
+We’re evolving our portfolio into destinations that offer a broad selection of retail, residential, and office spaces. Through our diverse portfolio, data-led decision-making, and nationwide development pipeline, we do things differently.
+
+We’re looking for a Data Platform Manager who’s passionate about building scalable, secure, and high performing data platforms that power everything from analytics to machine learning and AI. In this role, you’ll lead the architecture, development, and operations of our enterprise data platforms—ensuring they are reliable, observable, trusted, and designed to support the organisation’s strategic ambitions. 
+
+You’ll collaborate with engineers, architects, data scientists, analysts, and business stakeholders to create modern data environments that uplift decision making, embed data and AI governance, and accelerate innovation across Vicinity. 
+
+What you’ll be doing 
+
+Platform Architecture 
+
+Design, develop, and maintain scalable data platform architectures aligned with business needs. 
+
+Ensure data quality and seamless integration across multiple systems and sources. 
+
+Own and enforce data security standards aligned to governance and privacy policies. 
+
+Stay across emerging technologies to drive continuous platform innovation. 
+
+Provide technical leadership and mentorship across the data and engineering teams. 
+
+Translate complex data requirements into practical, high quality technical solutions. 
+
+Platform Operations 
+
+Lead day to day operations to ensure our data platforms are stable, secure, and high performing. 
+
+Implement and govern MLOps practices to enable reliable model deployment, monitoring, and lifecycle management. 
+
+Establish monitoring, observability, and alerting across all data pipelines and platforms. 
+
+Coordinate the Data Engineering team to maintain platform reliability and operational excellence. 
+
+Maintain high quality documentation, standards, and operational best practices. 
+
+Partner closely with platform, security, and governance teams to uphold data privacy and compliance. 
+
+Platform Engineering 
+
+Design and manage ETL/ELT processes that ensure efficient, accurate data movement. 
+
+Oversee development of data warehousing and lakehouse solutions that support ML, AI, and analytics. 
+
+Optimise data workflows for performance, scalability, and resilience. 
+
+Monitor, troubleshoot, and continuously improve ETL processes and data availability. 
+
+Work with business and technical stakeholders to shape technical specifications from data requirements. 
+
+What you’ll bring 
+
+Essential Experience 
+
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or similar. 
+
+10+ years in software development, including 7+ years across Data Analytics, Machine Learning, or AI. 
+
+Expertise in data architecture across SQL and NoSQL ecosystems. 
+
+Strong experience deploying containerised solutions. 
+
+Proven capability delivering production grade data pipelines. 
+
+Leadership experience managing Data Engineers and Platform Operations Engineers. 
+
+Critical Knowledge 
+
+Deep experience with at least one major cloud platform (AWS, GCP, or Azure). 
+
+Proficiency in SQL and NoSQL technologies. 
+
+Skilled in Python and JavaScript. 
+
+Strong understanding of Docker and Kubernetes. 
+
+CI/CD experience (e.g., BuildKite) and Gitbased code management. 
+
+Databricks highly advantageous
+
+Capabilities 
+
+Advanced skills in CI/CD and modern DevOps for data and ML workloads. 
+
+Ability to operationalise and deploy data pipelines, ML models, and AI services in containerised environments. 
+
+Strong observability mindset—ensuring data reliability, model quality, and pipeline performance. 
+
+Ability to build and mature data observability practices. 
+
+Excellent communication and stakeholder engagement skills. 
+
+Strength in designing and delivering data platform solutions that enable ML and AI at scale. 
+
+ Why join us? 
+
+At Vicinity, you’ll be stepping into a role that sits at the intersection of data, digital innovation, and enterprise strategy. You’ll shape the foundations of our AI and analytics capabilities and influence how data drives our future. This is a rare opportunity to lead a modern data platform practice in an environment ready to invest, evolve, and innovate.
+
+Our benefits program focuses on creating an awesome place to work in which our people are rewarded and recognised. This includes:
+
+Flexible working options 
+
+Birthday leave & purchased additional leave
+
+$1,000 worth of VCX securities rewarded for eligible team members
+
+Internal mentoring program
+
+Generous Parental Leave
+
+We live and work by our values of Respect, Integrity, Customer Focus, Collaboration and Excellence.  They are the foundation to everything we do and provide us a north star with which we can shape meaningful places where communities connect.
+
+At Vicinity we embrace and celebrate diversity and are committed to creating an inclusive work environment where we attract, retain and develop our people regardless of gender identity, ethnicity, sexual orientation, disability and age. Applications are encouraged from all sectors of the community and we strongly encourage applications from the Aboriginal and/or Torres Strait Islander community.
+
+Our people and our Employee Advocacy Groups (Gender Balance, Cultural Diversity, Disability & Access and Pride & Allies) actively build community and provide allyship within Vicinity. If you’d like to speak to someone to understand what it’s like firsthand to work here, please reach out to our Talent Acquisition team.
+
+We are aware of current limitations with our website accessibility and are working towards improving this. Should you experience any issues accessing information in this job advertisement or the application form, and require this in an alternate format, please contact our Talent Acquisition Team. Similarly, if you would like to discuss workplace accessibility, any reasonable adjustments we can make to better support you during the recruitment process, or your potential future role please reach out to our Talent Acquisition team:
+
+Email: talent.acquisition@vicinity.com.au
+
+Phone: +61 3 7001 4000 (request to speak to our Talent Acquisition team)
+
+Note: To be eligible to apply for this position, you must have existing, relevant Australian work rights. At the later stages of the recruitment process the shortlisted candidate/candidates will be required to undergo a Criminal History Background/Police Check as a mandatory part of the process. Additional qualification checks may also be required dependant on role and level."
+90519483,Senior Business Analyst - Innovation Stream,University of New South Wales,https://www.seek.com.au/job/90519483?type=standard&ref=search-standalone&origin=jobCard#sol=31fb805966617a4ee79d7b02cd9f62fbad008cba,1h ago,1.0,2026-02-24T01:00:00+00:00,"Kensington, Sydney NSW (Hybrid)","Business/Systems Analysts (Information & Communication Technology)
+Other (Education & Training)",Full time,,"Senior Business Analyst – Innovation Stream
+
+
+Employment Type: Full Time (35 hours per week)
+Duration: 8 Month Contract
+Remuneration: Level 9 $148,012 - $157,056 (depending on experience) + 17% super + leave loading
+Location:  UNSW Kensington Campus, with fortnightly day trips to Canberra (schedule may vary).
+
+About UNSW:
+
+UNSW isn’t like other places you’ve worked. Yes, we’re a large organisation with a diverse and talented community; a community doing extraordinary things. Together, we are driven to be thoughtful, practical, and purposeful in all we do. Taking this combined approach is what makes our work matter. It’s the reason we’re one of the top 20 universities in the world and a member of Australia’s prestigious Group of Eight. If you want a career where you can thrive, be challenged and do meaningful work, you’re in the right place.
+
+Why Your Role Matters:
+
+This is an exciting opportunity for an experienced Senior Business Analyst with experience in planning, development and delivery of major improvement initiatives. Reporting to the Enterprise Portfolio Management Office (EPMO), you will be deployed to the Canberra City Program, a strategic initiative that will establish UNSW’s new presence in the nation’s capital. The program covers five key streams: Education, Innovation, Operating Model, Estate and Site Technology, building on UNSW’s defence partnerships to drive growth and innovation.
+
+Within this role, you will work across the Innovation stream, with a focus on enabling innovation and supporting the effective onboarding of partners within the innovation ecosystem. You will play a key role in establishing the processes, frameworks and engagement approaches required to successfully support innovation initiatives and partner integration.
+
+Key Responsibilities:
+
+Build effective relationships with stakeholders across the program and university.
+Facilitate workshops to capture innovation enablement pain points and align stakeholders.
+Lead the mapping and documentation of the innovation journey and processes
+Conduct journey mapping for onboarding of innovation partners and translate insights into practical process improvements.
+Identify and analyse opportunities to improve service delivery and the innovation partners experience.
+Develop service catalogues to clearly identify ownership across service providers.
+Contribute to continuous improvement and standardisation across processes.
+Develop process map and procedural documentation to UNSW standards.
+
+Skills and Experience:
+
+Relevant tertiary qualification and demonstrated experience with business requirements analysis and business process analysis using appropriate frameworks.
+Certified Practitioner in Business Analysis (IIBA or PMP).
+Demonstrated experience in applying Lean Six Sigma skills (certification desirable).
+Excellent written and oral communication skills.
+Strong analytical and problem-solving skills, with a track record as a lateral thinker.
+Proven facilitation skills, including workshops with diverse groups (Academics, technical staff, end users).
+Strong time management and organisational skills with the ability to deliver to project timeframes.
+Understanding of business processes within a tertiary education environment. (desirable).
+Understanding of change management principles.
+Proven experience in journey mapping and translating insights into service/process improvements.
+Strong capability in creating process maps, procedural and operational documents.
+Experience working in the innovation industry or higher education (highly desirable).
+Experience working on large, complex transformation programs in a consulting capacity.
+
+For further details on role responsibilities and skills & experience required, refer to the position description found under the position listing on Jobs@UNSW
+
+Benefits and Culture:
+
+People are at the core of everything we do. We recognise it is the contributions of our staff who make UNSW one of the best universities in Australia and the world.
+
+Our benefits include:
+
+Flexible working options.
+Career development opportunities.
+17% Superannuation contributions and additional leave loading payments.
+Additional 3 days of leave over Christmas period.
+Discounts and entitlements (retail, education, fitness).
+
+For further details on the benefits, please visit https://www.jobs.unsw.edu.au/lifestyle-benefits
+
+How to Apply: Submit your CV & a succinct 1-2 page cover letter detailing your interest and suitability for the job (as per the skills & experience bullet points in the job description) by 11:55pm, 10th March 2026
+
+Please note: Sponsorship is not available for this role, valid Australian working rights are required on application.
+
+
+
+Contact: Amy Denney a.denney@unsw.edu.au - Talent Acquisition Team
+Please apply directly through the website, applications sent to the contact above will not be accepted.
+
+Pre-Employment Checks 
+Aligned with UNSW’s focus on cultivating a workplace defined by safety, ethical conduct, and strong integrity preferred candidates will be required to participate in a combination of pre-employment checks relevant to the role they have applied for.  
+
+These pre-employment checks may include a combination of some of the following checks:  
+
+National and International Criminal history checks 
+Entitlement to work and ID checks 
+Working With Children Checks  
+Completion of a Gender-Based Violence Prevention Declaration  
+Verification of relevant qualifications 
+Verification of relevant professional membership  
+Employment history and reference checks 
+Financial responsibility assessments/checks. 
+Medical Checks and Assessments 
+Compliance with the necessary combination of these checks is a condition of employment at UNSW.
+
+UNSW is committed to equity diversity and inclusion. Applications from women, people of culturally and linguistically diverse backgrounds, those living with disabilities, members of the LGBTIQ+ community; and people of Aboriginal and Torres Strait Islander descent, are encouraged. UNSW provides workplace adjustments for people with disability, and access to flexible work options for eligible staff.
+
+The University reserves the right not to proceed with any appointment."
+90519450,Senior Business Analyst,Talenza,https://www.seek.com.au/job/90519450?type=standard&ref=search-standalone&origin=jobCard#sol=417cfbab3b351612290e060c8be51d82ffbe0966,1h ago,1.0,2026-02-24T01:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We're partnering with a Global Insurance organisation on a large scale, multi year transformation of their Claims processes in order to enhance the experience of their customers.
+
+Being a Business Analyst in this squad is a key role and requires a high level of creative thinking and an innovative and solutions focused mindset, whilst also leaning in on proven Insurance knowledge and experience.
+
+The role requires a solid BA toolkit, coupled with a sound understanding of the Claims lifecycle.
+
+You will be able to question, suggest improvements and think on your feet, rather than being prescriptive in the way you operate.
+
+As I say, this is a key role and the team are looking for someone who can raise the average!
+
+If this sounds like you then please apply here!
+
+Insurance experience is definitely preferred!"
+90518037,"Manager, Strategy & Insights",RACV,https://www.seek.com.au/job/90518037?type=standard&ref=search-standalone&origin=jobCard#sol=07dddf8185e9ae614f295edcd423b2c238cd9276,1h ago,1.0,2026-02-24T01:00:00+00:00,Melbourne VIC (Hybrid),General/Business Unit Manager (CEO & General Management),Full time,,"RACV Head Office | Melbourne CBD location 
+
+Permanent Full time | Hybrid working – 3 days in office 
+
+Competitive Salary | Discounts on selected RACV products 
+
+ 
+
+RACV is seeking a Manager, Strategy & Insights to play a pivotal role in shaping data led strategy across the enterprise. This role works with senior staff across the organisation, with people leadership, ideal for a strategic thinker who thrives at the intersection of insight, commercial strategy and execution. 
+
+ 
+
+ 
+
+About the Opportunity  
+
+Reporting to the Head of Strategy, Insights & Reporting, you’ll lead the development and activation of insight-driven strategies that support RACV’s corporate objectives. You’ll partner closely with senior leaders across portfolios to solve complex business problems, translate analysis into compelling recommendations, and support implementation. You’ll also help build enterprise frameworks (segmentation, value propositions, member economics) and coach junior team members. 
+
+ 
+
+Key responsibilities 
+
+Partner with senior stakeholders to drive customer led, commercially viable strategy  
+
+Lead strategic analysis, modelling and insight generation to inform decision-making  
+
+Develop and embed enterprise frameworks, metrics and strategic roadmaps  
+
+Champion a cross portfolio, member-centric perspective  
+
+Build industry and market insight to inform strategic direction  
+
+Coach and develop strategy and insight capability within the department and broader 
+
+ 
+
+About you 
+
+Degree in a relevant business discipline (e.g. Commerce, Economics, Marketing)  
+
+8+ years’ experience in data led strategy, insights or consulting within a bluechip or complex environment  
+
+Strong commercial acumen with advanced analytical and storytelling skills  
+
+Proven ability to influence senior leaders and operate in ambiguity  
+
+Experience leading strategic projects end-to-end and developing team capability 
+
+ 
+
+ 
+
+ 
+
+There’s so much on offer when you join RACV with benefits including  
+
+  
+
+Our flexible and informal work environment which helps bring balance between work and home.  
+
+Generous discounts on home and car insurance policies and RACV roadside care  
+
+Club Membership and great discounts across all RACV resorts  
+
+Discounts from corporate partners that are updated monthly.  
+
+  
+
+ 
+
+ 
+
+Our difference  
+
+  
+
+At RACV, we believe that maintaining a diverse and inclusive workplace is an important element in our continued success. We want our people to feel welcome, supported and appreciated for who they are and what they bring to our business.  
+
+Ready to reach your full potential? Join our team, where the work is more meaningful and making a difference beyond the work matters.  
+
+  
+
+ 
+
+Application Process  
+
+  
+
+You can learn more about the RACV at careers.racv.com.au  
+
+Applicants will be required to provide evidence of their eligibility to work in Australia, and consent to a criminal record check.  
+
+Submit your CV via the link below.  
+
+ 
+
+  
+
+Note for Recruitment Agencies/Search Firms  
+
+ 
+
+This role is being managed by RACV Talent Acquisition and we will not accept unsolicited resumes/applications/candidate profiles from Recruitment Agencies/Search Firms. Please do not forward content to our job posting email addresses or RACV employees. RACV is not responsible for any fees related to unsolicited resumes/applications/candidate profiles."
+90517883,Senior Financial Analyst,Sharp & Carter Sydney North Shore,https://www.seek.com.au/job/90517883?type=standard&ref=search-standalone&origin=jobCard#sol=40f33835a82138d5d15493b72492c2daa770abf8,1h ago,1.0,2026-02-24T01:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Analysis & Reporting (Accounting),Full time,"Circa $145,000 + Super + Bonus","About the role:
+ 
+Our client is seeking a commercially astute and highly confident Senior Financial Analyst to join their high-performing finance team based on Sydney's Lower North Shore.
+ 
+As a trusted Finance Business Partner to Sales and Commercial leaders, you will play a pivotal role in driving revenue performance, margin improvement and disciplined cost management across the division. Operating in a fast-paced, performance-driven environment, you will bring sharp financial insight, strong commercial acumen and the confidence to challenge senior stakeholders. 
+
+This organisation values personality, presence and impact. You will thrive here if you are outgoing, proactive, and comfortable influencing decision-makers while building strong cross-functional relationships. 
+ 
+Key Responsibilities:  
+
+Act as a trusted Finance Business Partner to Sales and Divisional Leaders 
+Deliver detailed commercial analysis and deep dives to support pricing, promotions and investment decisions 
+Lead financial planning, budgeting, forecasting and P&L management with a focus on revenue, margin and cost control 
+Translate complex data into clear, actionable insights for senior stakeholders 
+Analyse financial and non-financial impacts of commercial initiatives 
+Partner closely with Sales, Finance and Operational teams to drive performance outcomes 
+Identify cost-saving and efficiency opportunities across the division 
+Support continuous improvement initiatives and strengthen financial acumen across the business
+What We Are Looking For:      
+
+You are a commercially minded finance professional with a strong background in FMCG or large, brand-led organisations. You understand revenue drivers, pricing levers and customer economics — and you enjoy being embedded within the commercial side of the business. 
+
+You bring: 
+
+CPA or CA qualification
+5+ years’ experience in a commercially focused finance role
+Proven business partnering experience with the ability to influence at all levels 
+Strong pricing and margin analysis capability 
+Advanced Excel and analytical skills with experience working across large data sets 
+The confidence to challenge assumptions and drive better commercial outcomes 
+Most importantly, you are personable, confident and comfortable operating in a high-energy environment. You build trust quickly, communicate clearly and are not afraid to have robust commercial conversations when required. 
+
+How to Apply
+To apply online, please click on the appropriate link below. Alternatively, for a confidential discussion, please contact Jack Billingham on jbillingham@sharpandcarter.com.au, quoting Ref #JBL30193"
+90517568,Senior Financial Analyst | NSW Government,SB Recruitment Pty Ltd,https://www.seek.com.au/job/90517568?type=standard&ref=search-standalone&origin=jobCard#sol=d57402b31bd6cdfe9bb2896f96c4d21da2e0e0ab,2h ago,2.0,2026-02-24T00:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Analysis & Reporting (Accounting),Contract/Temp,$72.85 per hour plus super,"The Company…..
+Our client is a NSW Government organisation dedicated to delivering efficient, high-quality services across the state while supporting strong and sustainable community outcomes. Each business unit is led by experienced and committed professionals who collaborate on initiatives designed to improve and streamline government service delivery.
+
+The successful candidate will bring proven experience providing commercial insights and strategic advice to senior stakeholders. This role is based in Parramatta, with flexible hybrid working arrangements available. An immediate start is required for an initial six-month contract, with the potential for extension.    
+
+
+The Job…..
+Reporting to the Finance Manager in this project-based Senior Financial Analyst role, you will be responsible for:
+
+Prepare and submit all PTA and carry-forward requests accurately and on time.
+Deliver monthly management reports and PMO financial updates.
+Review and reconcile general ledger and cost centre accounts.
+Lead accurate budget planning, forecasting, tracking and reporting activities.
+Partner with eight Project Managers to provide real-time financial analysis, manage budget performance and support delivery outcomes.
+Provide strategic financial advice and assurance to the Program Director.
+Deliver detailed financial modelling, costing and analysis to support project briefs and initiation documents, and provide expert advice across teams.
+Prepare clear, accurate and timely responses to Ministerial and senior stakeholder requests, including ad hoc financial queries.
+ 
+You…..
+To be successful in this role, you must have experience in the following:
+
+Minimum two years’ experience in a Financial Analyst role within a large or complex organisation.
+Big 4 consulting experience highly regarded.
+SAP experience strongly preferred.
+Advanced Excel capability essential.
+Strong interpersonal and communication skills, with the ability to engage effectively with stakeholders.
+Demonstrated ability to work autonomously, manage competing priorities and deliver to tight deadlines.
+  
+How to apply…..
+Don’t miss this opportunity to work for a company that really looks after its people!  Please apply directly through the relevant job board. 
+
+Please be advised only shortlisted candidates will be contacted.
+ 
+We take the security of our candidates seriously and will never ask for your bank details during the hiring process nor will we contact you via WhatsApp or Telegram. If you receive any communication from us requesting this information, please do not respond and contact us immediately."
+90517185,BI Reporting Manager,Foxtel Group,https://www.seek.com.au/job/90517185?type=standard&ref=search-standalone&origin=jobCard#sol=59f6f74ce9c96581b2ab3562bbd0110efba22f18,2h ago,2.0,2026-02-24T00:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Team Leaders (Information & Communication Technology),Full time,Base + Super + Bonus,"Description
+The Foxtel Group is transforming how we leverage data, machine learning, and insights to drive smarter decision-making. We hold the richest and most comprehensive datasets in the Australian entertainment industry, capturing the detailed behavioral and viewing habits of over five million subscribers across Sports, Entertainment, and News.
+
+
+We are currently recruiting a BI Reporting Manager within our Growth and Analytics team, to take full ownership of Foxtel’s reporting environments, standard metrics, and processes. As a strong process leader, you will seamlessly blend technical expertise across SQL, data warehouses, lakehouses, and Tableau with exceptional people leadership and stakeholder engagement skills.
+
+
+In this pivotal position, you will deliver trusted, high-quality performance reports that empower our leaders to make confident, data-driven decisions. You will champion fit-for-purpose Ways of Working, establishing clear expectations for both your team and stakeholders regarding our service offerings, backlog management, prioritisation, quality assurance, and resource planning.
+
+
+
+
+Key Responsibilities
+Produce trusted, high-quality performance reports that empower Foxtel leaders to make confident, data-driven decisions.
+Ensure robust governance and processes are in place, maintain clear expectations for stakeholders and your team regarding service offerings, backlog management, prioritisation, and QA.
+Oversee data controls, standardisation, change management and overall data management across the entire reporting function. 
+Proactively identify opportunities for improvement and continuously drive operational efficiencies in resourcing, workflows, and costs. 
+Lead, mentor, and motivate a team of analysts and developers, fostering a highly collaborative environment focused on technical excellence and continuous professional 
+
+
+About your experience
+Demonstrated experience leading, managing, and mentoring data analytics and reporting teams, particularly managing a mix of onshore and offshore resources.
+Strong technical skillset in developing, optimising, and testing SQL code, with a deep understanding of relational databases and data warehousing concepts. 
+Significant experience working with massive datasets to surface meaningful insights. 
+High proficiency in leading visualisation tools such as Tableau, Power BI, or Looker. 
+Sharp commercial instincts with a deep understanding of business levers, balancing analytical rigor with what truly drives impact. 
+Proven track record in process standardisation, governance, and backlog management. 
+Exceptional interpersonal and communication skills, serving as an open collaborator with a proven ability to influence outcomes across all levels of the organisation through clear and concise messaging. 
+Previous experience in Contact Centre and/or audience reporting within the media or entertainment sector is advantageous.
+
+
+Life at Foxtel Group 
+A career with us means working across one or more of our brands including Foxtel, Hubbl, Kayo Sports, BINGE, Flash, Fox Sports and Foxtel Media. When you join, the Perks at Work are taken care of:  
+You’re part of Fox Flex, our hybrid way of working with time spent at home and on campus  
+Free & discounted products including Foxtel, Hubbl, Foxtel Broadband, Kayo Sports and BINGE  
+Special days away from work for Birthday, Cultural & Volunteer Leave  
+Access to our holistic Fox Fit wellbeing program  
+Company-wide meeting-free lunch hours and Friday afternoons  
+
+A note to recruitment agencies - we have this role covered. There is no need to get in touch, we do not accept unsolicited agency resumes and we are not responsible for any fees related to unsolicited resumes."
+90517138,Senior Service Designer (Research & Product),Elysium Digital,https://www.seek.com.au/job/90517138?type=standard&ref=search-standalone&origin=jobCard#sol=5ec3e78434354ba5174033352b27b888f84e06ae,2h ago,2.0,2026-02-24T00:00:00+00:00,Canberra ACT (Hybrid),Product Management & Development (Information & Communication Technology),Full time,"$140,000 - $160,000 Plus Super","The Opportunity
+
+In a rapidly evolving digital landscape, Elysium Digital partners with federal and state government agencies, as well as private sector organisations, to design and deliver human-centred services that create measurable impact. As a Senior Service Designer, you will lead complex, end-to-end service transformation initiatives, combining deep research capability, systems thinking, and product mindset to shape meaningful, scalable outcomes.
+ 
+You will work across discovery, design and delivery - guiding multidisciplinary teams, influencing senior stakeholders, and embedding evidence-based decision-making into digital and service ecosystems. If you're driven by solving complex problems, improving real-world services, and translating research insights into tangible product and service improvements, this is your opportunity to lead change at scale. You'll join a collaborative, flexible and high-trust culture where professional growth, innovation and impact are highly valued.
+
+Location: Canberra/Sydney/Brisbane (Hybrid – Onsite/Remote)
+
+We can also offer an initial contract until June 30th 2026.
+ 
+What Will You Do?
+
+As a Senior Service Designer at Elysium Digital, you will:
+
+Lead End-to-End Service Design Engagements
+Design and deliver complex service transformation initiatives across government and enterprise.
+Map current and future state services across people, process, policy and technology.
+Identify systemic pain points and opportunities for measurable improvement.
+Lead Research & Insight Generation
+Plan and conduct qualitative and quantitative research (interviews, usability testing, co-design sessions, field studies, surveys).
+Synthesise findings into actionable insights, service blueprints, journey maps and opportunity backlogs.
+Embed evidence-based decision-making throughout delivery.
+Apply a Product Mindset
+Translate service insights into product strategies, MVP definitions and prioritised roadmaps.
+Collaborate closely with product managers, designers and engineers to ensure services are scalable, viable and desirable.
+Support iterative delivery using agile methodologies.
+Facilitate Co-Design & Stakeholder Alignment
+Lead workshops and collaborative sessions with executives, policy owners, technical teams and frontline staff.
+Align diverse stakeholders around shared service outcomes and measurable impact.
+Communicate complex service ecosystems clearly and confidently.
+Drive Client Relationships & Growth
+Build trusted relationships with senior stakeholders.
+Contribute to proposals, RFQs and capability development.
+Identify opportunities to extend value across accounts.
+Strengthen Practice & Thought Leadership
+Refine and evolve Elysium Digital's service design, research and product methodologies.
+Contribute to internal capability uplift and mentoring of junior designers.
+Stay current with emerging service design, research and digital product trends.
+What Makes You a Good Fit?
+We're looking for someone who:
+
+Thinks in systems and designs holistically across service ecosystems.
+Balances strategy with hands-on delivery.
+Has strong research capability and can confidently lead discovery phases.
+Understands product thinking - including roadmaps, MVPs, backlog prioritisation and agile delivery.
+Translates complexity into clear, actionable service improvements.
+Demonstrates emotional intelligence, sound judgement and strong stakeholder management.
+Communicates effectively with audiences ranging from delivery teams to executive leadership.
+Is adaptable and comfortable working across sectors and regulatory environments.
+At Elysium Digital, we foster a friendly, open and collaborative culture built on integrity, professionalism and delivering meaningful outcomes.
+ 
+You'll benefit from:
+
+Hybrid working model: Flexible approach that balances remote work with on-site collaboration at client offices.
+High-impact projects: Work that improves essential public and private sector services.
+Career progression: A structured consulting pathway supporting leadership and capability growth.
+Balance & flexibility: A culture that respects both personal and professional priorities. 
+If you're passionate about designing impactful services, leading research-driven transformation, and bringing a strong product mindset to complex environments, we'd love to hear from you.
+
+You MUST be an Australian Citizen and hold a minimum of a Baseline Security Clearance to be considered for this position.
+
+For more information contact Mitchell on 0425 269 780
+
+Only shortlisted candidates will be contacted for these position."
+90517275,Senior Quality Analyst,Slater and Gordon Lawyers,https://www.seek.com.au/job/90517275?type=standard&ref=search-standalone&origin=jobCard#sol=aeba7022c8056dda96f3315d8718c3bcfa39c783,2h ago,2.0,2026-02-24T00:00:00+00:00,Melbourne VIC (Hybrid),Testing & Quality Assurance (Information & Communication Technology),Full time,,"Slater and Gordon Lawyers are a leading personal injury and class actions law firm where every member of our team has a shared passion for our clients: we are people caring for people.
+
+Our commitment to our people includes offering genuine work-life balance, with a hybrid work environment allowing them to split their time between home and the office. We recognise and reward high performance and have outstanding employee benefits including a week of shutdown leave, paid parental leave, extra-long service leave, together with various ongoing learning and professional development opportunities.
+
+About the role
+
+This is a senior, hands-on quality assurance role focused on safeguarding the accuracy, integrity and reliability of business critical data and reporting. Reporting to the Data Lead and sitting within our IT function, you will play a key role in major transformation initiatives as we modernise our legacy legal systems and implement a new cloud-based SaaS platform.
+You will lead quality assurance across complex data migrations, ETL pipelines, system integrations and Power BI reporting, ensuring that data is transformed correctly, reconciled thoroughly and surfaced accurately for operational and executive decision making. This role combines deep technical expertise with strong stakeholder engagement and a passion for raising QA standards across data and analytics.
+
+What you'll do?
+
+
+
+
+Define and execute risk-based test strategies for complex data migration, integration and reporting programs
+Validate ETL workflows, transformation rules, batch processes and incremental loads across legacy and cloud platforms
+Perform detailed reconciliation testing to confirm data completeness, accuracy and consistency
+Validate Power BI dashboards, KPIs and semantic models using advanced SQL interrogation of source systems
+Oversee data quality checks, automation approaches and API testing practices
+Manage defect tracking, test execution reporting and evidence traceability
+
+What will you bring?
+
+
+
+
+You will bring deep experience in data and reporting focused QA, combined with strong analytical capability, curiosity and a passion for quality. You will have hands on experience testing ETL workflows, data migrations, system integrations and enterprise reporting platforms, alongside advanced SQL skills and strong attention to detail. You will be comfortable working in complex hybrid environments and confident engaging with both technical and non-technical stakeholders. Experience with Power BI, API testing and cloud based data platforms is essential, while exposure to Azure data services, automation frameworks and regulated industries such as legal, financial or professional services will be highly regarded
+
+What next?
+
+If you are interested in this opportunity, please apply directly to Slater and Gordon. We prefer to talk with you personally and are not accepting applications from recruitment agencies.
+
+To be eligible for this position, you must be an Australian citizen, a permanent resident, or hold a valid visa with full and unrestricted working rights in Australia. Proof of work rights will be required as part of the Slater and Gordon application process. 
+
+Acknowledgement of Country Slater and Gordon acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all First Nations peoples today.
+
+Diversity + Inclusion Slater and Gordon is committed to creating an inclusive workplace that values diversity and ensures equal opportunities for all. Slater and Gordon is an equal opportunity employer, and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected attributes. We understand that everyone has different needs. If you require reasonable adjustments throughout the recruitment process, please let us know in your application."
+90516785,Senior Change Analyst,AustralianSuper,https://www.seek.com.au/job/90516785?type=standard&ref=search-standalone&origin=jobCard#sol=b347f052f54e6b293369cccc593fbb9c5354972a,2h ago,2.0,2026-02-24T00:00:00+00:00,Melbourne VIC (Hybrid),Management & Change Consulting (Consulting & Strategy),Contract/Temp,,"At AustralianSuper, we truly care about our colleagues. We know work and life are intertwined. That's why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members. We are dedicated to building a high-performance environment underpinned by a strong risk culture, ensuring we deliver the best outcomes for our members.
+
+
+
+Your New Role
+
+We have a 12-month max-term contract opportunity for Senior Change Analyst to join the Enterprise Group Delivery team and support organisational change projects activities. This role provides change planning, analysis, communications, learning support and measurement and monitoring of change metrics. The Senior Change Analyst may also lead small / medium scale change activities and supports change managers in the delivery of larger scale change projects/programs.
+
+This role is instrumental in supporting stakeholders across the Fund by analysing, planning, developing and embedding effective change, communications and training plans to support both adoption and benefits realisation.
+
+Key responsibilities will include;
+
+
+Support Change Managers in the delivery of the approved change management plan.
+Conduct change impact and change readiness analysis and assessments by applying a structured change management methodology.
+Draft current, transition and future state for impacted stakeholders.
+Work with stakeholders and/or senior change practitioners to identify all impacted stakeholders.
+Document stakeholder maps, stakeholder assessments, sponsor roadmaps and other artefacts associated with managing and delivering the change plan.
+Develop and implement communication, and training plans and preparation of collateral to support change initiatives.
+Assist with the identification and documentation of change risks and anticipated resistance.
+
+
+
+
+
+
+What You'll Need
+
+Solid experience in a Senior Change Analyst role or similar professional experience.
+Proven experience preparing detailed change impact assessments, analysing and proposing relevant change interventions.
+Proven ability to apply change management principles, methodologies, tools and techniques to deliver and embed organisational change.
+A solid understanding of how people transition through change and the change cycle.
+Strong communication skills - both written and verbal for people at all levels of the organisation.
+Strong analytical, problem solving and root cause identification skills.
+Familiarity with project management approaches, tools, and phases of the project lifecycle
+Team player, working collaboratively with and through others
+Resilient, flexible and adaptable; able to work in ambiguous situations
+
+
+
+
+
+
+Life at AustralianSuper
+
+AustralianSuper is committed to colleague development, and we support our people with ongoing learning, coaching and training, as well as career opportunities across our expanding global organisation. We offer generous leave entitlements and promote a blended working environment in which all roles can flex, and we're happy to discuss what this looks like for you.
+
+We cultivate a workplace that champions safety, respect, inclusiveness and diversity. We are committed to supporting our diverse workforce in a way that is inclusive and embraces diversity in all its forms. If you require any reasonable adjustments to the recruitment process or the role, please let our recruitment team know.
+
+
+
+What's Next
+
+Apply now, if you share our values of Energy, Integrity, Generosity of Spirit and Excellent Outcomes and would like the opportunity to work in a challenging, growing and rapidly evolving team to deliver outstanding results.
+
+
+
+At AustralianSuper, we embrace innovation to further enhance fairness and efficiency in hiring. We use Agentic AI to host our initial phone interview conversations, offering candidates a personalised, on-demand experience. Information shared through the tool is securely processed and stored in accordance with our privacy standards.
+
+
+
+https://www.australiansuper.com/careers/candidate-privacy-notice
+
+Australian or New Zealand citizenship or Australian permanent residency status is required.
+
+Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
+90516692,Business Intelligence Developer,Interface Recruitment,https://www.seek.com.au/job/90516692?type=standard&ref=search-standalone&origin=jobCard#sol=3bb89923ae95d6f52c8b356be9da640e37de61b0,2h ago,2.0,2026-02-24T00:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Contract/Temp,$80 – $100 per hour inclusive (negotiable),"Our clients are a well respected Government Agency which consistently tops employee satisfaction surveys. They are an independent and vital part of Victoria’ changing future establishing stability and future opportunity.  
+
+ 
+
+We’re seeking a contract Senior BI Developer / Power BI Specialist to Deliver migration-focused Reporting across a live Legacy to Azure Platform Transition. The work is hands-on: Building and enhancing Dashboards, shaping Data, and ensuring Stakeholders have clear, trusted Reporting on progress, outcomes, and Operational performance.
+
+This role is highly Stakeholder-facing – 100% Verbal and written communication, engagement, and presentation skills are critical.
+
+ 
+
+Key Responsibilities
+
+·         Design and Deliver Power BI Dashboards and Reporting to Support Migration and Operational Reporting needs
+
+·         Lead requirements workshops and Translate Business needs into clear metrics, measures and visuals
+
+·         Build and Maintain Data models (semantic models), DAX measures, and Power BI visuals that drive decision-making
+
+·         Produce and Maintain “single source of truth” Reporting, including KPI definitions and consistent measurement
+
+·         Work closely with Data/Technical teams to validate sources, reconcile results, and improve Data quality
+
+·         Present Dashboards and insights to Stakeholders; explain assumptions, Data limitations, and recommendations
+
+·         Support continuous improvement across Reporting standards, usability, and performance
+
+
+
+Required Skills and Experiences
+
+·         Proven senior experience Delivering Power BI Solutions end-to-end (requirements → build → publish → iterate)
+
+·         Strong SQL / SQL Server capability (T-SQL, querying, joins, shaping Data for Reporting)
+
+·         Strong experience with Data modelling and Reporting best practices (performance, governance, usability)
+
+·         Excellent Stakeholder engagement: able to influence, challenge constructively, and bring people along
+
+·         Confident presenter who can “talk to the content” and communicate clearly with senior Stakeholders
+
+
+
+Nice to Have (not mandatory, but preferenced)
+
+·         Australian Public Service / Victorian Public Service / Consulting company experience
+
+·         Migration / Transformation Program Reporting exposure
+
+·         Data Transformation experience (Power Query / Data cleansing / modelling)
+
+·         Exposure to documentation / design inputs (e.g., Synops, Axure) feeding Reporting requirements
+
+
+
+Personal Attributes
+
+·         Delivery-focused, proactive, and accountable (“gets it done”)
+
+·         Friendly, personable, open, sharing and team focussed
+
+·         Strong judgement around metrics and measurement
+
+·         Comfortable in ambiguity and fast-moving environments
+
+ 
+
+If you have a combination of these Skills and are looking for a very stable department and offering an excellent rate and welcoming culture, please send your résumé today (resume@interfacerecruitment.com.au), or talk to Jeremy King 03 9426 4888. If not and you have other quality, in demand, skills send us your resume and we'll see if we can find something else for you."
+90516592,M&A Manager - Lead Advisory,Fintech Resources Pty Ltd,https://www.seek.com.au/job/90516592?type=standard&ref=search-standalone&origin=jobCard#sol=7f1ca9e516248db41f51101714be032961d21a4a,2h ago,2.0,2026-02-24T00:00:00+00:00,Sydney NSW,Business Services & Corporate Advisory (Accounting),Full time,,"M&A Manager - Lead Advisory | Mid-Market Transactions
+
+A high-performing boutique corporate advisory firm based in Sydney is seeking an experienced M&A Manager (Lead Advisory) to join its growing transactions team.
+
+This is a genuine deal execution environment working on sell-side, buy-side and capital raise mandates across the mid-market. The role suits a technically strong Senior Analyst / Manager who has already spent time in a lead advisory M&A team and wants deeper exposure to end-to-end transaction execution.
+
+The Role 
+
+You will work closely with senior deal leads and business owners across all stages of a transaction process, including:
+
+End-to-end execution of sell-side and buy-side mandates
+
+Financial modelling and valuation analysis
+
+Preparation of memorandums, pitch materials and management presentations
+
+Research and market mapping
+
+Coordination of due diligence processes
+
+Commercial analysis and transaction support
+
+This is a high-exposure, high-performance environment where attention to detail, commercial judgement and ownership are critical.
+
+Requirements
+
+Experience in M&A Lead Advisory from within a dedicated lead advisory team (Big 4 background is welcomed, but must be from their M&A Lead Advisory practice)
+
+Strong financial modelling and analytical capability
+
+Excellent written communication and business writing skills
+
+Ability to operate in a competitive, high-intensity deal environment
+
+CA / CFA / postgraduate finance qualifications viewed favourably"
+90516371,EL1 Technical Security Analyst,HOBAN Recruitment,https://www.seek.com.au/job/90516371?type=standard&ref=search-standalone&origin=jobCard#sol=3ff7b3cf04a10977bac04766019bdd056f27bf91,2h ago,2.0,2026-02-24T00:00:00+00:00,"Barton, Canberra ACT",Government - Federal (Government & Defence),Contract/Temp,$81.38 - $91.03 p.h. + 12% Superannuation,"HOBAN Recruitment is seeking experienced EL1 level Technical Security Analysts to join a high‑profile government program supporting vital national security operations based in BARTON ACT. In this role, you will provide technical data analysis, security monitoring and reporting to strengthen security capability across a complex global environment.
+About the Role
+You will play a key part in enhancing security operations by delivering high‑quality analysis, reporting and governance support. Responsibilities include:
+
+Analysing, investigating and archiving technical system data to identify trends, patterns and anomalies.
+Developing and managing weekly, monthly and ad‑hoc reporting processes.
+Engaging with internal stakeholders, including senior executives, to uplift data and analytic capabilities.
+Preparing, visualising and presenting data to support key security priorities.
+Contributing to change initiatives relating to data governance and operational processes.
+Providing accurate and timely advice on security anomalies and incidents.
+Categorising, sorting and archiving alarm and other system data.
+Detecting and reporting potential security breaches.
+Drafting and presenting materials to enhance organisational analytics maturity.
+Supporting other operational tasks as required.
+
+Benefits
+
+Competitive pay rate of between $81.38 and $91.03 per hour at EL1 Level, including casual loading, providing you with financial stability and recognition for your expertise.
+12% superannuation to secure your future and support your retirement planning.
+ASAP start date, allowing you to embark on this exciting opportunity without delay.
+Full-time position, offering 37.5 hours per week, Monday to Friday, enabling a healthy work-life balance and time.
+Work within a high‑impact national security environment.
+Contribute to security uplift across a significant, globally dispersed program.
+Opportunity to shape data and analytic processes at an enterprise level.
+Engage with senior stakeholders and influence strategic improvements.
+
+
+About You
+To be successful, you will have:
+Mandatory Skills & Experience
+
+Strong proficiency with MS Outlook, Excel and Word.
+Demonstrated analytical, data and problem‑solving skills.
+Ability to participate in discussions to resolve data, system or process issues.
+Clear written and verbal communication skills to support daily operations.
+Ability to collaborate with senior staff and team members to achieve organisational outcomes.
+
+Desirable Skills
+
+Experience or exposure to alarm systems, Chubb software (e.g., Paragon, Configurator) or access control systems.
+Qualifications in computer science, statistics, mathematics, economics or equivalent data analytics experience.
+Working knowledge of MS Visio, HyperTerminal and IP networks.
+Experience with MS Power BI.
+Exposure to analytical or programming tools such as Python, Ruby or Splunk.
+
+Security Clearance
+
+A current Australian Government NV2 clearance or higher is essential.
+
+Please note you do need to be an AUSTRALIAN CITIZEN for this Federal Government role
+Positions close for submissions at COB MONDAY 9th MARCH 2026.
+
+At HOBAN we encourage applications from people with disability, people from diverse cultural and linguistic backgrounds, people of all genders, LGBTI people, and Aboriginal and Torres Strait Islander people.
+
+We provide reasonable adjustments; including alternate formats to the recruitment process for individuals with disability. If you require an adjustment to be made during the recruitment process, please email our Adjustments Coordinator at adjustments@hoban.com.au or visit hoban.com.au/adjustments for additional contact details."
+90515931,Investment & Development Manager,Alinta Energy,https://www.seek.com.au/job/90515931?type=standard&ref=search-standalone&origin=jobCard#sol=b6a3c92665767029608d3ab67605ebeb15c8efde,3h ago,3.0,2026-02-23T23:00:00+00:00,Melbourne VIC (Hybrid),Corporate Finance & Investment Banking (Banking & Financial Services),Full time,,"Own NPV, IRR and scenario analysis for development projects
+Support acquisitions and major investment decisions
+Attractive hybrid work model | Energy Discounts | Career Growth Opportunities
+
+Alinta Energy is one of Australia’s biggest energy retailers, generators and developers with over 1.1 million customers. Australia’s energy system is undergoing the biggest transformation in its history and we’re right there with it. We’re investing in and developing large-scale renewables and storage projects as part of our ongoing effort to provide our customers with reliable, affordable and sustainable energy.
+
+We understand that flexibility matters when considering your next role. Let us know your requirements, and we’ll carefully consider how we might accommodate them.
+
+Ready to make a real impact?
+
+This is a pivotal role within Alinta Energy’s Power Development team, responsible for shaping investment decisions across a growing portfolio of renewable, storage and gas generation projects. Sitting within the Power Development team, this role leads the commercial and financial evaluation of major capital investments, owning the investment case from early development through to financial investment decision. It is a hands‑on, technically focused leadership role — ideal for a senior investment professional who enjoys being close to the modelling while guiding high‑quality decision‑making and developing analytical capability within a lean, high‑performing team.
+
+Why you’ll love working here
+
+At Alinta Energy, we’re taking real action to deliver reliable and sustainable energy for Australia — and that practical approach runs through everything we do. You’ll get clear direction, genuine flexibility, and the support you need to grow, all while working on projects that make a lasting difference. We’re big enough to create impact, but small enough that your ideas and effort will always be seen.
+
+There are plenty of other great benefits of working for Alinta Energy, including flexible working, energy discounts, an Employee Assistance Program (EAP), a paid volunteer day each year, fully stocked kitchens, and lots more.
+
+What you'll do
+
+Lead end‑to‑end commercial and financial appraisal of development projects, including feasibility assessments, business cases and investment recommendations
+Build, review and challenge complex financial models (NPV, IRR, sensitivities, scenario analysis, project finance and debt sculpting), remaining hands‑on with key assumptions and outputs
+Apply company assurance standards and lead due diligence processes for new development and acquisition opportunities
+Work closely with Treasury to develop and assess project funding strategies, including debt and equity structures, capital structure and financial risk considerations
+Lead and develop the Investment Analyst, setting high analytical standards and building strong modelling and commercial capability across the team
+
+Your experience
+
+6–10 years’ experience in investment banking, Big 4 corporate finance/modelling, project finance, or corporate development within an ASX‑listed or infrastructure‑focused organisation
+Advanced financial modelling capability, including complex project finance and valuation models, with strong Excel and PowerPoint skills
+Experience supporting or leading project financing, credit analysis, debt sizing and capital structure evaluation
+Demonstrated leadership capability, with experience coaching, mentoring or managing analysts and a genuine interest in developing others
+Strong commercial judgement and stakeholder influence, with the ability to translate complex analysis into clear, well‑reasoned recommendations for senior leaders
+
+Please note this role requires full working rights within Australia.
+
+Like what you’re seeing?
+
+If you like the sound of this, and you’ve got experience in a similar role, we’d love to talk to you. Come and discover better together with Alinta Energy.
+
+We are a 2026 Circle Back Initiative Employer – we commit to respond to every applicant.
+
+If your application progresses, we will need to complete background and pre-employment checks, such as immigration checks, reference checks, criminal background checks, qualification checks, and additional checks for roles related to finance.
+
+Our Diversity Commitment
+
+Alinta Energy offers a truly diverse, safe and supportive work environment. As an equal opportunity employer, Alinta Energy encourages applications from any qualified person, including First Nations Australians, members of the LGBTQIA+ community, people of all ages and people living with a disability. We are also proud to be a WORK180 Endorsed Employer and we are committed to advancing women’s careers.
+
+We look forward to hearing from you.
+
+Click ‘Apply’ to submit your application.
+Closing date: 10/03/26"
+90515744,Principal Process Analyst,Randstad - Business Support,https://www.seek.com.au/job/90515744?type=standard&ref=search-standalone&origin=jobCard#sol=b281a343cb84608b20c25bc1d0caaeb64bab4ee9,3h ago,3.0,2026-02-23T23:00:00+00:00,Brisbane QLD (Hybrid),Analysis & Reporting (Banking & Financial Services),Contract/Temp,$71.54 - $80.35 p.h. + super,"$71.54-80.35ph + super
+Brisbane CBD Location with WFH Flexibility provide
+12 month temp contract with potential for extension
+
+About the Role
+
+Our client are a Brisbane based local government entity based in the Brisbane CBD. They are currently seeking a Principal Process Analyst to come in and join their team on a 12 month temp contract with potential for extension.
+
+Candidates for this role must have:
+
+Comprehensive experience in finance related activities including the end-to-end finance processes.
+Demonstrated experience in Process mapping and documentation leveraging Process Management Best Practice
+Demonstrated experience to provide sound finance process and systems advice, managing highly sensitive and confidential information.
+Experience with process improvement methodologies (e.g., Lean, Six Sigma).
+Previous State or local government experience (Desirable)
+
+Key responsibilities will include:
+
+Customer-Centric Design: Lead the creation of finance processes and procedures that prioritize user experience and service excellence.
+Strategic Collaboration: Build strong partnerships across Council divisions to align finance systems with broader organizational goals.
+Process Documentation: Elicit and document finance workflows (Levels 1-4) using BPMN standards within corporate systems.
+Business Transformation: Conduct AS-IS and TO-BE analysis to support the transition to new ways of working during transformation projects.
+Performance Management: Develop and monitor KPIs for finance processes to ensure they meet Council's strategic and service objectives.
+Knowledge & Training: Coordinate knowledge management and develop training materials to ensure staff proficiency in finance systems.
+Continuous Improvement & QA: Lead process improvement initiatives and conduct quality assurance reviews to ensure compliance and internal control.
+
+About You
+
+You will be an experienced Process Analyst with proven experience and reliability in previous positions.
+
+Comprehensive experience in finance related activities including the end-to-end finance processes.
+Demonstrated experience in Process mapping and documentation leveraging Process Management Best Practice
+Demonstrated experience to provide sound finance process and systems advice, managing highly sensitive and confidential information.
+Experience with process improvement methodologies (e.g., Lean, Six Sigma).
+Previous State or local government experience (Desirable)
+
+What's in it for you?
+Working as a contractor with Randstad comes with many benefits including:
+
+Access to our benefits platforms offering discounts at a range of huge retailers
+3 x pay runs per week ensuring you are always paid within the week
+Exclusive access to roles before we go to market
+Access to our employee assistance program services, including counselling services
+
+If this is of interest, please send your CV along with a cover letter to jack.coleman@randstad.com.au
+
+At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background."
+90514888,Senior Business Analyst,Downer EDI Limited,https://www.seek.com.au/job/90514888?type=standard&ref=search-standalone&origin=jobCard#sol=a2b37aa107d2d889c4de9167f8587c52a3e4a281,3h ago,3.0,2026-02-23T23:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,$155k - $195k p.a.,"We currently have an opportunity for a Senior Business Analyst in Melbourne to work on MLF projects.
+
+
+Join our Downer Professional Services team and play a key role in delivering complex defence and national security projects that safeguard Australia's future.
+
+Downer Professional Services comprises of three business units our Technical, Advisory, and Capability consulting practice, and Team Downer, which partners with CASG and NSSG as a major service provider to Defence. Together, we are a multi-disciplinary advisory and delivery partner of choice for clients across Defence and National Security.
+
+We currently have an opportunity for a Senior Business Analyst in Melbourne to work on MLF projects.
+
+What You'll Do
+
+This role offers a broad scope, with key role responsibilities including:
+
+
+
+Develop a forward work plan and operational artefacts that translate the Commercial Team's strategic roadmap into actionable, tactical activities.
+
+
+
+
+Coordinate and structure the information strategy, forming a documented framework that supports policy, process, and knowledge development for the new ERP system.
+
+
+
+
+Support operating model development and end‑to‑end ERP integration, ensuring procurement processes align with key Defence workflows and integration points.
+
+
+
+
+Conduct business analysis and process improvement, including requirements investigation, process mapping, organisational change support, and uplift of policy, process, and training for ERP adoption.
+
+
+
+
+Engage Defence and industry stakeholders to support procurement outcomes and provide evidence‑based advisory artefacts that inform strategic decision‑making.
+
+
+What You'll Bring
+
+
+
+
+Hands‑on experience with SAP S/4HANA, including strong transactional capability and familiarity with navigating commercial or procurement modules.
+
+
+
+
+Demonstrated ability to work with senior executives, ideally within Defence or broader public sector environments.
+
+
+
+
+Background in commercial or procurement roles, with a solid understanding of Commonwealth procurement processes and the procure‑to‑pay value chain.
+
+
+
+
+Strong stakeholder engagement and communication skills, able to collaborate effectively across diverse Defence and industry teams.
+
+
+
+
+Proven ability to work independently, delivering high‑quality outcomes with minimal supervision while contributing effectively within multidisciplinary teams.
+
+
+Due to the nature of the work, you are required to currently hold and maintain a minimum Baseline or higher Security clearance as required by the Commonwealth. In some instances, compliance with International Traffic in Arms Regulations (ITAR) requirements may also be an inherent requirement.
+
+More than anything, you'll bring a strong work ethic, a positive attitude, and a commitment to delivering high-quality outcomes for our clients.
+
+Why Downer Professional Services
+
+At Downer Professional Services, we're not just a workplace - we're a business dedicated to contributing to the shaping of the future of defence in Australia. As the country's only sovereign prime, we're committed to making a real difference in protecting Australia's interests.
+
+What is means to belong at Downer Professional Services
+
+
+Meaningful work: Help to deliver critical Defence projects that protect Australia and shape its future.
+
+
+Professional development: Access career mapping, accelerated learning programs, and shared learning through our Communities of Practice.
+
+
+Great perks: Enjoy discounts on healthcare, retail, vehicles, and more through Perks@Downer.
+
+
+Veteran support: Benefit from initiatives like up to 20 days of Reservist Leave to stay connected post-service.
+
+
+You want your work to matter and so do we. With over 26,000 people across Australia, New Zealand and the Pacific, our team is made up of individuals with unique perspectives, backgrounds, and ideas.
+
+We know that diversity makes us stronger and we actively celebrate it through our commitment to inclusion and belonging.
+
+We're committed to building a team that reflects the diverse communities we serve and we welcome people of all ages, genders, sexual orientations, cultures, abilities, and lived experiences. We especially encourage applications from those whose voices have traditionally been underrepresented in our industry, including women, Aboriginal and Torres Strait Islander Peoples, Māori and Pasifika Peoples, veterans, people with disability, and neurodivergent individuals. Even if your experience doesn't align perfectly with this role, we'd still like to hear from you. If it feels like the right fit, apply - potential counts, and so do you.
+
+
+As a WORK180 Endorsed Employer, we support flexibility that works for your life, inclusive leadership that values your voice, and equitable access to opportunity so you can do your best work and bring your whole self to it.
+
+If you need support or adjustments through the recruitment process, just let us know, we're here to help you put your best foot forward."
+90514711,Portfolio Analyst - Retail & Commercial Property,Redpath Partners Pty Ltd,https://www.seek.com.au/job/90514711?type=standard&ref=search-standalone&origin=jobCard#sol=c4125cd4c82842e072d371906009bc61a82bbaa0,4h ago,4.0,2026-02-23T22:00:00+00:00,Sydney NSW,Analysts (Real Estate & Property),Full time,$140-160k Package,"We’re partnering with a leading real estate platform to appoint a Portfolio Analyst to support the performance and strategic direction of a national retail and commercial property portfolio.
+
+This is a high-impact role working across a diverse, high-profile asset base where your insights will directly influence investment outcomes.
+
+The Opportunity As Portfolio Analyst, you will sit at the centre of portfolio decision-making — translating performance data into clear, actionable recommendations that drive value.
+
+You’ll work closely with asset management, leasing and finance teams to optimise returns, support capital initiatives and contribute to acquisitions and disposals. Your ability to interrogate data, identify trends and present strategic insights will be critical in shaping portfolio performance.
+
+What You’ll Be Responsible For:
+Delivering portfolio reporting, performance dashboards and analytical insights
+Analysing leasing metrics, occupancy, NOI, capex and operational performance
+Supporting business cases for lease renewals, development initiatives, acquisitions and disposals
+Conducting portfolio reviews to identify value-add and risk mitigation opportunities
+Partnering with internal stakeholders to inform strategy and capital allocation decisions
+About You:
+5+ years’ experience within property, ideally across retail or commercial portfolios
+Strong financial and analytical capability (advanced Excel essential; data visualisation tools advantageous)
+Experience preparing performance reports, board-ready insights and commercial recommendations
+Sound understanding of retail dynamics, asset performance drivers and portfolio strategy
+Confident communicator with the ability to influence and engage senior stakeholders
+This is an excellent opportunity for a commercially minded analyst who wants exposure to strategic portfolio decision-making and the ability to genuinely influence performance outcomes.
+
+For a confidential discussion, please contact Erin Dixson on 0431 682 311 or erin@redpathpartners.com"
+90514643,Senior Business Analyst - Process Improvement,Talent Insights Group Pty Ltd,https://www.seek.com.au/job/90514643?type=standard&ref=search-standalone&origin=jobCard#sol=9425ae469cd92ab053875ca47234908ea56bfc00,4h ago,4.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Senior Business Analyst – Process Improvement
+
+12-Month Contract | Hybrid | Location: Sydney, Melbourne or Brisbane
+
+We’re seeking an experienced Senior Business Analyst - Process Improvement to support structured uplift initiatives within a large telco environment.
+
+This is a 12-month initial daily rate contract, focused on driving operational efficiency and improving end-to-end business processes.
+
+The Role You will work closely with business stakeholders to identify improvement opportunities, document current and future state processes, and support delivery of measurable efficiency outcomes.
+
+This role requires strong analytical capability, stakeholder engagement, and experience contributing to structured process improvement programs.
+
+Key Responsibilities
+Lead discovery and requirements gathering across business units
+Map current and future state processes
+Identify inefficiencies and improvement opportunities
+Support delivery of business and operational uplift initiatives
+Facilitate workshops and stakeholder sessions
+Track and document benefits and performance metrics
+About You
+Experience as a Senior Business Analyst within large enterprise environments
+Background in business and process improvement projects
+Lean Six Sigma Green Belt preferred
+Strong process mapping and documentation capability
+Confident engaging stakeholders across operational and leadership levels
+Telco or large enterprise experience highly regarded"
+90514199,Senior Data Scientist,Lookahead,https://www.seek.com.au/job/90514199?type=standard&ref=search-standalone&origin=jobCard#sol=76f4d4c6c07e98546262ff739f2a1ac6ad022f82,4h ago,4.0,2026-02-23T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The Role
 We’re hiring a Senior Data Scientist to join a high-growth, product-led technology company global scale-up.
   
 As the founding Data Scientist, you'll build traditional machine learning models for anomaly detection in unlabelled data - not another GenAI project. You'll explore massive datasets to identify adversarial behaviours, deploy ML models to detect automation across large-scale, high-velocity traffic, and build scalable real-time detection pipelines. This is a greenfield opportunity where you'll shape the data science function from the ground up.
@@ -16,7 +1067,7 @@ The Offer
 A highly technical, collaborative team solving genuinely hard problems
 Flexible working hours and support for well-being
 Hybrid work arrangement - work from our Sydney / Melbourne office"
-90514003,"Manager, Financial Planning Analysis",Luminary,https://www.seek.com.au/job/90514003?type=standard&ref=search-standalone&origin=jobCard#sol=6a9cbbd1d24769f477376502908f13721b45fc6f,1h ago,1.0,2026-02-23T22:00:00+00:00,Brisbane QLD (Hybrid),Management (Banking & Financial Services),Full time,,"About Brisbane City Council 
+90514003,"Manager, Financial Planning Analysis",Luminary,https://www.seek.com.au/job/90514003?type=standard&ref=search-standalone&origin=jobCard#sol=bad79fadec16003158951f79bf2ad30abfd3cb82,5h ago,5.0,2026-02-23T21:00:00+00:00,Brisbane QLD (Hybrid),Management (Banking & Financial Services),Full time,,"About Brisbane City Council 
 
 Brisbane City Council is Australia’s largest local government, responsible for shaping one of the fastest growing capital cities in the country. Council’s Brisbane Vision 2031 sets out the city’s long term aspirations: to be safe, inclusive, prosperous and globally connected, while retaining the lifestyle, character and subtropical vibrancy that make Brisbane unique. 
 
@@ -71,7 +1122,7 @@ Bruno Costa, Associate, Luminary, on 0493 249 283 or via email bruno.costa@lumi
 Applications close: Midnight, Tuesday, 10th March 2026  
 
 Luminary is committed to storing and utilising your information in accordance with the Privacy Act 1988. For further information regarding this please visit: https://www.luminarypartners.com.au/privacy-policy"
-90513564,Analytics Engineer,TheDriveGroup,https://www.seek.com.au/job/90513564?type=standard&ref=search-standalone&origin=jobCard#sol=5351708b83e29b9280831289d6be865b8e8028a1,2h ago,2.0,2026-02-23T21:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"I’m partnering with an ASX-listed FinTech that’s continuing to invest heavily in its data capability. They’re looking for an Analytics Engineer as someone who can elevate standards, lead from the front, and help scale the function as the company grows. 
+90513564,Analytics Engineer,TheDriveGroup,https://www.seek.com.au/job/90513564?type=standard&ref=search-standalone&origin=jobCard#sol=db187b1e50f63731efaaf2eff5317e0a0d1df700,5h ago,5.0,2026-02-23T21:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"I’m partnering with an ASX-listed FinTech that’s continuing to invest heavily in its data capability. They’re looking for an Analytics Engineer as someone who can elevate standards, lead from the front, and help scale the function as the company grows. 
 
 You’ll step into a visible role, leading a small team while working closely with Treasury, Finance, Risk and Commercial stakeholders. Domain knowledge is imperative. Understanding lending mechanics and treasury concepts will genuinely set you apart.
 
