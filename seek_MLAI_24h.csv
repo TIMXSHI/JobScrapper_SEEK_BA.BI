@@ -1,5 +1,518 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90571464,Data Warehouse Developer (Microsoft Fabric),AAR Consulting Group P/L,https://www.seek.com.au/job/90571464?type=standard&ref=search-standalone&origin=jobCard#sol=36afbc31f26f208deb32eea18e0d6c11c81eeeee,7h ago,7.0,2026-02-25T16:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,$114.90 per hour (inclusive of super or plus GST),"Our client is a NSW government department that protects NSW’s natural environment, ensures sustainable management of water resources and manages the transition to renewable energy
+90577777,AI Engineer,GRANITE GROUP,https://www.seek.com.au/job/90577777?type=standard&ref=search-standalone&origin=jobCard#sol=539b9ab6af878207843cd8f0976169e9993d85ce,1h ago,1.0,2026-02-26T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the Role :
+
+We are seeking an experienced AI Engineer with strong expertise in Large Language Models (LLMs), Generative AI, and Agentic AI systems to join our Melbourne-based team on a 6-month contract.
+This role will focus on designing, developing, and deploying AI-powered solutions leveraging modern ML frameworks and cloud platforms (Azure or GCP). 
+Key Responsibilities
+Design and develop AI solutions using LLMs and Generative AI models
+Build and implement Agentic AI systems (multi-agent workflows, tool use, orchestration frameworks)
+Develop ML pipelines from data preprocessing to model deployment
+Fine-tune and optimize foundation models for business use cases
+Implement RAG (Retrieval-Augmented Generation) architectures
+Work with structured and unstructured datasets
+Collaborate with data engineers and cloud teams for scalable deployment
+Deploy AI solutions using Azure (OpenAI, ML Studio, Cognitive Services) or GCP (Vertex AI, BigQuery, AI Platform)
+Ensure model performance, scalability, and security
+Conduct experimentation, A/B testing, and statistical validation
+Document technical solutions and best practices
+Required Skills & Experience
+4+ years experience in AI/ML or Data Science roles
+Strong hands-on experience with:
+
+Large Language Models (LLMs)
+Generative AI frameworks
+Agentic AI / AI orchestration frameworks
+Strong foundation in:
+
+Statistics & Probability
+Linear Algebra
+Calculus
+Optimization techniques
+Experience with cloud platforms:
+
+Microsoft Azure OR
+Google Cloud Platform (GCP)
+Excellent communication skills
+If matches then apply through ad."
+90577348,Machine Learning Engineer - Content Safety Platform (AU remote),Canva,https://www.seek.com.au/job/90577348?type=standard&ref=search-standalone&origin=jobCard#sol=432fc22f72b03b0206b2916159a67565c2ca9ee7,1h ago,1.0,2026-02-26T01:00:00+00:00,Sydney NSW (Remote),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+
+
+Join the team redefining how the world experiences design.
+
+Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. 
+
+Where and how you can work
+
+Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide, and Auckland, NZ. You have flexibility in how and where you work — whether that's from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia/New Zealand, so you can choose the setup that empowers you and your team to do your best work.
+
+Job Description
+
+
+About the Group
+
+
+The Trust & Safety (T&S) Group vision is to empower everyone to feel safe in trusting Canva. To safeguard our community, our T&S engineering teams build technologies to protect user safety (including, but not limited to their account, content, data, and privacy) and to prevent, detect, and mitigate abuse and fraud that could compromise the trust people have in Canva, such as unacceptable content, bots, account takeovers, and other abuse vectors.
+
+Within T&S, the Content Safety Platform team specializes in building safety systems for AI-generated content. As Canva rapidly expands its AI capabilities, our team ensures these powerful creative tools remain safe, trustworthy, and compliant. We develop sophisticated ML-based moderation systems, bias mitigation solutions, IP detection frameworks, and responsible AI safeguards that operate at scale. This team sits at the intersection of cutting-edge AI innovation and critical safety engineering.
+
+About the Role
+
+
+You'll build the foundational safety infrastructure that powers trust across all of Canva's AI features. We're a platform team—our mission is to provide product teams with the tools, models, and systems they need to safely launch AI-generated content features at scale. Whether it's Magic Media, conversational AI, or future capabilities, product teams rely on our platform to detect harmful content, prevent IP violations, mitigate bias, and ensure compliance across multiple modalities of content.
+
+In this role, you'll own significant ML initiatives that directly enable other teams to move faster while staying safe. You'll build reusable safety models, create scalable evaluation frameworks, and develop infrastructure that serves multiple products. This is a high-impact position where your work becomes the safety foundation for Canva's AI innovation—balancing cutting-edge ML techniques with the operational rigor required to protect millions of users. You'll collaborate closely with AI product teams, Legal, and Product Policy to deliver solutions that meet both product and compliance needs.
+
+What you’ll do (responsibilities):
+
+Own end-to-end delivery of ML-based safety features, from technical design through production rollout and iteration
+
+Build and maintain ML models that safeguard AI-generated content across multiple modalities (images, video, audio, text), detecting harmful content, IP violations, bias, and other safety concerns
+
+Design and implement RAG (Retrieval-Augmented Generation) architectures and other advanced ML systems to enhance detection capabilities
+
+Fine-tune and evaluate LLM-based models for content moderation and prompt filtering, making data-driven decisions about model selection and optimization
+
+Collaborate with Legal, Product Policy, and AI product teams to define requirements, balance safety with user experience, and deliver compliant solutions
+
+Create evaluation frameworks to measure model quality, safety coverage, false positive/negative rates, and policy alignment
+
+Monitor production systems, respond to incidents, and maintain operational excellence through documentation and runbooks
+
+What we're looking for:
+
+
+You're a machine learning engineer with a proven track record of delivering ML-powered features in production. You bring technical expertise across the ML lifecycle—from data wrangling and model development to evaluation, deployment, and monitoring. You're comfortable operating independently while collaborating with cross-functional teams, and you're motivated by user impact and product outcomes.
+
+Strong bias for action and product-minded approach to engineering
+
+Hands-on engineer who loves working alongside software engineers, writing Python production code (Java/Kotlin backend experience is a plus), and solving complex problems
+
+Experience building and deploying ML systems using modern architectures, including LLMs and RAG
+
+Comfortable influencing roadmap decisions and navigating ambiguous problem spaces
+
+Passionate about the rapidly evolving AI landscape and proactive about experimenting with emerging techniques
+
+Additional Information
+
+
+Don't tick all the boxes? Don't worry about that - nobody does!  
+
+We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you're excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!
+
+What's in it for you?
+
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
+
+Here's a taste of what's on offer:
+
+Equity packages - we want our success to be yours too
+Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
+
+Check out  lifeatcanva.com for more info.
+
+Other stuff to know
+
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
+
+All interviews are conducted virtually"
+90577344,Engineering Manager (Infra) - AI Reliability (Sydney based),Canva,https://www.seek.com.au/job/90577344?type=standard&ref=search-standalone&origin=jobCard#sol=3300bc93aed53387eb38ca8d528eb917aa73300d,1h ago,1.0,2026-02-26T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Join the team redefining how the world experiences design.
+
+Hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte!
+
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+
+Where and how you can work
+
+Our flagship campus is in Sydney. We also have a campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide and Auckland. But you have choice in where and how you work, we trust our Canvanauts to choose the balance that empowers them and their team to achieve their goals.
+
+Job Description
+
+
+What you’d be doing in this role
+
+As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+
+This role will see you:
+
+Building world-class AI infrastructure to support a 100+ person research team at the forefront of creative AI
+
+Designing and scaling multi-cloud systems that support high-performance model training and inference
+
+Partnering across AWS, GCP, Cloudflare and GCore to optimise GPU compute environments
+
+Enhancing CI/CD pipelines and developer velocity within our AI platform teams
+
+Improving monitoring, alerting and system observability for AI workloads
+
+Driving alignment in DevOps best practices across the AI platform and CORE engineering teams
+
+Leading a high-impact engineering team in a fast-paced, cutting-edge environment
+
+You're probably a match if
+
+You’ve led DevOps or infrastructure teams, ideally in AI or high-performance computing environments
+
+You’ve worked closely with AI researchers or research teams, enabling experimentation, model training, or evaluation at scale
+You’ve built or led infrastructure that prioritises research velocity and reliability, not just production uptime
+
+You’re experienced with AWS (ECS, EC2, S3, IAM) and multi-cloud environments like GCP, Cloudflare or GCore
+
+You’ve worked with Kubernetes, SLURM, or similar distributed training infrastructure
+
+You’re fluent in infrastructure as code tools like Terraform
+
+You understand the lifecycle of AI models and how to support R&D at scale
+
+You have a strong grasp of containerisation, Linux fundamentals, and cloud networking
+
+You’re collaborative, curious, and passionate about enabling others to move fast and safely
+
+About the team
+
+You’ll be joining CORE (Canva Original Research & Exploration) — our in-house AI research lab. CORE brings together researchers, engineers, and infrastructure specialists to build world-class models that unlock creativity at scale. With over 100 researchers already in the team, this role is foundational to scaling our AI training and inference capabilities as we push the boundaries of what's possible in product-integrated AI.
+
+
+What's in it for you?
+
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a range of benefits to set you up for every success in and outside of work.
+
+Here's a taste of what's on offer:
+
+Equity packages - we want our success to be yours too
+
+Inclusive parental leave policy that supports all parents & carers
+
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
+
+Check out lifeatcanva.com for more info.
+
+Other stuff to know
+
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
+
+We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above - we still want to hear from you!
+
+Please note that interviews are conducted virtually."
+90576537,Platform EDA Engineer,Cadence Connect,https://www.seek.com.au/job/90576537?type=standard&ref=search-standalone&origin=jobCard#sol=3c0d2b066476d9c527bec9e2ea73dd3fa3fc7d6d,1h ago,1.0,2026-02-26T01:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Platform EDA Engineer
+
+Exclusive Retained Search | Cadence Connect
+
+Cadence Connect has been exclusively retained to appoint a Platform EDA Engineer for our client, a deep-tech company building next generation RTL simulation and synthesis infrastructure.
+
+This is not a typical backend role. This is infrastructure-heavy, systems-focused engineering.
+
+You will architect and scale the execution layer powering AI-driven chip design workflows, building the containerised, low-latency backend services that allow engineers to run Verilog/SystemVerilog flows reliably across FPGA and ASIC toolchains.
+
+What will you be doing?
+
+You will design, build and harden the backend platform that underpins:
+
+RTL simulation, synthesis, implementation and bitstream generation
+Multi-simulator orchestration (Icarus Verilog, Verilator, XSIM)
+FPGA and VLSI design flows
+This role is about reliability, orchestration and clean abstraction over complex EDA toolchains.
+
+You will be responsible for...
+
+Backend & Job Orchestration
+Production-grade Python APIs (FastAPI, Flask or Django)
+Stateful job orchestration with stage tracking and error recovery
+Multi-user workspace isolation and snapshot management
+Timeout handling, subprocess control and zombie process cleanup
+Deterministic file handling across simulation runs
+EDA Toolchain abstraction
+FPGA flow orchestration (IP gen → synthesis → implementation → bitstream)
+VLSI flow orchestration (verification, netlisting, PnR, signoff)
+Unified diagnostic parsing for structured downstream consumption
+Clean, predictable interfaces that shield frontend and AI layers from toolchain complexity
+Cloud & Infrastructure
+Containerised EDA environments with correct sourcing and configuration
+CI/CD automation (GitHub Actions, GitLab CI or similar)
+Production vs development environment separation
+Health checks, startup reliability and graceful shutdown
+Infrastructure trade-off decisions (containers vs VMs, managed vs self-hosted)
+Performance Expectations
+99%+ EDA job reliability
+Reduced median job latency via optimisation and caching
+Zero-downtime deployments with rollback capability
+Comprehensive API test coverage
+Scalable architecture supporting multi-user growth
+What will you bring?
+
+2–5 years in backend, platform, or infrastructure engineering
+Strong production Python experience
+Docker and containerised, deployment experience
+CI/CD exposure
+Cloud infrastructure experience (AWS, GCP or similar)
+Exposure to EDA tools or hardware design workflows highly regarded
+Your technical strengths
+
+Async programming & API design
+Process management and long-running job control
+Multi-stage Docker builds
+Debugging complex toolchain interactions
+Strong engineering discipline (testing, documentation, reproducibility)
+Why apply?
+
+You will shape the backend infrastructure enabling AI-driven chip design, a platform level engineering challenge with real technical depth.
+
+Cadence Connect is managing this search exclusively and will engage directly with shortlisted candidates.
+
+For a confidential discussion, please apply directly or contact mike.priest@cadenceconnect.com.au"
+90575563,AI Model Engineer,Cadence Connect,https://www.seek.com.au/job/90575563?type=standard&ref=search-standalone&origin=jobCard#sol=b8f99136293e95a4cec19aabe22a3d391dec8af0,2h ago,2.0,2026-02-26T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"AI Model Engineer
+Generative HDL & Agentic Design Systems
+
+Exclusive Search – Cadence Connect
+
+Cadence Connect has been exclusively retained to appoint an AI Model Engineer for a venture-backed deep tech company building AI-native infrastructure for chip design.
+
+This is core model ownership, not a wrapper around someone else’s API.
+
+You will build, tune and productise the AI systems that generate, refactor and debug real Verilog/SystemVerilog RTL used in real engineering workflows.
+
+The Role
+
+You will be responsible for the intelligence layer powering a generative chip design platform. In collaboration with the EDA engineers who own simulation and toolchains, you own how the model learns from those signals and how it improves engineering outcomes.
+
+This is model AND product. If it doesn’t improve compile rates, test pass rates or repair success, it won't fly.
+
+What will you be doing?
+
+Core Model Capability
+Generate clean, maintainable RTL from specifications
+Refactor and incrementally edit existing RTL without destructive rewrites
+Preserve ports, signal widths and interface consistency
+Implement supervised fine-tuning and preference-based optimisation
+Agentic Workflows
+
+Move beyond single-shot generation by building:
+
+Spec decomposition and structured outputs
+Review → critic → repair loops
+Safe edit patterns that minimise unnecessary diffs
+Predictable behaviours engineers can trust
+Data & Evaluation
+Curate high-quality spec-to-RTL and repair datasets
+Design synthetic tasks with controlled bug injection
+Implement compile/test-based quality gates
+Build benchmarks tracking compile success, test pass rates and regressions
+Production Readiness
+Improve latency and responsiveness
+Contribute to caching, quantisation and versioning strategies
+Monitor model quality and failure modes, not just uptime
+What we are looking for...
+2-5 years in ML engineering, applied research or LLM product development
+Experience fine-tuning models for structured/code generation
+Experience building evaluation suites and regression tracking
+Ability to read/write basic Verilog/SystemVerilog
+Strong Python (PyTorch preferred)
+Experience integrating LLMs into multi-step or agent-based workflows
+Strong engineering discipline and clear communication
+What does success in this position look like?
+Measurable gains in HDL generation and repair reliability
+Improved structured outputs and interface consistency
+Repeatable training plus evaluation cycles without regressions
+A dependable AI foundation ready to scale
+Hybrid working. Australia or Singapore based. Travel as required.
+
+Cadence Connect is managing this search exclusively and will provide a detailed briefing to shortlisted candidates.
+
+This is an exceptional opportunity for a passionate and dedicated AI Model specialist. For a confidential discussion, please apply or contact mike.priest@cadenceconnect.com.au"
+90575540,Managed Service Desk Engineer,ASI Solutions,https://www.seek.com.au/job/90575540?type=standard&ref=search-standalone&origin=jobCard#sol=4e8e1ce6ec43464bc313a6e4204a8a87cd02d3c9,2h ago,2.0,2026-02-26T00:00:00+00:00,"Fortitude Valley, Brisbane QLD (Hybrid)",Other (Information & Communication Technology),Full time,,"About ASI Solutions
+
+Technology is at its most powerful with the right people behind it. Since 1985, ASI Solutions has partnered with organisations across the public and private sectors to deliver meaningful, transformative IT solutions. Our focus is on helping customers maximise their technology investments through streamlined processes and future-ready capabilities. We are proud to foster a team culture built on expertise, collaboration, and long-standing trusted relationships.
+
+The Opportunity
+
+We’re seeking a capable Service Desk Engineer – Managed Services to support our diverse client base within a structured, SLA-driven environment.
+
+In this role, you’ll confidently manage first-line and developing Level 2 technical issues across Microsoft environments while collaborating closely with senior engineers for escalation and guidance. You’ll contribute to proactive service delivery, strong documentation practices, and a positive customer experience.
+
+This is a role for someone who is technically capable, operationally disciplined, and motivated to continue growing within managed services.
+
+What You’ll Be Working On
+
+You will deliver timely first and second-level support across Microsoft 365, Windows OS, and desktop environments while managing ticket queues to meet SLA and customer satisfaction targets. You will troubleshoot access, identity, endpoint, and standard network issues and escalate more complex infrastructure, Azure, or security-related matters appropriately.
+
+The role also involves supporting preventative maintenance and patching activities, maintaining documentation aligned with ISO and compliance requirements, and contributing to knowledge sharing while supporting junior team members where appropriate.
+
+A Bit About You
+
+You’re comfortable working within an MSP environment and understand how structured service delivery supports customer outcomes. You manage competing priorities effectively, document your work thoroughly, and communicate clearly with both technical and non-technical stakeholders. You’re collaborative, open to feedback, and committed to continuous learning.
+
+Essential Criteria
+
+Experience within a Managed Service Provider or multi-client IT support environment.
+Strong practical exposure to Microsoft 365 and Windows desktop environments.
+Working knowledge of Active Directory, DNS/DHCP, Group Policy, and networking fundamentals.
+Ability to troubleshoot routine Level 1–2 issues independently.
+Strong documentation discipline and time management.
+Currently progressing toward relevant Microsoft certifications.
+Australian Citizen.
+
+Highly Desirable
+
+Exposure to Microsoft Azure administration.
+Confidence administering Microsoft Intune, including device configuration, policy deployment, and endpoint compliance management.
+Familiarity with virtualisation platforms.
+Experience using backup, RMM, and remote support tools.
+Strong practical understanding of networking concepts, with confidence troubleshooting connectivity, DNS, DHCP, and access-related issues.
+Current Baseline Security Clearance or eligibility to obtain Baseline security clearance
+
+Why work with us?
+
+Birthday Leave – Celebrate your special day with a paid day off.
+Monthly Team Lunches – Connect, unwind, and enjoy great food with your colleagues.
+Tech Product Discounts – Access exclusive savings on a wide range of technology products.
+Paid Parental Leave – Support for growing families with dedicated leave options.
+Flexible Working Arrangements – Balance work and life with hybrid options and flexibility.
+Learning & Development Opportunities – Grow your skills through training, certifications, and career progression pathways.
+Competitive Salaries – Be rewarded with remuneration that reflects your experience and contribution.
+Diversity & Inclusion Committees – Be part of creating a workplace where everyone feels valued, supported, and included.
+Engagement Activities All Year Round – Enjoy social events, wellbeing initiatives, and team-building activities that strengthen our community.
+Supportive, Community-Driven Culture – We’re not just a team — we’re a connected, people-focused community making a meaningful impact.
+We are committed to creating an inclusive environment where everyone feels valued and supported. If this opportunity aligns with your skills and aspirations, we encourage you to apply."
+90575040,Data and AI Manager,The Walter and Eliza Hall Institute,https://www.seek.com.au/job/90575040?type=standard&ref=search-standalone&origin=jobCard#sol=65f92fd038b0501fe1b68718aff950b45a70bd7f,2h ago,2.0,2026-02-26T00:00:00+00:00,"Parkville, Melbourne VIC (Hybrid)",Clinical/Medical Research (Healthcare & Medical),Full time,,"An excellent opportunity is available for a Data and AI Manager to join the Information Technology Department at Australia's pre-eminent biomedical research institute.
+
+About the Position
+The Data and AI Manager is a newly established role responsible for designing, implementing and scaling the organisation's enterprise data and artificial intelligence capabilities. This role will lead the development of a fit-for-purpose data environment, shape data governance practices, and identify opportunities to embed responsible AI into business and research operations.
+
+The Data and AI Manager will be both strategic and hands-on, working across the organisation to uplift data maturity, develop foundational infrastructure and processes, and ensure safe and ethical use of data and AI technologies. The role will also provide strategic advice to the Executive and Senior Leaders on data governance and management best practices.
+
+Key responsibilities
+
+Develop and implement an enterprise data strategy aligned with organisational priorities and regulatory requirements.
+Establish data governance policies and frameworks including data ownership, data quality standards, and lifecycle management.
+Design and implement a scalable data environment to support business intelligence, analytics, agentic and other forms of AI.
+Identify and lead the implementation of AI and machine learning initiatives that solve business problems or enhance decision-making.
+Develop and manage project plans for data and AI initiatives, including change management and training.
+Establish and promote responsible AI principles, aligned with industry best practice and ethical standards.
+Ensure compliance with relevant data and AI-related laws and frameworks (e.g. Australian Privacy Act, ISO standards, AI governance principles).
+
+Selection Criteria
+Personal qualities:
+
+Ability to maintain high integrity and confidentiality.
+Demonstrated ability to collaborate and work effectively in teams or committees across the organisation to achieve shared goals.
+Strong attention to detail and effective time management skills, including the ability to prioritise workload and distinguish between what is critical and what is not.
+Exceptional oral, written and interpersonal skills, including the ability to build and manage relationships with a broad range of stakeholders, together with the aptitude to interact with both technical and non-technical groups.
+Proven experience in planning and delivering outcomes for complex programs, services, and projects.
+Proven ability to lead change and innovation, fostering adaptability and a culture of continuous improvement.
+
+Knowledge and skills:
+
+Tertiary qualifications in Information Systems, Engineering, Computer Science, Data Science, or other relevant field.
+Demonstrated experience leading data or AI initiatives in complex organisations.
+Experience embedding data governance, data architecture, and data platform technologies in a complex organisation.
+Practical knowledge of AI/ML tools, techniques, and frameworks, including building and utilising AI models and integrating them into business workflows.
+Experience in the research, medical, tertiary education or government sectors would be highly regarded.
+Familiarity with ethical frameworks for AI (e.g. OECD, EU AI Act, Australian AI Ethics Principles).
+Exposure to data privacy, security and compliance requirements (e.g. ISO 27001, NIST, GDPR).
+Experience working with executive and senior stakeholders to uplift organisational maturity in data governance and management.
+
+Terms of Appointment
+This position is ongoing in a full time capacity. Salary is Professional Services Employee (PSE) Level 10 ($171,493 - $185,628). Very attractive salary packaging options are available for general living expenses, meal entertainment, novated leasing and more. 12% superannuation payable, plus up to a further 5% after the first 6 months of service via our matching superannuation scheme.
+
+General enquiries can be directed to Michael Carolan - michael@wehi.edu.au
+A position description is available here.
+
+How to Apply
+Please apply by uploading your CV, cover letter and a document addressing the key selection criteria in pdf format.
+
+Application Closing Date: Sunday 22 March 2026
+
+WEHI - Brighter together
+
+WEHI is where the world's brightest minds collaborate and innovate to make discoveries that will help us to live healthier for longer. Our medical researchers have been serving the community for more than 100 years. We bring together people with different skills and experience who are committed to long-term discovery. Our teams of researchers are committed to solving the most complex health problems, making transformative discoveries for cancer, infectious and immune diseases, developmental disorders and healthy ageing.
+
+WEHI is a place where people are able to shine. People who are inquisitive, who are committed, who are passionate. People who want to make a difference. And we are committed to ensuring they have the tools to flourish, personally and professionally. We are a community of researchers, students and professional service staff who work towards achieving discoveries that improve human health. We are driven by collaboration, curiosity and creativity. We are committed to making a positive difference to the lives of people in Australia and around the world. We are WEHI. We are brighter together.
+
+WEHI's commitment to diversity and inclusion
+
+At WEHI we strive to foster a flexible working environment that encourages individual differences and promotes collaboration and creativity. We recognise that talent does not sit within a single identifiable group in our society and that WEHI's ability to shape contemporary scientific thinking and deliver leading professional services relies on a diversity of thought within our organisation. Our action to promote gender equality has been recognised with an Athena SWAN Bronze Award from Science in Australia Gender Equity (SAGE) and we offer a range of support for women researchers.
+
+Our commitment to celebrating diversity and addressing inequities is further demonstrated through our Diversity and Inclusion Strategy, Gender Action Plan, Reconciliation Action Plan and our WE-Pride network for LGBTQIA+ staff and students. We actively encourage applications from, people with a disability, culturally, religiously and linguistically diverse people and people with diverse genders and sexualities. Should you require support during the recruitment process due to special needs or consideration, please contact the People and Culture team.
+
+WEHI's commitment to Indigenous employment
+
+WEHI is working to create a future where Aboriginal and Torres Strait Islander peoples will be engaged at the scientific frontier, making exciting discoveries and decisions about the future of health in this country, and part of a leading professional services workforce supporting the realisation of these discoveries. We are committed to creating a culturally safe workplace and offering career development and leadership opportunities to First Nations staff and students. We strongly encourage any Aboriginal and Torres Strait Islander peoples to apply."
+90574436,AWS Data Engineer,Accenture,https://www.seek.com.au/job/90574436?type=standard&ref=search-standalone&origin=jobCard#sol=033a63532b6ca6be86e779c0106b8a00654dfbad,3h ago,3.0,2026-02-25T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Great humans needed. Combine the best of your ingenuity and Cloud technologies to build a better world and manage clients towards change. Join us and do extraordinary things. 
+ 
+
+About Accenture
+
+
+
+
+We work with one shared purpose: to deliver on the promise of technology and human ingenuity. Every day, more than 791,000 of us help our stakeholders continuously reinvent. Together, we drive positive change and deliver value to our clients, partners, shareholders, communities, and each other. We believe that delivering value requires innovation, and innovation thrives in an inclusive and diverse environment. We actively foster a workplace free from bias, where everyone feels a sense of belonging and is respected and empowered to do their best work. At Accenture, we see well-being holistically, supporting our people’s physical, mental, and financial health. We also provide opportunities to keep skills relevant through certifications, learning, and diverse work experiences. We’re proud to be consistently recognized as one of the World’s Best Workplaces™. Join Accenture to work at the heart of change. Visit us at www.accenture.com 
+
+
+
+
+About you:
+ 
+
+As a Cloud Data Engineer, you will design and maintain data analytic road maps and data structures that support business and technology objectives.  Naturally inquisitive and open to exploration of underlying data, finding valuable insights and work with functional areas to drive identified actions. You enjoy working both freely and as part of a team and have the confidence to influence and communicate with stakeholders at all levels, and to work in a fast-paced complex environment with conflicting priorities.
+ 
+
+About the role:
+ 
+
+You will be working on client projects with teams from across our Modern Data Platform and Applied Intelligence practice alongside our industry, functional and technology SMEs on some of our clients most challenging projects. Reporting to the delivery head, you will deliver digestible, contemporary and immediate data content to support and drive business decisions. The key focus of the role is to deliver reports, dashboards and custom solutions for various business critical requirements. You will be involved in all aspects of data engineering from delivery planning, estimating and analysis, all the way through to data architecture and pipeline design, delivery and production implementation.
+ 
+
+From day one, you will be involved in the design and implementation of complex data solutions ranging from batch to streaming and event-driven architectures, across cloud, on-premise and hybrid client technology landscapes. We are looking for 3+ years of experience in data engineering in a customer or business facing capacity and experience in the following:
+
+
+To be considered for this role you must have: 
+ 
+
+-Ability to understand and articulate requirements to technical and non-technical audiences
+-Stakeholder management and communication skills, including prioritising, problem solving and interpersonal relationship building
+-Strong experience in SDLC delivery, including waterfall, hybrid and Agile methodologies. Experience delivering in an agile environment,
+-Experience of implementing and delivering data solutions and pipelines on AWS Cloud Platform.
+-A strong understanding of data modelling, data structures, databases, and ETL processes
+-An in-depth understanding of large-scale data sets, including both structured and unstructured data
+-Strong SQL and/or Python knowledge
+-Knowledge and experience of delivering CI/CD and DevOps capabilities in a data environment
+ 
+
+Location: Melbourne, Sydney, Canberra
+ 
+
+
+
+
+
+
+
+Equal Employment Opportunity Statement for Australia and New Zealand:
+
+
+
+
+At Accenture, our intention is to foster a culture and a workplace in which all of our people feel a sense of belonging and are respected and empowered to do their best work. 
+
+
+
+
+We encourage applications from all people with the relevant skillset, and we are committed to removing barriers to the recruitment process and employee lifecycle. All employment decisions shall be made without regard to age, disability status, ethnicity, gender, gender identity or expression, religion or sexual orientation and we do not tolerate discrimination. If you require any accommodations or adjustments for interviews and/or at work, please reach out to exectalent@accenture.com or contact us at +61 2 9005 5000 (Australia) or +64 44666056 (New Zealand). 
+
+
+
+
+Learn how Accenture protects your personal data and know your rights in relation to your personal data. Read more about our Privacy Statement."
+90571464,Data Warehouse Developer (Microsoft Fabric),AAR Consulting Group P/L,https://www.seek.com.au/job/90571464?type=standard&ref=search-standalone&origin=jobCard#sol=4149dafd0711033354cc654c3ac341fcd598826f,10h ago,10.0,2026-02-25T16:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,$114.90 per hour (inclusive of super or plus GST),"Our client is a NSW government department that protects NSW’s natural environment, ensures sustainable management of water resources and manages the transition to renewable energy
 
 Role Description:
 
