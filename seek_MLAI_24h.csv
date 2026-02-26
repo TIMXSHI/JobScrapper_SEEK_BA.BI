@@ -1,5 +1,276 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90585624,Pega CSSA/LSA,Morgan McKinley,https://www.seek.com.au/job/90585624?type=standard&ref=search-standalone&origin=jobCard#sol=f7995366822ca991f8fcbddf601b4bb921eac94c,1h ago,1.0,2026-02-26T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$800 - $1k p.d.,"Pega Developer / Senior System Architect (CSSA / LSA)
+90589303,Data Engineer - NV2 Cleared,1 and One Consulting Pty Ltd,https://www.seek.com.au/job/90589303?type=standard&ref=search-standalone&origin=jobCard#sol=1a44ef9cbf3f2851fe1cf3611225e5eab6cd409b,1h ago,1.0,2026-02-26T06:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,$110-$140/hr + super,"Canberra ACT
+ Contract to 30 June 2026 (extension likely)
+ $110 – $140 per hour + super
+1 and One is seeking an experienced NV2-cleared Data Engineer to support a Federal Government client within a secure enterprise data and analytics environment.
+
+This opportunity sits within a major enterprise data platform that underpins large-scale transformation, analytics enablement, and operational reporting.
+
+The Environment – Enterprise Data Platform
+You will be working within a large, enterprise-grade data ecosystem operating across hybrid cloud and on-prem environments. The Data Engineering and Operations function is responsible for platform engineering, sustainment, ETL/ELT delivery, secure data ingestion and egress, change coordination, and continuous improvement.
+
+The platform operates across a modern architecture leveraging:
+
+Microsoft Azure (essential)
+Azure Data Factory
+Azure Kubernetes Services
+AWS (desirable)
+Cloudera ecosystem including Apache Atlas, Cloudera Data Engineering, Apache NiFi, Apache Kafka and Apache Ranger
+Cloudera Data Visualisation and Cloudera Machine Learning
+MS SQL Server and Analysis Services
+Power BI
+Neo4j
+RedHat
+JFrog
+On-prem infrastructure including IBM Fusion
+This is a complex, secure, federated data mesh environment requiring engineers comfortable operating across enterprise platforms and secure networks.
+
+The Role
+Once onboarded and familiar with the platform, you will embed within a business area to support a defined program of work.
+
+You will:
+
+Conform and transform data from source systems into business-ready semantic and dimensional data models
+Develop and maintain enterprise ETL/ELT pipelines
+Support logistics-domain reporting use cases
+Integrate pre-built domain data products into the broader enterprise platform
+Contribute to platform sustainment, change coordination and engineering uplift
+Apply secure data handling practices including role-based and attribute-based access controls
+Work collaboratively with SMEs, business stakeholders and integrated technical teams
+This role supports both platform sustainment and new capability uplift across the broader data landscape.
+
+Essential Experience
+
+Demonstrated experience as a Data Engineer, ETL Engineer, Analytics Engineer or Data Platform Engineer
+Strong hands-on experience with:
+o Azure data services (ADF, Azure SQL, AKS)
+o Enterprise data warehousing
+o Dimensional and semantic modelling
+o ETL/ELT development
+o SQL and data pipeline orchestration
+Experience working within secure or regulated environments
+Strong stakeholder engagement capability
+Experience with Cloudera, Kafka, NiFi, Neo4j or enterprise data mesh architectures will be highly regarded.
+
+Security Requirements
+
+Minimum NV2 (Negative Vetting Level 2) clearance – mandatory
+Clearance must be active at time of submission
+Ability to regularly access secure government establishments
+Location & Working Arrangements
+
+Canberra, ACT
+Regular onsite access required due to secure network environments
+Not suitable for fully remote arrangements
+Contract Details
+
+Initial term to 30 June 2026
+Strong likelihood of extension
+$110 – $140 per hour + super, dependent on experience
+Full-time engagement (standard business hours)
+This is an opportunity to work on a significant enterprise data platform within a secure Federal Government environment, contributing to high-impact analytics and data engineering outcomes."
+90588743,Senior Cloud Engineer (Data & ML),Anglicare,https://www.seek.com.au/job/90588743?type=standard&ref=search-standalone&origin=jobCard#sol=1d5e0f99723359498e1ceebf6f6ad02598fdd18b,1h ago,1.0,2026-02-26T06:00:00+00:00,"Macquarie Park, Sydney NSW",Engineering - Software (Information & Communication Technology),Contract/Temp,Competitive salary + tax saving benefits,"Transform lives, every single day
+
+At Anglicare Sydney, we believe meaningful work starts with purpose. Our Digital & Data teams enable smarter, more compassionate services by unlocking the power of data and technology. When you join us, you'll be part of an organisation committed to justice, compassion, integrity and excellence - and you'll see your expertise translate into real impact for individuals, families and communities.
+
+Your opportunity
+
+As the Senior Cloud Engineer (Data & ML), you will play a critical, hands on role in architecting, building and operating Anglicare Sydney's enterprise data and machine learning platforms.
+
+Embedded within the Data Services Team in our Digital & Data division, you'll design secure, scalable, cloud native solutions on Microsoft Azure and Databricks, enabling advanced analytics, AI and data driven decision making across the organisation.
+
+This is a highly technical role that blends cloud engineering, data engineering, MLOps and DevSecOps, working closely with data scientists, ML engineers, architects and business stakeholders to deliver reliable, high performing platforms aligned to our data and AI strategy.
+
+This is an initial 12-month fixed term hire.
+
+What you'll bring
+
+You're a senior, hands on cloud engineer who thrives in complex environments and enjoys building platforms that others depend on.
+
+Key experience and capabilities include:
+
+Extensive experience with Microsoft Azure, particularly Azure Data Lake, Data Factory, Synapse, Event Hub, Azure ML and Azure Functions
+Strong expertise in Databricks, including cluster management, Spark optimisation, job orchestration and workflows
+Proven experience designing and building largescale data pipelines(batch and streaming) using Spark, ADF and Databricks
+Handson experience supporting machine learning workflows, including model training, deployment and lifecycle operations
+Strong MLOpscapability, including CI/CD for ML models, model versioning, monitoring and drift detection
+Solid experience with DevSecOps, CI/CD pipelines (Azure DevOps / GitHub Actions) and infrastructure automation using Terraform or Bicep
+Deep understanding of secure cloud architecture, including RBAC, networking, encryption and governance
+Experience with data modellingapproaches such as Data Vault 2.0, dimensional modelling and star schemas
+Ability to design reusable, modular architectures and end-to-end data platform patterns (medallion architecture preferred)
+A collaborative mindset, with the ability to mentor others and advocate best practice across cloud, data and ML domains
+
+Qualifications & background
+
+5+ years' experience in data engineering, with at least 3+ years working on cloud platforms (Azure & Databricks preferred)
+Strong experience across public, multi cloud or hybrid cloud environments
+Demonstrated expertise in DevSecOps, infrastructure automation and cloud security best practices
+
+Why Anglicare Sydney?
+
+Be part of a values driven, purpose led organisationmaking a genuine difference in people's lives
+Work on modern cloud and data platformswith enterprise wide impact
+Collaborative, supportive culture that values learning, improvement and excellence
+Not-for-profit salary packaging benefits, including meals and entertainment, to increase your take home pay
+Flexible working options and a strong focus on wellbeing
+
+Are you ready for a career that means more?
+
+If you're a senior cloud engineer who wants to apply deep technical expertise to work that truly matters, we'd love to hear from you.
+
+Apply now and help shape the data and AI platforms that support Anglicare Sydney's mission of serving people in need and enriching lives."
+90587863,RF Engineer - Satellite Comms / LTE,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90587863?type=standard&ref=search-standalone&origin=jobCard#sol=8ac73e5c7ed40141be63e2c7109e5a2cb2a1b55a,1h ago,1.0,2026-02-26T06:00:00+00:00,Melbourne VIC (Hybrid),Telecommunications (Information & Communication Technology),Contract/Temp,,"About the Role
+
+We are seeking an experienced Low Earth Orbit (LEO) Satellite Engineer to support the design, development, integration, and optimisation of next?generation satellite communication systems. This role is ideal for an engineer with strong experience in satellite payloads, RF systems, orbital mechanics, or ground?to?space communications, and a passion for advancing modern space technologies.
+You will work across the full engineering lifecycle-from concept and modelling through to testing, deployment, and operational support-helping deliver resilient, high?performance LEO satellite solutions for commercial, government, and defence applications.
+
+Key Responsibilities
+
+Design, analyse, and optimise LEO satellite systems, including payloads, RF subsystems, antennas, and communication links.
+Conduct link budget modelling, orbital analysis, and system performance simulations.
+Support integration and testing of satellite hardware, software, and ground segment components.
+Collaborate with cross?functional teams across RF engineering, systems engineering, software, and mission operations.
+Develop technical documentation including design specifications, test plans, and engineering reports.
+Support environmental, functional, and performance testing for LEO satellite components.
+Assist in the development of ground station interfaces, telemetry, tracking, and command (TT&C) systems.
+Troubleshoot system issues and contribute to continuous improvement across the satellite lifecycle.
+Ensure compliance with regulatory, safety, and spectrum management requirements.
+
+
+Skills & Experience
+
+Tertiary Education in IT, Telecommunications or Engineering is mandatory - Any certifications is a bonus
+Proven experience in satellite engineering, space systems, RF engineering, or related aerospace disciplines.
+Strong understanding of LEO satellite architectures, orbital mechanics, and communication principles.
+Experience with RF systems, antennas, modulation schemes, and link budget analysis.
+Familiarity with satellite payload design, integration, or testing.
+Experience with modelling tools such as STK, MATLAB, Simulink, or similar.
+Strong analytical and problem?solving skills with the ability to work in complex technical environments.
+Excellent communication and documentation skills.
+
+
+Benefits:
+
+Fully funded, secure role with the option to covert to permanent
+Opportunity to work on cutting?edge LEO satellite technologies shaping the future of connectivity.
+Competitive salary + guaranteed bonus on offer
+Get your security clearance !
+
+
+If you would like to know more please contact Sean Mantri on 0420 425 141 / sean.mantri@talentinternational.com or hit Apply Now!"
+90587556,Senior Data Engineer,Talenza,https://www.seek.com.au/job/90587556?type=standard&ref=search-standalone&origin=jobCard#sol=3d305f2e1bb5f3abfbd201d4e88d9a9ad482c929,2h ago,2.0,2026-02-26T05:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,$180k - $200k p.a.,"🚀 Senior Data Engineer
+
+📍 Sydney (Hybrid)
+💰 Up to $200,000 incl. Super
+
+Are you a hands-on Senior Data Engineer who loves building modern data platforms and scalable pipelines? This is a fantastic opportunity to play a key role in a major data transformation - migrating on-prem data into a cloud-based Common Data Layer using the Microsoft Fabric ecosystem end-to-end.
+
+You'll help shape the target-state architecture and enable future analytics and AI capabilities across the business.
+
+🧩 The Role
+
+You'll design, build and optimise robust data infrastructure that powers analytics, reporting and decision-making across the organisation.
+
+Key focus areas:
+
+Build and optimise ETL/ELT pipelines across diverse data sources
+
+Develop cloud data platforms (warehouses, lakes, integrations)
+
+Support migration from on-prem to Microsoft Fabric
+
+Ensure data quality, governance, security and performance
+
+Integrate APIs, cloud, on-prem and streaming data
+
+Collaborate with technical teams and business stakeholders
+
+Contribute to modern data architecture and best practices
+
+🛠️ Tech & Skills
+
+Strong SQL and Python (plus Java/Scala ideal)
+
+Microsoft Fabric / Azure Data Factory / Synapse / Spark
+
+Cloud data platforms (Azure preferred; AWS/GCP ok)
+
+Data modelling, warehousing & pipeline orchestration
+
+ETL/ELT and large-scale data integration
+
+Performance tuning & data quality frameworks
+
+Strong communication with technical & business teams
+
+🌟 About You
+
+Passionate about data engineering and platform building
+
+Enjoy hands-on delivery and solving complex data problems
+
+Keen to deepen expertise in Microsoft cloud data stack
+
+Comfortable working in evolving transformation environments
+
+Collaborative, proactive and quality-focused
+
+🎯 Why Join
+
+Major enterprise data transformation program
+
+Shape modern cloud data architecture
+
+Exposure to Microsoft Fabric end-to-end
+
+Enable future AI & analytics capabilities
+
+Supportive, collaborative data culture
+
+If you're a Senior Data Engineer in Sydney looking to build modern cloud data platforms with real impact, we'd love to hear from you"
+90586525,Architect - AI,Harvey Robinson Pty Ltd,https://www.seek.com.au/job/90586525?type=standard&ref=search-standalone&origin=jobCard#sol=abfcf4ee84e2f13d7471cb736ab75dd535f0b9e9,2h ago,2.0,2026-02-26T05:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,$170k Plus Super & Hybrid Work & Bens,"Solutions Architect - AI Products
+Sydney, Melbourne or Queensland | Hybrid - 4 Days WFH | $170k + Super | Enterprise AI | Exclusive Hire
+ 
+We are exclusively hiring for a brand-new AI team within a global organisation, seeking an experienced Solutions Architect for AI Products to design, develop, and oversee enterprise-grade AI solutions. This is a high-impact role bridging data infrastructure, AI design, and business outcomes.
+ 
+Candidates must have 6-12 months hands-on AI experience in production environments and a solid understanding of how AI integrates with enterprise data infrastructure.
+
+About the Role
+You will lead solution architecture for complex AI initiatives, translating business requirements into scalable, reliable, and secure AI products. Your focus will be on:
+
+Designing and implementing AI solutions that integrate with existing enterprise data infrastructure.
+Defining reusable data architecture patterns and standards.
+Guiding AI solutions from proof-of-concept to production.
+Ensuring security, compliance, and governance requirements are embedded into AI designs.
+Collaborating with product, engineering, and operations teams to deliver measurable business outcomes.
+Key Responsibilities
+
+Lead architecture design for AI products, ensuring scalability, reliability, and cost optimisation.
+Translate business needs into high-performance AI solutions.
+Analyse, assess, and communicate AI solution risks and trade-offs.
+Maintain clear architectural documentation: system designs, data flows, integration patterns, and design rationales.
+Collaborate with global AI and technology teams to leverage proven solution patterns.
+Present solution options and business value to stakeholders, influencing decisions at all levels.
+About You
+
+5+ years' experience designing and implementing solutions at an enterprise level.
+6-12 months hands-on AI experience in production environments.
+Deep understanding of how AI sits within data infrastructure.
+Strong technical background with cloud platforms (Azure, AWS, Google Cloud) and software architecture principles.
+Exceptional stakeholder engagement, communication, and problem-solving skills.
+Highly Desirable
+
+Experience deploying AI solutions in real-world production.
+Knowledge of regulatory, ethical, and governance requirements for AI.
+Experience in regulated industries.
+Why Apply?
+
+Be part of a brand-new AI team in a global organisation.
+Lead enterprise AI solution architecture across production-grade systems.
+Work at the intersection of technology, data, and business impact.
+High visibility and influence across product and engineering teams.
+Shape AI design and ROI in a fast-paced enterprise environment."
+90585624,Pega CSSA/LSA,Morgan McKinley,https://www.seek.com.au/job/90585624?type=standard&ref=search-standalone&origin=jobCard#sol=e389d3be72bfd2e5d8c6e6acbf390152fe88b9a5,3h ago,3.0,2026-02-26T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$800 - $1k p.d.,"Pega Developer / Senior System Architect (CSSA / LSA)
 Contract
 
 9-12 month contract
@@ -58,7 +329,7 @@ Cloud deployment experience (AWS/Azure).
 DevOps and CI/CD pipeline experience.
 
 Experience in regulated industries (Financial Services, Insurance, Telecom, etc.)."
-90578904,AI Developer,Southern Cross University,https://www.seek.com.au/job/90578904?type=standard&ref=search-standalone&origin=jobCard#sol=93f4fc5236a9f0e54b4e3edf4931f61362868828,4h ago,4.0,2026-02-26T02:00:00+00:00,"Lismore, Lismore & Far North Coast NSW","Developers/Programmers (Information & Communication Technology)
+90578904,AI Developer,Southern Cross University,https://www.seek.com.au/job/90578904?type=standard&ref=search-standalone&origin=jobCard#sol=155c8ae378712b6452bfe3686ddfea91157e6b33,5h ago,5.0,2026-02-26T02:00:00+00:00,"Lismore, Lismore & Far North Coast NSW","Developers/Programmers (Information & Communication Technology)
 Other (Education & Training)",Full time,Commensurate with the candidate’s qualifications,"Be Bold. Belong. Be More.
 
 At Southern Cross University, we do things differently, and so can you.
@@ -124,7 +395,7 @@ Eligible applicants must have Australian or New Zealand citizenship, Australian 
 Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our website.
 
 Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate. For any support through the recruitment process reach out to jobs@scu.edu.au."
-90577777,AI Engineer,GRANITE GROUP,https://www.seek.com.au/job/90577777?type=standard&ref=search-standalone&origin=jobCard#sol=de8f0ededd64808e9280c822f296c494834376cf,4h ago,4.0,2026-02-26T02:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the Role :
+90577777,AI Engineer,GRANITE GROUP,https://www.seek.com.au/job/90577777?type=standard&ref=search-standalone&origin=jobCard#sol=7ecb9af2a6955897812e4863c0843343cc58ef96,6h ago,6.0,2026-02-26T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About the Role :
 
 We are seeking an experienced AI Engineer with strong expertise in Large Language Models (LLMs), Generative AI, and Agentic AI systems to join our Melbourne-based team on a 6-month contract.
 This role will focus on designing, developing, and deploying AI-powered solutions leveraging modern ML frameworks and cloud platforms (Azure or GCP). 
@@ -159,7 +430,7 @@ Microsoft Azure OR
 Google Cloud Platform (GCP)
 Excellent communication skills
 If matches then apply through ad."
-90577348,Machine Learning Engineer - Content Safety Platform (AU remote),Canva,https://www.seek.com.au/job/90577348?type=standard&ref=search-standalone&origin=jobCard#sol=204ec56b7687bd4c26bbc0fb7a582c2a43f5de13,4h ago,4.0,2026-02-26T02:00:00+00:00,Sydney NSW (Remote),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
+90577348,Machine Learning Engineer - Content Safety Platform (AU remote),Canva,https://www.seek.com.au/job/90577348?type=standard&ref=search-standalone&origin=jobCard#sol=94bf49873fbe0a20bb887e13ec9b783182a6d038,6h ago,6.0,2026-02-26T01:00:00+00:00,Sydney NSW (Remote),Business/Systems Analysts (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -245,7 +516,7 @@ Other stuff to know
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
 
 All interviews are conducted virtually"
-90577344,Engineering Manager (Infra) - AI Reliability (Sydney based),Canva,https://www.seek.com.au/job/90577344?type=standard&ref=search-standalone&origin=jobCard#sol=7e3ff07de20c3112b00e66c7d0241e62d21fb2c1,4h ago,4.0,2026-02-26T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+90577344,Engineering Manager (Infra) - AI Reliability (Sydney based),Canva,https://www.seek.com.au/job/90577344?type=standard&ref=search-standalone&origin=jobCard#sol=32cedeac93e3c11940d060a0aaf00067be861a78,6h ago,6.0,2026-02-26T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -328,7 +599,7 @@ We make hiring decisions based on your experience, skills and passion, as well a
 We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above - we still want to hear from you!
 
 Please note that interviews are conducted virtually."
-90576537,Platform EDA Engineer,Cadence Connect,https://www.seek.com.au/job/90576537?type=standard&ref=search-standalone&origin=jobCard#sol=9942eb35fabc09822fec75ecbaac636254f8849a,5h ago,5.0,2026-02-26T01:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Platform EDA Engineer
+90576537,Platform EDA Engineer,Cadence Connect,https://www.seek.com.au/job/90576537?type=standard&ref=search-standalone&origin=jobCard#sol=6c4433d629121f4fc838e5fa2c5aac7985e961fb,6h ago,6.0,2026-02-26T01:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Platform EDA Engineer
 
 Exclusive Retained Search | Cadence Connect
 
@@ -394,7 +665,7 @@ You will shape the backend infrastructure enabling AI-driven chip design, a plat
 Cadence Connect is managing this search exclusively and will engage directly with shortlisted candidates.
 
 For a confidential discussion, please apply directly or contact mike.priest@cadenceconnect.com.au"
-90575563,AI Model Engineer,Cadence Connect,https://www.seek.com.au/job/90575563?type=standard&ref=search-standalone&origin=jobCard#sol=723deb8caea4fb05ef09c6a6463e95e92367abb3,5h ago,5.0,2026-02-26T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"AI Model Engineer
+90575563,AI Model Engineer,Cadence Connect,https://www.seek.com.au/job/90575563?type=standard&ref=search-standalone&origin=jobCard#sol=79b1cb9709e005a0a009135ca24cefcef65f7148,7h ago,7.0,2026-02-26T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"AI Model Engineer
 Generative HDL & Agentic Design Systems
 
 Exclusive Search – Cadence Connect
@@ -453,7 +724,7 @@ Hybrid working. Australia or Singapore based. Travel as required.
 Cadence Connect is managing this search exclusively and will provide a detailed briefing to shortlisted candidates.
 
 This is an exceptional opportunity for a passionate and dedicated AI Model specialist. For a confidential discussion, please apply or contact mike.priest@cadenceconnect.com.au"
-90575540,Managed Service Desk Engineer,ASI Solutions,https://www.seek.com.au/job/90575540?type=standard&ref=search-standalone&origin=jobCard#sol=5fc9cd8197b57325559baee1479d8086bb69750d,5h ago,5.0,2026-02-26T01:00:00+00:00,"Fortitude Valley, Brisbane QLD (Hybrid)",Other (Information & Communication Technology),Full time,,"About ASI Solutions
+90575540,Managed Service Desk Engineer,ASI Solutions,https://www.seek.com.au/job/90575540?type=standard&ref=search-standalone&origin=jobCard#sol=fdb08ef95d225dafd374696e044c82eacfd4169b,7h ago,7.0,2026-02-26T00:00:00+00:00,"Fortitude Valley, Brisbane QLD (Hybrid)",Other (Information & Communication Technology),Full time,,"About ASI Solutions
 
 Technology is at its most powerful with the right people behind it. Since 1985, ASI Solutions has partnered with organisations across the public and private sectors to deliver meaningful, transformative IT solutions. Our focus is on helping customers maximise their technology investments through streamlined processes and future-ready capabilities. We are proud to foster a team culture built on expertise, collaboration, and long-standing trusted relationships.
 
@@ -507,7 +778,7 @@ Diversity & Inclusion Committees – Be part of creating a workplace where every
 Engagement Activities All Year Round – Enjoy social events, wellbeing initiatives, and team-building activities that strengthen our community.
 Supportive, Community-Driven Culture – We’re not just a team — we’re a connected, people-focused community making a meaningful impact.
 We are committed to creating an inclusive environment where everyone feels valued and supported. If this opportunity aligns with your skills and aspirations, we encourage you to apply."
-90575040,Data and AI Manager,The Walter and Eliza Hall Institute,https://www.seek.com.au/job/90575040?type=standard&ref=search-standalone&origin=jobCard#sol=85e4c9134ffcdea5ff6a8d7c5f3a49297a227a41,6h ago,6.0,2026-02-26T00:00:00+00:00,"Parkville, Melbourne VIC (Hybrid)",Clinical/Medical Research (Healthcare & Medical),Full time,,"An excellent opportunity is available for a Data and AI Manager to join the Information Technology Department at Australia's pre-eminent biomedical research institute.
+90575040,Data and AI Manager,The Walter and Eliza Hall Institute,https://www.seek.com.au/job/90575040?type=standard&ref=search-standalone&origin=jobCard#sol=d70628c7253bb834b037fa58edc1ca6417184811,8h ago,8.0,2026-02-25T23:00:00+00:00,"Parkville, Melbourne VIC (Hybrid)",Clinical/Medical Research (Healthcare & Medical),Full time,,"An excellent opportunity is available for a Data and AI Manager to join the Information Technology Department at Australia's pre-eminent biomedical research institute.
 
 About the Position
 The Data and AI Manager is a newly established role responsible for designing, implementing and scaling the organisation's enterprise data and artificial intelligence capabilities. This role will lead the development of a fit-for-purpose data environment, shape data governance practices, and identify opportunities to embed responsible AI into business and research operations.
@@ -571,7 +842,7 @@ Our commitment to celebrating diversity and addressing inequities is further dem
 WEHI's commitment to Indigenous employment
 
 WEHI is working to create a future where Aboriginal and Torres Strait Islander peoples will be engaged at the scientific frontier, making exciting discoveries and decisions about the future of health in this country, and part of a leading professional services workforce supporting the realisation of these discoveries. We are committed to creating a culturally safe workplace and offering career development and leadership opportunities to First Nations staff and students. We strongly encourage any Aboriginal and Torres Strait Islander peoples to apply."
-90574436,AWS Data Engineer,Accenture,https://www.seek.com.au/job/90574436?type=standard&ref=search-standalone&origin=jobCard#sol=0caa3bacb5dfdb2adb3102c933e041829691b2f7,6h ago,6.0,2026-02-26T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Great humans needed. Combine the best of your ingenuity and Cloud technologies to build a better world and manage clients towards change. Join us and do extraordinary things. 
+90574436,AWS Data Engineer,Accenture,https://www.seek.com.au/job/90574436?type=standard&ref=search-standalone&origin=jobCard#sol=1f3a6db28f58302513b501b547a1ac0f607b66d3,8h ago,8.0,2026-02-25T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Great humans needed. Combine the best of your ingenuity and Cloud technologies to build a better world and manage clients towards change. Join us and do extraordinary things. 
  
 
 About Accenture
@@ -637,7 +908,7 @@ We encourage applications from all people with the relevant skillset, and we are
 
 
 Learn how Accenture protects your personal data and know your rights in relation to your personal data. Read more about our Privacy Statement."
-90571464,Data Warehouse Developer (Microsoft Fabric),AAR Consulting Group P/L,https://www.seek.com.au/job/90571464?type=standard&ref=search-standalone&origin=jobCard#sol=8d0ca23bb4d783a1325dace7e44059dbd4e031a8,13h ago,13.0,2026-02-25T17:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,$114.90 per hour (inclusive of super or plus GST),"Our client is a NSW government department that protects NSW’s natural environment, ensures sustainable management of water resources and manages the transition to renewable energy
+90571464,Data Warehouse Developer (Microsoft Fabric),AAR Consulting Group P/L,https://www.seek.com.au/job/90571464?type=standard&ref=search-standalone&origin=jobCard#sol=91804def403c890d7557ce863be3893d3e4c68bd,15h ago,15.0,2026-02-25T16:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,$114.90 per hour (inclusive of super or plus GST),"Our client is a NSW government department that protects NSW’s natural environment, ensures sustainable management of water resources and manages the transition to renewable energy
 
 Role Description:
 
