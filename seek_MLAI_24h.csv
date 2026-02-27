@@ -1,5 +1,589 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90613710,"Director, Research & Labs, Data Standards and Excellence",CSL Limited,https://www.seek.com.au/job/90613710?type=standard&ref=search-standalone&origin=jobCard#sol=01022c18e7815991c51080b216c1421ed128ecb2,1h ago,1.0,2026-02-27T04:00:00+00:00,Melbourne VIC (Hybrid),Biological & Biomedical Sciences (Science & Technology),Full time,,"CSL's R&D organization is accelerating innovation to deliver greater impact for patients. With a project-led structure and a focus on collaboration, we’re building a future-ready team that thrives in dynamic biotech ecosystems. Joining CSL now means being part of an agile team committed to developing therapies that make a meaningful difference worldwide.
+90615881,"Senior Machine Learning Engineer - South Bank, QLD",Flight Centre Travel Group,https://www.seek.com.au/job/90615881?type=standard&ref=search-standalone&origin=jobCard#sol=a26f162cd0472be9983a72052411994ab43f31c2,1h ago,1.0,2026-02-27T06:00:00+00:00,"South Brisbane, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"At Flight Centre Travel Group (FCTG) our purpose is to 'open up the world for those who want to see'. Every day, we give people all around the world the opportunity to experience something amazing – travel!  
+
+As a Senior ML Engineer, you will play a key role in delivering high impact, first of their kind AI solutions within the travel industry. You will design and productionise advanced AI systems that operate reliably at scale and directly contribute to the evolution of our AI platform.
+
+This role spans Classical ML, Generative AI, AI agents and agentic workflows. You will build robust ML and LLM systems, contribute to platform standards across MLOps and LLMOps, and ensure strong evaluation, safeguards and observability across production AI systems.
+
+You will provide technical leadership within projects, mentor engineers, and drive engineering excellence across multiple concurrent AI initiatives.
+
+This is an opportunity to build industry defining AI systems and contribute directly to advanced, scalable AI products in one of the most data rich sectors globally!
+
+ 
+
+Day to Day:
+
+Design, develop and productionise ML models, LLM powered systems and agent based applications
+Implement end to end MLOps pipelines including CI CD, model registry, monitoring, drift detection and retraining for predictive ML systems
+Build LLMOps workflows including context engineering, automated evaluation, safeguards and guardrails
+Develop AI agent workflows, endpoints, gateways and orchestration layers enabling secure tool usage and structured reasoning
+Contribute to MCP server implementation and modern agent communication protocols
+Implement strong observability across ML and GenAI systems including reliability, latency, evaluation metrics, usage and cost tracking
+Build scalable ML infrastructure, and AI/ML optimised workflows
+Deploy and optimise workloads on Kubernetes and cloud native environments
+Collaborate with product and business stakeholders to deliver high impact AI solutions
+
+ 
+
+We would love to hear from you, if you have:
+
+ 
+
+5+ years delivering production grade ML or AI systems with commercial impact
+Strong hands on experience across AI/ML lifecycle, infrastructure and scalable AI architecture
+Experience building AI agents, RAG systems or LLM powered applications in production
+Familiarity with agent endpoints, gateways and tool orchestration patterns
+Exposure to MCP servers and emerging agent protocols
+Experience implementing evaluation frameworks and safety mechanisms for LLM systems
+Deep knowledge of Python and modern AI/ML frameworks
+Experience working with Databricks
+Strong understanding of Kubernetes and distributed production systems
+
+ 
+
+What you will enjoy:
+
+🙋🏾‍♀️Culture: you will be employed by an inclusive company that offers a team culture like no other in the industry - Flight Centre Travel Group Australia is proud to be a certified Great Place to Work® Australia New Zealand Pty Ltd
+
+👐🏽 Our People: FCTG is an Equal Opportunity Employer and encourage all suitably qualified applicants to apply, including Aboriginal and Torres Strait Islander People and people from racial, ethnic, or ethno-religious minority groups and people with disability 
+
+🎉Development: Individualised, ongoing Learning & Development via communities of practice. Dedicated time to learn, share and collaborate skills, interests and goals, as well as contribute your own expertise and insights of others.
+
+⭐Innovation Days where you have the opportunity to create, collaborate, and bring innovative concepts to life! 
+
+🧑‍💻Dedicated Engineering Days, often hosted by technology partners off-site, where staff have an opportunity to increase knowledge and skills, and test out new and exciting technologies. 
+
+🔧Access to 'LinkedIn Learning' for ongoing skills development: over 24,500 courses in over 20 languages
+
+♀️Women in PM&E group - this comprehensive program aims to foster gender diversity and empower and support women in their pursuit of successful careers in technology. It encompasses a variety of initiatives, workshops, mentorship opportunities, and networking events.
+
+🏆Exclusive Staff Discounts: Accessible via our employee-only portal with 350+ of Australia’s leading retailers, health and wellness discounts, financial planning advice, employee share plan and more
+
+🌏Travel Discounts: Including family and friends - flights, hotels, tours, cruises, travel insurance and more
+
+💎Brightness of Future: Career opportunities in a network of brands and businesses across the globe - we promote from within 
+
+🥦Corporate Health Discounts: Access exclusive discounts on health insurance plans for you and your family with our partner, BUPA, access to internal gym
+
+🌞Mental Health: Support and Employee Assistance Program for staff and family
+
+🎉Social: Regular awards nights, social team-building and industry events, with the opportunity to attend global conferences (Bangkok in 2026) 
+
+🙏🏼 Giving Back: Corporate Social Responsibility program supporting nominated charities through Workplace Giving, volunteering and fundraising; paid parental and volunteer leave
+
+💚Sustainability: The protection of our environment is essential to the future of tourism, as a leading travel group, we have made efforts to affect positive change to the environment
+
+Irreverence. Ownership. Egalitarianism."
+90615832,Principal Platform Engineer (Data & AI) - 12 Months daily rate contract role,Allura Partners,https://www.seek.com.au/job/90615832?type=standard&ref=search-standalone&origin=jobCard#sol=f85d866bcf98d30f06567daf95bf044e56736c4e,1h ago,1.0,2026-02-27T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,150,"Principal Platform Engineer (Data & AI) - 12 Months daily rate contract role - Sydney - Sagemaker - Bedrock - AWS
+
+About the company
+Our client is a leading enterprise organisation in Australia operating in a complex, highly regulated environment. With a large, distributed workforce and significant digital investment, the business is accelerating its AI strategy to enable enterprise-wide innovation, scalability, and secure data-driven decision making. 
+
+About the role
+Reporting to the Product Owner, you will act as Technical Lead within a small cross-functional team, mentoring a Solution Architect, Cloud Engineer, and Data Platform Engineer. You will lead hands-on delivery of an enterprise AI Workbench, shaping platform engineering standards, enabling AI adoption, and delivering production capability.
+
+This is a 12 months daily rate contract with high chance of extension. Client is based in Sydney and hybrid working.
+
+Benefits
+Day Rate contract - competitive rate
+12 Months contract
+Hybrid working
+Greenfield platform build with enterprise impact
+High-visibility role aligned to enterprise AI strategy
+Opportunity to define platform engineering standards from day one
+Work with modern AWS-native AI and ML tooling
+Collaborative, cross-functional environment
+Strong focus on innovation, scalability, and long-term capability uplift
+Duties / Key Responsibilities
+Lead hands-on build and operationalisation of the AI Workbench platform
+Deliver production-ready ML and Gen AI capabilities with monthly release cadence
+Develop CI/CD pipelines, infrastructure-as-code templates, and operational artefacts
+Provide technical leadership across AWS-native AI/ML services and data integration
+Enable onboarding, performance monitoring, governance alignment, and platform adoption
+Skills and Experience
+10+ years designing and operating enterprise Data and AI/ML platforms
+Deep AWS expertise including SageMaker, Bedrock, S3, IAM and DevOps tooling
+Strong experience with infrastructure-as-code (Terraform, CloudFormation) and CI/CD
+Proven delivery of secure, governed, cost-optimised AI platforms
+Experience establishing platform engineering standards in greenfield environments
+Ability to translate architecture into detailed technical design and backlog items
+Strong stakeholder engagement and mentoring capability
+Familiarity with prompt engineering and Gen AI tooling highly regarded
+AWS or relevant DevOps / ML Ops certifications desirable
+If you’re interested in this opportunity and feel you’re the right fit please click “apply”
+
+About Allura Partners Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
+
+Principal Platform Engineer (Data & AI) - 12 Months daily rate contract role - Sydney - Sagemaker - Bedrock - AWS"
+90615752,AI Full Stack Engineer,The Onset,https://www.seek.com.au/job/90615752?type=standard&ref=search-standalone&origin=jobCard#sol=18401a33c2343626228c791faa8eb4ad453dcf58,1h ago,1.0,2026-02-27T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$140,000 - $180,000 + Super + Equity","Not Your Typical Engineering Role This isn’t about shipping features for the sake of it. This is about shaping how AI powers a platform used by over a million people globally systems that are operationally serious, ethically guided, and scaling fast.
+
+You’ll work alongside a team of ~40 world-class engineers, recently strengthened by senior talent from top-performing product and scale-up environments. The technical bar has never been higher, and the culture is defined by:
+
+
+Technical excellence
+
+
+Clear system design thinking
+
+
+High ownership and accountability
+
+
+Fast iteration and calibration
+
+
+Customer-first decision making
+
+
+You’ll report to a senior engineering leader who also oversees AI and platform strategy. Expect real architectural discussions, not surface-level decisions.
+
+The company is now AI-first, investing heavily in responsible, human-guided AI to tackle real-world, non-clinical health and safety challenges. And this is just the beginning, the AI layer is becoming core to the platform experience.
+
+The Problem You’ll Own
+
+The platform is at a pivotal point:
+
+Two fully scaled systems, front-end and back-end, need to evolve together without slowing down.
+
+
+AI-driven services, from predictive triage to intelligent automation are now central to how the platform delivers impact.
+
+
+Every architectural choice you make today will shape how millions of people get help tomorrow.
+
+
+The Work You’ll Do
+Build and scale features across front-end and back-end, integrating AI thoughtfully.
+
+
+Prototype, experiment, and ship AI/ML capabilities that genuinely improve outcomes.
+
+
+Influence system design and architecture for reliability, performance, and scale.
+
+
+Mentor peers and elevate engineering standards across the team.
+
+
+Extra credibility: showcasing outside projects, open-source contributions, or personal AI work is highly regarded.
+
+
+The Profile That Excels
+3+ years full-stack experience (React/Angular/Vue + Node.js/Python/Java)
+
+
+Hands-on AI/ML experience (TensorFlow, PyTorch, OpenAI, Hugging Face, LangChain)
+
+
+Cloud-native expertise (AWS/GCP/Azure) and modern CI/CD practices
+
+
+Comfortable designing scalable APIs (REST/GraphQL) and distributed systems
+
+
+Thrives in high-bar, high-accountability environments
+
+
+Why This Role Stands Out
+You see the real impact of your work on people’s lives.
+
+
+You’ll get architectural ownership over a platform at global scale.
+
+
+You’ll collaborate with engineers from top product-led companies.
+
+
+Flexible hybrid work, ESOP, wellbeing support, and study leave.
+
+
+This role isn’t about tickets. It’s for engineers who want to own the technical direction of AI in a high-impact platform. If that’s you, let’s talk, the next three to five years of your career could be defined here.
+
+Dani - danielle@theonset.com.au"
+90615660,Senior Data Scientist,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90615660?type=standard&ref=search-standalone&origin=jobCard#sol=707168ff7d3dcaa5c3cc0d59f4a14c47331eda2c,1h ago,1.0,2026-02-27T06:00:00+00:00,"Richmond, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,$600 - $1000 Daily,"Our client is a large values-focused Federal Government Agency seeking an experienced Senior Data Scientist to deliver end-to-end machine learning outcomes in an AWS environment.
+
+This is a hands-on role for someone who can hit the ground running.
+
+Development is in Python, with a strong focus on NLP and Generative AI, plus production deployment and monitoring.
+
+Australian Citizenship required (MANDATORY - Federal Government).
+12-month contract (possible extension)
+Highly flexible hybrid work arrangement
+
+Key focus areas:
+
+Build, train, deploy and monitor ML models in production (end-to-end lifecycle).
+NLP delivery (commercial experience required) and Generative AI/LLM use cases.
+Predictive modelling and advanced analytics to solve complex business problems.
+Work with stakeholders to translate requirements into delivered outcomes.
+
+Must have:
+
+4+ years commercial experience as a Data Scientist.
+Strong Python.
+Demonstrated NLP delivery experience.
+AWS experience (must-have).
+Software engineering fundamentals: Git/source control + CI/CD.
+Experience deploying and monitoring ML models (MLOps mindset).
+Growth mindset and strong communication.
+
+Nice to have:
+
+Project management experience (scope to take on some PM responsibilities).
+
+APPLICATIONS CLOSE THURSDAY, 5th MARCH 2026
+
+APPLY:
+Submit your resume, or for further information please contact
+Reece Prideaux - Talent International
+reece.prideaux@talentinternational.com
+
+For over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
+90499284,AI Systems Architect / Builder,ODIS PTY LTD,https://www.seek.com.au/job/90499284?type=standard&ref=search-standalone&origin=jobCard#sol=912c8c0add4d43ef98b5d6934dc0f7962dc39002,1h ago,1.0,2026-02-27T06:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW (Hybrid)",Architects (Information & Communication Technology),Full time,,"LOCATION: Newcastle and Sydney
+
+This is not a job. This is a build mission.
+
+We are building real AI systems that remove friction, create leverage, and scale businesses beyond human limits.
+
+This requires a certain type of person.
+
+Someone who builds.
+
+Someone who finishes.
+
+Someone who backs themselves.
+
+The Code We Live By
+
+Heart and soul.
+
+Push the boundaries.
+
+Back yourself and each other.
+
+Do what you say you will do.
+
+This is non-negotiable.
+
+What You’ll Actually Do
+
+You will design and deploy real AI systems operating inside real companies.
+
+Not experiments.
+
+Not concepts.
+
+Production systems.
+
+You will:
+
+* Architect and deploy multi-agent AI systems
+
+* Build autonomous agents that perform real operational work
+
+* Design agent-to-agent communication systems (MCP, A2A, and similar)
+
+* Integrate AI into CRMs, internal tools, workflows, and products
+
+* Rapidly prototype and deploy new AI capabilities
+
+* Test, validate, and optimise agent performance
+
+* Design scalable and reliable system architectures
+
+* Take ownership of systems from design through deployment
+
+This is hands-on building.
+
+Required Technical Capabilities
+
+Core requirements:
+
+* AI Systems Integration Specialist with strong full-stack engineering capability
+
+* Deep hands-on experience with agentic systems and multi-agent architectures
+
+* Familiarity with MCP (Model Context Protocol), A2A communication, and orchestration frameworks
+
+* Strong experience using modern AI tooling (Cursor, OpenAI APIs, LangChain, vector databases, etc.)
+
+* Strong backend engineering capability (Python, Node, or similar)
+
+* Experience deploying AI systems in scalable infrastructure environments (AWS, GCP, Azure, etc.)
+
+* Strong capability in testing, validating, and optimising AI systems
+
+* Experience integrating APIs, CRMs, databases, and internal systems
+
+* Strong understanding of security, data protection, and privacy
+
+Bonus:
+
+* Experience building operational AI copilots
+
+* Experience with retrieval systems and vector databases
+
+* Experience building internal tooling and automation
+
+* Experience shipping production AI systems used by real users
+
+Who You Are
+
+You:
+
+* Take ownership
+
+* Execute quickly and clearly
+
+* Solve problems independently
+
+* Care about quality and performance
+
+* Follow through on commitments
+
+* Push yourself and the people around you
+
+You take pride in what you build.
+
+The Selection Process
+
+We hire builders, not interview performers.
+
+Stage 1: Proof of Work
+
+Send:
+
+* Systems you’ve built
+
+* GitHub, demos, Loom walkthroughs, or live deployments
+
+* Examples of production AI systems you’ve worked on
+
+* What excites you about AI right now
+
+Proof matters.
+
+Stage 2: Live Build Test
+
+You will be given a real-world problem.
+
+You will:
+
+* Architect the system
+
+* Design the agent structure
+
+* Build a working prototype
+
+* Explain your architecture and decisions
+
+* Demonstrate how you test and validate performance
+
+This stage shows how you think and build.
+
+What You Get
+
+* Ability to build real AI systems with real impact
+
+* Autonomy to design and deploy solutions
+
+* Direct exposure to multiple companies and use cases
+
+* Opportunity to become a foundational part of a growing AI ecosystem
+
+* Fast growth through real execution
+
+How to Apply
+
+Send:
+
+* Links to your work
+
+* Systems you’ve built
+
+* GitHub, demos, or walkthroughs
+
+No generic applications.
+
+Show what you’ve built."
+90614798,"Lead, Business Intelligence Data Engineering",Deakin University,https://www.seek.com.au/job/90614798?type=standard&ref=search-standalone&origin=jobCard#sol=09054515f44896550ae1a60bd4051040f8a789db,1h ago,1.0,2026-02-27T06:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
+Other (Education & Training)",Full time,"HEW 9 $138,102 - $146,374 + 17% Superannuation","Based at either our Melbourne Burwood or Geelong Waterfront Campus, hybrid work available 
+Fulltime and continuing
+
+ 
+
+Do you want to lead the engineering of data and insights that shape strategic decision-making?
+
+Deakin is seeking a Lead, Business Intelligence Data Engineering to oversee the design, development and operation of enterprise data engineering platforms that power high-quality analytics, reporting and insight-driven decision-making across the University.
+
+This is a leadership role where technology, strategy and customer experience come together — enabling data to be trusted, accessible and meaningful for students, staff and researchers.
+
+ 
+
+Why work with us?
+
+At Deakin University, you’ll find more than a job - you’ll find a community and a way of working that supports you to do your best work. Across our campuses in Geelong, Melbourne and regional Victoria, we offer an environment designed to help you thrive, with on-site childcare, gyms, medical centres, cafés, accessible public transport and convenient parking.
+
+We support flexible and hybrid working, generous leave provisions - including extended parental leave and the option to purchase additional leave - and a wide range of staff benefits and discounts. Combined with our strong focus on health, wellbeing and professional development, Deakin offers a supportive, inclusive culture where leaders are trusted, people are valued and careers can grow.
+
+ 
+
+About the role
+
+Deakin isn't just adopting AI – we're building it. With Deakin GEM now live and our AI Factory, a multi disciplinary AI squad, accelerating capability across the institution, ambitious work is underway across multiple streams.
+
+As Lead, Business Intelligence Data Engineering you will lead the evolution of Deakin’s data engineering environment, ensuring robust, secure and scalable data platforms support organisational priorities. You will play a key role in delivering automated, high-quality data pipelines, improving data processing efficiency and strengthening enterprise business intelligence capability.
+
+This role blends technical leadership with people leadership — fostering innovation, operational excellence and continuous improvement across data engineering practices.
+
+Come and join us to transform data into intelligent insights that drive decisions. We need a Data Engineer who can build robust BI pipelines and infuse them with AI, from predictive analytics to LLM-powered exploration and creating data products that empower business users to ask smarter questions and get better answers.
+
+You will:
+
+Lead the design, development and maintenance of enterprise data engineering platforms and tools
+Ensure data quality, security and governance standards are embedded across the enterprise data warehouse environment
+Drive automation of data workflows to support scalable, efficient data processing
+Oversee end-to-end data pipeline delivery across ingestion, transformation and serving layers
+Lead capability improvement initiatives and evaluate emerging data technologies
+Coach and inspire team members to deliver high-quality data engineering outcomes
+Translate business requirements into effective, practical data solutions
+Engage stakeholders to communicate the value of insights and support evidence-based decision-making
+
+ 
+
+About you
+
+You are an experienced data engineering or business intelligence leader who thrives in complex, enterprise environments. Most importantly, you are passionate about using data to create meaningful outcomes and empowering others to succeed.
+
+You’ll bring:
+
+Postgraduate qualifications or extensive relevant experience
+Proven experience managing data engineering, warehousing and ETL/ELT platforms
+Knowledge of feature engineering and ML data pipelines
+Experience integrating AI/ML models into BI workflows
+Understanding of predictive analytics and anomaly detection
+Familiarity with embedding models, LLMs for data exploration
+Demonstrated ability to improve customer experience through data and insights
+Strong understanding of data governance, quality and security practices
+Experience leading technical teams and driving continuous improvement
+Excellent stakeholder engagement and communication skills
+
+ 
+
+For a copy of the position description, please see below:
+
+PD - Lead, Business Intelligence Data Engineering.pdf
+
+ 
+
+To apply
+
+Please submit your updated resume and a short cover letter outlining your skills and experience.
+
+For a confidential discussion regarding this role, please contact Abhishek Joshi – Senior Manager, Business Intelligence Data Engineering via abhishek.joshi@deakin.edu.au
+
+Applications close 11.55pm on Sunday, 15 March 2026
+
+ 
+
+Are You Ready?
+
+Deakin is a Victorian university with a global impact. We are an agile, dynamic, and innovative university committed to making a positive impact through our excellence in education, research and innovation and the contributions we make to the wider community.
+
+We understand that our reputation has been built on the dedication and expertise of our staff and we offer a dynamic and diverse working environment with opportunities to grow and develop careers. We believe that a progressive, thriving culture will ensure that people choose to come, and stay at Deakin and contribute to our ongoing success.
+
+We value diversity and aim to build an inclusive environment that champions, embraces and respects differences. We support and encourage applications from Aboriginal and Torres Strait Islander people, and people of all abilities, cultures, sexual orientation, and genders.
+
+Pre-employment safety and suitability checks: In accordance with the National Higher Education Code to Prevent and Respond to Gender-based Violence, appointment to this role is subject to successful completion of relevant pre-employment checks, including Working With Children Checks and candidate gender-based violence declarations. 
+
+Candidates may be asked to declare whether they have been investigated for an allegation of Gender‑based Violence, or determined to have engaged in conduct that constitutes Gender‑based Violence during the course of their previous employment, or otherwise in a legal process.  A declaration is not required from individuals who have experienced gender‑based violence.  A ‘Yes’ response does not automatically exclude a candidate from employment, and any information provided will be treated confidentially and considered only for relevance to the role and the University’s safety obligations."
+90614296,Solutions Architect (AI),Deakin University,https://www.seek.com.au/job/90614296?type=standard&ref=search-standalone&origin=jobCard#sol=70569555735e4e4bfa1451148009ba00a23c5b57,1h ago,1.0,2026-02-27T06:00:00+00:00,Melbourne VIC (Hybrid),"Architects (Information & Communication Technology)
+Other (Education & Training)",Full time,"HEW 9 $138,102 - $146,374 + 17% Superannuation","Based at either our Melbourne Burwood or Geelong Waterfront Campus, hybrid work available 
+Fulltime and continuing
+ 
+
+ Are you a strategic thinker who can turn complex technology landscapes into clear, future-focused solutions?
+
+We’re seeking an experienced Solutions Architect to lead the design and delivery of innovative digital solutions that enable meaningful outcomes across the University in the AI space. This is an opportunity to influence enterprise-wide decision-making and help shape a modern, integrated and customer-centric AI digital ecosystem
+
+ 
+
+Why work with us?
+
+At Deakin University, you’ll find more than a job - you’ll find a community and a way of working that supports you to do your best work. Across our campuses in Geelong, Melbourne and regional Victoria, we offer an environment designed to help you thrive, with on-site childcare, gyms, medical centres, cafés, accessible public transport and convenient parking.
+
+We support flexible and hybrid working, generous leave provisions - including extended parental leave and the option to purchase additional leave - and a wide range of staff benefits and discounts. Combined with our strong focus on health, wellbeing and professional development, Deakin offers a supportive, inclusive culture where leaders are trusted, people are valued and careers can grow.
+
+ 
+
+About the role
+
+Deakin isn't just adopting AI – we're building it. With Deakin GEM now live and our AI Factory, a multi disciplinary AI squad, accelerating AI capability across the institution, ambitious work is underway across multiple streams.
+
+As a Solutions Architect you will lead a diverse portfolio of digital solutions — spanning projects, platforms, applications and shared infrastructure services. You’ll ensure solutions align with enterprise architecture roadmaps, governance standards and strategic priorities, while enhancing the experience of students and staff through seamless integration of digital and physical services.
+
+This role sits at the intersection of business and technology — translating complex requirements into scalable, secure and forward-thinking architecture.
+
+Come and join us to build AI systems that transform how businesses operate. We need a solutions architect who can translate AI into real-world impact, designing architectures that scale, integrating models that deliver, and solving problems that matter.
+
+You will:
+
+Provide architectural leadership across your assigned portfolio, ensuring alignment with enterprise strategy and future-state architecture
+Lead solution evaluation, design and analysis across business applications and technology domains
+Identify capability gaps and develop holistic change recommendations across business processes, systems and information
+Guide informed architectural decision-making and define principles, standards and solution patterns
+Collaborate with stakeholders across the University to deliver impactful, high-quality outcomes
+
+ 
+
+About you
+
+You bring extensive experience designing and implementing contemporary digital solutions within large, complex organisations.
+
+You’ll demonstrate:
+
+Strong knowledge of solution architecture frameworks and governance practices
+The ability to align technology initiatives with strategic business drivers
+Experience with major cloud platforms (AWS, Azure) and deep AI services
+Familiarity with vector databases, embedding models, and modern AI infrastructure
+Strong understanding of ML/AI fundamentals and when to apply different approaches
+Strong experience in AI solutions implementation
+Exceptional analytical capability and systems thinking
+Proven stakeholder engagement and influencing skills
+A collaborative leadership style that fosters inclusive, high-performing teams
+
+ 
+
+For a copy of the position description, please see below:
+
+PD - Solutions Architect.pdf
+
+ 
+
+To apply
+
+Please submit your updated resume and a short cover letter outlining your skills and experience.
+
+For a confidential discussion regarding this role, please contact Paul Cheng – Director, Enterprise Architecture via p.cheng@deakin.edu.au
+
+Applications close 11.55pm on Sunday, 15 March 2026
+
+ 
+
+Are You Ready?
+
+Deakin is a Victorian university with a global impact. We are an agile, dynamic, and innovative university committed to making a positive impact through our excellence in education, research and innovation and the contributions we make to the wider community.
+
+We understand that our reputation has been built on the dedication and expertise of our staff and we offer a dynamic and diverse working environment with opportunities to grow and develop careers. We believe that a progressive, thriving culture will ensure that people choose to come, and stay at Deakin and contribute to our ongoing success.
+
+We value diversity and aim to build an inclusive environment that champions, embraces and respects differences. We support and encourage applications from Aboriginal and Torres Strait Islander people, and people of all abilities, cultures, sexual orientation, and genders.
+
+ 
+
+Pre-employment safety and suitability checks: In accordance with the National Higher Education Code to Prevent and Respond to Gender-based Violence, appointment to this role is subject to successful completion of relevant pre-employment checks, including Working With Children Checks and candidate gender-based violence declarations. 
+
+Candidates may be asked to declare whether they have been investigated for an allegation of Gender‑based Violence, or determined to have engaged in conduct that constitutes Gender‑based Violence during the course of their previous employment, or otherwise in a legal process.  A declaration is not required from individuals who have experienced gender‑based violence.  A ‘Yes’ response does not automatically exclude a candidate from employment, and any information provided will be treated confidentially and considered only for relevance to the role and the University’s safety obligations."
+90613710,"Director, Research & Labs, Data Standards and Excellence",CSL Limited,https://www.seek.com.au/job/90613710?type=standard&ref=search-standalone&origin=jobCard#sol=2c67f4266f582c030fd2cebabdb0a1f98e830fcb,2h ago,2.0,2026-02-27T05:00:00+00:00,Melbourne VIC (Hybrid),Biological & Biomedical Sciences (Science & Technology),Full time,,"CSL's R&D organization is accelerating innovation to deliver greater impact for patients. With a project-led structure and a focus on collaboration, we’re building a future-ready team that thrives in dynamic biotech ecosystems. Joining CSL now means being part of an agile team committed to developing therapies that make a meaningful difference worldwide.
 
 
 
@@ -61,7 +645,7 @@ Excellent communication, stakeholder engagement, and documentation skills, with 
 Melbourne CBD, Hybrid Working
 
 If you’re passionate about enabling world-class research through data, apply now!"
-90613682,Principal Data (AI) Platform Engineer - Contract - Sydney,Novon On Demand,https://www.seek.com.au/job/90613682?type=standard&ref=search-standalone&origin=jobCard#sol=f443a4fa0d56ba08d24e71ba2971c5093828e60f,1h ago,1.0,2026-02-27T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We’re seeking an experienced Principal Data (AI) Platform Engineer  to join a large-scale technology transformation program for one of our clients in Sydney.
+90613682,Principal Data (AI) Platform Engineer - Contract - Sydney,Novon On Demand,https://www.seek.com.au/job/90613682?type=standard&ref=search-standalone&origin=jobCard#sol=1cd0207273b0b1e34e24866ed0af7826d7f84190,2h ago,2.0,2026-02-27T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We’re seeking an experienced Principal Data (AI) Platform Engineer  to join a large-scale technology transformation program for one of our clients in Sydney.
 
 This is a 'hands on' role requiring writing code, building infrastructure, and implementing the platform. 
 
@@ -93,7 +677,7 @@ Strong communication skills and ability to work under pressure to SLAs.
 Ability to work with cross-functional teams in a collaborative environment to achieve success. 
 Certifications in AWS or  DevOps/ML Ops technologies.
 You must have full working rights in Australia to apply for this role."
-90612403,Integration Specialist,Lake Macquarie City Council,https://www.seek.com.au/job/90612403?type=standard&ref=search-standalone&origin=jobCard#sol=2b0ca573e283a88202a1cd7536d5452a144a001c,1h ago,1.0,2026-02-27T04:00:00+00:00,"Speers Point, Newcastle, Maitland & Hunter NSW (Hybrid)","Developers/Programmers (Information & Communication Technology)
+90612403,Integration Specialist,Lake Macquarie City Council,https://www.seek.com.au/job/90612403?type=standard&ref=search-standalone&origin=jobCard#sol=eb2063bd145b5813a6b06d51a365abb011eba0b2,2h ago,2.0,2026-02-27T05:00:00+00:00,"Speers Point, Newcastle, Maitland & Hunter NSW (Hybrid)","Developers/Programmers (Information & Communication Technology)
 Government - Local (Government & Defence)",Full time,"From $101,090 – $117,483 per year + 12% Super","Permanent, Full Time
 
 Build the integration layer for a digitally connected city.
@@ -205,7 +789,7 @@ To view the Capability Framework – Role Profile relevant to this role, please 
 To complete your online application, you will be asked to upload a copy of your resume and provide responses to questions which are based on the criteria listed in the Position Statement.
 
 Please note that as part of Lake Macquarie City Council’s recruitment process, prior to an offer of employment being made, recommended candidates may be subject to a medical assessment which may include alcohol and other drugs testing."
-90612100,Software Engineer,Microsoft,https://www.seek.com.au/job/90612100?type=standard&ref=search-standalone&origin=jobCard#sol=8660daae4ab366523cfbf4c61d1d6dac3ab3f3bf,1h ago,1.0,2026-02-27T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
+90612100,Software Engineer,Microsoft,https://www.seek.com.au/job/90612100?type=standard&ref=search-standalone&origin=jobCard#sol=6ae8b0a16b04fc1c7efec454cea323f1159f2696,2h ago,2.0,2026-02-27T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,Subsidised health insurance + stock discounts,"Overview
 
 
 The Azure Core Trusted Platform team safeguards Microsoft’s foundational cloud infrastructure by ensuring that our engineering systems, services, and workflows meet the highest bars for security, privacy, and regulatory compliance. Microsoft runs on trust, and we build the platform‑level capabilities that make safe‑by‑default, compliant engineering possible across Azure, embedding transparency, traceability, and automated safeguards directly into how engineers build and operate services.
@@ -265,7 +849,7 @@ OR equivalent experience.
 This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
 
 Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
-90612025,Data Engineer,Department of Health - Queensland,https://www.seek.com.au/job/90612025?type=standard&ref=search-standalone&origin=jobCard#sol=113c310ce828078c3a5f15cbb223985d9610d947,1h ago,1.0,2026-02-27T04:00:00+00:00,Brisbane QLD,"Engineering - Software (Information & Communication Technology)
+90612025,Data Engineer,Department of Health - Queensland,https://www.seek.com.au/job/90612025?type=standard&ref=search-standalone&origin=jobCard#sol=d76d0d90f4e490aa822ea0e31f0342543915c8a6,2h ago,2.0,2026-02-27T05:00:00+00:00,Brisbane QLD,"Engineering - Software (Information & Communication Technology)
 Government - State (Government & Defence)",Contract/Temp,,"The role:
 
 As the Data Engineer, you will play a pivotal role in ensuring the stability, performance, and continual improvement of the Digital Delivery Portal (DDP) data platform following its recent uplift to a modern Azure data lakehouse architecture.
@@ -310,7 +894,73 @@ Diverse work culture
 Career training and development
 
 To apply for this exciting opportunity, submit your resume and a short statement (maximum 2 pages) on how your experience, abilities, knowledge and personal qualities are relevant for the role, taking into account the key responsibilities and attributes noted in the ‘How you will be assessed' section of the role description."
-90611566,L2-3 Systems Engineer,u&u. Recruitment Partners,https://www.seek.com.au/job/90611566?type=standard&ref=search-standalone&origin=jobCard#sol=676117b65f3c49f8cee2f1928d67cea4c067b55e,1h ago,1.0,2026-02-27T04:00:00+00:00,"Macquarie Park, Sydney NSW",Networks & Systems Administration (Information & Communication Technology),Full time,"Two Roles | $90,000 + super | $110,000 - $120,000","We’re partnering with a high-performing MSP looking for a strong Level 2–3 Systems Engineer to join their close-knit technical team. This is a hands-on role suited to someone who enjoys ownership, variety and being the escalation point.
+90610322,"R&D Engineer – Hardware, Electronics & Embedded Systems (Student/Casual)",EdgeMachines Pty Ltd,https://www.seek.com.au/job/90610322?type=standard&ref=search-standalone&origin=jobCard#sol=99cb610a01f7b07920f819cf71ad00fd5938070c,2h ago,2.0,2026-02-27T05:00:00+00:00,Sydney NSW,Electrical/Electronic Engineering (Engineering),Casual/Vacation,"$30 – $50 per hour, depending on skills","Location: Rydalmere, Sydney (hybrid - mostly onsite) 
+Employment Type: Casual, 2 days/week with additional hours during busy periods. Choose days that suit your schedule.
+
+The Role
+We're looking for a hands-on, technically curious person to join our R&D team in our Sydney lab. This is perfect for someone who loves making things, tinkering with hardware, and seeing their work deployed in the real world.
+
+About EdgeMachines
+EdgeMachines is an Australian IoT company revolutionising how cities collect and use data. We design and manufacture edge AI-powered sensors that transform ordinary streetlights into sophisticated data collection assets. Our sensors help cities make smarter decisions about traffic flow, parking, environmental monitoring, and pedestrian safety - all while preserving privacy through on-device AI processing.
+We're a team that does it all: hardware design, PCB development, AI model construction, firmware development, and cloud platforms - entirely designed and built in Australia.
+
+
+What you'll be doing:
+
+Assembling and testing our IoT sensor devices
+
+Supporting hardware prototyping and small-scale manufacturing
+
+Managing 3D printing workflows and designing custom parts and jigs
+
+Automating sensor flashing, testing, and quality assurance processes
+
+Contributing to design improvements and production efficiency projects
+
+Occasional software tasks and data analysis
+
+What we're looking for:
+
+Currently studying or recently completed a degree in Engineering (Robotics, Mechatronics, Electrical, Software) or Computer Science
+
+Practical experience with 3D printing and CAD software
+
+A ""maker"" mentality - you enjoy building things and solving practical problems
+
+Comfortable working with electronics, sensors, and embedded systems
+
+Basic programming skills (Python, C/C++, or similar) are a plus
+
+Self-motivated and able to work independently
+
+Excellent attention to detail and documentation habits
+
+Australian citizenship is required for this position
+
+Bonus points for:
+
+Experience with IoT devices or sensor systems
+
+Familiarity with PCB assembly or soldering
+
+Knowledge of manufacturing processes and quality control
+
+Interest in AI/ML or computer vision
+
+Why EdgeMachines?
+
+Work on cutting-edge IoT and AI technology that's actually being deployed in cities around the world
+
+Gain hands-on experience across the full product lifecycle - from prototype to production
+
+Flexible casual hours that work around your study schedule
+
+Exposure to hardware, software, and AI in a real R&D environment
+
+Small team where your contributions make a real impact
+
+Australian-made product with a growing presence in the smart cities sector"
+90611566,L2-3 Systems Engineer,u&u. Recruitment Partners,https://www.seek.com.au/job/90611566?type=standard&ref=search-standalone&origin=jobCard#sol=94e0c36c08bc9a7c4cd0bc51a75cac1a0d51a221,3h ago,3.0,2026-02-27T04:00:00+00:00,"Macquarie Park, Sydney NSW",Networks & Systems Administration (Information & Communication Technology),Full time,"Two Roles | $90,000 + super | $110,000 - $120,000","We’re partnering with a high-performing MSP looking for a strong Level 2–3 Systems Engineer to join their close-knit technical team. This is a hands-on role suited to someone who enjoys ownership, variety and being the escalation point.
 
 You’ll be supporting a diverse client base across SME and mid-market environments, working across BAU, projects and escalations. The role sits across infrastructure, cloud and modern workplace technologies.
 
@@ -343,7 +993,7 @@ Should you require reasonable adjustments throughout the recruitment process, we
 Additionally, for a barrier-free and inclusive online experience, you can access u&u’s opportunities using accessibility software Recite Me at https://www.uandu.com/jobs.
 
 Please submit your resume in Word format only."
-90609653,Staff Data Scientist,Future Secure AI Pty Ltd,https://www.seek.com.au/job/90609653?type=standard&ref=search-standalone&origin=jobCard#sol=7cb8a86e08cfd8ed809c4c1e2405f5a61e50944c,2h ago,2.0,2026-02-27T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us
+90609653,Staff Data Scientist,Future Secure AI Pty Ltd,https://www.seek.com.au/job/90609653?type=standard&ref=search-standalone&origin=jobCard#sol=db235608236d125a8076b98ba70a496559c83946,3h ago,3.0,2026-02-27T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us
 
 Future Secure AI is a rapidly scaling AI company co‑developed with one of the world’s largest financial institutions. Operating with the agility of a startup and the backing of global enterprise leaders, we are building technology that elevates human performance through advanced AI Co-workers and next‑generation LLM systems.
 
@@ -418,7 +1068,7 @@ Join a high‑trust, high‑performance culture built around craft, ownership, a
 If you’re driven by innovation, inspired by big challenges, and ready to build AI systems that matter—we’d love to meet you.
 
 For a quicker response, we encourage you to apply directly through our website at https://www.futuresecure.ai/. There, you can watch a video about AI workers and explore the career opportunities we have available."
-90608439,"Senior Specialist, AI Development",Deakin University,https://www.seek.com.au/job/90608439?type=standard&ref=search-standalone&origin=jobCard#sol=bbabeb41a201e23ca5bdeab94f630d7fea74cb6b,3h ago,3.0,2026-02-27T02:00:00+00:00,Melbourne VIC (Hybrid),"Developers/Programmers (Information & Communication Technology)
+90608439,"Senior Specialist, AI Development",Deakin University,https://www.seek.com.au/job/90608439?type=standard&ref=search-standalone&origin=jobCard#sol=1e41c738e58371afe464d964e594c8db59e82473,4h ago,4.0,2026-02-27T03:00:00+00:00,Melbourne VIC (Hybrid),"Developers/Programmers (Information & Communication Technology)
 Other (Education & Training)",Full time,"HEW 9 $138,102 - $146,374 + 17% Superannuation","Based at either our Melbourne Burwood or Geelong Waterfront Campus, hybrid work available 
 Fulltime and continuing
 
@@ -511,7 +1161,7 @@ We value diversity and aim to build an inclusive environment that champions, emb
 Pre-employment safety and suitability checks: In accordance with the National Higher Education Code to Prevent and Respond to Gender-based Violence, appointment to this role is subject to successful completion of relevant pre-employment checks, including Working With Children Checks and candidate gender-based violence declarations. 
 
 Candidates may be asked to declare whether they have been investigated for an allegation of Gender‑based Violence, or determined to have engaged in conduct that constitutes Gender‑based Violence during the course of their previous employment, or otherwise in a legal process.  A declaration is not required from individuals who have experienced gender‑based violence.  A ‘Yes’ response does not automatically exclude a candidate from employment, and any information provided will be treated confidentially and considered only for relevance to the role and the University’s safety obligations."
-90607725,Scientific Data Engineer,"Department of Environment, Tourism, Science and Innovation",https://www.seek.com.au/job/90607725?type=standard&ref=search-standalone&origin=jobCard#sol=e7337a11bcd2ceb7f74e87d0c3af2e7f25cdb3c0,3h ago,3.0,2026-02-27T02:00:00+00:00,"Dutton Park, Brisbane QLD",Government - State (Government & Defence),Full time,"$133,603 to $143,125 p.a.","Join DETSI as a Scientific Data Engineer.
+90607725,Scientific Data Engineer,"Department of Environment, Tourism, Science and Innovation",https://www.seek.com.au/job/90607725?type=standard&ref=search-standalone&origin=jobCard#sol=8b04742ad4c9a7ac231333416fc84428968487b6,4h ago,4.0,2026-02-27T03:00:00+00:00,"Dutton Park, Brisbane QLD",Government - State (Government & Defence),Full time,"$133,603 to $143,125 p.a.","Join DETSI as a Scientific Data Engineer.
 The Department of the Environment, Tourism, Science and Innovation (DETSI) is seeking a highly skilled Scientific Data Engineer to lead the transformation of our data management, analysis, and delivery capabilities. This is a unique opportunity to drive the technical innovation that supports Queensland's environmental, scientific, and business objectives.
 
 About the Role:
@@ -549,7 +1199,7 @@ Applications to remain current for 12 months.
 Closing Date: Friday, 13 March 2026
 
 Job Ad Reference: QLD/679681/26"
-90607648,"Senior Manager, AI Development",Deakin University,https://www.seek.com.au/job/90607648?type=standard&ref=search-standalone&origin=jobCard#sol=0a6705986a73de983defd3d0361b0a7ded89120d,3h ago,3.0,2026-02-27T03:00:00+00:00,Melbourne VIC (Hybrid),"Management (Information & Communication Technology)
+90607648,"Senior Manager, AI Development",Deakin University,https://www.seek.com.au/job/90607648?type=standard&ref=search-standalone&origin=jobCard#sol=c406763079f534d168f09204cb02093ddef93f60,4h ago,4.0,2026-02-27T03:00:00+00:00,Melbourne VIC (Hybrid),"Management (Information & Communication Technology)
 Other (Education & Training)",Full time,,"Based at either our Melbourne Burwood or Geelong Waterfront Campus, hybrid work available 
 Fulltime and continuing
 HEW 10 - salary package circa $172,875 including Superannuation
@@ -638,7 +1288,7 @@ We value diversity and aim to build an inclusive environment that champions, emb
 Pre-employment safety and suitability checks: In accordance with the National Higher Education Code to Prevent and Respond to Gender-based Violence, appointment to this role is subject to successful completion of relevant pre-employment checks, including Working With Children Checks and candidate gender-based violence declarations. 
 
 Candidates may be asked to declare whether they have been investigated for an allegation of Gender‑based Violence, or determined to have engaged in conduct that constitutes Gender‑based Violence during the course of their previous employment, or otherwise in a legal process.  A declaration is not required from individuals who have experienced gender‑based violence.  A ‘Yes’ response does not automatically exclude a candidate from employment, and any information provided will be treated confidentially and considered only for relevance to the role and the University’s safety obligations."
-90605785,Binance Accelerator Program - Data Scientist,Binance,https://www.seek.com.au/job/90605785?type=standard&ref=search-standalone&origin=jobCard#sol=d171029ffd341e06322d0013b3fa45d5fa1e96bd,4h ago,4.0,2026-02-27T02:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+90605785,Binance Accelerator Program - Data Scientist,Binance,https://www.seek.com.au/job/90605785?type=standard&ref=search-standalone&origin=jobCard#sol=4d589236d12c85b22e850636c9ce7f908f0f9756,5h ago,5.0,2026-02-27T02:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
 
 About Binance Accelerator Program
 
@@ -683,7 +1333,7 @@ Binance is committed to being an equal opportunity employer. We believe that hav
 By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
 
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
-90604239,Dynamics 365 / Power Automate Engineer,VMCH,https://www.seek.com.au/job/90604239?type=standard&ref=search-standalone&origin=jobCard#sol=f07fe304194b0c77ac547a951b98106456a523d8,4h ago,4.0,2026-02-27T02:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"• Join a team where your expertise will contribute to shaping sustainable IT solutions in a growing sector
+90604239,Dynamics 365 / Power Automate Engineer,VMCH,https://www.seek.com.au/job/90604239?type=standard&ref=search-standalone&origin=jobCard#sol=9aaf34119d1b94967824aacca1677d5bc0d446c4,6h ago,6.0,2026-02-27T01:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"• Join a team where your expertise will contribute to shaping sustainable IT solutions in a growing sector
 • Make a difference every day – join a purpose-driven organisation that supports aged care, home care, disability services and community programs across Victoria
 • Unlock exceptional benefits – enjoy generous salary packaging options that boost your take-home pay
 
@@ -733,7 +1383,7 @@ Why Work at VMCH?
 • Learning & Development
 • School Holiday Programs
 • Free Fitness Classes"
-90603585,Data & AI Engineer,Secure Parking Pty Ltd.,https://www.seek.com.au/job/90603585?type=standard&ref=search-standalone&origin=jobCard#sol=ed0f97f96eb2752662ce881c02fcc46d2ca918c9,5h ago,5.0,2026-02-27T01:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"Before you apply, are you:
+90603585,Data & AI Engineer,Secure Parking Pty Ltd.,https://www.seek.com.au/job/90603585?type=standard&ref=search-standalone&origin=jobCard#sol=a771699a106e89fd8d0762e1ceaf2c3419ad9b19,6h ago,6.0,2026-02-27T01:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"Before you apply, are you:
 
 Energetic: You can tackle any situation with enthusiasm and determination.
 
@@ -782,7 +1432,7 @@ Strong communication skills with the ability to engage respectfully with multicu
 Experience in Power BI or other BI tools for visualisation and reporting support.
 Proficiency in configuring and utilising cloud monitoring and logging tools to proactively detect and address operational incidents.
 Solid understanding of MLOps."
-90603522,Staff Data Engineer ( AI & Analytics Data Products),SEEK Limited,https://www.seek.com.au/job/90603522?type=standard&ref=search-standalone&origin=jobCard#sol=7433aaf555a81c6b76cc1e7322a03f0f3c0cfd09,5h ago,5.0,2026-02-27T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+90603522,Staff Data Engineer ( AI & Analytics Data Products),SEEK Limited,https://www.seek.com.au/job/90603522?type=standard&ref=search-standalone&origin=jobCard#sol=097b0586b530ea5ae820abbb94962b83e0e8ca60,6h ago,6.0,2026-02-27T01:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -850,7 +1500,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-90601923,AI & Innovation Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90601923?type=standard&ref=search-standalone&origin=jobCard#sol=d1226ff61c827117e6196535d4b48490ab316e0f,6h ago,6.0,2026-02-27T00:00:00+00:00,Melbourne VIC (Hybrid),Testing & Quality Assurance (Information & Communication Technology),Full time,Attractive package + bonuses,"We are seeking an experienced AI & Innovation Engineer to join our Technology Delivery team supporting a strategic AI-powered system.
+90601923,AI & Innovation Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90601923?type=standard&ref=search-standalone&origin=jobCard#sol=eb504fef4eb48c84fb166d4d76638d1589666a76,8h ago,8.0,2026-02-26T23:00:00+00:00,Melbourne VIC (Hybrid),Testing & Quality Assurance (Information & Communication Technology),Full time,Attractive package + bonuses,"We are seeking an experienced AI & Innovation Engineer to join our Technology Delivery team supporting a strategic AI-powered system.
 
 This role plays a critical part in ensuring the quality, reliability, and performance of modern Machine Learning, Large Language Model (LLM), and Generative AI solutions. You will design and implement scalable automation frameworks across the full technology stack - from React-based user interfaces through to backend services, AI models, search platforms, and data orchestration pipelines.
 
@@ -929,7 +1579,7 @@ Why Join Us?
 This is an opportunity to work at the forefront of AI and Generative AI technology, shaping testing practices for next-generation intelligent platforms while delivering meaningful enterprise impact.
 
 For more information or a confidential discussion about this role, please contact Ronald at ronald.tran@talentinternational.com"
-90601790,PLC/Robotics Programmer,Hughes Recruitment Partners,https://www.seek.com.au/job/90601790?type=standard&ref=search-standalone&origin=jobCard#sol=786d98ff0b98a867c023f62cd4fbd5b37a19e90f,6h ago,6.0,2026-02-27T00:00:00+00:00,Adelaide SA,Engineering - Software (Information & Communication Technology),Full time,,"Hughes Recruitment Partners has joined forces with a leading edge, innovative manufacturing and automation organisation seeking a Robotic Software Engineer / PLC Programmer to join their growing engineering team.
+90601790,PLC/Robotics Programmer,Hughes Recruitment Partners,https://www.seek.com.au/job/90601790?type=standard&ref=search-standalone&origin=jobCard#sol=5d86d8cd4292ce02761f104aadd0ff2be290bca8,8h ago,8.0,2026-02-26T23:00:00+00:00,Adelaide SA,Engineering - Software (Information & Communication Technology),Full time,,"Hughes Recruitment Partners has joined forces with a leading edge, innovative manufacturing and automation organisation seeking a Robotic Software Engineer / PLC Programmer to join their growing engineering team.
 
 This is an opportunity to work at the intersection of robotics, industrial automation, and smart manufacturing, delivering high-quality control systems across state of the art production environments.
 
@@ -970,7 +1620,7 @@ Exceptional long-term career growth.
 📩 If you’re a PLC programmer ready to step deeper into robotics and intelligent automation, or a robotic software engineer wanting hands-on control systems work - we’d love to hear from you.
 
 Apply now or contact Brett from Hughes Recruitment Partners on 0422970313 for a confidential discussion."
-90601363,Cloud and Infrastructure Engineer,Ambition,https://www.seek.com.au/job/90601363?type=standard&ref=search-standalone&origin=jobCard#sol=ed1df51ac996f8ca980d1e386e4e22e0c223b569,7h ago,7.0,2026-02-26T23:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Full time,$135k - $145k p.a.,"Cloud & Infrastructure Engineer
+90601363,Cloud and Infrastructure Engineer,Ambition,https://www.seek.com.au/job/90601363?type=standard&ref=search-standalone&origin=jobCard#sol=ee8d437b49f663d7e58aba47d553836f2d95d4e7,8h ago,8.0,2026-02-26T23:00:00+00:00,Sydney NSW,Networks & Systems Administration (Information & Communication Technology),Full time,$135k - $145k p.a.,"Cloud & Infrastructure Engineer
 Sydney CBD | Permanent
 
 Join a high-performing, agile MSP in Sydney where you'll deliver end-to-end projects, work across hybrid and cloud environments, and have genuine influence over the solutions you design and implement.
