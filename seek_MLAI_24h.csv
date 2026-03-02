@@ -1,5 +1,173 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90651226,Senior Data Scientist,Dixon Appointments,https://www.seek.com.au/job/90651226?type=standard&ref=search-standalone&origin=jobCard#sol=005959436657c1b5001bb7c0838600bb8977df30,1h ago,1.0,2026-03-02T04:00:00+00:00,"Mulgrave, Melbourne VIC (Hybrid)",Other (Information & Communication Technology),Full time,$145k - $158k p.a.,"Senior Data Scientist for Artificial Intelligence Team | Fixed Term Contract
+90651924,Senior Databricks Engineer (Sydney Based),UpperGround by Hudson,https://www.seek.com.au/job/90651924?type=standard&ref=search-standalone&origin=jobCard#sol=a386567ebeec841e731bb09cb9cae43a133875f9,1h ago,1.0,2026-03-02T06:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,AUD 160000 - 180000 per annum,"Global software company
+Build a brand-new data and analytics capability
+Reporting directly to the Head of IT
+We are partnering with a Sydney-based global software organisation that is transforming how it uses data across the business. As part of this shift, they are establishing a new lean internal Data, Analytics & AI team. This Senior Data Engineer role is a core hire and will operate with significant autonomy.
+
+This is not a narrow delivery role. You will work directly with end users to understand their challenges, translate those needs into scalable data solutions, and make judgement calls on priorities. With a small team, success depends on balancing short‑term delivery with long‑term architectural value while designing systems that enable self‑service instead of creating bottlenecks.
+
+Key responsibilities include:
+• Design, build and maintain scalable ETL/ELT pipelines using Databricks (SQL, Python, PySpark)
+• Build end‑to‑end integrations with SaaS platforms such as Salesforce, NetSuite, Jira and others
+• Implement incremental and historical data processing, including CDC, MERGE operations and SCD
+• Apply Lakehouse and Medallion Architecture principles across Bronze, Silver and Gold layers
+• Ensure data quality, reliability and performance through testing, validation and optimisation
+• Implement and contribute to data governance, including data lineage, cataloguing and metadata
+• Support production operations through monitoring, observability and troubleshooting
+• Translate stakeholder requirements into reliable, well‑structured datasets for analytics and AI
+• Share knowledge and contribute to documentation, engineering standards and best practice
+
+You will bring:
+• Strong commercial experience with Databricks 
+• Hands‑on experience building ingestion pipelines using Auto Loader, Lakeflow, Fivetran and/or custom API/file integrations
+• Strong SQL, Python and Apache Spark (PySpark) skills for large‑scale data processing
+• Experience orchestrating pipelines using Databricks Workflows, Jobs, Lakeflow Declarative Pipelines and/or Delta Live Tables
+• Deep understanding of incremental processing (CDC), MERGE patterns and Slowly Changing Dimensions
+• Proven experience designing Lakehouse‑based data models and Medallion Architecture
+• Experience implementing data quality controls using DLT expectations, Great Expectations or similar frameworks
+• Strong understanding of data lineage, governance and metadata management using Unity Catalog
+• Experience with Spark optimisation, partitioning, Delta Lake performance tuning and workload efficiency
+• Familiarity with Git, code review processes, and promoting pipelines across environments
+• Understanding of data security, sensitive data handling and access control in governed environments
+• Strong communication skills and ability to collaborate with business users, analysts and technical teams
+
+Nice to have:
+• Experience with AWS services
+• Exposure to DevOps practices such as Terraform, CI/CD pipelines (Jenkins), or Databricks Asset Bundles
+• Knowledge of dimensional modelling (Kimball, star schemas, facts & dimensions)
+• Basic understanding of ML/AI concepts, including preparing structured/unstructured data for ML or agent use cases
+There will also be opportunities to expand your skillset into platform engineering, cloud, and visualisation, supported by mentoring and cross‑functional collaboration.
+Please reach out via isabelle.ho2@hudson.com with your contact number and resume in Microsoft Word format if you are interested.
+
+(Tip for successful consideration: Your resume should clearly outline your hands-on contributions, decision making responsibility, and commercial impact. We rely solely on the information provided in your application and cannot infer experience not explicitly stated.)
+
+Candidates must be based in Sydney NSW or willing to relocate and have full working rights in Australia.
+
+
+Diversity, Equity & Inclusion at Hudson
+Hudson is committed to helping you find a workplace where you feel respected, supported, and free to thrive. We welcome applications from all backgrounds, identities, and lived experiences—because when different voices come together, amazing things happen.
+
+Casual Loading 
+Please note for all Australian based contract and temporary roles only, the pay rate is inclusive of mandatory 25% casual loading. This excludes permanent and fixed term roles."
+90651736,IS&T Systems Engineer,MPC Kinetic,https://www.seek.com.au/job/90651736?type=standard&ref=search-standalone&origin=jobCard#sol=1d848f747ecce8b4c2351db869319d69b1eb1904,2h ago,2.0,2026-03-02T05:00:00+00:00,Brisbane QLD,Networks & Systems Administration (Information & Communication Technology),Full time,,"About MPK:
+
+Re-energised. The kind of thinking the world is demanding to transition to a new energy future. This requires the dynamic attitude that MPK is known for delivering. Whether it’s upstream LNG development and servicing, fluid transportation, or renewables, in the essential energy, water and natural resources sectors, we’re here to use our proven ingenuity to redefine the challenge and innovate solutions that solve problems and deliver high quality outcomes.
+
+You need only look at our long term partnerships and outcomes with major industry leaders to see how we have successfully realised their vision.
+
+With the world's growing demand for increased energy supply, MPK are there to provide essential infrastructure services and solutions. We offer three primary, but interconnected, divisions to clients – Infrastructure, Services and Solutions.
+
+MPK. Right solutions. Right people. Right for the future.
+
+Want to know more? Head to our website at www.mpckinetic.com/
+
+Our Values:
+
+Care: We are genuine and fair and have high expectations of ourselves. We are like family. We pull our weight and watch each other’s backs. We care for our people because our people are who we are.
+
+Solve: We understand our client needs because we collaborate. We align with clients to pursue efficiency and safety and, as partners, anticipate challenges and adapt. We embrace technology to deliver the solutions our clients need.
+
+Deliver: Our focus in delivering value to our clients is paramount and is the cornerstone of our commercial relationships.
+
+We encourage Aboriginal and Torres Strait Islander Peoples to apply for our positions.
+
+ 
+
+
+
+
+About the Role:
+
+MPK is seeking an IS&T Systems Engineer to join our Information, Systems and Technology (IS&T) Team based out of the Brisbane Support Office. Reporting to the Group Manager - IS&T.
+
+Main Duties include:
+
+Supported services include; Servers, Data Storage, Data Back-ups, Data Continuity, Data Integrity/Security, Infrastructure Applications, Microsoft 365 Admin, Windows 11 SOE, Intune. In respect to this service support, the technical accountabilities of this role are as follows:
+• Understand, implement and improve disaster recovery strategies when required
+• Investigate, resolve and report system and service incidents
+• Identify, investigate, resolve and report problems relating to systems, service, or process
+• Prioritise and complete planned and unplanned maintenance
+• Offer and investigate opportunities for continuous improvement of systems and processes
+• Assist with projects and lead small site-based projects
+• Monitor systems and processes to identify faults and improvement opportunities
+• Facilitate appropriate recording and reporting of system and process faults, activity, change and status
+• Liaise with internal and external service providers to ensure the effective provision of service
+• Liaise with internal and external suppliers to ensure the effective provision of equipment
+• Create and maintain system, service and process documentation, including; schematics, diagrams, manuals, instructions, lists, standards, procedures and policies
+
+
+
+
+About You: 
+
+The successful candidate will have the following qualifications, experience & knowledge/skills:
+
+Qualifications
+
+Essential
+• Certificate IV in Information Technology or a similar relevant area of study (eg. Computer Science)
+• A minimum of one relevant Industry Certification (eg. Windows Server, Microsoft 365, SaaS infrastructure, etc.)
+Desirable
+• Bachelor of Information Technology or a similar relevant area of study
+• Other relevant Industry Certifications
+• Information Technology Infrastructure Library (ITIL) Foundations Certification (Version 3 or later)
+
+Experience
+
+Essential
+• Minimum 5 years technical experience in the IT industry
+• Minimum 2 years technical experience in the server, storage and Microsoft 365 fields
+• Minimum 1 year technical experience with VMWare, vSphere 4.x or later
+Desirable
+• Experience providing IT solutions within a construction or mining environment
+• Experience managing Cyber Security related products such as Mimecast and Trend Micro
+
+Knowledge and Skills
+
+• Ability to deliver enterprise solutions across business functions, proactively identifying and addressing risks to ensure outcomes meet business requirements
+• Proven ability to prioritise and schedule work independently and inter-dependently based on job classification. Basic job classifications include; disaster recovery, incidents, problems, planned/unplanned maintenance and projects
+• Sound working knowledge of Microsoft Exchange and Mail Gateways
+• Significant working experience with Microsoft Servers, 365, Data Storage, Data Back-ups, Data Continuity, Data Integrity/Security, Infrastructure Applications, Messaging, Desktop Computing, and Uninterruptable Power Supplies (UPS)
+• A good understanding of other IT infrastructure, such as; Data Networks, Voice Networks, Databases and Software Solutions Position Description
+Relationships
+• Strong collaboration with relevant groups and individuals
+• Communicate openly and consistently with groups and individuals
+Motivation
+• Enjoy accountability within a challenging and complex environment
+• Strive to find more efficient means of delivering service
+
+ 
+
+Please note:  MPK does not accept any unsolicited resume referrals from recruitment agencies. Please do not submit any resumes or associated profiles to any MPK employees. Should we require additional recruitment assistance, our HR team will contact our preferred recruitment agencies"
+90651694,AI Engineer (Data Science),DeVision Recruitment,https://www.seek.com.au/job/90651694?type=standard&ref=search-standalone&origin=jobCard#sol=517c87b9e3757233ebe4837d8850c01efbd4b52c,2h ago,2.0,2026-03-02T05:00:00+00:00,Sydney NSW (Remote),Database Development & Administration (Information & Communication Technology),Full time,180000-200000,"Join an AI powerhouse that is going through a rapid expansion. You will help to build autonomous AI workers. This is a permanent, full-time position. It's a fully remote position. 
+
+The Opportunity
+
+As a Senior AI Engineer (Data Science), you’ll play a key role in building and improving the next generation of large language model (LLM)‑powered solutions. You’ll work across varied use cases, apply advanced statistical and machine learning techniques, and contribute directly to products used by major global enterprises.
+You’ll thrive here if you love solving complex challenges, collaborating with talented peers, and turning cutting‑edge research into practical impact.
+
+What you’ll do:
+
+Develop and deploy machine learning models that shape products and user experience
+Analyse large datasets to identify patterns, insights, and opportunities
+Improve LLM output quality across diverse use cases
+Plan and implement MLOps workflows, including benchmarking, QA, and compliance
+Influence long‑term data strategy, governance, and ethical AI practices
+Partner closely with engineers, product teams, and stakeholders
+Mentor junior data scientists and contribute to a high‑performance team culture
+Skills Required:
+
+4–12 years’ experience as a Data Scientist or AI/ML Engineer
+A Master’s or Doctorate in Data Science, Mathematics, Statistics, Computer Science, or a related discipline (preferred but not essential)
+Strong experience working with structured and unstructured data
+Advanced SQL skills and 2+ years of Python experience
+Experience applying statistical techniques and presenting results
+Commercial experience with NLP techniques (LSTM/CNN/Transformers, supervised NLP, topic modelling)
+Experience with GPT‑based frameworks (LangChain, LlamaIndex, RAG, multi‑agent frameworks)
+Ability to interpret and apply the latest LLM research
+Ability to thrive in a fast‑paced, agile environment
+If interested, APPLY NOW for more details!"
+90651226,Senior Data Scientist,Dixon Appointments,https://www.seek.com.au/job/90651226?type=standard&ref=search-standalone&origin=jobCard#sol=2e0960dcfeec0b750a6785edf6ebd43fe7b9f6c0,2h ago,2.0,2026-03-02T05:00:00+00:00,"Mulgrave, Melbourne VIC (Hybrid)",Other (Information & Communication Technology),Full time,$145k - $158k p.a.,"Senior Data Scientist for Artificial Intelligence Team | Fixed Term Contract
 
 Are you a technically strong Data Scientist who enjoys solving complex problems end-to-end from experimentation through to production?
 
@@ -58,7 +226,7 @@ If you're passionate about applying first-principles thinking to real operationa
 Dixon Appointments values diversity and inclusion and is committed to providing a safe, inclusive and barrier-free recruitment experience. Please indicate your preferred method of communication in your application, and please let us know if you require any adjustments when dealing with us.
 
 By submitting your application and other personal information, you consent to this information being collected in line with our privacy policy. Follow the link to learn more - Protecting your privacy"
-90649047,Data Engineer,I-MED Radiology Network,https://www.seek.com.au/job/90649047?type=standard&ref=search-standalone&origin=jobCard#sol=204ff3d2dad4759513c26031b4ec9dc6a00de407,2h ago,2.0,2026-03-02T03:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Location: Melbourne / Brisbane / Sydney
+90649047,Data Engineer,I-MED Radiology Network,https://www.seek.com.au/job/90649047?type=standard&ref=search-standalone&origin=jobCard#sol=5f61b61ecb40c534c12b0937b18fd79214f94dbd,3h ago,3.0,2026-03-02T04:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Location: Melbourne / Brisbane / Sydney
 Role type: Full time / Fixed Term Contact
 
 Enjoy a range of exclusive benefits, including discounted private health insurance, salary packaging options, access to Fitness Passport, lifestyle and travel discounts, access to I-MED services for you and your family, as well as comprehensive employee assistance and wellbeing programs.
@@ -104,7 +272,7 @@ Collaborate with leading experts in technology, radiology and healthcare analyti
 Interstate travel may be required.
 
 Apply now to play a key role in shaping the future of data and analytics at I-MED Radiology."
-90641875,Machine Learning Engineer,GRIT Talent Consulting,https://www.seek.com.au/job/90641875?type=standard&ref=search-standalone&origin=jobCard#sol=baa0696e34bb364a96faece2512353877b269bc5,5h ago,5.0,2026-03-02T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,140000,"GRIT is hiring on behalf of our client in the AEC sector for a skilled Machine Learning Engineer with strong Python expertise and experience delivering within larger, cross-functional teams. In this role, you’ll play a key part in designing, developing, and deploying ML models and AI-driven solutions on Azure, collaborating closely with BAs, developers, and data professionals to support innovation across the built environment.
+90641875,Machine Learning Engineer,GRIT Talent Consulting,https://www.seek.com.au/job/90641875?type=standard&ref=search-standalone&origin=jobCard#sol=83d408d4499e750de2f477dfaa69dfa76f0759b4,6h ago,6.0,2026-03-02T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,140000,"GRIT is hiring on behalf of our client in the AEC sector for a skilled Machine Learning Engineer with strong Python expertise and experience delivering within larger, cross-functional teams. In this role, you’ll play a key part in designing, developing, and deploying ML models and AI-driven solutions on Azure, collaborating closely with BAs, developers, and data professionals to support innovation across the built environment.
 
 What You’ll Do
 
@@ -126,7 +294,7 @@ Knowledge of MLOps (MLFlow, Optuna), REST APIs (FastAPI, Flask), and Linux
 Experience with PyTorch or TensorFlow
 Familiarity with 3D geometry or IFC/IfcOpenShell
 This is a fast moving role! Reach out to TJ Tan on +61489279874 or tj@grittalent.com for a confidential discussion."
-90641762,Lead AI Engineer,Just Digital People,https://www.seek.com.au/job/90641762?type=standard&ref=search-standalone&origin=jobCard#sol=83edcba5f7c6bf34d0c6f379ad34d87d505b5e4b,5h ago,5.0,2026-03-02T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$190,000 to $200,000 + super","We’ve partnered with an exciting start-up who are hiring a Lead AI Engineer to own the design, delivery, and performance of production AI systems inside a fast-growing SaaS company. This is a hands-on leadership role for someone who sets technical direction, builds critical components themselves, and raises the standard across the team.
+90641762,Lead AI Engineer,Just Digital People,https://www.seek.com.au/job/90641762?type=standard&ref=search-standalone&origin=jobCard#sol=d481edf44d15ec4ac46ce2e3c297b0443135d562,6h ago,6.0,2026-03-02T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$190,000 to $200,000 + super","We’ve partnered with an exciting start-up who are hiring a Lead AI Engineer to own the design, delivery, and performance of production AI systems inside a fast-growing SaaS company. This is a hands-on leadership role for someone who sets technical direction, builds critical components themselves, and raises the standard across the team.
 
 The Role
 You’ll lead the architecture and execution of AI features embedded in a data-rich platform. You’ll partner closely with product and engineering, translate ambition into scalable systems, and ensure everything shipped is reliable, secure, and cost-efficient.
@@ -158,7 +326,7 @@ What’s On Offer
 If you want to lead from the front and build AI systems that customers rely on every day, this is that role.
 
 nat@justdigitalpeople.com.au"
-90640751,Engineering Manager - AI,Pathway Search,https://www.seek.com.au/job/90640751?type=standard&ref=search-standalone&origin=jobCard#sol=65c59a57b4d2ef05f53d1c101d530fa45fa86677,6h ago,6.0,2026-03-01T23:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Lead AI / Platform Engineering manager (Hands-On) �� Hybrid | High-Impact Role | AWS | Terraform | Agentic AI
+90640751,Engineering Manager - AI,Pathway Search,https://www.seek.com.au/job/90640751?type=standard&ref=search-standalone&origin=jobCard#sol=6bb2ce473d85893abb3df8acd2ddda34c3b1f513,7h ago,7.0,2026-03-02T00:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Lead AI / Platform Engineering manager (Hands-On) �� Hybrid | High-Impact Role | AWS | Terraform | Agentic AI
 
 A fast-growing, technology-led organisation is seeking a hands-on Lead AI / Platform Engineering manager to drive the design and delivery of AI-enabled solutions focused on operational efficiency and platform uplift.
 This is a player-coach role suited to a broadly skilled engineer who combines strong software engineering capability with deep AWS infrastructure experience and a consultative business mindset.
@@ -199,7 +367,7 @@ Strong pipeline of funded use cases
 Modern AWS environment
 Small, high-calibre team
 Hybrid working model"
-90640444,Intelligent Automation Engineer,Procensol Australia Pty Ltd,https://www.seek.com.au/job/90640444?type=standard&ref=search-standalone&origin=jobCard#sol=02a8c9740a43bc0b2beb9565f0ad99d52f38b2c7,6h ago,6.0,2026-03-01T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$80,000 – $100,000 per year","As an Automation Engineer, you will be working as part of a team on larger programs, you will be supporting client relationships and being the point of contact for project-related activities. You should be able to build and maintain strong relationships with clients and be able to collaborate effectively with other stakeholders, including project teams, subject-matter experts, and business users.
+90640444,Intelligent Automation Engineer,Procensol Australia Pty Ltd,https://www.seek.com.au/job/90640444?type=standard&ref=search-standalone&origin=jobCard#sol=56c548007a780a6df509349181673a4a1967cb3b,7h ago,7.0,2026-03-02T00:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$80,000 – $100,000 per year","As an Automation Engineer, you will be working as part of a team on larger programs, you will be supporting client relationships and being the point of contact for project-related activities. You should be able to build and maintain strong relationships with clients and be able to collaborate effectively with other stakeholders, including project teams, subject-matter experts, and business users.
 
 Automation Engineers are focused on developing Intelligent Automation solutions, e.g., RPA, IDP, Test Automation, BPM (especially workflow and/or process orchestration), and Conv. AI. Experience in software development (Java, Python, as well as VB.NET)
 
@@ -230,7 +398,7 @@ Knowledgeable in at least one area of consulting, such as strategy, transformati
 Excellent analytical and problem-solving skills, with the ability to think strategically and creatively
 
 Excellent communication and interpersonal skills, with the ability to build and maintain strong client relationships"
-90638637,MSP - L2 Support and L3 Systems Engineers - M365/Azure - Award-Winning MSPs!,Saul Recruitment,https://www.seek.com.au/job/90638637?type=standard&ref=search-standalone&origin=jobCard#sol=6667b9ede87720def3a97c41dc06fa74d5aadb35,8h ago,8.0,2026-03-01T21:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $140k Base + Super + Bonus,"Saul Recruitment - Specialising in recruiting top MSP talent across Oz & NZ!
+90638637,MSP - L2 Support and L3 Systems Engineers - M365/Azure - Award-Winning MSPs!,Saul Recruitment,https://www.seek.com.au/job/90638637?type=standard&ref=search-standalone&origin=jobCard#sol=67409b599f6a4c085ac049e6515da13d08db9ead,9h ago,9.0,2026-03-01T22:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $140k Base + Super + Bonus,"Saul Recruitment - Specialising in recruiting top MSP talent across Oz & NZ!
   
 Melbourne | $80k–$140k + Super + Training | Flexible WFH Options :-)
   
