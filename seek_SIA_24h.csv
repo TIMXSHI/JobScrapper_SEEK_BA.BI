@@ -1,5 +1,143 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90666776,FP&A Lead – Projects & Forecasting,Fyfe Pty Ltd,https://www.seek.com.au/job/90666776?type=standard&ref=search-standalone&origin=jobCard#sol=4a35ec85f4f489d73481e5ae8b0db1f129da38aa,3h ago,3.0,2026-03-02T18:00:00+00:00,Adelaide SA,Analysis & Reporting (Accounting),Full time,,"FP&A Lead – Projects & Forecasting – Drive Strategy, Influence Leaders, Shape the Future
+90669508,Data Engineer,LGT Wealth Management,https://www.seek.com.au/job/90669508?type=standard&ref=search-standalone&origin=jobCard#sol=e4bed46c1609a6bc6f501fbd3e1e8c9d2bf7dd7d,1h ago,1.0,2026-03-02T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About Us
+
+LGT is the largest Private Banking and Asset Management group in the world to be owned by an entrepreneurial family. As the family office of the Princely House of Liechtenstein, we have years of experience in the management of sizeable sums of assets.
+
+With a shared passion for building an uncompromised business – we created something new from the ground up. A chance to leave behind the things that weren’t working, while enhancing the things that were. Our authentic and personalised client-first commitment. Our entrepreneurial spirit. Our focus in best-in-class advice. And our intimate understanding of the Australian private wealth landscape.
+
+About the Opportunity
+
+We are looking for a Data Engineer to join our Platform Engineering team on a 12‑month fixed‑term contract. This role bridges data engineering, analytics, and applied data science, with a strong focus on reusability, and regulatory alignment.
+ 
+
+Key Responsibilities:
+
+Contribute to the design and evolution of the enterprise data foundation, including core and presentation data layers, in line with the modern data stack and logical data models already defined.
+
+Build well‑defined, reusable data products (datasets, features, semantic models) that can be consumed by analytics, Artificial Intelligence (AI) models, and downstream applications.
+
+Partner with data engineers to define data structures that support historical accuracy, auditability, and lineage, which are critical in a regulated wealth environment.
+
+Perform exploratory data analysis to identify patterns, data quality issues, and AI opportunities.
+
+Support AI use cases by ensuring data is fit‑for‑purpose, well‑documented, and reproducible.
+
+Work within the enterprise data governance framework, including Data quality rules and monitoring; Metadata, lineage, and glossary contributions.
+
+Collaborate with Data Owners to resolve data issues and clarify definitions.
+
+Ensure datasets and models meet regulatory, privacy, and audit requirements relevant to financial services.
+
+Collaborate closely with engineering, architecture, compliance, and business teams.
+
+Contribute to standards, templates, and best practices for analytics and data science delivery.
+
+Support enablement of other teams by creating reusable assets and documentation.
+
+Working alongside your IT infrastructure, project delivery and security colleagues, you will take ownership for the day to day operability of the data integration platform to ensure business functions run smoothly.
+
+About You:
+
+Skills & Experience
+
+Strong experience with Python for data analysis and modelling (e.g. pandas, NumPy, scikit‑learn or equivalent).
+
+Solid SQL skills and experience working with cloud data warehouses and lakehouses.
+
+Experience working in a modern data platform (e.g. Microsoft Fabric, Synapse, Snowflake, Databricks).
+
+Understanding of data modelling concepts (e.g. dimensional models, Data Vault or similar enterprise patterns).
+
+Proven experience working on data foundations, not just dashboards or isolated models.
+
+Experience creating reusable, governed datasets or features intended for multiple downstream consumers.
+
+Familiarity with metadata management, data lineage, and data quality frameworks.
+
+Experience supporting AI use cases or early‑stage production models is highly desirable.
+
+Experience working in financial services or another regulated industry.
+
+Awareness of data privacy, auditability, and model risk considerations.
+
+Ability to balance innovation with control, documentation, and traceability.
+
+Strong analytical thinking with the ability to explain complex concepts simply.
+
+Comfortable working with ambiguity and helping shape the right data approach rather than being handed fully‑formed requirements.
+
+Collaborative mindset and ability to work closely with senior engineers, architects, and business stakeholders.
+
+Understanding of CI/CD pipeline experience.
+
+Desirable Skills
+
+Experience with Microsoft Purview or similar governance/cataloguing tools.
+
+Exposure to GenAI use cases (LLMs, embeddings, retrieval‑augmented generation).
+
+Experience contributing to an AI or Data Centre of Excellence model.
+
+Experience in preparing data assets specifically for AI and GenAI use cases, including feature engineering, embedding, and structured/unstructured data preparation.
+
+Degree or qualification in machine learning.
+
+Role Competencies
+
+Strong problem-solving abilities, with a logical and methodical approach to tasks.
+
+Excellent communication skills, able to translate technical concepts for non-technical stakeholders.
+
+Commitment to maintaining high-quality standards in all tasks.
+
+Ability to manage changing priorities and work in a dynamic, and a proactive manner.
+
+A passion for emerging technologies and an interest in industry developments in this fast-moving sector.
+
+Qualifications
+
+Industry certification in the above technologies will be highly desired.
+
+Tertiary degree in software engineering, computer science or related principles.
+
+Do you feel addressed?
+
+LGT Wealth Management is committed to the ongoing development of their employees. Your development will be managed and tailored to your role and future career path. 
+
+LGT Wealth Management is an equal opportunity employer committed to embracing a diverse and inclusive work environment. We aim to attract and retain the best people regardless of their gender, marital/parental status, ethnic origin, nationality, age, background, disability, sexual orientation and gender identity."
+90669259,Senior Data Scientist (Customer Retention),Preacta Recruitment,https://www.seek.com.au/job/90669259?type=standard&ref=search-standalone&origin=jobCard#sol=0ffbf5317cb18a6a2830fda6a4404ba73fb030b2,1h ago,1.0,2026-03-02T21:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Senior Data Scientist – Customer & Retention
+Location: Sydney
+Salary: $190k–$200k base + super
+Sector: Financial Services
+
+The Opportunity This is a brand-new, high-impact role within a major financial services organisation where data science is measured by one thing: commercial impact. The focus is on building production-grade customer and retention models that directly influence revenue, growth, and portfolio performance.
+
+This is not reporting or support analytics. It’s end-to-end ML ownership. You’ll design, build, deploy, monitor, and evolve models that drive customer retention, engagement, and lifetime value, with real influence across marketing, pricing, credit, collections, and customer strategy.
+
+The role is heavily hands-on and technical. Most of your time will be spent on model development, data wrangling, feature engineering, hyperparameter optimisation, deployment, and monitoring, with some exposure to data engineering and MLOps.
+
+What You’ll Be Doing
+Build customer and retention models end-to-end
+Lead ML solution design from business problem to production
+Develop models in Python for batch and real-time deployment into Azure
+Own the full model lifecycle: build, deploy, monitor, retrain
+Partner with business and product teams to embed models into decisioning
+Deliver models that directly impact revenue and P+L
+Tech Environment
+Data: Snowflake
+Modelling: Python
+Deployment: Azure ML Studio / Snowflake
+Monitoring: Streamlit
+Version Control: Azure DevOps
+GenAI: Azure AI Foundry
+What They’re Looking For
+Strong experience building production ML models
+Background in customer analytics, retention, or marketing modelling
+Excellent Python and ML engineering capability
+Experience with model deployment and monitoring
+FS, lending, or mortgage exposure is a bonus, not required
+ Feel free to share CV's to bendavies@preacta.com"
+90666776,FP&A Lead – Projects & Forecasting,Fyfe Pty Ltd,https://www.seek.com.au/job/90666776?type=standard&ref=search-standalone&origin=jobCard#sol=345b255ff1b2b900048a109c7e82e6f7d3a3a0e7,4h ago,4.0,2026-03-02T18:00:00+00:00,Adelaide SA,Analysis & Reporting (Accounting),Full time,,"FP&A Lead – Projects & Forecasting – Drive Strategy, Influence Leaders, Shape the Future
 
 Fyfe is a fast‑growing national consultancy delivering engineering, surveying, environmental and planning solutions across Australia's most dynamic sectors. With 700+ people and expanding, were strengthening our commercial capability to support the next phase of our growth.
 
