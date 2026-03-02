@@ -1,5 +1,110 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90641875,Machine Learning Engineer,GRIT Talent Consulting,https://www.seek.com.au/job/90641875?type=standard&ref=search-standalone&origin=jobCard#sol=c80dbf9376054d861c10042dc343e3fde19ffabe,4h ago,4.0,2026-03-02T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,140000,"GRIT is hiring on behalf of our client in the AEC sector for a skilled Machine Learning Engineer with strong Python expertise and experience delivering within larger, cross-functional teams. In this role, you’ll play a key part in designing, developing, and deploying ML models and AI-driven solutions on Azure, collaborating closely with BAs, developers, and data professionals to support innovation across the built environment.
+90651226,Senior Data Scientist,Dixon Appointments,https://www.seek.com.au/job/90651226?type=standard&ref=search-standalone&origin=jobCard#sol=005959436657c1b5001bb7c0838600bb8977df30,1h ago,1.0,2026-03-02T04:00:00+00:00,"Mulgrave, Melbourne VIC (Hybrid)",Other (Information & Communication Technology),Full time,$145k - $158k p.a.,"Senior Data Scientist for Artificial Intelligence Team | Fixed Term Contract
+
+Are you a technically strong Data Scientist who enjoys solving complex problems end-to-end from experimentation through to production?
+
+This company are building advanced AI capability within their organisation and are looking for a Senior Data Scientist to help design, deploy, and operationalise cutting-edge machine learning solutions across the business.
+
+This is not a research only role. This is real world AI in production.
+
+The Opportunity
+
+You'll work across the full breadth of modern data science, including:
+
+Natural Language Processing (NLP) & LLM applications
+Time-series forecasting & anomaly detection
+Computer vision & speech technologies
+IoT and sensor data modelling
+Statistical modelling and advanced ML algorithms
+Cloud-native deployment (Azure environment preferred)
+
+You'll take ownership of projects from concept through to deployment, collaborating with Infrastructure and Operations teams to ensure solutions are robust, scalable, and production-ready.
+
+What You'll Be Doing
+
+Design, build and deploy ML/AI models in managed cloud environments
+Develop NLP solutions (NER, sentiment analysis, text classification, topic modelling, clustering, document understanding)
+Apply specialised modelling techniques including geospatial analytics and time-series forecasting
+Productionise models using MLOps best practices (CI/CD for ML)
+Work across SQL/NoSQL data stores and ETL/ELT workflows
+Communicate insights and progress clearly with business stakeholders
+Contribute to innovation and technical direction within the AI function
+
+What We're Looking For
+
+4+ years' experience developing and deploying data science or AI models
+Strong grounding in statistics and machine learning algorithms
+Experience working with NLP and/or LLM technologies
+Proficiency in Python (NumPy, pandas, SciPy, scikit-learn)
+Experience deploying ML solutions in Azure (or similar cloud platforms)
+Data engineering experience
+Practical exposure to MLOps and model productionisation
+Strong stakeholder communication skills
+
+Why Join?
+
+End-to-end technical ownership
+Work on advanced AI problems not just dashboards
+Exposure to diverse modelling domains (NLP, CV, IoT, time-series)
+Opportunity to help shape and grow AI capability
+Collaborative, forward thinking technology environment
+
+If you're passionate about applying first-principles thinking to real operational challenges and want to see your models deployed at scale, we'd love to hear from you.
+
+
+
+
+
+Dixon Appointments values diversity and inclusion and is committed to providing a safe, inclusive and barrier-free recruitment experience. Please indicate your preferred method of communication in your application, and please let us know if you require any adjustments when dealing with us.
+
+By submitting your application and other personal information, you consent to this information being collected in line with our privacy policy. Follow the link to learn more - Protecting your privacy"
+90649047,Data Engineer,I-MED Radiology Network,https://www.seek.com.au/job/90649047?type=standard&ref=search-standalone&origin=jobCard#sol=204ff3d2dad4759513c26031b4ec9dc6a00de407,2h ago,2.0,2026-03-02T03:00:00+00:00,"Mount Waverley, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Location: Melbourne / Brisbane / Sydney
+Role type: Full time / Fixed Term Contact
+
+Enjoy a range of exclusive benefits, including discounted private health insurance, salary packaging options, access to Fitness Passport, lifestyle and travel discounts, access to I-MED services for you and your family, as well as comprehensive employee assistance and wellbeing programs.
+
+About the role
+
+I-MED Radiology is seeking two Data Engineer's to design, build and maintain scalable data pipelines and platforms that enable access to high-quality, reliable data across the organisation.
+
+Reporting to the Data and Integrations Manager, this role will be a key member of the IT Services team responsible for implementing best-practice data engineering standards, ensuring data security and governance, and delivering robust technical solutions that support I-MED's clinical, operational and commercial decision-making.
+
+You'll work closely with a broad range of stakeholders across business units, including IT Managers, Operations, Commercial, Marketing and external partners, to continuously improve data infrastructure, tooling and processes.
+
+Key responsibilities
+
+Design, build and maintain scalable, high-performing data pipelines and platforms
+Develop automated data ingestion, transformation and loading processes
+Optimise pipelines for performance, reliability and cost efficiency
+Implement monitoring, alerting and lifecycle management for data workflows
+Contribute to data architecture and modelling aligned with business requirements
+Ensure compliance with I-MED security policies and governance frameworks
+Collaborate effectively with internal stakeholders, clinicians and IT peers
+Diagnose and resolve data pipeline issues and drive continuous improvement
+Contribute to shared engineering standards, documentation and reusable components
+
+About you
+
+Tertiary qualification in a relevant or related field
+Experience with the Amazon Web Services (AWS) data stack and related technologies
+Proficiency in Python and SQL
+Strong understanding of data ingestion patterns, modelling and platform architectures
+Experience working with healthcare data, integration standards (HL7, DICOM) and healthcare integration engines
+Knowledge of software engineering best practices and DevOps principles
+Excellent communication and stakeholder engagement skills
+Strong analytical and problem-solving mindset with attention to detail
+
+Why I-MED?
+
+Work with modern data technologies supporting clinical and operational excellence
+Be part of a large, purpose-driven healthcare network delivering real impact
+Drive data engineering maturity and innovation at scale across a national business
+Collaborate with leading experts in technology, radiology and healthcare analytics
+
+Interstate travel may be required.
+
+Apply now to play a key role in shaping the future of data and analytics at I-MED Radiology."
+90641875,Machine Learning Engineer,GRIT Talent Consulting,https://www.seek.com.au/job/90641875?type=standard&ref=search-standalone&origin=jobCard#sol=baa0696e34bb364a96faece2512353877b269bc5,5h ago,5.0,2026-03-02T00:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,140000,"GRIT is hiring on behalf of our client in the AEC sector for a skilled Machine Learning Engineer with strong Python expertise and experience delivering within larger, cross-functional teams. In this role, you’ll play a key part in designing, developing, and deploying ML models and AI-driven solutions on Azure, collaborating closely with BAs, developers, and data professionals to support innovation across the built environment.
 
 What You’ll Do
 
@@ -21,7 +126,7 @@ Knowledge of MLOps (MLFlow, Optuna), REST APIs (FastAPI, Flask), and Linux
 Experience with PyTorch or TensorFlow
 Familiarity with 3D geometry or IFC/IfcOpenShell
 This is a fast moving role! Reach out to TJ Tan on +61489279874 or tj@grittalent.com for a confidential discussion."
-90641762,Lead AI Engineer,Just Digital People,https://www.seek.com.au/job/90641762?type=standard&ref=search-standalone&origin=jobCard#sol=4dbe588dc1b5b480f3ff432330256faa3314b8c6,4h ago,4.0,2026-03-02T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$190,000 to $200,000 + super","We’ve partnered with an exciting start-up who are hiring a Lead AI Engineer to own the design, delivery, and performance of production AI systems inside a fast-growing SaaS company. This is a hands-on leadership role for someone who sets technical direction, builds critical components themselves, and raises the standard across the team.
+90641762,Lead AI Engineer,Just Digital People,https://www.seek.com.au/job/90641762?type=standard&ref=search-standalone&origin=jobCard#sol=83edcba5f7c6bf34d0c6f379ad34d87d505b5e4b,5h ago,5.0,2026-03-02T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$190,000 to $200,000 + super","We’ve partnered with an exciting start-up who are hiring a Lead AI Engineer to own the design, delivery, and performance of production AI systems inside a fast-growing SaaS company. This is a hands-on leadership role for someone who sets technical direction, builds critical components themselves, and raises the standard across the team.
 
 The Role
 You’ll lead the architecture and execution of AI features embedded in a data-rich platform. You’ll partner closely with product and engineering, translate ambition into scalable systems, and ensure everything shipped is reliable, secure, and cost-efficient.
@@ -53,7 +158,7 @@ What’s On Offer
 If you want to lead from the front and build AI systems that customers rely on every day, this is that role.
 
 nat@justdigitalpeople.com.au"
-90640751,Engineering Manager - AI,Pathway Search,https://www.seek.com.au/job/90640751?type=standard&ref=search-standalone&origin=jobCard#sol=55acc35b6e7ae4fc4b7368f82712ef92177e5bcf,4h ago,4.0,2026-03-02T00:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Lead AI / Platform Engineering manager (Hands-On) �� Hybrid | High-Impact Role | AWS | Terraform | Agentic AI
+90640751,Engineering Manager - AI,Pathway Search,https://www.seek.com.au/job/90640751?type=standard&ref=search-standalone&origin=jobCard#sol=65c59a57b4d2ef05f53d1c101d530fa45fa86677,6h ago,6.0,2026-03-01T23:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Lead AI / Platform Engineering manager (Hands-On) �� Hybrid | High-Impact Role | AWS | Terraform | Agentic AI
 
 A fast-growing, technology-led organisation is seeking a hands-on Lead AI / Platform Engineering manager to drive the design and delivery of AI-enabled solutions focused on operational efficiency and platform uplift.
 This is a player-coach role suited to a broadly skilled engineer who combines strong software engineering capability with deep AWS infrastructure experience and a consultative business mindset.
@@ -94,7 +199,7 @@ Strong pipeline of funded use cases
 Modern AWS environment
 Small, high-calibre team
 Hybrid working model"
-90640444,Intelligent Automation Engineer,Procensol Australia Pty Ltd,https://www.seek.com.au/job/90640444?type=standard&ref=search-standalone&origin=jobCard#sol=df0b5760d9e274eef07188277ca73448729d4a1d,5h ago,5.0,2026-03-01T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$80,000 – $100,000 per year","As an Automation Engineer, you will be working as part of a team on larger programs, you will be supporting client relationships and being the point of contact for project-related activities. You should be able to build and maintain strong relationships with clients and be able to collaborate effectively with other stakeholders, including project teams, subject-matter experts, and business users.
+90640444,Intelligent Automation Engineer,Procensol Australia Pty Ltd,https://www.seek.com.au/job/90640444?type=standard&ref=search-standalone&origin=jobCard#sol=02a8c9740a43bc0b2beb9565f0ad99d52f38b2c7,6h ago,6.0,2026-03-01T23:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$80,000 – $100,000 per year","As an Automation Engineer, you will be working as part of a team on larger programs, you will be supporting client relationships and being the point of contact for project-related activities. You should be able to build and maintain strong relationships with clients and be able to collaborate effectively with other stakeholders, including project teams, subject-matter experts, and business users.
 
 Automation Engineers are focused on developing Intelligent Automation solutions, e.g., RPA, IDP, Test Automation, BPM (especially workflow and/or process orchestration), and Conv. AI. Experience in software development (Java, Python, as well as VB.NET)
 
@@ -125,7 +230,7 @@ Knowledgeable in at least one area of consulting, such as strategy, transformati
 Excellent analytical and problem-solving skills, with the ability to think strategically and creatively
 
 Excellent communication and interpersonal skills, with the ability to build and maintain strong client relationships"
-90638637,MSP - L2 Support and L3 Systems Engineers - M365/Azure - Award-Winning MSPs!,Saul Recruitment,https://www.seek.com.au/job/90638637?type=standard&ref=search-standalone&origin=jobCard#sol=4bba60627b6b3fcb6a1b8d5bba20581425deac1b,7h ago,7.0,2026-03-01T21:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $140k Base + Super + Bonus,"Saul Recruitment - Specialising in recruiting top MSP talent across Oz & NZ!
+90638637,MSP - L2 Support and L3 Systems Engineers - M365/Azure - Award-Winning MSPs!,Saul Recruitment,https://www.seek.com.au/job/90638637?type=standard&ref=search-standalone&origin=jobCard#sol=6667b9ede87720def3a97c41dc06fa74d5aadb35,8h ago,8.0,2026-03-01T21:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $140k Base + Super + Bonus,"Saul Recruitment - Specialising in recruiting top MSP talent across Oz & NZ!
   
 Melbourne | $80k–$140k + Super + Training | Flexible WFH Options :-)
   
