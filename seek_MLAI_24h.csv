@@ -1,5 +1,660 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90669508,Data Engineer,LGT Wealth Management,https://www.seek.com.au/job/90669508?type=standard&ref=search-standalone&origin=jobCard#sol=38fcaa866dd2dad3fa10fe6ce325d817146139bb,2h ago,2.0,2026-03-02T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About Us
+90680439,Senior Platform Manager AI/ML,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90680439?type=standard&ref=search-standalone&origin=jobCard#sol=cde03c23eddaf2203102824cbcaa8961e4427cba,1h ago,1.0,2026-03-03T03:00:00+00:00,"Hawthorn East, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"Join one of Australia's leading national retailers as an AI/ML Platform Engineering Manager, where you will play a pivotal role in shaping and scaling the organisation's next-generation machine learning capabilities. This is a permanent leadership opportunity overseeing a high-performing team of six engineers and driving end-to-end ownership of the AI/ML platform.
+
+About the Role
+
+In this role, you will lead the design, development, and delivery of critical AI/ML platform components supporting enterprise-wide machine learning initiatives. You will partner closely with data scientists, ML engineers, software developers, and platform teams to translate business needs into scalable and secure platform capabilities.
+
+Key Responsibilities
+
+
+Lead the architecture and development of AI/ML platform components including model training environments, feature stores, model registries, deployment pipelines, and monitoring frameworks.
+Manage end-to-end delivery of platform enhancements, ensuring scalability, reliability, and high performance across all ML workloads.
+Collaborate cross-functionally with technical and non-technical stakeholders to gather requirements and enable seamless delivery of AI/ML solutions.
+Implement and champion best practices in MLOps, including model versioning, lifecycle management, CI/CD, observability, and platform security.
+Drive continuous improvement by integrating new tools, frameworks, and automation to streamline and accelerate ML workflows.
+Oversee platform reliability, incident response, operational support, and capacity planning to maintain enterprise-grade availability.
+Ensure all platform capabilities adhere to organisational data governance, security standards, and relevant regulatory requirements.
+Provide regular reporting, insights, and strategic recommendations to senior leadership on platform performance, risks, and future opportunities.
+
+
+About You
+
+You are a technical leader with a passion for building robust, scalable AI/ML platforms and empowering teams to deliver impactful machine learning outcomes. You thrive in a fast-paced, collaborative environment and bring deep experience in MLOps, automation, and cloud-native engineering.
+
+What's on Offer
+
+
+Permanent leadership role in a high-growth AI/ML environment
+Opportunity to shape a major retailer's enterprise ML ecosystem
+Lead and develop a team of six talented engineers
+Competitive salary, benefits, and long-term career pathways
+
+For more information contact Melissa Haddad at melissa.haddad@talentinternational.com"
+90679372,Senior AI Engineer – Agentic Systems,Codex Consulting,https://www.seek.com.au/job/90679372?type=standard&ref=search-standalone&origin=jobCard#sol=b5f2df3664eb24ab4bcdc83608f3d4791ce16177,2h ago,2.0,2026-03-03T02:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $190,000 per year plus super","Senior AI Engineer – Agentic Systems
+
+Location: Melbourne (Hybrid)
+
+About Codex
+
+Codex is an Australian technology consultancy delivering high-quality data, cloud, and AI solutions for organisations across sectors including healthcare, energy, and financial services.
+
+We are a high-performing, fast-paced consultancy that values people who bring energy, accountability, and pride in their work. We care deeply about delivery — not just getting things done, but getting them done properly and in ways that genuinely help our clients succeed.
+
+We are also officially Great Place to Work® Certified, reflecting the strong culture we’ve built — one grounded in trust, high standards, ownership, and genuine support for our people.
+
+If you enjoy solving complex technical problems, building intelligent systems from the ground up, and working at the frontier of applied AI, you’ll fit in well here.
+
+
+
+
+
+
+
+The Role
+
+We’re looking for a Senior AI Engineer to design and deliver production-grade, agentic AI systems for enterprise clients.
+
+You might come from:
+
+A strong software engineering background now working with AI systems, or
+
+ML/AI engineering background with strong experience in deploying models into production.
+
+This role is about building reliable, secure, real-world AI systems — not just experimentation. You’ll design and implement autonomous and semi-autonomous AI systems that reason, orchestrate tools, interact with enterprise data platforms, and operate in secure cloud environments.
+
+
+
+
+
+
+
+What You’ll Do
+Build Agentic AI Applications
+
+Design and implement LLM-powered applications and AI agents
+
+Build multi-step reasoning workflows with tool use, memory and MCP (Model Context Protocol)
+
+Develop advanced RAG architectures integrating AI models with enterprise data
+
+Engineer robust backend systems that support AI-driven workflows
+
+Production-Grade Engineering
+
+Deploy AI systems into production environments on AWS with evaluation, logging, monitoring, and guardrails
+
+Optimise for reliability, performance, and cost
+
+Apply strong software engineering discipline — testing of prompts/agents, integration tests, validation pipelines, and CI/CD
+
+Strong focus on compliance in production (e.g. content filters, PII redaction, Bedrock Guardrails or equivalent)
+
+Cloud & Architecture
+
+Architect scalable solutions using AWS services such as Bedrock, SageMaker, Lambda, ECS/EKS, Step Functions, and API Gateway
+
+Implement secure IAM, networking, and data access patterns
+
+Contribute to reusable AI and cloud patterns across engagements
+
+Client Delivery
+
+Translate business problems into AI-native solution designs
+
+Act as a trusted technical partner
+
+Work closely with clients and cross-functional delivery teams
+
+Communicate clearly and deliver with accountability
+
+
+
+
+
+
+
+What We’re Looking For
+Strong Engineering Foundations
+
+7–10+ years of experience in software engineering, AI engineering, or related fields
+
+Strong Python (or equivalent backend language) experience
+
+Experience building and deploying production systems
+
+Solid understanding of APIs, distributed systems, and modern backend architecture
+
+CI/CD: GitHub Actions or Bitbucket Pipelines; Infrastructure as Code at scale (AWS CDK and/or Terraform)
+
+Testing: unit and integration tests; experience testing non-deterministic AI behaviour (prompts, retrieval, agent flows)
+
+AI Exposure (Practical, Not Just Theoretical)
+
+Experience building LLM-powered applications, RAG systems, or AI-driven features or
+
+Strong interest in applied AI with demonstrable hands-on projects
+
+Understanding of embeddings, vector databases, and model evaluation is highly regarded
+
+Cloud Experience
+
+Experience delivering production workloads on AWS
+
+Familiarity with services such as Lambda, VPC, IAM, S3, Bedrock, or SageMaker
+
+Infrastructure as Code experience (Terraform or similar) is beneficial
+
+GenAI & RAG
+
+GenAI platforms: Amazon Bedrock, OpenAI, Anthropic Claude — model selection and trade-offs
+
+Vector stores: OpenSearch, Amazon OpenSearch Serverless, pgvector, or Pinecone for RAG and semantic retrieval
+
+Advanced RAG: ingestion, chunking strategies (semantic, hierarchical, hybrid), embedding model selection, retrieval tuning, evaluation (recall, precision, latency)
+
+RAG/agent frameworks in production
+
+Agentic AI
+
+Tool use, orchestration, planning/execution patterns, disciplined justification for when to use agents vs simpler flows
+
+MCP: production-grade tool integration and context management; clear boundaries (tool contracts, error handling, fallbacks)
+
+Observability, guardrails, compliance & security
+
+GenAI observability: Langfuse and/or MLflow for tracing, evaluation runs, and lifecycle management
+
+Guardrails in production: content filters, PII redaction, policy checks (e.g. Bedrock Guardrails)
+
+Compliance in production: define and apply data residency, audit logging, retention, and alignment with regulatory or client policies (e.g. sector requirements); awareness of frameworks or obligations relevant to engagement context
+
+Secure patterns: IAM least privilege, Secrets Manager/Parameter Store, network isolation
+
+Ways of Working
+
+High energy and strong ownership mindset
+
+Deep care for quality and delivery excellence
+
+Comfortable with ambiguity in emerging AI domains
+
+Confident in client-facing, fast-paced environments
+
+First-principles thinking when evaluating GenAI, agentic systems, and architectural trade-offs
+
+
+
+
+
+
+
+Why Codex
+
+Great Place to Work® Certified – A culture built on trust, ownership, and high standards
+
+High-Performance Environment – Meaningful responsibility and real impact
+
+Frontier AI Work – Build production-grade agentic systems, not just prototypes
+
+Strong Team Culture – Smart, supportive people who care about doing great work
+
+Growth Opportunity – Accelerate your AI capability within a consultancy environment
+
+Flexibility – Hybrid working in Melbourne"
+90678576,Agentic AI Engineer - 12 months Day Rate + Extensions,Pathway Search,https://www.seek.com.au/job/90678576?type=standard&ref=search-standalone&origin=jobCard#sol=c1a8b942bb73f6bc0d2b7c05b95121621b432729,2h ago,2.0,2026-03-03T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$1000-1200 PD,"Agentic AI Engineer – 12 Month Day Rate Contract - $1100 - 1200 PD Inc Super 
+
+Sydney (Hybrid) | Likely Extensions
+
+We are currently partnering exclusively with a well-known enterprise organisation in Sydney that is investing very heavily in emerging AI capability.
+
+They’re looking to engage an experienced Agentic AI Engineer on an initial 12-month day rate contract, with strong potential for extension (This is a multi year programme of work).
+
+This is a hands-on engineering role focused on designing and building agent-based AI solutions that automate real business workflows, not just chatbots. You’ll be working across Azure platforms to develop orchestration logic, multi-agent systems, decision flows, and human-in-the-loop processes, integrating with core enterprise systems.
+We’re looking for someone with solid software engineering fundamentals and practical experience building AI-enabled applications in a Microsoft environment. Strong experience with Azure AI services, Azure Functions, APIs/integration patterns, and workflow automation is key. Experience in complex enterprise environments where security, governance, and scalability matter will be highly regarded.
+
+If you’re interested in working on meaningful AI initiatives in a large-scale environment and want to be part of shaping how agentic systems are implemented in practice, please apply."
+90674995,Splunk Observability Engineer,Green Light PS Pty Ltd,https://www.seek.com.au/job/90674995?type=standard&ref=search-standalone&origin=jobCard#sol=e34ae0a7f86da7eb8ce7e645522d0492313ee425,3h ago,3.0,2026-03-03T01:00:00+00:00,Sydney NSW (Remote),Networks & Systems Administration (Information & Communication Technology),Contract/Temp,,"Leading company in its field
+6-month initial assignment (chance to extend)
+Sydney or Melbourne or Australia wide (hybrid and remote options)
+ 
+Green Light is partnering up with a leading company and looking for a Splunk Observability Engineer to join their team.
+ 
+Responsibilities:
+
+Develop and maintain systems for effective monitoring, logging, and tracing of software applications.
+Choose appropriate tools and technologies, set up dashboards, and ensure the scalability and reliability of the observability infrastructure.
+Develop and integrate tools for logging, monitoring, and alerting to enhance system performance visibility.
+Work closely with engineering teams to integrate observability practices into their workflows.
+Provide operational log/event analysis and make recommendations for remediation of system errors/faults 
+
+Requirements:
+
+Proven experience in similar role like Splunk Observability Engineer within large complex environments
+Must have experience with Splunk, Splunk ITSI
+Experience using tools like OpenTelemetry, Prometheus, Grafana, and understanding the trade-offs in data ingestion.
+Knowledge of monitoring middleware including WebSphere/Java/.NET application servers.
+Experience integrating with third party APIs.
+Experience with AWS/Azure cloud technologies and parsing languages such as Sed & Regex.
+Experience with scripting languages (e.g. PowerShell, Bash, Python, JavaScript,)
+Advantageous (at least one) – Splunk Observability Cloud, Splunk AppDynamics, ThousandEyes, Nexthink
+Good attitude to get the job completed.
+
+About the company
+We are an Australian onshore services company that provides technology capability across ANZ and Asia. Our services range from day-to-day operational activities, through project delivery, to more strategic and transformational programs. At Green Light, we are committed to creating a diverse and inclusive workplace where everyone feels valued and respected. We are proud to be an equal opportunity employer and do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ 
+We encourage applications from all backgrounds and communities, and we are dedicated to providing a fair and accessible recruitment process for all candidates. During the recruitment process, if you require any accommodations or modifications please reach out to peopleandculture@greenlightworldwide.com or call +61 9247 3799.
+
+
+Apply Now! For more information, contact Neil on + 61 466 913 874 or email neilt@greenlightworldwide.com"
+90678904,Sr. Solutions Engineer,Trend Micro Australia,https://www.seek.com.au/job/90678904?type=standard&ref=search-standalone&origin=jobCard#sol=498f3130736f877ba14febcca99d9aa3beccbfdf,3h ago,3.0,2026-03-03T01:00:00+00:00,Brisbane QLD,Consultants (Information & Communication Technology),Full time,,"When you join Trend, you become part of a unique and diverse global family and you get to work towards a world safe for exchanging digital information.
+
+ABOUT TRENDAI™
+
+TrendAI™, a global cybersecurity leader, helps make the world safe for exchanging digital information. Fueled by decades of security expertise, global threat research, and continuous innovation, TrendAI™ cybersecurity platform protects hundreds of thousands of organizations and millions of individuals across clouds, networks, devices, and endpoints. As a leader in cloud and enterprise cybersecurity, the platform delivers a powerful range of advanced threat defense techniques optimized for environments like AWS, Microsoft, and Google, and central visibility for better, faster detection and response. With 7,000 employees across 65 countries, TrendAI™ enables organizations to simplify and secure their connected world.
+
+POSITION OVERVIEW 
+
+TrendAI™ is seeking a Senior Solutions Engineer who is passionate about cybersecurity and AI-powered platforms, thrives in direct customer engagement, and excels at helping organisations solve complex challenges. As a trusted technical advisor, you will influence outcomes across the entire customer lifecycle by retaining, expanding, and acquiring business through expert guidance, compelling demos, and strategic consultation. You will serve as the bridge between customer needs and platform capabilities, powering long-term value, adoption, and advocacy. If you are curious and love the challenge of providing the best security technology advice – then this is the job for you.
+
+PRIMARY RESPONSIBILITIES 
+
+Serve as the primary technical advisor for enterprise customers and prospects, guiding them through the evaluation, adoption, and expansion of our cybersecurity platform. 
+Develop a deep understanding of customer goals, challenges, and security requirements to align platform capabilities with meaningful outcomes. 
+Lead impactful demos, presentations, and technical storytelling that clearly articulate value and build confidence across technical and executive audiences. 
+Build and maintain trusted relationships with strategic partners to accelerate revenue and broaden market reach. 
+Represent the company as a thought leader at industry events, panels, webinars, and field engagements. 
+Collaborate cross-functionally with Product, Engineering, Marketing, Channel, and Customer Success to ensure aligned execution and exceptional customer experience. 
+Provide product feedback and innovation insights to Product Management based on customer needs, technical gaps, and emerging market trends. 
+
+SKILLS & EXPERIENCE 
+
+Minimum of 5 years hands-on experience in Solutions Engineering, Sales Engineering, or Technical Pre-Sales roles.  
+Proven experience working with technical decision-makers and executives in enterprise environments. 
+Strong understanding of public cloud technologies (AWS, Azure, GCP). 
+Broad technical acumen across cybersecurity, cloud architecture, networking, AI, risk visibility, and IT modernization. 
+Experience designing/architecting solutions in on-premises, hybrid, and cloud-native environments. 
+Ability to rapidly learn modern technologies and thrive in a fast-evolving cybersecurity landscape. 
+Excellent communication and presentation skills with the ability to present to a variety of external audiences, including C-level executives. 
+Proven experience and passion for public speaking, live demos, and customer education. 
+
+DESIRABLE EXPERIENCE / CERTIFICATIONS
+
+CISSP, CEH, CCSP, Security+, CySA+, CISM, CISA, or other ISACA certifications. 
+Hands-on experience with API integrations, scripting, automation, or lightweight coding (Python, Bash, PowerShell). 
+AI technology experience, such as applying AI/ML to cybersecurity workflows, leveraging LLMs or agentic AI for automation, or working with AI-driven detection and analytics systems. 
+
+Please note: successful candidates will be required to undergo a background check and a national police check.
+
+BENEFITS OF BEING A TRENDER!
+
+We take employee wellbeing seriously. At TrendAI™, you will have access to Medical Insurance, Mental Health Support through access to EAP, Gym reimbursements, Paid Parental Leave etc.
+
+We embrace diversity, equity and inclusion. We believe that our people are our greatest asset and we understand the importance of bringing diverse perspectives, approaches and experiences to our team. We are committed to building and supporting an inclusive workforce that truly reflects our global business and encourages people from all backgrounds to apply.
+
+We’re proud to be recognised as a Great Place to Work®, a testament to our commitment to fostering a positive, inclusive, and empowering workplace culture.
+
+We embrace change, empower people, and encourage innovation. Join Trend Micro and Thrive with us."
+90673590,Senior Full-Stack/AI Engineer,Sterling Black,https://www.seek.com.au/job/90673590?type=standard&ref=search-standalone&origin=jobCard#sol=105a5afb9dd118938a5deb7cf9d5105f59a73ac7,4h ago,4.0,2026-03-03T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Us
+
+We are experts in board, CEO and C-Suite leadership with over 30 years of experience setting the gold standard in top-tier leadership development. Now, we’re looking to help leaders of all levels by automating, scaling, and augmenting our existing assessment and coaching processes. We move fast but we don't compromise quality. We need an engineer who can do both.
+
+The Role
+
+This is a founding engineering position. You will own the technical implementation of our product: building and maintaining the full stack, managing AI-assisted development workflows, and setting the engineering standards that the rest of the team will grow into.
+
+You will not be doing this alone. A product-requirements document and MVP plan will be delivered to you by a senior technical consultant before you begin. Your job is to take this plan and execute it at high quality, with modern tooling, and with enough rigor that junior developers can contribute safely within the same system.
+
+This role is for someone who has done the big-company thing and knows exactly what they'd do differently if given the chance.
+
+What You'll Own
+
+The full stack. Python backend, APIs, and user-facing applications. It will need to be architected cleanly and built to last.
+
+AI-assisted development. You'll use agentic coding tools (Claude Code, Vibe, or equivalent) not as a novelty, but as a core part of how you work. We expect you to be fluent in this and to help define how our team uses these tools responsibly.
+
+Code quality and standards. You'll establish the review processes, testing practices, and documentation norms that keep the codebase maintainable as the team grows.
+
+Infrastructure and delivery. Cloud infrastructure, CI/CD pipelines, and deployment, all owned end to end.
+
+Junior developer oversight. As we grow, you'll bring on and guide junior contributors. The systems and standards you build now need to support that.
+
+Who You Are
+
+You have significant experience building and shipping production-grade systems — not just features, but entire stacks.
+
+You're genuinely fluent with AI-assisted development. You've used LLM-based coding tools in your workflow and you have opinions about how to do it well.
+
+You're comfortable with Python and cloud infrastructure. You write clean, testable, well-documented code as a matter of professional habit, not obligation.
+
+You understand how to work from a specification. You don't need to invent the product, but you need to build it excellently.
+
+You know how to move fast without creating chaos. You've lived through what happens when speed outpaces quality, and you've learned from it.
+
+You're drawn to hard, meaningful problems. AI applied to human development and organizational performance is genuinely novel territory, and that excites you.
+
+
+
+
+Compensation & Benefits
+
+Option A — Market Rate (No Equity)
+
+Competitive market-rate salary commensurate with experience
+
+Full benefits package
+
+Sydney, NSW in-person role with a team that respects your time and expertise
+
+Option B — Below Market Rate + Equity
+
+Salary below market rate, offset by meaningful equity in a company at an early, high-leverage stage
+
+Full benefits package
+
+Founding team-level ownership stake with real upside as we scale.
+
+How to Apply
+
+Send us your resume, a GitHub profile or project you're proud of, and short answers to the following:
+
+Describe a time you balanced speed and quality under real pressure. What did you protect, and what did you let slide?
+
+Tell us about a meaningful experience using AI agents (Claude Code, Cursor, or similar) to write or manage code. What worked, what didn't, and what would you do differently?
+
+How would you approach building the MVP of an AI-powered executive coaching platform? Where would you start, and what would you be most careful about?"
+90672407,Software Developer,MVSI OnBoard,https://www.seek.com.au/job/90672407?type=standard&ref=search-standalone&origin=jobCard#sol=3bfd93a84694186c9f7d4d65b3de41ae1d1fe81e,5h ago,5.0,2026-03-02T23:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Welcome to MVSI!
+
+We are a dynamic team of 70+ professionals, spread across the Globe with offices in Australia, EMEA, the US and the Philippines. Our innovative SaaS product is trusted by banks, Fintech’s, and crypto services worldwide to manage their AML/KYC Compliance requirements. We have always harnessed the power of cutting-edge technology and are currently exploring the exciting realm of LLM (think ChatGPT) to further elevate our offerings. Our company culture is built on a foundation of support and commitment to career development. 
+
+We truly value our people and invite you to join us to experience all that we have to offer!
+
+Why Apply?
+
+Get an awesome career! Ours is a specialised industry, and experience is in short supply. We employ people from all walks of life and train them to be certified professionals over time. This is a fabulous opportunity to find a new direction, build transferable skills, and enjoy a profession where every day is interesting, and you'll want to come to work.
+
+Job Summary
+
+Our Stack: Material UI, NodeJS, React, MongoDB.
+
+Design, build, and maintain well-architected, production-grade systems aligned with MVSI engineering standards
+
+Develop and maintain scalable MERN-based services with a strong focus on quality, performance, and test coverage
+
+Own AWS-based DevOps workflows, including CI/CD, infrastructure automation, monitoring, and operational excellence
+
+Improve system reliability, security, resilience, and cost efficiency across the platform
+
+Decompose and modernise legacy or monolithic systems into scalable microservices
+
+Collaborate with stakeholders to translate business requirements into robust technical solutions
+
+Participate in shared operational support and contribute to production stability and incident resolution
+
+Champion continuous improvement, engineering best practices, and automation
+
+Learn, grow, and help raise the engineering bar across the team
+
+Technical Skills
+
+·         5+ years of commercial software development experience
+
+·         5+ years of TypeScript / JavaScript development
+
+·         Strong, hands-on AWS DevOps experience (mandatory), including:
+
+-          CI/CD pipelines
+
+-          Infrastructure as Code (e.g. Terraform, CDK, CloudFormation)
+
+-          Monitoring, logging, and alerting
+
+-          Production support and system optimisation
+
+·         Extensive experience with the MERN stack:
+
+-          MongoDB (data modelling, indexing, performance tuning)
+
+-          Node.js
+
+-          React.js
+
+-          Jest or equivalent testing frameworks
+
+·         Proven experience designing and building RESTful APIs with strong security and integration practices
+
+·         Demonstrated ability to decompose monoliths into microservices
+
+·         Strong understanding of secure coding practices and application security
+
+·         A passion for clean, maintainable, testable code and collaborative development
+
+·         Experience using AI-assisted development tools to improve productivity, quality, and innovation
+
+Desirable (Nice to Have)
+
+Site Reliability Engineering (SRE) experience, including:
+
+-          Reliability engineering practices
+
+-          Incident management and post-incident reviews
+
+-          SLIs, SLOs, and error budgets
+
+Experience operating high-availability, customer-facing SaaS platforms
+
+Exposure to performance engineering and cost optimisation in AWS
+
+ 
+
+Personal Skills:
+
+·         High ownership mindset with strong accountability and initiative
+
+·         Growth-oriented, adaptable, and open to feedback
+
+·         Customer-focused, with a clear understanding of business and user impact
+
+·         Confident communicator who collaborates effectively with technical and non-technical stakeholders
+
+·         Strong analytical thinking with a bias for action and outcomes
+
+·         Willingness to mentor others and share knowledge
+
+·         Organised, pragmatic, and proactive in improving team productivity and engineering standards
+
+ 
+
+Why Join MVSI
+
+·         Be part of a mission-driven team simplifying compliance and risk management for global businesses.
+
+·         Work on a modern SaaS product with real impact in fintech/regtech.
+
+·         Flexible remote or hybrid work options.
+
+·         A culture that values curiosity, quality, and teamwork.
+
+·         Competitive salary, equity options, and professional growth opportunities
+
+·         And the little things - Drinks, snacks, flex time, birthdays off, and much much more."
+90671970,Senior RF Algorithms Software Engineer (AU),DroneShield,https://www.seek.com.au/job/90671970?type=standard&ref=search-standalone&origin=jobCard#sol=2d2af1335967b5633dc4ab4288c22e88dd475bf8,5h ago,5.0,2026-03-02T23:00:00+00:00,Adelaide SA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Work with cutting edge AI technology, making the world a safer and more secure place. DroneShield (ASX:DRO) offers an opportunity to solve some of world’s most challenging technical problems in the rapidly growing counter-drone sector.   
+
+Our customers operate in some of the most challenging and high-stakes environments in the world, including military organisations, government agencies, airports, critical infrastructure operators, and law enforcement. Protecting airspace in these settings requires technology that performs under pressure and teams that understand what’s at stake. At DroneShield, employees work at the leading edge of counter-drone innovation, helping to address real-world security challenges as drone threats continue to evolve globally. 
+
+With one of the largest listed defence company market capitalisations in Australia, now part of the ASX200 index, DroneShield is experiencing a period of hypergrowth. Revenue has surged from A$57 million in 2024 to over A$190 million in 2025, representing growth of more than 400% year-on-year, with record profitability and cashflow. The total addressable global market for counter-drone is assessed at approximately $100 billion, and is currently at the nascent stage with much of the growth still to come, with DroneShield well positioned as a global market leader, and the only public listed pure-play business in this sector.   
+
+The company has grown from 11 employees in 2017 to over 450 staff globally today, and is on track to reach around 550 by the end of 2026. This expansion includes investment of over A$50 million annually in R&D, a global pipeline exceeding A$2.5 billion, and continuous scaling of production capacity to meet accelerating demand.  
+
+
+
+
+
+
+
+About the role
+
+DroneShield is seeking an Algorithms Software Engineer with relevant experience to join the team in Adelaide, South Australia. The position will report to the Director of Engineering, Sensors and Effectors.
+
+The Sensors and Effectors team at Droneshield is focused on providing fully operational and qualified modular devices to enable new product development of high-end RF based sensors and effectors. These modules are re-used across various product configurations including man-portable, vehicle mounted and fixed site. Key technical challenges for the electronics aspect of these modules include the design of complex wide-band RF circuitry, high speed digital interface and high-power radio frequency output. DroneShield designs and builds the full signal chain from signal generation to antenna.
+
+The primary focus of the role is to develop and maintain DroneShield’s RFAI Detection Capability, working closely with ML/AI, Data Science, RF and infrastructure teams to innovate and enhance DroneShield’s world leading Anti-Drone technology.
+
+Responsibilities, Duties and Expectations 
+
+Take drone detection algorithms from design to production using C++, working closely with a team of Algorithm and Software Engineers.
+Develop and maintain simulation software used to assist algorithm development.
+Design and implement data analysis and algorithm evaluation pipelines.
+Conduct unit testing to ensure software quality and reliability.
+Develop and maintain CI/CD pipelines.
+Assist software & hardware development teams to make informed decisions about the future direction of complex deployed system design.
+Advance the development of software architecture design processes within the team. Ensure software is designed for reliability, and performance on resource-constrained targets.
+
+Qualifications, Experience and Skills 
+
+Bachelor’s (or higher) degree in Computer Science, Electronics Engineering, a similar technical field of study, or equivalent practical experience.
+3+ years of software development experience (preferred: Python, C++).
+Ability to work in a multidisciplinary team, including communicating effectively with engineers from non-software / data science backgrounds.
+Ability to turn complex algorithms and mathematical models into high-performance software, operating on sensor data.
+Working knowledge of modern architectural patterns and software design patterns.
+Experience with the following:
+At least one compiled language (Go, C++, or C).
+At least one scripting language (Python, JavaScript, or Shell).
+Digital Signal Processing concepts and techniques.
+Embedded Linux platforms.
+Test Driven Development.
+Revision Control.
+Continuous Integration.
+
+Who you are
+
+You are comfortable deploying state of the art algorithmic models to deliver commercial value.
+You are a lifelong learner. You’re self-taught and continuously learning. You are interested in keeping up with current best practices in your areas of expertise.
+You are experienced working with modern infrastructure and tools.
+You are comfortable running your software in Linux environments.
+An abundance of ambition and motivation to grow the company and compete with the big players in the industry.
+
+Note for recruitment agencies: We do not accept unsolicited candidates from external recruiters unless specifically instructed.
+
+
+
+
+
+
+
+
+PI282762139"
+90671516,Site Reliability Engineer - Observability Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/90671516?type=standard&ref=search-standalone&origin=jobCard#sol=56dca11c94a79ea7f23d6c82f3c94ae9b15f41ca,5h ago,5.0,2026-03-02T23:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Contract/Temp,,"Site Reliability - Observability Engineer
+Sydney CBD and Work from home
+12 months + contract
+
+FinXL by Randstad Digital focuses on accelerating client's digital and AI transformation journeys by providing specialised skills, managed programs and strategic consulting across various industries.
+
+We partner with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications & enterprise sectors. We solve complex technological and business challenges with highly talented people.
+
+We are currently seeking a Site Reliability - Observability Engineer to maintain and enhance the stability, scalability, and performance of rapidly evolving infrastructure and applications.
+
+Qualifications:
+
+Experience in OpenTelemetry, Prometheus & Grafana
+Experience in monitoring middleware including WebSphere,Java,.NET application servers.
+Experience integrating with third party APIs.
+Experience with AWS-Azure cloud technologies and parsing languages such as Sed & Regex.
+Experience with scripting languages - PowerShell, Bash, Python, JavaScript
+Experience in Splunk, Splunk ITSI
+Experience in Splunk Observability Cloud, Splunk AppDynamics, ThousandEyes, Nexthink
+Experience in infrastructure as code using tools such as Ansible, Terraform & Kubernetes declarative specifications.
+
+Next Steps
+
+If you would like to apply to this fantastic opportunity please apply online or call Jackie Gibbons on 0432 268 298
+
+Code: S12"
+90671136,Senior AI Platform Engineer,AMP Services,https://www.seek.com.au/job/90671136?type=standard&ref=search-standalone&origin=jobCard#sol=6276057662781bd90a327c202b94cebddffadf9f,6h ago,6.0,2026-03-02T22:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"If you live in Australia or New Zealand, you've likely heard of AMP. But at a time when society is changing, we are too. We're now a nimbler business with new leadership and thinking.
+
+For us, these are exciting times. There's a real potential for big thinkers to help us redefine what financial services could be. And turn our legacy into something even more positive and powerful for the future.
+
+Help people create their tomorrow, while you create yours
+
+We help people with their banking, super, retirement and finances. Through upturns, downturns, recessions, and major life transitions. Every day, we help people see and make more of their financial potential, so that they can create their tomorrow. And we've been doing it for over 170 years.
+
+If we do our job well, we genuinely add to the prosperity of our country and its people.
+
+How you'll make an impact
+
+In this role, you'll be at the centre of how enterprise AI is designed, governed, and brought to life at scale. You'll engineer and operate the organisation's AI platforms across Microsoft Power Platform, Copilot Studio and Azure AI Foundry, ensuring they are secure, reliable, and ready for broad adoption. Your work will enable teams across the business to safely build and deploy AI agents and intelligent workflows, while maintaining strong guardrails around security, compliance, and Responsible AI.
+
+You'll have a tangible impact on how AI moves from experimentation to trusted, production‑ready capability. By embedding robust CI/CD, governance, observability, and operational practices, you'll help ensure AI solutions are resilient, scalable, and sustainable. Along the way, you'll partner closely with architects, security, risk, and compliance teams, and mentor other engineers , helping uplift capability while avoiding key‑person dependency and strengthening the organisation's AI foundations for the long term.
+
+What you'll bring to the role
+
+You'll bring deep, hands‑on experience engineering and running enterprise platforms, ideally within Microsoft's AI and low‑code ecosystem or a comparable cloud environment. You're comfortable designing and developing AI agents and agentic workflows, and you understand what it takes to move from proof‑of‑concept to production including governance, lifecycle management, and operational reliability.
+
+You have strong practical experience with CI/CD pipelines, environment management and release automation, alongside a solid grounding in cloud security, identity, access control, and secrets management. You're confident working with large language models, prompt design, grounding techniques, and evaluation approaches, and you bring a thoughtful, responsible mindset to AI delivery. Just as importantly, you're a collaborative engineer who can influence without authority, work closely with architects and stakeholders, and provide guidance and mentoring to lift the capability of those around you.
+
+You'll thrive here if…
+
+If you can adapt from BAU to the ambiguous with ease, you'll do well here. Change is never easy, so bring your commitment, grit and growth mindset.
+
+Because we run lean, you'll be expected to jump in and deliver across a variety of areas. Meaning, you'll be closer to the action and executive decisions that influence where we go next.
+
+If you're someone that can hold their own, you'll find AMP quite liberating.
+
+Why we think you'll love working at AMP
+
+Doing what we've always done is not an option, so your clever ideas will get airtime here. You'll be encouraged to speak up and try new things. If they don't work, we move on - better for it.
+
+We know there's no one way of doing things. So, you won't have to sacrifice who you are or how you work to fit in here. We're inclusive and flexible in many of the ways you'd expect. And in some of the ways you wouldn't. As long as your health and wellbeing come first - at home and at work.
+
+In fact, most of what makes AMP such a welcoming, enjoyable place to work are our people. Wherever you go, you'll find moments to connect, feel valued and do meaningful work.
+
+Whether it's through our first-class leaders who are invested in you and your success. Through year-round opportunities to volunteer, fundraise and give back to the community. Or in the everyday challenges you face as we work together to strengthen this great organisation. Challenges that will stretch you, amplify your potential and compound the impact you have.
+
+We believe in the power of inclusion and diversity
+
+We're dedicated to fostering inclusion, diversity, and a warm feeling of belonging at AMP. It sparks creativity, ignites innovation, and turns up the dial on the quality of our decisions and performance. This not only makes our workplace more engaged, but also leads to better connections with our customers.
+
+We're your allies in the search for the perfect fit - when you apply, let us know how we can support you to put your best self forward during our selection process.
+
+We're also committed to enhancing employment opportunities for Aboriginal and Torres Strait Islander people, so we enthusiastically encourage candidates from these backgrounds to apply and explore our Reconciliation Plan on our website
+
+Ready to create your tomorrow?
+
+If you're someone who sees opportunity where others see challenge, come and work with us in smart, progressive ways as we transform an iconic Australian brand for the future. And, through a series of career-defining moments, create your own tomorrow.
+
+Don't procrastinate! We review applications when we get them, and if we discover the ideal candidate, we may close the role earlier than the advertised close date.
+
+Looking forward to meeting you."
+90671101,Data Engineer - Databricks,TRS - Public Sector,https://www.seek.com.au/job/90671101?type=standard&ref=search-standalone&origin=jobCard#sol=09f950536ad2b9277d69f9042fe68cefa3a582ac,6h ago,6.0,2026-03-02T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Up to $1000 p/d inc super (may be negotiable),"Data Engineer | ASAP Start | Large Utilities Organisation
+
+6 month contract with likely extensions
+Up to $1000 p/d inc super 
+Melbourne Location (Hybrid)
+Primary Purpose of the Role:
+
+Deliver data pipelines and platform enhancements across Databricks and AWS. Support the build of new data products using medallion architecture, data mesh patterns and solid engineering practices.
+
+Key Accountabilities:
+
+Build and enhance data pipelines in Databricks and AWS
+Develop common data engineering components using Python
+Apply integration patterns and reusable data engineering practices
+Work with medallion architecture and data mesh design principles
+Support data definition and modelling activities
+Ensure quality, reliability and performance across all pipelines
+Collaborate with platform, architecture and analytics teams to deliver outcomes
+Provide technical input into design, testing and release processes
+Essential Requirements:
+
+Strong hands on experience in Databricks
+Solid AWS infrastructure knowledge
+Proficient in Python for data engineering
+Experience building new pipelines and integration patterns
+Understanding of medallion architecture and data mesh concepts
+Strong grasp of data modelling and data definition
+Ability to work in a fast paced environment with minimal supervision
+If you have relevant experience, please submit your latest CV and we will be in touch shortly!"
+90669508,Data Engineer,LGT Wealth Management,https://www.seek.com.au/job/90669508?type=standard&ref=search-standalone&origin=jobCard#sol=c4c8265bb2ecb54e19152904464d4c459b442994,7h ago,7.0,2026-03-02T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About Us
 
 LGT is the largest Private Banking and Asset Management group in the world to be owned by an entrepreneurial family. As the family office of the Princely House of Liechtenstein, we have years of experience in the management of sizeable sums of assets.
 
@@ -105,7 +760,7 @@ Do you feel addressed?
 LGT Wealth Management is committed to the ongoing development of their employees. Your development will be managed and tailored to your role and future career path. 
 
 LGT Wealth Management is an equal opportunity employer committed to embracing a diverse and inclusive work environment. We aim to attract and retain the best people regardless of their gender, marital/parental status, ethnic origin, nationality, age, background, disability, sexual orientation and gender identity."
-90669428,LMS Specialist,Master Builders Association of Victoria,https://www.seek.com.au/job/90669428?type=standard&ref=search-standalone&origin=jobCard#sol=eb46652c4a7a4d729ba98b7894a3fea1eacd0750,2h ago,2.0,2026-03-02T21:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Workplace Training & Assessment (Education & Training),Full time,,"Who we are:  
+90669428,LMS Specialist,Master Builders Association of Victoria,https://www.seek.com.au/job/90669428?type=standard&ref=search-standalone&origin=jobCard#sol=d13c279c23c35af29b311bba92fa23ead631eb19,7h ago,7.0,2026-03-02T21:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Workplace Training & Assessment (Education & Training),Full time,,"Who we are:  
 Master Builders Victoria (MBV) is the peak industry body representing Victoria’s building and construction sector. We support more than 6,000 members across domestic and commercial construction, including builders of all sizes, sub-contractors, suppliers and manufacturers. 
 At MBV, you’ll be part of an inclusive, values-driven organisation that champions the industry and invests in its people. We provide a supportive environment where you can grow your career, develop new skills and make a genuine impact on an industry that shapes communities across Victoria. 
   
@@ -132,7 +787,7 @@ Strong people engagement and values-based culture 
 Paid parental leave, corporate partnerships, company wide lunches, events and activities 
 
 Please note: Candidates may be subject to psychometric testing and a police clearance as part of the recruitment process."
-90669259,Senior Data Scientist (Customer Retention),Preacta Recruitment,https://www.seek.com.au/job/90669259?type=standard&ref=search-standalone&origin=jobCard#sol=4ee7d9cd472095afb0b9a422d92a038acb25f200,2h ago,2.0,2026-03-02T21:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Senior Data Scientist – Customer & Retention
+90669259,Senior Data Scientist (Customer Retention),Preacta Recruitment,https://www.seek.com.au/job/90669259?type=standard&ref=search-standalone&origin=jobCard#sol=ca6ff10aedbdbc2f19474570238be2e9c7293f6d,7h ago,7.0,2026-03-02T21:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Senior Data Scientist – Customer & Retention
 Location: Sydney
 Salary: $190k–$200k base + super
 Sector: Financial Services
