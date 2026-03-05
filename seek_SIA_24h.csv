@@ -1,5 +1,829 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90735923,Business Analyst SAP FICO,Hays | Technology,https://www.seek.com.au/job/90735923?type=standard&ref=search-standalone&origin=jobCard#sol=90b6f388e99f5704119e77a13515dedfff5058d2,1h ago,1.0,2026-03-05T01:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,Competitive Hourly Rate,"Lead critical business readiness activities as the organisation transitions from SAP ECC6 to S/4HANA.
+90741337,Data Architect & Governance Lead,Talenza,https://www.seek.com.au/job/90741337?type=standard&ref=search-standalone&origin=jobCard#sol=6cb13dbed3ebc15f41541cde5d1463bc1bbae5d6,1h ago,1.0,2026-03-05T03:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Architects (Information & Communication Technology),Contract/Temp,$1k - $1200 p.d. + Super,"Role: Data Architect & Governance Lead
+Day Rate: $1000 - $1200 + Super
+Contract Length: Initial contract until 18 Dec 2026
+Location: Macquarie Park/WFH (mandtory 3 days in office p/w)
+
+Join a critical Data Program delivering enterprise-grade data visibility and governance across critical business systems and Snowflake.
+
+This is a senior, hands-on role reporting to the Senior Project Manager, partnering closely with the CTO, CDO, Cyber and Enterprise Architecture to embed a sustainable governance operating model.
+
+The Role
+
+You'll lead the design and rollout of a governed, searchable enterprise data catalogue in Collibra, enabling risk reduction, privacy compliance, and downstream data minimisation initiatives.
+
+Key Responsibilities
+
+Connecting critical systems and automating metadata ingestion
+
+Delivering a single, searchable Information Asset Register
+
+Establishing a clear business glossary and mapping it to technical assets
+
+Capturing meaningful lineage across systems and transformations
+
+Applying sensitivity classifications aligned to the information classification scheme
+
+Implementing baseline data quality rules and measurable metrics
+
+Defining domains, asset types and workflows within Collibra
+
+Embedding data ownership, stewardship and governance forums
+
+Integrating catalogue assets with policies, retention schedules and privacy obligations
+
+Providing dashboards that show coverage, lineage depth, classification and compliance posture
+
+Transitioning governance processes cleanly into BAU
+
+About You
+
+Must Have
+
+Proven end-to-end Collibra implementation (catalogue, DGC model, workflows, ingestion, lineage, glossary, policy integration)
+
+Enterprise metadata and lineage design across Snowflake and operational systems
+
+Establishing governance forums, ownership models and stewardship frameworks
+
+Embedding privacy and retention obligations into catalogue controls
+
+Delivering tangible governance outcomes within 6-12 month programs
+
+Nice to Have
+
+Exposure to Microsoft Purview
+
+Experience with M365 / SharePoint governance patterns
+
+Records management integration experience
+
+Apply now - submissions close Monday 9 March at 12pm."
+90741281,Functional Business Analyst - Identity Management,Elysium Digital,https://www.seek.com.au/job/90741281?type=standard&ref=search-standalone&origin=jobCard#sol=a5b5d10632efdfeb17f9e2d3a3ba66fcbe68d267,1h ago,1.0,2026-03-05T03:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We are seeking a contract Business / Functional Analyst for an initial 2 month contract with a view to extend. This position will be part of a major Security Access Modernisation initiative that is transitioning from legacy identity and access management systems to the future state platform.
+ 
+This position will involve working closely with architects, developers, product owners, and business stakeholders to analyse requirements, shape solution designs, and ensure successful application migration into the AppConnect ecosystem.
+ 
+Key Responsibilities
+
+Lead business and functional analysis activities for application migration from legacy systems to AppConnect.
+Analyse IAM related requirements, including authentication flows, onboarding processes, access governance, and integration patterns.
+Work with architects and developers to define solution requirements and system behaviours aligned with IAM capabilities.
+Document business requirements and functional designs using user stories, acceptance criteria, wireframes, mock‑ups, and related artefacts.
+Facilitate workshops with business stakeholders, technical teams, and product owners to elicit requirements and validate solution designs.
+Capture and map as‑is and to‑be business processes, identifying opportunities for process improvement and re‑engineering.
+Develop or contribute to system integration specifications, including data mapping, API requirements, and identity provider/service provider interactions.
+Support solution demonstrations, user onboarding activities, and User Acceptance Testing (UAT), including test scenario development and defect triage.
+Assist with change‑related activities such as stakeholder engagement, training support, and communication of migration impacts.
+ 
+To successfully deliver this outcome, you will require technical and system knowledge which include
+ 
+
+Strong understanding of identity and access management (IAM) concepts, including federated authentication, SSO, user lifecycle management, and access governance.
+Experience with IAM platforms such as IBM Security Verify Access, AppConnect, Azure AD, Okta, Ping, or similar technologies.
+Familiarity with authentication and authorisation protocols such as SAML, OAuth 2.0, OpenID Connect, and related integration patterns.
+Understanding of system integration, APIs, data mapping, and interface specifications.
+Experience working in Agile delivery environments using tools such as Jira and Confluence.
+ 
+Key Selection Criteria
+
+Experience in system solution analysis within complex enterprise environments.
+Demonstrated experience providing Agile business analysis and functional analysis services.
+Extensive experience documenting requirements and functional designs using user stories, wireframes, mock‑ups, and similar artefacts.
+Strong capability in negotiating with business stakeholders, users, technical teams, and product owners to achieve agreed outcomes.
+Proven ability to lead and facilitate workshops with diverse stakeholder groups.
+Experience in process re‑engineering, including capturing as‑is and to‑be processes using process flows.
+Experience developing or contributing to system integration specifications, particularly in IAM contexts.
+Experience showcasing system solutions and supporting User Acceptance Testing activities.
+IAM domain experience, including authentication flows, onboarding processes, and access governance, with exposure to modern IAM platforms."
+90741264,Business Analyst,Troocoo,https://www.seek.com.au/job/90741264?type=standard&ref=search-standalone&origin=jobCard#sol=e9d5e3fdb224bb00a13ba552e286a3f8569e119f,1h ago,1.0,2026-03-05T03:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"About the Role
+
+Our client is undertaking a major business readiness project in conjunction with the Shared Service Provider to upgrade their finance system from SAP ECC6 to S/4HANA.
+
+As the Business Analyst, you will work closely with the Project Manager, key embedded finance Subject Matter Experts, Change and Training Leads, finance stakeholders and delivery partners to support the delivery of improved, future-ready capabilities in the upgraded S/4HANA environment.
+
+Key Responsibilities
+
+Analyse as-is processes in SAP ECC6 and contribute to the design of future-state processes within S/4HANA, ensuring alignment with Whole-of-Government finance policies and standards.
+Assist with configuration reviews, business process re-engineering, and finance data mapping
+Support data migration planning, including data cleansing, validation, and reconciliation in collaboration with finance and ICT teams.
+Prepare and review functional documentation including business process models, business requirement specifications, and user stories.
+Participate in solution design workshops and walkthroughs, ensuring finance business needs are clearly understood and incorporated.
+Develop test plans, facilitate user acceptance testing (UAT), and support defect management from a finance perspective.
+Key Requirements
+
+Demonstrated knowledge of SAP ECC6 finance modules (FI/CO) and an understanding of new capabilities introduced in S/4HANA (e.g., Universal Journal, Fiori apps).
+Experience in large-scale SAP projects, particularly within finance environments.
+If this sounds like you, APPLY now! Or contact Jayde Elliott on 0429 482 452  for more information."
+90741009,Senior Data Consultant,Fujitsu Australia Limited,https://www.seek.com.au/job/90741009?type=standard&ref=search-standalone&origin=jobCard#sol=6c9077b781e80c5dfe9c10418e76bb52c88248a1,1h ago,1.0,2026-03-05T03:00:00+00:00,Melbourne VIC,Consultants (Information & Communication Technology),Full time,Unlock potential with Fujitsu—fuelling innovation!,"About the job Senior Data Consultant
+
+We are Fujitsu
+
+We use technology to make happier lives. We are a global leader in technology and business solutions that transform organizations and the world around us. We have a long heritage of bringing innovation and expertise, continuously working to contribute to the growth of society and our customers.
+
+About the role
+
+Melbourne CBD with 1 day in Geelong
+
+Databricks or Spark
+
+Medallion / Gold layer model development
+
+We're looking for an experienced Senior Data Consultant to join our high-performing AI & Data team, independently designing and developing IT solutions for complex challenges in data engineering, data modelling, and data visualization. It requires a high level of technical expertise and the ability to solve complex problems with minimal guidance from senior stakeholders. The role may also involve managing a small team of developers on low-complexity projects or specific components of larger initiatives
+
+Responsibilities and Accountabilities:
+
+Overseeing the end-to-end design and development of modern data platform and AI solutions.
+
+May assume complete responsibility for technical input, designing and developing smaller solutions, or undertake complex or more significant development activities within a larger project led by a more senior consultant.
+
+Shapes technical proposals to be commercially acceptable to the customer and may make solution/service trade-offs.
+
+Defines the approach for smaller solution development and acceptance testing, controlling technical scope and the work of a small design and development team to ensure an acceptable cost structure.
+
+Expectation the role holder collaborates with relevant customer stakeholders to establish relationship within account to demonstrate capability and experience on behalf of Fujitsu AI & Data.
+
+Apply best practice concepts relating to:
+
+Lakehouse/ Datalake / Data warehousing.
+
+IoT, data ingestion and stream analytics.
+
+Agile/ Scrum.
+
+Contributes to definition of customers overall IT architecture, designing new solutions of significant size and complexity, and can manage the work of junior specialists contributing to the design and implementation.
+
+Shares knowledge with colleagues and makes useful additions to the Fujitsu knowledge base.
+
+Contributes to bid and pre-sales activities relating to own areas of expertise.
+
+As required, leads small team (3-4 people) in single domain.
+
+Alert to opportunities for follow-on business and communicates identified new business opportunities for Fujitsu.
+
+Study and remain up to date with relevant technological change and obtain certifications in skills used within the Fujitsu AI & Data team as agreed with your mentor.
+
+Requirements:
+
+Data Engineer/ Data Visualization specialist skills
+
+Outstanding technical skills ensuring your deliver value out of the underlying technology
+
+Development experience in at least two of:
+
+Databricks or Spark
+
+Terraform IaC CI/CD
+
+ETL development
+
+Medallion/Gold Layer model development
+
+Good understanding of Data Modelling and Data Integration
+
+Strong SQL
+
+Excellent stakeholder management ability
+
+Agile delivery methodology experience
+
+Understanding of Data warehousing concepts
+
+Why Fujitsu?
+
+We are an organization with a strong set of values and a history of respecting fairness and equality, whilst promoting diversity, equity and inclusion. We constantly push ourselves to do better and strive to bring together a diverse mix of perspectives and talents in an inclusive environment, where we encourage our people to bring their full selves to work. We call this Be Completely You.
+
+We put people first. We believe in the power of diversity to drive innovation and our Work180 accreditation, AWEI (Australian Workplace Equality Index) Gold Employer status and Rainbow Tick certification for LGBTI+ inclusion show that we value an inclusive culture.
+
+We offer tailored career paths across our global organization to support your professional and personal growth.
+
+Our customers trust us. We have an excellent reputation across the region and globally.
+
+Best in class reward and recognition programs flexible work, volunteering leave and more.
+
+We live our values of aspiration, trust and empathy, all day, every day.
+
+Commitment to Diversity, Equity and Inclusion
+
+As an inclusive employer, Fujitsu aims to recruit a diverse range of talents to help us achieve our purpose. In line with our diversity, equity, and inclusion strategy, we highly welcome applications from women and gender-diverse people; Aboriginal and Torres Strait Islander people; Māori and Pacific people; LGBTI+ people; people with a disability; culturally and linguistically diverse people; veterans, Australian Defence Force (ADF) and emergency responders. Transgender and gender-diverse applicants can request a copy of our Frequently Asked Questions﻿ to assist with the recruitment journey.
+
+If you don't tick every box in this job description, please don't rule yourself out. Research suggests that underrepresented groups tend to only apply if they meet every requirement. We focus on hiring people who value inclusion, collaboration, adaptability, courage, and integrity, rather than ticking boxes so if this resonates with you, then please apply. For more information, please email careersapac@fujitsu.com.
+
+Search Firm Representatives PLEASE READ:
+
+Fujitsu does not accept unsolicited assistance from search firms for employment opportunities. All CVs or resumes submitted by search firms to any employee at our company without a valid written agreement in place for this position will be considered the sole property of our company. No fee will be paid if a candidate is hired by Fujitsu due to an agency referral where no existing agreement is in place with the Fujitsu Talent Acquisition Team. Where agency agreements are in place, introductions must be through engagement by the Fujitsu Talent Acquisition Team."
+90740955,Senior Business Analyst,FinXL IT Professional Services,https://www.seek.com.au/job/90740955?type=standard&ref=search-standalone&origin=jobCard#sol=08b044794668272072ac9cee95fe88dbf4215777,1h ago,1.0,2026-03-05T03:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Senior Business Analyst
+
+Drive complex business modelling and stakeholder facilitation.
+
+FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
+
+FinXL is seeking a Senior Business Analyst to join our consulting team and be deployed with a leading banking client on a key transformation engagement.
+
+Responsibilities
+
+Define and manage scoping, requirements, and prioritisation activities.
+
+Establish requirements baselines and ensure full traceability to solutions.
+
+Investigate complex business situations characterised by ambiguity.
+
+Conduct deep-dive root cause analysis and identify recommendations.
+
+Perform advanced modelling for significant change programmes.
+
+Plan modelling activities using appropriate techniques and detail levels.
+
+Communicate complex modelling results to senior managers for agreement.
+
+Key Skills & Experience
+
+Strong experience within technical environments and deep IT process knowledge.
+
+Proven ability to lead workshops and drive productive outcomes.
+
+Exceptional communication skills for managing stakeholder expectations.
+
+Proven track record of navigating ambiguity to reach actionable results.
+
+Ability to provide constructive challenge to ensure robust requirements.
+
+IIBA CCBA or CBAP certification is highly preferred.
+
+Holistic analytical mindset to identify problems and opportunities.
+
+Why Join FinXL?
+
+6-month initial contract with high potential for extension.
+
+Work on critical transformation projects for a leading banking client.
+
+Drive complex business modelling and stakeholder facilitation.
+
+Next Steps If you would like to apply for this opportunity, please submit your CV via SEEK.
+
+Please note that due to the volume of responses, only shortlisted consultants will be contacted."
+90740691,Lead Business Analyst (North - Wrap Platform),AMP Services,https://www.seek.com.au/job/90740691?type=standard&ref=search-standalone&origin=jobCard#sol=75a28b70e1b691a5034c917ee7f0cb4c78c4fb97,1h ago,1.0,2026-03-05T03:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"If you live in Australia or New Zealand, you've likely heard of AMP. But at a time when society is changing, we are too. We're now a nimbler business with new leadership and thinking.
+
+For us, these are exciting times. There's a real potential for big thinkers to help us redefine what financial services could be. And turn our legacy into something even more positive and powerful for the future.
+
+Help people create their tomorrow, while you create yours
+
+We help people with their banking, super, retirement and finances. Through upturns, downturns, recessions, and major life transitions. Every day, we help people see and make more of their financial potential, so that they can create their tomorrow. And we've been doing it for over 170 years.
+
+If we do our job well, we genuinely add to the prosperity of our country and its people.
+
+How you'll make an impact
+
+The Lead Business Analyst brings deep subject matter expertise in Wealth Management and Superannuation and is responsible for consulting with business and technology leaders to create their strategy and associated delivery roadmaps.
+
+As Lead Business Analyst, reporting into the Delivery Manager, you will be responsible for creating and defining innovative solutions and leading the work of for team of Business Analysts.
+
+You'll have a comprehensive understanding of the Business Analysis practices, own and drive the analysis process for the North Platform and form a business analysis community centred around continuous improvement.
+
+As a leader in creating solutions to meet business problems, you'll be a key person for value streams their business executives and leadership teams.
+
+What you'll bring to the role
+
+
+Business partnerships and strategy development. Consult with technology and business leaders to create solutions to drive the delivery of their strategy.
+Responsible for leading and directing analysis activities for an initiative, including leading the work of Business Analysts within a delivery squad.
+Custodian of the Business Analysis practice, processes and tools, forming a community of practice to oversee and improve the way Business Analysis is performed.
+Govern and oversee a delivery squad's analysis, documentation and processes follow set out standards, are of the highest quality (balancing efficiency) and maintain consistency over time and across the team.
+Drive continuous improvement in the delivery team's analysis output and provides constructive feedback and coaching to the team that fosters ongoing improvement.
+Lead delivery risk assessment and is responsible for identifying, raising, reporting and mitigating risks involved in and discovered through analysis activities.
+Lead the adoption of business agility, and delivery within an Agile framework, facilitating ceremonies (e.g. standups, retros) ensuring progress and continuous improvement.
+Part of the values stream leadership team working with Delivery Managers, Project Managers and Tech Leads in analysis planning, tracking and reporting activity from project and squad through to portfolio level.
+Leads the business in forming scope and initial estimates for new development ideas and proposals, contributing deep knowledge and coordinating technical experts where needed.
+Actively engages in analysis while also coordinating analysis work across the Business Analysis team to navigate complex challenges and enable efficient and effective delivery. Supports hiring and responsible for onboarding Business Analysts through mentoring and 'buddying'.
+
+
+You'll thrive here if…
+
+If you can adapt from BAU to the ambiguous with ease, you'll do well here. Change is never easy, so bring your commitment, grit and growth mindset.
+
+Because we run lean, you'll be expected to jump in and deliver across a variety of areas. Meaning, you'll be closer to the action and executive decisions that influence where we go next.
+
+If you're someone that can hold their own, you'll find AMP quite liberating.
+
+Why we think you'll love working at AMP
+
+Doing what we've always done is not an option, so your clever ideas will get airtime here. You'll be encouraged to speak up and try new things. If they don't work, we move on - better for it.
+
+We know there's no one way of doing things. So, you won't have to sacrifice who you are or how you work to fit in here. We're inclusive and flexible in many of the ways you'd expect. And in some of the ways you wouldn't. As long as your health and wellbeing come first - at home and at work.
+
+In fact, most of what makes AMP such a welcoming, enjoyable place to work are our people. Wherever you go, you'll find moments to connect, feel valued and do meaningful work.
+
+Whether it's through our first-class leaders who are invested in you and your success. Through year-round opportunities to volunteer, fundraise and give back to the community. Or in the everyday challenges you face as we work together to strengthen this great organisation. Challenges that will stretch you, amplify your potential and compound the impact you have.
+
+We believe in the power of inclusion and diversity
+
+We're dedicated to fostering inclusion, diversity, and a warm feeling of belonging at AMP. It sparks creativity, ignites innovation, and turns up the dial on the quality of our decisions and performance. This not only makes our workplace more engaged, but also leads to better connections with our customers.
+
+We're your allies in the search for the perfect fit - when you apply, let us know how we can support you to put your best self forward during our selection process.
+
+We're also committed to enhancing employment opportunities for Aboriginal and Torres Strait Islander people, so we enthusiastically encourage candidates from these backgrounds to apply and explore our Reconciliation Plan on our website
+
+Ready to create your tomorrow?
+
+If you're someone who sees opportunity where others see challenge, come and work with us in smart, progressive ways as we transform an iconic Australian brand for the future. And, through a series of career-defining moments, create your own tomorrow.
+
+Don't procrastinate! We review applications when we get them, and if we discover the ideal candidate, we may close the role earlier than the advertised close date.
+
+Looking forward to meeting you."
+90740510,Business Analyst,RSL LifeCare,https://www.seek.com.au/job/90740510?type=standard&ref=search-standalone&origin=jobCard#sol=795f1b913b9c33d87bb25a179aa86d5a6eed60fe,1h ago,1.0,2026-03-05T03:00:00+00:00,"St Leonards, Sydney NSW (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"At our core, RSL LifeCare provides care and services to veterans and seniors who live in our communities or are receiving support at home. Our vision of creating proud communities living their best lives is at the heart of everything we do as we continue to build upon our legacy of supporting veterans and their families for more than 100 years.
+
+This is an opportunity for you to join a large social purpose organisation where your skills and compassion will be valued and enable you to make a meaningful difference to people's lives.
+
+We are seeking an experienced Business Analyst to play a key role in shaping and optimising the way RSL LifeCare operates. You will work closely with stakeholders across the organisation to document current and future business processes, analyse system and process gaps, and translate insights into practical, effective solutions.
+
+Your work will directly influence how our teams deliver services, use systems, and achieve better outcomes for the people we support.
+
+What you will be doing:
+
+Map out how our processes work today and how they should work in the future, creating clear and practical documentation everyone can use.
+Understand how our systems connect, identify what's working and what's missing, and use gap analysis to guide smarter, more effective solutions.
+Turn insights into real improvements across processes, systems, and training, making sure changes genuinely support our people and meet agreed goals.
+Bring teams together through workshops, conversations, and clear requirements gathering so everyone is aligned and confident about what's needed.
+Work closely with business teams, partners, and vendors to prioritise what matters most and deliver changes that make everyday work easier and more efficient.
+
+You will have:
+
+Significant experience in systems implementation.
+Demonstrated ability to capture and document business processes.
+Experience facilitating requirements workshops and translating insights into solutions.
+Strong gap analysis and system evaluation skills.
+High attention to detail and a continuous improvement mindset.
+Ability to work effectively in ambiguous or evolving environments.
+Proficiency with Office365 and SharePoint.
+Qualifications in project management and/or process methodology.
+
+RSL Life Care offers the following benefits:
+
+Not-for-profit tax benefits - salary packaging of up to $15,900 per year. This allows you to reduce your taxable income by receiving part of your salary as tax-free benefits like super contributions, car leasing, and more.
+Staff discounts across 700 select retail stores through Maxxia Rewards
+Fitness Passport
+Leave Loading - 17.5% pay top up on paid leave
+
+Our commitment to diversity:
+
+We are proud to stand for our unique values: Do the Right Thing, Aim Higher, Care from the Heart, and Act as One team.
+
+We welcome and encourage applications from people across our diverse community, especially from Veterans, current serving ADF personnel, their families and Aboriginal and Torres Strait Islander applicants. We believe everyone has the right to feel safe, respected, valued and heard regardless of their gender, sexual orientation, ethnicity or disability.
+
+
+It is a mandatory requirement for a team member working in the Aged Care sector to have a valid Police Check or a valid National Disability Insurance Scheme (NDIS) check, or potentially both, to undertake the inherent requirements of the role. Clearances must be verified prior to commencing employment with RSL LifeCare."
+90739766,Head of Continuous Improvement and Efficiencies,Air Liquide Australia,https://www.seek.com.au/job/90739766?type=standard&ref=search-standalone&origin=jobCard#sol=f8da73c0ecbec35069ddc09f3b0027856b6df632,1h ago,1.0,2026-03-05T03:00:00+00:00,Melbourne VIC (Hybrid),Management & Change Consulting (Consulting & Strategy),Full time,,"Air Liquide Australia is a market leader Gases, Technologies and Services for Industry in Australia. Air Liquide Australia provides innovative, responsive and customer focused services to our product range, which improves the performance of our customers while helping protect the environment.
+
+Reporting to the Pacific Managing Director, we are looking for a Head of Continuous Improvement and Efficiencies to lead our organisation-wide transformation. It’s a strategic leadership position where you will challenge the status quo, coach senior business leaders, and turn innovative ideas into high-impact financial reality. Based in our Melbourne Head Office, you will be the driving force behind our efficiency roadmap across the Pacific.
+
+
+
+
+How will you CONTRIBUTE and GROW?
+
+Your primary objective is to lead the Pacific special projects and the broader Continuous Improvement (CIMP) program. You will be the central hub for operational brilliance, focusing on:
+
+Own and drive the entity cost control and efficiency programme: Through large and small projects you will be responsible for working alongside our business leaders helping them identify, develop and execute efficiency programmes.   
+
+Special Projects: Take full ownership of end-to-end projects aimed at controlling and sustaining the P&L. You will engage with SBL Heads to conduct assessments, provide high-level recommendations, and execute efficiency initiatives that move the needle.
+
+CIMP Program Leadership: Drive a culture of ""bottom-up"" efficiency. As a qualified CIMP practitioner, you will coach teams to identify lean opportunities, develop programmes of work and ensure successful execution. The role involves leading the CIMP belt programme, where you will facilitate employees in achieving their CIMP qualifications and successfully completing their individual projects.
+
+Capital Process Ownership: Act as the business process owner for the entity capital budget. You will forecast annual needs, manage quarterly allocations, and guide the Investment Committees on high-stakes project submissions.
+
+Steering Committee Influence: Serve as an active member of the IM Leadership team, providing data-driven advice and challenging the direction of the business to ensure sustainable growth. You will own the IM KPI programme ensuring relevant data is captured and presented to the IM Leadership team. 
+
+Local FIT Champion: In this capacity as the local FIT PMO, your key responsibilities will involve leading the implementation of FIT value initiatives and fostering the FIT Performance Culture.
+
+
+
+
+Are you a MATCH?
+
+Analytical Powerhouse: Bachelor’s degree in Business, Finance, or Engineering. You possess the financial literacy to manage a P&L and the technical mindset to understand complex supply chain and manufacturing operations.
+
+Proven Project Leader: You possess a strong foundation in end-to-end project management, paired with the deep understanding of business operations that comes directly from first-hand operational experience.
+
+Lean Expert: You have a strong background in LEAN principles and ideally hold a CIMP Green Belt (or have the drive to achieve one on the job).
+
+Influencing Leader: You excel at coaching leaders, facilitating change, and communicating with impact across all levels of the organization.
+
+Strategic Decision Maker: You can navigate various solution pathways, using quantitative reasoning to provide ""Go or No Go"" recommendations for major investments.
+
+
+
+
+We OFFER
+
+We provide a high-performance environment where your professional evolution is our priority:
+
+Benefits and Support: Salary plus a performance bonus, 14 weeks paid parental leave, Salary Continuance Insurance, free on-site parking and Stock Purchase Plan options.
+
+Work-Life Balance: Full-time permanent role with Hybrid work arrangements and flexible working hours
+
+Professional Development: Formal CIMP certification pathways and specialized project management training with direct visibility to the Sr Management Team across regions
+
+Wellbeing & Culture: Access to health initiatives, employee assistance programs, social groups, and retail discounts with over 350 partners.
+
+
+
+
+About Air Liquide
+
+A world leader in gases, technologies and services for Industry and Health, Air Liquide is present in 78 countries with approximately 64,500 employees and serves more than 3.8 million customers and patients. Oxygen, nitrogen and hydrogen are essential small molecules for life, matter and energy. They embody Air Liquide’s scientific territory and have been at the core of the company’s activities since its creation in 1902.
+
+
+
+
+Our Differences make our Performance
+At Air Liquide, we are committed to build a diverse and inclusive workplace that embraces the diversity of our employees, our customers, patients, community stakeholders and cultures across the world.
+
+We welcome and consider applications from all qualified applicants, regardless of their background. We strongly believe a diverse organization opens up opportunities for people to express their talent, both individually and collectively and it helps foster our ability to innovate by living our fundamentals, acting for our success and creating an engaging environment in a changing world."
+90739677,Integration Engineer,Compare the Market,https://www.seek.com.au/job/90739677?type=standard&ref=search-standalone&origin=jobCard#sol=7cf89ab44ad1779702187ff8ccc2bc4c12513b2b,1h ago,1.0,2026-03-05T03:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
+
+ 
+
+iSelect and Compare the Market are trusted, well-known brands dedicated to helping millions of Australians compare and buy personal finance and household products such as insurance, energy, and loans. Together, we provide a seamless, customer-focused experience that makes it easier for Australians to find the right products to suit their needs.
+
+ 
+
+ 
+
+What You’ll Be Doing
+
+Design and implement data pipelines to extract, transform, and load (ETL) data from ERP (e.g., SAP, Oracle, Dynamics, Technology One), HRIS (e.g., Workday, UKG), payroll systems (e.g., Employment Hero, MicrOpay, Payroll Metrics), and enterprise automation platforms.
+Develop and maintain data integrations with external financial systems including banking platforms (e.g., payment gateways, direct debit services, reconciliation tools) and taxation systems (e.g., ATO, GST reporting, Single Touch Payroll, PAYG).
+Build and manage data flows from recruitment platforms such as LinkedIn, SEEK, and other talent acquisition systems.
+Collaborate with business stakeholders to understand data requirements and deliver actionable insights through dashboards, reports, and analytics.
+Ensure data quality, integrity, and compliance across all integrated systems.
+Monitor and optimize data workflows for performance and reliability.
+Maintain comprehensive documentation for data architecture, mappings, and technical specifications.
+Work closely with cloud and architecture teams to deploy and manage data solutions in Databricks and Power BI.
+
+ 
+
+ 
+
+What’s In It For You
+
+ 
+
+At Compare the Market and iSelect, we’re all about helping people make smart choices – and joining us might just be yours.  We offer an environment where your ideas are heard, your contributions are valued, and your growth genuinely matters. Collaboration is part of our DNA, and you’ll be joining a supportive, forward-thinking team where you can do meaningful work (and be recognised for it!) 
+
+ 
+
+We’re guided by three shared values that shape how we work, how we treat each other, and how we show up for our customers - Drive, Noble Intent and All Together.
+
+ 
+
+Plus, we offer a range of great perks to help you thrive both in and out of work:
+
+Vibrant and social community who have annual celebrations, family fun days and regular events
+Enjoy flexible work arrangements, including the option of one day working from home each week or a 9-day fortnight
+Enjoy additional leave days - ‘ME’ leave and ‘Volunteer Day’ leave
+Option to purchase additional leave
+Return To Work bonus for returning parents
+Quarterly Award and Recognition program 
+
+ 
+
+What Sets You Apart
+
+Strong experience in data engineering and analytics, including ETL processes and data modelling.
+Proven track record working with ERP, HR, payroll, finance, and recruitment data.
+Familiarity with banking data structures, payment processing, and financial reconciliation.
+Experience with taxation data and compliance reporting (e.g., Single Touch Payroll, BAS, PAYG).
+Hands-on experience with payroll data and understanding of regulatory requirements.
+Proficiency in SQL and programming languages such as Python, R, or Scala.
+Experience with AWS data services including Glue and EventBridge.
+Experience with data platforms like Snowflake or Databricks.
+Understanding of secure data handling protocols and privacy standards.
+Strong analytical, problem-solving, and communication skills.
+
+ 
+
+At Compare the Market and iSelect we’re proud to be an Equal Opportunity Employer and we embrace diversity.  
+
+ 
+
+This role is available to candidates with unlimited Australian working rights only. Sponsorship is not available.  
+
+ 
+
+Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
+90739505,Regulatory Modelling Analyst,Endeavour Energy,https://www.seek.com.au/job/90739505?type=standard&ref=search-standalone&origin=jobCard#sol=1e9e1f85700d4976b652ad4b6e51f523d7bac4ae,1h ago,1.0,2026-03-05T03:00:00+00:00,"Parramatta, Sydney NSW","Analysis & Reporting (Mining, Resources & Energy)",Full time,"From $174,000 inc 16.5% Super","There’s never been a more exciting time to be in energy and no better place to build your career than at Endeavour Energy.
+
+Every day, more than 2.7 million people across New South Wales rely on us to deliver safe, reliable power. With over 1,700 employees, we’re one of the largest employers in Greater Western Sydney and a key driver of Australia’s energy transition.
+
+You don’t need prior energy experience to succeed in this role. We’re looking for talented, curious professionals who are ready to take on challenges, grow their skills, and contribute to a culture built on care, collaboration, and belonging. Together, we put customers first and lead the way toward a smarter, cleaner, more sustainable energy future.
+
+About the Role
+
+Reporting to the Manager Economic Strategy, the Regulatory Modelling Analyst develops, maintains, and interrogates economic and financial models and large regulatory datasets that underpin Endeavour Energy’s submissions to the AER and IPART. This role requires advanced analytical expertise, strong technical skills, and the ability to translate complex modelling outputs into clear, actionable insights for internal stakeholders. Your work will guide regulatory, investment, and strategic decisions that drive material business outcomes.
+
+Key Responsibilities
+Develop, maintain, and document regulatory economic and financial models, including building block outcomes, incentive mechanisms, and benchmarking analysis
+Review regulatory datasets submitted to the AER and IPART to identify opportunities to improve outcomes
+Analyse regulatory determinations to assess impacts on revenue, expenditure forecasts, incentives, and risk profiles
+Conduct sensitivity, scenario, and stress testing to inform regulatory strategy and executive decision-making
+Provide robust quantitative analysis to support regulatory submissions and responses to information requests
+Translate complex modelling results into clear, decision-ready insights for internal stakeholders
+Monitor regulatory developments, guideline changes, and emerging methodologies to ensure compliance and improve modelling capability
+
+Qualifications
+
+Tertiary qualification in Economics, Finance, Engineering, Mathematics, Statistics, Data Analytics, or a related quantitative discipline
+
+Experience & Skills
+
+Demonstrated experience applying quantitative analysis, economic or financial modelling to support complex business or regulatory decisions
+Strong analytical and data capability, including experience managing large, complex datasets with integrity, transparency, and reproducibility
+Advanced proficiency with analytical and modelling tools (e.g., Excel-based models, statistical or data analysis software)
+Excellent written and verbal communication skills, able to explain technical analysis clearly to non-technical stakeholders
+Practical understanding of economic or regulatory frameworks and the ability to interpret externally defined rules, guidelines, and determinations
+Proven ability to deliver high-quality analytical outputs within governance frameworks and tight deadlines
+Experience in the electricity industry or other regulated environments (utilities, infrastructure, government, economic regulation, or financial services), ideally supporting regulatory resets
+
+For further information, please contact recruitment@endeavourenergy.com.au
+
+Applications close: 19 March 2026
+
+When we power together, we can achieve so much more.
+
+At Endeavour Energy, diversity and inclusion make us stronger, safer, and better. We strive to create a workplace where everyone feels valued, respected, and supported to thrive.
+
+As a critical infrastructure organisation, background checks will be conducted to ensure the security and protection of our assets."
+90739226,Technical Business Analyst,Australian Investment Exchange,https://www.seek.com.au/job/90739226?type=standard&ref=search-standalone&origin=jobCard#sol=a3d714ec068f77a3d411668dc76c32f0d52c1edd,1h ago,1.0,2026-03-05T03:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"We are AUSIEX
+  
+With over 25 years of experience in the local market and the backing of a multinational trading technology powerhouse, we’re AUSIEX. We specialise in equities execution, clearing & settlement services, and equities administration for financial intermediaries. Since 1994, we’ve used our deep, local expertise to deliver solutions that seamlessly connect our clients to markets. We are powered by Nomura Research Institute (NRI), a global leader in technology and operations services. We’re infusing NRI’s proven technology capability and tradition of innovation, with our trusted trading solutions and local market expertise.
+  
+In 2025, we expanded our group by welcoming FIIG Securities, a respected Australian fixed income specialist with over 25 years of experience. FIIG Securities manages billions under advice and serves 6,000 private clients, providing investors with access to expert insights and investment opportunities across the fixed income asset class. Their focus on delivering consistent, reliable income and capital stability perfectly complements our service offering.
+
+See yourself in our team
+  
+FIIG has a varied technology stack, which helps us scale our business within both the front and back office. Between these systems, there are a number of complex business processes & integrations which need to be monitored, managed, and improved to ensure no outages or core business issues.
+
+The role of the Technical Business Analyst at FIIG will be responsible for:
+
+Working with the business to capture, validate, prioritise and document the business requirements that will be implemented by the solutions
+Working with the business and IT teams to develop designs that meet the requirements, and can be suitably implemented within the chosen technology
+Working with the business and IT teams to develop business cases to help prioritise and focus spending / effort to be in line with immediate and strategic needs
+The key to this role will be understanding not only the technology that supports the business, but the business processes themselves in order to successfully deliver feature enhancements and improvements.
+
+What will you be doing  
+
+You will be expected to perform the following tasks and responsibilities in a manner consistent with AUSIEX’s Values of Listen, learn, grow, Lead with passion take the initiative and Collaborate to innovate.
+  
+FIIG will be progressively rolling out a full client-facing business platform replacement. The objective of this replacement is to support client acquisition and revenue growth, business optimisation, and leverage AI technology to achieve a high standard of customer service and efficiency across FIIG’s entire business. This staged replacement must be designed and implemented in a way that ensures minimal impact to clients and normal business operations.
+
+This role is based in Brisbane and will be accountable for the following key responsibilities of the Technical Business Analyst supporting AUSIEX’s Fixed Income Division (FIIG):
+
+To work with the business to capture, validate, prioritise and document the business requirements that will be implemented by the solutions
+To work with the business and IT teams to develop designs that meet requirements (functional, non-functional and technical), and that can be suitably implemented within the chosen technology
+To work with the business and IT teams to develop business cases to help prioritise and focus spending / effort to be in line with immediate and strategic needs
+Performing investigative analysis on existing systems to baseline current state requirements and design (for both the business and technical domains);
+Perform the key issue analysis needed as inputs into meetings with the business and IT teams so that decisions can be made effectively. Ensure the actions and outcomes of these meetings are recorded and any outstanding actions are raised with management
+Assist with the development of suitable methodologies, standards and principles
+Ensuring that documentation is produced in a timely manner, is in line with standards, and that requirements are traceable to designs (and vice-versa)
+Identify potential areas of process improvement (in the business and in the project), and raise these for discussion
+Ensure that designs are documented to the level required, and appropriately reviewed / validated to minimise the likelihood of design flaws being found in development
+Structure and facilitate meetings for project scoping, requirement collection and Current State / Future State documentation
+Establish and maintain effective working relationships with all levels of the organisation
+Provide accurate estimates for assigned work to project managers
+We’d love to hear from passionate people who have: 
+  
+Essential skills
+
+3+ continuous years’ experience as a Technical Business Analyst (or equivalent position);
+Must have solid experience in performing investigative business analysis on existing systems to baseline current state requirements and design;
+Strong experience developing designs based on (and integrating to) COTS (Commercial-Of-The-Shelf) products;
+Extensive knowledge of technology and business operations for more than one business sector;
+Proven experience working collaboratively with multiple partners to deliver successful outcomes for complex business / system problems;
+Qualifications
+
+Relevant tertiary qualification
+Previous experience in: Copilot Pro, Power Apps, JIRA, Confluence, Microsoft Dynamics CRM 365, Microsoft SQL Server Management Studio
+Previous experience within financial services is desirable
+Previous experience with SimCorp Dimension is desirable
+Behavioural Competencies
+
+Able to demonstrate the ability to learn new systems, environments and business processes rapidly
+Problem solving, ability to break problems down and step through components to replicate issues
+Ability to meet tight deadlines and to react positively to shifting priorities
+Communication with stakeholders including senior business leaders and external vendors
+Ability to work independently and as part of a team
+Ability to identify and raise issues early
+Committed work ethic and accountability
+Establish and maintain effective working relationships with all levels of the organisation 
+  
+We want to help grow your skills and develop your career with us! If this sounds like you – apply today!
+  
+Inclusion and diversity are part of who we are. Together, we continue to build an inclusive culture that enables, values and celebrates the diverse opinions of our employees.
+  
+If you need assistance or adjustments to fully participate in the application/interview process, please contact careers@ausiex.com.au.
+  
+Visit us on www.ausiex.com.au or on LinkedIn"
+90738198,Senior Business /Demand Analyst,NTT Australia,https://www.seek.com.au/job/90738198?type=standard&ref=search-standalone&origin=jobCard#sol=e96a8351fd078e7a820660bbef80640ccfc44319,2h ago,2.0,2026-03-05T02:00:00+00:00,Perth WA,Business/Systems Analysts (Information & Communication Technology),Contract/Temp,NO,"We are seeking a Senior Business / IT Demand Analyst to lead the evaluation, shaping, and definition of new IT demand across Applications, Infrastructure, SaaS, and Corporate IT services. This role is a short term contract with a view to extend, based in Perth onsite. Ensuring that business needs are clearly understood, strategically aligned, financially assessed, and sufficiently defined before progressing into design and delivery.
+
+
+You will work closely with business stakeholders, architects, finance, security, and delivery teams to ensure every request is viable, valuable, and aligned to enterprise standards.
+
+Key Responsibilities
+1. Demand & Requirements Management
+•     Lead structured interviews and workshops to uncover true business needs.
+•     Translate business problems into clear, high‑level functional and non‑functional requirements.
+•     Challenge assumptions, validate justification, and distinguish between needs and wants.
+•     Produce high‑quality scope documentation including in‑scope, out‑of‑scope, and on‑the‑frame items.
+•     Define assumptions, constraints, dependencies, and measurable success criteria.
+2. Business & Financial Analysis
+•     Conduct preliminary Business Impact Assessments (BIA) covering operational, compliance, security, and continuity considerations.
+•     Identify risks and assess business impact.
+•     Develop high‑level cost estimates (CAPEX/OPEX) and identify licensing, infrastructure, integration, implementation, and run‑cost implications.
+3. Technical & Architectural Awareness
+•     Demonstrate strong understanding of enterprise applications, infrastructure, cloud, and SaaS models.
+•     Understand integration patterns, identity, data flows, and security considerations.
+•     Produce high‑level conceptual designs for Design Authority review.
+•     Identify architectural, security, and compliance implications early in the demand lifecycle.
+4. Governance & Documentation
+•     Produce structured, high‑quality artefacts including scope documents, requirements packs, stakeholder analysis, risk and options analysis, and Design Authority briefings.
+•     Map stakeholders by influence and impact.
+•     Present clear solution options with associated risks, costs, and benefits.
+5. Stakeholder & Communication Leadership
+•     Engage confidently with senior stakeholders, technical teams, and delivery partners.
+•     Translate technical complexity into clear, business‑friendly language.
+•     Influence decisions diplomatically and manage competing priorities.
+•     Build strong relationships across business and IT functions.
+6. Commercial & Delivery Awareness
+•     Understand procurement processes, vendor evaluation, and SaaS licensing models.
+•     Assess vendor risks, contractual considerations, SLAs, and data protection requirements.
+•     Support smooth transition from demand shaping into project delivery.
+7. Project Delivery Support
+•     Where required, perform core Business Analyst activities during the delivery lifecycle, ensuring continuity from demand through to implementation.
+
+About You
+You will thrive in this role if you:
+•     Have extensive experience in business analysis, demand management, or IT portfolio intake.
+•     Are comfortable operating at the intersection of business strategy, technology, and governance.
+•     Can challenge constructively, think strategically, and communicate with clarity.
+•     Bring strong analytical, documentation, and stakeholder‑management skills.
+•     Understand enterprise‑scale IT environments and can translate complexity into actionable insight.
+
+Why Join Us?
+•     Influence strategic technology decisions at an enterprise level.
+•     Work across diverse business domains and technology landscapes.
+•     Shape the front‑door process for IT and drive meaningful business outcomes.
+•     Join a collaborative, forward‑thinking team committed to quality and continuous improvement.
+
+
+
+
+
+To be considered for this opportunity click the 'Apply' button, or for more information about this and other opportunities please contact Shrividya Shivashankar. Please quote our job reference number: 666609.
+
+About us
+
+Workforce Solutions is a division in the Australia and New Zealand region of NTT Ltd. and includes the former Viiew as part of its broader expertise and capabilities. The Workforce Solution division specialize in workforce-as-a-solution services, allowing clients the flexibility to augment or strengthen their team with a specialized workforce who offer deep experience and expertise in digital, data, security, infrastructure, project solutions and business transformation. Our highly experienced and skilled teams are supported by extensive training and enablement, ongoing technical assessments and our global network as part of NTT Ltd. All team members of Workforce Solutions are selected for the depth of their knowledge and experience in their particular field, as well as their professionalism and ability to integrate into our client’s workplace environment. To ensure the best match, we encourage clients to be involved in selecting their Workforce Solutions consultants.
+
+NTT Ltd. is a leading global technology services company. Working with organizations around the world, we achieve business outcomes through intelligent technology solutions. For us, intelligent means data driven, connected, digital and secure. As a global ICT provider, we employ more than 40,000 people in a diverse and dynamic workplace that spans 57 countries, trading in 73 countries and delivering services in over 200 countries and regions
+
+NTT is proud to be an equal opportunity employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category."
+90738125,Technology Lead - Data governance / Data management,Silverlink Infotech Pty Ltd,https://www.seek.com.au/job/90738125?type=standard&ref=search-standalone&origin=jobCard#sol=aaf24a5c9ceccabafc61d7871831918197cc624e,2h ago,2.0,2026-03-05T02:00:00+00:00,Sydney NSW (Hybrid),Management (Information & Communication Technology),Full time,,"Greetings!!!
+
+We have an urgent opening for “Technology Lead - Data Governance/Data Management - SQL Server” in Sydney- Australia .Please let me know your interest. Also you can refer me if anyone is interested contact at Seek at 0391110296/ 0260750102 or : seek@silverlinktechnologies.com
+
+
+
+
+Location – Sydney- Australia.
+
+Duration:- Contract/Full-Time
+
+Job description:-
+
+This role requires a strong combination of technical proficiency, business understanding, and data analytical capabilities. The ideal candidate should have extensive experience in data analysis, data modeling, and a solid grasp of data warehousing concepts and technologies.
+
+ 
+
+Key Responsibilities:
+
+Hands-on expertise in data governance, data management, archiving and retrieval, data warehousing, and data security practices.
+
+Lead the technical delivery of new data integration initiatives from analysis through to deployment, ensuring scalable and high-performance outcomes.
+
+Analyze and assess existing data warehouse architecture, including source systems, ETL processes, and data flow diagrams.
+
+Develop and maintain detailed documentation, including data architecture, data dictionaries, and metadata records.
+
+Keep up to date with emerging trends and technologies in data analytics and warehousing.
+
+ 
+
+Requirements:
+
+8+ years of experience in a Technology Lead role.
+
+Strong SQL Server expertise and deep knowledge of database systems.
+
+ 
+
+Mandatory Skills:
+
+Technologies: SQL, SSIS, Informatica, Big Data technologies
+
+Databases: SQL Server, Oracle
+
+Reporting Tools: Power BI
+
+Expertise: ETL processes, data mapping, and data warehousing concepts"
+90737183,Senior Technical Lead (ERP),u&u. Recruitment Partners,https://www.seek.com.au/job/90737183?type=standard&ref=search-standalone&origin=jobCard#sol=c30749c1bb51aa2f7901c09de095ee63edef728f,2h ago,2.0,2026-03-05T02:00:00+00:00,Brisbane QLD,Programme & Project Management (Information & Communication Technology),Full time,,"I am partnering with a leading private sector enterprise to recruit a Senior Technical Lead on a large-scale ERP transformation. This role is ideal for someone from a Consulting or Big Four background who has delivered multiple end-to-end ERP programs or led a major system integrator on the client side.
+
+This is an initial day rate contract through to November 2026 with likely extensions, based in Brisbane CBD. Experience on Dynamics 365 is preferred, but not essential.
+
+As the technical authority across the program, you will work closely with executive stakeholders, the system integrator and internal delivery teams to drive successful design, build and deployment outcomes, ensuring strong governance, quality and commercial accountability throughout.
+
+Key Responsibilities
+
+Provide technical leadership across the full ERP lifecycle including architecture, integration, data migration and environment strategy;
+Oversee and govern the system integrator, ensuring delivery quality, adherence to scope and commercial accountability;
+Lead and mentor internal technical and functional delivery teams;
+Translate business requirements into scalable technical solutions aligned with enterprise architecture;
+Manage risks, dependencies and technical decision making across multiple workstreams;
+Drive best practice implementation methodologies and ensure appropriate controls and documentation standards; and
+Engage confidently with C suite stakeholders, steering committees and external vendors.
+About You
+
+Proven track record delivering multiple enterprise ERP implementations end to end;
+Background in a Consulting or Big Four environment, ideally having led large transformation programs;
+Strong vendor management experience, including holding system integrators accountable to milestones, budget and quality;
+Deep understanding of ERP architecture, integrations, security, data and cloud environments;
+Excellent stakeholder engagement skills with the ability to influence at executive level; and
+Commercially astute with strong governance and risk management capability.
+Why Apply
+
+This is an opportunity to lead a high impact transformation program within a complex enterprise environment. You will play a critical role in shaping the technical direction of the ERP platform and ensuring successful delivery outcomes.
+
+How to Apply
+ 
+For more information or a confidential discussion please call Greg Scharf at u&u on 07 3232 9136 quoting reference number 44422.
+ 
+At u&u Recruitment Partners, we value diversity, equity and inclusion. We welcome applications from Aboriginal and Torres Strait Islander people, people with diverse cultural and linguistic backgrounds and people with disability.
+ 
+Should you require reasonable adjustments or have a preferred method of communication throughout the recruitment process, we encourage you to make a request via adjustments@uandu.com or phone the above-mentioned u&u consultant to discuss. In response to these requests, we will collaborate closely with you to implement the appropriate adjustments.
+ 
+Additionally, for a barrier-free and inclusive online experience, you can access u&u’s opportunities using accessibility software Recite Me at https://www.uandu.com/jobs.
+ 
+Please submit your resume in Word format only."
+90736159,"Technical Advisor, Intelligence Oversight – EL1/EL2",Office of the Inspector-General of Intelligence and Security,https://www.seek.com.au/job/90736159?type=standard&ref=search-standalone&origin=jobCard#sol=ac6d1329a53476b7e47ade82997a2650d10c5ab3,3h ago,3.0,2026-03-05T01:00:00+00:00,"Barton, Canberra ACT",Government - Federal (Government & Defence),Full time,"$125,206 - $166,048+ 15.4% Superannuation","The Office of the Inspector-General of Intelligence and Security (IGIS) is central to the independent oversight of the Australian intelligence and security agencies. The Inspector General is an independent statutory office holder with oversight of the activities of Australia’s intelligence and security agencies to ensure they act legally and with propriety, comply with ministerial guidelines and directives, and respect human rights. The work of the Inspector-General and his staff provide assurance to ministers, the parliament and the public that these agencies are using their powers as intended.
+
+We are a small portfolio agency, proud of our contribution to the national interest. We recognise that our people are our greatest asset, we recruit and retain highly capable, motivated professionals with high levels of integrity and personal drive; and we invest in, and value, their development. Further, we offer a rewarding, positive, and inclusive environment, empowering staff to work flexibly in their contribution to the achievement of agency goals.
+
+With the passage of the Strengthening Oversight of the National Intelligence Community Act 2025, the jurisdiction of the IGIS will expand in 2026 to all ten agencies within the National Intelligence Community with the inclusion of all of the Australian Criminal Intelligence Commission (ACIC); and the ‘intelligence functions’ of the Australian Transaction Report and Analysis Centre (AUSTRAC), the Australian Federal Police (AFP), and the Department of Home Affairs. The IGIS is expected to further grow in light of these additions, providing new and exciting opportunities for a motivated Technical Advisor to join the team.
+
+The Opportunity
+
+As the agencies use of technology to deliver intelligence outcomes invariably increases, so does the need for IGIS to maintain a strong practical and current understanding of those technologies and the implications to the legality and propriety of intelligence agency activities. 
+
+The Technical Advisor leverages their strong technical knowledge and experience to inform and/or deliver relevant and effective oversight activities. These oversight activities provide assurance to Ministers, the Parliament and the public of the legality, propriety and consistency with human rights of the activities of intelligence agencies in IGIS’ jurisdiction.
+
+You will maintain a strong, practical knowledge of relevant technologies, including Artificial Intelligence, and the legal and ethical frameworks around their use.
+
+We will help you build an understanding of the legislative frameworks that underpin the agencies responsible for national security, and we will support and encourage you to develop a network of professional colleagues both in the National Intelligence Community (NIC) and across the APS to help you deliver the technical advice function effectively.
+
+Key responsibilities of the Technical Advisor include:
+
+Shape the focus areas based on technology driven risks to the legality, propriety or transparency of agency activities
+Support and Educate employees on the technical capabilities used by agencies and their impact on legality, propriety and consistency with human rights 
+Lead technology focused oversight activities on behalf of the IGIS
+Provide technical advice and support to the Chief Artificial Intelligence Officer regarding technological developments and potential risks as required
+Build productive, but independent, working relationships with colleagues in the agencies IGIS oversees to further the work of the Office
+Contribute to accurate record keeping and documentation of review activities
+
+To be successful in this role you will have:
+
+An interest in analysing a technology, issue or activity to understand its implication to legality, propriety and consistency with human rights and report on findings and recommendations accordingly
+Provided advice relating to technology issues, including Artificial Intelligence 
+
+Essential skills and experience 
+
+technology literacy, skills and experiences in one or more relevant technology field, for example: 
+Cyber Security and Offensive Cyber
+Network Engineering and Communications
+Software development and Testing
+Advanced and big-data analytics and artificial intelligence
+Hardware engineering
+analytical and critical thinking skills
+good written and verbal communication skills
+ability to work productively and discretely within a highly sensitive workplace and classified environment
+ability to work effectively in a small team environment during a period of change.
+
+The Office is a small portfolio agency within the Attorney-General’s Department. In addition to your core duties, at times you may be asked to undertake tasks that are outside your usual span of duties but that are within the range of your capabilities. Supporting one another provides our people with exposure to functions across the Office and is an integral part of our positive workplace culture, providing opportunities for diverse work, building relationships and innovative methods of working.
+
+Appointment to our Office depends on the outcome of an Employment Suitability Assessment, and appointment and ongoing employment are subject to a Positive Vetting clearance being granted and maintained.
+
+The successful candidate must be located in Canberra or willing to relocate. The IGIS offers relocation assistance to new employees relocating to Canberra from interstate.
+
+For full details on the role, please refer to the Candidate Information Kit on the IGIS careers portal."
+90735923,Business Analyst SAP FICO,Hays | Technology,https://www.seek.com.au/job/90735923?type=standard&ref=search-standalone&origin=jobCard#sol=9dcf0ef3c594edfd95ca623aabeb2b919c9699af,3h ago,3.0,2026-03-05T01:00:00+00:00,Brisbane QLD (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,Competitive Hourly Rate,"Lead critical business readiness activities as the organisation transitions from SAP ECC6 to S/4HANA.
 
 Your new company
 
@@ -34,61 +858,7 @@ Knowledge of government finance standards (highly desirable).
 What you need to do now
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call now (Himanshu Gupta - +61 (07) 3243 3014
 If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career."
-90735162,Snr Technical and Functional Analyst D365 Finance,Snackbrands Australia,https://www.seek.com.au/job/90735162?type=standard&ref=search-standalone&origin=jobCard#sol=fe0af40a61d4bbd56148cf1835bc414887066a33,1h ago,1.0,2026-03-05T01:00:00+00:00,"Norwest, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"About us:
-Snackbrands Australia is part of Intersnack Group, a private German snack food company founded in 1968. Although internationally owned we are still very much a local company Creating Happy Snacking Moments for everyone!
-
-
-Here at Snack Brands Australia, we proudly make some of Australia’s favourite snacks including Kettle, CC’s, Thins, Cheezels, The Natural Chip Company and Nice & Natural. Across our three sites, we make over 200 million packets of chips a year - that's a lot of enjoyment and fun we bring to snackers every day! We encourage a culture that is exciting, challenging and we strive for innovation in everything we do. Our aim is for our people to share in our success, enjoy our products and reap the benefits of their hard work within a supportive environment where work life balance is encouraged!
-
-
-About the role:
-
-
-We’re seeking an experienced Snr Functional & Technical Analyst D365 - Finance to join our IT Applications team and lead the delivery of D365 Finance projects, enhancements and support for our Finance function. If you’re a strong communicator who thrives on solving complex financial system challenges, this role is your opportunity to make a real impact.
-
-This role will be based at our head office in Norwest with regular travel to our manufacturing site at Orchard Hills
-
-
-What you’ll be responsible for:
-Leading the process and system changes required in Dynamics 365 F&O, to streamline workflows and meet specific business requirements.
-Develop critical project artifacts, including Business Requirement Specifications (BRS), Functional Design Documents (FDD), technical requirements and process flows.
-Reduce the reliance on legacy systems, manual and XLS based processes by leveraging more Dynamics 365 Finance and Operations functionality.
-Conduct Dynamics F&O working sessions with stakeholders to define requirements, demonstrate system capabilities, data migration and reporting to meet business requirements.
-Partner with Finance, Production, and Logistics teams to ensure seamless, optimised and compliant end-to-end data flows and reporting.
-Develop, execute and lead unit, system and user testing as required to implement changes into production
-Support Finance users including production problems, incidents and change requests i.e. manage and resolve open tickets in your support queue.
-Follow ITIL processes and methodologies for approval and migration of changes to production.
-Work with vendors to provide support and upgrade information.
-Analyse, troubleshoot and resolve issues across Microsoft D365 Finance modules, collaborating with IT and business stakeholders.
-Deliver Finance related D365 projects and enhancements on budget and aligned to business goals.
-Work closely with Finance leaders to ensure solutions meet operational and compliance requirements.
-Build strong relationships across business functions and positively influence best-practice solution design.
-Ensure compliance with broader IT strategy and architecture.
-
-
-
-What you’ll bring to the role:
-Proven experience as a Senior BA – Finance, ideally within FMCG.
-Excellent Dynamics 365 and business process knowledge in Finance and Operations – able to configure modules and integrate to other legacy applications.
-Solution knowledge of Dynamics 365, SQL data base and integration technologies.
-Ability to research and facilitate D365 application solutions to meet business requirements
-Excellent knowledge of quality assurance and security related to D365 applications.
-Strong stakeholder management, negotiation and communication skills.
-Ability to prepare business cases, estimates and project documentation.
-Strong analytical, commercial and systems-thinking capability.
-Accounting and financial management education or experience an advantage.
-Experience managing multiple priorities across functions with conflicting requirements.
-Knowledge of high-volume transaction and billing systems is an advantage.
-
-
-What can you expect in return?
-A supportive working environment (with plenty of snacks on hand!) where you'll feel engaged and valued, career growth, Birthday Leave, Access to discounts on Retailers, onsite parking (including electric car charging stations) and a focus on health and wellness (like Wellbeing Days!) to make your workplace more enjoyable!
-
-
-
-
-**Our application process includes an Application Form that will be emailed to you directly after your submission. Please ensure you check your junk inbox for this application form, as only applications with this form will be considered. Thank you"
-90734826,AML Reforms Business Analyst,ManpowerGroup Talent Solutions (BH),https://www.seek.com.au/job/90734826?type=standard&ref=search-standalone&origin=jobCard#sol=eb6da737e20e330cd935741b6b4c9d6e13059df7,1h ago,1.0,2026-03-05T01:00:00+00:00,Sydney NSW (Hybrid),Other (Banking & Financial Services),Contract/Temp,$900 - $950 per day plus super,"We are partnering with a leading financial services organisation undertaking a large-scale Financial Crime transformation program focused on strengthening AML/CTF controls, governance frameworks and operational processes.
+90734826,AML Reforms Business Analyst,ManpowerGroup Talent Solutions (BH),https://www.seek.com.au/job/90734826?type=standard&ref=search-standalone&origin=jobCard#sol=33fff51792d61cb626cb9257b802cc357437b743,3h ago,3.0,2026-03-05T01:00:00+00:00,Sydney NSW (Hybrid),Other (Banking & Financial Services),Contract/Temp,$900 - $950 per day plus super,"We are partnering with a leading financial services organisation undertaking a large-scale Financial Crime transformation program focused on strengthening AML/CTF controls, governance frameworks and operational processes.
 
 As part of this program, we are seeking an experienced Senior Business Analyst to support the delivery of AML/CTF Reform initiatives, working across business, risk, operations and technology teams to assess impacts, define requirements and support implementation across the organisation.
 
@@ -142,7 +912,7 @@ Aboriginal and Torres Strait Islander people are encouraged to apply.
 By submitting your resume and other personal information with this application you are consenting to this information being collected in line with our privacy policy. Follow the link to learn more - www.manpowergroup.com.au/privacy-policy
 
 State: QLD, licensee/s Manpower Services (Australia) Pty Ltd, LHL-02026-D5L4Q. State: QLD, licensee/s Experis Pty Ltd, LHL-02014-Y5F6D. State: SA, licensee/s Manpower Services (Australia) Pty Ltd, LHS 288856"
-90734726,Solution Analysis and Design Manager,UnitingCare Qld,https://www.seek.com.au/job/90734726?type=standard&ref=search-standalone&origin=jobCard#sol=235be71693e8c74d9539dab3c25601850dc041e7,1h ago,1.0,2026-03-05T01:00:00+00:00,Brisbane QLD,Mechanical Engineering (Engineering),Full time,,"Make a meaningful difference with us:
+90734726,Solution Analysis and Design Manager,UnitingCare Qld,https://www.seek.com.au/job/90734726?type=standard&ref=search-standalone&origin=jobCard#sol=00ffc7cf33e48415f7aeb9bcfb062282763932bf,3h ago,3.0,2026-03-05T01:00:00+00:00,Brisbane QLD,Mechanical Engineering (Engineering),Full time,,"Make a meaningful difference with us:
 
 We want people who are great as individuals, and even better in a team.
 
@@ -229,7 +999,7 @@ Diversity and inclusive leave, offering paid gender affirmation leave and cultur
 We’re committed to creating safe, inclusive, and welcoming environments for all—especially children, young people, and the elderly. Our services are built on trust, care, and a deep sense of responsibility.
 
 Ready to bring your whole self to work and make a real difference? Apply now and join a team where your work truly matters."
-90734658,Data Integration Engineer,Compare the Market,https://www.seek.com.au/job/90734658?type=standard&ref=search-standalone&origin=jobCard#sol=11e701fd383dab5532b113bd484275814c31f2f2,1h ago,1.0,2026-03-05T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
+90734658,Data Integration Engineer,Compare the Market,https://www.seek.com.au/job/90734658?type=standard&ref=search-standalone&origin=jobCard#sol=4bd01157ee6d82e6c0155e1e037fa49808d7c425,3h ago,3.0,2026-03-05T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -301,7 +1071,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-90734416,Data Migration Lead,Kinetic,https://www.seek.com.au/job/90734416?type=standard&ref=search-standalone&origin=jobCard#sol=533fd8810371b26cc93c5813386e146eda0b0c66,1h ago,1.0,2026-03-05T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Contract/Temp,,"Data Migration Lead
+90734416,Data Migration Lead,Kinetic,https://www.seek.com.au/job/90734416?type=standard&ref=search-standalone&origin=jobCard#sol=b17f1028e10159ee74d19a3728815c9ea47d90b7,3h ago,3.0,2026-03-05T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Contract/Temp,,"Data Migration Lead
 
 Asset Management Transformation
 
@@ -341,7 +1111,7 @@ How to apply:
 Kinetic is proud to be an Equal Opportunity Employer and our people represent the community which we service. We invite all suitably qualified applicants to apply, including First Nations People, and people from diverse social, cultural and gender backgrounds.
 
 If you're interested in this rewarding role with Kinetic then click the 'Apply' button now!"
-90733256,Senior Tech Business Analyst - AI Transformation,Appsmart Pty Ltd,https://www.seek.com.au/job/90733256?type=standard&ref=search-standalone&origin=jobCard#sol=f1e4cf40961d3163a179ab89c82e658827a859cf,2h ago,2.0,2026-03-05T00:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$160,000 – $180,000 per year","Senior Technical Business Analyst – AI Transformation
+90733256,Senior Tech Business Analyst - AI Transformation,Appsmart Pty Ltd,https://www.seek.com.au/job/90733256?type=standard&ref=search-standalone&origin=jobCard#sol=ae86ee7e55693b091b26a3cff6b52e201542e803,4h ago,4.0,2026-03-05T00:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$160,000 – $180,000 per year","Senior Technical Business Analyst – AI Transformation
 
 Drive real business outcomes using AI
 
@@ -474,7 +1244,7 @@ As part of the selection process, candidates may be asked to demonstrate example
 If you are a Technical Business Analyst who wants to work on high-impact AI initiatives rather than routine BA work, we would like to hear from you.
 
 Apply now via Seek."
-90733159,Senior Business Analyst - Collections,Alzaro,https://www.seek.com.au/job/90733159?type=standard&ref=search-standalone&origin=jobCard#sol=8fa2d847d95ca512b65dd2633fedf7f95412a858,2h ago,2.0,2026-03-05T00:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Our client is a leading Financial Services organisation requiring an experienced Senior Business Analyst for an initial 6 month contract (with potential extension). The successful candidate must have a strong background of work with Credit Collections from both a functional and governance perspective.
+90733159,Senior Business Analyst - Collections,Alzaro,https://www.seek.com.au/job/90733159?type=standard&ref=search-standalone&origin=jobCard#sol=49b7fc10b82b98062cb971242b84996e1cc70d65,4h ago,4.0,2026-03-05T00:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Our client is a leading Financial Services organisation requiring an experienced Senior Business Analyst for an initial 6 month contract (with potential extension). The successful candidate must have a strong background of work with Credit Collections from both a functional and governance perspective.
 
 This is an exciting role where you will have the opportunity to have significant influence through your experience and knowledge within Banking and Financial Services lending.
 
@@ -493,7 +1263,7 @@ Must be Melbourne based and able to attend the CBD office in a Hybrid Working ar
 If you are interested in the above position and are confident that you meet the Key Requirements specified above then please submit your application for immediate assessment.
 
 Please note the quality of your application is taken into consideration through our assessment process. Your CV must reflect the skills and experience detailed above in order to be considered for this role."
-90732214,Finance Analyst / FP&A and M&A / Sydney CBD,Talent Web Recruitment,https://www.seek.com.au/job/90732214?type=standard&ref=search-standalone&origin=jobCard#sol=d783051acb5ab06c120a148bc73d143223d57cc8,3h ago,3.0,2026-03-04T23:00:00+00:00,Sydney NSW,Analysis & Reporting (Accounting),Full time,Circa $130k plus super and bonus,"Finance Analyst / FP&A and M&A / Sydney CBD 
+90732214,Finance Analyst / FP&A and M&A / Sydney CBD,Talent Web Recruitment,https://www.seek.com.au/job/90732214?type=standard&ref=search-standalone&origin=jobCard#sol=9a0a6f918c69450b0d52dead70199f33c3d64725,5h ago,5.0,2026-03-04T23:00:00+00:00,Sydney NSW,Analysis & Reporting (Accounting),Full time,Circa $130k plus super and bonus,"Finance Analyst / FP&A and M&A / Sydney CBD 
 
 Sydney CBD location
 Big 4 audit–trained professionals encouraged
@@ -531,7 +1301,7 @@ If you’re ready to accelerate your career in a globally connected, commerciall
 To register your interest, please submit your CV via the prompts.
 
 For further information, contact Ed Kirby on 0419 615 720."
-90731996,Finance Analyst / FP&A and M&A / Sydney CBD,Talent Web Recruitment,https://www.seek.com.au/job/90731996?type=standard&ref=search-standalone&origin=jobCard#sol=c8004d1c7c1178db76666422e2a31ef0165ca898,3h ago,3.0,2026-03-04T23:00:00+00:00,Sydney NSW,Strategy & Planning (Accounting),Full time,Circa $130k plus super and bonus,"Finance Analyst / FP&A and M&A / Sydney CBD 
+90731996,Finance Analyst / FP&A and M&A / Sydney CBD,Talent Web Recruitment,https://www.seek.com.au/job/90731996?type=standard&ref=search-standalone&origin=jobCard#sol=6327df09a1059a718b6c94360ead60ef64728efa,5h ago,5.0,2026-03-04T23:00:00+00:00,Sydney NSW,Strategy & Planning (Accounting),Full time,Circa $130k plus super and bonus,"Finance Analyst / FP&A and M&A / Sydney CBD 
 
 Sydney CBD location
 Big 4 audit–trained professionals encouraged
@@ -569,7 +1339,7 @@ If you’re ready to accelerate your career in a globally connected, commerciall
 To register your interest, please submit your CV via the prompts.
 
 For further information, contact Ed Kirby on 0419 615 720."
-90731689,Business Analyst,Morgan McKinley,https://www.seek.com.au/job/90731689?type=standard&ref=search-standalone&origin=jobCard#sol=24ddeb93de7b34ec75bf620ef7ef4b22424a3783,3h ago,3.0,2026-03-04T23:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$650 - $700 p.d. + Super,"We are partnering with a Melbourne-based financial services organisation undertaking a significant operational uplift program. This newly established program is focused on process optimisation, remediation and strengthening core business functions.
+90731689,Business Analyst,Morgan McKinley,https://www.seek.com.au/job/90731689?type=standard&ref=search-standalone&origin=jobCard#sol=9e3746c2da075acd4e01f920073ce6b4a0fdc5a2,6h ago,6.0,2026-03-04T22:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,$650 - $700 p.d. + Super,"We are partnering with a Melbourne-based financial services organisation undertaking a significant operational uplift program. This newly established program is focused on process optimisation, remediation and strengthening core business functions.
 
 As part of this initiative, we are seeking an experienced Business Analyst to join a newly created team and support delivery across multiple workstreams.
 
@@ -596,7 +1366,7 @@ Strong stakeholder engagement and communication skills
 This opportunity would suit a BA who enjoys working close to the business, taking ownership and contributing meaningfully within a complex operational environment.
 
 Contact Nick Largent for more information."
-90731481,"Senior Manager, Data Science (Lead Data Scientist)",Commonwealth Bank,https://www.seek.com.au/job/90731481?type=standard&ref=search-standalone&origin=jobCard#sol=38c724116d8071a95049785e8c530e69cf469e06,4h ago,4.0,2026-03-04T22:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"We look forward to welcoming a Technical Leader who will lead projects with cutting-edge AI technologies and pave the way for innovative practices that benefit not only CommBank but the banking industry as a whole.
+90731481,"Senior Manager, Data Science (Lead Data Scientist)",Commonwealth Bank,https://www.seek.com.au/job/90731481?type=standard&ref=search-standalone&origin=jobCard#sol=2072871eb95358203514e2857a5bdfff8818f0c0,6h ago,6.0,2026-03-04T22:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"We look forward to welcoming a Technical Leader who will lead projects with cutting-edge AI technologies and pave the way for innovative practices that benefit not only CommBank but the banking industry as a whole.
 
 Do work that matters:
 
@@ -644,7 +1414,7 @@ We’re interested in hearing from people who have:
 · Grounded understanding in AWS or Azure Cloud architecture and integration, demonstrating experience in deploying and managing cloud-based solutions.
 
 · Tertiary Qualification in Statistics, Mathematics, Data Science or Computer Science."
-90731364,Business Analyst,Pharmx Technologies Ltd,https://www.seek.com.au/job/90731364?type=standard&ref=search-standalone&origin=jobCard#sol=3d20cd861ef6e000aebdd70a0f5445466ecce07f,4h ago,4.0,2026-03-04T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"About us: 
+90731364,Business Analyst,Pharmx Technologies Ltd,https://www.seek.com.au/job/90731364?type=standard&ref=search-standalone&origin=jobCard#sol=c0c6363680dfcadf656e968300bbf3c7d60c3946,6h ago,6.0,2026-03-04T22:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,,"About us: 
 
 PharmX Technologies Ltd (ASX: PHX) is a leading technology provider in the pharmaceutical technology sector, revolutionising the industry with innovative Electronic Data Interchange (EDI) solutions, E-Commerce and Data solutions. 
 
@@ -683,7 +1453,7 @@ You’re a team player, who loves technology, sharing and communicating new id
  
 
 We are keen on learning on the job and are passionate about building quality products that help people in their daily lives, and we are keen on investing in developing you too."
-90731024,IDAM Business Analyst,Robert Walters,https://www.seek.com.au/job/90731024?type=standard&ref=search-standalone&origin=jobCard#sol=f4d6d52c83c0bf39d13d8389cc0513d7fa928223,4h ago,4.0,2026-03-04T22:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,$150k - $165k p.a. + + salary packaging,"As the BA - IDAM, you'll work with data, architecture, and security teams to design and deliver an enterprise-wide identity and access management solution. You'll define rules, align integrations with SAP, Azure and downstream systems, and ensure governance, compliance, and seamless access for users.
+90731024,IDAM Business Analyst,Robert Walters,https://www.seek.com.au/job/90731024?type=standard&ref=search-standalone&origin=jobCard#sol=2f48b2e657f48a0c6707c26c02ee7ffd61d53ec4,6h ago,6.0,2026-03-04T22:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,$150k - $165k p.a. + + salary packaging,"As the BA - IDAM, you'll work with data, architecture, and security teams to design and deliver an enterprise-wide identity and access management solution. You'll define rules, align integrations with SAP, Azure and downstream systems, and ensure governance, compliance, and seamless access for users.
 
 
 What you will do
@@ -714,7 +1484,7 @@ Join a leading transformation program and shape future-ready IDAM solutions in a
 Aboriginal and Torres Strait Islander Peoples are encouraged to apply.
 
 To apply please click apply or call Adelle Yen on 61 3 8628 2139 for a confidential discussion."
-90730598,Business Analyst - SAP,Adbri Pty Ltd,https://www.seek.com.au/job/90730598?type=standard&ref=search-standalone&origin=jobCard#sol=3f4b4cd7de0e2512d34297e1aae61b776eb84313,5h ago,5.0,2026-03-04T21:00:00+00:00,Adelaide SA (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"The role
+90730598,Business Analyst - SAP,Adbri Pty Ltd,https://www.seek.com.au/job/90730598?type=standard&ref=search-standalone&origin=jobCard#sol=07f9db7e052b4c33ad07a160cce03ff53fd29598,7h ago,7.0,2026-03-04T21:00:00+00:00,Adelaide SA (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"The role
 
 Are you ready to play a key role in optimising core business processes and shaping the future of Adbri’s SAP landscape? We are seeking a proactive and analytical SAP Business Analyst to support and enhance SAP functionality across Sales & Distribution (SD), Materials Management (MM), and Finance (FI).
 
@@ -761,7 +1531,7 @@ Adbri recognises that diversity in our workforce drives innovation, encourages c
 We will be progressively short listing - if this role looks like it could be your next role, apply now.
 
 #LI-POST"
-90730257,Senior Business Analyst,Entelect Australia,https://www.seek.com.au/job/90730257?type=standard&ref=search-standalone&origin=jobCard#sol=e15b2163090880c03f5e52a4903f03931ffaa92f,5h ago,5.0,2026-03-04T21:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,,"Join Entelect Australia – and become more.
+90730257,Senior Business Analyst,Entelect Australia,https://www.seek.com.au/job/90730257?type=standard&ref=search-standalone&origin=jobCard#sol=c11760271e6cbf145d883cc397b87350ce77163f,7h ago,7.0,2026-03-04T21:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,,"Join Entelect Australia – and become more.
 
 As our footprint across Australia and New Zealand continues to grow, we're looking for experienced Senior Technical Business Analysts to help establish a core delivery team for one of our key clients in the discovery phase of a major initiative. If you thrive on solving complex problems, can bridge the gap between business needs and technical delivery, and bring clarity where there's uncertainty – we want to hear from you.
 
@@ -843,7 +1613,7 @@ If this sounds like the challenge you've been looking for, apply today with your
 
 
 Please note: Only candidates with Australian or New Zealand citizenship, permanent residency, or full working rights will be considered."
-90729716,Investment Operations Analyst,CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/90729716?type=standard&ref=search-standalone&origin=jobCard#sol=78c7130ab886fe79ce3d23ccf4f3e2d5650a32b8,7h ago,7.0,2026-03-04T19:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"About us 
+90729716,Investment Operations Analyst,CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/90729716?type=standard&ref=search-standalone&origin=jobCard#sol=5420090c0fc478a8711220c2a3835f60cef0b3a6,9h ago,9.0,2026-03-04T19:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"About us 
 At CareSuper, we believe we’re Super Together. As a profit-to-member super fund with over 550,000 members and $63 billion in assets, we’re passionate about helping our members retire with confidence. We’re growing fast and looking for our next superhero to join us on this exciting journey. 
 
 About the role 
