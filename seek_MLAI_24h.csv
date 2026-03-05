@@ -1,5 +1,123 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90743774,AI Engineer,Elysium Digital,https://www.seek.com.au/job/90743774?type=standard&ref=search-standalone&origin=jobCard#sol=7ad37ca7f5db0c0448698d924389da028fec1c42,2h ago,2.0,2026-03-05T05:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,Neg,"We are seeking a highly skilled AI Engineer to design, develop, deploy, and maintain AI-driven solutions that deliver measurable business value. This role bridges data science, machine learning, and production engineering, transforming models and prototypes into scalable, secure, and reliable production systems.
+90745993,Senior DevOps Engineer - AI,Deloitte,https://www.seek.com.au/job/90745993?type=standard&ref=search-standalone&origin=jobCard#sol=fdadb81e15177f9c5e421735dfd90d79eb7d242d,2h ago,2.0,2026-03-05T06:00:00+00:00,Melbourne VIC (Hybrid),Web Development & Production (Information & Communication Technology),Full time,,"Company description:
+
+
+
+Deloitte Services Pty Ltd
+
+
+
+Job description:
+
+
+
+Senior DevOps Engineer - AI | Technology & GenAI - Productionisation & Automation | Melbourne
+
+Be at the forefront of our AI journey
+
+Choice and flexibility on where, when and how you work
+
+Learn from the best in the business 
+
+What will your typical day look like?
+
+As a Senior Systems Engineer, you'll be at the heart of Deloitte's ClearTrack Generative AI & Digital Assets platform, helping design, build and run highly secure, scalable GenAI infrastructure that powers real-world outcomes. You'll work closely with AI engineers, developers and architects to keep platforms fast, resilient and production-ready — while continuously evolving our stack to stay ahead of emerging AI technologies.
+
+In this role, you will:
+
+Design, implement and operate the central GenAI & Assets platform, built on Kubernetes
+
+Engineer reliable, secure cloud infrastructure across AWS and/or Azure
+
+Monitor performance, availability and cost, optimising systems for scale and speed
+
+Troubleshoot complex system, software and networking issues
+
+Own system security, patching, updates and resilience
+
+Drive Infrastructure as Code, CI/CD and DevSecOps best practice
+
+Ensure robust backup, disaster recovery and platform documentation
+
+Partner with IT, security and engineering teams to integrate new AI capabilities
+
+About the team
+
+The National Generative AI and Assets team sits within Deloitte's Strategy, Transformation & Innovation office — a group shaping the future of how the firm delivers value to its largest and most complex clients.
+
+We bring together Design, AI and Software Engineering to build enterprise-grade GenAI platforms and digital products that improve productivity, decision-making and business performance. Our work moves quickly from idea to production, combining cutting-edge technology with strong governance and security.
+
+If you're excited by scaling AI responsibly in enterprise environments, this is where it happens.
+
+What success looks like:
+
+High availability, low-latency GenAI platforms running in production
+Secure, compliant systems with minimal downtime
+Well-documented, automated infrastructure and deployment pipelines
+Continuous improvements to performance, reliability and developer experience
+On-time delivery of platform enhancements and upgrades
+
+Enough about us — let's talk about you
+
+You bring strong systems engineering fundamentals plus hands-on GenAI platform experience.
+
+You'll likely have:
+
+5+ years' experience as a Systems Engineer (GenAI exposure highly valued)
+
+A degree in Computer Science, Engineering, Mathematics or similar (preferred)
+
+Experience supporting platforms in mature, managed services environments
+
+Excellent communication skills and the ability to collaborate across diverse teams
+
+Technical experience we're looking for:
+
+Core engineering
+
+AWS and/or Azure cloud platforms
+
+Linux/UNIX systems administration
+
+Networking, databases, messaging and security fundamentals
+
+Infrastructure as Code (Terraform)
+
+CI/CD and DevSecOps tools (GitHub, ADO, ArgoCD)
+
+Identity and security protocols (OAuth, SAML, OpenID Connect)
+
+Generative AI & platform experience:
+
+Designing, building and operating AI chatbots and conversational AI systems
+
+Hands-on experience with LLM frameworks (LangChain, Haystack, OpenAI / Azure OpenAI)
+
+Building RAG-based solutions (document ingestion, embeddings, semantic search)
+
+Experience with agentic and automation frameworks (n8n, LangGraph, AutoGen, CrewAI)
+
+Strong understanding of AI tooling: vector databases, prompt management, model evaluation
+
+Integrating AI systems with enterprise platforms, APIs and workflows
+
+Solid software engineering skills (Python and/or JavaScript) in production environments
+
+Knowledge of AI governance, security and responsible AI in enterprise settings
+
+Why Deloitte?  
+
+At Deloitte, we focus our energy on interesting and impactful work. We're always learning, innovating and setting the standard; making a positive difference to our clients and our society. We put coaching at the heart of what we do, helping our people grow their careers in any direction - whether it be up, moving into something new, or even moving across the world.   
+We embrace diversity, equity and inclusion. We have a diverse collection of people from different backgrounds, with different experiences, gender identities, abilities and thinking styles. What binds us together is a shared commitment to value everyone's perspective and to cultivate inclusion; so that our work environment is a safe space we can all belong.  
+We support flexibility and choice. We encourage you to find the right balance between connecting in person with your clients and teams and meeting your own personal needs.
+We help you live and work well. To support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave and return to work support package.  
+
+Next Steps
+
+Apply now, we'd love to hear from you!
+
+#LI-Hybrid"
+90743774,AI Engineer,Elysium Digital,https://www.seek.com.au/job/90743774?type=standard&ref=search-standalone&origin=jobCard#sol=d44d42a3a31a61ff009d2a2436aef943e88b83c3,3h ago,3.0,2026-03-05T05:00:00+00:00,Melbourne VIC,Business/Systems Analysts (Information & Communication Technology),Full time,Neg,"We are seeking a highly skilled AI Engineer to design, develop, deploy, and maintain AI-driven solutions that deliver measurable business value. This role bridges data science, machine learning, and production engineering, transforming models and prototypes into scalable, secure, and reliable production systems.
  
 The AI Engineer will work closely with data scientists, data engineers, product teams, and business stakeholders to implement machine learning and generative AI solutions across the organisation.
  
@@ -74,7 +192,7 @@ Experience with vector databases
 Knowledge of Responsible AI frameworks.
 Experience in regulated industries (banking, finance, healthcare, mining, industrial).
 Experience working in agile product environments."
-90740309,Principal Automation Engineer,NTP Talent,https://www.seek.com.au/job/90740309?type=standard&ref=search-standalone&origin=jobCard#sol=8a8ffb3c5e78ae1b863152f137a847c65346278d,3h ago,3.0,2026-03-05T04:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,"$180,000 - $200,000","Are you an ambitious Senior Engineer ready to step up, or a seasoned Principal looking for a fresh challenge?
+90740309,Principal Automation Engineer,NTP Talent,https://www.seek.com.au/job/90740309?type=standard&ref=search-standalone&origin=jobCard#sol=efb9c2a0413fe3b2c7f93105276248f4c69723d3,5h ago,5.0,2026-03-05T03:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW (Hybrid)",Electrical/Electronic Engineering (Engineering),Full time,"$180,000 - $200,000","Are you an ambitious Senior Engineer ready to step up, or a seasoned Principal looking for a fresh challenge?
 
 This is a rare opportunity to take a high-impact technical leadership role within our growing Automation team. We are looking for a technical powerhouse who thrives on intricate details and possesses a natural instinct for both complex problem-solving and people leadership.
 
@@ -107,7 +225,7 @@ What’s next?
 
 This role is being recruited by NTP Talent. All applicants will receive a response.
 The easiest way to register your interest is to apply using the link."
-90740133,"Big Data Engineer, AI Services",Binance,https://www.seek.com.au/job/90740133?type=standard&ref=search-standalone&origin=jobCard#sol=e27d50d053b316a66f9c8fa0bd1664b1b8278edd,3h ago,3.0,2026-03-05T04:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Full time,,"Taiwan, Taipei / Asia / Thailand, Bangkok / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / South East Asia / Japan, Tokyo / South Korea, Seoul
+90740133,"Big Data Engineer, AI Services",Binance,https://www.seek.com.au/job/90740133?type=standard&ref=search-standalone&origin=jobCard#sol=1bdbcd7aa3bddd2624ab07dd467b60c4449e9389,5h ago,5.0,2026-03-05T03:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Full time,,"Taiwan, Taipei / Asia / Thailand, Bangkok / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / South East Asia / Japan, Tokyo / South Korea, Seoul
 
 Engineering – Backend /
 
@@ -160,7 +278,7 @@ By submitting a job application, you confirm that you have read and agree to our
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
 
 apply for this job"
-90739677,Integration Engineer,Compare the Market,https://www.seek.com.au/job/90739677?type=standard&ref=search-standalone&origin=jobCard#sol=b2e3cdd1e227fc6c2a97295e012f153dfc5a57f9,3h ago,3.0,2026-03-05T04:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
+90739677,Integration Engineer,Compare the Market,https://www.seek.com.au/job/90739677?type=standard&ref=search-standalone&origin=jobCard#sol=6917227420104d327880598c007b2c62ce5ff42c,5h ago,5.0,2026-03-05T03:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -232,7 +350,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-90738154,ICT Systems Engineer,Melbourne City Mission,https://www.seek.com.au/job/90738154?type=standard&ref=search-standalone&origin=jobCard#sol=14b0774fad67757e2068ce167dd9570a19ba011a,4h ago,4.0,2026-03-05T03:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"Summary
+90738154,ICT Systems Engineer,Melbourne City Mission,https://www.seek.com.au/job/90738154?type=standard&ref=search-standalone&origin=jobCard#sol=46233d51212216c433f2349e7f78d8d03b02d0b3,6h ago,6.0,2026-03-05T02:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"Summary
 
 Work within a values driven, progressive organisation
 
@@ -365,7 +483,7 @@ MCM is committed to the safety of its clients and employees, taking a zero-toler
 Our commitment to Diversity, Inclusion & Equity of Access
 
 At MCM we embrace our differences because we know that diversity helps us to innovate and make the biggest impact possible. Our DEI Strategy supports and drives an inclusive workplace culture. We embrace the learning opportunities that come with authentic commitment to equity of access for all. We particularly encourage Aboriginal and Torres Strait Islander candidates to apply."
-90738010,Database & Data Platform Engineer,Data Agility,https://www.seek.com.au/job/90738010?type=standard&ref=search-standalone&origin=jobCard#sol=12bb3944cae0e8bce444bc1a4806b057a7911b07,4h ago,4.0,2026-03-05T03:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Data Agility is a specialist data, analytics and AI firm delivering data governance, integration, migration, reporting and platform solutions across health, government and enterprise sectors.
+90738010,Database & Data Platform Engineer,Data Agility,https://www.seek.com.au/job/90738010?type=standard&ref=search-standalone&origin=jobCard#sol=f5305b3cafc48123288665fcc65ada4784f8e7ec,6h ago,6.0,2026-03-05T02:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Data Agility is a specialist data, analytics and AI firm delivering data governance, integration, migration, reporting and platform solutions across health, government and enterprise sectors.
 
 This role works across both our Managed Services team and our Product team, supporting enterprise Microsoft data platforms and ensuring performance, stability and continuous improvement across client and product environments.
 
@@ -424,7 +542,7 @@ Opportunity to contribute to platform optimisation and operational best practice
 Great team culture with experienced, supportive colleagues who collaborate closely
 
 Hybrid working environment offering flexibility and work life balance"
-90736471,Data Engineer,Toyota Finance Australia,https://www.seek.com.au/job/90736471?type=standard&ref=search-standalone&origin=jobCard#sol=783aaf6b5b30667ef7a528e3f8d94adfcd19d129,5h ago,5.0,2026-03-05T02:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"How you'll make an impact
+90736471,Data Engineer,Toyota Finance Australia,https://www.seek.com.au/job/90736471?type=standard&ref=search-standalone&origin=jobCard#sol=7b94d689a1a79643a01c32e2a0d10252db2d71a2,7h ago,7.0,2026-03-05T01:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"How you'll make an impact
 
 We're looking for a Data Engineer to join our Data Office team. In this role, you'll design, build, and maintain automated data pipelines that extract, transform, and load (ETL) data from multiple sources into our data warehouse. Your work will ensure data is clean, consistent, and accessible for analysis, enabling smarter decisions across the business.
 
@@ -474,7 +592,7 @@ We are an equal opportunity employer. We celebrate diversity and are committed t
 We are happy to adjust the recruitment process for your accessibility requirements. Please contact us and let us know your preferred type of communication and we will be in touch as soon as possible to discuss your requirements.
 
 Come with us and help create the future."
-90734658,Data Integration Engineer,Compare the Market,https://www.seek.com.au/job/90734658?type=standard&ref=search-standalone&origin=jobCard#sol=417f866c0d38385b9cd9819b3f08d7bfe1b2d78b,6h ago,6.0,2026-03-05T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
+90734658,Data Integration Engineer,Compare the Market,https://www.seek.com.au/job/90734658?type=standard&ref=search-standalone&origin=jobCard#sol=14eb4ab44eb8d15bc89dc3a32492b11e90c33163,7h ago,7.0,2026-03-05T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -546,7 +664,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-90734575,AI Engineer,Compare the Market,https://www.seek.com.au/job/90734575?type=standard&ref=search-standalone&origin=jobCard#sol=03d00b1b3daba2c0458dce7849b9a18a6c281530,6h ago,6.0,2026-03-05T01:00:00+00:00,Brisbane QLD,Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
+90734575,AI Engineer,Compare the Market,https://www.seek.com.au/job/90734575?type=standard&ref=search-standalone&origin=jobCard#sol=9996867c801e169080beb0e6b5ce7d2db7ff59a1,7h ago,7.0,2026-03-05T01:00:00+00:00,Brisbane QLD,Developers/Programmers (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -625,7 +743,7 @@ This role is available to candidates with unlimited Australian working rights on
  
 
 Compare the Market and iSelect are committed to protecting your privacy. All applications and personal information are kept confidential and securely stored in line with Australian privacy laws, used only for recruitment purposes, and not shared with third parties outside the Auto and General Holdings Group without your consent."
-90734125,Senior Infrastructure Engineer,Chandler Macleod,https://www.seek.com.au/job/90734125?type=standard&ref=search-standalone&origin=jobCard#sol=305df54e8d855ad77d47065b7fc746752fe0ac6c,6h ago,6.0,2026-03-05T01:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Engineering - Hardware (Information & Communication Technology),Contract/Temp,competitive market rates on offer,"Our client AGL is seeking an experienced Senior Infrastructure / Systems Engineer to join a high-performing Operational Technology (OT) team supporting critical energy assets across Australia.This role plays a key part in integrating new and emerging technologies—including new datacentres, energy assets, network and server platforms, and storage systems—into existing OT environments. You’ll ensure seamless integration into BAU operations, strengthen OT infrastructure, and help uplift engineering capability across the team. This is a hands-on senior technical role suitable for someone who enjoys solving complex integration challenges, working across wide-ranging technologies, and blending new tech with older, legacy systems. This is a 12 month contract role based in Melbourne CBD in a hybrid working environment.
+90734125,Senior Infrastructure Engineer,Chandler Macleod,https://www.seek.com.au/job/90734125?type=standard&ref=search-standalone&origin=jobCard#sol=52c968985a05c11bda99fb30729cd61078d245e0,8h ago,8.0,2026-03-05T00:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Engineering - Hardware (Information & Communication Technology),Contract/Temp,competitive market rates on offer,"Our client AGL is seeking an experienced Senior Infrastructure / Systems Engineer to join a high-performing Operational Technology (OT) team supporting critical energy assets across Australia.This role plays a key part in integrating new and emerging technologies—including new datacentres, energy assets, network and server platforms, and storage systems—into existing OT environments. You’ll ensure seamless integration into BAU operations, strengthen OT infrastructure, and help uplift engineering capability across the team. This is a hands-on senior technical role suitable for someone who enjoys solving complex integration challenges, working across wide-ranging technologies, and blending new tech with older, legacy systems. This is a 12 month contract role based in Melbourne CBD in a hybrid working environment.
  
 What You’ll Be Doing
 
@@ -670,7 +788,7 @@ Please click APPLY NOW to submit your application.
 At Chandler Macleod, we are committed to fostering a diverse workforce where everyone is welcome. We encourage applications from Aboriginal and Torres Strait Islander peoples, women, neurodiverse, people living with a disability and the LGBTIQA+ community.
 
 You can read more about our commitment to diversity and inclusion at https://www.chandlermacleod.com/diversity-and-inclusion."
-90732895,Data Engineer - Oracle PL/SQL,Kinetic,https://www.seek.com.au/job/90732895?type=standard&ref=search-standalone&origin=jobCard#sol=b07686ddd424bf866c75106c429d0937367309ad,7h ago,7.0,2026-03-05T00:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Contract/Temp,,"The role
+90732895,Data Engineer - Oracle PL/SQL,Kinetic,https://www.seek.com.au/job/90732895?type=standard&ref=search-standalone&origin=jobCard#sol=eb3e61be0da3a01e512410417218a96280bca23d,8h ago,8.0,2026-03-05T00:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Contract/Temp,,"The role
 
 Are you passionate about data integrity and seamless system transitions? In this role, you’ll play a critical part in migrating data into Oracle Fusion ERP, ensuring accuracy, security, and performance every step of the way. You’ll work with cutting-edge tools like Oracle PL/SQL, Oracle Autonomous Database, and FBDI templates to extract, transform, and load data efficiently.
 
@@ -699,7 +817,7 @@ At Kinetic, we’re committed to improving the livelihoods of the communities we
 A collaborative and supportive team environment.
 Opportunities to work on cutting-edge Oracle Cloud ERP projects.
 A culture that prioritises safety, wellbeing, and continuous improvement."
-90732059,Data Engineer,Kinetic,https://www.seek.com.au/job/90732059?type=standard&ref=search-standalone&origin=jobCard#sol=63f6125eb16c2cc4250525d08b1ca2dfeb9d1dd0,7h ago,7.0,2026-03-05T00:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Contract/Temp,,"Join Kinetic’s Digital Transformation Journey!
+90732059,Data Engineer,Kinetic,https://www.seek.com.au/job/90732059?type=standard&ref=search-standalone&origin=jobCard#sol=9e6cf5422768b21124a226ad737d51d7c1725476,9h ago,9.0,2026-03-04T23:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Contract/Temp,,"Join Kinetic’s Digital Transformation Journey!
 The role:
 
 At Kinetic, we’re on a mission to improve the livelihoods of the communities in which we live and operate. We move people, enhance communities, and strive to be an employer of choice.
@@ -731,7 +849,7 @@ Enjoy a culture that prioritises health, safety, and wellbeing.
 
 
 Ready to make an impact? Apply now and help us deliver accurate, timely, and high-quality data migration that powers Kinetic’s future."
-90731481,"Senior Manager, Data Science (Lead Data Scientist)",Commonwealth Bank,https://www.seek.com.au/job/90731481?type=standard&ref=search-standalone&origin=jobCard#sol=b1beb8937a23d4abfff385e728b6eb5b8424fc5e,8h ago,8.0,2026-03-04T23:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"We look forward to welcoming a Technical Leader who will lead projects with cutting-edge AI technologies and pave the way for innovative practices that benefit not only CommBank but the banking industry as a whole.
+90731481,"Senior Manager, Data Science (Lead Data Scientist)",Commonwealth Bank,https://www.seek.com.au/job/90731481?type=standard&ref=search-standalone&origin=jobCard#sol=8323f28608282e289aa9844a27f85a86893fcd61,10h ago,10.0,2026-03-04T22:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"We look forward to welcoming a Technical Leader who will lead projects with cutting-edge AI technologies and pave the way for innovative practices that benefit not only CommBank but the banking industry as a whole.
 
 Do work that matters:
 
@@ -779,7 +897,7 @@ We’re interested in hearing from people who have:
 · Grounded understanding in AWS or Azure Cloud architecture and integration, demonstrating experience in deploying and managing cloud-based solutions.
 
 · Tertiary Qualification in Statistics, Mathematics, Data Science or Computer Science."
-90731140,Cloud Data Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/90731140?type=standard&ref=search-standalone&origin=jobCard#sol=e23117681423f92333ec9cf94a3b9e058c8c26b1,8h ago,8.0,2026-03-04T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,fix-term salary or day rate option,"Cloud Data Engineer with a leading Banking client (consulting through FinXL)
+90731140,Cloud Data Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/90731140?type=standard&ref=search-standalone&origin=jobCard#sol=57e310e7f2c96e0655c99e604c071df5d8b024e7,10h ago,10.0,2026-03-04T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,fix-term salary or day rate option,"Cloud Data Engineer with a leading Banking client (consulting through FinXL)
 
 FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
 
@@ -813,7 +931,7 @@ Hybrid working model with 3 days/ week in the office in Sydney CBD.
 Next Steps
 
 Apply now highlighting relevant skills and experience and address your application to Julia Leung. Due to the high volume of applications only shortlisted candidates can be contacted."
-90729579,TECHNO FUNCTIONAL CONSULTANT,Wipro Limited,https://www.seek.com.au/job/90729579?type=standard&ref=search-standalone&origin=jobCard#sol=387014311e38d698d5329d53664702ff2c8eb360,12h ago,12.0,2026-03-04T19:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"Job Title:  TECHNO FUNCTIONAL CONSULTANT
+90729579,TECHNO FUNCTIONAL CONSULTANT,Wipro Limited,https://www.seek.com.au/job/90729579?type=standard&ref=search-standalone&origin=jobCard#sol=e55553229387ebe771acedc7cb9c7df139d4fcf1,14h ago,14.0,2026-03-04T18:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"Job Title:  TECHNO FUNCTIONAL CONSULTANT
 
 City:  Sydney
 
@@ -843,7 +961,7 @@ Support on-site manager with the necessary details wrt any change and off-site s
 Mandatory Skills: Adobe AEM . Experience: >10 YEARS . Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.
 
 Apply now"
-90728405,Mid Level Software Engineer - Ai Native Fintech,Lendi Group,https://www.seek.com.au/job/90728405?type=standard&ref=search-standalone&origin=jobCard#sol=0fe864a9fee055780e360401dbcde2965a5f876d,15h ago,15.0,2026-03-04T16:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+90728405,Mid Level Software Engineer - Ai Native Fintech,Lendi Group,https://www.seek.com.au/job/90728405?type=standard&ref=search-standalone&origin=jobCard#sol=a8c4f2d67da789e1102c8bb65a245e0cd3fa6653,17h ago,17.0,2026-03-04T15:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
@@ -946,7 +1064,7 @@ This is an opportunity to shape the future of a fast-growing, purpose-driven com
 Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
 
 #lendigroup #LI-AMH1 #LI-hybrid"
-90728401,Security Engineer,Lendi Group,https://www.seek.com.au/job/90728401?type=standard&ref=search-standalone&origin=jobCard#sol=1d721a1eb8a56dc44192ecebaa4fa88a5f8de5cb,15h ago,15.0,2026-03-04T16:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Company Description
+90728401,Security Engineer,Lendi Group,https://www.seek.com.au/job/90728401?type=standard&ref=search-standalone&origin=jobCard#sol=8cebf738e33adc742f326791f24a58fd15523e0b,17h ago,17.0,2026-03-04T15:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
