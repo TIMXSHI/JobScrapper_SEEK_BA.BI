@@ -1,5 +1,54 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90771501,Lead Machine learning (ML) Engineer,Ticketek Entertainment Group,https://www.seek.com.au/job/90771501?type=standard&ref=search-standalone&origin=jobCard#sol=b4e1f33abfbf8f734e9497f27082022c4a41e6a5,1h ago,1.0,2026-03-06T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Ticketek Entertainment Group​
+90774161,AWS Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90774161?type=standard&ref=search-standalone&origin=jobCard#sol=74142d16cc75a67b620dcb68ffae5c92cc5a31e1,1h ago,1.0,2026-03-06T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"What's in it for you:
+
+Join a mission driven investment management firm
+Grow within a company that invests in YOU
+Melbourne CBD + Working from home options
+
+The Role:
+
+We are seeking an AWS Data Engineer to deliver marketing technology capabilities for Advisors. You will collaborate with technical leads, architects, and senior stakeholders across business, technology, and global MarTech teams to drive platform delivery and road map outcomes. In this role, you will design and maintain data pipelines across CRM (Microsoft Dynamics), Marketo, Kaltura, and Adobe Experience Platform (AEP/CDP). You will ensure accurate identity resolution, audience segmentation, and data activation to support personalised marketing journeys.
+
+Key Responsibilities:
+
+Data Pipeline Engineering
+Design and optimise ingestion pipelines (batch and streaming) from CRM, Marketo, and Kaltura into CDP using AWS Lambda, S3.
+Enable flows to downstream platforms (SFMC, AJO, Marketo, Adobe Target).
+Data Modelling
+Develop and maintain logical and physical data models to support CDP ingestion and identity resolution.
+Ensure schema alignment across CRM, Marketo, event platforms, and CDP.
+Leveraging AI Data tools to enhance data led decisions.
+Adobe CDP Support & Optimisation
+Maintain and enhance Adobe Real-Time CDP schemas, datasets, and identity stitching.
+Manage governance labels and compliance standards.
+Cross-Platform Enablement
+Collaborate with marketing teams to activate audiences across channels.
+Configure real-time triggers and penalisation workflows.
+Monitoring & Quality Assurance
+Implement data quality checks, troubleshoot ingestion issues, and ensure schema alignment.
+Security & Compliance
+Champion a security-first approach and ensure GDPR/CCPA compliance.
+
+Key Competencies:
+
+Experience with Adobe Experience Platform (AEP/CDP) and MarTech ecosystems - AJO/Marketo/SFMC.
+Proficiency in AWS services (Lambda, S3) and API integrations.
+Familiarity with CRM systems integration, Marketo, and Kaltura event platform APIs for data extraction and synchronisation.
+Strong data modeling skills for designing schemas, mapping attributes, and ensuring compatibility with CDP ingestion and identity stitching.
+Diagnosing and resolving intricate problems across APIs, data flows, and platform integrations.
+AWS and Adobe certifications (AEP/RTCDP) highly desirable.
+Ability to apply AI-driven tools and approaches for automation, penalisation, and data-driven decision-making.
+Understanding System Architecture for Scalability and designing resilient solutions that maintain performance under load and ensure high availability.
+Strong problem-solving and analytical skills.
+
+What's in it for you:
+
+Join a mission-driven investment management firm
+Grow within a company that invests in YOU
+Melbourne CBD + Working from home options
+
+Apply today for a confidential chat."
+90771501,Lead Machine learning (ML) Engineer,Ticketek Entertainment Group,https://www.seek.com.au/job/90771501?type=standard&ref=search-standalone&origin=jobCard#sol=4af9755d1201b84e21c7654bfa104c8d76dcb830,2h ago,2.0,2026-03-06T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Ticketek Entertainment Group​
 
 Ticketek Entertainment Group is a global fan experience Company that tickets, promotes and delivers incredible live experiences that are impossible to forget.  In a distracted world where nothing beats real human moments, We make life better live!
 
@@ -68,7 +117,7 @@ TEG is an equal opportunity employer committed to embrace diversity, respect, an
 If there are any adjustments that need to be made to ensure you have a fair and equitable experience in our recruitment process, please advise us when scheduling your interview. 
 
 *Only direct applications will be considered. No recruiters please*"
-90771578,Senior Data Engineer (12 month contract) - WildRift Data,Riot Games Pty Ltd,https://www.seek.com.au/job/90771578?type=standard&ref=search-standalone&origin=jobCard#sol=a8b7999e1ebe69feadfa2846514702bfbb6030cb,1h ago,1.0,2026-03-06T04:00:00+00:00,Sydney NSW,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Riot's Data Engineers build products that improve the experience of our players worldwide using petabytes of data and state-of-the-art processing technology. Maximizing the potential of this data is a complex task. 
+90771578,Senior Data Engineer (12 month contract) - WildRift Data,Riot Games Pty Ltd,https://www.seek.com.au/job/90771578?type=standard&ref=search-standalone&origin=jobCard#sol=618a941d7255ef7abe6c319721469d3495145169,2h ago,2.0,2026-03-06T05:00:00+00:00,Sydney NSW,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Riot's Data Engineers build products that improve the experience of our players worldwide using petabytes of data and state-of-the-art processing technology. Maximizing the potential of this data is a complex task. 
 
 As a Senior Data Engineer (Contract) joining the Sydney-based team, you will lead the modernization and uplift of our data platform to improve reliability, governance, and scalability. You will drive architectural refactoring across our lakehouse environment, consolidate and standardize data models, and enforce a clear Bronze/Silver/Gold medallion hierarchy. You will implement robust data quality and observability frameworks for business-critical datasets, operationalize data ownership and tiering standards, and elevate metadata completeness and lineage transparency across our data catalog and warehouse ecosystem. Working closely with cross-functional stakeholders, you will help transform the data environment into a trusted, production-grade platform that supports operational decision-making, executive reporting, and advanced analytics. 
 
@@ -102,7 +151,7 @@ Experience improving metadata automation or lineage tooling.
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
 
 Riot Games fosters a player and workplace experience that values teamwork embodied by the Summoner's Code and Community Code. Our culture embraces differences as a strength, and our values are the guiding principles for how we approach work. We are committed to putting diversity and inclusion (D&I) at the center of everything we do, and promoting a fair and collaborative culture where Rioters treat one another with dignity and respect. We encourage you to read more about our value of thriving together and our ongoing work to build the most inclusive company in Gaming."
-90770281,AI Engineer,TheDriveGroup,https://www.seek.com.au/job/90770281?type=standard&ref=search-standalone&origin=jobCard#sol=dc6aed9de1ee7d72043247fa56a01ee0f7e044e1,1h ago,1.0,2026-03-06T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are working with a large enterprise organisation undertaking a major initiative to implement AI-enabled systems and intelligent automation across the business. They operate within a Microsoft-first technology environment and are looking for an experienced AI Engineer to help design and deliver scalable AI solutions.
+90770281,AI Engineer,TheDriveGroup,https://www.seek.com.au/job/90770281?type=standard&ref=search-standalone&origin=jobCard#sol=20a189d31adb54c90a2a51a0e97d03306c84193b,2h ago,2.0,2026-03-06T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are working with a large enterprise organisation undertaking a major initiative to implement AI-enabled systems and intelligent automation across the business. They operate within a Microsoft-first technology environment and are looking for an experienced AI Engineer to help design and deliver scalable AI solutions.
 
 This role is suited to someone who enjoys building practical AI systems that solve real operational problems, rather than simply consuming APIs. You will contribute to the development of agent-based and workflow-driven automation, integrating AI capabilities with enterprise platforms and business processes.
 
@@ -142,7 +191,7 @@ TheDriveGroup is 100% committed to improving meaningful diversity in the technol
 We partner with clients who embrace diversity and seek candidates across all backgrounds, abilities, genders, sexualities, cultures, and faiths.
 
 If you have the right skills and attitude we would love to hear from you!"
-90769557,Enterprise Data Architect,V/Line Corporation,https://www.seek.com.au/job/90769557?type=standard&ref=search-standalone&origin=jobCard#sol=27c97e1ba2236165f76c39a23444f2e0b9f56b9b,2h ago,2.0,2026-03-06T03:00:00+00:00,Melbourne VIC (Hybrid),"Architects (Information & Communication Technology)
+90769557,Enterprise Data Architect,V/Line Corporation,https://www.seek.com.au/job/90769557?type=standard&ref=search-standalone&origin=jobCard#sol=b2b1660fdea45d76d971704b708cedd4cdd58dc0,3h ago,3.0,2026-03-06T04:00:00+00:00,Melbourne VIC (Hybrid),"Architects (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,,"Enterprise Data Architect
 
 
@@ -254,7 +303,7 @@ V/Line are proud to be a part of the Department of Transport & Planning's Yani 
 
 
 At V/Line, safety is our priority. Successful applicants will undergo relevant pre-employment and medical checks to meet our safeworking standards."
-90769328,Information Architect,Talenza,https://www.seek.com.au/job/90769328?type=standard&ref=search-standalone&origin=jobCard#sol=19150369dcbe5926fc312f62a3a5733d6165fee4,2h ago,2.0,2026-03-06T03:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Contract/Temp,$1k - $1175 (incl. super) + GST,"Talenza have been engaged by an Australian clean energy company to find an Information Architect to work across a data uplift program of work. The successful candidate will be an experienced data/information architect who has worked with modern microsoft data technologies.
+90769328,Information Architect,Talenza,https://www.seek.com.au/job/90769328?type=standard&ref=search-standalone&origin=jobCard#sol=6e67086ce50579585d047821d4d2bd1b02224210,3h ago,3.0,2026-03-06T04:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Contract/Temp,$1k - $1175 (incl. super) + GST,"Talenza have been engaged by an Australian clean energy company to find an Information Architect to work across a data uplift program of work. The successful candidate will be an experienced data/information architect who has worked with modern microsoft data technologies.
 
 This role requires 3 days per week in the Brisbane office and is only open to candidates currently based in Brisbane with full working rights.
 
@@ -289,7 +338,7 @@ Experience working with DevOps and modern delivery practices, including code con
 
 
 Thank you for your interest, at Talenza we are passionate about providing equal employment opportunities and embracing diversity. We encourage people with disabilities and those from diverse backgrounds to apply. However, please note that we are only able to proceed with those who have full rights to work in Australia. Please apply directly or for a quicker response, contact Lewis Babcock (Talenza) through LinkedIn."
-90769181,Senior Data Engineer,V/Line Corporation,https://www.seek.com.au/job/90769181?type=standard&ref=search-standalone&origin=jobCard#sol=34a1ee4fe1ab3a70de181d7b3ad71fb97b8eb114,2h ago,2.0,2026-03-06T03:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
+90769181,Senior Data Engineer,V/Line Corporation,https://www.seek.com.au/job/90769181?type=standard&ref=search-standalone&origin=jobCard#sol=40de67813047b62a73d1d62f1ad0d0d2d5efe537,3h ago,3.0,2026-03-06T04:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,,"Senior Data Engineer
 
 
@@ -398,7 +447,7 @@ V/Line are proud to be a part of the Department of Transport & Planning's Yani 
 
 
 At V/Line, safety is our priority. Successful applicants will undergo relevant pre-employment and medical checks to meet our safeworking standards."
-90769068,ILS Engineer,Kinexus,https://www.seek.com.au/job/90769068?type=standard&ref=search-standalone&origin=jobCard#sol=86b993f11b815706f9cff072257b720393a09c6e,2h ago,2.0,2026-03-06T03:00:00+00:00,Sydney NSW,Systems Engineering (Engineering),Contract/Temp,$1k - $1200 p.d.,"ILS Engineer
+90769068,ILS Engineer,Kinexus,https://www.seek.com.au/job/90769068?type=standard&ref=search-standalone&origin=jobCard#sol=6046916482815f50134257a9e5f8f29e18815934,3h ago,3.0,2026-03-06T04:00:00+00:00,Sydney NSW,Systems Engineering (Engineering),Contract/Temp,$1k - $1200 p.d.,"ILS Engineer
 
 * Logistic Support Analysis including Failure Mode, Effects and Criticality Analysis (FMECA), Level of Repair Analysis (LoRA) and Reliability Centred Maintenance (RCM).
 * Update or develop Preventive Maintenance Documents (PMDs) and Technical Maintenance Plans (TMPs) as required.
@@ -425,7 +474,7 @@ All applications should include your resume as a word document.
 For more information, visit our website, www.kinexus.com.au or contact Tom Butters on 02 9492 7545.
 
 #LI-TB #SCR-tom-butters"
-90767688,AI Support Engineer (Level 1 - 2 Support),TRS - Public Sector,https://www.seek.com.au/job/90767688?type=standard&ref=search-standalone&origin=jobCard#sol=48131fb89f6ad693897118efd19c8b7609b22564,2h ago,2.0,2026-03-06T03:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Contract/Temp,$900 - $1000,"AI Support Engineer (Level 1 - 2 Support)
+90767688,AI Support Engineer (Level 1 - 2 Support),TRS - Public Sector,https://www.seek.com.au/job/90767688?type=standard&ref=search-standalone&origin=jobCard#sol=3e952f3dfc228809364b4ce8506ab455a476a023,3h ago,3.0,2026-03-06T04:00:00+00:00,Sydney NSW (Hybrid),Help Desk & IT Support (Information & Communication Technology),Contract/Temp,$900 - $1000,"AI Support Engineer (Level 1 - 2 Support)
 Pay rate: $800 - $900 per day + Super
 Contract until: 30/06/2026 with possible extensions
 Hybrid split between office and WFH
@@ -451,7 +500,7 @@ Ability to triage and manage support tickets effectively.
 Experience communicating with technical and non-technical stakeholders.
 Basic to intermediate Python coding skills, not essential but nice to have.
 If you feel you are a good fit for this role, please apply by 10/03/2026 with your most up to date resume."
-90766935,Data Engineer,Chemist Warehouse,https://www.seek.com.au/job/90766935?type=standard&ref=search-standalone&origin=jobCard#sol=9116f5d5acaa78edea0278fa63a8b05fc952e8f9,3h ago,3.0,2026-03-06T02:00:00+00:00,"Preston, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About us
+90766935,Data Engineer,Chemist Warehouse,https://www.seek.com.au/job/90766935?type=standard&ref=search-standalone&origin=jobCard#sol=de5c8163033ff21033b1a74f254e44fba9fbff7c,4h ago,4.0,2026-03-06T03:00:00+00:00,"Preston, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About us
 
 Sigma Healthcare is powering pharmacy! We have the largest pharmacy network in Australia with trusted brands including Chemist Warehouse, Amcal, Discount Drug Stores and Ultra Beauty! We are powered by our dedicated people and our leading Australian full line pharmacy wholesale and distribution business that delivers medicines to any pharmacy anywhere in Australia. With Chemist Warehouse now operating in four countries outside Australia, we continue to expand our reach.
 
@@ -520,7 +569,7 @@ Enjoy great employee benefits and access to health & wellbeing programs
 Free annual flu vaccinations
 
 Staff discounts on all brands"
-90766111,EOI - AI Implementation Engineer (Start in FY2027),Temple & Webster Group,https://www.seek.com.au/job/90766111?type=standard&ref=search-standalone&origin=jobCard#sol=85f5285fcfecc65275f8fb71868aad3d390f8b10,3h ago,3.0,2026-03-06T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Commencing New Financial Year (June/July 2026)
+90766111,EOI - AI Implementation Engineer (Start in FY2027),Temple & Webster Group,https://www.seek.com.au/job/90766111?type=standard&ref=search-standalone&origin=jobCard#sol=214ced0e9bc66c96657af4567ab6bee464b6bf43,4h ago,4.0,2026-03-06T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Commencing New Financial Year (June/July 2026)
 
 Ready to turn GenAI ideas into real-world impact? Temple & Webster is where design meets technology. As Australia’s number one online retailer for furniture and homewares, we are constantly reimagining how customers discover, shop, and connect online.
 
@@ -555,7 +604,7 @@ Real Ownership: A tight-knit team where your code directly influences how Austra
 The Perks: Beautiful St Peters office, Thursday happy hours, and catered lunches three days a week.
 Balance: Hybrid working, daily mindfulness sessions, paid birthday leave, and staff discounts.
 How to Apply Submit your CV along with your 30-60 second video clip via the link below. We are looking for candidates who can explain complex AI concepts with clarity and enthusiasm."
-90763909,AI Specialist,Benmax,https://www.seek.com.au/job/90763909?type=standard&ref=search-standalone&origin=jobCard#sol=82c8f793c16d05588c3ea5ff0386c30475c93ba3,4h ago,4.0,2026-03-06T01:00:00+00:00,Canberra ACT,Strategy & Planning (Consulting & Strategy),Full time,$120k-$130k (depending on experience) + super,"Ready to build the future? 
+90763909,AI Specialist,Benmax,https://www.seek.com.au/job/90763909?type=standard&ref=search-standalone&origin=jobCard#sol=da32c43587e8e2d48550ff3c4cabcd8c7989d99e,5h ago,5.0,2026-03-06T02:00:00+00:00,Canberra ACT,Strategy & Planning (Consulting & Strategy),Full time,$120k-$130k (depending on experience) + super,"Ready to build the future? 
 
 Imagine joining the team helping to shape the backbone of Australia’s AI revolution. For more than 40 years, Benmax has been trusted to deliver exceptional mechanical services, and today we’re contributing to some of the most ambitious, future‑focused projects in the country. This is an opportunity to be part of something significant while advancing your career in a rapidly evolving field. 
 
@@ -611,7 +660,7 @@ A one-page Cover Letter outlining your suitability
 A current Resume/CV with your details, qualifications, and experience
 
 Please note: Applicants must have permanent rights to work in Australia (we cannot offer sponsorship)"
-90762631,Analytics Engineer &#8211; Asset Analysis & Modelling,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90762631?type=standard&ref=search-standalone&origin=jobCard#sol=cef8aeb9913222efb5065dc04b4104892a82e836,4h ago,4.0,2026-03-06T01:00:00+00:00,Perth WA (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$90 - $120 p.h. + + Super,"Job Summary / Overview
+90762631,Analytics Engineer &#8211; Asset Analysis & Modelling,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90762631?type=standard&ref=search-standalone&origin=jobCard#sol=ac36536ef0964fbdf23bd5cc095997831d9c7abe,6h ago,6.0,2026-03-06T01:00:00+00:00,Perth WA (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$90 - $120 p.h. + + Super,"Job Summary / Overview
 
 An experienced Analytics Engineer is required to support asset analysis and modelling through the development of structured data models and reporting solutions. The role focuses on transforming complex SAP PM and CMMS maintenance datasets into reliable analytical outputs that support planners reliability engineers and maintenance stakeholders. This position collaborates closely with developers and operational teams to deliver scalable data solutions and reporting insights.
 
@@ -648,7 +697,7 @@ Apply Now
 Alternatively, for a confidential conversation, contact Kelly Williams on 0409 005 286
 
 For over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
-90762251,Junior DSP / Edge AI Engineer,IND Technology Pty Ltd,https://www.seek.com.au/job/90762251?type=standard&ref=search-standalone&origin=jobCard#sol=fb02cf41975d408c8635bbe6525b45d7b3cc4f4e,5h ago,5.0,2026-03-06T00:00:00+00:00,"Richmond, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Full time,"$80,000 – $100,000 per year","We are looking for a Junior DSP/Edge‑AI Engineer with a strong foundation in digital signal processing and an interest in machine learning and embedded systems.
+90762251,Junior DSP / Edge AI Engineer,IND Technology Pty Ltd,https://www.seek.com.au/job/90762251?type=standard&ref=search-standalone&origin=jobCard#sol=55b0d04171ab3b75b597537940c536bc34ddfa13,6h ago,6.0,2026-03-06T01:00:00+00:00,"Richmond, Melbourne VIC",Electrical/Electronic Engineering (Engineering),Full time,"$80,000 – $100,000 per year","We are looking for a Junior DSP/Edge‑AI Engineer with a strong foundation in digital signal processing and an interest in machine learning and embedded systems.
 
 You will work on an end‑to‑end edge AI pipeline:
 
@@ -749,7 +798,7 @@ Strong analytical & debugging ability
 Effective in small R&D teams
 
 Willing to adopt new tools (FPGA, ML frameworks, embedded platforms)"
-90761146,Senior AI Platform Engineer,sportsbet.com.au,https://www.seek.com.au/job/90761146?type=standard&ref=search-standalone&origin=jobCard#sol=4ebaec003788a1cbda7e38a76a76e5511dc9b327,6h ago,6.0,2026-03-05T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Role Title: Senior AI Platform Engineer
+90761146,Senior AI Platform Engineer,sportsbet.com.au,https://www.seek.com.au/job/90761146?type=standard&ref=search-standalone&origin=jobCard#sol=50d12e5515822624cc818004454360d8aa4cbbcf,7h ago,7.0,2026-03-06T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Role Title: Senior AI Platform Engineer
 
 Be part of one of the most innovative companies in Australia with industry leading technology
 A place to truly be yourself and thrive in your career from the beginning
@@ -815,7 +864,7 @@ We’re an inclusive employer who welcomes you for who you are, as you are – 
 If you think you’d be a great fit but don’t necessarily meet everything in the job description, please still get in touch.
 
 Ready to bring excitement to life? Apply now"
-90761058,Data & AI Practice Manager,Comunet,https://www.seek.com.au/job/90761058?type=standard&ref=search-standalone&origin=jobCard#sol=482c4cfd7376495b1c48b21290b125ecf649f30a,6h ago,6.0,2026-03-05T23:00:00+00:00,Adelaide SA (Hybrid),Management (Information & Communication Technology),Full time,,"About the role:
+90761058,Data & AI Practice Manager,Comunet,https://www.seek.com.au/job/90761058?type=standard&ref=search-standalone&origin=jobCard#sol=3639cbe63d1f07d957c1ce6ff5e187937bb1418f,7h ago,7.0,2026-03-06T00:00:00+00:00,Adelaide SA (Hybrid),Management (Information & Communication Technology),Full time,,"About the role:
 
 As a Data & AI Practice Manager, you provide oversight and mentoring across a multidisciplinary team spanning data engineering, analytics/BI, platform operations, and AI/ML engineering. You will collaborate with other Practice Managers and technical specialists to create consistency in client management, delivery approach, and resource allocation for projects and operational needs. This is a directly chargeable and team leadership role, accountable for client engagement and business development, scoping, solution design, and successful delivery of data platform and AI initiatives.
 
@@ -942,7 +991,7 @@ We'd love a cover letter with your CV, and as this is active ongoing recruitment
 By submitting an application to Comunet, you acknowledge that we will undertake workforce screening activities including, but not limited to: Reference checks, National Crime and Right to Work Checks and Identity and certification verification.
 
 Only candidates that are short listed will be contacted."
-90760427,Senior Integration and Data Engineer,Robert Walters,https://www.seek.com.au/job/90760427?type=standard&ref=search-standalone&origin=jobCard#sol=f81ab24f793e0ddc88cb1a8d602c09b02ca4361d,6h ago,6.0,2026-03-05T23:00:00+00:00,Sydney NSW (Hybrid),Government - State (Government & Defence),Full time,"$146,765 p.a. + 14.5% Super","$146,765 p/a + 14.5% Super
+90760427,Senior Integration and Data Engineer,Robert Walters,https://www.seek.com.au/job/90760427?type=standard&ref=search-standalone&origin=jobCard#sol=83e77c36dacadf39c377b8e5a4429b5cf98aa4e7,7h ago,7.0,2026-03-06T00:00:00+00:00,Sydney NSW (Hybrid),Government - State (Government & Defence),Full time,"$146,765 p.a. + 14.5% Super","$146,765 p/a + 14.5% Super
 Full Time, Continuing
 Sydney, CBD/WFH Flexibility
 
@@ -976,7 +1025,7 @@ Friendly and collaborative working environment
 Aboriginal and Torres Strait Islander Peoples are encouraged to apply.
 
 To apply, please click ""Apply"" or contact Scott Kyle on +61 2 8289 3155 or scott.kyle@robertwalters.com.au for a confidential discussion."
-90755582,AI Engineer,Horizon Digital,https://www.seek.com.au/job/90755582?type=standard&ref=search-standalone&origin=jobCard#sol=a7dc9ea2cc144bb4d67f213dd191cc2de0fed4b7,16h ago,16.0,2026-03-05T13:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We help large organisations solve operational problems through the intelligent use of AI and technology. Our engineers don't just build, they understand the business problem first, then build the right thing.
+90755582,AI Engineer,Horizon Digital,https://www.seek.com.au/job/90755582?type=standard&ref=search-standalone&origin=jobCard#sol=52b64c87ecb348f2386a8f65ad283fa321ac938b,17h ago,17.0,2026-03-05T14:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We help large organisations solve operational problems through the intelligent use of AI and technology. Our engineers don't just build, they understand the business problem first, then build the right thing.
 
 We're growing our engineering team and looking for multiple AI Engineers across mid and senior levels.
 
