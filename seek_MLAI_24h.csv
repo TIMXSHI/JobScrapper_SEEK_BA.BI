@@ -1,5 +1,184 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90797824,Machine Learning Engineering Manager,icare,https://www.seek.com.au/job/90797824?type=standard&ref=search-standalone&origin=jobCard#sol=4a04c5b4ca7b44adaf2f7db73f2adc9a62886c5c,1h ago,1.0,2026-03-08T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Hardware (Information & Communication Technology),Full time,,"About the Role
+90642346,Data Engineer,Earth AI,https://www.seek.com.au/job/90642346?type=standard&ref=search-standalone&origin=jobCard#sol=c8946f2792c1b48b1260c979b2bd0b1b02de0584,1h ago,1.0,2026-03-09T01:00:00+00:00,"Alexandria, Sydney NSW",Developers/Programmers (Information & Communication Technology),Full time,"$130,000 – $160,000 per year","EARTH AI is a fast-growing tech startup transforming the way critical metals are discovered. Founded in 2016 in Sydney, we are on a mission to secure the future of technology and infrastructure by responsibly sourcing the metals essential for global advancement. Using cutting-edge technology, we identify and develop new metal deposits with unmatched efficiency and sustainability. Our vision is to lead the industry by discovering and owning the majority of future metal deposits while becoming the most advanced, efficient, and responsible metal commodity company in the world.
+
+About the Role
+
+Earth AI is seeking an early to mid-career Data Engineer to join our AI & Geoscience team. This role is focused on building, operating, and scaling production-grade data systems that power Earth AI’s machine learning and analytics platforms. You will engineer data pipelines that transform raw, heterogeneous geoscience data, including geochemistry, geophysics, multispectral imagery, and drilling datasets into AI-ready, reproducible datasets. Working closely with our Senior AI Researcher and geologists, you will help translate complex field and historical data into robust schemas and reliable data products used in modelling and decision-making.
+
+Key responsibilities:
+
+Engineer and maintain end-to-end data pipelines for ingestion, standardisation, and quality assurance of geoscience datasets;
+
+Build transformation and feature-engineering workflows that support analytics and machine learning use cases;
+
+Design and deploy scalable, production-quality ETL systems using Python and SQL;
+
+Develop reproducible datasets, schemas, and metadata standards suitable for AI training and inference;
+
+Operate data pipelines across local high-performance compute environments and cloud infrastructure;
+
+Apply best practices for geospatial data engineering, including CRS management, spatial joins, and large-scale performance optimisation;
+
+Work closely with AI researchers and geologists to define data requirements, validation criteria, and delivery timelines;
+
+Own data engineering tasks from design through deployment and ongoing maintenance;
+
+About You
+
+Tertiary qualification in Computer Science, Data Science, Software Engineering, or a related field;
+
+2–5 years’ experience as a Data Engineer (or similar role) delivering production data pipelines;
+
+Strong proficiency in Python and SQL, with experience building reliable, testable ETL workflows;
+
+Demonstrated experience managing the full data lifecycle, from raw ingestion to ML-ready outputs;
+
+Comfortable working with messy, real-world geoscience data, including missing metadata and evolving schemas;
+
+Experience with cloud object storage and common geospatial and tabular data formats;
+
+Working knowledge of geospatial data concepts and tooling (e.g. GeoPandas, GDAL, Rasterio, PostGIS, QGIS, or equivalents);
+
+Familiarity with version control, code review processes, and basic CI/CD;
+
+Strong systems thinking, attention to detail, and pragmatic engineering judgement;
+
+Clear communicator who can collaborate effectively with technical and domain experts;
+
+Experience with large-scale, distributed, time-series, or survey-grid datasets is highly regarded. 
+
+Why Join Us:
+
+Growth Opportunities: We support professional development and career advancement;
+
+Collaborative Environment: Work with a team of passionate and supportive colleagues;
+
+Competitive compensation package, plus quarterly performance bonus;
+
+Team lunches;
+
+Company retreats."
+90799955,Senior AI Engineer (Software),Correlate Resources,https://www.seek.com.au/job/90799955?type=standard&ref=search-standalone&origin=jobCard#sol=b701005159971d5e13906074d0cfe2dcd899c950,2h ago,2.0,2026-03-09T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"An innovative AI focused technology team is building the next generation of enterprise AI agents and intelligent automation systems for global organisations. They are looking for a Senior AI Engineer (Software) to help design and deploy production grade AI solutions that automate complex workflows and integrate with enterprise systems. This role sits at the intersection of software engineering, generative AI, and enterprise platforms, with a strong focus on building scalable AI applications powered by large language models and agent based architectures. You will be working with modern AI frameworks and cloud technologies to develop AI powered assistants, agent orchestration systems, and enterprise automation platforms that deliver real business value.
+
+The Role
+As a Senior AI Engineer you will be responsible for designing and building AI-powered systems that replicate and automate complex human workflows inside enterprise environments. You will collaborate with engineers, product teams, and enterprise stakeholders to translate business challenges into scalable AI solutions.
+
+Key Responsibilities
+Design and develop AI agents and AI powered assistants to automate enterprise workflows
+Build scalable backend systems using Node.js and TypeScript
+Develop LLM powered applications using frameworks such as LangChain, LangGraph and Flowise
+Implement retrieval augmented generation (RAG) architectures and vector database integrations
+Integrate AI solutions with enterprise APIs, internal platforms, and data systems
+Design and deploy cloud native applications across AWS, Azure or GCP
+Containerise and deploy applications using Docker and Kubernetes
+Build and orchestrate multi agent AI workflows for complex enterprise use cases
+Work closely with stakeholders to deliver secure, scalable AI solutions
+Requirements
+Strong software engineering background with 5+ years experience building production systems
+Advanced experience with Node.js and TypeScript
+Experience building AI or LLM powered applications
+Experience with LangChain, LangGraph, Flowise or similar AI frameworks
+Strong experience building APIs, microservices and distributed systems
+Experience deploying applications in AWS, Azure or GCP
+Experience with Docker, Kubernetes and CI/CD pipelines
+Nice to Have
+Experience building AI agents or multi agent systems
+Experience with RAG architectures and vector databases such as Pinecone
+Experience using Python within AI systems
+Experience with workflow orchestration tools such as n8n
+Experience working in enterprise environments or consulting teams
+Why This Role
+Work on cutting edge generative AI and agentic AI systems
+Build real world AI platforms used by large organisations
+Work with modern technologies across LLMs, cloud infrastructure, and distributed systems
+Join a highly skilled engineering team focused on delivering next generation AI software"
+90798139,ML & AI Engineer,CreditorWatch,https://www.seek.com.au/job/90798139?type=standard&ref=search-standalone&origin=jobCard#sol=34aa70cebeff988a273ee118f2d4913bd03a1410,4h ago,4.0,2026-03-08T22:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,,"⭐️NEWLY CREATED ROLE⭐️
+
+Who are we?
+
+So you might ask, who's CreditorWatch? Well, we are a leading Australian data and technology company that provides businesses with access to unique data and innovative products. By using our platform, our customers can confidently manage their commercial relationships, improve productivity and reduce financial risk.
+
+As a commercial credit reporting bureau, we offer a complete suite of credit reporting products and data insights covering the entire customer lifecycle, from customer onboarding and credit decision automation to credit risk management and automated collections.
+
+We were established in 2010 and most recently were named as one of AFR's Top 10 Best Places to Work as well as certified by Great Place to Work consecutively across 2022-2025.
+
+We saw significant growth in 2025 and that's not about to change. We are on track to break records in 2026, scaling at pace, making this the perfect time to join CreditorWatch.
+
+Our Purpose
+
+✅ Empower Australian businesses to trade confidently with their customers.
+
+Our Mission
+
+🏆 We aim to be number one in our industry by delivering unique data insights and innovative products.
+
+Your Role & Team
+
+In this newly created role, we are looking for an experienced ML & AI Engineer to help us accelerate the deployment and operationalisation of predictive models at CreditorWatch.
+
+As part of a ML and AI team within a rapidly growing Data function, you’ll be building scalable ML and AI infrastructure, managing model and feature artefacts, and ensuring robust production workflows.
+
+You will work closely with data scientists and engineering teams to bring models from development to production, with a strong emphasis on reliability, governance, and performance. Our infrastructure is built on AWS, with a data and analytics platform on Databricks.
+
+You'll report directly to the Machine Learning Engineering Manager. Please note, it's a full-time opportunity offering hybrid working conditions out of our Sydney CBD Office.
+
+We are also open to the successful candidate being Melbourne-based.
+
+Some of your responsibilities include and are not limited to:
+
+Build and design production-grade ML systems and lifecycle management.
+Develop and maintain feature stores, model registries, and artefact tracking systems to support reproducibility and governance.
+Collaborate with data scientists to transition models from research to production, ensuring scalability and compliance.
+Build and maintain MCP servers, vector databases to design, support, and implement AI initiatives.
+Our ideal candidate
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or a related field.
+5+ years of experience in machine learning engineering, with a strong focus on production deployment and MLOps.
+Proven experience with ML platform tools such as MLflow, Sagemaker, Vertex AI, or similar, and cloud platforms (AWS, GCP, Azure) and integrated data platforms, Databricks, Snowflake).
+Deep understanding of AI/MLOps practices, including CI/CD pipelines, monitoring, and end-to-end model lifecycle management in production environments.
+Experience building MLOps in Databricks highly regarded.
+Strong experience in Python, SQL and/or other codebases.
+More than just work
+
+🏃🏽‍♀️ Keep Active – All employees get a Fitness First Platinum gym membership.
+
+☕️ Daily Fuel – Barista-made coffee, breakfast, snacks, lunches and drinks on us – we got you!
+
+📲 Phone Credits - We pay you $50 per month to put towards your plans - how good.
+
+❤️‍🩹 Wellness Days – Receive an additional day off each month. Whether you’re pursuing physical activities, cultivating your mental wellbeing or supporting your community… this is your time to switch off from work.
+
+💆🏽‍♂️ Monthly Massages – We offer monthly in-house massages to soothe those sore spots and tight knots. Poor posture? Stressful week? We get it.
+
+💰 Bonus Shares – We offer our dedicated employees’ performance-based bonuses. Our employees are also permitted to gain access to our bespoke Employee Share Scheme, giving you the rare opportunity to invest in a growing technology company.
+
+🤩 Fun Activities – We love escaping the workplace to do fun stuff. Whether its pasta-making, sailing classes, touch footy, winery tours, go karting or relaxing on the company boat (yeah… we own a boat) – these monthly team building activities will keep you feeling valued and connected.
+
+👩🏻‍⚖️ Legal Services – Our employees get access to free legal services – from conveyancing and property advice to legal assistance around wills, trusts, powers of attorney and more. We make life easier for you, saving you time, money and unnecessary headaches.
+
+Our Values
+
+⚡️ The 1%’ers add up – Our commitment to going that one step further sets us apart, as we believe that small efforts or improvements in any aspect of our work collectively lead to significant success.
+
+👊🏼 We are dependable and trustworthy – Our clients are everything to us and we are passionate about maintaining and delivering reliable and trusted services to them.
+
+📈 We are committed to growth – Our success comes from our ability to grow and adapt; both collectively and individually. We set the bar high to ensure we continue to innovate and exceed expectations. We are dedicated to the development of our business and our people.
+
+🫶🏾 Our people make the difference – Just as we help small businesses think big, we help our employees achieve their aspirations. We provide our people with challenges and opportunities, supporting them to live their best lives.
+
+Recruitment Process – We like to keep it simple!
+
+Phone Screening – A deep dive into the company, role and experience required, including a thorough review of your match to the role – let’s get to know each other and ensure the opportunity is a match!
+Hiring Manager Meeting – This is an opportunity to showcase why your background and skill set aligns to the role and ask questions – be as curious as you want!
+Functional Meeting – Here you’ll be set up with a take home case-challenge that is designed to look into the way you think and approach certain situations.
+Values Meeting – We’d love to hear why CreditorWatch and see how you’d fit into our world.
+We are committed to you
+
+We offer a fantastic culture with open communication and rewards and recognition that include probation celebrations, all-staff birthday and service anniversary celebrations.
+
+We are an equal opportunity employer and committed to excellence through diversity. We do not discriminate on race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+We are a 2024 Circle Back Initiative Employer – we commit to respond to every applicant."
+90797824,Machine Learning Engineering Manager,icare,https://www.seek.com.au/job/90797824?type=standard&ref=search-standalone&origin=jobCard#sol=42e14e96cd6b9a7005608a0f108be93fbaaa947d,4h ago,4.0,2026-03-08T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Hardware (Information & Communication Technology),Full time,,"About the Role
 
 The Machine Learning Engineering Manager is the foundational engineering lead within icare’s Data Science and AI function. The role begins as a hands-on technical lead responsible for establishing robust ML engineering, MLOps and LLMOps practices that enable secure, reproducible, and reliable deployment of AI systems
 
