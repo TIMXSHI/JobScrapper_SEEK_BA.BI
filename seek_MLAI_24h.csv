@@ -1,90 +1,247 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90861544,PLC Programmer / Systems Integrator,Australian Refrigeration Services,https://www.seek.com.au/job/90861544?type=standard&ref=search-standalone&origin=jobCard#sol=5adeb5a9c448c925d23d8414cceb7f480531b630,1h ago,1.0,2026-03-11T03:00:00+00:00,"Seven Hills, Sydney NSW",Developers/Programmers (Information & Communication Technology),Full time,,"PLC Programmer / Systems Integrator
+90865755,Integration Developer,Morgan McKinley,https://www.seek.com.au/job/90865755?type=standard&ref=search-standalone&origin=jobCard#sol=a6378e7358c73767e3d45a582282b56a9d30f2be,1h ago,1.0,2026-03-11T04:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,$850 - $950 p.d. + super,"We are looking for two Python-savvy developers who specialize in FastAPI and AWS to build robust, scalable integration points. You'll be working within a high-visibility technical squad to ensure our data flows seamlessly across the enterprise, bridging the gap between our evaluation and technical systems.
 
-Australian Refrigeration Services (ARS) is seeking an experienced PLC Programmer / Systems Integrator to support the design, implementation, and ongoing support of industrial control systems across our client sites throughout NSW.
 
-This role plays a key part in strengthening ARS’s automation capability, with a strong focus on industrial refrigeration, PLC control systems, SCADA platforms, and remote monitoring solutions.
+What You'll Do
 
-Working closely with the Technical Director and project teams, you will contribute to delivering reliable, efficient, and innovative automation systems across service and project environments.
+Architect Connections: Design and implement high-performance APIs using FastAPI within an AWS ecosystem.
+Stream Data: Work within a Kafka environment to manage real-time data streaming and event-driven architectures.
+Bridge Systems: Apply deep knowledge of integration principles to connect disparate platforms, ensuring data integrity and low latency.
+Collaborate & Pivot: Operate within a ""Squad"" model, working autonomously on specific tasks while remaining tightly aligned with functional, business, and technical leads.
+Deployment & Debugging: Get your ""hands dirty"" in the dev environment, troubleshooting complex integration flows and optimizing performance.
+
+Must-Haves
+
+Python Specialist: Expert-level experience with FastAPI.
+Cloud Native: Strong background in AWS environments (Lambda, S3, EC2, etc.).
+Message Brokering: Hands-on experience working within Kafka for streaming and messaging.
+Integration Logic: A deep understanding of RESTful services, webhooks, and asynchronous processing.
+Agile Mindset: The ability to work independently but thrive in a collaborative ""squad"" setting.
+Communication: Clear, concise technical communication for reporting into the wider project team.
+
+Nice-to-Haves
+
+Data Orchestration: Experience with Airflow.
+Testing/Documentation: Proficiency with Postman.
+Platform Knowledge: Familiarity with Snowflake or Salesforce (specifically MuleSoft Gateway).
+
+The Team & Environment
+You will be part of a multi-disciplinary technical squad. This is a fast-paced environment where you'll have the support of business and functional leads, but the autonomy to own your technical domain and drive integration excellence."
+90865667,Performance Architect,Technology One Limited,https://www.seek.com.au/job/90865667?type=standard&ref=search-standalone&origin=jobCard#sol=56390530de3207d3794fe75aa893f344652adcff,1h ago,1.0,2026-03-11T04:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Competitive Remuneration & Benefits,"We're looking for a senior Performance Architect to help us take our platforms to the next level. Working closely with our Site Reliability Engineering (SRE) team, you'll define what ""high performance"" looks like and drive initiatives that make our software faster, more scalable, and more reliable for our customers.
+
+This is a senior, influential role where you'll shape engineering culture around performance and resilience. You'll set standards, KPIs, and SLOs, guide teams on best practices, and help ensure our enterprise software runs seamlessly at scale. While strategic and advisory, there's also room to get hands-on with performance tuning, load testing, and optimisation if that's your strength.
+
+
+What you'll be doing
+
+Define and champion performance, scalability, and reliability standards across engineering teams
+Partner with SRE, architecture, platform, and delivery teams to embed resilience in every system
+Set and monitor KPIs, SLOs, error budgets, and benchmarks, driving accountability across teams
+Lead reviews of infrastructure, application code, and data layers to identify performance improvements
+Analyse faults and system behaviours to pinpoint systemic issues
+Prioritise and deliver performance and scalability optimisation initiatives
+Guide teams in load testing, capacity planning, and fault testing
+Build dashboards and reporting to give clear visibility into system health and performance
+Advise engineering leaders on risks, trade-offs, and performance investment decisions
+Promote continuous improvement in engineering practices and culture
+
+
+Your Talents…
+
+8+ years' experience with large-scale, distributed, or enterprise software systems
+Strong knowledge of performance, scalability, and reliability across infrastructure, code, and databases
+Experience working with SRE, platform, or operations teams in high-availability environments
+Proven track record defining and driving KPIs, SLOs, and error budgets at scale
+Hands-on experience with performance analysis, profiling, load testing, and fault investigation
+Broad technical skill set, comfortable across architecture, code, data, and infrastructure
+Strong communication and influencing skills
+Pragmatic approach, balancing ideal outcomes with real-world constraints
+Enterprise software or SaaS experience
+
+
+Benefits…
+
+Competitive remuneration package
+Industry leading employee share plan
+Amazing Culture: 8 x Australian Business Awards ""Employer of Choice"" winner
+We love our team events & celebrate diversity
+Flexible hours: we are family-friendly and value life outside of work
+Free gym membership in your region (or, if you are located at HQ, we have a new state of the art Gym onsite, exclusive and available 24/7).
+Additional 2.5 days of leave per year dedicated to volunteering at a charity of your choice
+Free breakfast and coffee on-site
+Defined career framework - know what options you have in your career path and how you can get there
+
+
+Who we are…
+
+TechnologyOne (ASX: TNE) is Australia's largest enterprise software company and one of the top 100 ASX-listed companies, with offices in six countries. Our global SaaS ERP platform powers over 1,200 organisations, helping them focus on their business, not technology.
+
+For more than 36 years, we've been evolving enterprise software to adapt to new technologies, making life simple for our customers wherever they are."
+90865111,Data and AI Lead,MOVE Bank,https://www.seek.com.au/job/90865111?type=standard&ref=search-standalone&origin=jobCard#sol=6036b6f8234ae5e818dbb77e4eae99402e542cc2,1h ago,1.0,2026-03-11T04:00:00+00:00,Brisbane QLD (Hybrid),Other (Banking & Financial Services),Full time,,"Drive data-led growth. Champion AI and shape the future of banking
+
+We are seeking a Data and AI Lead to play a pivotal role in strengthening our data and capability and accelerating the responsible adoption of AI across the organisation. This is a strategic hands-on role for someone who can bridge deep technical ability with business impact - championing data governance, scalable architecture, and AI-driven innovation that deliver real outcomes for our members and our people.
+
+About the role
+
+As the Data and AI Lead, you will lead enterprise-wide Data and AI initiatives that improve business performance, competitiveness and decision making. You will work closely with stakeholders across the Bank to embed high quality data practices and AI solutions into core business processes, while ensuring strong governance, security, and regulatory compliance.
 
 Key Responsibilities
 
-Your duties will include, but are not limited to:
+In this role, you will:
 
-Design, develop, modify, and maintain PLC, HMI, and SCADA systems for ARS projects and service clients.
+Champion and lead data initiatives that enhance business performance and strengthen the Bank’s market position.       
+Build and implement strong data management practices, including data cleansing, normalisation, and enrichment to support dashboards, reporting, and AI/ML tools.
+Establish and maintain enterprise-wide governance frameworks, including data quality standards, metadata management and stewardship practices.
+Drive AI adoption across the organisation by engaging stakeholders, running workshops and clearly communicating the value of AI to non-technical teams.
+Design and oversee scalable secure data architectures and pipelines that support analytics and AI use cases.
+Ensure compliance with data privacy, security and regulatory requirements through robust controls and monitoring.
+Select and implement fit for purpose tools, platforms, and frameworks that balance cost, scalability and performance.
+Collaborate with cross functional and external partners (including product, engineering and operations) to embed AI into business and customer facing solutions.
+Lead data and AI projects end to end, from scoping and planning through to engineering, delivery and outcomes.
 
-Program and support control systems using Allen-Bradley PLC platforms and Ignition SCADA systems.
+About you:
 
-Integrate control systems with industrial refrigeration, mechanical, and electrical plant equipment.
+You are a forward-thinking data professional who:
 
-Perform commissioning, testing, fault-finding, and optimisation of control systems both on-site and remotely.
+Bring strong experience in data platforms and analytics.
+Experience building/engineering data models and sourcing data from various sources.
+Experience with Databricks, Snowflake and PowerBI.
+Understanding of Financial Data or Banking Products/Services desirable.
+Can translate complex technical concepts into clear, compelling business value.
+Has a strong understanding of data governance, privacy and operating in regulated environments..
+Is curious commercially minded, and passionate about using Data and AI responsibly.
 
-Develop and maintain control documentation, including I/O lists, network architecture, and system backups.
+Why join MoveBank?
 
-Provide technical support and troubleshooting to ARS technicians, supervisors, and clients.
+At MoveBank, we are building a digital first, member owned bank where Digital, Data and AI are key enablers of growth, efficiency, and better member experiences. You will have the opportunity to shape foundational capabilities, influence strategy, and deliver meaningful outcomes in an organisation that values integrity, collaboration, and integrity.
 
-Assist in developing standardised control philosophies, templates, and programming structures.
+·"
+90864596,GCP AI Engineer,Aviato Consulting Pty Ltd,https://www.seek.com.au/job/90864596?type=standard&ref=search-standalone&origin=jobCard#sol=110c86e13e1da0cf1c32760463e5f0f443d83730,1h ago,1.0,2026-03-11T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,"$95,000 – $110,000 per year","Company Description
 
-Ensure systems comply with relevant standards, safety requirements, and ARS best-practice guidelines.
+We are proud winners of the Best Place to Work awards in 2025 and 2026. Aviato Consulting, founded by ex-Googlers, specializes in Google Cloud solutions. We combine deep technical expertise with the open, fun engineering culture of Google minus the bureaucracy.
 
-Maintain strong working relationships with clients, equipment manufacturers, and technology suppliers.
+What's in it for you?
 
-Support remote monitoring platforms, alarm management, and after-hours support when required.
+Build the ""Next"" Tech: Working heavily on AI, you will be using the newest models, to build agents to solve our customers problems.
 
-Contribute to the continuous improvement of ARS automation and control capabilities.
+Elite Engineering Culture: Work alongside ex-Googlers and cloud experts. We prioritize clean code, high velocity shipping, and technical excellence over politics.
 
-In conjunction with the Technical Director, you will:
+Pure GCP Playground: You get full access to the Vertex AI ecosystem (Gemini 3 Pro/Flash, Claude, Vector Search, Agent Engine) to build solutions.
 
-Support the delivery of automation and control systems across NSW service and project operations.
+Verified Happiness: Join a team objectively recognized as a ""Best Place to Work"" for two years running. We take culture as seriously as we take our architecture.
 
-Work closely with refrigeration technicians and project teams to ensure seamless system integration.
+ESOP: Share in our success with our employee option plan
 
-Assist in training technicians and apprentices on control system interfaces and diagnostics.
+Role Description
 
-Help improve reliability, efficiency, and performance across client sites through smarter automation.
+Agentic Architecture: Design scalable, event-driven architectures for single and multi-agent systems using Google’s Gemini models.
 
-Participate in technical reviews, audits, and system upgrades.
+Advanced Reasoning: Implement sophisticated prompting strategies (ReAct, Chain of Thought) and evaluation frameworks to ensure agent reliability.
 
-About You
+Tooling & Integration: Equip agents with executable tools by integrating internal databases (BigQuery, Cloud SQL) and APIs via Apigee or Cloud Functions.
 
-To succeed in this role, you will be a self-motivated and technically capable professional who is confident working independently and solving complex technical problems.
+Data Grounding: Engineer advanced RAG pipelines using Vertex AI Search and Vector Search to provide agents with real-time, factual context.
 
-You will demonstrate:
+Orchestration: Manage agent state, planning, and task execution using frameworks like A2A or MCP.
 
-Proven experience with Allen-Bradley PLC programming
+Production Deployment: Containerize and deploy agentic applications as scalable microservices using Agent Engine or Cloud Run.
 
-Hands-on experience with Ignition SCADA systems (essential)
+What You'll Bring to the Table:
 
-Experience with Siemens, Citect, or Wonderware will be highly regarded
+Proven Google Cloud Expertise: 2+ years of hands-on experience building and implementing solutions on Google Cloud Platform.
 
-Strong troubleshooting and system integration skills
+A Google Cloud Certification is a must-have within 1 month of hiring, and advantageous to landing the role.
 
-The ability to work independently and manage tasks across multiple sites
+Candidates must hold a valid work visa or be eligible to work in Australia.
 
-A practical, solutions-focused approach
+Experience with Agent Development Kit, A2A, Vertex AI
 
-Excellent communication and documentation skills
+Bonus Points:
 
-Additional Requirements
+Experience with data architecture, big data environments, and ETL pipelines.
 
-Current Class C Driver Licence
+Langraph/Langchain
 
-Willingness to travel to regional and interstate locations when required
+Evaluation frameworks
 
-Ability to work independently for extended periods
+Our Core Values:
 
-A professional and mature approach to client engagement
+Radical Transparency: We build trust by speaking clearly and listening carefully. We ensure our clients, partners (Google) and teammates know what is happening and feel heard. We choose clarity over comfort every time.
 
-Why Join ARS?
+We win and lose as a team. We take pride in our own work, but we always step in to help a teammate because we are all responsible for the final result.
 
-This is an opportunity to play a key role in the growth of ARS’s automation and systems integration capability while working on specialised industrial refrigeration and automation projects across NSW.
+Excellence & Growth: We reject ""good enough"" we do excellent work, We help each other get better every day. We give kind and helpful feedback, we teach what we know, and we treat mistakes as a chance for the whole team to learn.
 
-You will have the opportunity to apply your expertise, influence control standards, and help shape the next phase of ARS’s automation offering.
+Customer Value: We act like partners, not just consultants. When a problem happens, we don't complain, we find the best solution and create value for our clients aiming to deliver a 10x return on our client's trust by solving the hard problems before we are asked to."
+90863745,Data Engineer (Cyber),NTT Ltd,https://www.seek.com.au/job/90863745?type=standard&ref=search-standalone&origin=jobCard#sol=1d7c19a820be7f94bf234daa3ab2d16b2c95dab1,2h ago,2.0,2026-03-11T03:00:00+00:00,"Bella Vista, Sydney NSW (Hybrid)",Security (Information & Communication Technology),Contract/Temp,Competitive rate with potential extension,"📢 Position: Data Engineer (Cyber)
+✅ Eligibility: Open to candidates with valid Australian work rights
+🕒 Contract: Initial 3 months of contract with high likelihood of extension
 
-If you are a motivated PLC programmer or systems integrator looking to work on challenging industrial systems within a supportive and technically focused team, we would welcome your application.
+📍 Location: Northwest Sydney, NSW
+🏠 Hybrid Work Model: Minimum 2 days onsite per week
 
-Please email our Technical Director Andrew Hall Andrew.hall@ausrefrig.com.au with your resume and cover letter."
-90861029,AI Systems Implementor,Learning Online Group,https://www.seek.com.au/job/90861029?type=standard&ref=search-standalone&origin=jobCard#sol=948531d06af241b11e257aea768b947c81f6d990,1h ago,1.0,2026-03-11T03:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,"$80,000 - $110,000","Job Description
+👇About the Role:
+
+As a Data Engineer (Cyber), you will work closely with senior leads across Cyber Engineering, SecOps, and Data Platform to leverage existing patterns and frameworks to:
+
+Onboard new data sources (logs, alerts, context) into the platform.
+Remediate and uplift legacy code for reliability, performance, and readability.
+Develop and enhance data models (via DBT) to codify business rules and cyber logic.
+Implement validation tests and documentation to maintain data trust.
+Troubleshoot pipeline and cloud infra issues impacting ingestion, modeling, and access.
+Collaborate with stakeholders to manage expectations and prioritize work in an agile cadence.
+Continuously improve our cyber data ecosystem through automation, CI/CD, and standards.
+
+👇Key Responsibilities:
+
+Write ingestion configurations (connectors, schemas, mappings).
+Create staging tables/views and dbt source definitions.
+Implement incremental loading patterns and late‑arriving data handling.
+Enforce PII/security controls (masking, hashing, row/column access).
+Add data quality tests (generic/custom), documentation and lineage/exposures.
+Contribute to Git‑based workflows (branches, PRs, reviews) and CI/CD for dbt.
+Support backfills, replays, and validation tooling for operational resilience.
+
+👇Essential Skills:
+
+SQL (strong): joins, window functions, dedupe patterns, incremental modeling, handling semi‑structured logs.
+Git (strong): branching, PRs, code reviews, semantic commits.
+Python: light utilities for schema inference, API pulls (when ingestion isn’t fully managed), validation/backfills/replay tooling.
+JSON/YAML: config‑driven pipelines and declarative patterns.
+Cyber domain literacy: SIEM concepts, MITRE ATT&CK understanding, clear grasp of threats vs. vulnerabilities, SOC data needs, common telemetry (EDR, identity, network, cloud).
+Ways of working: Agile/sprint delivery, stakeholder communication, concise documentation.
+
+👇Preferred Skills / Experience:
+
+Cloud & Warehouse: GCP BigQuery (preferred) and/or Snowflake/Databricks; cloud storage patterns.
+DBT (Data Build Tools: sources, staging/core models, incremental models, macros/Jinja (intermediate+), tests (generic + custom), snapshots (nice), exposures/docs (nice).
+DevOps/SecOps: CI/CD pipelines, IaC (e.g., Terraform), secrets mgmt, policy‑as‑code, scan gates.
+Comfort with log formats (JSON/CSV/syslog/parquet), time normalization, IP/UUID parsing; understands event‑time vs ingest‑time, correlation keys, identity stitching
+SIEM: hands‑on with any major SIEM (e.g., Chronicle/Splunk/Sentinel/QRadar) is a plus.
+
+ 
+
+👇About You:
+
+You’re someone who takes initiative, enjoys collaborative problem-solving, and is comfortable navigating large-scale cyber data ecosystems. You ask the right questions, learn quickly, and adapt to evolving priorities.
+If this sounds like you, we encourage you to apply and join a team making meaningful impact in the cyber data space.
+
+This is an exciting opportunity to join a dynamic team at the forefront of retail cybersecurity, working within a collaborative and innovative environment.
+
+
+
+
+
+Join our growing global team and accelerate your career with us. Apply today.
+
+For more information about this or other opportunities, please contact Aasifa Ruhani. Please quote our job reference number 665606.
+
+About us
+
+NTT Ltd. is a leading global technology services company. Working with organizations around the world, we achieve business outcomes through intelligent technology solutions. For us, intelligent means data driven, connected, digital and secure. As a global ICT provider, we employ more than 40,000 people in a diverse and dynamic workplace that spans 57 countries, trading in 73 countries and delivering services in over 200 countries and regions
+
+NTT is proud to be an equal opportunity employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category."
+90861029,AI Systems Implementor,Learning Online Group,https://www.seek.com.au/job/90861029?type=standard&ref=search-standalone&origin=jobCard#sol=4228c6262e67e8b9598fa7bed6d3e7126ccc57d9,3h ago,3.0,2026-03-11T02:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,"$80,000 - $110,000","Job Description
 
 About Learning Online Group 
 Learning Online Group (LOG) is a fast-moving online education company operating across Australia, Canada, the UK, and New Zealand. With 115 staff and $6M in annual paid media spend, we run a portfolio of education brands spanning beauty, photography, animal care, and more. We're a business that backs its people. We take deliberate bets on candidates who show the right instincts and drive — even if their CV doesn't tick every box — and we give them the room to grow into the role and beyond it. A number of our senior team members joined us early in their careers and have grown with the business. We're proud of that, and we're looking to repeat it.
@@ -139,7 +296,7 @@ Hybrid working from Melbourne
  
 How to Apply 
 Send your CV and a brief note (no more than a page) describing the most complex automation or system you've built — what the problem was, how you approached it, and what the outcome was. We don't care about formatting. We care about thinking and evidence of building. Applications without a practical example will not be progressed."
-90857859,Senior Integrations Lead,I-MED Radiology Network,https://www.seek.com.au/job/90857859?type=standard&ref=search-standalone&origin=jobCard#sol=443e280e66d03b4b62cea3e58d40a7b14115a964,3h ago,3.0,2026-03-11T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Senior Integrations Lead
+90857859,Senior Integrations Lead,I-MED Radiology Network,https://www.seek.com.au/job/90857859?type=standard&ref=search-standalone&origin=jobCard#sol=bbf861f89187575a752bfe986f0609022324a779,4h ago,4.0,2026-03-11T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Senior Integrations Lead
 
 Sydney|Melbourne|Brisbane | Full Time | Hybrid
 
@@ -185,88 +342,7 @@ Enjoy exclusive benefits including discounted private health insurance, salary p
 At I-MED Radiology Network you'll work on technology that directly supports clinicians and patient care, while being part of a collaborative, innovative, and supportive IT team.
 
 You'll have the opportunity to lead technically complex projects, influence integration standards, and mentor the next generation of healthcare integration engineers."
-90854757,Data Engineer,Deloitte,https://www.seek.com.au/job/90854757?type=standard&ref=search-standalone&origin=jobCard#sol=b5c9f7c16e63a6d8c55cc05cdb7aa8988fc033d3,4h ago,4.0,2026-03-11T00:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Company description:
-
-
-
-Deloitte Services Pty Ltd
-
-
-
-Job description:
-
-
-
-
-ITS EDW Data Engineer | Data & Analytics | Sydney, AUS
-
-Work on cutting-edge enterprise data solutions using Databricks, Azure Data Factory, DBT, and Python.
-
-Collaborate with a high-performing, agile team to deliver impactful insights across Deloitte.
-
-Continuous professional growth through mentoring, training, and exposure to emerging data engineering technologies.
-
-Deloitte Technology is seeking a skilled Data Engineer to join our Enterprise Data Warehouse (EDW) team in Sydney. This is a permanent role where you'll play a key part in designing, implementing, and optimising scalable data pipelines and workflows that power Deloitte's data-driven initiatives. You'll have the opportunity to work closely with EDW pod leads and the Senior Data Engineering Manager, contributing to high-impact projects across the business.
-
-What will your typical day look like?
-
-Day to day you will:
-
-Develop and maintain scalable data pipelines using Databricks and Azure Data Factory.
-
-Transform raw data into actionable insights using Data Build Tools (DBT) and Python.
-
-Build and maintain data integrations across systems using APIs.
-
-Monitor and optimise workflows for performance and cost-efficiency.
-
-Lead project delivery pods, mentor junior team members, and conduct code reviews.
-
-Collaborate with data modelers, analysts, DBAs, DevOps, and infrastructure teams to deliver high-quality solutions.
-
-Document processes, workflows, and system architecture to maintain clarity and knowledge sharing.
-
-About the team
-
-Deloitte Technology's EDW team powers enterprise-wide data initiatives, enabling business users to make informed, data-driven decisions. You'll join a collaborative and high-performing team working in an agile environment, tackling complex data challenges and continuously improving the EDW platform.
-
-Enough about us, let's talk about you
-
-You may have all or some of the following skills / experiences:
-
-5+ years of experience in data engineering, with expertise in Databricks, SQL, Python, Azure Data Factory, and DBT.
-
-Experience designing, building, and optimising data pipelines and workflows.
-
-Hands-on experience with API-based data integrations and version control systems (Azure DevOps, GitHub).
-
-Strong understanding of data architecture patterns and cloud data storage solutions.
-
-Excellent problem-solving skills, attention to detail, and adaptability.
-
-Collaborative mindset with strong communication and stakeholder management skills.
-
-Bachelor's degree in Computer Science, Information Technology, or a related field. Advanced degrees or relevant certifications in Azure or Databricks are a plus.
-
-Desirable: Knowledge of Azure Fabric and emerging data engineering technologies.
-
-Why Deloitte?
-
-At Deloitte, we focus our energy on interesting and impactful work. We're always learning, innovating, and setting the standard; making a positive difference to our clients and society. We put coaching at the heart of what we do, helping our people grow their careers in any direction - up, into new areas, or across the globe.
-
-We embrace diversity, equity, and inclusion. We have a diverse collection of people from different backgrounds, experiences, abilities, and thinking styles. What binds us together is a shared commitment to value everyone's perspective and cultivate inclusion, making our work environment a space where everyone belongs.
-
-We support flexibility and choice. We encourage you to find the right balance between connecting in person with your clients and teams and meeting your own personal needs.
-
-We help you live and work well. To support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave, and a return-to-work support package.
-
-Next Steps
-
-Sound like the sort of role for you? Apply now, we'd love to hear from you!
-
-
-#LI-Hybrid"
-90854226,AI Adoption Lead | pay.com.au,Pony Express Talent,https://www.seek.com.au/job/90854226?type=standard&ref=search-standalone&origin=jobCard#sol=6367ee92f9b805be9e3f07e176b7ba852f04f0da,5h ago,5.0,2026-03-10T23:00:00+00:00,"Windsor, Melbourne VIC (Hybrid)",Consultants (Information & Communication Technology),Full time,120-150k + super (negotiable),"Pay.com.au is a high-growth fintech redefining B2B payments, helping over 50,000 businesses process billions in payments and earn billions in points through its PayRewards program. They turn everyday business spend into extraordinary value through transfer partners such as Qantas, Virgin Australia and Singapore Airlines.
+90854226,AI Adoption Lead | pay.com.au,Pony Express Talent,https://www.seek.com.au/job/90854226?type=standard&ref=search-standalone&origin=jobCard#sol=af59664476e0c0a004665c93583caf36ef1234f5,6h ago,6.0,2026-03-10T23:00:00+00:00,"Windsor, Melbourne VIC (Hybrid)",Consultants (Information & Communication Technology),Full time,120-150k + super (negotiable),"Pay.com.au is a high-growth fintech redefining B2B payments, helping over 50,000 businesses process billions in payments and earn billions in points through its PayRewards program. They turn everyday business spend into extraordinary value through transfer partners such as Qantas, Virgin Australia and Singapore Airlines.
 
 Founded in Melbourne, the company sits at the intersection of payments, credit and loyalty. Businesses use the platform to pay suppliers, manage expenses and earn rewards.
 
@@ -337,7 +413,7 @@ Interested?
 Apply now or email matt@ponyexpresstalent.com
 
 -"
-90853777,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/90853777?type=standard&ref=search-standalone&origin=jobCard#sol=5776eb960731823c79479d780745c405e413e1dc,5h ago,5.0,2026-03-10T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$140k to $220k base + super + share options,"Senior Solution Engineer – Applied AI Systems
+90853777,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/90853777?type=standard&ref=search-standalone&origin=jobCard#sol=8767557cf6e88fe9dbbe3d8016e6dd5bf0001016,6h ago,6.0,2026-03-10T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$140k to $220k base + super + share options,"Senior Solution Engineer – Applied AI Systems
 Salary: $140,000 to $220,000 base + super + share options
 
 About the Role
@@ -365,7 +441,7 @@ Build agentic and GenAI systems for major clients
 Join a high calibre engineering team working with world class partners
 Competitive salary, share options and full benefits package
 Hybrid working model with flexibility for key client delivery"
-90853771,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/90853771?type=standard&ref=search-standalone&origin=jobCard#sol=040f6d792473ede75e0f3cde0c61fbed6c99af1f,5h ago,5.0,2026-03-10T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$140k to $220k base + super + share options,"Senior Solution Engineer – Applied AI Systems
+90853771,Senior AI Solution Engineer,Fyndr Group,https://www.seek.com.au/job/90853771?type=standard&ref=search-standalone&origin=jobCard#sol=151c9212a3cc8410de6c54d6cd66f1ae4382f5d9,6h ago,6.0,2026-03-10T23:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$140k to $220k base + super + share options,"Senior Solution Engineer – Applied AI Systems
 Salary: $140,000 to $220,000 + share options
   
 About the Role
@@ -397,7 +473,7 @@ Build agentic and GenAI systems for major clients
 Join a high calibre engineering team working with world class partners
 Competitive salary, share options and full benefits package
 Hybrid working model with flexibility for key client delivery"
-90852900,Senior Data Engineer (AWS) - 12 month FTC,iterate,https://www.seek.com.au/job/90852900?type=standard&ref=search-standalone&origin=jobCard#sol=2aa7711d3d4896cce75319280da1dd720227c835,6h ago,6.0,2026-03-10T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are looking for a Senior Engineer to join an Australian company renowned for innovation and commitment to data-driven decision-making.
+90852900,Senior Data Engineer (AWS) - 12 month FTC,iterate,https://www.seek.com.au/job/90852900?type=standard&ref=search-standalone&origin=jobCard#sol=02c0dcf5fa0ee2bde1ff13f939bb30289294ebdd,7h ago,7.0,2026-03-10T22:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"We are looking for a Senior Engineer to join an Australian company renowned for innovation and commitment to data-driven decision-making.
 
 It is an exciting time to be part of the team as they continue to invest in advanced analytics capabilities and cutting-edge data solutions.
 
