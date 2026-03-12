@@ -1,5 +1,210 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-90892826,GEN-AI DEVELOPER,CQUniversity,https://www.seek.com.au/job/90892826?type=standard&ref=search-standalone&origin=jobCard#sol=c480c7291ad00eef4ec4852a8781f4bf5bfa8247,1h ago,1.0,2026-03-12T04:00:00+00:00,"Norman Gardens, Rockhampton & Capricorn Coast QLD","Developers/Programmers (Information & Communication Technology)
+90896174,Senior Software Engineer - AI Product Development,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90896174?type=standard&ref=search-standalone&origin=jobCard#sol=4b45b869373a3f879341a824b4518804f7255e97,1h ago,1.0,2026-03-12T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"The Role
+
+As a Software Engineer, you will design, prototype, and productionize AI features end-to-end-from UI to data and infrastructure. Working closely with product, design, and operations, you will ship practical, reliable functionality built on LLMs, embeddings, and strong engineering foundations.
+
+Key Responsibilities
+AI Feature Delivery: Partner with product/design to scope, prototype, and ship AI features for field planning, compliance checks, and invoice validation.
+Scalable Infrastructure: Build robust services and UIs that integrate LLMs, embeddings, retrieval, and workflow automation.
+Full-Stack Ownership: Contribute across the stack, including TypeScript/React on the front end, services in Rust or Python, and data in pgvector DB.
+Production Excellence: Own the quality bar for testing, observability, performance, and reliability in production.
+Iterative Development: Turn ambiguous problems into clear, testable increments; measure outcomes and iterate quickly.
+Developer Experience: Improve CI/CD, feature flags, metrics, and safe rollout practices.
+What You'll Bring
+Full-Stack Mastery: Significant experience building and shipping product features end-to-end (frontend + backend).
+AI Product Experience: Practical experience with AI development, including LLMs, embeddings, RAG, and prompt tooling.
+Engineering Fundamentals: Multi-language fluency (Rust, Python, or C/C++) and systems-level experience (memory management, performance, and concurrency).
+Data & API Design: Solid API design and data modeling experience, specifically with Postgres or similar.
+Pragmatic Operations: A grounded approach to testing, telemetry, and incident-ready operations.
+Tech Environment
+Frontend: React, TypeScript, component-driven design.
+Services: Rust (preferred for performance-critical paths) and TypeScript/Node.js.
+Data: Postgres, Redis, and vector search (pgvector).
+Cloud: Containerized workloads with CI/CD and feature-flagged releases.
+Highly Regarded
+Production experience with Rust.
+Experience with retrieval systems (e.g., pgvector, FAISS, Pinecone) and caching strategies.
+Familiarity with JSON Schema and secure data handling.
+
+If this opportunity is of interest, please reach out to Joseph on joseph.petrovski@talentinternational.com with your updated CV or any questions"
+90895595,Senior Data Engineer,CloudApps Consulting,https://www.seek.com.au/job/90895595?type=standard&ref=search-standalone&origin=jobCard#sol=dc3650f0c9c54ca87a3368c83030fbefb7eb7d62,1h ago,1.0,2026-03-12T06:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,Competitive Market Rates,"Senior Data Engineer
+
+Our client is investing heavily in digital capability and is looking for a Senior Data Engineer to design and deliver scalable Azure-based data solutions. This role suits a hands-on engineer who enjoys building robust ETL pipelines and working across a modern cloud data platform.
+
+Please note this position is based in the CBD with a 100% on site requirement. 
+
+What You’ll Do
+Design, build and optimise Azure ETL pipelines, integrations and workflows
+Develop scalable data solutions to support analytics and reporting
+Model and transform data for downstream consumption
+Develop and maintain API integrations (MuleSoft experience highly regarded)
+Ensure data quality, reliability and performance across the Azure data platform
+Collaborate with analysts, engineers and stakeholders to deliver data solutions
+What You Bring
+Strong hands-on Data Engineering experience
+Proven experience building ETL pipelines and data integrations in Azure
+Experience with data modelling and transformation
+Strong SQL and problem-solving skills
+Practical, delivery-focused mindset
+Why Apply
+Work with a modern Azure data platform
+Join an organisation investing heavily in its data capability
+High-impact role delivering meaningful data solutions
+Permanent opportunity
+
+If you're a Senior Data Engineer with Azure and ETL experience, we’d love to hear from you.
+
+For more information or a confidential discussion please email:
+sam@cloudappsconsulting.com.au"
+90891894,AI & Automation Specialist,Beck Water,https://www.seek.com.au/job/90891894?type=standard&ref=search-standalone&origin=jobCard#sol=6f92432508e2dd4735567436b80825aa147cad31,1h ago,1.0,2026-03-12T06:00:00+00:00,"Ashmore, Gold Coast QLD",Engineering - Software (Information & Communication Technology),Full time,"$90,000 – $120,000 per year","About Beck Water Beck Water is a national water infrastructure business committed to solving water challenges with reliable systems, transparent service, and local expertise. As we grow, we're investing in smart technology to work smarter — and we're looking for someone to lead that charge. This role sits within Beck Water however carries the potential to extend across our broader group of companies, giving the right person significant scope to grow their impact.
+
+The Role This is a hands-on, exploratory role for someone who gets excited about finding inefficiencies and fixing them with practical AI solutions. You won't be handed a list of tasks — you'll spend your first months understanding how we operate, then design and deliver automation tools that make a real difference: smarter reporting, email workflows, task management, chatbots, and more.
+
+You'll work primarily with Claude as your core tool, while remaining open to integrating other platforms where they best fit the problem.
+
+What You'll Do
+
+Months 1–3: Embed yourself in the business. Shadow teams, map processes, and identify where time is being lost.
+
+Months 4–6: Deliver weekly quick wins — automations and AI tools that teams can start using immediately.
+
+Beyond: Own and lead larger transformation projects across Beck Water and potentially other companies within our group.
+
+What You Bring
+
+Hands-on experience with AI tools — particularly Claude or similar LLM platforms — and low-code automation tools (e.g. Relay, Make, Zapier, or similar)
+
+A minimum of 1-2 years hands-on experience with AI tools such as Claude or similar LLM platforms
+
+A minimum of 2+ years experience with low-code automation tools
+
+A degree in IT, Computer Science, or a related field — or equivalent hands-on experience
+
+Genuine curiosity about how businesses work and where technology can improve them
+
+The ability to translate technical ideas into clear recommendations for non-technical stakeholders
+
+A bias toward action and a track record of getting things shipped
+
+Openness to working across different business contexts as the role evolves
+
+Australian work rights are required for this position
+
+What We Offer
+
+A real seat at the table — your ideas will be heard and implemented
+
+The opportunity to shape how an entire group of businesses uses AI, from the ground up
+
+Variety — exposure to different industries and challenges as you grow in the role
+
+A collaborative team that values initiative and curiosity"
+90894583,Machine Learning Engineer,Beonic,https://www.seek.com.au/job/90894583?type=standard&ref=search-standalone&origin=jobCard#sol=94f375d4c9122d561d57ca6e2549dab06c5fb28c,1h ago,1.0,2026-03-12T06:00:00+00:00,"Surry Hills, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"150,000 + Super","Job Title: Machine Learning Engineer
+
+APAC Region | Surry Hills, Sydney
+
+Reports to: Machine Learning Lead
+
+
+
+
+Company Overview: proprietary data platform processes billions of data points daily from cutting-edge IoT devices, empowering us to deliver insights on people flow, wayfinding, and queue management. From major international airport terminals to stadiums and smart cities, we enhance operational efficiency and elevate passenger experiences globally.
+
+
+
+
+About the Role: Join a pioneering Australian-owned software company specialising in big data products that analyse human interactions. As a Machine Learning Engineer, you will collaborate closely with our engineering team on high-impact features, with a specific focus on our Computer Vision (CV) roadmap for airport environments. Your work will involve building robust models that track passenger journeys from ""curb to gate,"" optimising terminal flow and enhancing security through automated spatial intelligence.
+
+
+
+
+Responsibilities:
+
+Drive innovation in machine learning models and algorithms to optimise our data insights platform and Intelligent Video Analytics capabilities.
+Collaborate with big data engineers and product managers to implement high-throughput, real-time solutions for computer vision applications.
+Conduct statistical analysis and apply ML techniques—including computer vision, spatial analytics, AI models, and time-series forecasting—to enhance product capabilities like queue management and passenger flow.
+Design and develop robust codebases and pipelines using Python, C++, SQL, and Deep Learning frameworks, leveraging computer vision SDKs like NVIDIA DeepStream and GStreamer.
+Utilise containerization technologies (e.g., Docker, Kubernetes) and cloud services for scalable, low-latency system design at the edge.
+Foster an Agile environment with strong coding practices, code reviews, and continuous integration.
+
+
+
+
+Requirements:
+
+Experience: Minimum 4 years of experience as a Machine Learning Engineer or Data Scientist.
+Core Languages: Strong proficiency in Python and SQL, and hands-on C++ with a focus on writing performance-critical code.
+Computer Vision Stack: Proven experience with Computer Vision SDKs, preferably NVIDIA DeepStream and GStreamer for real-time video analytics.
+Technical Expertise: Expertise in machine learning techniques, AI model development, statistical analysis, time-series forecasting, computer vision, and deploying real-time inference models.
+Infrastructure: Experience with cloud technologies (preferably AWS) and containerisation (e.g., Docker, Kubernetes).
+Soft Skills: Excellent communication skills and the ability to engage with stakeholders to understand complex business requirements in high-stakes environments.
+Engineering Standards: Familiarity with version control (Git), Agile methodologies, and collaborative problem-solving.
+Right to Work in Australia and residing in Sydney
+
+
+
+
+Perks and Benefits:
+
+Work on-site or remote work (with in-office collaboration days for employees with local offices). 
+Annual Birthday leave.
+Annual Learning & Development 
+Continuous training and career development opportunities.
+Inclusive workplace culture that values diversity, equity, and belonging.
+
+
+
+
+Please note: if you are offered a role, background checks may be required, including police, employment, and qualification checks."
+90894165,"Senior Data Analyst - Recommendation, Feeds, Growth (AI/LLM)",Binance,https://www.seek.com.au/job/90894165?type=standard&ref=search-standalone&origin=jobCard#sol=d6730a1649d10a1e4ccc7800c5fcfe334bdb7a27,2h ago,2.0,2026-03-12T05:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Full time,,"Asia / Thailand, Bangkok / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / South East Asia / Vietnam, Ho Chi Minh / UAE, Dubai / Hong Kong / Taiwan, Taipei
+
+Engineering – Big Data /
+
+Full-time: Remote /
+
+Remote
+
+apply for this job
+
+Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+
+Conducted data analysis focused on Recommendation/ Feeds/ Growth scenarios.
+Delivered advanced analytics, reporting, and BI applications to support strategic decision-making.
+Supported and prioritised data requests from business stakeholders; interpreted change requirements and assessed their business impact.
+Partnered with cross-functional teams to identify and deliver high-impact analytical use cases.
+Led the implementation of AI (LLM)-based autonomous agents for data analysis, chatbot interaction, and sentiment monitoring.
+Mentored junior analysts in executing complex, data-driven projects under tight timelines.
+Requirements
+
+5+ years of experience in data analytics, with deep expertise in statistics, machine learning, and data-driven decision-making.
+Proficient in SQL, Python, Spark, Power BI, and Tableau, capable of delivering end-to-end analytical solutions.
+Hands-on LLM experience in developing Prompt, RAG, Workflows,GenAI,Multimodal AI and Agents, with a strong track record of iterative optimization and performance enhancement.
+Strong AI product mindset, able to translate data insights into intelligent product features and drive innovation.
+Excellent English communication skills, experienced in collaborating across multinational and cross-cultural teams.
+Rich analytical background in Web3 or Internet e-commerce industry and analysis work relating to Recommendation/ Feeds/ Growth will be beneficial.
+
+Why Binance
+
+• Shape the future with the world’s leading blockchain ecosystem
+
+• Collaborate with world-class talent in a user-centric global organization with a flat structure
+
+• Tackle unique, fast-paced projects with autonomy in an innovative environment
+
+• Thrive in a results-driven workplace with opportunities for career growth and continuous learning
+
+• Competitive salary and company benefits
+
+• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)
+
+Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.
+
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+apply for this job"
+90892826,GEN-AI DEVELOPER,CQUniversity,https://www.seek.com.au/job/90892826?type=standard&ref=search-standalone&origin=jobCard#sol=f62dd9baadd864900775d644ee9c465879a45edc,2h ago,2.0,2026-03-12T05:00:00+00:00,"Norman Gardens, Rockhampton & Capricorn Coast QLD","Developers/Programmers (Information & Communication Technology)
 Other (Education & Training)",Full time,"$102,876 to $111,538 + 17% super & leave loading","About this Opportunity
 
 Fixed-Term (until 31.12.2026), Full-Time
@@ -77,7 +282,7 @@ Work Rights: Visa sponsorship is not available for this position. Candidates mus
 CQUniversity is an equal opportunity employer and welcomes diversity in the workplace. Aboriginal and Torres Strait Islander people, and CQUniversity’s domestic and international student graduates with post-study work rights are encouraged to apply.
 
 Keywords: | Artificial Intelligence | AI Solutions | Applied AI | AI Platform Engineer | AI Systems Engineer | AI Automation | AI Integration Engineer | AI Application Engineer | Intelligent Systems Engineer | AI Technology Specialist | AI Development Specialist | AI Implementation Engineer | AI Innovation Engineer | Technical Specialist | Intelligent Automation | Advanced Technology | Advanced Analytics Engineer | Data Scientist | NLP Engineer | Computer Vision Engineer | AI Software | Emerging Technology"
-90892476,Integration Solution Designer,WorkSafe Victoria,https://www.seek.com.au/job/90892476?type=standard&ref=search-standalone&origin=jobCard#sol=5afcd96320c9bc205600bcce1d58093218e4f01f,1h ago,1.0,2026-03-12T04:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)",Government - State (Government & Defence),Full time,,"WorkSafe is Victoria's workplace health and safety regulator. We are also the workplace injury insurer. Our job is to reduce workplace harm and improve outcomes for injured workers. This is our promise to the Victorian community and the reason we exist.
+90892476,Integration Solution Designer,WorkSafe Victoria,https://www.seek.com.au/job/90892476?type=standard&ref=search-standalone&origin=jobCard#sol=0fe4d71f2b0c127050f5bb2c22f81d3859d74479,2h ago,2.0,2026-03-12T05:00:00+00:00,"Geelong, South West Coast VIC (Hybrid)",Government - State (Government & Defence),Full time,,"WorkSafe is Victoria's workplace health and safety regulator. We are also the workplace injury insurer. Our job is to reduce workplace harm and improve outcomes for injured workers. This is our promise to the Victorian community and the reason we exist.
 
 
 
@@ -144,7 +349,7 @@ Due to the volume of applications received, individualised feedback will only be
 To ensure a fair and open recruitment process, we request that you complete your written application and any online interviews without the use of AI tools. We want to understand your professional skills, experience and capabilities. We acknowledge that candidates may choose to use AI as part of background research.
 
 For further enquiries please contact David Heaney via email - david_heaney@worksafe.vic.gov.au"
-90891644,Senior Firmware / Embedded Systems Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/90891644?type=standard&ref=search-standalone&origin=jobCard#sol=7490d93c22db45673f6f648e14033bdd07c3ba05,2h ago,2.0,2026-03-12T03:00:00+00:00,"Barangaroo, Sydney NSW",Systems Engineering (Engineering),Full time,,"Company Description
+90891644,Senior Firmware / Embedded Systems Engineer,Nearmap Australia Pty Ltd,https://www.seek.com.au/job/90891644?type=standard&ref=search-standalone&origin=jobCard#sol=b998fd44cfbdd61fc7a9126a2b3a5cc787ecfa46,3h ago,3.0,2026-03-12T04:00:00+00:00,"Barangaroo, Sydney NSW",Systems Engineering (Engineering),Full time,,"Company Description
 
 
 Nearmap is the Australian-founded, global tech pioneer innovating the location intelligence game. Customers rely on Nearmap for consistent, reliable, high-resolution imagery, insights, and answers to create meaningful change in the world and propel industries forward.
@@ -224,7 +429,7 @@ Ready to elevate your embedded systems career? Apply now.
 #EmbeddedSystems #EmbeddedEngineering #FirmwareDevelopment #RealTimeSystems #Mechatronics #SydneyJobs #EngineeringJobs #TechCareers #Nearmap
 
 Note to Agencies: Thanks, but we got this! Nearmap is engaging with applicants directly and not working with any recruitment agency for this position. Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes."
-90889008,Integration Analyst - Single Digital Patient Record,eHealth,https://www.seek.com.au/job/90889008?type=standard&ref=search-standalone&origin=jobCard#sol=bb6859216ae61e76e9ec18b532fff6f131332395,2h ago,2.0,2026-03-12T03:00:00+00:00,Sydney NSW,"Developers/Programmers (Information & Communication Technology)
+90889008,Integration Analyst - Single Digital Patient Record,eHealth,https://www.seek.com.au/job/90889008?type=standard&ref=search-standalone&origin=jobCard#sol=2605ddbcac4920eb1525c0ed827f041095ae0bba,4h ago,4.0,2026-03-12T03:00:00+00:00,Sydney NSW,"Developers/Programmers (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,"$132,236 - $150,222","Position: Integration Analyst (multiple opportunities)
 Award: Health Manager Level 3
 Employment Type: Temporary Full Time up to March 2029
@@ -322,7 +527,7 @@ This role may require evening, night, weekend and/or shift work, in accordance w
 #SDPRIA
 
 ."
-90888988,Industrial_Automation Specialist,LGI Ltd,https://www.seek.com.au/job/90888988?type=standard&ref=search-standalone&origin=jobCard#sol=88f65815a4c1f84aea31ebe9e80b6415387722d6,2h ago,2.0,2026-03-12T03:00:00+00:00,"Eagle Farm, Brisbane QLD","Oil & Gas - Engineering & Maintenance (Mining, Resources & Energy)",Full time,,"About the Role
+90888988,Industrial_Automation Specialist,LGI Ltd,https://www.seek.com.au/job/90888988?type=standard&ref=search-standalone&origin=jobCard#sol=f914d63cc9a77c03aaebb70502551beb1c717032,4h ago,4.0,2026-03-12T03:00:00+00:00,"Eagle Farm, Brisbane QLD","Oil & Gas - Engineering & Maintenance (Mining, Resources & Energy)",Full time,,"About the Role
 
 Join LGI’s Projects team as an Industrial Automation Specialist and support the delivery and operation of LGI’s renewable energy facilities, including landfill gas power generation, flare and gas processing systems.
 
@@ -399,7 +604,7 @@ LGI develops and operates renewable energy projects that convert landfill gas in
 Apply Now
 
 You must have permanent work rights in Australia. Sponsorship is not available for this role."
-90888579,Senior AI Engineer (Agentic AI / GenAI),Algo Talent,https://www.seek.com.au/job/90888579?type=standard&ref=search-standalone&origin=jobCard#sol=a2d3f03e09d7e415c5160fdfb1fe40ce79577be3,3h ago,3.0,2026-03-12T02:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Senior AI Engineer (Agentic AI / GenAI)
+90888579,Senior AI Engineer (Agentic AI / GenAI),Algo Talent,https://www.seek.com.au/job/90888579?type=standard&ref=search-standalone&origin=jobCard#sol=f229082f254cd8d7e7161354b09ed4b23c385a13,4h ago,4.0,2026-03-12T03:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Senior AI Engineer (Agentic AI / GenAI)
 Location: Sydney, Australia (Hybrid)
 Role type: Permanent, Full-Time
   
@@ -431,7 +636,7 @@ Why it's worth a look
 If you want to spend the next few years doing genuinely interesting GenAI work rather than maintaining legacy models, it's a good fit.
   
 Referral bonus: Know someone right for this? We pay $1,000 for successful referrals, DM us or email hello@algotalent.ai"
-90887886,Senior Staff Systems Engineer,Motorola Solutions,https://www.seek.com.au/job/90887886?type=standard&ref=search-standalone&origin=jobCard#sol=2dfdafc2296cc9584071cf9ba19ba120de4fa2a1,3h ago,3.0,2026-03-12T02:00:00+00:00,Adelaide SA,Systems Engineering (Engineering),Full time,"$150,000 – $175,000 per year","Motorola Solutions is a global leader in mission-critical communications and analytics. Our platforms in public safety and enterprise security help customers stay safe, secure, and productive.
+90887886,Senior Staff Systems Engineer,Motorola Solutions,https://www.seek.com.au/job/90887886?type=standard&ref=search-standalone&origin=jobCard#sol=c6711196ead395514d3b9242a2074dedf9019444,4h ago,4.0,2026-03-12T03:00:00+00:00,Adelaide SA,Systems Engineering (Engineering),Full time,"$150,000 – $175,000 per year","Motorola Solutions is a global leader in mission-critical communications and analytics. Our platforms in public safety and enterprise security help customers stay safe, secure, and productive.
 
 The Post-Sale Systems Engineering team is the technical life and blood of Motorola Solutions Systems Integration Organisation. Our engineers are focused on designing and implementing complex communication solutions for Solving for Safer We act as solution architects and technical consultants, managing the entire post-sale project lifecycle from concept to deployment, including design, consultancy, and implementation. Our commitment is to deliver world-class, end-to-end solutions for Mission Critical Enterprise and Government customers, prioritising reliability, resilience, and performance for critical communication.
 
@@ -508,7 +713,7 @@ Location: South Australia
 Hours: 37.5 Hours Per Week (Full time)
 
 Salary Range: $150,000 - 175,000 AUD"
-90887684,Staff Platform Engineer,SEEK Limited,https://www.seek.com.au/job/90887684?type=standard&ref=search-standalone&origin=jobCard#sol=2fabafae8ac49bfd323c76b10f34bc84f069aa88,3h ago,3.0,2026-03-12T02:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+90887684,Staff Platform Engineer,SEEK Limited,https://www.seek.com.au/job/90887684?type=standard&ref=search-standalone&origin=jobCard#sol=eeaa106064f2f8176db6afac491be07e67bc919b,4h ago,4.0,2026-03-12T03:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -573,7 +778,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-90887502,AI Engineer,Teachers Mutual Bank,https://www.seek.com.au/job/90887502?type=standard&ref=search-standalone&origin=jobCard#sol=9b130a4b34d55f67bf976e258c9369c0f1d9619e,3h ago,3.0,2026-03-12T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At Teachers Mutual Bank Limited, you’ll apply your AI engineering expertise to solve complex business challenges, enhance member experiences, and help teams work smarter. With supportive leadership, modern technology, and a collaborative analytics environment, this role is designed for engineers who want to make a real impact.
+90887502,AI Engineer,Teachers Mutual Bank,https://www.seek.com.au/job/90887502?type=standard&ref=search-standalone&origin=jobCard#sol=09e068d4ac8c21a10eb8812327418bfacde11724,4h ago,4.0,2026-03-12T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"At Teachers Mutual Bank Limited, you’ll apply your AI engineering expertise to solve complex business challenges, enhance member experiences, and help teams work smarter. With supportive leadership, modern technology, and a collaborative analytics environment, this role is designed for engineers who want to make a real impact.
 
 Why you’ll love this role
 
@@ -618,7 +823,7 @@ For a confidential conversation, please contact talent@tmbl.com.au.
 We work under a hybrid working model to provide flexibility in the workplace. For more information about working conditions as well as our employee value proposition, please visit the careers page on our website at www.tmbank.com.au or find us on LinkedIn!
   
 Teachers Mutual Bank Ltd may conduct a background or reference check (or both) as part of the recruitment process. By applying you agree to cooperate fully in those procedures and understand that an offer is subject to the satisfactory outcome of those checks, at the discretion of Teachers Mutual Bank Ltd."
-90887074,Senior Data Scientist,Future Secure AI Pty Ltd,https://www.seek.com.au/job/90887074?type=standard&ref=search-standalone&origin=jobCard#sol=1aaff500342cc345a468e0c685924c4f84ad0d24,3h ago,3.0,2026-03-12T02:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"About Us
+90887074,Senior Data Scientist,Future Secure AI Pty Ltd,https://www.seek.com.au/job/90887074?type=standard&ref=search-standalone&origin=jobCard#sol=346b07d8588b0042c7033cef05ea460648868646,4h ago,4.0,2026-03-12T03:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"About Us
 
 Future Secure AI is a rapidly scaling AI company co‑developed with one of the world’s largest financial institutions. Operating with the agility of a startup and the backing of global enterprise leaders, we are building technology that elevates human performance through advanced AI Co-workers and next‑generation LLM systems.
 
@@ -691,7 +896,7 @@ Join a high‑trust, high‑performance culture built around craft, ownership, a
 If you’re driven by innovation, inspired by big challenges, and ready to build AI systems that matter—we’d love to meet you.
 
 For a quicker response, we encourage you to apply directly through our website at https://www.futuresecure.ai/. There, you can watch a video about AI workers and explore the career opportunities we have available."
-90885065,Data Integration Developer (Azure),TRS - Public Sector,https://www.seek.com.au/job/90885065?type=standard&ref=search-standalone&origin=jobCard#sol=1748580ddae22c0baa94e96aec85d8d12cd48d73,4h ago,4.0,2026-03-12T01:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,$745 -$879 per day + super,"Data Integration Developer (Azure)
+90885065,Data Integration Developer (Azure),TRS - Public Sector,https://www.seek.com.au/job/90885065?type=standard&ref=search-standalone&origin=jobCard#sol=27d32ea644394c5a2faf495f8477988a1260af09,5h ago,5.0,2026-03-12T02:00:00+00:00,"Parramatta, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Contract/Temp,$745 -$879 per day + super,"Data Integration Developer (Azure)
 
 
 NSW Government Organisation - hybrid Parramatta & WFH - ASAP start; initial 5 month contract - $754 - $879 per day + super
@@ -712,7 +917,7 @@ Hands-on expertise with the Azure integration ecosystem, including Azure Logic A
 Strong grounding in API design best practices, including versioning strategies, error handling, data serialisation (JSON, XML) and integration protocols such as REST, SOAP, OData, FTP and JMS.
 Solid understanding of data integration standards, security, governance and classification requirements within complex enterprise environments
 If you have the relevant experience, please apply now with your up-to-date CV (in Word format)."
-90884288,Systems Engineer,AIM Defence,https://www.seek.com.au/job/90884288?type=standard&ref=search-standalone&origin=jobCard#sol=c55c495a3a98576c3805efb0d796202f9de9ec3c,4h ago,4.0,2026-03-12T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Systems Engineering (Engineering),Full time,,"About AIM
+90884288,Systems Engineer,AIM Defence,https://www.seek.com.au/job/90884288?type=standard&ref=search-standalone&origin=jobCard#sol=bcea33666ba35b96e892826f3fe935a1f4ee0831,6h ago,6.0,2026-03-12T01:00:00+00:00,"Port Melbourne, Melbourne VIC",Systems Engineering (Engineering),Full time,,"About AIM
 
 AIM Defence is a fast-growing deep-tech startup developing high-power laser systems to protect people from weaponised drones. We operate at the intersection of cutting-edge technology and defence, with a focus on practical outcomes, not bureaucracy. We are seeking an experienced Systems Engineer to produce high-quality documentation for defence procurement and international partner integration, ensuring that all outputs are rigorous, accurate, and actionable.
 
@@ -767,7 +972,7 @@ Why Join AIM?
 Contribute to large-scale defence procurement projects.
 
 Play a key role in documentation and integration with global partners."
-90883843,Data Engineer (AWS/Snowflake/Airflow/DBT/Python),"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90883843?type=standard&ref=search-standalone&origin=jobCard#sol=01e2032010b499236b913a99aa77e463778251ed,5h ago,5.0,2026-03-12T00:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,$141 - $173600 p.a.,"Talent International is searching for an experienced Data Engineer to join our large mining technology client based in Brisbane CBD on a permanent basis, with 2 days WFH per week.
+90883843,Data Engineer (AWS/Snowflake/Airflow/DBT/Python),"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/90883843?type=standard&ref=search-standalone&origin=jobCard#sol=2df97784c8194ddc75d9ee898a4c07656d43ac91,6h ago,6.0,2026-03-12T01:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,$141 - $173600 p.a.,"Talent International is searching for an experienced Data Engineer to join our large mining technology client based in Brisbane CBD on a permanent basis, with 2 days WFH per week.
 
 // Permanent opportunity with a global mining technology leader
 // Hybrid work environment - 2 days WFH per week
@@ -804,7 +1009,7 @@ To find out more, please ""Apply for this job"" or contact Mats Rorvik at: mats.
 For over 30 years, Talent has been redefining the contracting and permanent recruitment experience with industry-leading support, exclusive benefits, and a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career.
 
 For a list of all vacant positions, please see our website: www.talentinternational.com"
-90883766,Capture and Solutions Architect,Aurizn Pty Ltd,https://www.seek.com.au/job/90883766?type=standard&ref=search-standalone&origin=jobCard#sol=ff68275291e19ffee1b3a837076d50b2e9d8d69b,5h ago,5.0,2026-03-12T00:00:00+00:00,Adelaide SA (Hybrid),Other (Engineering),Full time,,"About Aurizn
+90883766,Capture and Solutions Architect,Aurizn Pty Ltd,https://www.seek.com.au/job/90883766?type=standard&ref=search-standalone&origin=jobCard#sol=28cd67ac3226ddd57c2b320fb1b27a7e0a3815a5,6h ago,6.0,2026-03-12T01:00:00+00:00,Adelaide SA (Hybrid),Other (Engineering),Full time,,"About Aurizn
 
 Aurizn is an Australian-owned defence company delivering capability across the full mission lifecycle in support of a more secure future. For more than 20 years, Aurizn has been a trusted partner to Defence, national security agencies and industry, providing deep technical expertise and operational insight to complex missions.
 
@@ -837,7 +1042,7 @@ Minimum experience of 2 years as a Solutions Architect the Growth function in th
 Demonstrated proficiency in capture management techniques and processes such as Shipleys, and the ability to tailor the processes to suit the maturity of the business as it grows. 
 Ability to quickly understand technologies including AI/ML, DevSecOps, MLOps, network security, and various physics and parametric modelling techniques.
 Exceptional written and verbal communication, and strong stakeholder management skills."
-90884200,Application Support Engineer,SS&C Technologies,https://www.seek.com.au/job/90884200?type=standard&ref=search-standalone&origin=jobCard#sol=dae9cfce999c9846ce853ce308b5cc6116e97e7f,5h ago,5.0,2026-03-12T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"As a leading financial services and healthcare technology company based on revenue, SS&C is headquartered in Windsor, Connecticut, and has 27,000+ employees in 35 countries. Some 20,000 financial services and healthcare organizations, from the world's largest companies to small and mid-market firms, rely on SS&C for expertise, scale, and technology.
+90884200,Application Support Engineer,SS&C Technologies,https://www.seek.com.au/job/90884200?type=standard&ref=search-standalone&origin=jobCard#sol=1fcdf7098bab610063e95873a3a29bc4ef6d1f43,7h ago,7.0,2026-03-12T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"As a leading financial services and healthcare technology company based on revenue, SS&C is headquartered in Windsor, Connecticut, and has 27,000+ employees in 35 countries. Some 20,000 financial services and healthcare organizations, from the world's largest companies to small and mid-market firms, rely on SS&C for expertise, scale, and technology.
 
 Job Description
 
