@@ -1,1 +1,101 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+90950091,"Senior Data Engineer - (Snowflake, AWS, Python)",Adactin Group Pty. Ltd.,https://www.seek.com.au/job/90950091?type=standard&ref=search-standalone&origin=jobCard#sol=8c25846223f9e04209cf0e7c2b9e4de72e6ef817,2h ago,2.0,2026-03-16T01:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,$80 – $120 per hour,"Adactin Group is a 100% Australian-owned global IT consulting company, headquartered in Sydney. We are a trusted technology partner helping organisations drive end-to-end digital transformation through our deep expertise in Microsoft and AWS ecosystems, AI-powered Digital Engineering, and future-ready Quality Assurance.
 
+Our managed delivery approach, backed by domain expertise, ensures successful outcomes for every project.
+
+At Adactin, we believe in the power of our people. We foster a dynamic and supportive environment where your career can grow alongside exciting projects that shape the future of technology. Join us, and be part of a team committed to innovation, excellence, and making a difference.
+
+Seeking for Data Engineer and Senior Data Engineers for a well know Insurance client
+based in Sydney (Multiple roles)
+
+Data Engineer
+
+The Data Engineer – Data Platform Engineering is responsible for designing and building scalable, reusable data pipelines and transformations that power cloud-based data platform. This role focuses on delivering high-quality, production-ready solutions that support reporting, analytics, and AI use cases across Snowflake and AWS.
+
+Working within an Agile delivery team, the Data Engineer collaborates with Solutions Designers and Senior Engineers to translate business needs into engineered solutions that are reliable, testable, and aligned to platform standards.
+
+Qualification & Skills Experience
+
+Essential
+· Bachelor’s degree in Computer Science, Information Systems, or related field
+· Solid SQL and understanding of data structure and query optimisation
+· Exposure to data pipeline development in Snowflake, AWS, or similar cloud environments · Familiarity with version control tools and modular code practices
+· Minimum 2+ years of experience in data engineering, analytics engineering, or related technical role
+· Experience building or supporting ELT/ETL workflows in production environment · Demonstrated ability to work effectively within Agile teams.
+
+Desirable
+· Exposure to Python, AWS Glue, or similar scripting/orchestration tools
+· Familiarity with CI/CD tools (e.g. GitHub Actions, Azure DevOps)
+· Understanding of data quality concepts and test automation
+· Experience working with BI/reporting teams (e.g. Power BI, Qlik)
+· Exposure to data modelling, metadata, or lineage tooling
+· Experience working in public sector, insurance, or highly regulated environments
+
+
+
+
+Senior Data Engineer
+
+The Senior Data Engineer is responsible for the design, development, and optimisation of data pipelines, transformations, and platform components within cloud-based data ecosystem. This role combines hands-on delivery with technical leadership across projects, enabling scalable and reusable data assets that support analytics, insights, and operational use cases.
+
+As a senior member of the Data Platform Engineering team, the role contributes to the standardisation of engineering practices, mentors junior engineers, and proactively collaborates with Solution Designers, DevOps, and Data Ops to ensure quality, performance, and operational readiness.
+
+ KEY RESPONSIBILITIES: The “WHAT” to be delivered and outcomes to be achieved
+
+Develop and maintain reliable, performant, and reusable data pipelines using AWS (e.g. Glue, Lambda) and Snowflake
+
+Translate solution designs and modelling specifications into technical implementation with minimal supervision
+
+Contribute to design discussions and code reviews, helping uplift engineering quality and consistency
+
+Embed logging, error handling, and observability features into all pipeline work
+
+Apply CI/CD practices and collaborate with DevOps to automate build, test, and deployment processes
+
+Support solution scalability by building with reusability and modularisation in mind
+
+Mentor junior Data Engineers, contributing to technical documentation and team knowledge sharing
+
+Collaborate with Data Engineers, contributing to technical documentation and team knowledge sharing
+
+Collaborate with Data Ops on tuning, deployment readiness, and continuous improvement actions
+
+Liaise with Solution Designers and Performance Monitoring & Insights to ensure data is for downstream consumption
+
+Reports to the Manager, Data Platform Engineering
+
+Works under the technical guidance of the Lead Data Engineer
+
+Collaborates closely with:
+
+Solution Designers and Data Modellers to ensure solution alignment
+
+DevOps Engineer for CI/CD implementation and release readiness
+
+Data Ops to support deployment, troubleshooting, and performance improvements
+
+Senior Test Engineers or embedded testing function to support test-drive deployment
+
+Acts as a liaison between technical teams and enterprise delivery/program stakeholders
+
+
+
+
+Qualification & Skills Experience
+
+Essential
+
+· Bachelor’s degree in Computer Science, Software Engineering, Data Engineering or related field
+Strong SQL and Python skills · Solid understanding of data pipeline orchestration, transformation logic, and cloud-native tools (Snowflake, AWS Glue, Lambda, S3)
+· Familiarity with CI/CD practices and code versioning
+· Minimum 5+ years in data engineering or related development roles
+· Proven experience building end-to-end data pipelines and transformations in cloud platforms
+· Demonstrated ability to lead delivery across individual initiatives or workstreams
+
+Desirable
+· Snowflake and /or AWS certifications
+· Familiarity with data quality frameworks and automated testing tools (e.g. dbt, Great Expectations)
+· Experience contributing to modularised, shared pipeline frameworks
+· Experience working in public sector, insurance, or highly regulated environments
+· Exposure to modern analytics workflows (e.g. real-time, streaming, ML features)
+· Participation in Agile delivery teams and cross-functional projects"
