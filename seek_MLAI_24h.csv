@@ -1,1 +1,110 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+91027132,AI Automation Engineer | Full Stack Developer,Lakestone.ai,https://www.seek.com.au/job/91027132?type=standard&ref=search-standalone&origin=jobCard#sol=3b1378f1e5eafd22bd2c5a4daf046a37f6642ca4,1h ago,1.0,2026-03-18T21:00:00+00:00,"West Perth, Perth WA (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Welcome to Lakestone.ai, Perth's fastest growing AI agency.
 
+We build complete AI-driven production systems for corporate clients, and we're very good at it.
+
+We're a small, dedicated, passionate, high-output team but first and foremost we're about developing a fun, engaging culture of learning and sharing.
+
+ 
+
+What we offer:
+
+Competitive salary + performance-based incentives/bonuses
+
+Genuine flexibility - work where and when you're most productive
+
+Variety - Interesting, varied work across multiple industries, projects, and tech stacks
+
+A brilliant team - you'll learn from — and who'll learn from you!
+
+ 
+
+The work:
+
+No two weeks look the same. Our clients trust us with their most complex problems and data. You'll work across multiple projects, multiple stacks and multiple industries.
+
+Recent builds include:
+
+Custom CRM dashboards with real-time analytics
+
+RAG pipelines with pgvector and semantic search
+
+Speech-to-text processing systems
+
+AI-powered chatbots and conversational agents
+
+Internal tooling that replaces entire manual workflows
+
+ 
+
+How we operate:
+
+Output is the only metric. No standups. No timesheets. No micromanagement.
+
+You get flexibility, autonomy and performance bonuses. We care about what you ship, not when you're online.
+
+Some days you'll be at a client's office, sitting with their team, understanding the problem firsthand and shipping solutions in real time.
+
+Other days you'll be working from home, heads down on a build. You manage your own schedule — the balance between client-facing and deep work is yours to own.
+
+Note: This means two things: you need to be genuinely comfortable engaging with non-technical clients and end-users face-to-face, and you need to be excellent at managing yourself.
+
+ 
+
+Location:
+
+Perth-based only. You will need to be at client sites regularly. Candidates must have full working rights in Australia to be considered.
+
+ 
+
+The Requirements (there are only two):
+
+(1) You must know Claude Code inside and out.
+
+You need to demonstrate deep, working knowledge of:
+
+Customisation - Skills, hooks, MCP servers, rules, and custom agents
+
+Multi-worktree workflows — planning, execution, and review running simultaneously
+
+Memory systems — project memory, session context management, episodic/semantic/hybrid
+
+Model tiering — orchestrating Opus, Sonnet, and Haiku across parallel sub-agents
+
+Third-party integrations — MCPs, skills, and agent ecosystems
+
+
+
+
+(2) Show us what you've built.
+
+No lengthy CVs. No cover letters. No ""proficient in AI tools."" No X+ years of previous software experience or university degrees required.
+
+We want to see a repo, a demo, or a screen recording. Show us something that proves you build real things with AI-assisted development. We'll be looking at your architecture, security practices, code structure, and how you manage complexity — this will be our reference check.
+
+
+
+
+The Tech Stack:
+
+You should be very comfortable across most of these:
+
+- TypeScript, React, Vite, Tailwind CSS
+
+- Hono, Express, Node.js, Bun
+
+- Supabase (Postgres), MongoDB
+
+- Vercel, Cloudflare (Workers, Pages), Railway, Fly
+
+- Docker (local + production)
+
+- GitHub Actions, CI/CD pipelines
+
+- Microsoft 365 tenant administration
+
+ 
+
+How to Apply:
+
+Upload a PDF with your contact details and links to your best work — repos, demos, screen recordings, or architecture diagrams. This is what we'll evaluate."
