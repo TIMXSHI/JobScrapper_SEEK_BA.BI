@@ -1,5 +1,647 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91054038,"AI Developer / AI Engineer / Sydney / Permanent / $160,000 + super",Allura Partners,https://www.seek.com.au/job/91054038?type=standard&ref=search-standalone&origin=jobCard#sol=a3a37908e9a27ca88ca7a928d945a66d7d828b31,4h ago,4.0,2026-03-20T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,165000,"AI Developer / AI Engineer / Sydney / Permanent / $160,000 + super
+91064260,AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91064260?type=standard&ref=search-standalone&origin=jobCard#sol=036b196b4e77fc276be77f4919898922ea1bca64,1h ago,1.0,2026-03-20T04:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Contract/Temp,INC Super,"We're partnering with a leading Australian university undertaking a major technology transformation in 2026, with a strong focus on AI adoption, legacy modernisation, and enhanced digital experiences.
+
+An opportunity exists for an experienced AI Engineer to help deliver an AI-powered conversational search capability within a large-scale student platform. This role will see you working on a production-grade system, transforming traditional search into a context-aware, multi-turn conversational experience.
+
+About the Role
+
+You'll take ownership of the backend and retrieval pipeline, working closely to defined architecture while ensuring the system is scalable, observable, and production-ready from day one.
+
+This is a hands-on engineering role where quality, latency, and cost are equally critical.
+
+Key Responsibilities
+
+RAG Pipeline Development
+
+Build and optimise the end-to-end retrieval pipeline (ingestion, chunking, embeddings, vector storage, retrieval, reranking)
+Implement and tune hybrid search (vector + keyword/BM25)
+Develop query understanding capabilities (rewriting, expansion, intent classification)
+Optimise performance across latency, cost, and accuracy
+
+LLM Integration & Prompting
+
+Integrate LLMs into the retrieval pipeline with strong grounding and response consistency
+Design and refine prompt templates for accurate, reliable outputs
+Implement guardrails to reduce hallucinations and improve confidence signalling
+Manage model trade-offs across performance, cost, and quality
+
+Evaluation & Testing
+
+Establish and track metrics (retrieval quality, response relevance, latency, cost per query)
+Build automated regression testing for pipeline changes
+Support evaluation frameworks such as RAGAS or similar
+Contribute to UAT with clear, interpretable outputs
+
+Backend Engineering
+
+Design and develop APIs for frontend and system integrations
+Implement multi-turn conversation state management
+Ensure observability through logging, monitoring, and analytics
+Work closely to architecture direction, raising risks early
+
+What Success Looks Like
+
+First 30 days: System understood, baseline metrics established, key improvements identified
+Mid engagement: Enhanced pipeline in staging with measurable uplift and stable APIs
+Delivery: Production-ready solution with strong performance and clean handover
+
+Essential Experience
+
+Proven experience building and deploying RAG systems in production
+Strong understanding of the end-to-end retrieval stack (embeddings, vector DBs, BM25, reranking)
+Production-level Python engineering (clean, testable, maintainable code)
+Experience working within defined architecture frameworks
+Ability to work autonomously in a consulting/contract environment
+Strong focus on balancing quality, latency, and cost
+Mindset of instrumentation before optimisation
+
+Highly Regarded
+
+Experience with multi-turn conversational AI systems
+Familiarity with RAG evaluation frameworks (RAGAS, TruLens, etc.)
+Exposure to enterprise knowledge platforms or higher education environments
+Experience with integration/automation tooling (e.g. n8n, Make)
+
+If you're looking for a change and would like to find out more about this opportunity apply now or reach out to ray.stewart@talentinternational.com for a confidential discussion"
+91064231,Data Engineer,Australian Retirement Trust,https://www.seek.com.au/job/91064231?type=standard&ref=search-standalone&origin=jobCard#sol=4633f714bb6c382e99e093286c5db34771300652,1h ago,1.0,2026-03-20T04:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Take hold of a monster opportunity and join our Technology Operations team as a Data Engineer.  If you’re a good fit for this role and live in Brisbane, Sydney or Melbourne, we’d love you to apply. 
+
+Why join us?
+
+You'll get 14% super as standard, to help your future come alive.
+Unleash your potential and build a career to be proud of through excellent training and development opportunities.
+Balance your work between in-person days at our purpose-built hubs and working from home.
+In the office, enjoy end of trip facilities, a yoga and multi-faith room, parent and carer rooms, quiet rooms, BrewHub coffee facilities, and collaborative team spaces.
+
+About the role
+
+We’re all about helping our members make the most of their money. And while they go after their goals, you can too. As a Data Engineer at Australian Retirement Trust (ART), you will play a key role in developing and managing data workflows, pipelines, ETL processes, and data reporting across ART’s data environments. You will work closely with technical and business stakeholders to deliver scalable, reliable, and innovative business intelligence and data solutions that support effective decision-making. This role is part of the Business Intelligence Team within the Data & Integration business unit, reporting to the Delivery Manager – Business Intelligence.
+
+ 
+
+Key Responsibilities:
+
+Develop, migrate, and maintain scalable data packages and pipelines, primarily on Microsoft Azure.
+Validate and assess external data sets from multiple sources to maximise the value of ART’s information assets.
+Design and implement data management structures to support consistent information retrieval, analysis, and interpretation.
+Apply up-to-date knowledge of data concepts, object and data modelling techniques, and design principles.
+Support and adhere to BI design standards, ensuring consistency and compliance across development, testing, and support.
+Apply data management processes, including classification, security, retrieval, and retention.
+Suggest and implement continuous improvements and innovation initiatives within the BI team.
+Identify, assess, and escalate risks in line with ART’s internal Risk Management framework.
+
+This role is a permanent opportunity. 
+
+📍 Location: Brisbane, Sydney or Melbourne. 
+
+About you
+
+It goes without saying you'll be a great communicator with top notch interpersonal skills. We'll also expect you to pick up problems and come up with quick, creative ways to solve them. It's quite likely you tick some of the following boxes too:  
+
+Proven experience designing, developing, and supporting BI products such as Azure Data Factory, Azure Databricks, MS SQL Server, SSAS, SSIS, SSRS, Power BI, Visual Studio, Python or R.
+Experience working with diverse data sets and formats, including CSV, XML, and JSON.
+Strong understanding of Business Intelligence, Business Process Management, and analytics.
+Experience using or administering PowerBI.com.
+Bachelor’s Degree or Diploma in Business, IT, or a related field, or equivalent work experience.
+High-level interpersonal, written, and oral communication skills, with the ability to consult and liaise on complex technical issues.
+Experience working in big data environments and with big data file formats (e.g., Parquet, Avro) is highly regarded.
+Knowledge of the full SDLC, Agile methodologies, and experience in CI/CD environments using Azure DevOps is desirable.
+
+About us
+
+Our 2.4 million members trust us to take care of over $330 billion in retirement savings. And we help them take charge of their finances and face the future with confidence. Our inclusive culture means you’ll be valued and heard in a respectful workplace. We've created an environment where you can be yourself and do amazing work. It's that simple.
+
+Apply online now
+
+Everyone is welcome to apply. We value diverse thinking, cultures, perspectives, backgrounds, and abilities. Awaken your career at Australian Retirement Trust and apply now. Applications close 11:30pm Friday 3 April 2026. 
+
+We don’t want to leave you with a monstrous wait. So, you’ll hear from us after the closing date to find out whether you’ve made it through to the next round or not. Being fair and up-front is important to us – and recruitment is no different."
+91064136,Data Engineer,M&T Resources,https://www.seek.com.au/job/91064136?type=standard&ref=search-standalone&origin=jobCard#sol=fd39f8564572809b2a60044f9bd9ffe95badc17b,1h ago,1.0,2026-03-20T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"I'm recruiting for a fast-growing technology company based in Sydney who work at the intersection of big data, advanced analytics, and industry-specific software. As they scale, they're looking for a Data Engineer who brings strong technical foundations, excellent communication, and a genuine curiosity for complex problem solving.
+ 
+This role suits someone 1-3 years into their engineering career who wants to go deep on data engineering in a domain-rich, fast-paced environment - building real pipelines, collaborating closely with cross-functional teams, and contributing to production systems from day one.
+ 
+What You'll Be Doing
+ 
+Development & Execution
+
+Develop, test, and deploy efficient, maintainable software solutions with a focus on data processing and core system features
+Write SQL for data extraction, transformation, and analysis
+Use Python for application logic and scripting
+Apply Git version control with clean branching and merging practices
+Collaboration & Stakeholder Management
+
+Work cross-functionally with Product, QA, and Business Analysts to translate requirements into technical plans
+Communicate clearly with both technical and non-technical stakeholders — written and verbal
+Partner with QA to ensure robust, accurate data outputs
+Support existing applications and drive continuous improvement
+Process & Documentation
+
+Prioritise tasks effectively, focusing on high-impact, business-aligned solutions
+Maintain clear, comprehensive documentation for code, processes, and system design
+Use production tools (e.g. Jira) to track progress and manage support tickets
+Problem Solving & Learning
+
+Troubleshoot issues analytically and devise innovative solutions
+Pick up new technical concepts and domain knowledge quickly
+ 
+You'll need 
+
+Strong SQL skills — transformation, extraction, and analysis
+Python proficiency for scripting and application logic
+Excellent communication and collaboration skills
+Self-motivated with strong ownership, curiosity, and time management
+Quick learner — comfortable navigating new domains and technologies
+Desirable
+
+Experience with AWS Cloud services (e.g. Glue, Athena, Lambda)
+Familiarity with Jira or similar ticketing/production tools
+Exposure to industry-specific data domains (e.g. pricing, reservations, transactions)
+Please hit apply or reach out to me directly on colin.waters@mtr.com.au."
+91064099,Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91064099?type=standard&ref=search-standalone&origin=jobCard#sol=c646fbb87749690c008bdf13e110bb769a89dc76,1h ago,1.0,2026-03-20T04:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"2 Month Contract - Government Department
+CBD Location - Hybrid Working Arrangement
+Snowflake and Role-Based Access Experience
+
+We're seeking a Data Engineer who will be heavily focused on evolving existing data warehouse environments into Snowflake, helping design and deliver a next-generation data platform. A key part of this position involves working with role-based access controls (RBAC), ensuring secure and scalable data access
+
+What you'll do
+
+Lead and support the migration and evolution of data warehouses into Snowflake
+Design and implement robust data models to support analytics and reporting
+Develop and optimise SQL-based transformations and data pipelines
+Implement and manage role-based access control (RBAC) within Snowflake
+Ensure adherence to data governance, security and quality standards
+
+What you'll bring
+
+Strong experience working as a Data Engineer
+Strong hands-on experience with Snowflake, including architecture and optimisation
+Proven experience implementing role-based access controls (RBAC) and data security best practices
+Advanced SQL skills with a focus on performance tuning and transformation logic
+Solid experience in data modelling (dimensional modelling, data warehouse design)
+Strong understanding of data governance frameworks and practices
+
+What's in it for you:
+
+2 Month Contract
+CBD Location - Hybrid work from home model
+Government Agency
+
+Please apply today to secure an interview or contact Sarah Jordan on sarah.jordan@talentinternational.com for more information."
+91063707,Software QA Engineer - Medical Imaging,Omniscient Neurotechnology,https://www.seek.com.au/job/91063707?type=standard&ref=search-standalone&origin=jobCard#sol=acd58d348d326a9fb9b0754a9869bc08b243f448,1h ago,1.0,2026-03-20T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"JOB SUMMARY
+
+We are seeking a detail-oriented and technically strong Software QA Engineer - Medical Imaging to ensure the quality, reliability, and performance of our advanced imaging and analytics software. This role will play a critical part in validating analytic pipelines, including medical imaging workflows, and ensuring our products meet the highest standards of accuracy, scalability, and usability.
+
+The ideal candidate will be motivated by working on complex, data-intensive systems and will bring hands-on experience in software quality assurance within medical imaging, neuroscience, or similarly regulated technical domains. You will collaborate closely with Engineering, Product, and Design teams to embed quality throughout the development lifecycle, from early design through deployment.
+
+This position requires developing deep technical expertise in analytic and imaging pipelines, test automation frameworks, and CI/CD environments. The role will focus on designing scalable, maintainable testing strategies while monitoring system performance and proactively identifying quality gaps.
+
+As a key member of a fast-growing, technology-driven organisation working at the intersection of medical imaging, analytics, and machine learning, you will have the opportunity to make an immediate impact on product quality and support the delivery of high-confidence solutions to clinical and research users.
+
+ABOUT OMNISCIENT
+
+Omniscient (o8t®) is the world leader in using AI to decode the human brain—a field known as connectomics. Our mission is to improve the lives of billions through connectomics. Today, Omniscient’s connectomic analysis platform, Quicktome®, generates personalized, patient-specific maps of an individual’s brain networks, or connectome. These critical insights inform prognosis and planning across neurologic conditions, from cranial surgery and neuro-oncology to stroke and beyond. Tomorrow, Omniscient is poised to revolutionize brain health and help conquer conditions such as Alzheimer’s disease and depression through truly personalized brain medicine.
+
+Our products deliver these insights with enterprise-grade efficiency and usability, enabling broader access to vital subject-specific neurological insights.
+
+Since founding, we have grown exponentially and achieved several world firsts with the development of the world’s first connectomic neurosurgical planning and visualization platform to be cleared by regulatory bodies. Omniscient recently expanded its product offering to include the first FDA-cleared neurological planning and visualization tool using resting-state fMRI, opening up new horizons for clinicians to assess brain connectivity and function in cases such as brain surgery, stroke, disorders of consciousness, and oncology.
+
+With continued development, we intend to improve the lives of billions with both medical and non-medical products and services that drastically change how the human brain is understood, treated, and even enhanced.
+
+RESPONSIBILITIES:
+
+Design, develop, and execute comprehensive test plans, test cases, and automated test scripts for complex analytic and imaging software pipelines
+
+Perform functional, regression, integration, performance, and unit testing across cloud-based software platforms
+
+Define, implement, and continuously improve QA test frameworks for analytic pipelines, including medical imaging and neuroscience workflows
+
+Validate medical imaging pipelines using formats such as DICOM and NIfTI, ensuring data accuracy, reliability, and performance
+
+Monitor CI/CD pipelines, analyse test results, triage failures, and collaborate with engineering teams to resolve issues efficiently
+
+Identify gaps in test coverage and implement scalable, maintainable testing strategies aligned with agile development practices
+
+Track, document, and manage defects using bug-tracking tools, ensuring timely resolution and root-cause analysis
+
+Work closely with Product, Engineering, and Design teams to ensure quality is embedded throughout the software development lifecycle
+
+Participate in design reviews, sprint planning, and agile ceremonies, providing proactive feedback on quality, usability, and performance
+
+Advocate for best practices in software quality engineering, automation, and continuous improvement
+
+KEY REQUIREMENTS:
+
+Bachelor’s degree in Computer Science, Engineering, Life Sciences, Physics, or a related field
+
+3+ years’ experience in a Software QA Engineer / Quality Engineering role
+
+Experience testing medical imaging software, analytic pipelines, or data-intensive platforms
+
+Strong automation and scripting skills in Python (preferred) and/or TypeScript
+
+Solid knowledge of software testing methodologies, including functional, regression, integration, performance, and unit testing
+
+Hands-on experience with medical imaging data formats such as DICOM and NIfTI
+
+Experience with MRI imaging techniques, including fMRI (BOLD), DTI, and DWI
+
+Strong understanding of image processing and validation for 2D/3D interactive visualization software
+
+Experience working with CI/CD pipelines, automated test frameworks, and test infrastructure
+
+Familiarity with cloud platforms (AWS, GCP, or Azure) and container technologies (Docker, Kubernetes)
+
+Exposure to machine learning or AI-assisted testing is highly desirable
+
+Understanding of regulatory and compliance standards in medical or healthcare software (e.g. ISO 13485, ISO 14971, HIPAA)
+
+Strong analytical skills, attention to detail, and ability to work collaboratively in a fast-paced, agile environment
+
+PERKS & BENEFITS
+
+●        Competitive salary based on experience
+
+●        Employee Share Option Plan
+
+●        Flexible and hybrid working - we value work-life balance
+
+A unique opportunity to ensure the quality and reliability of AI-driven neuroimaging analytics, supporting cutting-edge medical imaging software used in clinical and research environments.
+
+Please note: Applicants must have full, permanent working rights in Australia (Australian/NZ citizen or permanent resident) to be considered for this role.
+
+Apply now!"
+91063705,Embedded Software Engineer,Clicks IT Recruitment (QLD),https://www.seek.com.au/job/91063705?type=standard&ref=search-standalone&origin=jobCard#sol=d27895239b5e69cbe4cfb13661e61a92fd445676,1h ago,1.0,2026-03-20T05:00:00+00:00,Brisbane QLD,Developers/Programmers (Information & Communication Technology),Contract/Temp,,"We are seeking a Senior Software Engineer to take a technical leadership role within high-performance autonomy teams developing perception, planning, control, and platform software for autonomous systems.
+
+This role focuses on architecting, building, and scaling production-grade autonomy software, while guiding engineering standards and mentoring other developers. You will work across multidisciplinary teams to deliver real-world, field-ready autonomous solutions.
+
+This is a hands-on senior position with significant influence over technical direction and system architecture.
+
+Why this role
+
+You will be working on autonomy software that is actively moving into production on real-world machines. The work directly impacts deployed systems operating at scale.
+
+Key responsibilities
+
+Lead the design, development, and ownership of core autonomy software across perception, localization, planning, control, and platform layers
+Define and evolve software architecture to ensure scalability, reliability, and maintainability
+Translate research and algorithmic concepts into production-ready, real-time systems
+Set engineering standards including coding practices, design patterns, and review processes
+Mentor engineers through code reviews, design discussions, and technical coaching
+Collaborate with cross-functional teams across robotics, AI/ML, controls, simulation, and safety
+Integrate software with sensors, compute platforms, and vehicle networks such as CAN and Ethernet
+Debug and resolve complex issues across simulation, hardware-in-the-loop, and field deployments
+Ensure software quality through testing, CI/CD, performance optimisation, and documentation
+Contribute to technical roadmaps, system design decisions, and long-term platform strategy
+
+Requirements
+
+Strong expertise in C++ and proficiency in Python
+Experience designing and maintaining large-scale production systems
+Deep understanding of Linux environments, multithreading, memory management, and performance optimisation
+
+Desirable
+
+Distributed systems or robotics middleware such as ROS or ROS2
+Sensor systems including LiDAR, cameras, radar, and sensor fusion
+Motion planning, control systems, mapping, or state estimation
+Simulation environments including HIL, SIL, or synthetic data pipelines
+Embedded systems or real-time constraints
+Autonomy systems within industrial, automotive, or similar domains
+Safety-critical systems and reliability engineering principles
+
+If you wish to apply for this position, please submit your resume by clicking the 'Apply Now' button. For further information please contact Joshua Ainslie at Clicks IT Recruitment on +61 437 731 191.
+
+At Clicks we embrace diversity, inclusion and equal opportunity. First Nations people are encouraged to apply.
+
+We provide reasonable adjustments, including alternate formats to the recruitment process for individuals with a disability. If you require an adjustment to be made during the recruitment process, please call 1300 254 257 or email adjustments@clicks.com.au"
+91062410,AI First Software Engineer,Softlink,https://www.seek.com.au/job/91062410?type=standard&ref=search-standalone&origin=jobCard#sol=019d1bec674f218d4ac5ebbffb9995ea6606cbeb,2h ago,2.0,2026-03-20T04:00:00+00:00,"Eight Mile Plains, Brisbane QLD (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Are you a software engineer who already uses AI as a core part of how you design, build, and deliver software—not just as an occasional assistant?
+
+At Softlink Education, we are building an AI-first engineering capability. This means AI is not an add-on—it is embedded in how we write code, test systems, refactor legacy components, and deliver features.
+
+We're looking for an engineer who is comfortable orchestrating AI tools as part of a disciplined, production-grade workflow, and who can combine that with strong engineering fundamentals.
+
+About the role
+
+You'll join a focused development team responsible for modernising and evolving our core products used globally in the education sector.
+
+This role combines:
+
+Strong hands-on software engineering
+
+Practical, structured use of AI in daily development
+
+Ongoing modernisation of a mature, real-world codebase
+
+You will not succeed in this role by prompting alone. You will succeed by guiding, validating, and integrating AI outputs into high-quality software systems.
+
+What you'll be doing
+
+Design and deliver production-grade features using AI-augmented development workflows
+
+Use AI tools to accelerate coding, refactoring, debugging, and test generation
+
+Orchestrate multi-step AI-driven tasks (not single prompt usage)
+
+Critically evaluate and refine AI-generated code to meet production standards
+
+Refactor and modernise legacy components using structured AI-assisted approaches
+
+Contribute to system performance, scalability, and reliability improvements
+
+Participate in code reviews and technical discussions with a strong focus on quality
+
+Help evolve AI-first engineering practices, patterns, and standards within the team
+
+What we're looking for
+
+Essential:
+
+5+ years' professional software development experience
+
+Demonstrated, real-world use of AI tools within your development workflow
+
+Ability to structure and guide AI across multi-step engineering tasks
+
+Strong understanding of software design, architecture, and best practices
+
+Ability to critically assess, refine, and take ownership of AI-generated output
+
+Strong debugging, refactoring, and problem-solving skills
+
+Experience working on complex or long-lived systems
+
+Clear communication and ability to work in a collaborative team
+
+Highly regarded:
+
+Experience with CLI-based AI coding tools or agent-style workflows
+
+Experience modernising legacy or enterprise applications
+
+Exposure to automated testing, CI/CD, and quality engineering practices
+
+Experience improving development workflows, standards, or tooling
+
+Why join Softlink?
+
+Be part of a genuine AI-first engineering environment (not just experimentation)
+
+Work on real products with real users in the global education sector
+
+Join a stable, established company with 40+ years of success
+
+Small, capable team where you can influence how software is built
+
+Hybrid working (Brisbane Technology Park + WFH)
+
+Strong focus on quality, maintainability, and long-term engineering outcomes
+
+About us
+
+Softlink Education develops library and information management solutions used by schools and organisations worldwide. We are evolving our platform through a deliberate shift toward AI-enabled software engineering practices."
+91058525,Head of Technology & Data,Central Steel Build,https://www.seek.com.au/job/91058525?type=standard&ref=search-standalone&origin=jobCard#sol=9f4572d8af429d3a0bae0e40e73a5ba3613c782f,3h ago,3.0,2026-03-20T03:00:00+00:00,"Kyneton, Bendigo, Goldfields & Macedon Ranges VIC",Management (Information & Communication Technology),Full time,,"About Central Steel Build
+
+
+In 1975, Central Steel Build began as a small family business with a humble, customer focused vision: to purpose build high quality sheds which would stand the test of time. We're now well into our second generation, and while our design and fabrication methods have become more sophisticated with cutting-edge modelling technology added to the mix, we've stayed true to our ideology of continuous improvement.
+
+Our values shape us
+
+Creating client value – we have a 'customer first' approach, driven by innovation, speed and attention to detail.
+
+Working together – we demonstrate team energy by emulating a trusting, collaborative and results-focused workplace.
+
+Continuous improvement – we see change as a smart opportunity to remain nimble, adaptable and accountable.
+
+Being respectful – we foster a positive and humble mindset that listens and encourages.
+
+Openly communicating – we have honest and fun two-way communication that is constructive and responsive.
+
+Fast-Growing Manufacturing Business
+
+Central Steel Build is embarking on a major AI, automation, and systems transformation. With a turnover of ~$65M and strong growth ambitions, we are implementing a full company-wide AI and automation roadmap.
+
+ We are now searching for a strategic and hands-on technology leader who can own the architecture, build the data foundations, and lead our evolution into a modern, data-driven manufacturing organisation.
+
+Reporting to the CEO, this role has enterprise‑wide accountability for architecture, data platforms, system integration, analytics, and AI governance.
+
+The Role
+
+The Head of Technology & Data is a strategic and hands‑on leader responsible for:
+
+Designing and owning the enterprise architecture.
+
+Establishing CSB’s AI operating model and governance.
+
+Leading all system integration, automation, and data strategy.
+
+Building and maintaining the Unified Analytics Layer.
+
+Ensuring CSB has clean, reliable, real-time data to power AI agents, automated workflows, reporting, and future innovation.
+
+Acting as the key executive partner to our external AI consultants while embedding capability inside CSB.
+
+This is a role for a CTO-level leader who can think strategically AND tactically execute. 
+
+This is a lead-by-doing and lead-by-thinking role. While you are not expected to build all solutions personally, you must be deeply comfortable with the detail – able to engage credibly with infrastructure architects, software engineers, data specialists, and vendors, and make informed decisions that balance technical excellence with business value.
+
+About You
+
+You will thrive in this role if you have:
+
+Tertiary qualifications in Computer Science, Data Engineering, Information Technology, or a related field.
+
+8+ years of experience across technology leadership, enterprise architecture, or data engineering
+
+Experience integrating or architecting around NetSuite or a similar ERP
+
+Strong hands-on capability in Microsoft ecosystems, SQL, Azure, ETL/ELT pipelines, and Power BI.
+
+Understanding of APIs, integrations, and workflow automation
+
+A passion for agentic AI, automation, and improving how people work.
+
+Experience in manufacturing, construction, fabrication, or supply chain environments (preferred)
+
+You enjoy both long-term strategy and rolling up your sleeves to build.
+
+ You exhibit professional traits, including:
+
+Exhibiting excellent judgment and high standards
+
+Thinking strategically, but staying on top of tactical execution
+
+Thinking big and standing firm in your convictions
+
+Being results-oriented
+
+Developing great people and being able to inspire passion in others
+
+ Why Join Us?
+
+Exciting opportunity: drive transformation for a growing business delivering superior results.
+
+Great team culture: Join a positive, collaborative work environment that is strongly values-driven.
+
+State-of-the-art facilities: Work in a modern, cutting-edge building alongside a skilled, multidisciplinary team."
+91055659,Senior Data Scientist,Ausgrid,https://www.seek.com.au/job/91055659?type=standard&ref=search-standalone&origin=jobCard#sol=8d273f91f569f4ccaa173f5941d10831b2e23cda,4h ago,4.0,2026-03-20T02:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,"$180,000 – $190,000 per year","Seeking a Senior Data Scientist to join our Design team. 
+
+$190,026 base salary plus superannuation
+
+Permanent FT | Haymarket. Grow your career with us today.  
+
+  
+
+About Ausgrid – we’re wired for good 
+
+We’re the largest distributer of electricity on Australia’s east coast, which means over two million homes and businesses rely on our good work. We’re here at the heart of the energy transition, and we’re driven by a powerful purpose to make electricity accessible for all. 
+
+It’s an exciting new chapter for our company with each day bringing a renewed energy to how we deliver, store and use electricity. As we continue to grow, we’re in search of exceptional talent to help us achieve our goals.  
+
+Everyone’s job is important here. Our customers come from all walks of life, and so do we. We’re committed to fostering a diverse, respectful, and inclusive workplace, and encourage applications from all backgrounds. 
+
+  
+
+See yourself working here 
+
+At Ausgrid, we’re building intelligent, data driven solutions that help power communities across NSW. We’re looking for a Senior Data Scientist to design, develop and deploy AI and advanced analytics solutions that directly support our business objectives and integrate seamlessly into our enterprise data landscape. You will be based at our Haymarket office and reporting to Manager of Data Services and Platforms.  
+
+This is a hands-on role for someone who enjoys solving complex problems, working end to end across the AI lifecycle, and partnering closely with the business to deliver real outcomes. 
+
+You’ll collaborate with stakeholders, testers and SMEs, translating business use cases into robust AI solutions that create measurable value. 
+
+This a unique role to work on Work on meaningful AI solutions that support critical infrastructure and communities and work for a business that is at the heart of the energy transition. 
+
+ 
+
+Key responsibilities 
+
+AI & Analytics Development: Design, build, train and deploy ML and LLM based models to address specific business use cases, integrating with existing systems and platforms. 
+
+MLOps & Deployment: Leverage Ausgrid’s data platform and established MLOps/LLMOps practices to operationalise models at scale. 
+
+Performance & Monitoring: Implement monitoring, alerting and cost management routines to assess model performance and reliability. 
+
+Data Modelling & Serving: Build Lakehouse aligned data models (Bronze/Silver/Gold), optimising for performance, reliability and cost. 
+
+Security & Governance: Apply strong data security controls, encryption, secrets management and audit logging, in line with governance and regulatory requirements. 
+
+CI/CD & IaC: Contribute to CI/CD pipelines, version control and environment promotion using Azure DevOps/Git and infrastructureascode (Bicep). 
+
+Operations & Support: Monitor production jobs and SLAs, perform root cause analysis and work with support teams to resolve issues. 
+
+Collaboration & Documentation: Engage with stakeholders throughout delivery and produce clear technical documentation, runbooks and data dictionaries. 
+
+ 
+
+What you’ll bring  
+
+Our hiring decisions are not only based on your experience and skills, but your passion, attitude, and alignment to our core values.  
+
+ 
+
+Essential experience and skills 
+
+Bachelor’s degree in Computer Science, Software Engineering or a related discipline. 
+
+Strong software development experience using Python, Spark and SQL. 
+
+Proven experience working with Azure and largescale, cloud based data workflows. 
+
+Solid database design and optimisation experience (e.g. PostgreSQL). 
+
+Working knowledge of machine learning workflows in Databricks. 
+
+Experience with automated unit and integration testing. 
+
+Familiarity with Agile delivery and MLOps practices. 
+
+Strong full stack mindset with the ability to learn quickly and deliver scalable, high quality solutions. 
+
+  
+
+Life at Ausgrid  
+
+At Ausgrid, we go beyond just a competitive salary to offer an exciting range of benefits. From salary sacrificing electric vehicles and novated leasing, to discounted corporate health insurance and access to Fitness Passport, our benefits support your work here, and your life out there.  
+
+Celebrate success every day with our employee recognition program to bring out each other’s best. Looking to grow professionally? We’ve got you covered with study assistance, secondments, training and mentors, whose advice you’ll keep wherever you go.  We’re proud to offer gender-neutral parental leave to balance work when growing your family. And if you’re caring for elderly parents, our aged care support services offer expert guidance to help you access care for your loved ones. At Ausgrid, it's all about supporting you in every aspect of life. 
+
+  
+
+If you require support with your application/reasonable adjustments for the interview process, please reach out to our dedicated Talent Team recruitment@ausgrid.com.au. 
+
+  
+
+Application close date: Friday 17th April 2026 (please note, this date is subject to early closure)
+
+Applicants must have full Australian work rights to apply."
+91054244,Acoustics Engineer,Matrix Acoustics,https://www.seek.com.au/job/91054244?type=standard&ref=search-standalone&origin=jobCard#sol=8abac7ed649976305aaad815926eb3b4d0334f37,5h ago,5.0,2026-03-20T01:00:00+00:00,Brisbane QLD,Other (Engineering),Full time,,"Acoustics Engineer (Environmental & Building Acoustics)
+
+Full-Time Position
+
+Employer: Matrix Acoustics Pty Ltd
+Location: Brisbane, QLD
+
+Matrix Acoustics Consulting is seeking a qualified and experienced Acoustics Engineer to join our growing team in Brisbane. This role supports a range of environmental, construction, and building acoustics projects across Queensland and nationally.
+
+Key Responsibilities
+
+·         Conduct environmental noise and vibration assessments
+
+·         Undertake internal building acoustics analysis and reporting
+
+·         Deploy and manage sound level meters and vibration monitoring equipment on construction and operational sites
+
+·         Analyse acoustic data including statistical noise metrics and frequency-based results
+
+·         Perform modelling using SoundPLAN software
+
+·         Integrate AI-based analysis methods for sound classification and traffic data processing
+
+·         Assist with development of automated workflows and tools using Python
+
+·         Prepare technical reports in accordance with Australian standards and project requirements
+
+Selection Criteria
+
+·         Relevant Bachelor Degree Qualification
+
+·         Minimum 2 years’ professional experience (internship experience may be considered) in environmental and/or building acoustics
+
+·         Demonstrated experience using sound level meters and vibration monitoring equipment
+
+·         Proven experience installing and maintaining monitoring equipment on construction sites
+
+·         Proficiency in SoundPLAN noise modelling software
+
+·         Experience with AI applications related to acoustics or traffic counting/analysis
+
+·         Strong Python programming skills for data processing and automation
+
+·         Sound understanding of Australian acoustic standards and guidelines
+
+·         Strong analytical and reporting skills
+
+·         Experience with Instralabs instrumentation is highly regarded
+
+·         Experience working on Queensland oil and gas projects is desirable
+
+·         Hold relevant safety certifications applicable to site-based work (e.g., White Card, site inductions)
+
+Salary
+
+$70,000 – $100,000 per annum + superannuation
+
+Additional Information
+
+·         This is a full-time position
+
+·         The role is integral to ongoing and future project delivery within the business
+
+·         Only applicants with relevant qualifications and experience will be considered
+
+How to Apply
+
+Applications should include a CV and cover letter outlining relevant experience."
+91054038,"AI Developer / AI Engineer / Sydney / Permanent / $160,000 + super",Allura Partners,https://www.seek.com.au/job/91054038?type=standard&ref=search-standalone&origin=jobCard#sol=8c32f46986e68fc5efe05c71cca3066fd8aa19dc,5h ago,5.0,2026-03-20T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,165000,"AI Developer / AI Engineer / Sydney / Permanent / $160,000 + super
 
 About the company
 This organisation is a large, well-established, ASX listed FMCG businesses. With national reach and strong community focus, it continues to invest in innovation and technology to drive future growth and remain competitive.
@@ -37,3 +679,315 @@ About Allura Partners
 Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
 
 AI Developer / AI Engineer / Sydney / Permanent / $160,000 + super"
+91053880,"Data Engineer / Permanent / $150,000 + super",Allura Partners,https://www.seek.com.au/job/91053880?type=standard&ref=search-standalone&origin=jobCard#sol=301a2f4d301bf3e2a4040c9d3141ddbdc12e8574,5h ago,5.0,2026-03-20T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,155000,"Data Engineer / Permanent / Sydney or Melbourne / $150,000 + super
+
+About the company 
+A global technology consultancy that partners with leading enterprises to deliver data, AI, cloud, and digital solutions. With offices across Australia and international operations, the business continues to grow rapidly through innovation, collaboration, and a focus on helping clients and employees achieve meaningful impact. 
+
+About the role
+Based in Sydney or Melbourne, this Data Engineer role reports to senior consultants and works within a collaborative team to design, build, and maintain data pipelines and platforms. You’ll work directly with clients across industries, helping deliver scalable, secure, and efficient data solutions using modern cloud technologies. 
+
+Benefits
+Salary up to $150,000 + super
+Exposure to major global brands and diverse industries
+Paid certifications, training, hackathons, and mentoring programs
+Transparent performance reviews and clear career progression
+Flexible working options and regular social events
+Duties / Key responsibilities
+Design, build and maintain data ingestion and transformation pipelines
+Develop and optimise scalable data lakes and warehouses
+Ensure data systems are reliable, secure, and cost-effective
+Collaborate with analysts, engineers, and platform teams
+Contribute to continuous improvement and innovation initiatives
+Skills and experience
+5+ years’ experience with SQL, Python, or similar technologies
+Experience with data tools such as Databricks, Snowflake, or BigQuery
+Knowledge of Airflow, dbt, Fivetran, and Terraform
+Exposure to cloud platforms (Azure, AWS, or GCP)
+Bachelor’s degree in Computer Science, Engineering, or related field
+Strong problem-solving mindset and collaborative approach
+If you’re interested in this opportunity and feel you’re the right fit please click “apply” 
+
+About Allura Partners
+Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
+
+Data Engineer / Permanent / Sydney or Melbourne / $150,000 + super"
+91053797,Automation Engineer,Fluid Engineering,https://www.seek.com.au/job/91053797?type=standard&ref=search-standalone&origin=jobCard#sol=7b653eef3edf9e71f179cdf75ceadf8b3a38a09b,6h ago,6.0,2026-03-20T00:00:00+00:00,Brisbane QLD,Materials Handling Engineering (Engineering),Full time,$120k - $130k p.a. + travel allowances + overtime,"Our client is a global leader in industrial automation solutions, and we are looking to appoint their next Brisbane based Automation Engineer. This opportunity puts you at the centre of delivering large-scale, automated materials handling systems - taking projects from concept through to commissioning and beyond. You'll be hands-on across PLC programming, HMI/SCADA development, system integration, and on-site delivery, working closely with mechanical, electrical, and project teams to bring complex systems together.
+
+What You'll Bring
+
+Proven experience with PLC programming (Siemens, Rockwell, or similar)
+Strong capability across HMI and/or SCADA development
+Solid understanding of industrial automation systems and communication protocols
+Ability to troubleshoot, fault-find, and solve problems under pressure
+Confidence interpreting electrical drawings and contributing to system design
+A proactive, solutions-focused mindset with the ability to work both autonomously and in a team
+Strong communication skills, particularly when dealing with clients and stakeholders
+
+*Australian working rights without restrictions is essential. NZ citizenship is great too.
+
+What's On Offer
+
+Industry leading and global organisation
+Modern office facilities and a super fun crew
+Exposure to cutting edge, large-scale automation and materials handling systems
+A highly collaborative environment working across multiple engineering disciplines
+Heaps of travel opportunity, get paid to see the world!
+
+
+What next?
+Keen to learn more, apply with your update to date resume or get in touch for a confidential chat about your career or this opportunity.
+Contact Shekinah Bramwell on +64 21 190 9355. Or Email shekinah@fluidrecruitment.co.nz
+
+#SCR-shekinah-bramwell
+
+www.fluidrecruitment.co.nz"
+91053645,Infrastructure Engineer (Network),National Rugby League Limited,https://www.seek.com.au/job/91053645?type=standard&ref=search-standalone&origin=jobCard#sol=05c1103d9672cd4ed1b07f87174fd00978bd1112,6h ago,6.0,2026-03-20T00:00:00+00:00,Sydney NSW,Engineering - Network (Information & Communication Technology),Full time,,"At the National Rugby League (NRL), we’re incredibly proud of our game and the impact it has on players, fans, and communities across Australia and the Pacific. Rugby League is an inclusive sport for everyone, and our workplace reflects that we are inclusive, celebrate diversity, and strive to create a culture where all people feel they belong. Rugby League brings people together both on and off the field, with our broadcasts consistently ranking among the most‑watched programs nationwide.
+  
+We’re looking for an Infrastructure Engineer (Network) to join our Technology Team and help shape the future of Rugby League. If you’re ready to make an impact in a fast-paced, purpose-led organisation, we want to hear from you.
+  
+About the role:
+As an Infrastructure Engineer (Network), you’ll play a key role in shaping and supporting the NRL’s hybrid technology environment—powering the digital experiences of millions of fans across Australia. You’ll design, implement, and maintain critical infrastructure spanning both modern cloud platforms and essential legacy systems, ensuring reliability, performance, and security across all environments.
+  
+This role is central to the NRL’s digital transformation, giving you the opportunity to bring deep technical expertise, uplift infrastructure capability, and help drive the evolution of our technology landscape.
+  
+ In the role you will:  
+
+- Maintain and optimise the NRL’s critical infrastructure platforms, including digital identity, content delivery, data lakehouse, and API environments.
+- Manage cloud and on‑premises infrastructure across AWS, Azure, networking, servers, and telephony to ensure high availability and performance.
+- Design, operate, and secure network and telecommunications systems, including firewalls, WAN/LAN, and voice services.
+- Implement modern cloud infrastructure using IaC, containerisation, CI/CD tooling, and observability platforms.
+- Strengthen security posture through Zero Trust principles, vulnerability management, compliance frameworks, and incident response.
+- Deliver advanced technical support, troubleshooting complex infrastructure issues and collaborating with internal teams and vendors.
+- Lead and contribute to infrastructure projects, cloud migrations, and modernisation initiatives aligned with strategic technology goals.
+- Maintain robust backup, disaster recovery, and business continuity processes with thorough documentation
+  
+Ideally you will have:
+
+- Extensive experience (8+ years) across infrastructure and security, with a strong track record leading cloud transformation and modernisation initiatives.
+- Deep capability across hybrid environments, including telephony, on‑prem networks, server management, endpoint security, and cloud platforms (AWS/Azure).
+- Strong networking expertise spanning firewalls, routing, switching, and the transition to modern cloud‑networking architectures.
+- Proven experience in modern Infrastructure principals and experience in IaC (Terraform, CloudFormation) and containerisation (Docker, Kubernetes) or similar systems.
+- Proven security leadership, including Zero Trust, IAM, vulnerability management, incident response, and compliance frameworks such as ISO 27001, SOC 2, and NIST.
+- Robust knowledge of DevOps architecture and alignment in CI/CD integration, automation, configuration management, and cloud‑native application patterns..
+- Strong operational discipline across DR/BCP, backup strategies, performance optimisation, cost management, and vendor coordination.
+- Excellent communication, stakeholder engagement, and change‑leadership skills, with the ability to guide teams through technology uplift and organisational transformation
+  
+  
+Whilst we look for experience, we also look for people who share the same beliefs as our organisation – we are UNITED, POSITIVE, INCLUSIVE & DISCIPLINED.  Should you meet most of the criteria and share our beliefs, please apply.
+  
+The NRL is a child-safe organisation committed to providing a safe place for all children to learn and have fun. We have strong recruitment procedures to make sure the safest and most suitable people work with us and require all applicants to undergo an extensive screening process prior to appointment, a process that will include, but is not limited to comprehensive reference checks, an identity check, “Working with Children” checks and/or national criminal history checks."
+91053586,Power Platform Developer,Metro Trains Melbourne,https://www.seek.com.au/job/91053586?type=standard&ref=search-standalone&origin=jobCard#sol=9e7f97f2c72473a0707f73994857e4c51af0ceaf,6h ago,6.0,2026-03-20T00:00:00+00:00,"Docklands, Melbourne VIC",Developers/Programmers (Information & Communication Technology),Full time,,"Melbourne is Australia's fastest growing city, and public transport is vital to keeping it moving. Since 2009, Metro has proudly operated and maintained a world-class train service and delivered major transport projects that shape the future of our city. Guided by our value of Safely Always, we are one team dedicated to ensuring everyone gets home safely while helping to connect and create a better Melbourne.
+
+
+
+
+
+ABOUT THE ROLE
+
+We currently have an exciting full time permanent opportunity for a Power Platform Developer to join our OCMS (Technology) team based at 700 Collins street.
+
+In this role you will provide the capability to implement automated software solutions for Metro processes that streamline data collection, document review, and stakeholder approval processes, while also providing the outputs for intelligent, visual reporting through interactive dashboards.
+
+The role will report to the Applications Support Manager within OCMS and will work closely with the Projects Interface Manager within the projects division to provide technical expertise across all applications & workflows.
+
+KEY RESPONSIBILITIES
+
+Establish and participate in prioritisation forums with Projects Interface Manager and Applications Support Manager to successfully plan and implement new and updated solutions
+With the support of the Projects Interface Manager and Applications Support Manager, own, maintain and continuously improve all developed software solutions in accordance with Portfolio and Business requirements and agreed priority.
+Support the Project Interface Manager and Applications Support Manager to provide exceptional client support to key stakeholders within Portfolio Program teams, Finance and Commercial (F&C), Network Assets (NA) and Engineering and Assurance teams
+Perform routine and reactive maintenance activities as well as enhancements and improvement work for applications developed on Microsoft Power Platform, SharePoint / Dataverse, or other development technologies
+Support, develop and document ancillary processes associated to these applications, such as Power Automate Workflows, Data Flow Connections, API connections.
+Follow OCMS processes through all stages of development lifecycle ensuring appropriate review/approvals are obtained
+
+ABOUT YOU
+
+Relevant Engineering or Science degree or equivalent e.g. Data Science, Process Engineering or Software Engineer
+Accredited Microsoft Power Apps Developer PL-400 and functional consultant PL-200 with significant knowledge and experience in developing, maintaining and improving software solutions in both Canvas and Model driven type applications.
+Demonstrate experience in design and build of complex data models.
+Demonstrate advanced knowledge in the use of Power Automate and the integration into Power Apps.
+Demonstrate advanced Microsoft Excel and sharepoint knowledge and ability.
+Strong stakeholder engagement skills and the ability to influence positive business outcomes.
+
+WHY METRO
+
+FREE Myki card for PTV travel across Victoria
+14 weeks Paid Parental Leave (no qualifying period)
+Career progression and training opportunities
+Discounts at top brands and stores
+Diversity & Inclusion - we value unique perspectives and support initiatives like Women at Metro (over 30% of our workforce are women)
+
+Next Steps
+
+If this role resonates with your values, experience, and career growth, then please apply before the due date and be part of Melbourne's growing rail network!
+
+Applications close Friday, 3rd April 2026 at 23:59pm.
+
+Metro is committed to making reasonable adjustments to provide a positive, barrier-free recruitment process for candidates with specific access needs. Candidates who require adjustments are encouraged to declare this in their application, so that the contact person for the position can discuss your needs."
+91053327,Storage Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/91053327?type=standard&ref=search-standalone&origin=jobCard#sol=0b23ec610225e630541731dec40b1a0d88ee8e54,6h ago,6.0,2026-03-20T00:00:00+00:00,"Scoresby, Melbourne VIC",Engineering - Hardware (Information & Communication Technology),Full time,Base + Super + Leidos Life Days,"Life Days are the Leidos way of recognising that we all need extra time to take care of life. By working slightly more than the minimum weekly hours (2 hours per week for full-timers), you can accrue up to 12 days of leave per year.
+Leidos Life Hub provides access to discount offers or cashback rewards with over 400 Australian and International retailers.
+Due to the nature of the role, you must be an Australian Citizen and hold an active NV-1 AGVSA Security Clearance.
+
+Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers
+
+Do Work That Matters
+
+Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life.  Our 2000 local experts, backed by our global experience and network of partners, are working to solve the world's toughest challenges in government, intelligence, defence, aviation, border protection and health markets.
+
+We're anticipating increased workload to support upcoming projects and are building a pipeline of talented professionals. If you hold an active NV-2 Australian Government Security Clearance, your skills may align with a range of Leidos customer opportunities. By submitting an Expression of Interest, you'll be considered for future roles that match your experience, with suitable applicants contacted within 2-6 weeks.
+
+Your New Role and Responsibilities
+
+At Leidos Australia, our Matrix Engineering Team is a hub of technical excellence, supporting mission-critical programs across Defence, Intelligence, and Federal Government portfolios.
+
+As a Storage Engineer, you will:
+
+Manage and maintain enterprise storage and data protection platforms (NetApp and Commvault).
+Design, implement, administer and upgrade storage infrastructure, including firmware and software.
+Perform backup, restore and recovery activities to support operational and incident requirements.
+Follow ITSM processes, including incident, problem management, post-incident reviews and root cause analysis.
+Ensure storage services meet security, regulatory, quality and operational standards across the enterprise.
+
+What You'll Bring to Make an Impact
+
+Substantial hands-on experience with NetApp storage technologies and Commvault data protection.
+Proven experience administering large-scale enterprise storage and backup environments.
+Demonstrated experience with storage capacity planning, utilisation and performance management (including AIQUM).
+Strong background working in large enterprise or project-based engineering environments.
+Relevant NetApp certifications or equivalent professional experience, with strong cloud infrastructure exposure (AWS, Azure or GCP).
+
+Don't worry if you don't tick all the boxes - if you meet most of them, we encourage you to submit your application.  We're most interested in your strengths, what you want to learn and how far you want to go.
+
+Diverse Team Members, Shared Values and a Common Purpose
+
+Providing our customers with smarter solutions takes an incredible team with diversity of thought, experience and perspectives driving innovation. Inclusion is at the heart of our culture and is one of our core values. It's about creating a workplace where everyone can do important work, feels welcome, valued, and respected, and has equal access to opportunities to thrive. Paul Chase - Chief Executive, Leidos Australia.
+
+Leidos Australia is an equal opportunities organisation and is committed to creating a truly inclusive workplace. We welcome and encourage applications from Aboriginal and Torres Strait Islanders, culturally and linguistically diverse people, people with disabilities, veterans, neurodiverse people, and people of all genders, sexualities, and age groups.
+
+Our five Advocacy Groups (Women and Allies Network, Young Professionals, Defence & Emergency Services, Action for Accessibility and Abilities and Pride+) provide an opportunity for team members to connect and collaborate on shared interests, and work to support and celebrate our diverse community.
+
+Next Steps
+
+To apply for this role, follow the links or apply via our Careers page.
+Recruitment process - 1 virtual interview and/or 1 face-to-face & background checks.
+Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1.
+We are committed to making our recruitment process accessible to all candidates. Please get in touch with our Careers team careers.au@au.leidos.com if you'd like to discuss any additional support during your application or throughout the recruitment process."
+91052869,Data & Integration Engineer,Moco Food Services,https://www.seek.com.au/job/91052869?type=standard&ref=search-standalone&origin=jobCard#sol=bb95bcb7f94f57e4eb96b63a7c454fd4317fc90c,6h ago,6.0,2026-03-20T00:00:00+00:00,"Wacol, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"Job Title:       Data & Integration Engineer
+
+Company:      Moco Food Services
+
+Location:       Wacol, QLD, 4076, AU
+
+ 
+
+·         Own and improve the systems integrations and data flows that power a growing Australian food service business.
+
+·         Design scalable integration solutions across customers, suppliers, and internal platforms.
+
+·         Work directly with operational and senior leaders to deliver real business impact.
+
+ 
+
+Step into a role where technology, data and operations meet. This is an opportunity to shape how systems talk to each other, improve the quality of information across the business, and enable smarter decisions every day.
+
+ 
+
+About the Role
+
+ 
+
+The Data & Integration Engineer plays a critical role within Moco’s IT team, sitting at the intersection of technology and the business. Based in Wacol and reporting to the Capability Development Manager, this role owns the design, development and continuous improvement of system integrations, data flows and reporting across the organisation.
+
+ 
+
+From managing customer and supplier EDI integrations through to designing scalable system architecture and improving reporting capability, this role ensures the right information moves to the right place at the right time. By partnering closely with operational and commercial teams, the Data & Integration Engineer helps translate real business needs into practical and reliable technical solutions.
+
+ 
+
+ 
+
+About You
+
+ 
+
+You are someone who enjoys solving complex problems and building systems that work seamlessly together. You bring strong technical capability, particularly in SQL and systems integration, but equally enjoy working with stakeholders to understand operational challenges and turn them into scalable solutions.
+
+ 
+
+You thrive in environments where technology enables improvement. Whether it is automating processes, improving data reliability, or designing smarter integrations, you enjoy delivering outcomes that make the business run better.
+
+ 
+
+Skills, Experience & Attributes
+
+ 
+
+·         Strong SQL (DB2,Mssql) capability including query optimisation and data manipulation.
+
+·         Experience designing and supporting systems integrations across multiple platforms.
+
+·         Experience working with data pipelines, ETL processes.
+
+·         Experience supporting both internal and external system integrations.
+
+·         Experience managing or supporting EDI integrations with customers and suppliers.
+
+·         Hands-on experience with reporting and data platforms such as Power BI.
+
+·         Experience working with GoAnywhere MFT is highly regarded.
+
+·         Strong analytical thinking and problem-solving capability.
+
+·         Ability to translate business requirements into practical technical solutions.
+
+·         Comfortable working with both technical and non-technical stakeholders.
+
+ 
+
+Benefits
+
+ 
+
+·         Work within Moco’s brand new, state-of-the-art facility in Wacol, with plenty of on-site parking available
+
+·         Collaborative and friendly workplace environment, with weekly cross-departmental events
+
+·         Join a growing company and use your expertise to make a real impact on the business
+
+·         Leadership training and development opportunities available for aspiring employees
+
+·         Access to great discounts on over 6,500 product items for current employees.
+
+·         Enjoy free access to financial advice, home loan support, and exclusive lifestyle perks & discounts through our partnership with Commonwealth Bank.
+
+ 
+
+Moco – Delivering Inspiration!
+
+ 
+
+Moco exists for one reason. To help our customers run great food businesses. No shortcuts. No politics.  We play the long game.
+
+ 
+
+We deliver world-class food logistics and menu expertise, but what truly sets us apart is how we show up every day. We think differently. We move fast. We innovate. We back our customers to win. Our brand matters. Our people turn up with energy!
+
+ 
+
+We are proud to say that we are a privately owned Australian business. Agile enough to move quickly. Bold enough to challenge convention. Ambitious enough to build something extraordinary. When our customers win, we win. When they grow, we grow.
+
+ 
+
+We have a brand-new state-of-the-art facility and industry-leading technology, but our true advantage isn’t something you can buy; it’s our people and the legacy they create. Driven teams who care deeply about our customers and each other.
+
+ 
+
+Join us on our journey as we embark on an exciting new phase of growth. We have established a solid foundation, and the next stage of our expansion is just beginning. With strong momentum and a clear vision, we are creating a food service company designed for scalability and impact. Our approach is rooted in integrity, driven by innovation, and supported by a team of people dedicated to making a difference.
+
+ 
+
+How to Apply
+
+ 
+
+To submit your application, click the QUICK APPLY button on this page, or contact Travis Gibson – Talent Acquisition Manager – on tgibson@mocofoodservices.com.au"
