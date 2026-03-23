@@ -1,5 +1,225 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91094908,Solutions Engineer,Australian Catholic University Limited,https://www.seek.com.au/job/91094908?type=standard&ref=search-standalone&origin=jobCard#sol=5ab4f8576633d3fbf528b2c68babc7e11b418c43,1h ago,1.0,2026-03-23T06:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
+91095940,Senior Data Integration Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/91095940?type=standard&ref=search-standalone&origin=jobCard#sol=0df0b3ed4e5187347ecd77b81b4ccc49f5b68315,2h ago,2.0,2026-03-23T07:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"About FinXL IT
+
+FinXL IT Professional Services is a leading IT consultancy that partners with Tier-1 clients to bridge the gap between business needs and technology.
+
+About this Opportunity
+
+FinXL IT is seeking a Senior Data Integration Engineer (Level 5) to join our team at a leading financial services organisation. This is a high-visibility role designed for a technical heavyweight who excels at the intersection of streaming architecture and enterprise integration.
+
+As a ""technical linchpin,"" you will be responsible for moving beyond traditional batch processing to design and implement sophisticated, event-driven data architectures for systems of record.
+
+Key Responsibilities
+
+
+Real-Time Architecture: Design and deploy advanced event-driven integration patterns to enable near-instantaneous data responses across global P&C platforms.
+
+Streaming Mastery: Act as the SME for Confluent Kafka, managing complex message schemas and ensuring robust, seamless stream processing.
+
+Strategic Leadership: Author technical options papers for the Architecture Board and articulate complex technical benefits to senior non-technical sponsors.
+
+Technical Governance: Lead deep-dive code reviews and mentor junior engineers, ensuring the highest standards of engineering excellence.
+
+Documentation: Maintain world-class technical documentation and architectural diagrams within Confluence to drive transparency and knowledge sharing.
+
+
+Requirements
+
+
+Streaming & Messaging: Extensive hands-on experience with Confluent Kafka is essential.
+
+Architectural Depth: A deep, ""under-the-hood"" understanding of Event-Driven Architecture (EDA) and integration patterns.
+
+Governance: Experience navigating complex risk and compliance frameworks within a Banking or BFSI environment.
+
+Communication: Ability to translate complex people-data requirements into elegant technical solutions for both engineering teams and business stakeholders.
+
+Tooling: Proficiency in Confluence for documenting operational playbooks and technical designs.
+
+
+What's On Offer?
+
+
+Initial 12 months' contract, with a view to extend
+Located in Sydney CBD
+Hybrid work mode to get your best work in! (2 days in the office and 3 days remote)
+
+Why This Role?
+
+This isn't just a ""developer"" role; it is a Level 5 Senior Contributor position. You will have a seat at the table with the Architecture Board and the autonomy to drive the evolution of data integration capabilities for one of the world's leading financial groups.
+
+Next Steps
+
+If you are an integration specialist who thrives on solving complex data challenges, please apply now via the link.
+
+Job number (S4)"
+91095376,Data Engineer,FlowLogic,https://www.seek.com.au/job/91095376?type=standard&ref=search-standalone&origin=jobCard#sol=648c3c4613e8d4e5e75a53b1b8735b14fe6e6796,2h ago,2.0,2026-03-23T07:00:00+00:00,"Buderim, Sunshine Coast QLD (Hybrid)",Other (Engineering),Full time,,"The Role
+
+We are seeking a skilled Data Engineer to join our data team and help design, build, and maintain our data infrastructure and analytics pipelines. You'll work with modern data tools including Databricks, Amazon Quick Suite, and DBT to deliver high-quality data solutions that drive business insights and decision-making. 
+
+Open for Brisbane and Sunshine Coast candidates.
+
+About FlowLogic
+
+At FlowLogic, we’re not just building software; we’re shaping the future of care through innovation. As a fast-growing company in the technology and services space, we’re a leading cloud-based solution designed to transform how NDIS providers deliver support across ANZ. Our platform empowers disability organisations to streamline operations, boost productivity, and stay fully compliant, freeing them to focus on delivering life-changing services.
+
+Behind our success is a close-knit, high-performing team with a strong culture of collaboration, curiosity, and continuous growth. You’ll work directly with senior leaders, have a clear impact from day one, and enjoy the support you need to grow your career in a business that’s scaling fast and going places.
+
+Your Responsibilities
+
+Reporting directly to the Head of Engineering, you will:
+
+Design, build, and maintain scalable data pipelines using Databricks and DBT for data transformation and modelling.
+Develop and optimise data warehouse architecture, ensuring data quality, reliability, and performance.
+Create and maintain dashboards and reports using Amazon Quick Suite to deliver actionable insights to stakeholders.
+Design and implement dimensional models, star schemas, and other data structures using DBT best practices.
+Build efficient ETL/ELT workflows to integrate data from multiple sources into our data lake and warehouse.
+Implement data validation, testing, and monitoring frameworks to ensure data accuracy and consistency.
+Optimise queries, data models, and pipeline performance in Databricks and related systems.
+Partner with data analysts, data scientists, and business teams to understand requirements and deliver data solutions.
+Create and maintain comprehensive documentation for data models, pipelines, and processes.
+Establish and promote data engineering best practices, coding standards, and version control workflows.
+Debug and resolve data pipeline issues and performance bottlenecks.
+
+Essential Criteria
+
+2+ years of hands-on experience with Databricks, including Spark, Delta Lake, and notebook development.
+Strong proficiency in DBT for data transformation, including models, tests, documentation, and deployment.
+Experience building interactive dashboards, visualisations, and reports using Amazon Quick Suite.
+Solid experience with AWS services (Athena, S3, Redshift, Glue, Lambda, Athena, IAM).
+Advanced SQL skills for complex queries, optimisation, and database design.
+Proficiency in Python and/or Scala for data processing and automation.
+Strong understanding of data warehouse concepts, dimensional modelling, and star/snowflake schemas.
+Experience with Git and modern software development practices (CI/CD, code reviews, testing).
+Familiarity with distributed computing concepts and large-scale data processing.
+Experience working with various data formats (Parquet, JSON, CSV, Avro).
+
+Advantageous
+
+Experience with other BI tools (Tableau, Power BI, Looker).
+Knowledge of Apache Airflow or other workflow orchestration tools.
+Experience with data governance and data cataloguing tools.
+Familiarity with machine learning workflows and MLOps.
+Understanding of data security, compliance, and privacy regulations (GDPR, CCPA).
+Experience with streaming data platforms (Kafka, Kinesis).
+AWS certifications (Data Analytics, Solutions Architect, etc.).
+Experience with Snowflake or other cloud data warehouses.
+Knowledge of data quality tools (Great Expectations, Monte Carlo).
+
+What We Offer
+
+A supportive, inclusive, and engaged team environment.
+The opportunity to do meaningful work at the intersection of care and technology.
+A competitive salary package, with potential for growth and development.
+
+How to apply
+
+We appreciate all candidates who have taken the time to apply, but only shortlisted candidates will be contacted.
+
+We value diversity, and we believe that our uniqueness makes us stronger. We encourage applicants from diverse and/or minority backgrounds to express their interest. We believe in creating a working environment where individuals are able to bring their full selves to work and are valued for their unique contributions."
+91095275,Data Engineer,Algo Talent,https://www.seek.com.au/job/91095275?type=standard&ref=search-standalone&origin=jobCard#sol=dbf4c4b138c25f28f8a7f84d2d51ed4ba7dcf051,2h ago,2.0,2026-03-23T07:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"Job Title:  Data Engineer
+Location: Sydney, Australia (Hybrid)
+Job Type: Permanent, full-time
+
+About the Role:
+Our client is looking for an experienced Data Engineer to join their growing data function and help ensure the organisation’s data pipelines, integrations, and reporting assets are reliable, accurate, and performing at their best.
+
+This is a permanent, full-time position within a data-driven business where analytics sits at the heart of strategy. You’ll be working with critical data infrastructure across digital marketing, web analytics, and enterprise reporting.
+
+What you’ll do:
+
+Build, maintain, and optimise end-to-end data pipelines using Databricks and dbt.
+Integrate data from third-party sources including Google Analytics, Meta campaign data, and other digital marketing platforms via APIs.
+Manage API integrations and third-party data source connections, ensuring data quality and consistency.
+Collaborate with teams across data engineering and analytics to deliver trusted, high-quality data assets for reporting and analytics.
+What we’re looking for:
+
+2–5+ years of experience in a Data Engineering role.
+Solid hands-on experience with Databricks and dbt.
+Strong proficiency in Python and SQL.
+Experience working with cloud-based data platforms.
+Exposure to digital marketing data sources such as Google Analytics, Meta Ads, and similar platforms.
+Practical experience with API integrations and managing third-party data pipelines.
+Strong communication skills with the ability to work effectively across technical and non-technical teams.
+What’s in it for you?
+
+Work with a highly data-driven organisation where analytics is central to decision-making.
+Competitive salary package with employee benefits (wellness programs, learning & development programs, retail discounts). 
+Hands-on access to modern data tools and technologies including Databricks, dbt, BigQuery, and Python.
+Collaborative team environment where your contributions have real impact.
+This role offers hybrid flexibility with 3 days in the office. You must be based in Sydney and have full working rights in Australia.
+
+How to Apply
+If you’re a Data Engineer with strong experience across Databricks, dbt, and cloud-based data platforms, we’d love to hear from you. Apply now or reach out to us at hello@algotalent.ai for a confidential conversation.
+
+Know someone perfect for the role?
+We offer $1,000 referral bonuses for successful placements. Refer a friend or colleague by DMing us or contacting hello@algotalent.ai"
+91095155,Data Scientist,Virgin Australia,https://www.seek.com.au/job/91095155?type=standard&ref=search-standalone&origin=jobCard#sol=15fbe5a28f86bb7ff22e606f5b6b9351f9bd35ef,2h ago,2.0,2026-03-23T07:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions. 
+
+With millions of customer interactions across our ecosystem and a uniquely rich dataset spanning customer behaviour, travel and partner engagement, data plays a central role in how we personalise experiences and make decisions at scale.
+
+About the role:
+
+We’re looking for a Data Scientist to join our Advanced Analytics Centre of Excellence. In this role, you’ll build, deploy and scale machine learning and experimentation solutions that directly shape loyalty strategy, customer decisioning and personalisation, partner performance, and customer experience across the Velocity ecosystem.
+
+You’ll work in a cross functional environment alongside Insight Analysts, Analytics Engineers and business stakeholders, owning problems end to end from framing and experiment design through to production deployment and measurable business impact, embedding models into production systems that power large scale customer and member decisioning.
+
+You’ll report to the Manager, Personalisation Analytics and Data Science and join a team with established models in production, including recommender systems, propensity and regression models, supported by an evolving MLOps framework built on Databricks and AutoML. These models are actively used to power large scale member decisioning across the Velocity program.
+
+As Velocity accelerates its AI transformation journey, you’ll partner closely with our AI teams to identify, develop and embed AI driven capabilities into scalable products and decisioning frameworks.
+
+In this role you will:
+
+Design, build and deploy statistical and machine learning models using Python and Spark within a modern, scalable data and ML platform, including Databricks, with a focus on deploying models into production environments supporting batch and increasingly near real time decisioning
+Own the end to end lifecycle of models, from problem framing and feature engineering through to deployment, monitoring and optimisation
+Develop and enhance recommender systems, propensity models and predictive models that drive commercial outcomes
+Design and implement experiments (A/B and beyond) to inform decision making, measure causal impact and continuously optimise outcomes
+Contribute to and improve MLOps practices, including automation, reproducibility, scalable deployment pipelines and model monitoring
+Build scalable data products and reusable decisioning frameworks
+Translate complex analyses into clear, actionable insights using effective data visualisation and storytelling for both technical and non technical audiences
+Partner closely with analytics, engineering and business teams to embed data-driven decision making into workflows
+Ensure all work aligns with Virgin Australia Group’s safety, security and resilience standards
+
+You’ll be great in this role if you have:
+
+A degree in a quantitative discipline such as Data Science, Statistics, Mathematics or Computer Science (PhD desirable)
+Around 3+ years of experience building and deploying machine learning models in a commercial environment
+Proficiency in Python, with solid SQL skills and experience working with large datasets (Spark desirable)
+Experience working with modern data and ML platforms such as Databricks and/or AWS
+A strong foundation in statistics, experimental design and ideally causal inference
+Experience working within or contributing to MLOps frameworks
+A track record of translating models and analysis into measurable business impact
+Strong communication and data visualisation skills, with the ability to influence stakeholders and drive data-driven decisions
+Curiosity, ownership and a drive to automate and scale solutions
+Experience in loyalty, travel or consumer products (nice to have)
+
+Why this role is interesting:
+
+Work on production grade machine learning systems that power decisioning at scale
+Build on an existing ML and MLOps ecosystem with modern tooling (Databricks, AutoML)
+Help shape how experimentation, personalisation and AI driven decisioning are scaled across Velocity
+
+Candidates must be Sydney based, or willing to relocate.
+
+What you’ll get from us 
+
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to): 
+
+Discounted flights for you and your loved ones (plus $1000 travel credits per year) 
+Flexible and hybrid working, with a mix of working from home and the office 
+‘Dress for Your Day’ – wear whatever makes you feel great for the type of work you do and the day you have ahead of you 
+Discounts on travel insurance, lounge membership, car hire, accommodation, and experiences worldwide 
+Cheaper hospitality, retail, technology, beauty and wellness services 
+Free counselling and online tools to support your physical, mental, social and financial health. 
+
+When everyone is included, everyone wins 
+
+We’re all individuals. And we love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTIQ+ community, and anyone else who wants to join us. 
+
+Ready to apply? 
+
+Working at Virgin Australia isn't just a job. It's a passion that becomes part of you. Are you ready to join us? Get ready for a rewarding experience. Apply today!"
+91094986,Solutions Engineer,Australian Catholic University Limited,https://www.seek.com.au/job/91094986?type=standard&ref=search-standalone&origin=jobCard#sol=4f7fabe7fe49792fc03cccaa64125e6a248522d5,2h ago,2.0,2026-03-23T07:00:00+00:00,Brisbane QLD (Hybrid),"Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,"$116,706 – $130,478 pa plus 17% Super & Benefits","Campus Location: North Sydney, Australia | Brisbane, Australia | Melbourne, Australia
 
 Job No: APTAV128265#013
@@ -69,7 +289,7 @@ ACU does not accept candidate applications submitted by external recruitment age
 Position Description:
 
 10612751 Solutions Engineer 10 March 2026.pdf"
-91094874,Solutions Engineer,Australian Catholic University Limited,https://www.seek.com.au/job/91094874?type=standard&ref=search-standalone&origin=jobCard#sol=8c7ac5397da02c309c66309d8f5eae94c4386d48,1h ago,1.0,2026-03-23T06:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)","Engineering - Software (Information & Communication Technology)
+91094908,Solutions Engineer,Australian Catholic University Limited,https://www.seek.com.au/job/91094908?type=standard&ref=search-standalone&origin=jobCard#sol=b150fe3df94e892eb49fe1f55764bae7951186c6,2h ago,2.0,2026-03-23T07:00:00+00:00,Melbourne VIC (Hybrid),"Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,"$116,706 – $130,478 pa plus 17% Super & Benefits","Campus Location: North Sydney, Australia | Brisbane, Australia | Melbourne, Australia
 
 Job No: APTAV128265#013
@@ -139,7 +359,77 @@ ACU does not accept candidate applications submitted by external recruitment age
 Position Description:
 
 10612751 Solutions Engineer 10 March 2026.pdf"
-91093965,Lead Data Engineer,Compas Pty Ltd,https://www.seek.com.au/job/91093965?type=standard&ref=search-standalone&origin=jobCard#sol=b3ddcdcdfac7344610a19c3de62e1759ae704ed7,1h ago,1.0,2026-03-23T06:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Job Title: Lead Data Engineer - Microsoft Fabric & Cloud Data Platforms
+91094874,Solutions Engineer,Australian Catholic University Limited,https://www.seek.com.au/job/91094874?type=standard&ref=search-standalone&origin=jobCard#sol=34ea747c8c72798bd9009969bed4f6d4803533ae,2h ago,2.0,2026-03-23T07:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)","Engineering - Software (Information & Communication Technology)
+Other (Education & Training)",Full time,"$116,706 – $130,478 pa plus 17% Super & Benefits","Campus Location: North Sydney, Australia | Brisbane, Australia | Melbourne, Australia
+
+Job No: APTAV128265#013
+
+Utilise technical expertise and stakeholder engagement skills to deliver scalable, AI-enabled and automated digital solutions
+
+Work with new team designing and building intelligent, enterprise-wide digital solutions to improve ACU's capability
+
+ACU offers 17% employer superannuation, salary packaging and generous leave provisions
+
+Two full time, permanent opportunities with hybrid flexibility working at North Sydney, Melbourne or Brisbane campus
+
+About the role:
+
+Operating within Digital Innovation & Change, the Solutions Engineer is active in the strategic design and implementation of digital solutions across the enterprise to align technological initiatives with ACU's strategy. Reporting to the National Manager - Digital Innovation & Change this role is responsible for contributing to technical direction, influencing digital policy and ensuring integration across the university's faculties and directorates nationally. The Solutions Engineer will form part of a new team and collaborate with cross-functional teams to design, develop and implement innovative solutions that drive business success. The position will work closely with stakeholders, faculties and business units along with the Information Technology Directorate to identify business requirements and translate them into technical solutions. Also, the role will require staying up to date with emerging technologies and industry trends to recommend and implement innovative solutions that align with university objectives.
+
+For full position details, refer to the position description
+
+Contact:
+
+General enquiries can be sent to Brett Wiskar, National Manager - Digital Innovation & Change at: Brett.Wiskar@acu.edu.au
+
+What we offer:
+
+The University pursues an excellence agenda and offers an environment where staff are welcomed and safe, and valued through development, participation and involvement.
+
+Total remuneration valued to $138,111 - $154,409 total rem (pro rata) pa, including salary component $116,706 - $130,478 (pro rata) pa (HEW 8), employer contribution to superannuation and annual leave loading.
+
+17% employer superannuation contributions to eligible continuing and fixed-term staff.
+
+Annual leave loading of an equivalent to 17.5% of four weeks' salary pro rata payable, dependent on your commencement date.
+
+As an ACU staff member, you will have access to generous benefits which include but not limited to: flexible work, study leave, a variety of leave provisions and salary packaging. Find out more information about the benefits or working at ACU here.
+
+How to Apply:
+
+Step 1: Review the Position Description and become familiar with Our Mission and the Application process
+
+Step 2: Click the 'View Position Description and Apply' button, and populate your candidate application details, including your:
+
+Resume.
+
+Recommended responses to the Selection Criteria and Core Competencies in a cover letter (maximum 2 pages) or in the online Declaration and Criteria application page.
+
+Brief online responses to any pre-screening employment questions.
+
+Applications close: 06-APR-2026 at 11:59pm AUS Eastern Standard Time
+
+Preferred candidates will be required to complete mandatory pre-employment declarations and background checks, including those related to gender-based violence and foreign interference, in line with ACU's compliance requirements.
+
+Candidates must hold Australian work rights to apply for this position. For permanent/ continuing roles, applicants must have permanent work rights. For further information visit Immigration and Citizenship(homeaffairs.gov.au)
+
+Your Privacy of personal information is maintained in accordance with ACU policy. For more details visit: www.acu.edu.au/careers
+
+ACU is committed to fostering an inclusive workplace culture that values diversity and enables our people to reach their potential. This is underpinned by our mission and values, grounded in our respect for all people and the advancement of the common good. In line with our commitment to equity, diversity and inclusion we welcome candidates from all backgrounds and lived experiences. ACU is recognised as a Veteran Employment Supporter and veterans are encouraged to apply. ACU offers support for candidates that may require adjustments through the recruitment process. Please contact recruitment@acu.edu.au to discuss your requirements in confidence.
+
+About ACU:
+
+Australian Catholic University (ACU) is an inclusive community which welcomes students and staff of all beliefs. ACU has over 2,500 staff supporting more than 34,000 students across eight campuses - Ballarat, Brisbane, Canberra, Melbourne, North Sydney, Strathfield, Blacktown and Rome.
+
+ACU aspires to be a home for our staff, offer the care of a family and develop an academic and professional community. Whatever your faith or culture, and whether you are academic or professional staff, there are many opportunities both for learning and contributing at ACU.
+
+As valued members of our community, all staff members are expected to have an understanding of ACU's mission and values and to demonstrate an active contribution to them.
+
+ACU does not accept candidate applications submitted by external recruitment agencies through the ACU careers website.
+
+Position Description:
+
+10612751 Solutions Engineer 10 March 2026.pdf"
+91093965,Lead Data Engineer,Compas Pty Ltd,https://www.seek.com.au/job/91093965?type=standard&ref=search-standalone&origin=jobCard#sol=d3c80a665a76b1eb9c6d842b009032faef89b627,3h ago,3.0,2026-03-23T06:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,,"Job Title: Lead Data Engineer - Microsoft Fabric & Cloud Data Platforms
 Join a high-impact data program supporting the modernisation of large-scale, business-critical platforms in a sensitive government environment. This opportunity is ideal for a senior data engineering professional with deep Microsoft Fabric and Azure Data Factory expertise who can lead the design of scalable data pipelines, optimise cloud data architecture, and support the migration of complex legacy reporting and analytics environments into modern data platforms.
 
 Location: ACT
@@ -168,7 +458,7 @@ Compas Pty Ltd is a Canberra based wholly Australian owned, Recruitment and Serv
 YOUR APPLICATION WILL BE TREATED WITH THE STRICTEST CONFIDENCE
 Due to the nature of this environment, candidates will be working in sensitive government settings. Clearance requirements vary per role and are based on client specifications.
 Due to the nature of this environment, candidates must hold a current NV1 clearance."
-91093887,AI Adoption & Enablement Lead or AI Adoption SME,World Wide Technology,https://www.seek.com.au/job/91093887?type=standard&ref=search-standalone&origin=jobCard#sol=1c977fe0f7158aee8b22010f17b0c907b14bb2e7,1h ago,1.0,2026-03-23T06:00:00+00:00,Perth WA (Hybrid),Consultants (Information & Communication Technology),Contract/Temp,$170 – $187 per hour,"The AI Adoption & Enablement Lead is responsible for driving organisation-wide adoption, effective usage, and measurable productivity outcomes from enterprise AI tools. The initial focus is on uplifting baseline adoption and competency across the business, followed by the development of role-specific and use‑case‑driven value, particularly for legal and finance users. This role plays a critical part in delivering the CEO-mandated objective of 100% AI adoption by the end of May.
+91093887,AI Adoption & Enablement Lead or AI Adoption SME,World Wide Technology,https://www.seek.com.au/job/91093887?type=standard&ref=search-standalone&origin=jobCard#sol=faf94faf166244dc3637bf5c6e2fcf0c94e8139f,3h ago,3.0,2026-03-23T06:00:00+00:00,Perth WA (Hybrid),Consultants (Information & Communication Technology),Contract/Temp,$170 – $187 per hour,"The AI Adoption & Enablement Lead is responsible for driving organisation-wide adoption, effective usage, and measurable productivity outcomes from enterprise AI tools. The initial focus is on uplifting baseline adoption and competency across the business, followed by the development of role-specific and use‑case‑driven value, particularly for legal and finance users. This role plays a critical part in delivering the CEO-mandated objective of 100% AI adoption by the end of May.
 
 Context
 
@@ -281,7 +571,7 @@ Measurable uplift in employee confidence and competency in using AI.
 Clear evidence of productivity improvements tied to task-based outcomes.
 
 Strong engagement and positive feedback from legal and finance user groups."
-91093339,AI Lead Engineer,Davidson,https://www.seek.com.au/job/91093339?type=standard&ref=search-standalone&origin=jobCard#sol=eda288ea7d66d24401a6c068d73fe33435e631dc,1h ago,1.0,2026-03-23T06:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About the Company
+91093339,AI Lead Engineer,Davidson,https://www.seek.com.au/job/91093339?type=standard&ref=search-standalone&origin=jobCard#sol=08385c213a939618c1da3a818a9dab5103b28267,3h ago,3.0,2026-03-23T06:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About the Company
 
 This organisation is a well-established leader in the utilities sector, delivering critical services to a large and growing customer base. With a strong focus on innovation, sustainability, and future-ready technology, they are investing heavily in data, AI, and advanced analytics.
 
@@ -328,7 +618,7 @@ Strong stakeholder engagement and leadership experience
 
 
 Please apply with current resume in Microsoft Word format only (.doc or .docx). If you would like to have a confidential discussion, please contact Dylan Tasker on dylan.tasker@davidsonwp.com , quoting reference JN -032026-42817. Want to know more about Davidson? Visit us at www.davidsonwp.com"
-91092970,Mechatronics Engineer,SUZOHAPP Australia,https://www.seek.com.au/job/91092970?type=standard&ref=search-standalone&origin=jobCard#sol=af68ca67adeba4a84d300d10b2ac144ff188f4b3,2h ago,2.0,2026-03-23T05:00:00+00:00,"North Melbourne, Melbourne VIC (Hybrid)",Mechanical Engineering (Engineering),Full time,,"About us
+91092970,Mechatronics Engineer,SUZOHAPP Australia,https://www.seek.com.au/job/91092970?type=standard&ref=search-standalone&origin=jobCard#sol=d5e756af3c4acdfdbe2bdf688c7f81dc1e3e083b,3h ago,3.0,2026-03-23T06:00:00+00:00,"North Melbourne, Melbourne VIC (Hybrid)",Mechanical Engineering (Engineering),Full time,,"About us
 
 PayComplete is a global leader in physical finance, dedicated to innovating self-service experiences and operations for both consumers and employees. It serves a broad range of industries, including retail, transportation, financial services, vending, cash centres, mints and more. 
 
@@ -420,7 +710,7 @@ North Melbourne location with on-site parking
 Working on new, exciting technology
 
 Some personal use of equipment"
-91092831,Lead AI Engineer,Hays | Technology,https://www.seek.com.au/job/91092831?type=standard&ref=search-standalone&origin=jobCard#sol=f0ea3631d608086aa453b5dd5c275faa29d53383,2h ago,2.0,2026-03-23T05:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"**Australia PR / Citizes are encouraged to apply**
+91092831,Lead AI Engineer,Hays | Technology,https://www.seek.com.au/job/91092831?type=standard&ref=search-standalone&origin=jobCard#sol=7c9deda4f3c16f7921c128757397935734ed8f01,4h ago,4.0,2026-03-23T05:00:00+00:00,"Mitcham, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"**Australia PR / Citizes are encouraged to apply**
 
 Your new company
 A complex, value‑driven organisation operating within a highly regulated environment, this organisation is undergoing significant transformation to position itself for long‑term growth, resilience, and innovation.
@@ -465,7 +755,7 @@ Excellent salary and benefits. Do not miss out!
 
 What you need to do now
 If you're interested in this role or know of someone that may be, please click 'Apply Now' or forward an updated CV to Gopalakrishnan.subramanian@hays.com.au"
-91092330,Senior Data Modeller,Talenza,https://www.seek.com.au/job/91092330?type=standard&ref=search-standalone&origin=jobCard#sol=8685e6b56860cb55595721119d79173378686332,2h ago,2.0,2026-03-23T05:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,$1k - $1200 p.d.,"Senior Data Modeller | 12-Month Contract | $1,200pd Inc Super | Sydney | Financial Services
+91092330,Senior Data Modeller,Talenza,https://www.seek.com.au/job/91092330?type=standard&ref=search-standalone&origin=jobCard#sol=21e7f15c5f6c49b6385ad6013a2d1e94b1aaef5f,4h ago,4.0,2026-03-23T05:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,$1k - $1200 p.d.,"Senior Data Modeller | 12-Month Contract | $1,200pd Inc Super | Sydney | Financial Services
 
 Are you a Senior Data Modeller looking for an exciting opportunity to shape the data landscape in a leading digital bank? We're seeking a highly skilled professional to lead data strategy and modelling initiatives within a dynamic financial services environment.
 
@@ -499,7 +789,7 @@ What You Bring:
 ✔ Proven ability to drive innovation and deliver high-impact data solutions.
 
 🚀 Ready to take your career to the next level? Apply today and be part of a team that's redefining financial services through data, AI, and cloud innovation."
-91091810,Lead Data Engineer,Whizdom,https://www.seek.com.au/job/91091810?type=standard&ref=search-standalone&origin=jobCard#sol=163b340e2bb9f62c47d312df4c790ba600cac050,2h ago,2.0,2026-03-23T05:00:00+00:00,Canberra ACT,Government - State (Government & Defence),Contract/Temp,AUD 150 - 170 per hour,"Seeking a Lead Data Engineer with Experience working with distributed data processing technologies (e.g., Spark or equivalent)
+91091810,Lead Data Engineer,Whizdom,https://www.seek.com.au/job/91091810?type=standard&ref=search-standalone&origin=jobCard#sol=970f63504ef1251fc5c19aac58adea2993a37640,4h ago,4.0,2026-03-23T05:00:00+00:00,Canberra ACT,Government - State (Government & Defence),Contract/Temp,AUD 150 - 170 per hour,"Seeking a Lead Data Engineer with Experience working with distributed data processing technologies (e.g., Spark or equivalent)
 
 Lead Data Engineer for Data Analytics
 
@@ -550,7 +840,7 @@ Closing date:  Monday 6 April 2026
  
 
 Call Joanne Finchett on 0480 002454 or email Joanne@whizdom.com.au for any further information"
-91091525,Lead Data Engineer,Recruitment Hive,https://www.seek.com.au/job/91091525?type=standard&ref=search-standalone&origin=jobCard#sol=56b05d534d39381f9f194f472942250eddd86dca,3h ago,3.0,2026-03-23T04:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,$145- $165 per hour (inc-Super),"12 + 12 + 12 month contract 
+91091525,Lead Data Engineer,Recruitment Hive,https://www.seek.com.au/job/91091525?type=standard&ref=search-standalone&origin=jobCard#sol=e92c44c9852b0a40b531b1c39ed825878c4d2620,4h ago,4.0,2026-03-23T05:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,$145- $165 per hour (inc-Super),"12 + 12 + 12 month contract 
 Must hold NV1 Security Clearance
 Cloud-based analytics platform, advanced analytics & AI
 
@@ -586,7 +876,7 @@ Job ID: CW667345  | LH-05932
 
 We Value Diversity 
 The Recruitment Hive is a proud Equal Opportunity Employer. We recognise the value of diverse perspectives and experience and are committed to an inclusive workplace where everyone feels valued and respected for who they are. We encourage people with disability, indigenous, veterans and people of all backgrounds."
-91091018,Principal Observability Engineer,SustainRecruit,https://www.seek.com.au/job/91091018?type=standard&ref=search-standalone&origin=jobCard#sol=6e94d610b4e65f3eb0d6540986aff949f61a7295,3h ago,3.0,2026-03-23T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Are you a seasoned engineering leader with a passion for building world‑class observability across complex, high‑scale systems? We’re looking for a Principal Observability Engineer to drive the strategy, standards, and technical excellence behind our organisation’s next‑generation observability and AIOps capabilities.
+91091018,Principal Observability Engineer,SustainRecruit,https://www.seek.com.au/job/91091018?type=standard&ref=search-standalone&origin=jobCard#sol=73c62510f23ee94ec4ae66497c177d49bc82e426,5h ago,5.0,2026-03-23T04:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Are you a seasoned engineering leader with a passion for building world‑class observability across complex, high‑scale systems? We’re looking for a Principal Observability Engineer to drive the strategy, standards, and technical excellence behind our organisation’s next‑generation observability and AIOps capabilities.
 
 In this role, you’ll shape the future direction of our observability platforms, partner with cross‑functional teams across engineering and operations, and enable the business to proactively detect issues, optimise performance, and deliver exceptional reliability for mission‑critical systems.
 
@@ -611,7 +901,7 @@ Deep understanding of enterprise‑scale cloud infrastructure, networking, and m
 Demonstrated use of ML/GenAI for predictive monitoring, incident analysis, correlation, and summarisation.
 Experience building auto‑healing workflows (e.g., using Ansible).
 If you'd like an opportunity to lead the observability strategy at enterprise level, please apply now."
-91090573,Research Fellow (B) - Industrial AI,Adelaide University,https://www.seek.com.au/job/91090573?type=standard&ref=search-standalone&origin=jobCard#sol=cd955cff9adf43ed7cb8c1aecee2a80e0614ce57,3h ago,3.0,2026-03-23T04:00:00+00:00,Adelaide SA,Research & Fellowships (Education & Training),Full time,"Salary Range: $114,917 - $135,932 pa (+ 17% super)","Based at Australian Institute Machine Learning (AMIL), City East Campus
+91090573,Research Fellow (B) - Industrial AI,Adelaide University,https://www.seek.com.au/job/91090573?type=standard&ref=search-standalone&origin=jobCard#sol=fa2a7fa90350f6b3321026e108db025cbb5d606c,5h ago,5.0,2026-03-23T04:00:00+00:00,Adelaide SA,Research & Fellowships (Education & Training),Full time,"Salary Range: $114,917 - $135,932 pa (+ 17% super)","Based at Australian Institute Machine Learning (AMIL), City East Campus
 2 x Full-time, 2-year fixed term contracts
 Salary Range: $114,917 - $135,932 per annum (plus 17% superannuation)
 
@@ -676,7 +966,7 @@ For further information about this opportunity, please contact (quoting referenc
 Simone Patterson
 Talent Acquisition Officer
 +61 8 8302 1700| careers.adelaideuniversity@adelaide.edu.au"
-91090296,Data Engineer,Toyota Finance Australia,https://www.seek.com.au/job/91090296?type=standard&ref=search-standalone&origin=jobCard#sol=72a8a77796bccd9f25abc721f49e9b03d174b45d,3h ago,3.0,2026-03-23T04:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"We're looking for a Data Engineer to join our Data Office team. In this role, you'll design, build, and maintain automated data pipelines that extract, transform, and load (ETL) data from multiple sources into our data warehouse. Your work will ensure data is clean, consistent, and accessible for analysis, enabling smarter decisions across the business
+91090296,Data Engineer,Toyota Finance Australia,https://www.seek.com.au/job/91090296?type=standard&ref=search-standalone&origin=jobCard#sol=78255f038356dab8ee292db038de734f8e533cd3,5h ago,5.0,2026-03-23T04:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Full time,,"We're looking for a Data Engineer to join our Data Office team. In this role, you'll design, build, and maintain automated data pipelines that extract, transform, and load (ETL) data from multiple sources into our data warehouse. Your work will ensure data is clean, consistent, and accessible for analysis, enabling smarter decisions across the business
 
 You'll collaborate with data scientists, analysts, and business intelligence teams to deliver high-quality solutions from a prioritised backlog of incidents and demands. If you're proactive, detail-oriented, and passionate about data quality, this is the role for you.
 
@@ -720,7 +1010,7 @@ We are an equal opportunity employer. We celebrate diversity and are committed t
 We are happy to adjust the recruitment process for your accessibility requirements. Please contact us and let us know your preferred type of communication and we will be in touch as soon as possible to discuss your requirements.
 
 Come with us and help create the future."
-91089271,Senior Data Engineer - Python + Snowflake - Fully Remote / 100% WFH,Profusion PAC Pty Ltd,https://www.seek.com.au/job/91089271?type=standard&ref=search-standalone&origin=jobCard#sol=bba5097df716039c6470a2ebdabde1741802e302,4h ago,4.0,2026-03-23T03:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,"Up to $1100 pd Inc Super, 100% Remote/WFH","Day Rate up to $1100 pd inc Super
+91089271,Senior Data Engineer - Python + Snowflake - Fully Remote / 100% WFH,Profusion PAC Pty Ltd,https://www.seek.com.au/job/91089271?type=standard&ref=search-standalone&origin=jobCard#sol=4eb43d18e60c66bb8ad90c97c9185fc278d2ef2d,5h ago,5.0,2026-03-23T04:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,"Up to $1100 pd Inc Super, 100% Remote/WFH","Day Rate up to $1100 pd inc Super
 100% WFH/ Remote, min 6+ month contract
 Federal Government end client 
  
@@ -772,7 +1062,7 @@ Supportive, collaborative and inclusive culture
 Click on the APPLY button or contact Dave on David.Marshall@profusingroup.com for a confidential discussion.
   
 We are committed to providing a supportive culture and positively contributing towards creating diverse and inclusive workplaces for our candidates and clients. We invite candidates of all ages, genders, sexual orientation, cultural backgrounds, people with disability, neurodiverse individuals, and Indigenous Australians to apply."
-91088819,Senior IBM DataStage ETL Software Engineer / Developer,Orion Professional Services Pty Ltd,https://www.seek.com.au/job/91088819?type=standard&ref=search-standalone&origin=jobCard#sol=bd1200dcae0963c76eca070ca7f0073a3ff1f28b,4h ago,4.0,2026-03-23T03:00:00+00:00,Canberra ACT (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$145+ Per Hour,"Applications Close Date: ***Wed, 06 April 2026**
+91088819,Senior IBM DataStage ETL Software Engineer / Developer,Orion Professional Services Pty Ltd,https://www.seek.com.au/job/91088819?type=standard&ref=search-standalone&origin=jobCard#sol=7ab53eb6ecae1fe147cd19720e1bc220d1e416b2,6h ago,6.0,2026-03-23T03:00:00+00:00,Canberra ACT (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$145+ Per Hour,"Applications Close Date: ***Wed, 06 April 2026**
 
 Estimated start date:  01 July 2026
 
@@ -822,7 +1112,7 @@ Exposure to cloud-based data platforms (AWS, Azure, GCP) is an advantage
 
 How to Apply  
 Does this role sound perfect for you? If so, Apply Now AND send email to admin@orionps.com.au"
-91088503,ServiceNow (AI / Generative AI) Developer,INSIGHTURE,https://www.seek.com.au/job/91088503?type=standard&ref=search-standalone&origin=jobCard#sol=0c1a5084f581b19553a5a1a9f533f9a3cb4b24ee,4h ago,4.0,2026-03-23T03:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Contract/Temp,"$10,000 – $11,000 per month","Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering. As an AWS partner, Insighture excels in co-integrated cloud services. It has collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more.
+91088503,ServiceNow (AI / Generative AI) Developer,INSIGHTURE,https://www.seek.com.au/job/91088503?type=standard&ref=search-standalone&origin=jobCard#sol=9dad42537222ff9e231fac76e8e49907332b1919,6h ago,6.0,2026-03-23T03:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Contract/Temp,"$10,000 – $11,000 per month","Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering. As an AWS partner, Insighture excels in co-integrated cloud services. It has collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more.
 
 The team’s expertise spans Cloud-Native Development, Solutions Architecture, UI/UX, Quality Engineering, Data Engineering, AI/ML, and DevSecOps. These capabilities empower businesses to achieve impactful and innovative outcomes.
 
@@ -890,7 +1180,7 @@ Troubleshoot and optimise AI solutions, including performance, accuracy, and acc
 Collaborate with stakeholders to identify high‑value AI use cases and translate business requirements into scalable technical solutions.
 
 Provide documentation, knowledge transfer, and support for BAU adoption of AI capabilities."
-91087451,Senior AI Lead,Eagna Consulting,https://www.seek.com.au/job/91087451?type=standard&ref=search-standalone&origin=jobCard#sol=4374f1e9706220e07c658db522f8a059c4946226,5h ago,5.0,2026-03-23T02:00:00+00:00,Sydney NSW (Remote),Management (Information & Communication Technology),Contract/Temp,Great contract rate depending on experience!,"Our client is a global technology company and they are currently looking for a Senior AI Lead to drive organisation wide uptake and effective use of enterprise AI tools. 
+91087451,Senior AI Lead,Eagna Consulting,https://www.seek.com.au/job/91087451?type=standard&ref=search-standalone&origin=jobCard#sol=5b67f0ebc4f9d53df2e14e00bb8019af50d0de2b,6h ago,6.0,2026-03-23T03:00:00+00:00,Sydney NSW (Remote),Management (Information & Communication Technology),Contract/Temp,Great contract rate depending on experience!,"Our client is a global technology company and they are currently looking for a Senior AI Lead to drive organisation wide uptake and effective use of enterprise AI tools. 
   
 You will work closely with IT and business teams to embed AI into everyday workflows, ensuring users feel confident, capable, and supported.
   
@@ -911,7 +1201,7 @@ Data-driven mindset with experience measuring adoption and productivity outcomes
 Initial 12 month contract.
 Fully remote - work from anywhere in Australia.
 If you are interested in this fantastic opportunity please do not hesitate to apply by clicking on the link below. Alternatively please call us on 02 9127 5505 for a confidential discussion."
-91086486,ARC Researcher (A) – AI Agents & Reinforcement Learning,Adelaide University,https://www.seek.com.au/job/91086486?type=standard&ref=search-standalone&origin=jobCard#sol=3f91a92494afd4950dd01eabe2fb0c3886efcc53,5h ago,5.0,2026-03-23T02:00:00+00:00,"Mawson Lakes, Adelaide SA",Research & Fellowships (Education & Training),Full time,"Salary Range: $102,024 - $109,307 pa + 17% Super","Based in School of Computer and Information Technology (Mawson Lakes)
+91086486,ARC Researcher (A) – AI Agents & Reinforcement Learning,Adelaide University,https://www.seek.com.au/job/91086486?type=standard&ref=search-standalone&origin=jobCard#sol=743411daceea3c68c1bdf320f1d6ba7e78e3c865,7h ago,7.0,2026-03-23T02:00:00+00:00,"Mawson Lakes, Adelaide SA",Research & Fellowships (Education & Training),Full time,"Salary Range: $102,024 - $109,307 pa + 17% Super","Based in School of Computer and Information Technology (Mawson Lakes)
 Full-time (1.0 FTE), 2-year fixed term with a possibility for +1-year extension
 Salary Range: $102,024 - $109,307 per annum (plus 17% superannuation)
 
@@ -979,7 +1269,7 @@ For further information about this opportunity, please contact (quoting referenc
 Simone Patterson
 Talent Acquisition Adviser
 +61 8 8302 1700| careers.adelaideuniversity@adelaide.edu.au"
-91085292,Senior Data Scientist,Virgin Australia,https://www.seek.com.au/job/91085292?type=standard&ref=search-standalone&origin=jobCard#sol=63d3d05387992f13d4a2b446fd9e762964fdc473,6h ago,6.0,2026-03-23T01:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions. 
+91085292,Senior Data Scientist,Virgin Australia,https://www.seek.com.au/job/91085292?type=standard&ref=search-standalone&origin=jobCard#sol=e58a35e1da7dd2347313eec8e44f1c625e8b0959,8h ago,8.0,2026-03-23T01:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions. 
 
 With millions of customer interactions across our ecosystem and a uniquely rich dataset spanning customer behaviour, travel and partner engagement, data plays a central role in how we personalise experiences and make decisions at scale.
 
@@ -1064,7 +1354,7 @@ We’re all individuals. And we love that. That’s why we encourage application
 Ready to apply? 
 
 Working at Virgin Australia isn't just a job. It's a passion that becomes part of you. Are you ready to join us? Get ready for a rewarding experience. Apply today!"
-91083904,Senior Data Engineer - Python + Snowflake - Fully Remote / 100% WFH,Profusion PAC Pty Ltd,https://www.seek.com.au/job/91083904?type=standard&ref=search-standalone&origin=jobCard#sol=bebc87f66983f74b920373ad4ca364f208121802,7h ago,7.0,2026-03-23T00:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,"Up to $1100 pd Inc Super, 100% Remote/WFH","Day Rate up to $1100 pd inc Super
+91083904,Senior Data Engineer - Python + Snowflake - Fully Remote / 100% WFH,Profusion PAC Pty Ltd,https://www.seek.com.au/job/91083904?type=standard&ref=search-standalone&origin=jobCard#sol=b9f9b555598e14de7603cd3baef30a6efc529733,9h ago,9.0,2026-03-23T00:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Contract/Temp,"Up to $1100 pd Inc Super, 100% Remote/WFH","Day Rate up to $1100 pd inc Super
 100% WFH/ Remote, min 6+ month contract
 Federal Government end client 
  
@@ -1116,7 +1406,7 @@ Supportive, collaborative and inclusive culture
 Click on the APPLY button or contact Dave on David.Marshall@profusingroup.com for a confidential discussion.
   
 We are committed to providing a supportive culture and positively contributing towards creating diverse and inclusive workplaces for our candidates and clients. We invite candidates of all ages, genders, sexual orientation, cultural backgrounds, people with disability, neurodiverse individuals, and Indigenous Australians to apply."
-91083886,Integration Specialist - TIBCO/Mulesoft,Green Light PS Pty Ltd,https://www.seek.com.au/job/91083886?type=standard&ref=search-standalone&origin=jobCard#sol=accc2dc156eb10c61dbb97d085450dca1ffc4675,7h ago,7.0,2026-03-23T00:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Competitive,"6 months contract
+91083886,Integration Specialist - TIBCO/Mulesoft,Green Light PS Pty Ltd,https://www.seek.com.au/job/91083886?type=standard&ref=search-standalone&origin=jobCard#sol=2f95a1a4a960965652c8c2ac49774ec020419a9d,9h ago,9.0,2026-03-23T00:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,Competitive,"6 months contract
 Hybrid (Melbourne Based)
 Citizen with atleast Baseline Clearance
 Green Light Australia are currently looking for highly skilled Integration Specialist with solid background in development and integration of software code. This is a great opportunity to work on a diverse range of projects with one of the most up to date delivery methodologies and technologies.
@@ -1136,7 +1426,7 @@ Extensive experience with the Atlassian tool set including JIRA, Confluence and 
 Green Light is one of Australia's most successful and fastest growing IT services businesses. We offer a wide range of IT services in Security, infrastructure and Systems Integration to a diverse customer base throughout Australia, New Zealand, SE Asia and Europe.
 
 contact Shilpa Chopra at shilpac@greenlightworldwide.com or call at +61482072637 for a confidential discussion."
-91083791,Senior AI Enablement Engineer,Australian Unity,https://www.seek.com.au/job/91083791?type=standard&ref=search-standalone&origin=jobCard#sol=91866d0e02e08306b8f412640d0619fe8896ba5e,7h ago,7.0,2026-03-23T00:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Company description:
+91083791,Senior AI Enablement Engineer,Australian Unity,https://www.seek.com.au/job/91083791?type=standard&ref=search-standalone&origin=jobCard#sol=92a464600f0022f28549c4ba0606ef1fdcf94d86,9h ago,9.0,2026-03-23T00:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -1196,7 +1486,7 @@ Available access to LinkedIn Learning courses through our great Learning platfor
 For further benefits visit: https://www.australianunity.com.au/careers/culture
 
 Australian Unity is an Equal Opportunity employer and we encourage applications from all members of the community, including people of Aboriginal and Torres strait Islander descent, culturally and linguistically diverse backgrounds and, mature aged people."
-91082038,Principal Engineer,Pivot Wealth Pty Ltd,https://www.seek.com.au/job/91082038?type=standard&ref=search-standalone&origin=jobCard#sol=669a781f092764aaa634d546c7438e73a09824a9,10h ago,10.0,2026-03-22T21:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$180,000 – $225,000 + Super + Bonus + ESOP","Want to build the AI Infrastructure that changes an entire Industry?
+91082038,Principal Engineer,Pivot Wealth Pty Ltd,https://www.seek.com.au/job/91082038?type=standard&ref=search-standalone&origin=jobCard#sol=dc6fdd82dc3e2a7a01d5cad70883538b3c330e8a,12h ago,12.0,2026-03-22T21:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$180,000 – $225,000 + Super + Bonus + ESOP","Want to build the AI Infrastructure that changes an entire Industry?
 
 Ready to step into the principal seat and architect something from the ground up?
 
