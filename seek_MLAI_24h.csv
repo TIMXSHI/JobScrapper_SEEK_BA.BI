@@ -1,5 +1,489 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91139786,Technical Solutions Engineer - Contract (OCR + LLM | .NET / Python | OpenAI),ETE Group Pty Ltd,https://www.seek.com.au/job/91139786?type=standard&ref=search-standalone&origin=jobCard#sol=1062ce984ab12bebc4b81014cb803373f9b0759f,1h ago,1.0,2026-03-25T04:00:00+00:00,Melbourne VIC (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,TOP RATES,"Senior Technical Solutions Engineer (Contract)
+91143549,Senior AI Engineer,PRA,https://www.seek.com.au/job/91143549?type=standard&ref=search-standalone&origin=jobCard#sol=1ae7e780a37232e280d99a25b1f6e0d484fa4b3b,2h ago,2.0,2026-03-25T07:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$1000+ per day - 6month + contract,"Senior AI Engineer (Agents & Platform)
+Melbourne | Hybrid | 3 office days 
+Contract: 6months+ 
+Daily Rate: $1000 flex
+
+We’re looking for a Senior AI Engineer to sit at the intersection of platform and product — building real-world agentic experiences while shaping the platform that powers them.
+
+This is a hands-on role for someone who enjoys shipping agents end-to-end, while also improving the underlying platform to make it easier for other engineers to build with AI.
+
+What you’ll be doing:
+Design and ship full-stack agent experiences (chat UIs, streaming responses, tool visualisation)
+Build and integrate Model Context Protocol (MCP) servers into LLM workflows
+Develop secure, user-aware agents (OAuth2/OIDC, JWT, scoped tool access)
+Improve agent reliability in production through observability, tracing, and evals
+Contribute to the AI platform — making it easier for teams to adopt and scale agentic systems
+(Nice to have) Design multi-agent systems (A2A, orchestration, delegation patterns)
+Tech & Experience:
+Strong experience building LLM-powered agents / applications
+Frontend capability (React or similar) for building interactive AI experiences
+Experience with tooling frameworks / protocols (e.g. MCP, LangChain, custom tool schemas)
+Understanding of auth in distributed systems (OAuth2, OIDC, JWT)
+Experience with observability & evals (e.g. LangSmith, OpenTelemetry)
+Ability to operate in fast-moving, ambiguous environments
+What sets you apart:
+You make progress without a playbook
+You know when to prototype vs productionise
+You collaborate across engineering, platform, and product
+You challenge what’s not working and adapt quickly
+This is a super interesting role that will give your resume such a boost!  We are specifically looking for candidates with "" Real World"" experience in the above ideally working for another Tech company where you have been able to do this in a commercial environment. 
+
+Please apply via SEEK. 
+Due to volumes of applications, we can't accept phone calls or enquiries for this role.  Simply apply if you're interested and we will contact you if you're a match."
+91142898,Azure Data Engineer,Robert Half,https://www.seek.com.au/job/91142898?type=standard&ref=search-standalone&origin=jobCard#sol=8ab1377f8cc5db78e5125bc3dc6732ab9fbc1b83,3h ago,3.0,2026-03-25T06:00:00+00:00,"Mascot, Sydney NSW",Developers/Programmers (Information & Communication Technology),Full time,$140k - $160k p.a. + superannuation,"We are currently looking for an Azure Data Engineer to support strategic objectives by improving how the business uses data.
+
+The role combines hands-on Azure data engineering, technical leadership, and vendor management. With deep expertise in Azure Data Factory (ADF), the role leads enterprise data integration across Azure Synapse Analytics - defining requirements, guiding vendor delivery, and building critical components of the data platform.
+
+Skill set / Experience needed -
+
+Minimum seven years' experience supporting data platforms and data warehouse/BI solutions (data engineering, integration, and dashboards).
+Tertiary qualification in Computer Science, Data Science, Information Technology, Information Systems, or a related field.
+Strong stakeholder management skills, including prioritising work and managing SME and senior leader expectations.
+Extensive hands‑on experience with Azure Data Factory (ADF).
+Strong experience delivering data integration solutions on Azure Synapse Analytics.
+Working knowledge of Microsoft Fabric (Pipelines, Dataflows Gen2, Lakehouse, Warehouse).
+Proven experience managing external data engineering vendors and delivery outcomes.
+Ability to write high-quality technical requirements and solution designs.
+Strong SQL skills and solid understanding of data warehousing principles.
+Experience with Azure Data Lake Storage Gen2 and Azure Blob Storage.
+Strong understanding of ETL/ELT, data lakes, Medallion architecture, and data warehousing principles (dimensional modelling, data quality, and governance).
+Hands-on experience with BI and reporting tools (Power BI).
+High self-motivation and ability to work hands-on and independently when required.
+Current driver's licence and access to a vehicle.
+
+Highly Desirable -
+
+Python and/or PySpark for data transformation and validation.
+Experience implementing CI/CD for data platforms (Azure DevOps / Git).
+Demonstrable experience migrating SSIS workloads to Azure Synapse and/or Microsoft Fabric
+
+This role is a permanent position and is in office 5 days a week.
+
+
+The client site is not based near public transport, so you must also have your own mode of transport.
+
+Reference Number: 06800-0013407993
+
+By clicking 'apply', you give your express consent that Robert Half may use your personal information to process your job application and to contact you from time to time for future employment opportunities. For further information on how Robert Half processes your personal information and how to access and correct your information, please read the Robert Half privacy notice: https://www.roberthalf.com/au/en/privacy. Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status or trade union membership) as we do not collect your sensitive personal data at this time."
+91142709,Postdoctoral Researcher (A) – Next-Generation AI & Vision-Language Models,Adelaide University,https://www.seek.com.au/job/91142709?type=standard&ref=search-standalone&origin=jobCard#sol=ebe1fb8eca5e33b2ddca92ada2974ea563687c7c,3h ago,3.0,2026-03-25T06:00:00+00:00,Adelaide SA,Research & Fellowships (Education & Training),Full time,"Salary Range: $102,024 - $109,307 pa + 17% Super","Based at Australian Institute Machine Learning (AMIL), City East Campus
+Full-time, fixed term contract 3 years
+Salary Range: $102,024 - $109,307 per annum (plus 17% superannuation)
+
+
+At Adelaide University, we create the opportunities you need to achieve your ambitions – because when you thrive, we thrive.
+
+We are transforming education for contemporary learners and global citizens. Building on a proud legacy and shaped by bold ambition, it’s a place of excellence and equity, where our vibrant community of staff are united by our purpose to inspire Australia’s future change-makers and create a better tomorrow.
+
+Work that matters
+
+Join a funded research project at the forefront of Large Vision-Language Models (LVLMs), developing innovative evaluation tools and training methods to enhance complex reasoning, decision-making, and adaptability in next-generation AI systems. Your work will address critical limitations in current AI approaches and contribute to impactful, real-world solutions across sectors such as healthcare, business, and education, while strengthening Australia’s leadership in AI.
+
+Curious to learn more? Explore the position description/selection criteria above to discover more about this opportunity.
+
+The team
+
+Reporting to Associate Professor Qi Wu, this role sits within the Australian Institute for Machine Learning (AIML). You will work alongside experts in machine learning, computer vision, and natural language processing, contributing to cutting-edge research and partnering with academic and industry stakeholders to deliver innovative, high-impact outcomes.
+
+Established in 2018 and based at Lot Fourteen in Adelaide, AIML is globally recognised for research excellence and real‑world impact, collaborating with leading industry and government partners to apply cutting‑edge discoveries to challenges in sectors such as defence, space, healthcare, infrastructure and agritech.
+
+Visit the AU website to learn more about the Australian Institute for Machine Learning.
+
+Our people
+
+Our people are guided by purpose, curiosity and a commitment to lifelong learning. We embrace authenticity, innovation and collaboration, and harness diverse thinking in our pursuit of excellence.
+
+This role is ideal for someone who thrives in a fast-paced, research-intensive environment. You will engage with a diverse network of collaborators across disciplines, contributing to innovative projects that push the boundaries of AI while maintaining strong connections to practical applications.
+
+Learn more about our people, what we stand for and what we offer at Careers at AU.
+
+Experience
+
+To join our community and thrive in this role, you will likely have the following skills and experience:
+
+PhD in machine learning, AI, computer science or related field
+Programming experience in Python, C++ or other relevant language and experience in deep neural networks (Pytorch, tensorflow).
+Experience and demonstrable expert knowledge in one or more or the following areas: deep learning; graph neural networks and/or probabilistic graphical models; computer vision; Large Language Models.
+A good publication record in top tier machine learning and/or computer vision conferences or journals, commensurate with experience and opportunity.
+A strong work ethic, and the ability to work well independently, and as a member of a broader team
+
+Our commitment to inclusion and diversity
+
+We are committed to fostering a culture of inclusion where diversity is celebrated and everyone feels respected and valued. Adelaide University is an equal opportunity employer, committed to creating a safe, inclusive, and equitable workplace where everyone can thrive. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples, people with disability, and people of all ages, genders, cultural backgrounds, sexual orientations, and gender identities. We are committed to supporting flexible working arrangements and providing reasonable adjustments throughout the recruitment process.
+
+Launch your future with Adelaide University now.
+
+Applying is simple. Simply click on the Apply Now button and upload:
+
+your current CV
+a cover letter that tells us why you’re excited about the role
+
+The online application form will list the specific selection criteria that you need to address.
+
+Submit your application by 11:30pm Thursday 23 April 2026
+
+The University reserves the right to close this advertisement before the closing date if a suitable candidate is identified.
+
+For further information about this opportunity, please contact (quoting reference number 492783):
+
+Simone Patterson
+Talent Acquisition Officer
++61 8 8302 1700| careers.adelaideuniversity@adelaide.edu.au 
+
+
+#S-DNI
+#LI-DNI"
+91142196,"Tech Lead, Data Architect",Lanson Partners,https://www.seek.com.au/job/91142196?type=standard&ref=search-standalone&origin=jobCard#sol=7d73a5612469aba7bd11cb7f9f7c9272f4062dd5,3h ago,3.0,2026-03-25T06:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Contract/Temp,"$1,100 plus super per day","As Tech Lead, you will own the data architecture and technical vision across a significant portfolio of finance systems, including general ledger, accounts receivable, budgeting and forecasting, reconciliation, and finance data and analytics platforms.
+
+You will drive real change by designing scalable, intelligent finance systems and leveraging AI, automation, and cloud-native capabilities to deliver platform efficiency and innovation at scale.
+
+What you'll do
+Lead end-to-end solution design and implementation of complex, enterprise-grade finance platforms
+Optimise the use of core platforms including Fusion General Ledger, TM1, Workiva, and Anaplan
+Drive AI and automation initiatives to improve platform performance and reduce manual overhead
+Communicate complex technical concepts clearly to stakeholders across finance, technology, and executive audiences
+Why this role?
+
+Join this globally recognised financial services organisation with a strong technology culture and a genuine appetite for innovation. This is not a maintenance role; it's a platform for ambitious technologists who want to architect the future of finance systems at serious scale.
+
+You'll work alongside high-calibre peers in a collaborative, intellectually curious environment with access to cutting-edge tools and the autonomy to make a real impact.
+
+What you'll bring
+Proven hands-on experience with big data and data integration at enterprise scale
+Deep domain knowledge in finance, ideally gained within a major financial institution or consulting environment
+Practical experience with finance platforms such as Fusion General Ledger, TM1, Workiva, or Anaplan
+Experience working in a mature cloud environment and leading complex, multi-stakeholder implementation programmes
+Strong communication and influencing skills, you can translate technical complexity into business value
+Genuine passion for AI, automation, and using technology to solve real business problems
+For more information please contact Matthew Nicholas at matthew@lansonpartners.com"
+91141938,Research Engineer,Murdoch University,https://www.seek.com.au/job/91141938?type=standard&ref=search-standalone&origin=jobCard#sol=210d0122995fcf7740ea612dcc8c6a1feccc462f,3h ago,3.0,2026-03-25T06:00:00+00:00,"Murdoch, Perth WA","Other (Science & Technology)
+Other (Education & Training)",Full time,$79915 - $107770 p.a. + plus 17% Superannuation,"About The Team
+
+The College of Science, Technology, Engineering and Mathematics was formed in January 2019 from an amalgamation of the Schools of Veterinary and Life Sciences, Health Professions, Psychology and Exercise Science, Engineering and Information Technology, and Education. The combination of these individually strong areas will foster cross-disciplinary academic expertise and innovative multidisciplinary approaches to research and teaching. The College promotes excellent teaching and research facilities and has highly qualified academic and professional staff across the following disciplines:
+
+Engineering and Energy
+Information Technology, Math and Statistics
+Chemistry and Physics
+
+Your New Role!
+
+This position provides support to senior researchers through assisting in undertaking research tasks within the research team. This includes the system design and implementation, collection of and log of experimental data, submission of statement reports, spreadsheet development, data interpretation, professional report writing.
+
+Your Key responsibilities will include -
+
+Research Support for Multimodal Sensing Systems: Contribute to the design, development, and experimental implementation of multimodal sensing systems (e.g., RGB and thermal imaging) for dairy cattle monitoring; Support research activities related to system configuration, data acquisition, calibration, and experimental validation in controlled and field environments.
+AI System Integration and Implementation for Research Experiments: Assist with the implementation and optimisation of AI models for real-time behavioural analysis on edge computing platforms (e.g., Jetson-based systems); Support experimental evaluation of model performance, including processing efficiency, system robustness, and reliability under varying environmental conditions.
+Experimental Field Trials and Data Collection: Participate in field-based research trials conducted in dairy farm; Support the collection, management, and quality assurance of research datasets, and contribute to experimental testing, troubleshooting, and documentation of system performance for research and reporting purposes.
+Prototype Development for Research Platforms: Support the development and integration of prototype sensing platforms; Assist in evaluating hardware configurations, sensor integration approaches, and prototype improvements to support research objectives and system scalability.
+
+Please refer to the Position Description for further details.
+
+What We Offer You!
+
+This Fixed Term (12 Months) | Full Time (37.5 hours per week) attracts a remuneration of $79,915 - $107,770 plus 17% employer superannuation contributions.
+
+You'll join a dynamic and talented team where diversity and innovation thrive. Our Silver-tier status in the Australian Workplace Equality Index (AWEI), awarded in 2025, reflects our commitment to LGBTIQA+ inclusion, equity, and creating a safe, welcoming environment for all. We strive to be the university of choice for First Nations peoples, honouring Indigenous knowledge. Sustainability is central to our community and guided by clear, confident leadership, we are working toward an ambitious future with goals of net zero emissions and zero waste by 2030.
+
+As well as the flexibility to maintain a work life balance, our staff enjoy a vibrant, natural campus with world-class facilities, along with a variety of benefits, including:
+
+Enjoy a 2% salary increase under the Enterprise Agreement, effective July 2026
+Flexible work arrangements
+Cultural Load and allowance - providing up to $8,944 per year to First Nations employees who are contributing cultural knowledge and perspectives beyond the scope of their role
+Indigenous Language Allowance
+Salary packaging options - such as purchasing leave, gym membership, car parking permit
+Employee Assistance Program
+On-campus services and facilities, such as a Childcare Centre, Gym, Vet Hospital, and Chiropractic Clinic
+
+For further information, check out our benefits and services page!
+
+Join us!
+
+Please apply online via the Apply Now button, along with submitting the following documents to support your application -
+
+A cover letter including a statement addressing the selection criteria (with reference to the Position Description)
+Your most recent resume (CV)
+
+What you'll bring to the role:
+
+Completion of a tertiary qualification in Engineering, Mechatronics, Robotics, Electrical and Electronic Engineering, Computer Engineering, or a closely related field.
+Demonstrated experience in hardware integration, system installation, and configuration of sensing devices (e.g., cameras, thermal sensors, embedded systems).
+Strong programming skills relevant to AI deployment and system integration, including Python, C/C++, Linux environments, and experience working with edge computing platforms (e.g., NVIDIA Jetson or similar).
+Demonstrated experience in implementing and evaluating AI models in real-time or embedded environments, including performance optimisation and experimental validation.
+
+
+Applicants should refer to the Position Description for further details on the work requirements, duties, skills and experience required for this role. Applications sent by post or email will not be accepted.
+
+Please note visa sponsorship is not available for this position. Applicants are expected to have current and valid work rights in Australia.
+
+Please see the Applicant Guide for more information. Applicants who have support or access requirements, are encouraged to advise this at the time of their application, to ensure appropriate assistance is provided throughout the recruitment process.
+
+Contact Us
+
+For enquiries about the opportunity on offer please reach out to Hai Wang, Associate Professor, and quote JR105138 as the reference.
+
+Applications Close on 10th April 2026 (11:59pm AWST)
+
+The University reserves the right to withdraw this advertisement at any time.
+
+Murdoch University acknowledges the different perspectives, skills and experience that people from different backgrounds bring to strengthen its workforce. Murdoch University is committed to enhancing diversity in all its forms and strongly encourages suitably qualified candidates from Aboriginal and/or Torres Strait Islander peoples, women, people with disability, people of CaLD background and people of diverse genders to apply for this important position."
+91141230,AI Engineer,TalentWeb Consulting,https://www.seek.com.au/job/91141230?type=standard&ref=search-standalone&origin=jobCard#sol=d7a22a090dc9c4ee7bc8b45a70756f36cbfdbced,4h ago,4.0,2026-03-25T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"AI Engineer (Product-Focused)
+
+Build AI into a real-world construction business having end nd-to-end ownership and focusing on shipping, iterating, and solving real problems. 
+
+My client is a commercial construction company delivering high-end government and public infrastructure projects across NSW.
+
+Over the past 12 months, the business has made a serious investment in AI - not just tools, but a custom-built AI ecosystem already embedded across tendering, contract admin, and project delivery.
+
+We’re looking for an AI Engineer to take what’s been built and push it further.
+
+This is a high-ownership, standalone role where you’ll:
+
+Own and evolve the company’s AI ecosystem
+Build real, production-ready AI solutions used daily by the business
+Turn real-world problems into working systems
+Help shape a future AI SaaS product for the construction industry
+ What You’ll Actually Do
+Design and build AI-powered workflows across:
+Tendering & bids
+Project delivery & reporting
+Contract administration
+Work heavily with LLMs (OpenAI, Claude, etc.) to create practical, embedded solutions
+Develop and improve RAG systems and internal knowledge layers
+Integrate AI into existing business systems (end-to-end, not in isolation)
+Translate business problems into working AI products and automations
+Continuously experiment, iterate, and improve what’s already live
+Contribute to a commercial AI product being developed for the wider market
+This isn’t about ticking every technical box but about how you think and build.
+
+You’ll likely be someone who:
+
+Has hands-on experience building and shipping AI applications (not just experimenting)
+Is strong with LLMs, APIs, and AI tooling
+Understands how to go from problem → solution → production
+Has a product mindset, you care about usability, outcomes, and impact
+Has high agency, you don’t wait for instructions, you figure things out
+Is comfortable working in a lean, fast-moving environment
+You might come from:
+
+AI/ML Engineering
+Product Engineering / Full-stack with AI focus
+Startup / founder / Antler-style environments
+Even Product or Data Science, if you’ve built real AI solutions
+Bonus:
+
+Side projects in AI
+Experience deploying LLM/RAG systems into production
+Interest in construction / real-world industries
+If interested, please ""apply now"" or email a copy of your resume to 
+
+shauna.oreilly@talentweb.com.au"
+91140443,Senior Systems Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/91140443?type=standard&ref=search-standalone&origin=jobCard#sol=94d8411be2166d20558b846c714878f990ec278a,4h ago,4.0,2026-03-25T05:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,"$130,000 – $140,000 per year","About us:
+
+At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
+
+About the program:
+
+AIR6500 is the RAAF’s $3 billion program to develop a joint air battle management system that builds on the capabilities offered by Next Generation sensor and command and control systems. AIR6500 will create a fully networked ‘system of systems’ that synchronises air and missile defence operations in joint and coalition environments, maximising situational awareness and enhancing the speed of decision making across the battlespace.
+
+About the role:
+
+As a Systems Engineer, you’ll help shape next-generation capability by applying Model-Based Engineering (MBE) to design, develop and integrate complex systems. You’ll work closely with specialists, partner organisations and cross-functional teams to deliver solutions that strengthen Australia’s Defence and national security outcomes. You will:
+
+Analyse and transform system and sub-system requirements into detailed designs within an MBE environment
+
+Define and manage system interfaces, ensuring full traceability throughout the design lifecycle
+
+Conduct trade studies and optimise design solutions against performance, cost, and schedule considerations
+
+Produce and maintain technical artefacts including design descriptions, requirements documents, and analysis reports
+
+Participate in design reviews and support project planning, stakeholder engagement, and engineering assurance activities
+
+Contribute to estimates, bids, and continuous improvement initiatives across programs 
+
+
+
+
+About You
+
+You are a capable Systems Engineer who enjoys tackling complex technical problems and working in multidisciplinary teams. You will have:
+
+Degree qualifications in a relevant Engineering Discipline or relevant industry experience
+
+Knowledge and experience in the application of System Engineering, Integration and Verification on large complex systems
+
+Good knowledge in one or more of Command & Control, Command Support or Intelligence, Surveillance and Reconnaissance domains in a Defence context
+
+Experience with development of systems design for large complex systems
+
+Understanding in the application of Model Based Engineering (MBE) principles
+
+Sound knowledge and experience working within an Agile (Scrum) development project
+
+An Australian NV-1 security clearance and ability to access/handle Export Controlled technology, data and information
+
+
+
+
+Why join us?
+
+At Lockheed Martin Australia, you’ll work on programs that push the boundaries of innovation, engineering excellence and mission capability. Whether you’re passionate about systems design, integration, digital engineering or model-based development, you’ll have opportunities to learn, lead and grow.
+
+Be part of something bigger — help shape the future of Defence systems and advanced technology.
+
+How we reward and support you: 
+
+When you join Lockheed Martin, you work on projects you won’t experience anywhere else.
+
+We offer you a range of benefits built to suit you, no matter what stage of life you are in. 
+
+A variety of work patterns
+
+Access to our online discounts program offering immediate discounts or cashback
+
+A variety of leave options including Purchase Leave to support you and your family  
+
+Additional benefits such as Annual Flu Vaccinations, Novated Leasing and Fitness Programs
+
+Special Requirements
+
+Applicants must be eligible to obtain and maintain an Australian Defence Security Clearance and employment may be contingent on the provision of further personal information including citizenship to ensure compliance with international export control legislation and regulations.
+
+A Veteran-friendly Workplace
+
+Veterans are encouraged to apply. We highly value the unique skills and experiences that veterans and transitioning service members can contribute to our team. We are proud to be recognised as a Veteran Friendly Employer by the Australian Government.
+
+Equal Opportunity Statement
+
+Lockheed Martin Australia supports Equal Employment Opportunity and values diversity in the workplace by creating a place of employment that is, free of unlawful discrimination and is harassment free, fair, ethical, inclusive, and values the contribution of all its employees. By leveraging our employees' unique talents and experiences, we will deliver innovative, affordable solutions and unparalleled customer value.
+
+As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
+
+We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
+91140031,Senior AI Engineer - Investment & Decision-making products,Galileo Search,https://www.seek.com.au/job/91140031?type=standard&ref=search-standalone&origin=jobCard#sol=683cc6becf95698a41f4510f60cf45867bb9cb83,4h ago,4.0,2026-03-25T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$180k -$230k range (plus perks, benefits)","Senior AI Engineer - Product Engineer
+Global Investment & Strategy Business
+Sydney | Hybrid
+  
+We’re genuinely excited to be partnering with a leading global investment firm as they continue to build out their internal AI capabilities.
+  
+This is a rare opportunity to join a highly respected, well-capitalised business that is taking a thoughtful, long-term approach to applying AI in real-world decision-making — not experimentation for its own sake, but tooling that directly impacts how capital and investment decisions are deployed.
+  
+The Role
+We’re looking for a Product-Oriented AI Engineer to design and build internal systems that transform how investment teams operate. AI is already being embedded into workflows across research, analysis and decision-making. Your role will be to take this further — identifying opportunities, building solutions and delivering production-grade products that are actually used. This is a hands-on engineering role with strong product ownership. You’ll be expected to both build and shape what gets built.
+  
+What You’ll Do
+
+Build and evolve internal products and platforms used in real investment workflows
+Own the end-to-end lifecycle — from discovery and prototyping through to production and iteration
+Design and implement AI/LLM-enabled systems, agents and data workflows
+Turn early-stage ideas and experiments into scalable, durable products
+Work closely with end users to ensure what you build is practical, adopted and high impact
+Integrate data sources, APIs and tools into clean, cohesive systems
+Operate in fast iteration cycles, balancing speed with quality and reliability
+Contribute to both product direction and technical architecture
+What Success Looks Like
+
+Tools you build become core to day-to-day workflows
+Measurable improvements in efficiency, insight and decision-making
+Reduction in manual, repetitive work through shared internal capabilities
+Products that are designed to scale across teams and use cases
+Increasing influence over both what gets built and how it’s delivered
+About You
+
+4+ years’ experience as a software engineer in a fast-paced environment
+Strong track record of shipping end-to-end products
+Comfortable working across the stack (e.g. Python, APIs, cloud, data systems)
+Experience with or strong interest in AI/LLMs, automation or data-driven systems
+Product mindset — you think in terms of user problems and outcomes, not just code
+Comfortable with ambiguity and evolving problem spaces
+High ownership and accountability for what you build
+Familiar with modern tooling, including AI-assisted development
+Why This Role
+
+Work on real AI applications embedded in critical workflows
+High ownership and autonomy from day one
+Direct exposure to investment decision-making at a global level
+Backed by a business with serious scale, ambition and long-term thinking
+A rare blend of engineering depth and product influence
+Culture & Benefits - loads of above beyond market perks and benefits with additional annual and parental leave etc
+  
+This is a high-impact role with real ownership, strong engineering depth and meaningful product influence. If it sounds like you, apply or get in touch to learn more."
+91140101,Environment Automation Engineer,Cuscal,https://www.seek.com.au/job/91140101?type=standard&ref=search-standalone&origin=jobCard#sol=e64cefdf89de2c146194062dd09d3aa5b61b6348,4h ago,4.0,2026-03-25T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+
+
+Forward with Cuscal 
+
+At Cuscal, we’re not just shaping the future of payments - we’re pioneering it. From launching Australia’s first ATM to being the first certified NPP PayTo Payer and Initiator in 2022, we’ve spent over 59 years building solutions that millions of Australians rely on every day.  
+
+Now, we’re preparing for what’s next, and we want you to be part of it. 
+
+Join us as an Environment Automation Engineer in our Engineering Practice team and help us deliver ground-breaking solutions that push the boundaries of what’s possible. 
+
+Job Description
+
+
+The Environment Automation Engineer is responsible for designing and delivering automated environment management solutions that support development, testing, and production teams. Operating within the Engineering Practices function, the role enables squads and domains to efficiently provision, manage, and maintain secure, reliable environments aligned with organisational standards.
+
+The role focuses on reducing manual effort through automation, optimising tools and workflows, and promoting self‑service and operational resilience. In addition, the Environment Automation Engineer provides hands‑on support, guidance, and capability uplift to teams, enabling sustainable, high‑quality environment management practices and long‑term operational excellence.
+
+Qualifications
+
+
+What you’ll bring 
+
+To succeed in this role, you’ll have:
+
+Experience with CI/CD tools such as GitHub & GITHUB Actions
+Experience with Scripting (Bash, PowerShell, Python) for automation
+Experience with Terraform and Infrastructure‑as‑Code in AWS
+knowledge of End-to-End system design & integrations
+Knowledge of SLDC and various phases of Testing
+Working knowledge of YAML, JSON, and XML
+Versatile to explore, build POC and deliver new Solutions using technologies and Tools
+Hands on experience in delivering solutions
+Defining and building automation patterns
+Supporting developers in design and build
+Supporting testers in coverage and execution
+Resolving roadblocks
+Problem-solving skills
+Identifying key delivery risks
+Sequencing of tasks
+
+You will stand out from the crowd with the following:
+
+Solid understanding of networking (DNS, TCP/IP, load balancing) and security fundamental
+Database experience (SQL/Oracle)
+Knowledge for Environment Management
+Knowledge on Control-M Development
+Experience with tools such as Splunk, CloudWatch, or BMC for tracking system performance, troubleshooting and the creation of dashboards for actionable insights.
+
+Additional Information
+
+
+Why Cuscal? 
+
+At Cuscal, you’ll find a strong, successful company that’s reimagining the future. And our team is right there at the heart of it all.   
+
+Here, you’ll deliver or support interesting, ground-breaking work that has real impact - on Australia’s financial services sector and the millions of customers it serves. You’ll innovate alongside skilled, smart, connected teams. And you’ll build an impressive, fulfilling career that continues to grow.   
+
+You’ll also enjoy a range of benefits, including: 
+
+Work in a hybrid model that supports your lifestyle and goals.
+We celebrate success: Our IGNITE program recognises individual and team achievements.
+Wellbeing focus: We support your physical, mental, and financial health with holistic initiatives and access to discounts via ‘Cuscal Advantage.
+
+Join us and reimagine the future 
+
+If this role excites you, we’d love to explore your potential and vision for the future. Screening and interviews may occur before the job ad closing date, so don’t wait - apply now. 
+
+For further information about this role please contact Careers@cuscal.com.au  
+
+Cuscal is an equal opportunity employer committed to an equitable, diverse, and socially inclusive work environment and a positive, barrier-free recruitment process.  
+
+We welcome applicants from an Aboriginal and Torres Strait Islander heritage, people living with a disability, LGBTQIA+ and people from culturally diverse backgrounds to explore career opportunities with Cuscal.   
+
+Note: Cuscal does not accept unsolicited resumes from recruitment agencies or search firms."
+91139786,Technical Solutions Engineer - Contract (OCR + LLM | .NET / Python | OpenAI),ETE Group Pty Ltd,https://www.seek.com.au/job/91139786?type=standard&ref=search-standalone&origin=jobCard#sol=374e7358132ed5d20d74491903c5aa66d295be14,5h ago,5.0,2026-03-25T04:00:00+00:00,Melbourne VIC (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,TOP RATES,"Senior Technical Solutions Engineer (Contract)
 OCR + LLM | AI Product Enhancement
 
 We’re working with a client delivering a real-world AI solution focused on product label extraction, and they’re looking for a Senior Technical Solutions Engineer to enhance an existing OCR + LLM pipeline.
@@ -27,7 +511,7 @@ Apply now via SEEK or email daniel@etegroup.com.au
 ETE Group are specialist recruiters across Microsoft technologies, AI/LLM, and modern engineering. If you're hiring in this space or finding it tough to secure the right AI/LLM talent, feel free to reach out — always happy to help.
  
 #dotnet #python #openai #llm #ai #machinelearning #azure #docker #contractroles #techjobs #australiajobs"
-91139035,Lead Systems Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/91139035?type=standard&ref=search-standalone&origin=jobCard#sol=1505571e0c87263717e66eeeaa702f16af3dde83,1h ago,1.0,2026-03-25T04:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Annual Bonus,"About us:
+91139035,Lead Systems Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/91139035?type=standard&ref=search-standalone&origin=jobCard#sol=548330cb633fcee74e53ee1f232af54f2abf5e66,5h ago,5.0,2026-03-25T04:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Competitive Salary + Annual Bonus,"About us:
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation.  As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world’s most complex challenges and make a profound impact. Experience it here.
 
@@ -127,7 +611,7 @@ Lockheed Martin Australia supports Equal Employment Opportunity and values diver
 As part of our endeavours to increase participation of Indigenous Australians, we welcome applications from all people, including Aboriginal and Torres Strait Islander people.
 
 We are committed to creating a workplace where everyone can thrive. If you are selected for this role, we would be happy to discuss any accommodations that will help you to be successful."
-91137781,AI Innovation Lead,Inghams Enterprises Pty Ltd,https://www.seek.com.au/job/91137781?type=standard&ref=search-standalone&origin=jobCard#sol=13f3906c184710f3cdb065375317af26e038ca1d,1h ago,1.0,2026-03-25T04:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"We've been proudly bringing joy to tables and smiles to faces with the delicious food we've been crafting for over 100 years.  A large part of our strong growth and success is because we're always looking for new ways to do things and thinking about how we can create a better, more sustainable future world together.  Our success as an industry leader in providing deliciously good food means we can continue to invest in our future as we work towards becoming Australia and New Zealand's first choice for poultry. 
+91137781,AI Innovation Lead,Inghams Enterprises Pty Ltd,https://www.seek.com.au/job/91137781?type=standard&ref=search-standalone&origin=jobCard#sol=a65a461a236e6b9d941c3830739fbaf045afe2a3,5h ago,5.0,2026-03-25T04:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"We've been proudly bringing joy to tables and smiles to faces with the delicious food we've been crafting for over 100 years.  A large part of our strong growth and success is because we're always looking for new ways to do things and thinking about how we can create a better, more sustainable future world together.  Our success as an industry leader in providing deliciously good food means we can continue to invest in our future as we work towards becoming Australia and New Zealand's first choice for poultry. 
 
 
 
@@ -169,7 +653,7 @@ Proficiency with AI-powered development tools like Claude Code, GitHub Copilot, 
 Experience in FMCG, manufacturing, or supply chain environments is advantageous
 
 We’re looking for people who are curious, caring, courageous and committed to join us; people who want to contribute their best work every single day and continue delivering deliciously good food that’s…Always Good!"
-91137414,Senior Data Innovation Lead,Inghams Enterprises Pty Ltd,https://www.seek.com.au/job/91137414?type=standard&ref=search-standalone&origin=jobCard#sol=6ceafa3f45c2285dcb0993b0fe8e5b9d1985d4a0,1h ago,1.0,2026-03-25T04:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"We've been proudly bringing joy to tables and smiles to faces with the delicious food we've been crafting for over 100 years.  A large part of our strong growth and success is because we're always looking for new ways to do things and thinking about how we can create a better, more sustainable future world together.  Our success as an industry leader in providing deliciously good food means we can continue to invest in our future as we work towards becoming Australia and New Zealand's first choice for poultry. 
+91137414,Senior Data Innovation Lead,Inghams Enterprises Pty Ltd,https://www.seek.com.au/job/91137414?type=standard&ref=search-standalone&origin=jobCard#sol=476aac3717d874760e18856f725c0e464e1a39bf,5h ago,5.0,2026-03-25T04:00:00+00:00,"North Ryde, Sydney NSW (Hybrid)",Other (Information & Communication Technology),Full time,,"We've been proudly bringing joy to tables and smiles to faces with the delicious food we've been crafting for over 100 years.  A large part of our strong growth and success is because we're always looking for new ways to do things and thinking about how we can create a better, more sustainable future world together.  Our success as an industry leader in providing deliciously good food means we can continue to invest in our future as we work towards becoming Australia and New Zealand's first choice for poultry. 
 
 
 
@@ -213,7 +697,7 @@ Problem-solving and systems thinking with a genuine interest in understanding bu
 Experience in FMCG, manufacturing, or supply chain environments is advantageous
 
 We’re looking for people who are curious, caring, courageous and committed to join us; people who want to contribute their best work every single day and continue delivering deliciously good food that’s…Always Good!"
-91136584,Software Engineer - AI / AWS / DevOps,NTP Talent,https://www.seek.com.au/job/91136584?type=standard&ref=search-standalone&origin=jobCard#sol=4d49e1519c10b63dfe821d9360ad049dc5e29e39,2h ago,2.0,2026-03-25T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"160,000 - 200,000","Help companies become AI-native
+91136584,Software Engineer - AI / AWS / DevOps,NTP Talent,https://www.seek.com.au/job/91136584?type=standard&ref=search-standalone&origin=jobCard#sol=42acedfec44ea6141e84fbc63a3c274850491bed,6h ago,6.0,2026-03-25T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"160,000 - 200,000","Help companies become AI-native
 
 We’re partnering with a fast-growing AI consultancy and product company that helps organisations move beyond experimentation and embed AI into how they operate.
 
@@ -287,7 +771,7 @@ We’re a specialist tech recruitment partner working with high-growth companies
 This is a retained search — we’re working closely with leadership to find someone who wants to be part of something meaningful.
 
 Interested? Apply now."
-91135454,Staff Engineer,SEEK Limited,https://www.seek.com.au/job/91135454?type=standard&ref=search-standalone&origin=jobCard#sol=93967f6e4b5d22e16b3e78d29ce2e9e60598f924,2h ago,2.0,2026-03-25T03:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+91135454,Staff Engineer,SEEK Limited,https://www.seek.com.au/job/91135454?type=standard&ref=search-standalone&origin=jobCard#sol=3e57bbfd37554bae8748155fdc49520253a72914,6h ago,6.0,2026-03-25T03:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -351,7 +835,7 @@ Should you require any specific support or adjustments throughout the recruitme
 For this role, only those candidates with the eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-91134110,Senior Data Integration Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/91134110?type=standard&ref=search-standalone&origin=jobCard#sol=5d5399caea04141d076b05707ab8a257f55a324b,3h ago,3.0,2026-03-25T02:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Contract/Temp,,"FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
+91134110,Senior Data Integration Engineer,FinXL IT Professional Services,https://www.seek.com.au/job/91134110?type=standard&ref=search-standalone&origin=jobCard#sol=53e30714a612e276b405c36b04195c586872e1e1,7h ago,7.0,2026-03-25T02:00:00+00:00,Sydney NSW (Hybrid),Other (Information & Communication Technology),Contract/Temp,,"FinXL Professional Services is a leading IT consultancy that partners with clients to bridge the gap between business needs and technology capabilities. Since 2003, we've been delivering high-value ICT services across government, finance, telecommunications, and enterprise sectors.
 
 FinXL is seeking a Senior Data Integration Engineer - Level 5 to join our consulting team and be deployed with a leading organisation. The Senior Data Integration Engineer - Level 5 will lead the data integration piece to design & deliver event-driven architectures.
 
@@ -371,7 +855,7 @@ Next Steps
 If you would like to apply to this fantastic opportunity please apply online or call Jackie Gibbons on 0432 268 298
 
 Code: S12"
-91132150,Staff AI Engineer (Data Science),DeVision Recruitment,https://www.seek.com.au/job/91132150?type=standard&ref=search-standalone&origin=jobCard#sol=14dfb22654152cb934ac8ddf28add14e3d9486e4,4h ago,4.0,2026-03-25T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,Up to $200K base + super (negotiable),"Join an AI powerhouse that is going through a rapid expansion. You will help to build autonomous AI workers. This is a permanent, full-time position. This is a hybrid position and candidates must be Sydney based. 1 day per week/fortnight. 
+91132150,Staff AI Engineer (Data Science),DeVision Recruitment,https://www.seek.com.au/job/91132150?type=standard&ref=search-standalone&origin=jobCard#sol=44de92f4abffa00d9e7d56a81273f3668b6a5620,8h ago,8.0,2026-03-25T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,Up to $200K base + super (negotiable),"Join an AI powerhouse that is going through a rapid expansion. You will help to build autonomous AI workers. This is a permanent, full-time position. This is a hybrid position and candidates must be Sydney based. 1 day per week/fortnight. 
 
 The Opportunity
 
@@ -399,7 +883,7 @@ Experience with GPT‑based frameworks (LangChain, LlamaIndex, RAG, multi‑agen
 Ability to interpret and apply the latest LLM research
 Ability to thrive in a fast‑paced, agile environment
 If interested, APPLY NOW for more details!"
-91131941,Access Network Automation Engineer,Uniti Group Limited,https://www.seek.com.au/job/91131941?type=standard&ref=search-standalone&origin=jobCard#sol=c12a7ea205f805719f6e5b67aff2cdb53c39cc09,4h ago,4.0,2026-03-25T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Network (Information & Communication Technology),Full time,,"We are one of Australia's fastest growing companies. We design, build and maintain world-class digital infrastructure, encompassing fibre networks, communication platforms, residential internet and voice services.
+91131941,Access Network Automation Engineer,Uniti Group Limited,https://www.seek.com.au/job/91131941?type=standard&ref=search-standalone&origin=jobCard#sol=7d3328b524620a02f0a24cf2edf46b9d2980a4a9,8h ago,8.0,2026-03-25T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Network (Information & Communication Technology),Full time,,"We are one of Australia's fastest growing companies. We design, build and maintain world-class digital infrastructure, encompassing fibre networks, communication platforms, residential internet and voice services.
 
 We believe our people are vital to our success. We strive to create an environment that appeals to the very best people in the industry, providing them with an exciting, market leading and satisfying workplace, and rewarding their performance.
 
@@ -460,7 +944,7 @@ If this role sounds like you, we would like to hear from you! You must have the
 Questions about the role to be emailed directly to our HR team at recruitment@unitigrouplimited.com
 
 No recruiters please, we manage our recruitment in-house."
-91130093,AI Business Analyst,MTP Services,https://www.seek.com.au/job/91130093?type=standard&ref=search-standalone&origin=jobCard#sol=e050230239c0f0f978430ea1f009e40db33a76bb,6h ago,6.0,2026-03-24T23:00:00+00:00,Canberra ACT (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We’re looking for an experienced Business Analyst with a strong background in AI-enabled solutions to support the design and delivery of intelligent, automation-driven capabilities.
+91130093,AI Business Analyst,MTP Services,https://www.seek.com.au/job/91130093?type=standard&ref=search-standalone&origin=jobCard#sol=39360e328910d0371077f9c4269d97ea15094ae1,9h ago,9.0,2026-03-25T00:00:00+00:00,Canberra ACT (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"We’re looking for an experienced Business Analyst with a strong background in AI-enabled solutions to support the design and delivery of intelligent, automation-driven capabilities.
 
 You’ll work across business and technical teams to translate complex problems into AI-enabled workflows, decision-support tools and automation solutions, ensuring outcomes are practical, scalable and aligned to governance requirements.
 
@@ -483,7 +967,7 @@ The ideal candidate will have the following experience:
 Experience delivering AI, ML or intelligent automation solutions
 Strong experience writing user stories and acceptance criteria for complex solutions
 Ability to work closely with technical teams (developers, data, engineering, architecture)"
-91129707,Mechatronics Support Engineer,Just Digital People,https://www.seek.com.au/job/91129707?type=standard&ref=search-standalone&origin=jobCard#sol=b8efc8fe7e889aa1f456f4d11612b56b06c55f56,6h ago,6.0,2026-03-24T23:00:00+00:00,Melbourne VIC,Mechanical Engineering (Engineering),Full time,,"This is not a standard support engineering role.
+91129707,Mechatronics Support Engineer,Just Digital People,https://www.seek.com.au/job/91129707?type=standard&ref=search-standalone&origin=jobCard#sol=1d149caeab955e6133f5c017267f2bc0f4904a12,10h ago,10.0,2026-03-24T23:00:00+00:00,Melbourne VIC,Mechanical Engineering (Engineering),Full time,,"This is not a standard support engineering role.
   
 You’ll be working on complex, custom-built mechatronic and motion systems deployed globally in high-profile, technically demanding environments. These are precision machines combining mechanical engineering, automation, controls and motion technology. When something needs diagnosing, validating or improving, you’re the person stepping in.
   
@@ -515,7 +999,7 @@ What You’ll Bring
   
 This role is not one you want to miss, so if you want to hear more please don't hesitate to reach out!
 nat@justdigitalpeople.com.au"
-91002900,Data Engineers – mulltiple positions,Department for Education,https://www.seek.com.au/job/91002900?type=standard&ref=search-standalone&origin=jobCard#sol=3bcd36c0db0e9335239f296d69008aed12c7c2f3,7h ago,7.0,2026-03-24T22:00:00+00:00,Adelaide SA,"Other (Education & Training)
+91002900,Data Engineers – mulltiple positions,Department for Education,https://www.seek.com.au/job/91002900?type=standard&ref=search-standalone&origin=jobCard#sol=425307bf9f018d635ad85d3d9cb394b35790e8ef,11h ago,11.0,2026-03-24T22:00:00+00:00,Adelaide SA,"Other (Education & Training)
 Government - State (Government & Defence)",Full time,please refer to position remuneration,"The Strategy and Performance Division promotes the value of education in South Australia and plays a key role in improving the public education system. It leads system-wide strategy, manages strategic risks, provides data-driven insights, and supports schools and preschools to succeed and strengthen their standing within their communities.
 
 The Data Operations and Service directorate is responsible for ingesting, storing, organising, and managing data held in the Department’s data warehouses/repositories. It is the engine room of Strategy and Performance, ensuring that data is clean, high quality, usable and available. The team is also responsible for liaising with customers to assess and prioritise their requirements, and leading data governance operations for the Department. Data Operations and Service manages the full range of data life cycle functions, including business analysis, data engineering, product development, and testing.
