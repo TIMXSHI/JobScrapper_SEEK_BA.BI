@@ -1,5 +1,150 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91167291,Platform Engineer,McMillan Shakespeare,https://www.seek.com.au/job/91167291?type=standard&ref=search-standalone&origin=jobCard#sol=c16503c9e8b0e5057261ef169244a5f5e9486a1d,1h ago,1.0,2026-03-26T04:00:00+00:00,"Chatswood, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"MMS is embarking on a major multi‑year technology transformation, rebuilding the core digital foundations that power some of Australia’s most recognised employee benefits and salary packaging brands. We’re modernising our platforms end‑to‑end and shifting to cloud‑native, scalable, event‑driven architectures that will set the business up for the future.
+91168887,AI Architect,Intelligen Pty Ltd,https://www.seek.com.au/job/91168887?type=standard&ref=search-standalone&origin=jobCard#sol=66e72e1a23c5f8e9fd2d0dd0977dfa72e05678ef,1h ago,1.0,2026-03-26T06:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Join Us at a Defining Moment
+
+At Intelligen, we’re building something different. We partner with organisations to design and deliver modern data and AI platforms that are scalable, governed, and built for long-term adaptability. From embedding governance into enterprise ecosystems to enabling responsible AI adoption, we help organisations move from experimentation to secure, enterprise-wide AI capability.
+
+As we scale into our next phase of growth, we’re looking for an experienced AI Architect to define the foundations of secure, model-agnostic AI environments, ensuring organisations can innovate rapidly while maintaining control, trust, and resilience.
+
+About the Role
+
+We are seeking an AI Architect responsible for designing secure, model-agnostic AI architectures aligned to enterprise environments. This role will define the Secure AI Architecture Blueprint, ensuring AI systems are cost-efficient, high-performing, and governed by design.
+
+You will play a critical role across delivery, translating strategy into architecture, embedding governance and security controls, and guiding implementation teams to deliver scalable, future-proof AI solutions.
+
+This role is ideal for someone who blends deep technical expertise with strong consulting and storytelling capability, able to design complex systems while clearly articulating their value to business and executive stakeholders.
+
+What You’ll Do
+
+Design Secure AI Architectures
+
+Define and deliver the Secure AI Architecture Blueprint aligned to enterprise environments
+Develop tool-agnostic integration patterns across platforms such as Microsoft Foundry, AWS Bedrock, and broader AI ecosystems
+Ensure architectures are scalable, flexible, and aligned to long-term enterprise strategy
+
+Build Model-Agnostic & Future-Proof Systems
+
+Design architectures that maintain model independence and avoid vendor lock-in
+Incorporate MCP gateway principles to support controlled, extensible model interaction
+Ensure enterprise data remains within controlled boundaries, with secure interaction patterns
+
+Design RAG & Orchestration Layers
+
+Define Retrieval-Augmented Generation (RAG) architectures and orchestration frameworks
+Optimise for performance, cost-efficiency, and scalability across AI workloads
+Enable reusable, modular AI components across use cases
+
+Embed Governance & Security by Design
+
+Integrate security, privacy, and governance controls directly into architecture design
+Ensure compliance with enterprise standards and resilience against adversarial risks
+Support governance frameworks that enable safe, responsible AI deployment at scale
+
+Provide Technical Leadership
+
+Lead architectural decision-making across all phases of delivery
+Translate strategic objectives into scalable, implementable solutions
+Guide engineering and delivery teams with clear technical direction and best practices
+
+Engage & Influence Stakeholders
+
+Act as a storyteller...translating complex AI architectures into clear business value
+Communicate effectively with executives and stakeholders on the AI journey, risks, and outcomes
+Support alignment between business goals and technical delivery
+
+
+Requirements
+
+
+8+ years’ experience in architecture, data, or AI engineering roles (must have come from developer or software engineering over a Data science background)
+Proven experience designing enterprise AI/ML architectures in cloud environments (Azure, AWS, GCP)
+Strong understanding of LLM ecosystems, including RAG, orchestration, and model integration patterns
+Experience with platforms such as Microsoft Foundry, AWS Bedrock, or similar AI services
+Knowledge of governance, security, and privacy frameworks within AI and data systems
+Experience designing cost-optimised, performance-driven architectures
+Strong stakeholder engagement and communication skills, including executive-level storytelling
+Ability to lead across architecture, strategy, and delivery execution
+
+
+
+Benefits
+
+
+
+We’re not just delivering AI and data projects.. we’re humanising them. That means we care deeply about the how, not just the what. We value curiosity, creativity, and a willingness to challenge the status quo. We look for people who are driven to build a business, get curious, and offer opinions and ideas.
+
+You’ll join a team that’s smart, kind, and ambitious. You’ll have real influence - in your projects, your practice, and the broader business. And as we grow, so will you. Here’s what that looks like:
+
+Grow With Purpose
+
+Structured development pathways so you always know what you’re working toward.
+Paid certifications across all major cloud and data technologies (mastery matters)
+Weekly training and knowledge exchanges where practitioners share real project insights.
+
+
+Support That Helps You Thrive
+
+A dedicated support lead to mentor, guide and help you navigate your career
+Regular 360° feedback loops, giving you clear direction and honest insight into your progress.
+
+
+A Community You’ll Enjoy Being Part Of
+
+Innovation days where you can experiment, prototype and sharpen new skills.
+Team days, social catchups,  many new community clubs…
+Opportunities to lead, influence and shape our growing practice as we expand across the region.
+
+
+If you want to be part of a team that cares just as much about how we deliver as what we deliver; where curiosity is valued, ideas matter, and your impact is felt - drop us a message and start the conversation today."
+91167486,Senior Software Engineer (AI),oOh!,https://www.seek.com.au/job/91167486?type=standard&ref=search-standalone&origin=jobCard#sol=b6d72cabea63967642af974030832d87fc001846,2h ago,2.0,2026-03-26T05:00:00+00:00,"North Sydney, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"We are oOh!media (pronounced “oh!” media). 
+
+oOh!media is the #1 Out of Home company in Australia and New Zealand.  
+
+We exist to make public spaces better and brands unmissable, proudly leading the market with innovation, creativity, data and results. Our network plays an important role in the communities they are located, creating engaging environments that inform, entertain and inspire, while connecting brands with audiences at scale.  
+
+We are oOh!media, and we are unmissable.
+
+Join us:  
+
+We’re a team driven by creativity, innovation, and a sense of community. We show up every day ready to be bold, brave, and push the boundaries of Out of Home advertising. You’ll work alongside a group of talented individuals across Australia and New Zealand, all of whom are dedicated to raising the bar. If you’re ready to realize your potential and make an impact, join us. 
+
+About the opportunity:
+
+Permanent Full-Time role
+Based in North Sydney or South Melbourne
+
+We are looking for a talented and motivated Senior Software Engineer (AI) to join our AI team. This role focuses on delivering production-ready AI solutions at pace—building internal tools, agents, and RAG pipelines that make work faster across the business.
+
+You’ll partner closely with the AI Product Owner to move ideas from concept to production, with a bias toward speed and experimentation.
+
+Key Responsibilities:
+
+AI Workflow: Use AI coding tools as a core part of your workflow to dramatically increase development velocity and critically evaluate AI-generated code for correctness and security.
+Implementation: Integrate LLMs, RAG architectures, and agents into product features using orchestration frameworks like LangChain or LlamaIndex.
+Infrastructure: Build backend infrastructure that powers AI products, including APIs and serverless functions (AWS Lambda, Azure Functions).
+Data Pipelines: Design and maintain data pipelines for RAG workflows, including chunking, embedding, and retrieval across vector and graph stores.
+Experimentation: Design and run experiments to validate AI use cases and define success metrics such as quality, latency, and cost.
+Full Ownership: Ship MVPs that are deployable, observable, and supportable from day one, owning the design, architecture, and production monitoring.
+
+You Will Also Bring:
+
+AI Experience: Demonstrated commercial experience shipping AI-native features using LLMs, AI APIs, or prompt engineering.
+Tooling: Daily integration of AI coding tools (e.g., Cursor, GitHub Copilot) and experience with AI orchestration frameworks.
+Cloud Knowledge: Experience with cloud platforms (AWS preferred) and modern CI/CD practices.
+Technical Specifics: Experience with RAG pipelines, agentic workflows, and AI observability/evaluation tooling like LangSmith or PromptFoo.
+Engineering Background: A valued background in full-stack software engineering, including backend services (Node.js, Python, or Go) and frontend capabilities like React.
+
+Our benefits and perks:
+
+You flex: Flex how and when you need in a flexible capacity to bring your best self to work.
+Best You: Access to internal and external training, structured career paths, NGEN memberships, and peer mentoring.
+Your leave, your way: Purchase additional annual leave, inclusive paid parental leave, and paid wellbeing or volunteering leave days.
+Support You: Partnered with Sonder for 24/7 human-centric wellbeing and care support for you and your immediate family.
+Celebrate You: Active Reward and Recognition Program for peer-to-peer kudos.
+
+At oOh!, we celebrate diversity and strive for an inclusive environment. We welcome applications from all backgrounds, including Aboriginal and Torres Strait Islander peoples, people with disabilities, LGBTQIA+ individuals, and refugees.
+
+Applicants must meet role requirements, which may include criminal background checks, medical/drug testing, and right to work checks."
+91167291,Platform Engineer,McMillan Shakespeare,https://www.seek.com.au/job/91167291?type=standard&ref=search-standalone&origin=jobCard#sol=0ed58f354462010e583a4a11f039471ae5d4beed,2h ago,2.0,2026-03-26T05:00:00+00:00,"Chatswood, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"MMS is embarking on a major multi‑year technology transformation, rebuilding the core digital foundations that power some of Australia’s most recognised employee benefits and salary packaging brands. We’re modernising our platforms end‑to‑end and shifting to cloud‑native, scalable, event‑driven architectures that will set the business up for the future.
 
 As part of this journey, you’ll join a team designing and delivering modern distributed systems; re‑engineering legacy workloads into contemporary cloud patterns; and solving complex integration challenges across secure, highly available enterprise platforms. It’s an opportunity to help shape a flagship transformation and contribute to the building of solutions for millions of customers.
 
@@ -78,7 +223,7 @@ We value the skills and attributes veterans can bring to our organisation.   �
  We acknowledge Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the lands where we live, learn and work.
 
  If you identify as a person living with disability and require adjustments to our recruitment process, please contact us at mmsgrouprecruitment@mmsg.com.au"
-91166507,Data Product Engineer (BI & AI Data Products),RSL LifeCare,https://www.seek.com.au/job/91166507?type=standard&ref=search-standalone&origin=jobCard#sol=7fabe143f295b30ec181c8e6ec28690e79c79a14,1h ago,1.0,2026-03-26T04:00:00+00:00,"St Leonards, Sydney NSW",Product Management & Development (Information & Communication Technology),Full time,,"At our core, RSL LifeCare provides care and services to veterans and seniors who live in our communities or are receiving support at home. Our vision of creating proud communities living their best lives is at the heart of everything we do as we continue to build upon our legacy of supporting veterans and their families for more than 100 years.
+91166507,Data Product Engineer (BI & AI Data Products),RSL LifeCare,https://www.seek.com.au/job/91166507?type=standard&ref=search-standalone&origin=jobCard#sol=ffc651543625eb8b23ad8921eb6576502917f7d2,3h ago,3.0,2026-03-26T04:00:00+00:00,"St Leonards, Sydney NSW",Product Management & Development (Information & Communication Technology),Full time,,"At our core, RSL LifeCare provides care and services to veterans and seniors who live in our communities or are receiving support at home. Our vision of creating proud communities living their best lives is at the heart of everything we do as we continue to build upon our legacy of supporting veterans and their families for more than 100 years.
 
 This is an opportunity for you to join a large social purpose organisation where your skills and compassion will be valued and enable you to make a meaningful difference to people's lives.
 
@@ -124,7 +269,7 @@ We welcome and encourage applications from people across our diverse community, 
 
 
 It is a mandatory requirement for a team member working in the Aged Care sector to have a valid Police Check or a valid National Disability Insurance Scheme (NDIS) check, or potentially both, to undertake the inherent requirements of the role. Clearances must be verified prior to commencing employment with RSL LifeCare."
-91165888,Business Intelligence Analyst Programmer,Red Energy,https://www.seek.com.au/job/91165888?type=standard&ref=search-standalone&origin=jobCard#sol=d7812b9dff1b794251b6fab762959eba74ad3fd1,1h ago,1.0,2026-03-26T04:00:00+00:00,"Richmond, Melbourne VIC (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"About Us
+91165888,Business Intelligence Analyst Programmer,Red Energy,https://www.seek.com.au/job/91165888?type=standard&ref=search-standalone&origin=jobCard#sol=126ccc9cff80a2bba027a4893c80bf2985271e2d,3h ago,3.0,2026-03-26T04:00:00+00:00,"Richmond, Melbourne VIC (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Full time,,"About Us
 
 At Red Energy, we are passionate about providing award-winning customer service to over 1.5 million of our customers across the country. Owned by the mighty Snowy Hydro, we are 100% Australian owned which our customers love us for. Our award winning team have won 15 consecutive Canstar Blue Awards for best overall customer satisfaction amongst Victorian electricity providers. Ready for a new career - come grow with us!
 
@@ -167,7 +312,7 @@ Enjoy flexible working arrangements with 3 days in the office, 2 days remote.
 Exceptional 30 weeks of paid parental leave for primary carers. Plus, the option to purchase 4 weeks of additional annual leave (up to 8 weeks off every year!)
 
 We are assessing applications as they come through so please don't hesitate and apply now!"
-91165046,Lead AI Engineer,AustralianSuper,https://www.seek.com.au/job/91165046?type=standard&ref=search-standalone&origin=jobCard#sol=90d3028a435a2401cc53ec9bb0d39303be6fc549,2h ago,2.0,2026-03-26T03:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
+91165046,Lead AI Engineer,AustralianSuper,https://www.seek.com.au/job/91165046?type=standard&ref=search-standalone&origin=jobCard#sol=f89dbefbed0ae599d1b420e0fb2bff5f31f6d1d1,3h ago,3.0,2026-03-26T04:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
 
 
 
@@ -255,7 +400,7 @@ https://www.australiansuper.com/careers/candidate-privacy-notice
 
 
 Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
-91164947,Senior Data Engineer,Ausgrid,https://www.seek.com.au/job/91164947?type=standard&ref=search-standalone&origin=jobCard#sol=fd1d147ffa14a2fc230a87beef9ad39009632b1f,2h ago,2.0,2026-03-26T03:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,"$180,000 – $190,000 per year","Seeking a Senior Data Engineer to join our Data and Analytics team. 
+91164947,Senior Data Engineer,Ausgrid,https://www.seek.com.au/job/91164947?type=standard&ref=search-standalone&origin=jobCard#sol=a9175384e39b6b87874f9af7220fdb27e3d1483a,3h ago,3.0,2026-03-26T04:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,"$180,000 – $190,000 per year","Seeking a Senior Data Engineer to join our Data and Analytics team. 
 
 $190,026 base salary plus superannuation 
 
@@ -355,7 +500,7 @@ If you require support with your application/reasonable adjustments for the 
 Application close date: Friday 17th April 2026 (please note, this date is subject to early closure) 
 
 Applicants must have full Australian work rights to apply."
-91164720,Data Engineer - Contract NV1/NV2,PRA,https://www.seek.com.au/job/91164720?type=standard&ref=search-standalone&origin=jobCard#sol=f9cd7defa567c6f8baecb17a641140b8a86a8e94,2h ago,2.0,2026-03-26T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are seeking a highly skilled Senior Data Engineer to support the delivery of advanced, secure data platforms across a distributed and multi-cloud environment. This role will focus on enabling federated analytics, building scalable data pipelines, and delivering real-time insights across edge and centralised systems within a secure government context.
+91164720,Data Engineer - Contract NV1/NV2,PRA,https://www.seek.com.au/job/91164720?type=standard&ref=search-standalone&origin=jobCard#sol=eec7063f8f929372f93a2b21e54b8218a095a6eb,3h ago,3.0,2026-03-26T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are seeking a highly skilled Senior Data Engineer to support the delivery of advanced, secure data platforms across a distributed and multi-cloud environment. This role will focus on enabling federated analytics, building scalable data pipelines, and delivering real-time insights across edge and centralised systems within a secure government context.
   
 Key Responsibilities
 
@@ -403,7 +548,7 @@ Experience with edge analytics, including low-latency ETL and on-device ML infer
 Canberra based individuals will also be highly considered.
 
  Great long term contract opportunity, if you would like to hear more please apply and all suitable individuals will contacted for a discussion."
-91162325,AI Business Analyst,Experis AU,https://www.seek.com.au/job/91162325?type=standard&ref=search-standalone&origin=jobCard#sol=87fd105b6682c25925714223ab4b44c2682d535d,3h ago,3.0,2026-03-26T02:00:00+00:00,"Deakin, Canberra ACT (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,Competitive Rates,"Location: Canberra (ACT)
+91162325,AI Business Analyst,Experis AU,https://www.seek.com.au/job/91162325?type=standard&ref=search-standalone&origin=jobCard#sol=0b233108ba52eecf9ea2356a01a3a5c30e40bfa4,4h ago,4.0,2026-03-26T03:00:00+00:00,"Deakin, Canberra ACT (Hybrid)",Business/Systems Analysts (Information & Communication Technology),Contract/Temp,Competitive Rates,"Location: Canberra (ACT)
 
 Work arrangement: Hybrid
 
@@ -461,7 +606,7 @@ Aboriginal and Torres Strait Islander people are encouraged to apply.
 By submitting your resume and other personal information with this application you are consenting to this information being collected in line with our privacy policy. Follow the link to learn more - www.manpowergroup.com.au/privacy-policy
 
 State: QLD, licensee/s Manpower Services (Australia) Pty Ltd, LHL-02026-D5L4Q. State: QLD, LHL-02014-Y5F6D. State: SA, licensee/s Manpower Services (Australia) Pty Ltd, LHS 288856"
-91162320,Analytics Engineer - Databricks,VALD Pty Ltd,https://www.seek.com.au/job/91162320?type=standard&ref=search-standalone&origin=jobCard#sol=b247a2c681b1a735943e0826c2b16eba2465a955,3h ago,3.0,2026-03-26T02:00:00+00:00,"Newstead, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"VALD is the world leader in technology for the allied health industry, providing innovative human-measurement technology to over 10,000 clients in over 100 countries. If you have a favorite team in the NBA, EPL, or NFL, there's a good chance they use VALD Technologies.
+91162320,Analytics Engineer - Databricks,VALD Pty Ltd,https://www.seek.com.au/job/91162320?type=standard&ref=search-standalone&origin=jobCard#sol=576ba10631b86437a4d7936b0e39e83ddc8db0e3,4h ago,4.0,2026-03-26T03:00:00+00:00,"Newstead, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"VALD is the world leader in technology for the allied health industry, providing innovative human-measurement technology to over 10,000 clients in over 100 countries. If you have a favorite team in the NBA, EPL, or NFL, there's a good chance they use VALD Technologies.
 
 Years on from its humble beginnings in Brisbane, Australia, VALD has grown to a team of over 300 team members in over 30 countries, with five offices across four continents.
 
@@ -530,7 +675,7 @@ Apply now
 In your cover letter, please share with us why you think your experience is relevant to this role and how this opportunity fits into your longer-term career goals. We can't wait to meet you and discuss what a career with VALD could look like for you!
 
 Successful applicants will be subject to background checks (including identity and criminal record checks). It will be a condition of employment that the background checks return acceptable results."
-91160644,Senior AI Engineer,Mirvac,https://www.seek.com.au/job/91160644?type=standard&ref=search-standalone&origin=jobCard#sol=78e6d2e3a0126e098ce62c7e35229e8f735262c1,3h ago,3.0,2026-03-26T02:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Mirvac is a brand that creates and curates better experiences.
+91160644,Senior AI Engineer,Mirvac,https://www.seek.com.au/job/91160644?type=standard&ref=search-standalone&origin=jobCard#sol=3e01d8d71bb63df5e3734510a34ec42d034a030e,5h ago,5.0,2026-03-26T02:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Mirvac is a brand that creates and curates better experiences.
 
 We are more than developers or builders - we are visionaries, and our ability to see the world differently drives us to be bold, embrace innovation and diversity, and lead with optimism. As creators of positive change, we see each new project as an opportunity to leave a lasting legacy, delivering enduring value for all Australians.
 
@@ -569,7 +714,7 @@ Solid understanding of enterprise data platforms and ability to work with data w
 Apply today!
 
 If you're excited by the opportunity to shape the future of AI and automation while creating lasting impact, we'd love to hear from you. Apply now to join Mirvac and be part of a team building smarter, more sustainable experiences for generations to come."
-91159455,Lead GenAI Systems Engineer,AustralianSuper,https://www.seek.com.au/job/91159455?type=standard&ref=search-standalone&origin=jobCard#sol=d5e0ad2e0bd083a5949fb69a07f5aea264d3871d,4h ago,4.0,2026-03-26T01:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
+91159455,Lead GenAI Systems Engineer,AustralianSuper,https://www.seek.com.au/job/91159455?type=standard&ref=search-standalone&origin=jobCard#sol=a76c68ed423e346cca058717dc12fcf3d1d03a46,6h ago,6.0,2026-03-26T01:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
 
 - Deliver AI-powered solutions that transform the experience for employees and for millions of members.
 
@@ -638,7 +783,7 @@ AustralianSuper may use AI to review resumes and conduct initial phone interview
 https://www.australiansuper.com/careers/candidate-privacy-notice
 
 Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
-91158359,Senior Sofware Engineer (AI),Talenza,https://www.seek.com.au/job/91158359?type=standard&ref=search-standalone&origin=jobCard#sol=7116e67443fa12df8475e4ec872a2a5b2a8d32f3,5h ago,5.0,2026-03-26T00:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,$190k - $210k p.a.,"Senior Software Engineer (AI)
+91158359,Senior Sofware Engineer (AI),Talenza,https://www.seek.com.au/job/91158359?type=standard&ref=search-standalone&origin=jobCard#sol=eb5bb5eb7887bf3dc0150eb2ed6ccea97ef071ce,6h ago,6.0,2026-03-26T01:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,$190k - $210k p.a.,"Senior Software Engineer (AI)
 
 📍 Sydney, Australia
 💰 Up to $210,000 package (inc Super) + Bonus
@@ -685,7 +830,7 @@ LlamaIndex
 Knowledge of LLMOps best practices for model experimentation, deployment, and monitoring
 
 If you feel you possess the relevant skills to the above, apply now with most updated CV!"
-91157982,Practice Lead Data & AI,nxzen,https://www.seek.com.au/job/91157982?type=standard&ref=search-standalone&origin=jobCard#sol=df85621d25b72f6c2bd33a85733adb928a1ac965,5h ago,5.0,2026-03-26T00:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,,"About nxzen
+91157982,Practice Lead Data & AI,nxzen,https://www.seek.com.au/job/91157982?type=standard&ref=search-standalone&origin=jobCard#sol=8cbe8912e2335434536929e45e517af053650be7,7h ago,7.0,2026-03-26T00:00:00+00:00,Sydney NSW,Architects (Information & Communication Technology),Full time,,"About nxzen
 
 nxzen is a global technology, consulting, and engineering partner supporting the energy, utilities, and national infrastructure sectors. We help organisations optimise performance, digitise operations, and build safer, smarter, and more resilient systems by combining deep domain expertise with innovative technology.
 
@@ -780,7 +925,7 @@ OT / Cybersecurity certifications (e.g., CISSP, CISA, or relevant OT security tr
 To apply, please submit a copy of your updated resume. Screening will be conducted as we receive applications, and ONLY shortlisted applicants will be contacted.
 
 For more information or to have a confidential discussion, please contact our People & Culture Manager, Shreya Pahwa on shreya.pahwa@nxzen.com."
-91156414,Senior / Staff Software Engineer (AI Systems & Platforms),Novus,https://www.seek.com.au/job/91156414?type=standard&ref=search-standalone&origin=jobCard#sol=a3e4110cf8cd73787d58f2b2b21604f56802b3d5,6h ago,6.0,2026-03-25T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"$200,000 – $250,000+Super+ ESOP","Senior / Staff Software Engineer (AI Systems & Platforms)
+91156414,Senior / Staff Software Engineer (AI Systems & Platforms),Novus,https://www.seek.com.au/job/91156414?type=standard&ref=search-standalone&origin=jobCard#sol=c7a192193eb02fdc0a32ad19c632db7ddf9af144,8h ago,8.0,2026-03-25T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"$200,000 – $250,000+Super+ ESOP","Senior / Staff Software Engineer (AI Systems & Platforms)
 
 Location: Sydney CBD
 
@@ -871,7 +1016,7 @@ Approx. 1 hour per interview
 Apply now for full info
 
 #SCR-tom-wood-1"
-91155584,Senior Algorithms Engineer,TheDriveGroup,https://www.seek.com.au/job/91155584?type=standard&ref=search-standalone&origin=jobCard#sol=86eb86273bac1be0e5d5e7e651984b8a4f948fe3,8h ago,8.0,2026-03-25T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k + super,"A new opportunity is open for a Senior Algorithm Engineer to join a high-performance development team working on real-time RF and AI-based sensing systems. This role is ideal for an experienced engineer who enjoys turning advanced theory into practical solutions that operate at the edge.
+91155584,Senior Algorithms Engineer,TheDriveGroup,https://www.seek.com.au/job/91155584?type=standard&ref=search-standalone&origin=jobCard#sol=68dea86449bc810b0444821981609bb2c628b3a0,9h ago,9.0,2026-03-25T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k + super,"A new opportunity is open for a Senior Algorithm Engineer to join a high-performance development team working on real-time RF and AI-based sensing systems. This role is ideal for an experienced engineer who enjoys turning advanced theory into practical solutions that operate at the edge.
   
 The role involves designing, integrating, and optimising complex algorithms to power intelligent sensor platforms deployed in operational environments. It requires deep collaboration with software engineers, systems designers, and UI developers to ensure algorithmic outputs are both efficient and actionable.
 
@@ -904,7 +1049,7 @@ A hands-on mindset and motivation to contribute in a fast-paced, mission-driven 
 This is a unique opportunity to work at the intersection of advanced analytics, signal intelligence, and real-time systems, with tangible impact across defence, surveillance, and security domains.
 
 For more info, feel free to contact me at jack@thedrivegroup.com.au or click Apply to send through your details and I'll be in touch."
-91155465,Mechatronics Engineer / Automation Engineer,Australia Wide Engineering Recruitment,https://www.seek.com.au/job/91155465?type=standard&ref=search-standalone&origin=jobCard#sol=d08a185ccbf4644a3bdfc86b1cf1b3118fb63edc,8h ago,8.0,2026-03-25T21:00:00+00:00,"Warragul, West Gippsland & Latrobe Valley VIC",Other (Engineering),Full time,Salary up to $130k plus super depending on exp.,"Can you see yourself taking the next step in your professional engineering career as a Mechatronics / Automation Engineer specialising in electrical, automation and control system design for our clients global manufacturing customers? Our client has a proud history of leading innovation in this space and is looking for a like-minded professional to join their business. 
+91155465,Mechatronics Engineer / Automation Engineer,Australia Wide Engineering Recruitment,https://www.seek.com.au/job/91155465?type=standard&ref=search-standalone&origin=jobCard#sol=93f438ba78bc30842e4f75ec33188db41e7ea44c,10h ago,10.0,2026-03-25T21:00:00+00:00,"Warragul, West Gippsland & Latrobe Valley VIC",Other (Engineering),Full time,Salary up to $130k plus super depending on exp.,"Can you see yourself taking the next step in your professional engineering career as a Mechatronics / Automation Engineer specialising in electrical, automation and control system design for our clients global manufacturing customers? Our client has a proud history of leading innovation in this space and is looking for a like-minded professional to join their business. 
 
 Your role
 
@@ -926,7 +1071,7 @@ This is a genuine opportunity for career development in a fast paced, flexible, 
 We request that candidates have full Australian working rights
 
 Please submit your resume in WORD format ONLY."
-91155414,Platform Security Engineer,Lendi Group,https://www.seek.com.au/job/91155414?type=standard&ref=search-standalone&origin=jobCard#sol=24afd49c4fa1923dc28ab4c86dddb5a64dfe3b39,8h ago,8.0,2026-03-25T21:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Company Description
+91155414,Platform Security Engineer,Lendi Group,https://www.seek.com.au/job/91155414?type=standard&ref=search-standalone&origin=jobCard#sol=9497dbcf0a69c50eda484136bc32ad85ac4c6f65,10h ago,10.0,2026-03-25T21:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
@@ -1008,7 +1153,7 @@ This is an opportunity to shape the future of a fast-growing, purpose-driven com
 Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
 
 #lendigroup #LI-AMH1 #LI-hybrid"
-91155413,Mid Level Software Engineer - AI Native Fintech,Lendi Group,https://www.seek.com.au/job/91155413?type=standard&ref=search-standalone&origin=jobCard#sol=63f9a56ffe73bcb3f2151109c3c53884a82ca30e,8h ago,8.0,2026-03-25T21:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+91155413,Mid Level Software Engineer - AI Native Fintech,Lendi Group,https://www.seek.com.au/job/91155413?type=standard&ref=search-standalone&origin=jobCard#sol=a6a64364926beaacd91847d3c7a7ea215e0818c8,10h ago,10.0,2026-03-25T21:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
@@ -1111,7 +1256,7 @@ This is an opportunity to shape the future of a fast-growing, purpose-driven com
 Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
 
 #lendigroup #LI-AMH1 #LI-hybrid"
-91155411,Lead Data Scientist,Lendi Group,https://www.seek.com.au/job/91155411?type=standard&ref=search-standalone&origin=jobCard#sol=9de174d455a0f9d75b671128ee127d016c6ba8c4,8h ago,8.0,2026-03-25T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+91155411,Lead Data Scientist,Lendi Group,https://www.seek.com.au/job/91155411?type=standard&ref=search-standalone&origin=jobCard#sol=02bd00f9efefff25af557103f05d55a5fda4e51d,10h ago,10.0,2026-03-25T21:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
