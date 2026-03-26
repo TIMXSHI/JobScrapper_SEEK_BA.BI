@@ -1,658 +1,82 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91168887,AI Architect,Intelligen Pty Ltd,https://www.seek.com.au/job/91168887?type=standard&ref=search-standalone&origin=jobCard#sol=bb32a6641a30848163b48e36f1f3a4a4360b219a,3h ago,3.0,2026-03-26T06:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Join Us at a Defining Moment
+91179188,AI Engineer - Sydney,Altis Consulting,https://www.seek.com.au/job/91179188?type=standard&ref=search-standalone&origin=jobCard#sol=a26e873d9b874518c8b8cef005eb62e7c7e4c038,6h ago,6.0,2026-03-26T14:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,,"Help shape what’s next in AI deliveryAt Altis, we’re focused helping clients move beyond AI experimentation and into practical, production-ready outcomes
 
-At Intelligen, we’re building something different. We partner with organisations to design and deliver modern data and AI platforms that are scalable, governed, and built for long-term adaptability. From embedding governance into enterprise ecosystems to enabling responsible AI adoption, we help organisations move from experimentation to secure, enterprise-wide AI capability.
+We’re looking for an AI Engineer to join our team, working across the full AI and machine learning solution lifecycle from problem definition and design through to build, deployment, and optimisation.
 
-As we scale into our next phase of growth, we’re looking for an experienced AI Architect to define the foundations of secure, model-agnostic AI environments, ensuring organisations can innovate rapidly while maintaining control, trust, and resilience.
+This is more than a technical delivery role. We’re looking for someone who can combine strong engineering capability with sound judgement, commercial awareness, and a modern advisory mindset. Someone who can work closely with clients, understand real business challenges, and translate them into effective AI and ML solutions that are scalable, governed, and built for the real world.
 
-About the Role
+What you’ll be doing
 
-We are seeking an AI Architect responsible for designing secure, model-agnostic AI architectures aligned to enterprise environments. This role will define the Secure AI Architecture Blueprint, ensuring AI systems are cost-efficient, high-performing, and governed by design.
+In this role, you’ll work with clients and internal teams to design, build, and deliver AI and machine learning solutions across a range of use cases and environments.
 
-You will play a critical role across delivery, translating strategy into architecture, embedding governance and security controls, and guiding implementation teams to deliver scalable, future-proof AI solutions.
+Your role:
 
-This role is ideal for someone who blends deep technical expertise with strong consulting and storytelling capability, able to design complex systems while clearly articulating their value to business and executive stakeholders.
+Design, build, test, and deploy AI and ML solutions across the full lifecycle, from proof of concept through to production implementation
+Apply modern AI/ML engineering practices, including data preparation, feature engineering, model and prompt development, deployment, monitoring, and optimisation
+Translate business problems into practical AI and ML solutions, working directly with client data, technology, and business stakeholders
+Embed responsible AI and governance controls into solution design and delivery, aligned to client risk, compliance, and ethical requirements
+Contribute technical credibility to conversations around AI strategy, architecture, and governance
+Support proposals, scoping, and capability assessments as part of business development activities
+Develop reusable artefacts, patterns, and documentation to enable consistent and scalable delivery across engagements
+Share knowledge and help uplift AI capability across the broader Altis team
+Contribute to Altis AI intellectual property, thought leadership, and external market positioning as opportunities arise
 
-What You’ll Do
+What we’re looking for
 
-Design Secure AI Architectures
+We’re looking for someone who brings strong technical depth, end-to-end delivery experience, and the ability to work confidently with clients in complex environments.
 
-Define and deliver the Secure AI Architecture Blueprint aligned to enterprise environments
-Develop tool-agnostic integration patterns across platforms such as Microsoft Foundry, AWS Bedrock, and broader AI ecosystems
-Ensure architectures are scalable, flexible, and aligned to long-term enterprise strategy
+What you ideally bring:
 
-Build Model-Agnostic & Future-Proof Systems
+5+ years’ experience designing and delivering solutions in a commercial or consulting environment
+Proven experience taking AI/ML solutions end-to-end, from problem definition and proof of concept through to production deployment and ongoing optimisation
+The ability to assess a client problem and recommend the right approach, whether that is traditional machine learning, generative AI, or a combination of both
+Experience working directly with clients and engaging with senior business and technology stakeholders
+Strong communication skills, with the ability to explain technical concepts in clear, practical business language
+A strong understanding of responsible AI, including governance, risk, ethical considerations, and challenges such as hallucination, bias, and data privacy
 
-Design architectures that maintain model independence and avoid vendor lock-in
-Incorporate MCP gateway principles to support controlled, extensible model interaction
-Ensure enterprise data remains within controlled boundaries, with secure interaction patterns
+Technical capability
 
-Design RAG & Orchestration Layers
+You’ll bring strong hands-on capability across modern AI engineering practices and tooling, including:
 
-Define Retrieval-Augmented Generation (RAG) architectures and orchestration frameworks
-Optimise for performance, cost-efficiency, and scalability across AI workloads
-Enable reusable, modular AI components across use cases
+Strong Python skills
+Experience with data preparation, feature engineering, model development, and evaluation
+Practical experience building LLM-powered solutions, including prompt engineering, retrieval augmented generation (RAG), vector databases, and agentic patterns such as tool use and multi-step reasoning
+Familiarity with LLM APIs and orchestration frameworks, including context management, token economics, and cost optimisation
+Experience with MLOps practices, including experiment tracking, model deployment, and performance monitoring in production
+Familiarity with REST API design and integration patterns to connect AI solutions with client systems
+Experience with AWS and/or GCP, containerisation, and CI/CD pipelines
+Exposure to large-scale data processing, streaming, and workflow orchestration tools
 
-Embed Governance & Security by Design
+Additional requirements
 
-Integrate security, privacy, and governance controls directly into architecture design
-Ensure compliance with enterprise standards and resilience against adversarial risks
-Support governance frameworks that enable safe, responsible AI deployment at scale
+Regular domestic travel will be required to support client delivery and business development
 
-Provide Technical Leadership
 
-Lead architectural decision-making across all phases of delivery
-Translate strategic objectives into scalable, implementable solutions
-Guide engineering and delivery teams with clear technical direction and best practices
+The mindset that matters
 
-Engage & Influence Stakeholders
+Technical strength is essential, but it is only part of the picture.
 
-Act as a storyteller...translating complex AI architectures into clear business value
-Communicate effectively with executives and stakeholders on the AI journey, risks, and outcomes
-Support alignment between business goals and technical delivery
+We’re also looking for someone who brings:
 
+A practical, solutions-focused approach
+Strong judgement and the ability to navigate ambiguity
+Curiosity and a genuine interest in emerging AI technologies
+A collaborative mindset and willingness to share knowledge
+The confidence to engage senior stakeholders and provide credible recommendations
+A commitment to quality, responsible delivery, and continuous improvement
 
-Requirements
+Why this role matters
 
+This role sits at the heart of how we deliver AI outcomes for clients.
 
-8+ years’ experience in architecture, data, or AI engineering roles (must have come from developer or software engineering over a Data science background)
-Proven experience designing enterprise AI/ML architectures in cloud environments (Azure, AWS, GCP)
-Strong understanding of LLM ecosystems, including RAG, orchestration, and model integration patterns
-Experience with platforms such as Microsoft Foundry, AWS Bedrock, or similar AI services
-Knowledge of governance, security, and privacy frameworks within AI and data systems
-Experience designing cost-optimised, performance-driven architectures
-Strong stakeholder engagement and communication skills, including executive-level storytelling
-Ability to lead across architecture, strategy, and delivery execution
+You’ll play a key role in shaping how AI solutions are designed, delivered, and scaled across engagements, while helping build Altis’ broader capability in a fast-moving and strategically important area. This is an opportunity to work on meaningful problems, influence client outcomes, and help define what good looks like in modern AI delivery.
 
+Why join Altis?
 
+At Altis, you’ll work with a team that values curiosity, innovation, and practical impact.
 
-Benefits
+You’ll have the opportunity to solve real client challenges, contribute to the growth of our AI capability, and work across a mix of delivery, advisory, and capability-building activities. We’re a collaborative team that supports each other, encourages fresh thinking, and values people who can combine technical excellence with commercial and client awareness.
 
+Your next chapter starts here
 
-
-We’re not just delivering AI and data projects.. we’re humanising them. That means we care deeply about the how, not just the what. We value curiosity, creativity, and a willingness to challenge the status quo. We look for people who are driven to build a business, get curious, and offer opinions and ideas.
-
-You’ll join a team that’s smart, kind, and ambitious. You’ll have real influence - in your projects, your practice, and the broader business. And as we grow, so will you. Here’s what that looks like:
-
-Grow With Purpose
-
-Structured development pathways so you always know what you’re working toward.
-Paid certifications across all major cloud and data technologies (mastery matters)
-Weekly training and knowledge exchanges where practitioners share real project insights.
-
-
-Support That Helps You Thrive
-
-A dedicated support lead to mentor, guide and help you navigate your career
-Regular 360° feedback loops, giving you clear direction and honest insight into your progress.
-
-
-A Community You’ll Enjoy Being Part Of
-
-Innovation days where you can experiment, prototype and sharpen new skills.
-Team days, social catchups,  many new community clubs…
-Opportunities to lead, influence and shape our growing practice as we expand across the region.
-
-
-If you want to be part of a team that cares just as much about how we deliver as what we deliver; where curiosity is valued, ideas matter, and your impact is felt - drop us a message and start the conversation today."
-91166507,Data Product Engineer (BI & AI Data Products),RSL LifeCare,https://www.seek.com.au/job/91166507?type=standard&ref=search-standalone&origin=jobCard#sol=7b9a3ec6eb677ab28229f6762fbc6f1ee8c151dc,4h ago,4.0,2026-03-26T05:00:00+00:00,"St Leonards, Sydney NSW",Product Management & Development (Information & Communication Technology),Full time,,"At our core, RSL LifeCare provides care and services to veterans and seniors who live in our communities or are receiving support at home. Our vision of creating proud communities living their best lives is at the heart of everything we do as we continue to build upon our legacy of supporting veterans and their families for more than 100 years.
-
-This is an opportunity for you to join a large social purpose organisation where your skills and compassion will be valued and enable you to make a meaningful difference to people's lives.
-
-We're looking for an experienced Data Product Engineer to help shape how we use data across the organisation.
-
-In this role, you'll design, build, and maintain reliable, reusable data products that support everything from day‑to‑day reporting to advanced analytics and AI.
-You'll take the lead on our curated data layer, semantic models, and enterprise KPI definitions-making sure our data is consistent, high‑quality, and easy for the business to use.
-Your work will play a key part in getting the organisation ready for AI and helping us scale our analytics capability in a safe and efficient way.
-You'll also collaborate closely with the BI Developer, Data Engineer and BI Developer - Insights Partner, working together to build a strong, resilient team and a data environment the whole organisation can rely on.
-
-You will have:
-
-Bachelor's degree in computer science, information systems, data analytics, or related field.
-Strong experience in dimensional modelling (Kimball) and enterprise semantic model design.
-Advanced Power BI semantic modelling skills, including DAX, KPI/measure design, and performance optimisation.
-Hands‑on experience delivering curated analytics datasets using Microsoft Fabric (Warehouse/Lakehouse, Notebooks, Pipelines).
-Strong SQL skills and experience implementing business transformation logic.
-Experience defining and applying data quality rules for analytics and reporting.
-Exposure to supporting self‑service BI through certified datasets and semantic model reuse.
-Exposure to preparing datasets for AI and advanced analytics.
-Ability to translate business concepts into reusable, well‑governed data products.
-
-Desirable
-
-Certifications in Power BI, Microsoft Fabric, or data analytics platforms.
-Strong Python skills for data science use cases.
-Experience with data quality monitoring, validation frameworks, or data observability.
-Familiarity with data governance (classification, access controls, retention).
-Experience with aged care or healthcare data, including regulated environments and clinical or funding datasets.
-
-RSL Life Care offers the following benefits:
-
-Not-for-profit tax benefits - salary packaging of up to $15,900 per year. This allows you to reduce your taxable income by receiving part of your salary as tax-free benefits like super contributions, car leasing, and more.
-Staff discounts across 700 select retail stores through Maxxia Rewards
-Fitness Passport
-Leave Loading - 17.5% pay top up on paid leave
-
-Our commitment to diversity:
-
-We are proud to stand for our unique values: Do the Right Thing, Aim Higher, Care from the Heart, and Act as One team.
-
-We welcome and encourage applications from people across our diverse community, especially from Veterans, current serving ADF personnel, their families and Aboriginal and Torres Strait Islander applicants. We believe everyone has the right to feel safe, respected, valued and heard regardless of their gender, sexual orientation, ethnicity or disability.
-
-
-It is a mandatory requirement for a team member working in the Aged Care sector to have a valid Police Check or a valid National Disability Insurance Scheme (NDIS) check, or potentially both, to undertake the inherent requirements of the role. Clearances must be verified prior to commencing employment with RSL LifeCare."
-91165046,Lead AI Engineer,AustralianSuper,https://www.seek.com.au/job/91165046?type=standard&ref=search-standalone&origin=jobCard#sol=a3169c5ae0326ba6878e895fed0861843a48217c,5h ago,5.0,2026-03-26T04:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
-
-
-
-Deliver AI-powered solutions that transform the experience for employees and for millions of members.
-Permanent, full-time position
-Flexible, hybrid working environment
-
-
-
-At AustralianSuper, we truly care about our colleagues. We know work and life are intertwined. That's why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members.
-
-
-
-Your New Role
-
-
-This role is about moving GenAI from proof‑of‑concept to trusted, enterprise‑grade systems used every day - safely, responsibly, and at scale.
-
-
-As our Lead AI Engineer (internally known as Lead GenAI Systems Engineer), you'll design, build, and deliver production‑ grade AI solutions that move beyond experimentation and into real‑ world impact. You' ll lead the technical design and delivery of GenAI solutions, from LLM and RAG foundations through to agentic AI systems that orchestrate tools, workflows, and decision‑ making in production.
-
-
-This is a builder‑ leader role. You' ll provide technical leadership for a small, high‑ impact team of AI engineers, while remaining deeply hands‑ on in solution design, development, and delivery. You' ll have end‑ to‑ end ownership from concept and prototyping through to production deployment, adoption, and ongoing improvement.
-
-
-You'll work closely with product, data, technology, and risk partners to ensure solutions are robust, scalable, secure, and responsibly designed, aligned with enterprise standards and regulatory expectations.
-
-
-If you enjoy working at the edge of what's possible with AI, this role offers both challenge and impact.
-
-
-
-What You'll Need
-
-You don't need to tick every box, but you'll bring strong experience across many of the following areas:
-
-
-
-Strong hands‑ on experience building GenAI solutions, including LLM integration, prompt engineering, RAG patterns, and evaluation approaches in production environments.
-Demonstrated capability in prompt design and optimisation, including structuring system and user prompts, managing context, reducing hallucinations, and improving output consistency and reliability.
-Experience designing and delivering agentic AI systems, such as tool‑ using agents, workflow orchestration, multi‑ step reasoning, and human‑ in‑ the‑ loop patterns.
-Hands‑ on expertise with cloud platforms (AWS, Azure, or GCP), including deploying and operating AI solutions in cloud‑ based environments.
-Experience with containerisation and orchestration, including Docker and Kubernetes, to support scalable, reliable AI services.
-Advanced programming skills in Python and/or JavaScript, used to build, integrate, and operate GenAI and agentic systems across APIs, services, and workflows.
-Demonstrated experience with MLOps / GenAI operations practices, including lifecycle management, deployment pipelines, monitoring, and operational support.
-Experience embedding and operationalising Responsible AI and ethical AI principles, applying best‑ practice patterns across GenAI and agentic use cases in enterprise or regulated environments.
-Strong software engineering and system design skills, with the ability to balance experimentation with production readiness, performance, cost, and maintainability.
-Experience leading technical delivery, providing clear technical direction, reviewing designs and code, and supporting the development of other engineers while remaining hands‑ on.
-Strong communication and stakeholder engagement skills, able to translate complex technical concepts for both technical and non‑ technical audiences.
-An innovative, curious, and growth‑ oriented mindset, with a desire to continuously learn and apply emerging AI capabilities in practical ways.
-Relevant certifications and experience in financial services or large global organisations are highly regarded.
-
-
-
-Life at AustralianSuper
-
-
-AustralianSuper is committed to colleague development, and we support our people with ongoing learning, coaching and training, as well as career opportunities across our expanding global organisation. We offer generous leave entitlements and promote a blended working environment in which all roles can flex, and we're happy to discuss what this looks like for you.
-
-
-We cultivate a workplace that champions safety, respect, inclusiveness and diversity. We are committed to supporting our diverse workforce in a way that is inclusive and embraces diversity in all its forms. If you require any reasonable adjustments to the recruitment process or the role, please let our recruitment team know.
-
-
-
-What's Next
-
-If you're ready to bring your energy, integrity, generosity of spirit and passion for excellent outcomes to a team that loves a challenge, apply now!
-
-
-
-Australian or New Zealand citizenship or Australian permanent residency status is required.
-
-
-
-Progress powered by purpose.
-
-
-
-AustralianSuper may use AI to review resumes and conduct initial phone interviews. This involves processing your resume, cover letter, and voice recording in Australia and the USA to help assess your suitability for the applied role. When invited to an AI phone screening, you may opt for a traditional phone screening instead. For information on how we handle your personal data, please refer to our Candidate Privacy Policy.
-
-
-
-https://www.australiansuper.com/careers/candidate-privacy-notice
-
-
-
-Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
-91164947,Senior Data Engineer,Ausgrid,https://www.seek.com.au/job/91164947?type=standard&ref=search-standalone&origin=jobCard#sol=750fe40d1d978f3dea1a76d7943b81ea60aae13a,5h ago,5.0,2026-03-26T04:00:00+00:00,Sydney NSW (Hybrid),Other (Engineering),Full time,"$180,000 – $190,000 per year","Seeking a Senior Data Engineer to join our Data and Analytics team. 
-
-$190,026 base salary plus superannuation 
-
-Permanent FT | Haymarket. Grow your career with us today.   
-
-Technology: Microsoft Azure | Databricks | AI & MLOps 
-
- 
-
-   
-
-About Ausgrid – we’re wired for good  
-
-We’re the largest distributer of electricity on Australia’s east coast, which means over two million homes and businesses rely on our good work. We’re here at the heart of the energy transition, and we’re driven by a powerful purpose to make electricity accessible for all. It’s an exciting new chapter for our company with each day bringing a renewed energy to how we deliver, store and use electricity. As we continue to grow, we’re in search of exceptional talent to help us achieve our goals.   
-
-Everyone’s job is important here. Our customers come from all walks of life, and so do we. We’re committed to fostering a diverse, respectful, and inclusive workplace, and encourage applications from all backgrounds.  
-
-   
-
-See yourself working here  
-
-We’re looking for a Senior Data Engineer to play a key role in building, operating and continuously improving Ausgrid’s Enterprise Data Platform on Microsoft Azure. 
-
-In this role, you’ll design and deliver scalable data pipelines and lakehouse solutions, support AI and MLOps capabilities, and ensure our data platform is secure, reliable and cost effective. You’ll work closely with architects, data scientists and business stakeholders to translate complex requirements into robust, production ready solutions. 
-
-This is a hands on senior role with genuine influence over platform design, performance and operational excellence. 
-
-This is a permanent full- time position, located at Haymarket and reports to Manager Data Services & Platforms, you will join a collaborative culture with experienced data architecture and engineering peers. 
-
-  
-
-Key responsibilities  
-
-Design, build and maintain batch and streaming data pipelines using Azure Data Factory and Databricks (PySpark/Spark SQL)  
-
-Implement Lakehouse data models (Bronze/Silver/Gold) using Delta Lake  
-
-Support and enable AI model deployment using established MLOps / LLMOps practices  
-
-Monitor and optimise platform performance, reliability and cost  
-
-Apply security, governance and data privacy controls across the Azure environment  
-
-Contribute to CI/CD pipelines and Infrastructure as Code using Bicep and Azure DevOps  
-
-Support production workloads, including participation in a rotating 24×7 oncall roster  
-
-Partner with stakeholders to translate business needs into scalable technical solutions  
-
-Produce highquality technical documentation, runbooks and data dictionaries 
-
-  
-
-What you’ll bring   
-
-Our hiring decisions are not only based on your experience and skills, but your passion, attitude, and alignment to our core values.   
-
-
-
-
-Essential experience and skills  
-
-Degree in Computer Science, Engineering, Information Systems or similar  
-
-Strong handson experience with Azure Data Factory, Databricks and Delta Lake  
-
-Advanced SQL and Python / PySpark skills  
-
-Experience working with AI models in an MLOps or similar environment  
-
-Proven experience delivering solutions across the full development lifecycle  
-
-Strong background supporting enterprise data platforms in production  
-
-Experience with performance optimisation (partitioning, Zordering, caching, indexing)  
-
-Knowledge of Azure security and governance (RBAC, Key Vault, network controls)  
-
-Experience with DevOps practices, Git and CI/CD pipelines  
-
-Strong stakeholder engagement skills and the ability to translate requirements into technical designs  
-
-Comfortable participating in oncall support and incident response 
-
-   
-
-Life at Ausgrid   
-
-At Ausgrid, we go beyond just a competitive salary to offer an exciting range of benefits. From salary sacrificing electric vehicles and novated leasing, to discounted corporate health insurance and access to Fitness Passport, our benefits support your work here, and your life out there.   
-
-Celebrate success every day with our employee recognition program to bring out each other’s best. Looking to grow professionally? We’ve got you covered with study assistance, secondments, training and mentors, whose advice you’ll keep wherever you go.  We’re proud to offer gender-neutral parental leave to balance work when growing your family. And if you’re caring for elderly parents, our aged care support services offer expert guidance to help you access care for your loved ones. At Ausgrid, it's all about supporting you in every aspect of life.  
-
-  
-
-If you require support with your application/reasonable adjustments for the interview process, please reach out to our dedicated Talent Team recruitment@ausgrid.com.au.  
-
-Application close date: Friday 17th April 2026 (please note, this date is subject to early closure) 
-
-Applicants must have full Australian work rights to apply."
-91164720,Data Engineer - Contract NV1/NV2,PRA,https://www.seek.com.au/job/91164720?type=standard&ref=search-standalone&origin=jobCard#sol=85486c2ab055d5c6c837fdbf5851d82797a92f0b,5h ago,5.0,2026-03-26T04:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are seeking a highly skilled Senior Data Engineer to support the delivery of advanced, secure data platforms across a distributed and multi-cloud environment. This role will focus on enabling federated analytics, building scalable data pipelines, and delivering real-time insights across edge and centralised systems within a secure government context.
-  
-Key Responsibilities
-
-Design and deliver federated analytics solutions across multi-cloud and hybrid environments
-Build and optimise batch and streaming data pipelines
-Develop scalable analytics platforms and enable data-driven decision making
-Implement observability, monitoring, and performance optimisation frameworks
-Ensure compliance with data sovereignty and locality requirements
-Collaborate with DevOps teams to support CI/CD and infrastructure automation
-Deliver custom dashboards and visualisations for distributed environments
-Support edge analytics use cases, including low-latency ETL and ML inference
-Skills & Experience
-
-Federated Analytics & Querying
-
-Experience with AlloyDB, AlloyDB Omni, BigQuery Omni, Looker
-Anthos for multi-cloud data access
-Apache Iceberg, Trino
-Strong understanding of federated SQL and hybrid query optimisation
-Data Pipelines & Processing
-
-Workflow orchestration using Airflow
-Transformations using dbt
-Streaming and batch processing with Flink, Spark, Presto
-Experience with Dataform, Dataproc, Pub/Sub
-Analytics & Observability
-
-Monitoring tools such as Cloud Monitoring, OpenTelemetry
-Prometheus / Grafana
-Anthos Config Management
-DevOps & Infrastructure
-
-Infrastructure as Code with Terraform
-CI/CD pipelines (Cloud Build, Jenkins, GitOps)
-Experience working across hybrid and multi-cloud environments
-Data Engineering & Compliance
-
-Strong background in data and analytics engineering
-Understanding of data sovereignty and locality constraints
-Experience building distributed data platforms
-Visualisation & Edge Analytics
-
-Development of custom dashboards (site-specific and global views)
-Experience with edge analytics, including low-latency ETL and on-device ML inference
-Canberra based individuals will also be highly considered.
-
- Great long term contract opportunity, if you would like to hear more please apply and all suitable individuals will contacted for a discussion."
-91160644,Senior AI Engineer,Mirvac,https://www.seek.com.au/job/91160644?type=standard&ref=search-standalone&origin=jobCard#sol=4adfb19d645c086597aa30dd6c97a665847cb6f2,7h ago,7.0,2026-03-26T02:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Mirvac is a brand that creates and curates better experiences.
-
-We are more than developers or builders - we are visionaries, and our ability to see the world differently drives us to be bold, embrace innovation and diversity, and lead with optimism. As creators of positive change, we see each new project as an opportunity to leave a lasting legacy, delivering enduring value for all Australians.
-
-We focus on sustainability, innovation, and shared value, to return benefits to our customers, partners, investors, and communities. Join us as we work towards building the imagine nation.
-
-Your Opportunity
-
-This is a permanent opportunity to play a pivotal role in Mirvac's AI & Automation platform - core to our integrated digital operating model. You'll lead the end‑to‑end design and delivery of intelligent, agent‑oriented automation while shaping the platform roadmap and uplifting engineering standards across the business. You'll be supported by a collaborative, high‑performing team and a manager who champions innovation, trust, and continuous growth.
-
-Your Responsibilities
-
-Partner closely with business stakeholders to understand pain points, processes, and opportunities; craft and document AI and data use cases for inclusion in platform backlogs and prioritization discussions.
-Architect and lead delivery of complex, orchestrated solutions that coordinate AI models, bots, APIs, data services, and human oversight-optimising for security, scalability, and performance.
-Define and apply agentic design patterns, including confidence thresholds, escalation paths, fallback mechanisms, and recovery strategies to ensure safe and reliable automation.
-Engage in forward-deployed engagements, embedding with business teams to co-design and prototype Agentic capabilities that deliver measurable value and rapid feedback loops.
-Establish and enforce engineering, testing, and documentation standards, including consideration of AI failure modes, exception handling, and auditability.
-Design and maintain human-in-the-loop controls, ensuring appropriate levels of autonomy, transparency, and accountability in AI-enabled processes.
-Act as the primary point of contact for managed services and vendors, overseeing onboarding, delivery, ongoing management, and ensuring strong platform partnerships and vendor performance.
-Collaborate with cross-functional teams including product managers, data architects, and technology partners to identify and deliver high-impact opportunities aligned with strategic platform roadmaps.
-Ensure compliance with enterprise security, privacy, and risk policies across all AI and Automation initiatives.
-Define, track, and report metrics
-
-Your Point of Difference
-
-The ideal candidate will hold relevant tertiary qualifications in Computer Science, Engineering, Data Science, or a closely related discipline, providing a strong theoretical foundation to support complex technical and architectural decision‑making.
-
-You will also bring:
-
-7+ years in technology roles with extensive hands-on enterprise automation experience with demonstrated technical delivery expertise (e.g. UiPath)
-1-3 years' experience in using and incorporating AI/ML into workflows.
-Experience with modern orchestration and agent frameworks on Azure/AWS for deploying Agentic AI solutions.
-Experience building and scaling conversational AI experiences.
-Proven ability to collaborate with and manage vendors and managed service providers effectively.
-Solid understanding of enterprise data platforms and ability to work with data warehouses (e.g., Snowflake).
-
-Apply today!
-
-If you're excited by the opportunity to shape the future of AI and automation while creating lasting impact, we'd love to hear from you. Apply now to join Mirvac and be part of a team building smarter, more sustainable experiences for generations to come."
-91159455,Lead GenAI Systems Engineer,AustralianSuper,https://www.seek.com.au/job/91159455?type=standard&ref=search-standalone&origin=jobCard#sol=9a5edca365395cd31075fa985e1536544f15f2a7,7h ago,7.0,2026-03-26T02:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
-
-- Deliver AI-powered solutions that transform the experience for employees and for millions of members.
-
-- Permanent, full-time position
-
-- Flexible, hybrid working environment
-
-At AustralianSuper, we truly care about our colleagues. We know work and life are intertwined. That's why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members.
-
-Your New Role
-
-This role is about moving GenAI from proof‑of‑concept to trusted, enterprise‑grade systems used every day - safely, responsibly, and at scale.
-
-As our Lead AI Engineer (internally known as Lead GenAI Systems Engineer), you'll design, build, and deliver production‑ grade AI solutions that move beyond experimentation and into real‑ world impact. You' ll lead the technical design and delivery of GenAI solutions, from LLM and RAG foundations through to agentic AI systems that orchestrate tools, workflows, and decision‑ making in production.
-
-This is a builder‑ leader role. You' ll provide technical leadership for a small, high‑ impact team of AI engineers, while remaining deeply hands‑ on in solution design, development, and delivery. You' ll have end‑ to‑ end ownership from concept and prototyping through to production deployment, adoption, and ongoing improvement.
-
-You'll work closely with product, data, technology, and risk partners to ensure solutions are robust, scalable, secure, and responsibly designed, aligned with enterprise standards and regulatory expectations.
-
-If you enjoy working at the edge of what's possible with AI, this role offers both challenge and impact.
-
-What You'll Need - You don't need to tick every box, but you'll bring strong experience across many of the following areas:
-
-- Strong hands‑ on experience building GenAI solutions, including LLM integration, prompt engineering, RAG patterns, and evaluation approaches in production environments.
-
-- Demonstrated capability in prompt design and optimisation, including structuring system and user prompts, managing context, reducing hallucinations, and improving output consistency and reliability.
-
-- Experience designing and delivering agentic AI systems, such as tool‑ using agents, workflow orchestration, multi‑ step reasoning, and human‑ in‑ the‑ loop patterns.
-
-- Hands‑ on expertise with cloud platforms (AWS, Azure, or GCP), including deploying and operating AI solutions in cloud‑ based environments.
-
-- Experience with containerisation and orchestration, including Docker and Kubernetes, to support scalable, reliable AI services.
-
-- Advanced programming skills in Python and/or JavaScript, used to build, integrate, and operate GenAI and agentic systems across APIs, services, and workflows.
-
-- Demonstrated experience with MLOps / GenAI operations practices, including lifecycle management, deployment pipelines, monitoring, and operational support.
-
-- Experience embedding and operationalising Responsible AI and ethical AI principles, applying best‑ practice patterns across GenAI and agentic use cases in enterprise or regulated environments.
-
-- Strong software engineering and system design skills, with the ability to balance experimentation with production readiness, performance, cost, and maintainability.
-
-- Experience leading technical delivery, providing clear technical direction, reviewing designs and code, and supporting the development of other engineers while remaining hands‑ on.
-
-- Strong communication and stakeholder engagement skills, able to translate complex technical concepts for both technical and non‑ technical audiences.
-
-- An innovative, curious, and growth‑ oriented mindset, with a desire to continuously learn and apply emerging AI capabilities in practical ways.
-
-- Relevant certifications and experience in financial services or large global organisations are highly regarded.
-
-Life at AustralianSuper
-
-AustralianSuper is committed to colleague development, and we support our people with ongoing learning, coaching and training, as well as career opportunities across our expanding global organisation. We offer generous leave entitlements and promote a blended working environment in which all roles can flex, and we're happy to discuss what this looks like for you.
-
-We cultivate a workplace that champions safety, respect, inclusiveness and diversity. We are committed to supporting our diverse workforce in a way that is inclusive and embraces diversity in all its forms. If you require any reasonable adjustments to the recruitment process or the role, please let our recruitment team know.
-
-What's Next
-
-If you're ready to bring your energy, integrity, generosity of spirit and passion for excellent outcomes to a team that loves a challenge, apply now!
-
-Australian or New Zealand citizenship or Australian permanent residency status is required.
-
-Progress powered by purpose.
-
-AustralianSuper may use AI to review resumes and conduct initial phone interviews. This involves processing your resume, cover letter, and voice recording in Australia and the USA to help assess your suitability for the applied role. When invited to an AI phone screening, you may opt for a traditional phone screening instead. For information on how we handle your personal data, please refer to our Candidate Privacy Policy.
-
-https://www.australiansuper.com/careers/candidate-privacy-notice
-
-Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
-91158359,Senior Sofware Engineer (AI),Talenza,https://www.seek.com.au/job/91158359?type=standard&ref=search-standalone&origin=jobCard#sol=ebe650352b866d076220f9b6e28925c72ae09d69,8h ago,8.0,2026-03-26T01:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,$190k - $210k p.a.,"Senior Software Engineer (AI)
-
-📍 Sydney, Australia
-💰 Up to $210,000 package (inc Super) + Bonus
-🕒 Permanent | Mid-level to Mid-Senior
-
-
-About
-
-Driven by our AI-first strategy, we are creating AI-native solutions and an AI-empowered workforce to deliver best-in-class experiences for over 2 million Australians. You will join our talented Enterprise AI Enablement team to build leading-edge solutions within our agentic AI ecosystem.
-
-What Role Will You Play?
-
-As a Software Engineer within the Enterprise AI Enablement team, you will be at the forefront of designing and building robust, scalable backend systems that power our AI-native solutions.
-
-With a strong emphasis on software engineering excellence, you will spend the majority of your time writing production-grade code and automating complex workflows to create a resilient foundation for our agentic AI ecosystem.
-
-You will:
-
-
-Take end-to-end ownership of products in a modern DevOps culture
-Design, architect, build, test, and operate scalable backend systems
-Work alongside data scientists in a multidisciplinary AI team
-Implement LLMOps best practices for deploying and monitoring AI models
-Build reliable, observable, and production-ready AI platforms
-
-This role is ideal for a software engineer who has transitioned into Data/ML & AI and wants to build enterprise-grade AI systems at scale.
-
-What You Offer
-
-
-5+ years' experience as a Software Engineer in an agile DevOps environment
-Strong object-oriented programming experience (Python preferred)
-Experience across the full SDLC: design, build, test, and support mission-critical production platforms
-Proven ability to write robust, production-grade code and automate complex workflows
-Hands-on experience with CI/CD pipelines
-Experience managing deployments in containerised cloud environments (Docker/Kubernetes)
-Exposure to modern agentic AI frameworks and concepts such as:
-RAG (Retrieval-Augmented Generation)
-MCP
-GCP Vertex AI
-Google ADK
-LangChain / LangGraph
-LlamaIndex
-Knowledge of LLMOps best practices for model experimentation, deployment, and monitoring
-
-If you feel you possess the relevant skills to the above, apply now with most updated CV!"
-91156414,Senior / Staff Software Engineer (AI Systems & Platforms),Novus,https://www.seek.com.au/job/91156414?type=standard&ref=search-standalone&origin=jobCard#sol=7d56fd8d621bae8d5944b71f15a3572f877df507,10h ago,10.0,2026-03-25T23:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,"$200,000 – $250,000+Super+ ESOP","Senior / Staff Software Engineer (AI Systems & Platforms)
-
-Location: Sydney CBD
-
-Salary: Up to $250,000 + super + ESOP
-
-About the Company
-
-We’re working with a newly formed, AI native holding company that is redefining how services businesses are acquired, transformed, and scaled across Australia and New Zealand.
-
-Backed by venture funding with further investment on the horizon, the business is in its earliest stage, currently a tight knit team of three founders, with significant momentum and an ambitious roadmap ahead.
-
-With demand already outpacing engineering capacity, they are now building out their founding engineering team.
-
-The Opportunity:
-
-This is a rare chance to join at the ground floor and help build core platforms from scratch.
-
-You’ll be working directly with the founders to design and engineer complex, scalable systems that underpin multiple businesses. The work is deeply technical and suited to engineers who enjoy solving hard problems, thinking from first principles, and operating with a high degree of autonomy.
-
-Expect a highly experimental environment where building, testing, and iterating is part of the daily rhythm.
-
-What You’ll Be Doing:
-
-Designing and building core platform infrastructure from day one
-
-Working on complex system architecture and distributed systems
-
-Developing AI driven systems, including agentic workflows and RAG pipelines
-
-Contributing to research, experimentation, and rapid prototyping
-
-Collaborating closely with founders on technical direction and strategy
-
-What They’re Looking For:
-
-Strong engineering fundamentals with first principles thinking
-
-Experience designing and building complex, scalable systems
-
-Practical experience working with AI/ML systems
-
-Exposure to areas such as:
-
-Retrieval Augmented Generation (RAG)
-
-Knowledge representation
-
-Agent based or autonomous systems
-
-Proactive mindset, with side projects or self driven work highly regarded
-
-Comfortable working in an early stage, high ownership environment
-
-Tech Environment:
-
-Primary: TypeScript
-
-Also in use: Python, Rust
-
-Exploring: Go
-
-Note: Experience with this exact stack is not required.
-
-Why Join?
-
-Build from zero, genuine greenfield engineering
-
-Work directly with experienced, highly technical founders
-
-Equity upside through ESOP
-
-High impact role with real ownership from day one
-
-Opportunity to shape both systems and engineering culture
-
-Working Model:
-
-5 days per week in office (Sydney CBD)
-
-Interview Process:
-
-3 stage process
-
-All interviews are face to face
-
-Approx. 1 hour per interview
-
-Apply now for full info
-
-#SCR-tom-wood-1"
-91155584,Senior Algorithms Engineer,TheDriveGroup,https://www.seek.com.au/job/91155584?type=standard&ref=search-standalone&origin=jobCard#sol=8436b0c3bd700e6078fd2846916eafe87ed7bf65,11h ago,11.0,2026-03-25T22:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$180k + super,"A new opportunity is open for a Senior Algorithm Engineer to join a high-performance development team working on real-time RF and AI-based sensing systems. This role is ideal for an experienced engineer who enjoys turning advanced theory into practical solutions that operate at the edge.
-  
-The role involves designing, integrating, and optimising complex algorithms to power intelligent sensor platforms deployed in operational environments. It requires deep collaboration with software engineers, systems designers, and UI developers to ensure algorithmic outputs are both efficient and actionable.
-
-Key Responsibilities
-
-Research and implement mathematical models and algorithms for deployment on edge computing platforms
-Collaborate with software teams to optimise model integration within production architectures
-Contribute to GUI discussions to ensure algorithmic outputs are user-friendly and visually intuitive
-Manage data pipelines including multi-domain datasets, preparation, labelling, and validation
-Maintain clean, well-documented codebases for sensor fusion and ML-driven software modules
-Support decision-making across software and hardware teams for complex system evolution
-Guide the integration of models into scalable, high-performance production environments
-Skills and Experience Required
-
-Degree in Computer Science, Mathematics, or a related technical field
-Proven experience designing and integrating complex algorithms for sensor data or real-time systems
-Familiarity with signal processing, time-series analysis, and sensor fusion techniques
-Experience working with RF data or analysis tools is highly desirable
-Strong grasp of probability, statistics, and their application in modelling
-Competency with version control and Git workflows
-Comfortable operating in Linux environments with modern toolchains
-Desirable Attributes
-
-Exposure to ML/AI workflows or model deployment practices
-Familiarity with heterogeneous computing or GPU programming (CUDA)
-Ability to turn business requirements into robust, interpretable algorithmic solutions
-Strong communicator capable of bridging technical conversations across multidisciplinary teams
-Passion for staying up to date with algorithmic advances and deploying real-world solutions
-A hands-on mindset and motivation to contribute in a fast-paced, mission-driven environment
-This is a unique opportunity to work at the intersection of advanced analytics, signal intelligence, and real-time systems, with tangible impact across defence, surveillance, and security domains.
-
-For more info, feel free to contact me at jack@thedrivegroup.com.au or click Apply to send through your details and I'll be in touch."
+If you’re excited by the opportunity to design and deliver responsible, high-value AI solutions in a consulting environment, we’d love to hear from you."
