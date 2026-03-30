@@ -1,93 +1,87 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91215927,Senior Data Engineer / Senior Analytics Engineer,Elula,https://www.seek.com.au/job/91215927?type=standard&ref=search-standalone&origin=jobCard#sol=5a10cd840be97e4e48e47398ee6e9865d077bb9a,1h ago,1.0,2026-03-29T22:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Senior Data Engineer
+91220912,Machine Learning Engineer - Time Series & Predictive Modelling,Stacked Farm,https://www.seek.com.au/job/91220912?type=standard&ref=search-standalone&origin=jobCard#sol=0f9a507867d91451e0f98d3757e19f2c5481fc83,1h ago,1.0,2026-03-30T02:00:00+00:00,"Arundel, Gold Coast QLD (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Machine Learning Engineer
+(Time Series & Predictive Modelling)
 
-At Elula, we partner with some of Australia's top financial institutions to tackle a wide range of business challenges through cutting-edge AI-as-a-service (AIaaS). Our vision? To make the complex simple and easy, delivering amazing customer experiences and personalisation that matters.
+Build the future of AI-driven manufacturing
 
-Our products leverage machine learning, productionised models, data pipelines, explainable AI, and rich visualisations to drive customer engagement, retention and insights. We're constantly pushing the envelope, uncovering the ever-evolving needs of customers and staying ahead of the curve.
+About the Role
 
-Join a team of some of the brightest minds in data science and engineering; experts with years of experience and a passion for delivering smarter decision-making. It's a fast-paced, high-performing and collaborative environment where creativity and learning take centre stage, and the work is as fun as it is rewarding.
+We’re looking for a Machine Learning Engineer who thrives on solving complex, real-world problems using time series modelling, statistics, and deep learning.
 
-Find out more about us at https://elula.ai/team/.
+In this role, you’ll design and optimise advanced predictive models that power next-generation manufacturing systems. You’ll focus purely on model development and performance not pipelines working alongside a dedicated engineering team that handles data infrastructure.
 
+You’ll also collaborate with machine vision engineers to create multi-modal AI systems, combining sensor data with visual intelligence.
 
+What You’ll Do
 
+Develop high-performance models for:
 
-The role
+Time series forecasting
 
-At Elula, data is the foundation of our AI-as-a-Service platform. As a Senior Data Engineer, you'll be the person who truly understands that data: where it comes from, what it means, how it behaves, and how to shape it into something reliable and useful.
+Anomaly detection
 
-Most of your best work will happen before you write any code; in understanding what the data represents, where it came from, and how it fits into our products. You'll spend your time interrogating complex datasets, designing thoughtful data models, and building the transformation logic that turns raw inputs into trusted, high-quality outputs powering our models and products. You won't just move data - you'll make sense of it.
+System optimisation
 
-You'll work autonomously on open-ended problems alongside data scientists, software engineers, and customer-facing teams, contributing across the full data lifecycle from ingestion and modelling through to validation and delivery. We're a collaborative, ambitious team, and we're looking for someone who takes genuine ownership, communicates clearly across disciplines, and isn't afraid to ask the hard questions about the data in front of them.
+Apply statistical and probabilistic methods to understand system behaviour and variability
 
-To be successful in this role, you will be expected to demonstrate the following skills and experience.
- 
+Build deep learning models for sequential data (e.g. LSTM, GRU, Transformers)
 
-What You’ll Bring
+Turn complex industrial datasets into actionable insights
 
-Data transformation and modelling
+Collaborate with data engineers to ensure clean, production-ready inputs
 
-A deep curiosity for data - you naturally interrogate datasets to understand their shape, quality, and fitness for purpose before building anything.
+Work with vision ML engineers to create integrated, multi-modal models
 
-Strong applied data modelling skills, designing structures that serve analytical, operational and downstream use cases well.
+Evaluate and tune models using rigorous experimentation
 
-The ability to develop and optimise complex SQL across large datasets, with a sharp eye for correctness, performance and long-term maintainability.
+Support deployment by packaging models for production integration
 
-Comfortable using Python to automate workflows and building reusable tooling that makes the team more effective.
+Monitor performance and drive continuous improvement
 
-Ownership and judgement
+What You Bring
 
-You own your work end-to-end, from design decisions through to ongoing reliability, exercising sound technical judgement when trade-offs arise and proactively keeping stakeholders informed.
+Degree in Computer Science, Engineering, Mathematics, Statistics, or similar
 
-You manage your own priorities and delivery with discipline, and help your team do the same without waiting to be asked.
+Strong experience in time series modelling and analysis
 
-When something's wrong with the data, you dig in, diagnose it systematically, and fix it pragmatically, then share what you learned so the same issue doesn't come back.
+Solid foundation in statistics and probabilistic modelling
 
- Technical leadership
+Hands-on experience with neural networks for sequential data
 
-You communicate complex data concepts clearly to both technical colleagues and non-technical stakeholders - translating between the two comes naturally.
+Proficiency in Python and ML frameworks (PyTorch, TensorFlow)
 
-You actively support and uplift junior engineers, sharing context, approaches and best practices generously.
+Experience working with messy, real-world data (noise, gaps, irregular sampling)
 
-You bring curiosity and a continuous improvement mindset, staying across new tools and techniques and contributing to raising the bar for the whole team.
+Ability to translate complex data into robust, production-ready models
 
-You know how to get the most out of AI-assisted development tools like Claude Code - using them as an amplifier to think bigger and spend your energy on problems that genuinely require human judgment.
-
-
-
+Strong collaboration skills across technical teams
 
 Nice to Have
 
-While the following are not required, they are highly valued.
+Exposure to computer vision / machine vision
 
-A background in a quantitative discipline such as computer science, mathematics or statistics.
+Experience working alongside (not owning) data engineering pipelines
 
-Experience working in the financial services industry (e.g. banking, insurance or superannuation)
+Familiarity with multi-modal learning (sensor + vision data)
 
+Background in manufacturing, robotics, or industrial systems
 
-Benefits
+Understanding of MLOps and deployment patterns
 
-Elula’s people are at the core of all we do. Our benefits are just one way we show that.
+What Success Looks Like
 
-Enjoy flexible working hours, and work from home two days per week, to better balance your personal and professional life.
+Models that deliver measurable improvements in prediction accuracy and system performance
 
-Experience the freedom of working anywhere in Australia up to five days annually.
+Seamless collaboration across ML, vision, and engineering teams
 
-Give back to what matters to you with extra paid annual leave for volunteering.
+Solutions that are robust, scalable, and production-ready
 
-Put your health first with an allowance for fitness and wellbeing.
+Why Join Us
 
-Drive your development with financial support for approved training courses.
+Work on cutting-edge AI in advanced manufacturing
 
-Level up with matched funding for career coaching.
+Be part of a highly collaborative, cross-functional team
 
+Competitive salary + strong growth opportunities
 
-
-
-Interested?
-
-If you're excited about shaping the future of AI, this is where you belong! Submit your CV and cover letter telling us why you're the right fit for Elula and what makes you special!
-
-We're committed to fostering a culture of inclusivity and equality. All are welcome to apply for our roles because we truly believe that diversity is a game changer.
-
-..."
+Flexible working arrangements"
