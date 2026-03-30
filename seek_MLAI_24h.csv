@@ -1,1 +1,72 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+91241617,Data Engineer,PartsCheck,https://www.seek.com.au/job/91241617?type=standard&ref=search-standalone&origin=jobCard#sol=dd7cbc096b9f88172ffd9c3a4bcdaa7afcc1cc79,1h ago,1.0,2026-03-30T21:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Turn Data Into Decisions That Power Australia's Automotive Industry
 
+Every day, thousands of automotive repairers and parts suppliers across Australia rely on PartsCheck to connect, quote, and transact. We're the market leader in parts marketplace technology, and we're looking for a Data Engineer who wants to build the data foundations behind software that genuinely matters.
+
+This is a role for engineers who care about data done right — reliable pipelines, trustworthy reporting, and infrastructure that's ready for what comes next.
+
+The Opportunity
+
+We're at an exciting inflection point. Our proven PHP platform serves the industry today, and we're building our next-generation architecture on .NET. As our Data Engineer, you'll work across the full data lifecycle — ingestion, transformation, storage, modelling, and consumption — ensuring our data infrastructure evolves alongside the platform.
+
+This isn't a reporting-only role or a data warehouse babysitting gig. It's the best kind of data engineering challenge: building scalable, AI-ready data assets while delivering insights that drive real business and customer outcomes today.
+
+What You'll Be Doing
+
+Designing, building, and maintaining reliable data pipelines that ingest and transform data from diverse internal and external sources
+
+Owning data quality and integrity — establishing standards for completeness, accuracy, consistency, and timeliness
+
+Developing dashboards, reports, and datasets in that deliver clear, actionable insights for internal teams and external customers
+
+Building and maintaining data infrastructure that supports AI and ML use cases — feature stores, training datasets, and inference pipelines
+
+Applying software engineering rigour to data work — version control, testing, modular design, and CI/CD for pipelines
+
+Managing and optimising workloads within Snowflake, including warehouse sizing, clustering, and cost efficiency
+
+Partnering with Product, Engineering, and business stakeholders to translate data requirements into well-structured, governed models
+
+Supporting our platform migration from PHP to .NET, ensuring data integrations evolve with the application
+
+Using AI to accelerate your craft and build amazing outcomes for our customers
+
+What We're Looking For
+
+5+ years of professional experience in data engineering, analytics engineering, or closely related roles
+
+Hands-on experience with Snowflake (or similar) — data modelling, query optimisation, and platform management
+
+Strong experience building reporting solutions, including data modelling, DAX, and Power BI report design
+
+Solid software development background — .NET (C#) experience highly valued; PHP exposure a practical advantage
+
+AWS experience; you're comfortable working in cloud data environments
+
+Strong SQL skills across structured, semi-structured, and unstructured data
+
+Experience with pipeline orchestration tools (Airflow, dbt, or equivalent)
+
+Deep understanding of data modelling patterns — dimensional, Data Vault, or similar
+
+Hands-on experience applying AI and ML techniques to data engineering and analytics problems
+
+Working knowledge of data governance, lineage, and cataloguing practices
+
+Pragmatic mindset — you balance engineering rigour with delivery
+
+Must have current Australian work authorisation
+
+Why PartsCheck?
+
+Market-leading position in a stable, essential industry
+
+Genuine technical challenges without startup volatility
+
+Brisbane-based team that values collaboration over heroics
+
+Executive team with deep SaaS experience who understand engineering
+
+Opportunity to shape data strategy and AI capability during platform evolution
+
+Career growth alongside a company that's investing in its future"
