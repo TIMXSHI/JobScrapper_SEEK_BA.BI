@@ -1,5 +1,440 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91242614,Lead AI Engineer,AustralianSuper,https://www.seek.com.au/job/91242614?type=standard&ref=search-standalone&origin=jobCard#sol=a081262f56ff3e73c3e496389313d7be17f2893f,1h ago,1.0,2026-03-30T22:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
+91252658,Data Engineer,Launch Recruitment Pty Ltd,https://www.seek.com.au/job/91252658?type=standard&ref=search-standalone&origin=jobCard#sol=f95de139870d07e304472f81e969672a2591c64c,1h ago,1.0,2026-03-31T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,,"About the Role
+
+We are seeking a highly motivated and experienced Data Engineer to join a dynamic cross-functional digital team. This role will focus on designing, building, and optimising scalable data systems and pipelines to support complex digital and analytics use cases.
+
+You will play a key role in delivering high-quality, reliable, and secure data solutions across modern cloud-based architectures.
+
+Key Responsibilities
+Design, build, and maintain scalable ETL/ELT pipelines to support batch and near real-time data processing.
+Develop and optimise data pipelines on GCP, leveraging services such as Cloud Run, Dataflow, Pub/Sub, and Cloud Functions.
+Implement event-driven architectures using Pub/Sub and related services to enable real-time data ingestion and processing.
+Work with Spark for large-scale data transformation and processing.
+Orchestrate workflows using tools such as Airflow / Cloud Composer.
+Integrate data from multiple internal and third-party systems, ensuring reliability and scalability.
+Ensure high data quality through validation, monitoring, and testing frameworks.
+Implement CI/CD pipelines, infrastructure-as-code, and automated deployment practices.
+Apply data governance, security, and compliance best practices, including IAM and secrets management.
+Collaborate with cross-functional teams (engineering, product, analytics) to deliver end-to-end data solutions.
+Skills & Experience
+3–5+ years of experience in data engineering
+Strong proficiency in Python and SQL for data processing and transformation.
+Hands-on experience building ETL/ELT pipelines in cloud environments.
+Experience with GCP services (Cloud Run, Dataflow, BigQuery, Pub/Sub)
+Strong experience with Spark for distributed data processing.
+Experience with workflow orchestration tools (e.g. Airflow / Cloud Composer).
+Solid understanding of data storage systems 
+Familiarity with DevOps and security practices
+Experience designing event-driven and microservices-based architectures.
+Strong communication skills, with the ability to work with both technical and non-technical stakeholders.
+This is a Sydney-based hybrid role, and candidate must have full working rights."
+91252072,Power Platform Developer,Metro Trains Melbourne,https://www.seek.com.au/job/91252072?type=standard&ref=search-standalone&origin=jobCard#sol=cc1c5745318bb2ed6535a9ad0cc24a39b2093f65,1h ago,1.0,2026-03-31T04:00:00+00:00,"Docklands, Melbourne VIC",Developers/Programmers (Information & Communication Technology),Full time,,"Melbourne is Australia's fastest growing city, and public transport is vital to keeping it moving. Since 2009, Metro has proudly operated and maintained a world-class train service and delivered major transport projects that shape the future of our city. Guided by our value of Safely Always, we are one team dedicated to ensuring everyone gets home safely while helping to connect and create a better Melbourne.
+
+
+
+
+
+ABOUT THE ROLE
+
+We currently have an exciting full time permanent opportunity for a Power Platform Developer to join our OCMS (Technology) team based at 700 Collins street.
+
+In this role you will provide the capability to implement automated software solutions for Metro processes that streamline data collection, document review, and stakeholder approval processes, while also providing the outputs for intelligent, visual reporting through interactive dashboards.
+
+The role will report to the Applications Support Manager within OCMS and will work closely with the Projects Interface Manager within the projects division to provide technical expertise across all applications & workflows.
+
+KEY RESPONSIBILITIES
+
+Establish and participate in prioritisation forums with Projects Interface Manager and Applications Support Manager to successfully plan and implement new and updated solutions
+With the support of the Projects Interface Manager and Applications Support Manager, own, maintain and continuously improve all developed software solutions in accordance with Portfolio and Business requirements and agreed priority.
+Support the Project Interface Manager and Applications Support Manager to provide exceptional client support to key stakeholders within Portfolio Program teams, Finance and Commercial (F&C), Network Assets (NA) and Engineering and Assurance teams
+Perform routine and reactive maintenance activities as well as enhancements and improvement work for applications developed on Microsoft Power Platform, SharePoint / Dataverse, or other development technologies
+Support, develop and document ancillary processes associated to these applications, such as Power Automate Workflows, Data Flow Connections, API connections.
+Follow OCMS processes through all stages of development lifecycle ensuring appropriate review/approvals are obtained
+
+ABOUT YOU
+
+Relevant Engineering or Science degree or equivalent e.g. Data Science, Process Engineering or Software Engineer
+Accredited Microsoft Power Apps Developer PL-400 and functional consultant PL-200 with significant knowledge and experience in developing, maintaining and improving software solutions in both Canvas and Model driven type applications.
+Demonstrate experience in design and build of complex data models.
+Demonstrate advanced knowledge in the use of Power Automate and the integration into Power Apps.
+Demonstrate advanced Microsoft Excel and sharepoint knowledge and ability.
+Strong stakeholder engagement skills and the ability to influence positive business outcomes.
+
+WHY METRO
+
+FREE Myki card for PTV travel across Victoria
+14 weeks Paid Parental Leave (no qualifying period)
+Career progression and training opportunities
+Discounts at top brands and stores
+Diversity & Inclusion - we value unique perspectives and support initiatives like Women at Metro (over 30% of our workforce are women)
+
+Next Steps
+
+If this role resonates with your values, experience, and career growth, then please apply before the due date and be part of Melbourne's growing rail network!
+
+Applications close Friday, 3rd April 2026 at 23:59pm.
+
+Metro is committed to making reasonable adjustments to provide a positive, barrier-free recruitment process for candidates with specific access needs. Candidates who require adjustments are encouraged to declare this in their application, so that the contact person for the position can discuss your needs."
+91251943,Data Engineer,ASIC,https://www.seek.com.au/job/91251943?type=standard&ref=search-standalone&origin=jobCard#sol=2d7ed62bc2b232fe1318ba78cf7e58bdac171529,1h ago,1.0,2026-03-31T04:00:00+00:00,Melbourne VIC (Hybrid),"Database Development & Administration (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,,"A career at ASIC will broaden and deepen your already accomplished knowledge, skills and abilities. By working on cutting edge issues, you'll make a difference to our goals, Australia's economic reputation and wellbeing and your own career aspirations 
+
+ 
+
+ASIC's Data Engineering team is seeking a Data Engineer to join their team. The successful candidate will support data delivery and data infrastructure across the organisation.
+
+Sydney or Melbourne locations
+Permanent full-time position
+Salary from $97,401 to $109,171 (depending on experience) + 15.4 % superannuation
+Applications close at 11:59pm AEST, Wednesday 8 April 2026
+
+ 
+
+The team 
+
+Information Technology Services delivers a broad suite of IT capabilities and support to ASIC. We are currently driving major technology initiatives that will accelerate our transformation across key areas including virtualisation, data analytics, mobility, and cloud. The Data Engineering team underpins these efforts by providing essential services to our primary stakeholder, the Data & Analytics Office. 
+
+ 
+
+The role
+
+As a Data Engineer, you will play a pivotal role in enabling ASIC's data-driven operations. Your responsibilities will include designing and maintaining robust data ingestion pipelines, managing secure and efficient data transfers into ASIC's systems, and ensuring timely and accurate delivery of data to support core business functions. This role is critical to empowering analytics, enhancing operational decision-making, and supporting the broader technology transformation underway at ASIC.
+
+ 
+
+More specifically, you will: 
+
+Support enterprise data solutions to ensure ASIC users have access to timely, accurate and trusted information.
+Provide ongoing operational support for data infrastructure, including cloud platforms, data lakes, data marts and dashboards.
+Monitor data platform performance and recommending infrastructure enhancements to ensure performance benchmarks are consistently met.
+Implement ETL pipelines using CI/CD methodologies to enable reliable and scalable data delivery.
+Support data projects and initiatives by providing end‑to‑end data engineering services, including impact assessment, design, development, implementation and ongoing support.
+Collaborate with system owners and stakeholders to ensure data availability and working closely with business units to gather requirements and deliver effective data solutions.
+Communicate data‑related issues, risks, insights and providing regular reporting to leadership. Investigate and resolve data-related incidents promptly.
+
+ 
+
+About you
+
+The ideal candidate for this role is a motivated and technically capable Data Engineer who is eager to grow and contribute to ASIC's evolving data landscape. You'll bring hands-on experience with data pipelines, cloud platforms and ETL processes, along with a solid understanding of data infrastructure and performance monitoring. This role is ideal for someone ready to take the next step in their data engineering career while contributing to impactful data and technology transformation projects.
+
+ 
+
+In addition, you will have:
+
+Tertiary qualifications in a quantitative discipline such as Statistics, Mathematics, Information Technology, Mechatronics, or a related field.
+Familiarity with Business Intelligence solutions (e.g. SSRS, Qlik Sense) and analytics tools and languages (e.g. R, Python).
+Demonstrated knowledge of data warehousing and big data architectures, including data streaming and data virtualisation concepts.
+Strong development capability in Python and SQL.
+Demonstrated communication and interpersonal skills, with the ability to work effectively with a wide range of internal and external stakeholders and to clearly translate technical concepts for business audiences.
+Proven ability to identify, prioritise, and respond to strategic and tactical challenges and opportunities by developing and delivering appropriate solutions.
+Experience working within Agile delivery environments.
+
+ 
+
+Click ‘apply' to start your application. Applications close at 11:59pm AEST, Wednesday 8 April 2026.
+
+ 
+
+About ASIC
+
+ASIC's remit is one of the broadest of regulators across the world. ASIC regulates corporations, markets, financial services and consumer credit and monitors and promotes market integrity and consumer protection in the Australian financial system. Through our enforcement work, we hold to account those who contravene the law, working to achieve strong outcomes that address the greatest consumer and investor harms. 
+
+ASIC is an equal opportunity employer seeking people who want to make a difference. ASIC is committed to a diverse and inclusive workplace where the very best talent in Australia chooses to work. Applications from people of all ages, cultural backgrounds, abilities, LGBTIQ+ identity, and people of Aboriginal and Torres Strait Islander descent are encouraged to apply.
+
+We offer a range of employee benefits including:
+
+Attractive superannuation
+Additional leave entitlements
+50/50 hybrid work-from home model
+Flexible work arrangements
+Assistance for study and professional development
+
+ 
+
+Click here to view ASIC's salary and benefits guide.
+
+To read more about ASIC, you can visit our website or review our Corporate Plan.
+
+To work with us, you need to be an Australian citizen and be prepared to complete an ASIC Suitability and Baseline Assessment."
+91251894,Data Engineer,ASIC,https://www.seek.com.au/job/91251894?type=standard&ref=search-standalone&origin=jobCard#sol=772762ba5c7f20733a66c37d64fb0b3472069497,1h ago,1.0,2026-03-31T04:00:00+00:00,Sydney NSW (Hybrid),"Database Development & Administration (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,,"A career at ASIC will broaden and deepen your already accomplished knowledge, skills and abilities. By working on cutting edge issues, you'll make a difference to our goals, Australia's economic reputation and wellbeing and your own career aspirations 
+
+ 
+
+ASIC's Data Engineering team is seeking a Data Engineer to join their team. The successful candidate will support data delivery and data infrastructure across the organisation.
+
+ 
+
+Sydney or Melbourne locations
+Permanent full-time position
+Salary from $97,401 to $109,171 (depending on experience) + 15.4 % superannuation
+Applications close at 11:59pm AEST, Wednesday 8 April 2026
+
+ 
+
+The team 
+
+Information Technology Services delivers a broad suite of IT capabilities and support to ASIC. We are currently driving major technology initiatives that will accelerate our transformation across key areas including virtualisation, data analytics, mobility, and cloud. The Data Engineering team underpins these efforts by providing essential services to our primary stakeholder, the Data & Analytics Office. 
+
+ 
+
+The role
+
+As a Data Engineer, you will play a pivotal role in enabling ASIC's data-driven operations. Your responsibilities will include designing and maintaining robust data ingestion pipelines, managing secure and efficient data transfers into ASIC's systems, and ensuring timely and accurate delivery of data to support core business functions. This role is critical to empowering analytics, enhancing operational decision-making, and supporting the broader technology transformation underway at ASIC.
+
+ 
+
+More specifically, you will: 
+
+Support enterprise data solutions to ensure ASIC users have access to timely, accurate and trusted information.
+Provide ongoing operational support for data infrastructure, including cloud platforms, data lakes, data marts and dashboards.
+Monitor data platform performance and recommending infrastructure enhancements to ensure performance benchmarks are consistently met.
+Implement ETL pipelines using CI/CD methodologies to enable reliable and scalable data delivery.
+Support data projects and initiatives by providing end‑to‑end data engineering services, including impact assessment, design, development, implementation and ongoing support.
+Collaborate with system owners and stakeholders to ensure data availability and working closely with business units to gather requirements and deliver effective data solutions.
+Communicate data‑related issues, risks, insights and providing regular reporting to leadership. Investigate and resolve data-related incidents promptly.
+
+ 
+
+About you
+
+The ideal candidate for this role is a motivated and technically capable Data Engineer who is eager to grow and contribute to ASIC's evolving data landscape. You'll bring hands-on experience with data pipelines, cloud platforms and ETL processes, along with a solid understanding of data infrastructure and performance monitoring. This role is ideal for someone ready to take the next step in their data engineering career while contributing to impactful data and technology transformation projects.
+
+ 
+
+In addition, you will have:
+
+Tertiary qualifications in a quantitative discipline such as Statistics, Mathematics, Information Technology, Mechatronics, or a related field.
+Familiarity with Business Intelligence solutions (e.g. SSRS, Qlik Sense) and analytics tools and languages (e.g. R, Python).
+Demonstrated knowledge of data warehousing and big data architectures, including data streaming and data virtualisation concepts.
+Strong development capability in Python and SQL.
+Demonstrated communication and interpersonal skills, with the ability to work effectively with a wide range of internal and external stakeholders and to clearly translate technical concepts for business audiences.
+Proven ability to identify, prioritise, and respond to strategic and tactical challenges and opportunities by developing and delivering appropriate solutions.
+Experience working within Agile delivery environments.
+
+ 
+
+Click ‘apply' to start your application. Applications close at 11:59pm AEST, Wednesday 8 April 2026.
+
+ 
+
+About ASIC
+
+ASIC's remit is one of the broadest of regulators across the world. ASIC regulates corporations, markets, financial services and consumer credit and monitors and promotes market integrity and consumer protection in the Australian financial system. Through our enforcement work, we hold to account those who contravene the law, working to achieve strong outcomes that address the greatest consumer and investor harms. 
+
+ASIC is an equal opportunity employer seeking people who want to make a difference. ASIC is committed to a diverse and inclusive workplace where the very best talent in Australia chooses to work. Applications from people of all ages, cultural backgrounds, abilities, LGBTIQ+ identity, and people of Aboriginal and Torres Strait Islander descent are encouraged to apply.
+
+We offer a range of employee benefits including:
+
+Attractive superannuation
+Additional leave entitlements
+50/50 hybrid work-from home model
+Flexible work arrangements
+Assistance for study and professional development
+
+ 
+
+Click here to view ASIC's salary and benefits guide.
+
+To read more about ASIC, you can visit our website or review our Corporate Plan.
+
+To work with us, you need to be an Australian citizen and be prepared to complete an ASIC Suitability and Baseline Assessment."
+91248353,Cloud Infrastructure Engineer,Pacific Smiles Group,https://www.seek.com.au/job/91248353?type=standard&ref=search-standalone&origin=jobCard#sol=c20e135bfc84a1a52ac2c098acef777c75a5aa02,3h ago,3.0,2026-03-31T02:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW (Hybrid)",Engineering - Network (Information & Communication Technology),Full time,$130k - $145k p.a. base + corporate bonus scheme,"📍 East Maitland, NSW (Hybrid)
+💰 Competitive salary + benefits + career growth
+🚀 Azure | Automation | Enterprise Infrastructure | Transformation
+
+Our Opportunity
+
+We're looking for a Cloud Infrastructure Engineer to join our growing IT team and play a key role in shaping and optimising our enterprise technology environment.
+
+This is a hands-on, senior technical role where you'll design, build and continuously improve our Microsoft cloud and network infrastructure, supporting a national healthcare organisation undergoing exciting transformation.
+
+Working closely with our Head of Cyber Security & Enterprise Infrastructure, you'll help deliver scalable, secure and high-performing solutions across Azure, virtual environments, endpoints, and networking - with a strong focus on automation and modern best practices.
+
+What You'll Be Doing
+
+Cloud & Azure Infrastructure
+
+Manage and optimise Azure services including subscriptions, policies and access controls
+
+Administer Microsoft Entra ID and identity governance in a hybrid environment
+
+Design secure access frameworks in partnership with cyber security
+
+
+Virtual Desktop & Compute (AVD / VM)
+
+Manage AVD environments including host pools, session hosts and performance
+
+Oversee VM lifecycle including scaling, patching and image management
+
+Deliver reliable, high-performing virtual infrastructure across distributed sites
+
+
+Endpoint & Device Management
+
+Manage MDM environments across Windows and mobile devices
+
+Improve and automate device provisioning and enrolment
+
+Support endpoint security uplift aligned with Essential Eight
+
+
+Networking & Connectivity
+
+Support SD-WAN environments and site connectivity across national locations
+
+Contribute to ""site-in-a-box"" deployments for new and existing centres
+
+Maintain secure, zero-trust aligned network configurations
+
+
+Automation & Continuous Improvement
+
+Build PowerShell scripts to automate infrastructure and reporting
+
+Contribute to infrastructure-as-code practices (Bicep, ARM templates)
+
+Identify opportunities to streamline operations and reduce manual effort
+What You Bring
+10+ years' experience in infrastructure engineering, with strong Azure expertise
+
+Proven experience with Microsoft Entra ID, AVD, MDM/RMM and cloud platforms
+
+Strong PowerShell scripting and automation capability
+
+Experience working with enterprise networking or SD-WAN environments
+
+A security-first mindset with exposure to identity-driven and zero-trust frameworks
+
+
+Nice to have:
+
+Experience with IaC tools (Bicep, ARM)
+
+Azure certifications (AZ-104, AZ-305, AZ-140)
+
+Exposure to PKI / certificate-based authentication
+Why Join Us?
+Be part of a national organisation making a real impact on health outcomes
+
+Work in a modern, cloud-first environment with ongoing investment in technology
+
+Join a collaborative, high-performing team driving transformation
+
+Hybrid working flexibility
+
+Career growth and development opportunities
+
+
+Ready to Apply?
+
+If you're a hands-on cloud infrastructure expert who enjoys building, improving and delivering real outcomes - we'd love to hear from you.
+
+Applications close 13th April 2026"
+91246695,Maintenance Automation Engineer,Stacked Farm,https://www.seek.com.au/job/91246695?type=standard&ref=search-standalone&origin=jobCard#sol=87c82f6a4dff9982c89aefaec3a22c01a808ce3a,4h ago,4.0,2026-03-31T01:00:00+00:00,Melbourne VIC,Maintenance (Engineering),Full time,,"Please note: Only candidates with full, permanent working rights in Australia will be considered for this role
+
+Location
+
+This role will be based onsite, out of our Melbourne facility
+
+About the Role
+
+The Maintenance Automation Engineer will play a critical role in the ongoing development, optimisation, and support of Stacked Farm’s advanced automation systems. This position requires hands-on experience with industrial control systems, PLC programming, SCADA platforms (such as Ignition), IIoT technologies, and industrial networking protocols.
+
+Working as part of a fast-paced, innovative engineering team, you will contribute to the design and refinement of automation code, test system functionality, troubleshoot issues, and enhance system reliability for large-scale mission-critical operations. The ideal candidate brings both technical depth and creative problem-solving skills, with a desire to continuously learn and apply modern automation technologies to deliver scalable, efficient, and intelligent automation solutions.
+
+What you'll be doing:
+
+Design, develop, and maintain PLC-based automation code using Structured Text and efficient coding practices.
+
+Develop and implement robust control strategies for process automation using SCADA/HMI systems, particularly Ignition.
+
+Test and validate system functionality to ensure performance, stability, and safety across all operational automation platforms.
+
+Collaborate with electrical, mechanical, and software engineers to ensure seamless integration of automation systems into broader infrastructure.
+
+Troubleshoot and resolve issues in PLCs, HMIs, and industrial networks in real-time environments.
+
+Maintain clear and structured documentation for automation architecture, logic flows, code libraries, and system configurations.
+
+Support version control, testing, and continuous integration workflows across all automation codebases.
+
+Proactively monitor systems, identify improvement opportunities, and deliver enhancements for performance and efficiency.
+
+Stay up-to-date on emerging technologies, standards, and best practices in automation, control, and industrial networking.
+
+Work closely with multidisciplinary teams including software, electrical, mechanical and operations teams.
+
+Collaborate with suppliers and technology partners to implement and refine automation components.
+
+Provide technical insight during project planning and design reviews to ensure automation systems meet operational needs.
+
+Support knowledge sharing and foster a continuous learning environment within the engineering team.
+
+About You
+
+Bachelor’s Degree in Automation Engineering, Electrical Engineering, Mechatronics, Computer Engineering or a related discipline.
+
+3+ years of hands-on experience in industrial automation, PLC programming or control systems engineering.
+
+Demonstrated experience with Ignition SCADA or similar HMI/SCADA systems.
+
+Proficient in structured programming and version control tools (e.g. Git, GitHub).
+
+Exposure to IIoT concepts, architecture, and protocols is advantageous but not essential.
+
+Experience working in an agile, fast-paced, engineering environment.
+
+Excellent written and verbal communication skills.
+
+Innovative and solutions-oriented mindset with a passion for automation and technology.
+
+Strong communicator who can explain technical concepts clearly to a variety of stakeholders.
+
+Adaptable and eager to learn new tools, technologies, and frameworks.
+
+Takes ownership of outcomes and is committed to excellence in execution.
+
+Works effectively both independently and within a team."
+91243841,Security Design Engineer - Al Defensive Capabilities,Genesis IT Recruitment,https://www.seek.com.au/job/91243841?type=standard&ref=search-standalone&origin=jobCard#sol=a6b7ded366f06b34e33ae18266abc89b43b4686a,6h ago,6.0,2026-03-30T23:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Security (Information & Communication Technology),Contract/Temp,$900-$1000 per Day,"12 Months Contract
+Office Location at Docklands VIC
+Hybrid Working (2-3 days onsite)
+A leading telecommunciations company is seeking for an experienced Security Design Engineer who will be working closely with the Architecture team to design and deliver advanced security engineering capabilities.
+
+You will focus on AI-driven security, offensive-informed defence, and the development of scalable security controls. The role involves translating security requirements and documentation into high-level and low-level designs, while ensuring alignment with enterprise security architecture and regulatory frameworks.
+
+Key Responsibilities:
+
+Work closely with the Architecture team to design and implement security engineering solutions.
+Contribute to AI-driven offensive and defensive security engineering initiatives.
+Build AI-based attack simulation capabilities that emulate adversary behaviours.
+Develop defensive capabilities including behavioural analytics, anomaly detection, and predictive threat modelling.
+Convert working manuals and documentation into high-level designs (HLD) and low-level designs (LLD).
+Integrate attack simulation outputs into operational defence systems and security tooling.
+Support deployment and optimisation of defensive cybersecurity tools and platforms.
+Collaborate with penetration testers, red teams, and adversary emulation specialists.
+Convert offensive findings into engineered defensive improvements.
+Ensure alignment with enterprise security architecture and standards.
+Key Requirements:
+
+Prior experience working as a Security Design Engineer, Security Architect, or Solutions Architect.
+Strong focus on security architecture and design.
+Experience producing high-level designs (HLD) and low-level designs (LLD).
+Solid background across multiple cybersecurity domains.
+Experience deploying defensive and cybersecurity tooling.
+Knowledge of AI/ML concepts applied to security is desirable.
+Strong stakeholder engagement and cross-functional collaboration skills.
+Experience working in complex enterprise environments.
+Telecommunications industry experience preferred.
+Ability to obtain and maintain a security clearance.
+Contract Rate: $900-$1000 per Day (incl. super)
+
+
+Job Ref: 4023880
+
+TO APPLY: please click on the appropriate link."
+91242614,Lead AI Engineer,AustralianSuper,https://www.seek.com.au/job/91242614?type=standard&ref=search-standalone&origin=jobCard#sol=1073e5572555ecee2eca13559be49e93054307b3,7h ago,7.0,2026-03-30T22:00:00+00:00,Melbourne VIC (Hybrid),Funds Management (Banking & Financial Services),Full time,,"Lead AI Engineer
 
 
 
@@ -84,7 +519,7 @@ https://www.australiansuper.com/careers/candidate-privacy-notice
 
 
 Agencies please note: this vacancy is being managed directly by AustralianSuper's Talent Acquisition team. We will contact our preferred agency partners should we require additional support. Thank you."
-91241617,Data Engineer,PartsCheck,https://www.seek.com.au/job/91241617?type=standard&ref=search-standalone&origin=jobCard#sol=854645dd0e94e2220501ba7a5e0dba67e3341575,2h ago,2.0,2026-03-30T21:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Turn Data Into Decisions That Power Australia's Automotive Industry
+91241617,Data Engineer,PartsCheck,https://www.seek.com.au/job/91241617?type=standard&ref=search-standalone&origin=jobCard#sol=0ad4c8773de15c5dfe356057ae0962949e3760da,8h ago,8.0,2026-03-30T21:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Turn Data Into Decisions That Power Australia's Automotive Industry
 
 Every day, thousands of automotive repairers and parts suppliers across Australia rely on PartsCheck to connect, quote, and transact. We're the market leader in parts marketplace technology, and we're looking for a Data Engineer who wants to build the data foundations behind software that genuinely matters.
 
