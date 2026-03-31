@@ -1,5 +1,101 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91267181,"Software Engineering Manager, PDEIO Test Results",Google,https://www.seek.com.au/job/91267181?type=standard&ref=search-standalone&origin=jobCard#sol=aa557becab05edd5dfea2df535f822feda0818b2,4h ago,4.0,2026-03-31T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+91268579,Platform Security Engineer,Lendi Group,https://www.seek.com.au/job/91268579?type=standard&ref=search-standalone&origin=jobCard#sol=22e0f4985dbbaf1693d73f51e135387f2364ea0c,1h ago,1.0,2026-03-31T22:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Company Description
+
+
+Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
+
+Powered by an advanced AI proprietary platform, a national network of 1,300 brokers, 230 retail stores, a team of experienced buyer’s agents, integrated property search and conveyancing, Aussie is supporting customers at every step of their property journey to find, buy and own with more confidence than ever before. Lendi Group’s loan book is more than $100b and it was named Australia’s Aggregator of the Year for 2024.
+
+To learn more about life at Lendi Group check out our blog: https://www.lendi.com.au/inspire/category/life-at-lendi/
+
+Innovation at Our Core – We challenge the status quo and push boundaries to create better solutions, with a goal of becoming AI-native by June 2026.
+Work with the Best – Collaborate with some of the brightest minds in fintech, financial services, and strategy.
+Make an Impact – Contribute to meaningful projects that shape our business and the future of property finance.
+Grow & Evolve – Develop your skills and advance your career in a fast-moving, purpose-driven environment.
+
+About the role:
+
+The Platform Security Engineer is a valued member of our engineering team. We value evidence-backed opinions and offer the opportunity to play an integral part in shaping engineering rhythm, culture, and processes across planning, architecture and design, coding, deployment, and support.
+
+
+In an ever-changing environment, Lendi Group is leading the charge in developing industry-first technology designed to offer Australian homeowners transparency, simplicity, and convenience in their home loan experience.
+The Platform Security Engineer partners with engineering teams to evaluate planned changes, minimise security risk, and continuously improve our security posture. A key focus of the role is driving vulnerability and security findings down over time, improving security standards, and embedding secure-by-default practices across both traditional and AI-enabled systems.
+
+Please note: this role will be a 12 Month Fixed Term Contract
+
+Job Description
+
+
+Working closely with the Cyber Security team to ensure security principles are consistently applied across the engineering environment.
+Collaborating and coding with engineering teams to uplift secure development practices and reduce recurring security findings.
+Designing, building, and maintaining secure cloud and microservice solutions.
+Improving security posture through effective use of COTS products, platform controls, and network infrastructure.
+Vulnerability and Threat Management — monitoring and assessing assets including cloud infrastructure, containers, packages, APIs, and requests, with a focus on remediation and measurable risk reduction.
+Supporting the secure design and operation of AI-enabled systems, including LLM integrations, automation agents, and MCP-based architectures.
+Implementing and reviewing AI security guardrails such as access controls, data protection, prompt-injection mitigation, and output validation.
+Collaborating with cross-functional teams including engineering, operations, compliance, data, and AI platform teams.
+Contributing as an individual contributor within a cross-functional DevOps / SecOps team.
+Build or integrate services to improve security and compliance
+
+Qualifications
+
+
+Strong understanding of networking, infrastructure, and applications from a DevOps perspective with a security focus.
+Hands-on experience implementing and maintaining security controls across cloud environments (particularly AWS) and access management solutions (e.g. Auth0).
+Experience with security logging, monitoring, and vulnerability assessment, with a demonstrated ability to drive findings down and improve baseline security standards.
+Passion for secure coding practices and identifying common implementation and operational security risks.
+
+Desirable Experience
+
+AWS technologies such as CloudFormation, Terraform, IAM, WAF, Node.js and/or TypeScript.
+Docker, containerised environments, serverless architectures, and Kubernetes.
+Event-driven systems.
+Securing AI platforms, including LLM integrations, MCP implementations, AI guardrails, and automation/build agents.
+
+Additional Information
+
+
+Lendi Group teams operate across Australia and the Philippines. Bringing together diverse expertise, innovative technology and a customer-first approach, our teams work seamlessly to simplify the property journey, helping Australians find, buy and own property with confidence.
+
+We support our people in a variety of ways, but a few of the benefits that our people rave about include:
+
+A vibrant, relaxed, yet professional culture.
+Hybrid working arrangement designed to support work-life balance, while fostering meaningful connection and collaboration.
+A holistic wellbeing programs offering 24/7 support, including medical, mental health, and financial wellbeing services to enable our workforce to thrive at home and work.
+Generous paid Parental Leave: we celebrate our growing Lendi Group family with 18-26 weeks leave for primary carers and up to 4 weeks for secondary carers.
+An additional week’s Loyalty Leave each year after reaching 3 years’ service.
+Wellness initiatives with a strong focus on psychological safety.
+
+We’re committed to fostering a diverse and inclusive community at Lendi Group. We believe that a team reflecting the world around us leads to greater innovation, stronger collaboration, and a more engaging workplace.
+
+Our culture is guided by our 3 core values: We Are Stronger United; Act Like You Own It; and Keep Home Loans Human. Our values are part of our core DNA that helps Lendi Group to attract, engage and evolve the right talent and build best-in-class products.
+
+This is an opportunity to shape the future of a fast-growing, purpose-driven company that’s transforming the homeownership journey.
+
+Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
+
+#lendigroup #LI-AMH1 #LI-hybrid"
+91268193,Data Engineering Professionals,Australian Secret Intelligence Service,https://www.seek.com.au/job/91268193?type=standard&ref=search-standalone&origin=jobCard#sol=7d46f32b09c9506894a670483180878a30f924a3,1h ago,1.0,2026-03-31T22:00:00+00:00,Canberra ACT,"Engineering - Software (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,Competitive salary with a 15.4% superannuation,"Overview:
+
+Are you keen to design and develop world-class capabilities, turning data into knowledge and operational outcomes? Are you passionate about building solutions to allow data to tell its story? ASIS offers an opportunity to achieve these goals in an uncompromisingly unique environment. As a Data Professional in ASIS, you will have the chance to actively enable our operational teams to make the best use of ASIS’s unique data assets.
+
+ASIS leverages the wide world of open-source software and supplements it with our own development to deliver the bespoke tools required for the ASIS mission. Among our core technologies are Python, Scala, Java, TypeScript, and JavaScript. Our stack includes Spring, Vue, PyTorch, Tensorflow, Apache Spark, Accumulo, Hadoop, NiFi, Solr, Ansible and Git. We leverage structured and unstructured data, including geospatial and multilingual datasets. Ideal candidates will be extraordinarily innovative, self-motivated and keen to use these toolsets to craft new systems that are simply not found in any other organisation.
+
+If this sounds like an environment you could thrive in, then apply for one of these unique positions.
+
+Specialisations
+
+We have a number of positions available including:
+
+Software Engineers at L4 to EL1
+Data Engineers at L 6 to EL1
+Data Technicians at L4 to Level 6
+System Engineers at L4 to EL1
+DevOps Engineers at L4 to EL1
+Data Centre Facilities Manager at EL1 to EL2 (Canberra only)
+For more detail pleas visit the ASIS website (Current Vacancies) and review the selection document under the Talent Register - Data Engineering Professionals L4 - EL2"
+91267181,"Software Engineering Manager, PDEIO Test Results",Google,https://www.seek.com.au/job/91267181?type=standard&ref=search-standalone&origin=jobCard#sol=3d9cb53808f2a0aa950d5abdf6a24adee129b67a,5h ago,5.0,2026-03-31T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -36,7 +132,7 @@ Navigate ambiguous and complex problem spaces.
 
 Work with evolving and changing technology.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-91265274,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/91265274?type=standard&ref=search-standalone&origin=jobCard#sol=65c9343ea9d6b6ba6ed25ff7c19615781c5c5430,8h ago,8.0,2026-03-31T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Consultants (Information & Communication Technology)
+91265274,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/91265274?type=standard&ref=search-standalone&origin=jobCard#sol=fb83ab2bdf161031edfe3d187e2b6291e1dcaff4,9h ago,9.0,2026-03-31T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Consultants (Information & Communication Technology)
 Government - State (Government & Defence)",Contract/Temp,"$140,115 - $150,371 per annum + super","What you'll do  
 
 Manage the design, planning and implementation of technical solutions, ensuring alignment with best practice IM/ICT design and delivery frameworks.
