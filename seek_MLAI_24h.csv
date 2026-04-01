@@ -1,101 +1,150 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91268579,Platform Security Engineer,Lendi Group,https://www.seek.com.au/job/91268579?type=standard&ref=search-standalone&origin=jobCard#sol=22e0f4985dbbaf1693d73f51e135387f2364ea0c,1h ago,1.0,2026-03-31T22:00:00+00:00,Sydney NSW (Hybrid),Security (Information & Communication Technology),Full time,,"Company Description
+91275083,Principal Consulting AI / Data Engineer,DyFlex Solutions,https://www.seek.com.au/job/91275083?type=standard&ref=search-standalone&origin=jobCard#sol=ff0dc910f7f4eba41fb9659c4e78aa20f94311df,1h ago,1.0,2026-04-01T02:00:00+00:00,Sydney NSW,Analysis & Reporting (Banking & Financial Services),Full time,,"Principal Consulting AI / Data Engineer
+
+DyFlex Solutions is an established SAP Platinum Partner with offices across Australia and New Zealand. We are recognised as the local leader in SAP expertise, awarded many times as the best performing partner in multiple categories in the last few years. We deliver fit-for-purpose SAP solutions, with services delivering greenfield, upgrade and transformative implementations. We also deliver the project management, change management and ongoing support services to enable our staff to deliver excellence for our customers.
+
+As the leader in SAP, Dyflex is now establishing a team to become the leader in enabling business centric AI & Data solutions. With SAP integrating Datasphere as an extension to Data Lakes such as Databricks, Snowflake, BigQuery and Microsoft Fabric, we are seeking pragmatic thought leaders to help shape the shift of AI & Data engineering into the era of agentic/context engineering.
+
+About the Role:
+As a Principal Consulting AI / Data Engineer, you will design, build, and optimise enterprise-scale data and AI solutions, while also leading engagements with executive stakeholders. This role requires both technical depth and consulting acumen: you will be expected to explain complex technical concepts clearly to non-technical directors, C-suite executives, and senior customer stakeholders. You’ll play a critical role in shaping DyFlex’s growing Data and AI practice, delivering innovative, business-aligned solutions that drive measurable outcomes.
+
+Your tasks and responsibilities:
+
+Design, build, and maintain scalable data and AI solutions using Databricks, cloud platforms, and modern frameworks
+Lead solution architecture discussions with clients, ensuring alignment of technical delivery with business strategy
+Present to and influence executive-level stakeholders, including boards, C-suite, and senior directors
+Translate highly technical solutions into clear business value propositions for non-technical audiences
+Mentor and guide teams of engineers and consultants to deliver high-quality solutions
+Champion best practices across data engineering, MLOps, and cloud delivery
+Build DyFlex’s reputation as a trusted partner in Data & AI through thought leadership and client advocacy
+
+Your qualifications and experience:
+
+Proven expertise in delivering enterprise-grade data engineering and AI solutions in production environments for corporate, enterprise or public sector organisations
+Strong proficiency in Python and SQL, plus experience with Spark, Airflow, dbt, Kafka, or Flink
+Experience with cloud platforms (AWS, Azure, or GCP) and AI/Data platforms including Databricks, Snowflake, Google BigQuery, Microsoft Fabric
+Ability to confidently communicate and present at C-suite level, simplifying technical concepts into business impact
+Track record of engaging senior executives and influencing strategic decisions
+Strong consulting and stakeholder management skills with client-facing experience
+Experience with agentic coding tools such as Claude Code, Cortex in personal projects or commercial context, highly regarded
+Background in MLOps, ML pipelines, or AI solution delivery highly regarded
+Degree in Computer Science, Engineering, Data Science, Mathematics, or a related field
+
+What we offer:
+
+Work with SAP’s latest technologies on cloud as S/4HANA, BTP and Joule, plus Databricks, ML/AI tools and cloud platforms
+A flexible and supportive work environment including work from home
+Competitive remuneration and benefits including novated lease, birthday leave, salary packaging, wellbeing programme, additional purchased leave, and company-provided laptop
+Comprehensive training budget and paid certifications (Databricks, SAP, cloud platforms)
+Structured career advancement pathways with opportunities to lead large-scale client programs
+Exposure to diverse industries and client environments, including executive-level engagement
+Join a renowned organisation delivering projects to some of Australia’s leading enterprises
+
+DyFlex is committed to providing a safe, flexible and respectful environment for staff free from all forms of discrimination, bullying and harassment. We are proud of our diverse and inclusive team as only together we can continually improve ourselves and achieve best outcomes for our customers– we are the region's leading SAP Platinum Partner!
+
+Please note that we can’t offer sponsorship for this role and we expect a clear statement about your legal rights in Australia, especially if you are applying from overseas."
+91269232,Software Developer,MVSI OnBoard,https://www.seek.com.au/job/91269232?type=standard&ref=search-standalone&origin=jobCard#sol=31bb51ce6d11810ce41f233a951b11899a67a413,4h ago,4.0,2026-03-31T23:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Welcome to MVSI!
+
+We are a dynamic team of 70+ professionals, spread across the Globe with offices in Australia, EMEA, the US and the Philippines. Our innovative SaaS product is trusted by banks, Fintech’s, and crypto services worldwide to manage their AML/KYC Compliance requirements. We have always harnessed the power of cutting-edge technology and are currently exploring the exciting realm of LLM (think ChatGPT) to further elevate our offerings. Our company culture is built on a foundation of support and commitment to career development. 
+
+We truly value our people and invite you to join us to experience all that we have to offer!
+
+Why Apply?
+
+Get an awesome career! Ours is a specialised industry, and experience is in short supply. We employ people from all walks of life and train them to be certified professionals over time. This is a fabulous opportunity to find a new direction, build transferable skills, and enjoy a profession where every day is interesting, and you'll want to come to work.
+
+Job Summary
+
+Our Stack: Material UI, NodeJS, React, MongoDB.
+
+Design, build, and maintain well-architected, production-grade systems aligned with MVSI engineering standards
+
+Develop and maintain scalable MERN-based services with a strong focus on quality, performance, and test coverage
+
+Improve system reliability, security, resilience, and cost efficiency across the platform
+
+Decompose and modernise legacy or monolithic systems into scalable microservices
+
+Collaborate with stakeholders to translate business requirements into robust technical solutions
+
+Participate in shared operational support and contribute to production stability and incident resolution
+
+Champion continuous improvement, engineering best practices, and automation
+
+Learn, grow, and help raise the engineering bar across the team
+
+Technical Skills
+
+5+ years of commercial software development experience
+
+5+ years of TypeScript / JavaScript development
+
+Extensive experience with the MERN stack:
+
+MongoDB (or other NoSQL databases, or Postgresql etc)
+
+Node.js
+
+React.js
+
+Jest or equivalent testing frameworks
+
+Proven experience designing and building RESTful APIs with strong security and integration practices
+
+Demonstrated ability to decompose monoliths into microservices
+
+Strong understanding of secure coding practices and application security
+
+A passion for clean, maintainable, testable code and collaborative development
+
+Experience using AI-assisted development tools to improve productivity, quality, and innovation
+
+Desirable (Nice to Have)
+
+Site Reliability Engineering (SRE) experience, including:
+
+-          Reliability engineering practices
+
+-          Incident management and post-incident reviews
+
+-          SLIs, SLOs, and error budgets
+
+Experience operating high-availability, customer-facing SaaS platforms·Exposure to performance engineering and cost optimisation in AWS
 
 
-Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. It operates Lendi - Australia’s original and #1 digital mortgage brand - and the iconic Aussie franchise.
+Personal Skills:
 
-Powered by an advanced AI proprietary platform, a national network of 1,300 brokers, 230 retail stores, a team of experienced buyer’s agents, integrated property search and conveyancing, Aussie is supporting customers at every step of their property journey to find, buy and own with more confidence than ever before. Lendi Group’s loan book is more than $100b and it was named Australia’s Aggregator of the Year for 2024.
+High ownership mindset with strong accountability and initiative
 
-To learn more about life at Lendi Group check out our blog: https://www.lendi.com.au/inspire/category/life-at-lendi/
+Growth-oriented, adaptable, and open to feedback
 
-Innovation at Our Core – We challenge the status quo and push boundaries to create better solutions, with a goal of becoming AI-native by June 2026.
-Work with the Best – Collaborate with some of the brightest minds in fintech, financial services, and strategy.
-Make an Impact – Contribute to meaningful projects that shape our business and the future of property finance.
-Grow & Evolve – Develop your skills and advance your career in a fast-moving, purpose-driven environment.
+Customer-focused, with a clear understanding of business and user impact
 
-About the role:
+Confident communicator who collaborates effectively with technical and non-technical stakeholders
 
-The Platform Security Engineer is a valued member of our engineering team. We value evidence-backed opinions and offer the opportunity to play an integral part in shaping engineering rhythm, culture, and processes across planning, architecture and design, coding, deployment, and support.
+Strong analytical thinking with a bias for action and outcomes
 
+Willingness to mentor others and share knowledge
 
-In an ever-changing environment, Lendi Group is leading the charge in developing industry-first technology designed to offer Australian homeowners transparency, simplicity, and convenience in their home loan experience.
-The Platform Security Engineer partners with engineering teams to evaluate planned changes, minimise security risk, and continuously improve our security posture. A key focus of the role is driving vulnerability and security findings down over time, improving security standards, and embedding secure-by-default practices across both traditional and AI-enabled systems.
-
-Please note: this role will be a 12 Month Fixed Term Contract
-
-Job Description
+Organised, pragmatic, and proactive in improving team productivity and engineering standards
 
 
-Working closely with the Cyber Security team to ensure security principles are consistently applied across the engineering environment.
-Collaborating and coding with engineering teams to uplift secure development practices and reduce recurring security findings.
-Designing, building, and maintaining secure cloud and microservice solutions.
-Improving security posture through effective use of COTS products, platform controls, and network infrastructure.
-Vulnerability and Threat Management — monitoring and assessing assets including cloud infrastructure, containers, packages, APIs, and requests, with a focus on remediation and measurable risk reduction.
-Supporting the secure design and operation of AI-enabled systems, including LLM integrations, automation agents, and MCP-based architectures.
-Implementing and reviewing AI security guardrails such as access controls, data protection, prompt-injection mitigation, and output validation.
-Collaborating with cross-functional teams including engineering, operations, compliance, data, and AI platform teams.
-Contributing as an individual contributor within a cross-functional DevOps / SecOps team.
-Build or integrate services to improve security and compliance
-
-Qualifications
 
 
-Strong understanding of networking, infrastructure, and applications from a DevOps perspective with a security focus.
-Hands-on experience implementing and maintaining security controls across cloud environments (particularly AWS) and access management solutions (e.g. Auth0).
-Experience with security logging, monitoring, and vulnerability assessment, with a demonstrated ability to drive findings down and improve baseline security standards.
-Passion for secure coding practices and identifying common implementation and operational security risks.
+Why Join MVSI
 
-Desirable Experience
+Be part of a mission-driven team simplifying compliance and risk management for global businesses.
 
-AWS technologies such as CloudFormation, Terraform, IAM, WAF, Node.js and/or TypeScript.
-Docker, containerised environments, serverless architectures, and Kubernetes.
-Event-driven systems.
-Securing AI platforms, including LLM integrations, MCP implementations, AI guardrails, and automation/build agents.
+Work on a modern SaaS product with real impact in fintech/regtech.
 
-Additional Information
+Flexible remote or hybrid work options.
 
+A culture that values curiosity, quality, and teamwork.
 
-Lendi Group teams operate across Australia and the Philippines. Bringing together diverse expertise, innovative technology and a customer-first approach, our teams work seamlessly to simplify the property journey, helping Australians find, buy and own property with confidence.
+Competitive salary, equity options, and professional growth opportunities
 
-We support our people in a variety of ways, but a few of the benefits that our people rave about include:
-
-A vibrant, relaxed, yet professional culture.
-Hybrid working arrangement designed to support work-life balance, while fostering meaningful connection and collaboration.
-A holistic wellbeing programs offering 24/7 support, including medical, mental health, and financial wellbeing services to enable our workforce to thrive at home and work.
-Generous paid Parental Leave: we celebrate our growing Lendi Group family with 18-26 weeks leave for primary carers and up to 4 weeks for secondary carers.
-An additional week’s Loyalty Leave each year after reaching 3 years’ service.
-Wellness initiatives with a strong focus on psychological safety.
-
-We’re committed to fostering a diverse and inclusive community at Lendi Group. We believe that a team reflecting the world around us leads to greater innovation, stronger collaboration, and a more engaging workplace.
-
-Our culture is guided by our 3 core values: We Are Stronger United; Act Like You Own It; and Keep Home Loans Human. Our values are part of our core DNA that helps Lendi Group to attract, engage and evolve the right talent and build best-in-class products.
-
-This is an opportunity to shape the future of a fast-growing, purpose-driven company that’s transforming the homeownership journey.
-
-Ready to contribute to Lendi Group’s next chapter? Apply now and be part of something big!
-
-#lendigroup #LI-AMH1 #LI-hybrid"
-91268193,Data Engineering Professionals,Australian Secret Intelligence Service,https://www.seek.com.au/job/91268193?type=standard&ref=search-standalone&origin=jobCard#sol=7d46f32b09c9506894a670483180878a30f924a3,1h ago,1.0,2026-03-31T22:00:00+00:00,Canberra ACT,"Engineering - Software (Information & Communication Technology)
-Government - Federal (Government & Defence)",Full time,Competitive salary with a 15.4% superannuation,"Overview:
-
-Are you keen to design and develop world-class capabilities, turning data into knowledge and operational outcomes? Are you passionate about building solutions to allow data to tell its story? ASIS offers an opportunity to achieve these goals in an uncompromisingly unique environment. As a Data Professional in ASIS, you will have the chance to actively enable our operational teams to make the best use of ASIS’s unique data assets.
-
-ASIS leverages the wide world of open-source software and supplements it with our own development to deliver the bespoke tools required for the ASIS mission. Among our core technologies are Python, Scala, Java, TypeScript, and JavaScript. Our stack includes Spring, Vue, PyTorch, Tensorflow, Apache Spark, Accumulo, Hadoop, NiFi, Solr, Ansible and Git. We leverage structured and unstructured data, including geospatial and multilingual datasets. Ideal candidates will be extraordinarily innovative, self-motivated and keen to use these toolsets to craft new systems that are simply not found in any other organisation.
-
-If this sounds like an environment you could thrive in, then apply for one of these unique positions.
-
-Specialisations
-
-We have a number of positions available including:
-
-Software Engineers at L4 to EL1
-Data Engineers at L 6 to EL1
-Data Technicians at L4 to Level 6
-System Engineers at L4 to EL1
-DevOps Engineers at L4 to EL1
-Data Centre Facilities Manager at EL1 to EL2 (Canberra only)
-For more detail pleas visit the ASIS website (Current Vacancies) and review the selection document under the Talent Register - Data Engineering Professionals L4 - EL2"
-91267181,"Software Engineering Manager, PDEIO Test Results",Google,https://www.seek.com.au/job/91267181?type=standard&ref=search-standalone&origin=jobCard#sol=3d9cb53808f2a0aa950d5abdf6a24adee129b67a,5h ago,5.0,2026-03-31T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+And the little things - Drinks, snacks, flex time, birthdays off, and much much more."
+91267181,"Software Engineering Manager, PDEIO Test Results",Google,https://www.seek.com.au/job/91267181?type=standard&ref=search-standalone&origin=jobCard#sol=0e70b9a98b9fde58ef18fccdb69350d3c29d37f3,9h ago,9.0,2026-03-31T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -132,49 +181,3 @@ Navigate ambiguous and complex problem spaces.
 
 Work with evolving and changing technology.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-91265274,Principal Technical Consultant,Department of Health - Queensland,https://www.seek.com.au/job/91265274?type=standard&ref=search-standalone&origin=jobCard#sol=fb83ab2bdf161031edfe3d187e2b6291e1dcaff4,9h ago,9.0,2026-03-31T14:00:00+00:00,"Fortitude Valley, Brisbane QLD","Consultants (Information & Communication Technology)
-Government - State (Government & Defence)",Contract/Temp,"$140,115 - $150,371 per annum + super","What you'll do  
-
-Manage the design, planning and implementation of technical solutions, ensuring alignment with best practice IM/ICT design and delivery frameworks.
-Specifies and designs complex systems and recommends appropriate design standards, methods and tools, consistent with agreed enterprise and solution architectures and ensures effective application.
-Maintains an in-depth knowledge of technical specialisms and provides expert advice regarding Identity and Access application.
-Automating User Lifecycle Processes: Implementing solutions for user provisioning, modification, and deprovisioning to streamline identity workflows 
-Ensuring Compliance: Maintaining alignment with organisational policies, security standards, and audit requirements 
-Enterprise Integration: Designing and executing integrations between IAM systems and enterprise applications to support seamless access and data flow 
-System Customization & Maintenance: Tailoring NetIQ IAM components to meet evolving business needs and ensuring ongoing system stability and performance 
-This position demands a strong understanding of identity governance, access control, and enterprise architecture, along with the ability to collaborate across technical and business teams to deliver secure, scalable solutions. 
-Manage the development, publication, implementation and compliance of all program/project(s) deliverables and related standards and procedures at an enterprise level.
-
-About you  
-
-We are searching for someone who has:
-
-Experience in the design, publication, implementation, compliance and delivery of technical solutions in enterprise systems to industry best practice frameworks for large scale, complex IM/ICT program/project(s) with experience in some or all of the following hardware software: NetIQ Identity Manager driver development, Virtual Infrastructure, Windows, Unix and Linux Server Operating Environments, Cloud and Directory Services – Entra/AzureAD, eDirectory and ADFS, ServiceNow integration and PowerShell Scripting, preferably in the healthcare industry.  (SFIA Skill: ITMG: Level 5, HSIN: Level 4)
-Experience designing systems and providing expert knowledge in relevant design standards, techniques and methods and tools for large scale complex organisations. (SFIA Skill: DESN: Level 4, METL: 5)
-Demonstrated experience in the assessment, analysis, development, documentation and implementation planning of changes for large complex IM/ICT program/project(s). (SFIA Skill: CHMG: Level 4)
-
-Why work with us?  
-
-Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing. 
-
-Competitive salaries 
-
-12.75% superannuation  
-17.5% leave loading 
-
-Employee wellbeing & development 
-
-Access to 24/7 confidential employee support providers and counsellors including for immediate family members 
-Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave. 
-Access to a variety of programs and initiatives to support training and career growth.  
-Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development. 
-
-Our commitment to equity, diversity and inclusion  
-
-At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.  
-
-Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions.  
-
-Ready to apply? 
-
-For further information on how to apply please review the attached Role Description."
