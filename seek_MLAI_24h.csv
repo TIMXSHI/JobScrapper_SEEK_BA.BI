@@ -1,5 +1,582 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91295324,Principal Data Engineer,Australian Communications and Media Authority,https://www.seek.com.au/job/91295324?type=standard&ref=search-standalone&origin=jobCard#sol=6c1cff88d1a274a69c37a1e5a2816b05e528bf82,1h ago,1.0,2026-04-01T22:00:00+00:00,Canberra ACT,"Engineering - Software (Information & Communication Technology)
+91300177,Electronics Design Engineer (Power + Interface) - Contract,Australia Wide Engineering Recruitment,https://www.seek.com.au/job/91300177?type=standard&ref=search-standalone&origin=jobCard#sol=5a17cb51d805d5c39b8761aaf70d88493bbb0e20,1h ago,1.0,2026-04-02T01:00:00+00:00,Melbourne VIC (Remote),Electrical/Electronic Engineering (Engineering),Contract/Temp,$85-120 per hour plus super,"Design a MIL-STD-461 power and interface board for vehicle systems in this high-impact, remote-friendly contract role.
+
+Opportunity to work on advanced defence-grade vehicle systems and the BlueSDR90-UL platform.
+Flexible work arrangements with the option for fully remote work from anywhere in Australia.
+High-level technical autonomy in designing ruggedised power electronics for harsh environments.
+Company
+
+This leading engineering firm specialises in developing high-performance electronic solutions for the defence and automotive sectors.
+
+Who You Are
+
+At least 5 years of experience in electronics design with a strong background in DC-DC power and mixed-signal interfaces.
+Proven expertise in MIL-STD-461 or equivalent EMI/EMC standards for ruggedised environments.
+Proficiency in schematic capture and PCB layout for complex, high-reliability power systems.
+Must hold a Bachelor of Engineering in Electronics or a related field and be an Australian Citizen.
+What You Will Be Doing
+
+Designing and developing MIL-STD-461 compliant power supply and interface boards for vehicle-mounted systems.
+Integrating Ethernet switch functionality, RS232 drivers, and diagnostic LEDs into hardware designs.
+Managing component selection, derating, and filtering for stable power delivery in harsh conditions.
+Supporting prototype bring-up, validation, and the creation of compliance-ready design documentation.
+We request that candidates have full Australian working rights."
+91300075,Robotic Vision Engineer,Stacked Farm,https://www.seek.com.au/job/91300075?type=standard&ref=search-standalone&origin=jobCard#sol=6fcc74345dcc2715d30f6739c7cd88ae73e231a1,1h ago,1.0,2026-04-02T01:00:00+00:00,"Arundel, Gold Coast QLD",Engineering - Software (Information & Communication Technology),Full time,,"Please note: Only candidates with full, permanent working rights in Australia will be considered for this position.
+
+About the Role
+
+We're looking for a Robotic Vision Engineer to join the Software & AI team at Stacked Farm. You'll build the intelligent vision systems that sit at the heart of how our farm operates – from automating harvests to monitoring crop health in real time. This role involves working with real robots, cameras, and industrial systems in a production environment, so candidates should be comfortable working across software, hardware, and machine learning systems.
+
+This is a hands-on role where you'll own problems end-to-end, work across a tight-knit multidisciplinary team, and ship things that matter. If you're excited by the intersection of computer vision, robotics, and agriculture – and want your work to have a real-world impact – this is for you.
+
+What You'll Do
+
+Design, build, and deploy ML and computer vision pipelines from prototype to production in a live farm environment
+
+Develop and tune algorithms for plant detection, growth tracking, yield estimation, quality assessment, and anomaly detection
+
+Work with multi-sensor data (RGB, depth, hyperspectral, environmental) to power crop intelligence and automation
+
+Build scalable data infrastructure for high-volume image and sensor ingestion, labelling, and retrieval
+
+Integrate vision systems into robotic platforms for harvesting, inspection, and autonomous operations
+
+Work closely with software engineers, robotics engineers, agronomists, and ops teams to deliver real automation outcomes
+
+Spot and act on opportunities to improve performance, scalability, and reliability across our AI stack
+
+Stay close to emerging CV and AI research, and translate the useful stuff into practical farm applications
+
+Who You Are
+
+You get things done – you're comfortable in fast, iterative cycles and know how to prioritise
+
+You solve hard problems in messy, real-world conditions (not just in notebooks)
+
+You care about data quality, model accuracy, and building things that don't fall over
+
+You can explain what you're building to an agronomist just as clearly as to another engineer
+
+You're genuinely curious about ag-tech, sustainability, and what AI can do in the physical world
+
+What You'll Bring
+
+5+ years in computer vision, machine learning, or robotics
+
+Solid experience deploying ML/CV models to production – ideally real-time or edge environments
+
+Strong Python skills and hands-on experience with PyTorch, TensorFlow, or OpenCV
+
+Experience with data pipelines, cloud infrastructure, or embedded/robotic systems is a plus
+
+Experience with C++, Linux, and deploying computer vision systems integrated with  industrial PCs is highly desirable. Experience working with industrial cameras, or automation environments is a strong plus.
+
+A degree in Computer Science, Robotics, Computer Vision, or similar (Master's is a bonus, not a dealbreaker)"
+91300015,Electronics Design Engineer (Power + Interface) - Contract,Australia Wide Engineering Recruitment,https://www.seek.com.au/job/91300015?type=standard&ref=search-standalone&origin=jobCard#sol=fd57641ea2687400aaec733551478d3e77a96bcf,1h ago,1.0,2026-04-02T01:00:00+00:00,"Mawson Lakes, Adelaide SA (Remote)",Electrical/Electronic Engineering (Engineering),Contract/Temp,$85-120 per hour plus super,"Design a MIL-STD-461 power and interface board for vehicle systems in this high-impact, remote-friendly contract role.
+
+Opportunity to work on advanced defence-grade vehicle systems and the BlueSDR90-UL platform.
+Flexible work arrangements with the option for fully remote work from anywhere in Australia.
+High-level technical autonomy in designing ruggedised power electronics for harsh environments.
+Company
+
+This leading engineering firm specialises in developing high-performance electronic solutions for the defence and automotive sectors.
+
+Who You Are
+
+At least 5 years of experience in electronics design with a strong background in DC-DC power and mixed-signal interfaces.
+Proven expertise in MIL-STD-461 or equivalent EMI/EMC standards for ruggedised environments.
+Proficiency in schematic capture and PCB layout for complex, high-reliability power systems.
+Must hold a Bachelor of Engineering in Electronics or a related field and be an Australian Citizen.
+What You Will Be Doing
+
+Designing and developing MIL-STD-461 compliant power supply and interface boards for vehicle-mounted systems.
+Integrating Ethernet switch functionality, RS232 drivers, and diagnostic LEDs into hardware designs.
+Managing component selection, derating, and filtering for stable power delivery in harsh conditions.
+Supporting prototype bring-up, validation, and the creation of compliance-ready design documentation.
+We request that candidates have full Australian working rights."
+91299599,HiL dSPAVE Integration Lab Validation Engineer (Mining OT Vendor),Task Recruitment,https://www.seek.com.au/job/91299599?type=standard&ref=search-standalone&origin=jobCard#sol=1c89e7944ab5a8fec7ebab16434ce8dba9c1d6f3,1h ago,1.0,2026-04-02T01:00:00+00:00,"Melbourne Airport, Melbourne VIC",Engineering - Software (Information & Communication Technology),Contract/Temp,,"A global leader of mining equipment and mining operational technologies has a challenging and rewarding contract HiL dSPACE Integration Lab Validation Engineer role. You'll join their Global Validation team and play a crucial role in delivering high-quality Mining Operation Technology for underground mines. You'll work with cutting-edge technology that enables autonomous machine operations, production recording management and monitoring in underground mining applications.
+
+The position offers continuous learning opportunities in innovative technology, chances to mentor team members and the ability to expand your professional network in a dynamic industry.
+
+Key Responsibilities:
+
+Collaborate with the Underground Technology Global Validation Team & stakeholders on schedule, process & quality goals
+Develop test plans for Model in the Loop system validation of software releases & new features
+Maintain & expand Test Plan & Test Case libraries
+Execute Test Cases including operation of simulated underground mining machines & autonomy systems
+Identify & analyse software & system issues, assigning corrective action tasks & developing emergency containment when necessary
+Partner with subsystem teams to implement interim & permanent solutions
+Document, track & manage issues
+Install & validate on/off machine hardware systems in lab environments
+Support on-machine validation of technology products at the Proving Ground in Tasmania
+Troubleshoot software & comms issues on machines
+Collect data using development tools for offline analysis
+Contribute to system requirements definition for functionality & features
+Qualifications
+
+Required:
+
+Bachelor’s degree (or equivalent experience) in an accredited Engineering or Computer Science curriculum
+3+ years of relevant work experience
+Strong analytical skills
+Hardware in the Loop system or Model in the Loop validation experience using dSPACE
+Desired:
+
+Good communication, interpersonal and collaboration skills.
+Experience with Linux
+Networking and radio communication experience
+Experience with on-machine validation or systems (can be gained on the job)
+Experience with Caterpillar development tools (can be gained on the job)
+Experience of datalink analysis
+Join the Team
+
+Be part of a forward-thinking team that's shaping the future of underground mining technology.
+
+The initial duration is 12 months and but the role will be on-going for strong performers.
+
+The role is based at Tullamarine and you'll be required to work in the office 5 days per week. This organisation offers flexible work hours.
+
+You must possess Australian/NZ citizenship or Australian PR to be considered for this role.
+
+For further details, contact Fortunato (Forty) Galluzzo on 043 870 9417 or alternately email on forty@taskgroup.com.au."
+91299107,Cyber Detection & Automation Engineer,Newcastle Greater Mutual Group,https://www.seek.com.au/job/91299107?type=standard&ref=search-standalone&origin=jobCard#sol=0e90829682c2d2c64be19dfd877be401c08c18b8,1h ago,1.0,2026-04-02T01:00:00+00:00,"Gosford, Gosford & Central Coast NSW (Hybrid)",Security (Information & Communication Technology),Full time,,"Purpose of the role
+
+We’re building a next‑generation, automation‑first Security Operations Centre, and this role is central to making that real.
+
+As a Cyber Detection & Automation Engineer, you’ll be hands‑on designing, building and tuning detection rules and automated response playbooks that improve how threats are identified and handled. This role focuses on doing the work — engineering high‑quality detections, reducing noise, and removing manual effort from day‑to‑day security operations.
+
+You’ll work closely with senior engineers and analysts, contributing directly to a SOC capability that’s being built from the ground up rather than constrained by legacy processes.
+
+What will your key responsibilities include?
+
+Design, build, test and deploy detection rules across endpoint, network, cloud and identity data sources
+
+Build and maintain SOAR playbooks that automate enrichment, correlation, containment and response
+
+Continuously tune and optimise detection rules to reduce false positives and improve signal‑to‑noise
+
+Translate threat intelligence and emerging risks into actionable detection logic
+
+Conduct hypothesis‑driven threat hunting and convert findings into production detections
+
+Support incident response through automated forensic collection and response actions
+
+Build automated detection rules for exploitation attempts against known and emerging vulnerabilities
+
+Contribute to SOC uplift initiatives, including automation and platform integration
+
+Build automated monitoring for vulnerabilities, exposure and patch compliance
+
+Maintain documentation for detection rules, automation and integrations
+
+What are we looking for?
+
+You enjoy getting stuck in, solving problems and building things that work. You’re curious by nature, comfortable learning as you go, and motivated by improving how security operations are done — not just reacting to alerts. 
+
+We’re especially keen to hear from people with:
+
+ Demonstrated experience in SOC operations or detection engineering
+
+Experience writing detection rules using SIEM query languages (KQL, SPL, XQL, YARA-L)
+
+Experience building SOAR playbooks and automation workflows
+
+Understanding of security telemetry across cloud, endpoint, network, and identity
+
+Familiarity with MITRE ATT&CK, NIST CSF, or Essential 8 frameworks
+
+Scripting skills (Python, PowerShell, or similar)
+
+Analytical, automation-focused, and collaborative mindset
+
+What can you expect from us?
+
+Our benefits are designed to help you thrive — in and out of work. Think health and wellbeing support like Fitness Passport, corporate health insurance and annual flu vaccinations, plus lifestyle perks including hotel discounts and flexible work arrangements. We also back what matters most with 18 weeks paid parental leave, recognition programs, an employee referral program, and dedicated time to give back (two community volunteer days and three recreational leave days each year).
+
+Why join us?
+
+Growth & opportunities – Build your capability, stretch into new challenges and shape what’s next with development support behind you.
+
+Culture & connection – Be part of a team that’s inclusive, down-to-earth and genuinely connected, where collaboration is how we get things done.
+
+Meaningful work – Do work you can feel proud of, making a real difference for customers and communities every day.
+
+About us
+
+As one of Australia’s largest customer-owned banks, we’re a driving force in customer owned banking, operating under the trusted brands Greater Bank and Newcastle Permanent. With over 200 years of combined experience, we’ve helped hundreds of thousands of Australians achieve home ownership and provide a genuine alternative to the big banks—all while strengthening the communities we serve. At the heart of everything we do are our core values:
+
+Lead with heart – We genuinely care about achieving better outcomes for our customers and communities.
+
+Own the action – We build trust by doing things the right way, with honesty and transparency.
+
+Embrace opportunity – We look ahead, focusing on our strengths and expertise to challenge the status quo.
+
+Thrive together – By working as one, we create the best possible future for our customers and communities.
+
+Join a team shaping the future of trusted banking and make a real impact where it matters most.
+
+NGM Group is committed to delivering trusted banking to enable our customers and communities to thrive. We do this by leading with heart, doing the right things in the right way, and by maintaining high standards of ethical behaviour in everything that we do. All applicants are therefore required to undergo a skills assessment, comprehensive background check, Bankruptcy Check and a Nationally Coordinated Criminal History Check.
+
+We are also working to reflect the vibrant communities we serve. We believe in creating an inclusive, diverse, and supportive workplace where everyone can thrive. If you require adjustments to be made during the recruitment process or would like to discuss any accessibility requirements, your Talent Acquisition Partner will be happy to engage in a confidential discussion and assist. Your unique talents and perspectives are what make us stronger."
+91298652,Senior Data Engineer,Bluefin Resources Pty Limited,https://www.seek.com.au/job/91298652?type=standard&ref=search-standalone&origin=jobCard#sol=20b59d04df921d39653dd024abacadc8fb97357d,1h ago,1.0,2026-04-02T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,"AUD 140 - 165 per hour, Long Contract!","We're partnering with a Federal Government agency on an urgent data engineering requirement. This is a high-impact role within a cross-functional agile team, working on complex data infrastructure in a security-sensitive, mission-driven environment.
+
+THE ROLE
+
+Design and build scalable data pipelines for structured and unstructured data ingestion and transformation.
+Develop and maintain data models and architectures optimised for storage, processing and retrieval.
+Build, monitor and optimise ETL/ELT processes and query performance.
+Implement and manage data solutions in AWS and/or Azure cloud environments.
+Ensure data quality, integrity and governance in line with agency policies.
+Collaborate with data scientists, analysts and business stakeholders to deliver effective solutions.
+WHAT YOU'LL NEED
+
+Proven experience designing and building production-grade data pipelines and data architectures.
+Strong proficiency in Python and SQL.
+Hands-on experience with relational and non-relational databases - PostgreSQL, MySQL, MongoDB, Oracle, ElasticSearch.
+Cloud platform experience in AWS or Azure, with tools such as Apache Spark or Kafka.
+Sound understanding of data governance, privacy, security and Australian data standards.
+Ability to obtain and maintain Negative Vetting Level 1 (NV1) security clearance.
+CONTRACT DETAILS
+
+12 month initial term + 2 x 6 month extensions
+Estimated start: 25 May 2026
+Hybrid - minimum 2 days on-site per week
+Locations: Brisbane, Canberra, Melbourne or Sydney
+EL1 equivalent experience level
+HOW TO APPLY
+
+Apply via this listing or send your CV and hourly rate expectations directly to:
+lee.bartlett@bluefinresources.com.au"
+91298044,"Staff Applied AI Engineer, AI Experiences & Agents",Linktree,https://www.seek.com.au/job/91298044?type=standard&ref=search-standalone&origin=jobCard#sol=332c82d3f4068a8c71b10310778640fccb459407,2h ago,2.0,2026-04-02T00:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,,"The Role
+
+
+The AI Agents and Experience team focused on turning frontier model capabilities into useful, trustworthy product experiences for creators, businesses, and their audiences. As an Applied AI Engineer at Linktree, you’ll work across product, design, data, and platform engineering to build AI agents and AI-powered experiences that help people create, personalize, automate, and grow from one Linktree. 
+
+This role is for a strong product engineer who can move from concept to prototype to production. You’ll move quickly, learn from real usage, and harden what works with evaluation, observability, safeguards, and strong product judgment. This is not a pure research role. It is a build-and-ship role.
+
+What You’ll Own
+
+Build and ship creator-facing and visitor-facing AI experiences end-to-end, from prototype through production.
+Design multi-agent workflows that combine prompting, tool use, retrieval, memory/state, orchestration, and human-in-the-loop controls where appropriate.
+Create eval suites, regression harnesses, and quality metrics so AI quality improves deliberately rather than by anecdote.
+Partner closely with product, design, data, and trust teams to translate ambiguous user problems into simple, high-value experiences.
+Optimize latency, reliability, cost, and safety so AI features are fast, dependable, and viable at scale.
+Turn production feedback, support signals, and behavioral data into model, prompt, policy, and product improvements.
+Who We’re Looking For
+
+Strong software engineering fundamentals and a track record of shipping production systems end-to-end.
+Hands-on experience building LLM-powered products, agents, chat systems, RAG workflows, or similar AI experiences.
+Experience building evals for AI output quality harnessing.
+Strong product sense: you can identify the real user problem, simplify the solution, and make practical trade-offs around effort, scope, and quality.
+Ability to frequently weigh trade-offs and understand the benefits of keeping systems architecture simple.
+Good judgment on safety, trust, privacy, abuse, and failure modes in AI systems.
+Strong communicator who collaborates well with cross-functional partners and explains trade-offs clearly.
+
+Linktree is committed to providing a fair and competitive compensation package including cash, equity, and benefits. The base salary offered for this role is targeted at $240,000-$250,000 for roles based in Los Angeles. Final offers depend on multiple factors including location, experience, expertise, and role scope, and may vary from the range listed.
+
+P.S. If you don’t tick every box in this listing, please don’t rule yourself out. We take pride in inclusion and hiring incredible human beings with great potential over ticking boxes – so if this role resonates with you, hit that apply button!
+
+Our Story
+
+
+We’re on a mission to empower anyone to curate, grow, and monetize their digital universe. We created the “link in bio” category — and we’re just getting started. From creators, artists, and entrepreneurs to global brands, we’re redefining how people connect with their communities, showcase their content and promote products — all in one link.
+
+Today, a community of 70+ million use Linktree, including icons like Adidas, TikTok, the UN Environmental Program, The NFL, Manchester United, World Central Kitchen, Sabrina Carpenter, Olivia Rodrigo, and Selena Gomez. With 48,000 new accounts created every day, Linktree is the fastest-growing leader in our space.
+
+We’ve teamed up with some of the world’s biggest platforms including TikTok, Snap, YouTube, GoFundMe, Spotify, Google, Stripe, Reddit, Laylo, and Kajabi, to unify Linkers’ digital spaces, and we partner with retail brands Amazon, Nike, Nordstrom, Target, Sephora, Vuori, and more to share products they love.
+
+We’re a tight-knit, passionate team building best-in-class tools that make online presence simple, powerful, and yours. If you're excited by the idea of shaping a new category, setting the standard, and making space for everyone to be seen and succeed, we’d love to meet you.
+
+Where and How We Work
+
+
+We're a global, diverse team spread across continents with offices in London, Los Angeles, Melbourne, and San Francisco. We work together flexibly and you can choose the setup that works best for you: fully remote or a hybrid mix of office and home.
+
+We offer autonomy in how you structure your days and weeks. While we’re mindful of time zones and occasionally collaborate outside the typical 9–5, we lean into async work to keep things flowing. Our culture is family-friendly and Zoom-casual where kids, pets, and delivery drivers are welcome.
+
+How we’ll help you thrive
+
+
+Our approach to benefits considers the whole person and the unique contributions they bring to Linktree. We want the experience at Linktree to be one that enables people to truly thrive so we can Go Further Together (one of our values). Some ways we support you:
+
+An annual wellbeing allowance to use on things like (but not limited to) fitness memberships, development courses, childcare, travel, charitable donations, pet insurance, home office set-up - the choice is yours!
+Employer contribution towards your retirement.
+Generous time off for vacation, holidays, parental leave, volunteer time, and other categories.
+Employee stock option program - we want each and every employee to share in the company’s success.
+
+At Linktree, we believe in promoting a culture that celebrates unique backgrounds, talents, and experiences, and we’re proud to be an equal opportunity workplace. We are creating an inclusive workplace where every individual feels valued, respected, and has equal opportunities to thrive. We aim to foster a diverse and inclusive environment where all team members have a sense of belonging. Linktree welcomes all people regardless of sex, gender identity, race, ethnicity, disability, pregnancy, age, or other lived experience. If you require accommodations to fully participate in our opportunities, please don't hesitate to reach us at talent@linktr.ee – your needs are important to us."
+91297160,Senior Back-end Node.JS/AI Engineer,DeVision Recruitment,https://www.seek.com.au/job/91297160?type=standard&ref=search-standalone&origin=jobCard#sol=2a08c8405ea0d7421861bde0726e5d3250ee4de8,2h ago,2.0,2026-04-02T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$170K-$190K+Super (depending on experience),"Join an AI powerhouse that is going through a rapid expansion. You will help to build autonomous AI workers. This is a permanent, full-time position. It's a fully remote position if you're outside of NSW, otherwise it's approx 1 day per week in their CBD office. 
+If you want to work at a company that will actually train you in AI Agent frameworks/advanced AI solutions- this is a great opportunity for you. 
+
+In this role, you’ll lead customer-facing engagements, collaborating closely with
+customers and partners technical teams, alongside the internal squad to enhance tech solutions. 
+
+Responsibilities:
+
+Enable enterprise customers to deploy AI agents from multiple third-party platforms (including models, LLMs, microservices and even orchestration layers) through their own secure and scalable platform.
+Develop innovative AI products focusing on Node.js and integrating AI with use of various AI tools.
+Discover and incorporate new partnerships, products, and technologies, including cutting-edge LLMs and AI models, from both established and emerging vendors.
+Design and implement algorithms specifically for AI agents, utilizing your Node.js expertise and understanding of AI frameworks.
+Strategize on integration of new features and APIs across various platforms in large-scale enterprise environments.
+Requirements:
+
+Strong background in Node.js development.
+Exposure to AI toolsets OR you’re passionate about learning this (you will receive training!)
+Strong experience in building secure, scalable APIs.
+Strong understanding of a cloud environments (Azure, AWS, GCP)
+Experience working in a fast-paced environment
+Nice to have (not essential):
+
+AI experience
+Proficiency in CICD, Kubernetes"
+91297101,Project Engineer - Building Management Systems,Carrier Australia,https://www.seek.com.au/job/91297101?type=standard&ref=search-standalone&origin=jobCard#sol=0ebe88249d02f8c36129a4cfff4784ef0da3b1d1,2h ago,2.0,2026-04-02T00:00:00+00:00,Sydney NSW,Building Services Engineering (Engineering),Full time,,"Build a career with confidence!
+
+Automated Logic is now part of Carrier, a global leader in intelligent climate and energy solutions is committed to creating solutions that matter for people and our planet for generations to come. From the beginning, we've led in inventing new technologies and entirely new industries. Today, we continue to lead because we have a world-class, diverse workforce that puts the customer at the center of everything we do.
+
+The Role
+
+In this role, you’ll play a key part in shaping the technical excellence of our projects. You’ll produce engineering documentation, develop BMS software and graphics, optimise control systems, and provide on-site technical support to ensure every project is accurate, efficient, and fit for purpose.
+
+Key responsibilities:
+
+Create and update engineering drawings, points lists, functional descriptions, and O&M manuals
+
+Develop BMS software, graphics, programming, and site-building
+
+Tune PID loops and support commissioning teams with troubleshooting
+
+Conduct site visits to ensure programs and graphics meet operational requirements
+
+Configure system IP networks, including internet connectivity
+
+Identify value-adding, cross-selling, and efficiency improvement opportunities
+
+Communicate effectively and work collaboratively across teams
+
+Participate in training, promotions, and cross-functional initiatives
+
+Support a culture of continuous improvement and quality standards
+
+Requirements:
+
+Strong experience with BMS, HVAC, building controls, or automation systems
+
+Background in managing or supporting technical teams
+
+Experience with installations, commissioning support, and controls engineering
+
+Well-developed analytical, reporting, and problem-solving abilities
+
+Excellent customer service and communication skills
+
+Highly organised, detail-oriented, and self-motivated
+
+Able to manage multiple tasks and shifting priorities
+
+Strong relationship-building ability and a solutions mindset
+
+Benefits:
+
+Attractive salary package + Full time permanent opportunity
+
+Car allowance + mobile phone + laptop
+
+Excellent job stability + Ongoing training and development opportunities
+
+Inclusive work environment + Supportive management team
+
+Our commitment to you
+
+Our greatest assets are the expertise, creativity, and passion of our employees. We strive to provide a great place to work that attracts, develops, and retains the best talent, promotes employee engagement, fosters teamwork, and ultimately drives innovation for the benefit of our customers. We strive to create an environment where you feel that you belong, with diversity and inclusion as the engine to growth and innovation. We develop and deploy best-in-class programs and practices, providing enriching career opportunities, listening to employee feedback, and always challenging ourselves to do better. This is The Carrier Way.
+
+Join us and make a difference.
+
+Apply Now!"
+91297981,AI and Automation Lead,NBN TM Australia,https://www.seek.com.au/job/91297981?type=standard&ref=search-standalone&origin=jobCard#sol=9d67517d291388ec9cd24c1b27c20dc4ab7f1754,2h ago,2.0,2026-04-02T00:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"Job Expectations
+
+
+Build your career and Australia’s future.
+
+Not many people can say they are working on building Australia’s future. With us you’ll be doing just that, leaving a legacy for all Australians. Plus, there’s equal employment, great training, and true flexible working arrangements.
+
+We have an exciting opportunity at nbn, as the AI and Automation Lead, reporting to the Program Manager for CX and Digital Transformation.
+
+A bit about your role
+
+FW Network Delivery is focused on strengthening digital capability to enable smarter, faster, and more reliable network operations through customer‑led design, simplified workflows, and effective digital transformation.
+
+The digital transformation function delivers improved customer and employee experiences by providing innovative digital solutions, operational excellence, and robust engineering frameworks as a shared service across the organisation.
+
+The AI & Automation also lead drives the automation and AI transformation by designing and running solutions that combine process automation, AI, and data‑driven engineering.
+
+Finally, the role ensures initiatives deliver measurable business value while embedding continuous improvement and long‑term capability uplift across FW Network Delivery.
+
+A bit about you
+
+The role requires extensive experience delivering large‑scale, complex solutions in telecommunications or technology environments.
+
+It demands strong leadership capability with proven experience managing technical teams, projects, and vendors across agile and waterfall delivery models.
+
+The candidate must also have deep expertise in enterprise and solution architecture, including creating and maintaining architecture artefacts, applying standards and frameworks, and leveraging modern technologies such as automation platforms, AI, ML, and API‑driven orchestration.
+
+Strong stakeholder management, communication, and influencing skills are also essential.
+
+Life at nbn
+
+To be part of nbn is to be part of something bigger. There’s so much more from here. Our pioneering spirit drives us forward every day. Together, we help lift the digital capability of the nation by building and connecting Australia’s best fibre infrastructure into homes and businesses, plus places and things, everywhere. We’re continuing to create Australia’s network—a network made for more. Not just a way for everyone to do the things they love but transforming the way they do them.
+
+A more inclusive working world
+
+nbn is committed to an inclusive, flexible, and supportive workplace where everyone can feel heard, valued, and respected. We believe diverse perspectives are the key to unlocking greater outcomes and encourage applications from people of all ages, nationalities, abilities, and cultures. That's why we have a Reconciliation Action Plan, Accessibility & Inclusion Plan, offer 18 weeks of paid parental leave, are a Pride in Diversity Platinum Employer, and have active employee-led diversity pillars. Click here to see our list of employee benefits and why we're recognised as a WORK180 Endorsed Employer for Women.
+
+Equal Opportunities for All
+
+We champion equal opportunities for all employees. If you have any accessibility requirements and would like to discuss adjustments for the recruitment process, please don’t hesitate to contact us by emailing recruitment@nbnco.com.au or calling our Recruitment Accessibility Enquiry Line at +61 2 8918 9990. Please note, this line is dedicated to accessibility-related enquiries for the purposes of recruitment, and only enquiries related to accessibility adjustments will be answered. For other matters, please visit our Contact Us page on our website.
+
+Where to from here?
+
+If you think this role might be for you, we want to hear from you. Please apply by following the links and sending in your resume only. We do not require a cover letter or any selection criteria to be addressed.
+
+Please note that this is a permanent opportunity and applications for this role will close at midnight, Thursday 9th of April 2026.
+
+To be eligible for this role, you must have full working rights in Australia.
+
+Worker Type
+Permanent Time Type
+
+Full time"
+91296697,Data Engineer,Global 360,https://www.seek.com.au/job/91296697?type=standard&ref=search-standalone&origin=jobCard#sol=3a62894bfd126d32fd73a07f80cdd1622be7aed8,3h ago,3.0,2026-04-01T23:00:00+00:00,"Doncaster, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Full time,,"The Role:
+Are you passionate about turning data into a real-world impact? Join us as a Senior Data Engineer and help lead a new wave of analytics innovation. You’ll be a key part of a dedicated project team delivering high-value, MVP-driven solutions. This role is responsible for advancing our data science practices, from model development to deployment and governance. 
+
+What’s in it for you? 
+
+Build and deploy statistical models and advanced analytics to solve real business challenges
+Influence and uplift our end-to-end data science capability
+Work with modern Azure-based platforms
+Collaborate with talented teams across analytics, business intelligence, actuarial, data engineering, and business departments
+Be part of a values-led organisation with a strong purpose and community focus
+Flexible hybrid work arrangement with work from home and in-office
+Skills & Experience:
+
+5–7 years’ experience as a Data Engineer / Analytics Engineer in a commercial setting.
+Bachelor’s or higher degree in computer science, information systems, data/analytics engineering, or a related quantitative field.
+Proven ability to design, build, and productionise scalable ELT pipelines and analytics datasets (batch and streaming) using modern tooling.
+Experience maturing data platforms and engineering practices, including standards for modelling, testing, code review, CI/CD, and governance.
+Expertise with Google Cloud data stack—e.g. BigQuery, Cloud Storage, Dataform or dbt (for ELT), Cloud Composer (Airflow), Dataflow/Beam, Pub/Sub, Cloud Run—and strong familiarity with Looker semantic modelling (LookML).
+Experience with Azure platforms is desirable. (Data Factories, Fabric Services)
+Experience with Microsoft Power BI reports and generating on-demand reports. 
+Proficient with modern developer workflows: Git, GitHub/GitLab/Cloud Build CI/CD, Infrastructure-as-Code (e.g., Terraform), notebooks where appropriate.
+Strong SQL (performance tuning, partitioning/clustering) and dimensional/data-vault modelling skills.
+Highly proficient in Python for data engineering (packaging, testing, virtual environments); familiarity with R an advantage where needed for analytics handoffs.
+Solid understanding of security, cost optimisation, observability (logging/metrics/alerts), and data quality frameworks (tests, CI checks, SLAs/SLIs).
+Highly Desirable  
+
+Experience in Insurance or Banking 
+Power BI skills 
+Microsoft Azure Certifications 
+The Company:
+Established since 1953 offering stability and security, a great place to grow and develop your career. Having a reputation for excellence you will be able to utilise your skills on challenging and meaningful projects, supported by other subject matter experts within our own collaborative and supportive team. 
+You will be joining a team from various walks of life accompanied by a broad range of skillsets in this highly collaborative environment where teamwork is our most highly valued asset.
+  
+It is essential that you demonstrate in your career, proven experience in your field of expertise. We need forward thinkers, individuals to provide substantiated innovative thinking and solutions to the business.
+
+Please note: A criminal background check and written assessment will make up part of the recruitment process."
+91296484,Senior AI Engineer,Pair People Pty Limited,https://www.seek.com.au/job/91296484?type=standard&ref=search-standalone&origin=jobCard#sol=0015908cb0d11c5f133a4536de30fd8043b5fe62,3h ago,3.0,2026-04-01T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$180,000 – $220,000 per year","We are partnering with a leading AI software company focused on building enterprise-grade Generative AI and machine learning solutions for large-scale organisations across APAC and globally.
+
+This organisation is at the forefront of combining Generative AI, predictive modelling, and agentic systems to help enterprises deploy secure, production-ready AI applications on their own data environments. Their technology is widely adopted across Fortune 500 companies and regulated industries, with strong enterprise traction across financial services, healthcare, government, and large-scale commercial sectors.
+
+About the Opportunity
+
+We are seeking a Senior AI Engineer to join a high-performing, customer-facing AI engineering team. This is a hands-on role focused on designing, building, and deploying end-to-end AI solutions that move beyond experimentation into real production environments.
+
+You will work on advanced Generative AI systems including LLM applications, agent-based architectures, and scalable ML pipelines. This role sits close to customers, meaning your work will directly influence enterprise deployments and real-world business outcomes from day one.
+
+You will collaborate with highly experienced ML engineers, data scientists, and AI specialists to deliver robust, production-ready AI systems.
+
+This role is based in Sydney and involves close collaboration with enterprise customers across APAC.
+
+Key Responsibilities
+AI & LLM Engineering
+
+Design and build agentic AI systems to automate complex enterprise workflows
+
+Develop LLM-based applications using RAG, prompt engineering, fine-tuning, and tool/function calling
+
+Implement guardrails, evaluation frameworks, and responsible AI controls for production systems
+
+Stay current with emerging GenAI frameworks and agentic architectures and apply them in real-world deployments
+
+End-to-End AI Delivery
+
+Own full lifecycle delivery of AI solutions from problem definition through to production deployment
+
+Build scalable APIs and backend services to expose AI capabilities to enterprise applications
+
+Deploy models across cloud, on-prem, and hybrid environments
+
+Develop ML pipelines and LLMOps frameworks for monitoring, iteration, and continuous improvement
+
+Customer-Facing Delivery
+
+Work directly with enterprise stakeholders to translate business problems into AI solutions
+
+Support pre-sales activities including proof-of-concept development and technical demonstrations
+
+Communicate effectively across technical and non-technical audiences
+
+Collaborate with cross-functional teams to deliver high-quality, production-ready solutions
+
+What We’re Looking For
+Experience
+
+3+ years’ experience in AI/ML engineering or applied machine learning roles
+
+Strong experience building LLM-based applications (RAG, agents, fine-tuning, etc.)
+
+Strong Python engineering capability and experience with ML frameworks (e.g. PyTorch, TensorFlow, scikit-learn)
+
+Experience deploying AI systems in cloud or enterprise environments (AWS, Azure, GCP, Kubernetes)
+
+Technical Skills
+
+Strong understanding of modern GenAI concepts: RAG, prompt engineering, evaluation, guardrails, LLMOps
+
+Solid foundation in classical ML and model selection
+
+Backend engineering experience including REST APIs, containers (Docker/Kubernetes), and CI/CD
+
+Ability to build production-grade, scalable AI systems
+
+Soft Skills
+
+Strong problem-solving ability and comfort working in ambiguous environments
+
+Ability to communicate complex technical concepts clearly to stakeholders
+
+Customer-facing experience or ability to work in pre-sales / consulting-style environments is highly valued
+
+Nice to Have
+
+Competitive ML background
+
+Experience in regulated industries such as financial services or healthcare
+
+Exposure to enterprise ML platforms or AutoML systems
+
+Experience in field engineering, solution engineering, or customer-facing technical roles
+
+Why This Role?
+
+Opportunity to work on cutting-edge Generative AI and agentic systems
+
+Customer-facing role with direct enterprise impact
+
+High-calibre technical environment with strong ML engineering talent
+
+Exposure to complex real-world AI problems at scale
+
+Strong career growth within a rapidly evolving AI space"
+91295324,Principal Data Engineer,Australian Communications and Media Authority,https://www.seek.com.au/job/91295324?type=standard&ref=search-standalone&origin=jobCard#sol=2af3b3e71de7806a178741f4510dd0ae92f57910,4h ago,4.0,2026-04-01T22:00:00+00:00,Canberra ACT,"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$121,755 - $134,116 plus 15.4% superannuation","The Australian Communications and Media Authority (ACMA) is an independent Commonwealth statutory authority responsible for the regulation of broadcasting, radiocommunications, telecommunications and some online content.
 
 This work underpins our vision for a connected, informed and entertained Australia.
@@ -40,7 +617,7 @@ Oversee and guide the delivery, deployment, and operationalisation of new data p
 To be eligible for employment with ACMA, applicants must be an Australian citizen.
 
 The successful candidate will also be required to obtain and maintain a Baseline level security clearance."
-91295319,Principal Data Engineer,Australian Communications and Media Authority,https://www.seek.com.au/job/91295319?type=standard&ref=search-standalone&origin=jobCard#sol=697f37e31bf08cfe6cb24f69c3143b38de31cf49,1h ago,1.0,2026-04-01T22:00:00+00:00,Melbourne VIC,"Engineering - Software (Information & Communication Technology)
+91295319,Principal Data Engineer,Australian Communications and Media Authority,https://www.seek.com.au/job/91295319?type=standard&ref=search-standalone&origin=jobCard#sol=b19919d8e5ecf1bb45dfb9eb6a376f12f82b698f,4h ago,4.0,2026-04-01T22:00:00+00:00,Melbourne VIC,"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$121,755 - $134,116 plus 15.4% superannuation","The Australian Communications and Media Authority (ACMA) is an independent Commonwealth statutory authority responsible for the regulation of broadcasting, radiocommunications, telecommunications and some online content.
 
 This work underpins our vision for a connected, informed and entertained Australia.
@@ -81,7 +658,7 @@ Oversee and guide the delivery, deployment, and operationalisation of new data p
 To be eligible for employment with ACMA, applicants must be an Australian citizen.
 
 The successful candidate will also be required to obtain and maintain a Baseline level security clearance."
-91295309,Principal Data Engineer,Australian Communications and Media Authority,https://www.seek.com.au/job/91295309?type=standard&ref=search-standalone&origin=jobCard#sol=9106b75ad533803769bc4f14f1fe5fc7eddf1ce9,1h ago,1.0,2026-04-01T22:00:00+00:00,Sydney NSW,"Engineering - Software (Information & Communication Technology)
+91295309,Principal Data Engineer,Australian Communications and Media Authority,https://www.seek.com.au/job/91295309?type=standard&ref=search-standalone&origin=jobCard#sol=7ecc90837d716818dc56621bee3fe03573cda024,4h ago,4.0,2026-04-01T22:00:00+00:00,Sydney NSW,"Engineering - Software (Information & Communication Technology)
 Government - Federal (Government & Defence)",Full time,"$121,755 - $134,116 plus 15.4% superannuation","The Australian Communications and Media Authority (ACMA) is an independent Commonwealth statutory authority responsible for the regulation of broadcasting, radiocommunications, telecommunications and some online content.
 
 This work underpins our vision for a connected, informed and entertained Australia.
@@ -122,7 +699,7 @@ Oversee and guide the delivery, deployment, and operationalisation of new data p
 To be eligible for employment with ACMA, applicants must be an Australian citizen.
 
 The successful candidate will also be required to obtain and maintain a Baseline level security clearance."
-91295176,"Data Engineering Specialist (Melbourne, Brisbane or Hobart location)",CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/91295176?type=standard&ref=search-standalone&origin=jobCard#sol=36d235fc62ed2ddafa4d5d82b21dac108361e4a9,1h ago,1.0,2026-04-01T22:00:00+00:00,Hobart TAS (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About us
+91295176,"Data Engineering Specialist (Melbourne, Brisbane or Hobart location)",CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/91295176?type=standard&ref=search-standalone&origin=jobCard#sol=23a0626eedd888c9566eacc648d6170b7a99b1b1,4h ago,4.0,2026-04-01T22:00:00+00:00,Hobart TAS (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About us
 
 At CareSuper, we believe we’re Super Together. As a profit-to-member super fund with over 600,000 members and $60 billion in assets, we’re passionate about helping our members retire with confidence. We’re growing fast and looking for our next superhero to join us on this exciting journey.
 
@@ -175,7 +752,7 @@ Need support during the application or interview process? We’re here to help. 
 We’re committed to protecting your privacy—your personal information will be handled with care and in line with our Privacy Policy.
 
 At CareSuper, we know that diverse perspectives make us stronger. We’re proud to foster an inclusive environment where everyone feels welcome, respected, and valued—no matter your background or identity."
-91295153,"Data Engineering Specialist (Melbourne, Brisbane or Hobart location)",CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/91295153?type=standard&ref=search-standalone&origin=jobCard#sol=c031f7a7a02ab5d340b879ee6ea91bee0ba09918,1h ago,1.0,2026-04-01T22:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About us
+91295153,"Data Engineering Specialist (Melbourne, Brisbane or Hobart location)",CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/91295153?type=standard&ref=search-standalone&origin=jobCard#sol=ca1f1e0d3c65c54c4efb50fae4e141b843c6501e,4h ago,4.0,2026-04-01T22:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About us
 
 At CareSuper, we believe we’re Super Together. As a profit-to-member super fund with over 600,000 members and $60 billion in assets, we’re passionate about helping our members retire with confidence. We’re growing fast and looking for our next superhero to join us on this exciting journey.
 
@@ -228,7 +805,7 @@ Need support during the application or interview process? We’re here to help. 
 We’re committed to protecting your privacy—your personal information will be handled with care and in line with our Privacy Policy.
 
 At CareSuper, we know that diverse perspectives make us stronger. We’re proud to foster an inclusive environment where everyone feels welcome, respected, and valued—no matter your background or identity."
-91295131,"Data Engineering Specialist (Melbourne, Brisbane or Hobart location)",CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/91295131?type=standard&ref=search-standalone&origin=jobCard#sol=88a71dbae411f7006e19d69197567bd7c84bf241,1h ago,1.0,2026-04-01T22:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About us
+91295131,"Data Engineering Specialist (Melbourne, Brisbane or Hobart location)",CareSuper (Secretariat Co.) Pty Limited,https://www.seek.com.au/job/91295131?type=standard&ref=search-standalone&origin=jobCard#sol=81a4eab0e2ee105d108667ba607dbcc045aee16b,4h ago,4.0,2026-04-01T22:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"About us
 
 At CareSuper, we believe we’re Super Together. As a profit-to-member super fund with over 600,000 members and $60 billion in assets, we’re passionate about helping our members retire with confidence. We’re growing fast and looking for our next superhero to join us on this exciting journey.
 
@@ -281,7 +858,7 @@ Need support during the application or interview process? We’re here to help. 
 We’re committed to protecting your privacy—your personal information will be handled with care and in line with our Privacy Policy.
 
 At CareSuper, we know that diverse perspectives make us stronger. We’re proud to foster an inclusive environment where everyone feels welcome, respected, and valued—no matter your background or identity."
-91294998,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/91294998?type=standard&ref=search-standalone&origin=jobCard#sol=feb4e737aaf983c185a4b24cacd5182c3f4fa9ac,1h ago,1.0,2026-04-01T22:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. As demand for modern data engineering accelerates, we’re expanding our consulting team with hands-on technical talent who can help clients uplift and modernise their data platforms at speed.
+91294998,Consultant - Data Engineer,Intelligen Pty Ltd,https://www.seek.com.au/job/91294998?type=standard&ref=search-standalone&origin=jobCard#sol=0eb06f3aa7690089efae3b9a1895260b10c8fe1c,4h ago,4.0,2026-04-01T22:00:00+00:00,Sydney NSW (Hybrid),Consultants (Information & Communication Technology),Full time,,"At Intelligen, we’re building something different. Over the past three years, we’ve evolved from a bold startup to a trusted partner for some of Australia’s most complex data transformations. As demand for modern data engineering accelerates, we’re expanding our consulting team with hands-on technical talent who can help clients uplift and modernise their data platforms at speed.
 
 We’re now embarking on a major engagement with a key enterprise client and are looking for experienced Snowflake, dbt data engineers who can re-engineer, optimise, and domain-align existing data models and pipelines.
 
@@ -353,7 +930,7 @@ Opportunities to lead, influence and shape our growing practice as we expand acr
 
 
 If you want to be part of a team that cares just as much about how we deliver as what we deliver; where curiosity is valued, ideas matter, and your impact is felt - drop us a message and start the conversation today..."
-91294208,Control Systems Engineer,Capital PFS Australia,https://www.seek.com.au/job/91294208?type=standard&ref=search-standalone&origin=jobCard#sol=cb74854a3f3b60cc595c557887a9e1086444c343,3h ago,3.0,2026-04-01T20:00:00+00:00,"Mount Isa, Western QLD","Mining - Engineering & Maintenance (Mining, Resources & Energy)",Casual/Vacation,$70 – $90 per hour,"Immediate Start: Control Systems Engineer – Local in MT Isa
+91294208,Control Systems Engineer,Capital PFS Australia,https://www.seek.com.au/job/91294208?type=standard&ref=search-standalone&origin=jobCard#sol=e4c5c88580d8e84f38857d290d0c70a4b879695d,6h ago,6.0,2026-04-01T20:00:00+00:00,"Mount Isa, Western QLD","Mining - Engineering & Maintenance (Mining, Resources & Energy)",Casual/Vacation,$70 – $90 per hour,"Immediate Start: Control Systems Engineer – Local in MT Isa
 The perfect opportunity to get into mining and kick off your career. We’re looking for a skilled Control Systems site-based secondment, to be involved in a major Automation end of life expansion contract.
 
 🗓️ Roster - Local Monday to Friday 5/2 10 hours per day
