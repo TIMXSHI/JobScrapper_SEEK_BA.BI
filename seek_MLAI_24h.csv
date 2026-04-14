@@ -1,1 +1,257 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+91518793,Senior Software Engineer - AI,Refactor.,https://www.seek.com.au/job/91518793?type=standard&ref=search-standalone&origin=jobCard#sol=245c082b285e01293a345732e85227ff06d3fe10,1h ago,1.0,2026-04-14T22:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,Up to $180k+super + 100% remote flexibility,"Senior Software Engineer, AI Development
 
+Location: Australia (remote, AU-based)
+
+Employment type: Full-time
+
+Salary: Competitive senior market rate
+
+
+
+
+The problem space
+
+Refactor are partnering with an Australian AI startup with a production AI platform, enterprise customers and a growing SaaS offering.
+
+
+
+
+We’re now extending the platform to support an LLM-agnostic, agentic AI assistant that integrates across enterprise systems and helps everyday business users plan work, prioritise tasks, and structure their work experience.
+
+
+
+
+This role exists because the system is no longer experimental. Retrieval quality, orchestration, latency, security and UX are all priorities in our ongoing product development.
+
+
+
+
+What we’re building
+
+The platform is built around production-grade RAG and agentic workflows.
+
+
+
+
+Backend:
+
+
+
+
+A Java-based API platform that:
+
+
+
+
+Orchestrates LLM calls
+Executes multi-step agent workflows
+Integrates with enterprise systems
+Enforces tenancy, security and access controls
+
+
+
+
+Retrieval layer
+
+Weaviate as the primary vector database
+Hybrid search (vector + keyword)
+Tuned chunking, embeddings and reranking
+
+
+
+
+Frontend:
+
+React application used daily by non-technical business users
+Surfaces agent outputs, plans, tasks and recommendations
+
+
+
+
+AI layer
+
+LLM-agnostic (supporting models from Anthropic, Mistral & Open AI)
+Support for cloud, private and sovereign deployments
+Explicit cost, latency and reliability controls
+
+
+
+
+The assistant is agentic by design. The planning, sequencing actions, querying multiple systems, and producing structured outputs users can act on.
+
+
+
+
+What you’ll be responsible for:
+
+
+
+
+You’ll be a hands-on senior engineer contributing across backend and frontend, with a primary focus on core product development.
+
+
+
+
+Backend & product engineering:
+
+Strong T-shaped engineering skills with deep expertise in backend Java development and practical knowledge across related technologies required to deliver production-ready systems
+Experience with AWS and cloud technologies, CI/CD pipelines, system configuration, unit and manual testing, and integrations with external systems such as web crawlers and enterprise API services
+Developing LLM orchestration and agent execution layers
+Implementing and maintaining enterprise integrations (documents, tasks, calendars, knowledge systems)
+Ensuring APIs are versioned, stable and suitable for enterprise time horizons
+
+
+
+
+RAG & retrieval systems:
+
+Designing and evolving production RAG pipelines
+
+
+
+
+Owning:
+
+Document ingestion and preprocessing
+Chunking strategies and embedding lifecycle management
+Retrieval tuning, hybrid search and reranking
+Experience in database-level optimisations, query and retrieval performance tuning, and embedding lifecycle management to improve accuracy, consistency, and efficiency in production datasets
+
+
+
+
+Improving grounding, relevance and consistency across real customer datasets
+Handling retrieval failure modes and partial or stale data scenarios
+
+
+
+
+System quality, scale & reliability
+
+Optimising latency, throughput and cost across retrieval and model calls
+Implementing observability (structured logging, metrics, tracing)
+Building guardrails, timeouts and fallback behaviour for agent workflows
+Expertise in observability, structured logging, metrics, tracing, and automated testing strategies to ensure robust, scalable, and reliable production systems
+Contributing to tenant isolation, data boundaries and security controls
+
+
+
+
+Frontend contribution (important, but secondary):
+
+
+
+
+Practical understanding of frontend requirements, enabling close collaboration with UI teams to align API design and deliver fully integrated, production-ready features
+Translating backend capabilities into clear, usable interfaces for non-technical users
+Contributing directly to the React codebase where appropriate
+Ensuring tight alignment between API design and frontend needs
+
+
+
+
+React experience is not required, but practical exposure is a strong advantage.
+
+
+
+
+Product-driven engineering
+
+Translating real user workflows into concrete product features
+Making pragmatic trade-offs between accuracy, explainability, performance and UX
+Iterating based on production feedback, not assumptions
+
+
+
+
+What we’re looking for
+
+
+
+
+We’re looking for engineers who have already built and managed sovereign AI deployments in production environments.
+
+
+
+
+Required:
+
+5+ years professional software engineering experience
+2+ years building RAG-based systems used in production
+Strong backend experience
+
+
+
+
+Hands-on experience with:
+Vector databases
+Embeddings, chunking and retrieval strategies
+LLM orchestration (framework-based or custom)
+Experience supporting production, customer-facing systems
+
+
+
+
+Valued:
+
+Experience with retrieval quality and failure modes
+Experience with agentic workflows beyond simple chains
+SaaS or multi-tenant architectures
+React experience or strong API-first frontend collaboration
+Enterprise or regulated environments
+AWS, private cloud or hybrid deployments
+
+
+
+
+Why this role might be interesting
+
+
+
+
+You’ll work on real RAG and agentic systems, designed for scale. You’ll be working at the cutting edge as open source models mature, helping evaluate and deploy the best-fit models responsibly in private enterprise environments
+You’ll be involved with evolving the backend architecture and user-facing product
+Customers are already live, so your work has immediate impact
+Small, senior geo-distributed team with high autonomy and professionalism
+Australian company building globally relevant enterprise AI
+
+
+
+
+
+
+
+When you apply, we’re interested in:
+
+
+
+
+What RAG systems you’ve built or operated?
+Where they struggled or failed?
+How you approached trade-offs in retrieval, latency and UX?
+What kind of AI product you want to help build next?
+
+
+
+
+This role is a fantastic opportunity to join a growing start up, who have already landed some major accounts and now ready to expand. You'll join an exisiting team, who is increibly talented.
+
+
+
+
+What are you waiting for - get applying now!
+
+
+
+
+James Farrey
+
+Founder & Director
+
+james@re-factor.com.au
+
+
+
+
+#SCR-james-farrey"
