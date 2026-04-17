@@ -1,5 +1,532 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91580254,Automation Engineer,Blackbook Executive,https://www.seek.com.au/job/91580254?type=standard&ref=search-standalone&origin=jobCard#sol=d09cfa89d44874ccd0e6b678300364e9493d9128,1h ago,1.0,2026-04-17T05:00:00+00:00,Brisbane QLD,Electrical/Electronic Engineering (Engineering),Full time,,"The Company
+91584011,Data Engineer,Robert Walters,https://www.seek.com.au/job/91584011?type=standard&ref=search-standalone&origin=jobCard#sol=0f6929eaec51ecd515b92773c8b77786e2bc668d,2h ago,2.0,2026-04-17T06:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,DOE,"An exciting opportunity awaits for you to join a forward-thinking government department in Brisbane as a Senior Data Engineer. This role places you at the heart of a transformative data modernisation programme, where your expertise will directly influence the development of an enterprise data platform supporting large-scale ICT transformation.
+
+Roles and Responsibilities
+
+Design, implement, and maintain robust, scalable, and secure data pipelines and architectures using Microsoft Fabric and related tools within hybrid cloud environments.
+Manage complex data ingestion, transformation, and storage processes in Fabric Lakehouses or Delta Lakes by utilising PySpark, PySQL, and delta format to optimise availability for analytics.
+Apply advanced SQL development techniques for database management, integration tasks, query optimisation, and performance tuning across multiple platforms.
+Monitor and troubleshoot data pipelines proactively to ensure high levels of availability, reliability, and system performance for critical business operations.
+Implement comprehensive data quality management practices to identify issues early, resolve them efficiently, and ensure compliance with governance standards.
+Prepare and normalise large datasets to support statistical analysis and machine learning models that enable advanced analytics and informed decision-making.
+Identify opportunities to enhance analytical capabilities by optimising existing models and improving workflows for greater efficiency.
+Provide mentorship and training to colleagues on best practices in data engineering tools, techniques, and methodologies.
+Create detailed technical documentation covering architecture designs, operational processes, troubleshooting guides, and user access management protocols.
+Support DevOps practices such as continuous integration and delivery (CI/CD) to streamline solution deployments while enhancing platform reliability.
+
+The ideal Candidate
+
+Demonstrated experience of at least three years in data engineering roles involving Azure Synapse, complex data pipelines, lakehouse architectures, and SQL-based tools such as SSIS or SSRS.
+Proven ability to design scalable solutions within hybrid cloud environments using advanced preparation and transformation techniques tailored for large datasets.
+Expertise in building robust pipelines for ingestion and transformation using Azure frameworks alongside proficiency with PySpark or PySQL.
+Strong command of SQL development including advanced database management skills relevant to integration projects across diverse platforms.
+Familiarity with preparing datasets for statistical analysis or machine learning applications through effective normalisation strategies.
+Solid understanding of implementing rigorous data quality management processes that ensure reliable outcomes aligned with governance requirements.
+Experience supporting business transitions into new analytics patterns-particularly those involving Microsoft Fabric-is highly regarded but not mandatory.
+A collaborative approach when working with stakeholders or project teams during periods of change or transition between project phases.
+Adaptability in responding positively to shifting operational demands within hybrid project-to-operations environments.
+Possession of Microsoft Azure Data Engineer Associate certification or equivalent is highly desirable; additional certifications in SQL or related fields are considered advantageous.
+
+Aboriginal and Torres Strait Islander Peoples are encouraged to apply.
+
+To apply, please click ""Apply"" or contact Richard Lynch on 07 3032 2295 or richard.lynch@robertwalters.com.au for a confidential discussion."
+91583340,Palantir Senior Developer,Accenture,https://www.seek.com.au/job/91583340?type=standard&ref=search-standalone&origin=jobCard#sol=c695b8fb9bb446c9186e4b392e4eefdcb28f5367,2h ago,2.0,2026-04-17T06:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Accenture is a leading solutions and services company that helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed across the enterprise, bringing together the talent of our approximately 786,000 people, our proprietary assets and platforms, and deep ecosystem relationships. Our strategy is to be the reinvention partner of choice for our clients and to be the most client-focused, AI-enabled, great place to work in the world. Through our Reinvention Services we bring together our capabilities across strategy, consulting, technology, operations, Song and Industry X with our deep industry expertise to create and deliver solutions and services for our clients. Our purpose is to deliver on the promise of technology and human ingenuity, and we measure our success by the 360° value we create for all our stakeholders. Visit us at www.accenture.com.
+
+
+
+
+We are seeking a Palantir Senior Developer to join our Data & AI practice and help deliver transformative client solutions using Palantir Foundry. You will play a lead technical role, designing and building robust data pipelines, Ontology models, and end-user applications. You will guide junior team members, work closely with architects and client stakeholders, and ensure quality, scalability, and performance across projects.
+
+
+
+
+Key Responsibilities
+
+Design and implement data pipelines, Ontology structures, and Foundry applications (Workshop, Contour, Quiver).
+
+Develop automated workflows, transformation logic, and integration with upstream/downstream systems.
+
+Apply GenAI/LLM techniques and Palantir’s AI/ML features to create intelligent, scalable solutions.
+
+Mentor and review work of developers, ensuring adherence to best practices and code quality.
+
+Collaborate with business and technical teams to refine requirements and deliver secure, performant solutions.
+
+Support production deployments, monitoring, and continuous improvements.
+
+
+
+
+Key Skills
+
+Hands-on Palantir Foundry experience in Ontology, Workshop, Contour, Quiver, data modeling, and pipeline design.
+
+Strong Python, SQL, and Spark/PySpark capabilities.
+
+Knowledge of cloud platforms (AWS/Azure/GCP) and CI/CD pipelines (Git, Jenkins, etc.).
+
+Familiarity with APIs, microservices, and modern data engineering frameworks.
+
+Solid understanding of data governance, lineage, and security (RBAC, encryption).
+
+Excellent problem-solving skills and the ability to lead small pods of developers.
+
+
+
+
+Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
+
+6+ years in data engineering, including 1–3 years in Palantir Foundry delivery.
+
+Palantir certifications or cloud certifications are a strong plus.
+
+
+
+
+
+
+
+Location: Sydney, Melbourne, Brisbane, Perth, Canberra
+
+
+
+
+
+
+
+Benefits of working at Accenture:
+
+
+
+
+·       18 weeks paid parental leave
+
+·       Long & short-term career break opportunities
+
+·       Structured career development program
+
+·       Local and international career opportunities.
+
+·       Certified as a Family Inclusive Workplace™
+
+·       Flexible Work Arrangements - centered around Accenture’s Truly Human ethos and our commitment to supporting the health and wellbeing of our people.
+
+·       We are proud to be in the top 3 of last year’s Diversity & Inclusion Index!
+
+
+
+
+
+
+
+We are a WORK180 Endorsed Employer, to see our benefits and policies click here
+
+All our consulting professionals receive comprehensive training covering business acumen, technical and professional skills development. You’ll also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career. 
+
+Accenture is a an EEO and Affirmative Action Employee of Females/Minorities/Veterans/Individuals with Disabilities. 
+
+
+
+
+Equal Employment Opportunity Statement for Australia:
+
+At Accenture, we recognise that our people are multi-dimensional, and we create a work environment where all people feel like they can bring their authentic selves to work, every day.   
+
+Our unwavering commitment to inclusion and diversity unleashes innovation and creates a culture where everyone feels they have equal opportunity. Our range of progressive policies support flexibility in ‘where’, ‘when’ and ‘how’ our people work to ensure that Accenture is an organisation where you can strive for more, achieve great things and maintain the balance and wellbeing you need. 
+
+We encourage applications from all people, and we are committed to removing barriers to the recruitment process and employee lifecycle. All employment decisions shall be made without regard to age, disability status, ethnicity, gender, gender identity or expression, religion or sexual orientation and we do not tolerate discrimination. If you require adjustments to the recruitment process or have a preferred communication method, please email exectalent@accenture.com and cite the relevant Job Number, or contact us on +61 2 9005 5000.   
+
+To ensure our workplace is inclusive and diverse we are setting bold goals and taking comprehensive action. To achieve these goals, we collect information that allows us to track the effectiveness of our Inclusion and Diversity programs. Learn how Accenture protects your personal data and know your rights in relation to your personal data. Read more about our Privacy Statement.
+
+
+
+
+#LI_GM"
+91583120,Senior AI Automation Engineer – Integrations,Forever New Clothing,https://www.seek.com.au/job/91583120?type=standard&ref=search-standalone&origin=jobCard#sol=fd5217180fc2b82f625802b5b7b39af38de04b34,2h ago,2.0,2026-04-17T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Generous Salary + Super + 40% discount,"FOREVER US
+
+Step into the world of Forever New, where fashion meets innovation. As one of Australia’s leading global fashion brands, we’ve grown from our Melbourne roots to over 450 stores worldwide with a thriving online presence. Our success is driven by our passionate community of creative thinkers, retail experts, and forward-looking innovators who bring our vision to life - to make it her moment.
+
+At Forever New, we’re not just designing beautiful fashion; we’re building smart, data-driven solutions that power exceptional customer experiences and informed decision-making. Join us as we continue to evolve our BI, Data & Integrations team and shape the future of retail through insight, innovation, and technology.
+
+THE PERKS WE OFFER YOU
+
+As a valued member of the Forever New family, you’ll enjoy a range of benefits designed to support your success and wellbeing:
+
+Enjoy a generous 40% employee discount, with additional discounts for family and friends
+Subsidised daily coffee and lunch at our on-site cafe
+Celebrate special moments with loyalty and birthday leave
+Receive referral incentives for introducing talented people to our team
+Access to wellbeing and sustainability initiatives that support your overall health and purpose
+Thrive through continuous learning and development programs
+Be recognised through our reward and service awards programs
+Benefit from subsidised parking at our vibrant Richmond Head Office
+Gain global exposure across five continents
+
+YOUR DREAM OPPORTUNITY
+
+The Senior AI Automation Engineer – Integrations is responsible for accelerating integration delivery and legacy modernisation using AI-assisted engineering across FN’s integration technology stack, with hands-on delivery using .NET, C#, and Azure integration services. 
+
+You will uplift the maturity and supportability of the Azure integration platform by improving resilience, observability and operational controls. You will operate in an agent-led delivery model where AI agents are trusted to execute meaningful implementation work under human supervision, with emphasis on outcomes, quality controls, and repeatability rather than approval of every step.
+
+In this newly created role, you will support FN’s early adoption of AI by introducing repeatable, supervised delivery patterns and progressively embedding them into day‑to‑day engineering and operational practices.
+
+As our Senior AI Automation Engineer – Integrations you will also contribute integration domain SME insight, reusable patterns, and delivery learnings into FN’s enterprise AI standards and guardrails through established architecture and governance forums.
+
+GET EXCITED TO:
+
+Design and deliver end-to-end integrations using approved patterns and AI-assisted engineering.
+Build and maintain integration components using .NET and C# aligned to Azure integration services.
+Ensure integration solutions are consistent, maintainable, and aligned to enterprise standards.
+Assess legacy integrations and support refactor/rewrite into supported languages and target patterns.
+Use AI-assisted approaches to accelerate modernisation while maintaining correctness and operational safety.
+Improve documentation, traceability, and maintainability of modernised integration assets.
+Improve middleware operational maturity including logging, monitoring, alerting, retries, error handling, and sequencing.
+Establish and uplift operational controls to improve reliability and reduce support effort.
+Contribute to integration runbooks, support processes, and incident response improvements.
+Reduce recurring incidents through standard patterns and engineering improvements.
+Ensure integrations are resilient, observable, and supportable in production environments.
+Monitor and continuously improve integration performance, reliability, and operational transparency.
+
+THE SKILLS & EXPERIENCE YOU OFFER US
+
+Proven experience delivering enterprise integrations in production environments.
+Strong hands-on experience with .NET and C#.
+Strong experience with Azure integration and middleware services.
+Experience implementing resilience and operational support patterns (monitoring, alerting, retries, error handling).
+Experience modernising/refactoring legacy integration solutions.
+
+BEHAVIOURS & ATTRIBUTES
+
+Strong analytical and problem-solving skills
+Results-driven with excellent organisation and prioritisation abilities
+Calm, adaptable, and effective in fast-paced environments
+Proactive mindset with strong initiative and accountability
+Commercially astute with sound business judgement
+Collaborative communicator, able to engage technical and non-technical stakeholders
+Excellent written and verbal communication skills
+
+OUR VALUES
+
+Whether we’re innovating behind the scenes, collaborating across global teams, or styling our customers in store, these values guide everything we do:
+
+Think Customer
+Respect for All
+Keep it Simple
+Take Responsibility
+Act with Pace
+
+Join Forever New and play a key role in shaping a modern, data-driven retail business.
+Be part of a brand where fashion meets innovation and help us make it her moment."
+91583115,AI Engineer,TheDriveGroup,https://www.seek.com.au/job/91583115?type=standard&ref=search-standalone&origin=jobCard#sol=05f61c4af41afc6eee979299b34191c7e106140a,2h ago,2.0,2026-04-17T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"A high-growth FinTech business is looking for an experienced AI Engineer to join a newly established AI function, working directly with senior leadership to drive automation, efficiency, and intelligent product capabilities across the organisation.
+
+This is a hands-on, high-impact role where you’ll operate at the intersection of AI, software engineering, and cloud infrastructure, with the opportunity to shape how AI is embedded across core business systems.
+
+Salary: Up to $180k + Super 
+Location: Sydney CBD
+Hybrid: 3 days/week in office
+
+What You'll Do
+
+Design and build agentic AI workflows across CRM, core platforms, and contact centre systems
+Develop and deploy AI-powered features, tools, and integrations
+Lead experimentation across prompt engineering and optimisation
+Build widgets and enhancements within internal platforms and customer-facing systems
+Integrate AI solutions across business systems and infrastructure
+Evaluate and implement emerging AI tooling and workforce solutions
+Enhance chat interfaces and knowledge systems (including MCP connectivity)
+Work closely with stakeholders across the business — from frontline teams to executives
+What You'll Bring
+
+Strong hands-on experience in Python and software development
+Solid experience working with AWS and the broader AWS ecosystem
+Experience with Infrastructure as Code (Terraform preferred)
+Background spanning both application development and cloud/infrastructure
+Ability to operate in a consultative, business-facing capacity
+Comfortable navigating ambiguity and working across a broad tech stack
+Strong communication skills with the ability to engage diverse stakeholders
+If you have any questions about this role or others we have available you can email our team directly via jack@thedrivegroup.com.au 
+   
+For The Latest Jobs, Tech News or to 'Introduce A Friend' for a $1000 Referral Fee - Follow Us On Linkedin:
+   
+https://www.linkedin.com/company/thedrivegroup
+   
+TheDriveGroup is 100% committed to improving meaningful diversity in the technology industry.
+   
+We partner with clients who embrace diversity and seek candidates across all backgrounds, abilities, genders, sexualities, cultures, and faiths.
+   
+If you have the right skills and attitude we would love to hear from you!"
+91582811,Senior AI Automation Engineer – Digital,Forever New Clothing,https://www.seek.com.au/job/91582811?type=standard&ref=search-standalone&origin=jobCard#sol=db7b9daa812df8e6f69233a7a7c0503b528ef87f,3h ago,3.0,2026-04-17T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Generous Salary + Super + 40% discount,"FOREVER US
+
+Step into the world of Forever New, where fashion meets innovation. As one of Australia’s leading global fashion brands, we’ve grown from our Melbourne roots to over 450 stores worldwide with a thriving online presence. Our success is driven by our passionate community of creative thinkers, retail experts, and forward-looking innovators who bring our vision to life - to make it her moment.
+
+At Forever New, we’re not just designing beautiful fashion; we’re building smart, data-driven solutions that power exceptional customer experiences and informed decision-making. Join us as we continue to evolve our BI, Data & Integrations team and shape the future of retail through insight, innovation, and technology.
+
+THE PERKS WE OFFER YOU
+
+As a valued member of the Forever New family, you’ll enjoy a range of benefits designed to support your success and wellbeing:
+
+Enjoy a generous 40% employee discount, with additional discounts for family and friends
+Subsidised daily coffee and lunch at our on-site cafe
+Celebrate special moments with loyalty and birthday leave
+Receive referral incentives for introducing talented people to our team
+Access to wellbeing and sustainability initiatives that support your overall health and purpose
+Thrive through continuous learning and development programs
+Be recognised through our reward and service awards programs
+Benefit from subsidised parking at our vibrant Richmond Head Office
+Gain global exposure across five continents
+
+YOUR DREAM OPPORTUNITY
+
+The Senior AI Automation Engineer - Digital is responsible for designing and delivering AI-enabled capabilities for Digital and eCommerce teams to improve productivity, automate workflows, and accelerate delivery from idea to production. This role delivers practical, production-ready AI solutions aligned to Shopify as FN's central eCommerce platform.
+
+In this role, you will support FN's early adoption of AI by introducing repeatable, supervised delivery patters and progressively embedding them into day-to-day engineering and operational practices. 
+
+You will operate in an agent-led delivery model where AI agents are trusted to execute meaningful implementation work under human supervision, with emphasis on outcomes, quality controls and safe operationalisation rather than approval of every step. You will also contribute digital domain SME insight, reusable patterns, and delivery learnings into FN’s enterprise AI standards and guardrails through established architecture and governance forums.
+
+GET EXCITED TO:
+
+Design and deliver end-to-end AI solutions that improve digital and eCommerce workflows and decision-making.
+Build and deploy AI-enabled assistants/agents and workflow automations for business and IT users.
+Translate business problems into implementable AI capabilities with measurable outcomes.
+Implement retrieval-based patterns (RAG) to ground AI outputs in trusted sources.
+Integrate AI solutions with enterprise systems and tools via approved integration patterns (including MCP where approved).
+Ensure solutions respect data access controls, security requirements, and operational constraints.
+Ensure AI solutions align to Shopify as the central eCommerce platform and support digital operating needs.
+Partner with digital and eCommerce stakeholders to prioritise and deliver high-value use cases.
+Avoid duplicating platform capabilities through AI solutions where Shopify or existing platforms provide the function.
+Ensure AI solutions are production-ready, supportable, and monitored appropriately.
+Monitor solution performance and continuously improve quality, reliability, adoption, and cost.
+Contribute to runbooks, support handover, and operational expectations where required.
+Contribute digital domain SME insight, reusable assets, and implementation feedback into enterprise AI standards and guardrails.
+Escalate material risks, gaps, or exceptions through agreed governance and architecture channels.
+ 
+
+THE SKILLS & EXPERIENCE YOU OFFER US
+
+Experience delivering digital or eCommerce solutions in production environments.
+Experience building AI-enabled workflows, assistants/agents, or automation solutions beyond proof-of-concept.
+Strong understanding of API-based integration and enterprise digital ecosystems.
+Familiarity with retrieval-based AI patterns and tool integration concepts (RAG and similar).
+Strong stakeholder engagement skills across business and technical teams.
+
+BEHAVIOURS & ATTRIBUTES
+
+Strong analytical and problem-solving skills
+Results-driven with excellent organisation and prioritisation abilities
+Calm, adaptable, and effective in fast-paced environments
+Proactive mindset with strong initiative and accountability
+Commercially astute with sound business judgement
+Collaborative communicator, able to engage technical and non-technical stakeholders
+Excellent written and verbal communication skills
+
+OUR VALUES
+
+Whether we’re innovating behind the scenes, collaborating across global teams, or styling our customers in store, these values guide everything we do:
+
+Think Customer
+Respect for All
+Keep it Simple
+Take Responsibility
+Act with Pace
+
+Join Forever New and play a key role in shaping a modern, data-driven retail business.
+Be part of a brand where fashion meets innovation and help us make it her moment."
+91582452,Head of AI & Automation,The Unmarked Group,https://www.seek.com.au/job/91582452?type=standard&ref=search-standalone&origin=jobCard#sol=0cab2e49e2fba19b73f340d542ee02235c0fc439,3h ago,3.0,2026-04-17T05:00:00+00:00,"Richmond, Melbourne VIC",Management (Information & Communication Technology),Full time,,"The Unmarked Group is where strategic expertise meets entrepreneurial innovation. We are a multi-brand, multi-jurisdiction entrepreneurial led business group and our portfolio spans beauty, petcare, energy consultancy, financial and business services, and emerging health and wellness brands. We operate across Australia, USA, Canada, UK, EU and Asia.
+
+We are building an in-house AI and automation capability to replace external consultants and create a durable operational edge across the group. This is a founder-backed, high-trust environment where the Head of AI will have direct access to the executive team and real authority to shape how we work.
+
+Job Summary:
+
+We are hiring a Head of AI & Automation to own our group-wide AI strategy and lead all technical implementation in-house. This role absorbs work previously contracted to an external AI consultancy and is expected to accelerate and deepen it significantly.
+
+You will work across all group entities, building intelligent systems that automate operations, connect data across platforms), and enable our teams to move faster with fewer manual touchpoints.
+
+You will have direct access to group executive leadership and genuine authority to shape how AI is used across the business and a mandate to build - not advise - with real infrastructure, real data, and real operational impact with exposure to a diverse multi-jurisdiction, multi-brand group with active acquisition and growth activity
+
+Key Responsibilities:
+
+AI & Automation Strategy
+
+Own the group-wide AI roadmap — prioritising automation opportunities across operations, finance, supply chain, marketing, and business development
+
+Lead the design and deployment of multi-agent AI systems across the business
+
+Evaluate, select, and implement AI tooling across the group — from frontier model APIs to automation platforms and data infrastructure
+
+Build internal AI workflows that replace external spend and create measurable time savings for senior leadership and operations teams
+
+Supply Chain & Operations Automation 
+
+Own and extend the supply chain automation platform - including Shipment Manager, PO Automation, and Live Operations Dashboard
+
+Lead the deployment: automated retailer connectors, AI Forecast Engine, Promotional Calendar interface, and exception-based forecast review workflow
+
+Maintain, iterate, and expand this infrastructure as a primary ongoing deliverableCross-Group Data & Intelligence
+
+Build and maintain a consolidated data layer across group entities - connecting NetSuite, Shopify, spreadsheet sources, and third-party APIs into a single source of truth
+
+Deploy AI agents and automations for group entities and functions, including document intelligence, contract review, financial reporting, and BD research
+
+Develop repeatable AI content and process workflows including  marketing and operations teams
+
+Team & Delivery
+
+Build and lead a small, high-output AI team - setting technical direction, reviewing work, and ensuring delivery quality
+
+Work directly with the leadership team to define priorities and report on outcomes (time saved, decisions improved, cost avoided)
+
+Deliver thorough documentation, SOPs, and training for every automation deployed -  no black boxes
+
+Qualifications & Competencies:
+
+5+ years in AI/ML engineering, automation architecture, or a senior technical product or engineering role
+
+Hands-on experience building production AI agents and LLM-powered workflows — not just prototypes
+
+Strong proficiency with Python and JavaScript; comfortable working across APIs, databases, and cloud infrastructure
+
+Experience with ERP integration (NetSuite or equivalent) and building automated data pipelines
+
+Proven ability to scope, deliver, and document technical projects end-to-end with minimal oversight
+
+Excellent communication — able to translate complex AI concepts into clear business value for non-technical stakeholders
+
+Experience managing or mentoring junior engineers
+
+Familiarity with multi-agent frameworks eg LangGraph, CrewAI, OpenClaw or equivalent)
+
+Experience in e-commerce, supply chain, or consumer goods environments
+
+Background in financial modelling, forecasting, or BI tooling
+
+Prior experience replacing or internalising an external consultancy engagement"
+91582309,Senior AI Automation Engineer – QA,Forever New Clothing,https://www.seek.com.au/job/91582309?type=standard&ref=search-standalone&origin=jobCard#sol=fca9b9783b17866b563352008f4fcad93a262f45,3h ago,3.0,2026-04-17T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Generous Annual Salary + Super + 40% discount,"FOREVER US
+
+Step into the world of Forever New, where fashion meets innovation. As one of Australia’s leading global fashion brands, we’ve grown from our Melbourne roots to over 450 stores worldwide with a thriving online presence. Our success is driven by our passionate community of creative thinkers, retail experts, and forward-looking innovators who bring our vision to life - to make it her moment.
+
+At Forever New, we’re not just designing beautiful fashion; we’re building smart, data-driven solutions that power exceptional customer experiences and informed decision-making. Join us as we continue to evolve our BI, Data & Integrations team and shape the future of retail through insight, innovation, and technology.
+
+THE PERKS WE OFFER YOU
+
+As a valued member of the Forever New family, you’ll enjoy a range of benefits designed to support your success and wellbeing:
+
+Enjoy a generous 40% employee discount, with additional discounts for family and friends
+Subsidised daily coffee and lunch at our on-site cafe
+Celebrate special moments with loyalty and birthday leave
+Receive referral incentives for introducing talented people to our team
+Access to wellbeing and sustainability initiatives that support your overall health and purpose
+Thrive through continuous learning and development programs
+Be recognised through our reward and service awards programs
+Benefit from subsidised parking at our vibrant Richmond Head Office
+Gain global exposure across five continents
+
+YOUR DREAM OPPORTUNITY
+
+The Senior AI Automation Engineer – QA is responsible for building and scaling AI-enabled test automation for Tier 1 business applications and embedding it into CI/CD to improve test coverage, release confidence, and delivery speed. In this newly created role, you will support FN’s early adoption of AI by introducing repeatable, supervised delivery patterns and progressively embedding them into day‑to‑day engineering and operational practices.
+
+This role delivers production-ready QA automation capabilities and continuously improves reliability, maintainability, and execution performance of automated test suites. You will operate in an agent-led delivery model where AI agents are trusted to execute meaningful implementation work under human supervision, with emphasis on outcomes, quality controls, and repeatability rather than approval of every step.
+
+As our Senior AI Automation Engineer – QA. you will also contribute domain SME insight, reusable patterns, and delivery learnings into FN’s enterprise AI standards and guardrails through established architecture and governance forums.
+
+GET EXCITED TO:
+
+Design and deliver automated test coverage across critical business journeys for Tier 1 business applications.
+Build and maintain automated tests across UI, API, integration, and end-to-end layers.
+Establish repeatable patterns for test automation that can be adopted across delivery teams.
+Apply AI to accelerate test case creation, test maintenance, regression automation, and defect triage.
+Implement practical guardrails for AI-assisted test generation to ensure correctness and traceability.
+Improve time-to-feedback in testing cycles using AI-supported workflows.
+Embed automated testing and quality gates into CI/CD pipelines.
+Define release readiness checks and quality thresholds in partnership with engineering and delivery teams.
+Ensure automated testing results are actionable, transparent, and aligned to release decision-making.
+Monitor automation stability and reduce false positives/negatives in test execution.
+Improve maintainability of test suites through modular design, reuse, and standard patterns.
+Report on automation coverage, execution performance, and quality trends to stakeholders.
+Contribute QA domain SME insight, reusable assets, and implementation feedback into enterprise AI standards and guardrails.
+Escalate material risks, gaps, or exceptions through agreed governance and architecture channels.
+
+THE SKILLS & EXPERIENCE YOU OFFER US
+
+Strong experience in QA automation within enterprise delivery environments.
+Experience in integrating automated testing into CI/CD pipelines and release processes.
+Experience across UI/API/integration/end-to-end testing approaches.
+Exposure to AI-assisted software engineering or QA practices.
+Strong stakeholder engagement skills and ability to drive adoption of automation practices across teams.
+
+BEHAVIOURS & ATTRIBUTES
+
+Strong analytical and problem-solving skills
+Results-driven with excellent organisation and prioritisation abilities
+Calm, adaptable, and effective in fast-paced environments
+Proactive mindset with strong initiative and accountability
+Commercially astute with sound business judgement
+Collaborative communicator, able to engage technical and non-technical stakeholders
+Excellent written and verbal communication skills
+
+OUR VALUES
+
+Whether we’re innovating behind the scenes, collaborating across global teams, or styling our customers in store, these values guide everything we do:
+
+Think Customer
+Respect for All
+Keep it Simple
+Take Responsibility
+Act with Pace
+
+Join Forever New and play a key role in shaping a modern, data-driven retail business.
+Be part of a brand where fashion meets innovation and help us make it her moment."
+91581720,Data Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91581720?type=standard&ref=search-standalone&origin=jobCard#sol=fcb72306736342d3d3ff1f9d643f9dae52b49bd3,3h ago,3.0,2026-04-17T05:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Contract/Temp,INC Super,"Build a modern data platform from the ground up
+
+This isn't just another data engineering contract.
+
+You'll join a major enterprise transformation program, helping design and deliver a next-generation data platform using cutting-edge tools like Microsoft Fabric and Lakehouse architecture.
+
+If you enjoy solving complex data challenges, working with high-volume datasets, and influencing how platforms are built not ust maintained this role is for you.
+
+What makes this role stand out
+
+Greenfield + transformation work (not just BAU)
+Work with modern data stack (Fabric, Delta, PySpark)
+High-impact role supporting analytics & ML outcomes
+Strong collaboration across engineering, analytics & business teams
+Long-term program with extension potential
+
+What you'll be doing
+
+Designing and building scalable data pipelines and architectures in Azure
+Developing solutions in Microsoft Fabric (Lakehouse / Delta)
+Handling end-to-end data workflows - ingestion → transformation → storage
+Writing and optimising complex SQL & PySpark pipelines
+Improving data quality, performance, and reliability
+Supporting advanced analytics and machine learning use cases
+Contributing to data modelling and platform design decisions
+Driving CI/CD and DevOps best practices for data engineering
+Mentoring others and uplifting engineering standards
+
+What you'll bring
+
+Strong experience as a Data Engineer (3+ years)
+Hands-on expertise with:
+Azure Synapse / Data Lakes
+SQL (advanced level)
+Data pipeline development & optimisation
+Experience working with large, complex datasets
+Exposure to PySpark / distributed data processing
+Understanding of data modelling & modern data architectures
+Experience in enterprise or transformation environments
+
+Nice to have: Microsoft Fabric experience or relevant Azure certifications
+
+Contract details
+
+8 Month Contract
+$130PH INC super
+Strong possibility for extension
+
+If interested apply now or reach out to ray.stewart@talentinternational.com"
+91580254,Automation Engineer,Blackbook Executive,https://www.seek.com.au/job/91580254?type=standard&ref=search-standalone&origin=jobCard#sol=0aa039803869c6bcb2eefc652195fbdbfa8fe83e,4h ago,4.0,2026-04-17T04:00:00+00:00,Brisbane QLD,Electrical/Electronic Engineering (Engineering),Full time,,"The Company
 
 This manufacturing business is is a well-established and highly regarded manufacturer investing heavily in automation and operational excellence. Due to continued growth and ongoing capital projects, they are seeking an experienced Automation Engineer to join their Engineering team.
 
@@ -34,7 +561,7 @@ This is a rare opportunity in the current market to join a clear market leader i
 If you would like to discuss this opportunity further you can contact Maurice Tranchina at Blackbook Executive on (03) 9823 7413.
 
 #SCR-maurice-tranchina"
-91580251,AI Data Scientist,SALT SEARCH PTY LTD,https://www.seek.com.au/job/91580251?type=standard&ref=search-standalone&origin=jobCard#sol=c1af1ced00cc07b804fca653a877fdfa09eea044,1h ago,1.0,2026-04-17T05:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,bonus,"AI Data Scientist
+91580251,AI Data Scientist,SALT SEARCH PTY LTD,https://www.seek.com.au/job/91580251?type=standard&ref=search-standalone&origin=jobCard#sol=c602bfbaee8628d9acaed789cbb39827efde9206,4h ago,4.0,2026-04-17T04:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,bonus,"AI Data Scientist
 
 Location: Sydney (Hybrid)
 Type: Full-time
@@ -87,7 +614,7 @@ We pay our respects to all First Nations Australians and their Elders past and p
 We're proud to have won the Best Mid-Sized Recruitment Company to Work For at the 2023 TIARA Recruitment Awards, and to have been finalists, for the second year in a row, in the Client Service and Recruitment Leader of the Year categories! At Salt, our mission is Creating Futures by putting our clients, candidates, partners, and team members at the heart of everything we do. We extend our sincere appreciation to everyone who has contributed to our continued success.
 
 Salt acknowledges the Traditional Owners of the lands across Australia as the continuing custodians of country and culture. We pay our respects to all First Nations Australians and their Elders past and present."
-91580156,Data Engineer-Medicare Mental Health Check In,St Vincent's Health Australia,https://www.seek.com.au/job/91580156?type=standard&ref=search-standalone&origin=jobCard#sol=f41d181d8c00e8748b61b48c1c53a1123ed59710,1h ago,1.0,2026-04-17T05:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,Salary Packaging,"Build at scale with real impact - Design and optimise data platforms that directly support clinical care, operational performance, and national health initiatives
+91580156,Data Engineer-Medicare Mental Health Check In,St Vincent's Health Australia,https://www.seek.com.au/job/91580156?type=standard&ref=search-standalone&origin=jobCard#sol=cfd6159b81661765ad375355951858d981dbaa82,4h ago,4.0,2026-04-17T04:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,Salary Packaging,"Build at scale with real impact - Design and optimise data platforms that directly support clinical care, operational performance, and national health initiatives
 Work at the forefront of AI and modern data platforms - Contribute to data pipelines supporting Machine Learning, Generative AI, and advanced analytics use cases
 Shape the future of data at enterprise level - Influence architecture, governance, and how data is leveraged across one of Australia's largest health systems
 
@@ -195,7 +722,7 @@ Your employment is subject to pre-employment checks, including relevant immunisa
 
 Equal Opportunity
 We welcome applications from people of all backgrounds, identities and abilities - including Aboriginal and Torres Strait Islander people, culturally and linguistically diverse communities, LGBTQIA+ communities and people with lived experience of mental health challenges. Inclusion is essential to our mission - and diversity reflects the community we serve."
-91580056,Data Engineer,Aurora Energy,https://www.seek.com.au/job/91580056?type=standard&ref=search-standalone&origin=jobCard#sol=2c76423bdd2548c62fa81ee09f802458b64ed39a,1h ago,1.0,2026-04-17T05:00:00+00:00,Hobart TAS (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us  
+91580056,Data Engineer,Aurora Energy,https://www.seek.com.au/job/91580056?type=standard&ref=search-standalone&origin=jobCard#sol=0dc4d870ce1fd4a4f931a8ff57e3edf25c13b609,4h ago,4.0,2026-04-17T04:00:00+00:00,Hobart TAS (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About Us  
 
 With a focus on innovation and delivering better customer outcomes, there has never been a better time to work in the Tasmanian energy sector with Aurora Energy. Be a part of Tasmania’s energy future and make a strong contribution to the ongoing success of our business. 
 
@@ -246,7 +773,7 @@ If you have what it takes, please click ‘I’m interested’ or 'apply', ensur
 You will be required to satisfy a National Criminal History Police Check. 
 
 Applications close 9am Friday, 1 May 2026."
-91578421,Automation Engineer,PROFOUND - PEOPLE IN TECHNOLOGY,https://www.seek.com.au/job/91578421?type=standard&ref=search-standalone&origin=jobCard#sol=4bba1a0e09f4732b171101e88640e1bcbdb56f04,2h ago,2.0,2026-04-17T04:00:00+00:00,Sydney NSW,Electrical/Electronic Engineering (Engineering),Full time,,"Automation Engineer | Sydney, Hybrid | Salary + Stock | Hardware & Process Automation
+91578421,Automation Engineer,PROFOUND - PEOPLE IN TECHNOLOGY,https://www.seek.com.au/job/91578421?type=standard&ref=search-standalone&origin=jobCard#sol=8a249684edd008464c6a350ed8f285dfc39d3df3,5h ago,5.0,2026-04-17T03:00:00+00:00,Sydney NSW,Electrical/Electronic Engineering (Engineering),Full time,,"Automation Engineer | Sydney, Hybrid | Salary + Stock | Hardware & Process Automation
   
 We’re partnering with a scrappy, fast-paced biotech startup that’s scaling real-world production systems to solve some of the planet’s biggest sustainability challenges.
   
@@ -273,7 +800,7 @@ Solid Python skills (C/C++ or embedded experience is a bonus)
 Comfort operating in fast-paced, startup-style settings with real hardware challenges
 An AI-first approach or, interest in working with AI to write code.
 If interested, please apply with your most up-to-date CV & I’ll be in touch!"
-91575630,AI Innovation Engineer,Insurance Commission of WA,https://www.seek.com.au/job/91575630?type=standard&ref=search-standalone&origin=jobCard#sol=a651fd842aa2840f117663216e1c50c8f0025cc1,3h ago,3.0,2026-04-17T03:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"Level 6, $120,457 – $132,753 pa plus super","About Us
+91575630,AI Innovation Engineer,Insurance Commission of WA,https://www.seek.com.au/job/91575630?type=standard&ref=search-standalone&origin=jobCard#sol=285f20cf3f274942c5415b9836251af59e5c2e7a,6h ago,6.0,2026-04-17T02:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"Level 6, $120,457 – $132,753 pa plus super","About Us
 
 The Insurance Commission of Western Australia (“ICWA”) is a state-owned Government Trading Enterprise that provides motor injury insurance to 2.7m Western Australian motorists and manages the self-insurance arrangements of the Western Australian Government. Generating $1.4b in revenue over the six months to 31 December 2025 and holding nearly $9.7b in assets, ICWA is a major self-funded statutory authority at the heart of the WA community.
 
@@ -348,7 +875,7 @@ In addition to the immediately available position, appointments may be made from
 Please note that we may elect to engage an external recruitment firm to source additional candidates at any stage of this recruitment and selection process.
 
 Any offer of employment is conditional upon the satisfactory completion of pre-employment screening. This includes an Australian Criminal History Check, Entitlement to Work in Australia Check and Verification of Qualification/s (if applicable).  Additional role specific checks may also be required (i.e. Working with Children check)."
-91575541,Senior Mechanical Engineer,Mission Critical Recruitment,https://www.seek.com.au/job/91575541?type=standard&ref=search-standalone&origin=jobCard#sol=e1c949902afa008a9e035454aa8fb6d3d69f8b30,3h ago,3.0,2026-04-17T03:00:00+00:00,Melbourne VIC (Remote),Mechanical Engineering (Engineering),Full time,,"Senior Mechanical Engineer - Nex Gen Digital Infrastructure
+91575541,Senior Mechanical Engineer,Mission Critical Recruitment,https://www.seek.com.au/job/91575541?type=standard&ref=search-standalone&origin=jobCard#sol=eee615049e54ccbb2191bcb2d7fa206d6f57b252,6h ago,6.0,2026-04-17T02:00:00+00:00,Melbourne VIC (Remote),Mechanical Engineering (Engineering),Full time,,"Senior Mechanical Engineer - Nex Gen Digital Infrastructure
 
 
 This is your chance to lead the mechanical engineering strategy for a high-growth leader in the high-density compute revolution, where you will design cutting-edge, high-performance infrastructure used by the world’s leading technology platforms.
@@ -381,7 +908,7 @@ This emerging leader in the high-density compute space is pioneering solutions t
   
   
 Please click the ‘Apply’ button. Do not worry if your CV is not up to date. Just send what you have and we will deal with that later."
-91575410,Senior Mechanical Engineer,Mission Critical Recruitment,https://www.seek.com.au/job/91575410?type=standard&ref=search-standalone&origin=jobCard#sol=d5f8bde235096578e4ca5f21f97f2a41d7a4065a,3h ago,3.0,2026-04-17T03:00:00+00:00,Sydney NSW (Remote),Mechanical Engineering (Engineering),Full time,,"Senior Mechanical Engineer - Nex Gen Digital Infrastructure
+91575410,Senior Mechanical Engineer,Mission Critical Recruitment,https://www.seek.com.au/job/91575410?type=standard&ref=search-standalone&origin=jobCard#sol=437ae0421cf2330bc186958245fdd603d1be6ad0,6h ago,6.0,2026-04-17T02:00:00+00:00,Sydney NSW (Remote),Mechanical Engineering (Engineering),Full time,,"Senior Mechanical Engineer - Nex Gen Digital Infrastructure
 
 
 This is your chance to lead the mechanical engineering strategy for a high-growth leader in the high-density compute revolution, where you will design cutting-edge, high-performance infrastructure used by the world’s leading technology platforms.
@@ -413,7 +940,7 @@ This emerging leader in the high-density compute space is pioneering solutions t
   
   
 Please click the ‘Apply’ button. Do not worry if your CV is not up to date. Just send what you have and we will deal with that later."
-91574953,Machine Learning Engineer - Training & Dataset Platform (AU remote),Canva,https://www.seek.com.au/job/91574953?type=standard&ref=search-standalone&origin=jobCard#sol=4efafc6821678e9a1f42e8b8047ba230aba2ce4c,4h ago,4.0,2026-04-17T02:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+91574953,Machine Learning Engineer - Training & Dataset Platform (AU remote),Canva,https://www.seek.com.au/job/91574953?type=standard&ref=search-standalone&origin=jobCard#sol=c0cb3a1e102c3ecc4cac85501d83fdd0fd57fcbc,6h ago,6.0,2026-04-17T02:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
@@ -481,7 +1008,7 @@ Other stuff to know
 We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
 
 All interviews are conducted virtually"
-91574312,Software Developer / Engineer - AI Specialist (AUS),LT Network,https://www.seek.com.au/job/91574312?type=standard&ref=search-standalone&origin=jobCard#sol=7e6902fa6b5fd12e5f11116d5efb1210215ac59b,4h ago,4.0,2026-04-17T02:00:00+00:00,"Hawthorn, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We are looking for passionate developers who love problem-solving and are motivated to stay up-to-date with trends in web development. We value new ideas and technologies to continually improve both the developer and user experience.
+91574312,Software Developer / Engineer - AI Specialist (AUS),LT Network,https://www.seek.com.au/job/91574312?type=standard&ref=search-standalone&origin=jobCard#sol=7f61db0a33dbb7391ea7e7fc082a04cc3dd5bb28,6h ago,6.0,2026-04-17T02:00:00+00:00,"Hawthorn, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We are looking for passionate developers who love problem-solving and are motivated to stay up-to-date with trends in web development. We value new ideas and technologies to continually improve both the developer and user experience.
 
 Digital Stack is an all-in-one marketing and brand management platform for franchise and multi-location businesses. No other tool gives head office teams and agencies the same power and control over the marketing of their network, domestically and internationally.
 
@@ -537,7 +1064,7 @@ Have the right to live and work in Australia
 
 Please email your CV with a personalised cover letter to careers@digitalstack.io
 Note: you will not be considered without providing a personalised cover letter."
-91573904,Data Scientist,Paxus,https://www.seek.com.au/job/91573904?type=standard&ref=search-standalone&origin=jobCard#sol=28778098aa6f00f3e4fb8a94cfe5eabf19f10458,4h ago,4.0,2026-04-17T02:00:00+00:00,Brisbane QLD,Other (Information & Communication Technology),Contract/Temp,,"Are you a passionate, hands-on AI practitioner with a knack for software engineering and a desire to build production-grade, agent-enabled AI systems at scale? Do you thrive on designing intelligent solutions that can reason, plan, use tools, and operate reliably in real-world environments? If so, we want to hear from you. Be part of a transformative journey, shaping how AI is designed, built, and deployed to create meaningful impact in the Brisbane community and beyond.
+91573904,Data Scientist,Paxus,https://www.seek.com.au/job/91573904?type=standard&ref=search-standalone&origin=jobCard#sol=c098a77dc4c9b1415501daf1610ca625479afb06,7h ago,7.0,2026-04-17T01:00:00+00:00,Brisbane QLD,Other (Information & Communication Technology),Contract/Temp,,"Are you a passionate, hands-on AI practitioner with a knack for software engineering and a desire to build production-grade, agent-enabled AI systems at scale? Do you thrive on designing intelligent solutions that can reason, plan, use tools, and operate reliably in real-world environments? If so, we want to hear from you. Be part of a transformative journey, shaping how AI is designed, built, and deployed to create meaningful impact in the Brisbane community and beyond.
 
 
 
@@ -612,7 +1139,7 @@ Bring your expertise and innovative spirit to a role where your work directly in
 To be considered for the role click the 'apply' button or for more information about this and other opportunities please contact Anna Reyes on + 617 3709 7456 or email areyes@paxus.com.au and quote the above job reference number.
 
 Paxus values diversity and welcomes applications from Indigenous Australians, people from diverse cultural and linguistic backgrounds and people living with a disability. If you require an adjustment to the recruitment process, including the application form in an alternate format, please contact me on the above contact details."
-91573620,ServiceNow Achitect - CMDB and CSDM,FinXL IT Professional Services,https://www.seek.com.au/job/91573620?type=standard&ref=search-standalone&origin=jobCard#sol=d1d4778d95a1e8207e6df9fc26a5b1a85e532707,4h ago,4.0,2026-04-17T02:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"ServiceNow CMDB - CSDM Architect
+91573620,ServiceNow Achitect - CMDB and CSDM,FinXL IT Professional Services,https://www.seek.com.au/job/91573620?type=standard&ref=search-standalone&origin=jobCard#sol=7214697314326f0e8cf1caf3ada4790b78aaa532,7h ago,7.0,2026-04-17T01:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Contract/Temp,,"ServiceNow CMDB - CSDM Architect
 Sydney CBD and Work from home
 3 months + + contract
 
@@ -637,7 +1164,7 @@ Next Steps
 If you would like to apply to this fantastic opportunity please apply online or call Jackie Gibbons on 0432 268 298
 
 S12"
-91573345,"Senior Data Engineer (Analyst, Data Engineering)",Newmont Australia,https://www.seek.com.au/job/91573345?type=standard&ref=search-standalone&origin=jobCard#sol=da491c42b72d6137e60c6b60410c38e8cf37889a,4h ago,4.0,2026-04-17T02:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company description:
+91573345,"Senior Data Engineer (Analyst, Data Engineering)",Newmont Australia,https://www.seek.com.au/job/91573345?type=standard&ref=search-standalone&origin=jobCard#sol=31d842c86950daeae390be7ab897ceade28c58d6,7h ago,7.0,2026-04-17T01:00:00+00:00,Perth WA (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Company description:
 
 
 
@@ -705,7 +1232,7 @@ This role is ideally based in Perth, however flexible work arrangements, includi
 You will work closely with a highly capable technical team across architecture, engineering and data functions, supporting stakeholders across operations and digital teams.
 
 Occasional travel may be required to engage with stakeholders or support specific initiatives."
-91572633,AI Data Scientist,SALT SEARCH PTY LTD,https://www.seek.com.au/job/91572633?type=standard&ref=search-standalone&origin=jobCard#sol=386b05cc344e411790eaa91218144ea78b14ddb7,5h ago,5.0,2026-04-17T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,$175k - $230k p.a. + bonus,"Please note, candidates must be able to accommodate a start date of 18th May.
+91572633,AI Data Scientist,SALT SEARCH PTY LTD,https://www.seek.com.au/job/91572633?type=standard&ref=search-standalone&origin=jobCard#sol=7fe080798b3f720c1ab18dfc506a331d9369096d,7h ago,7.0,2026-04-17T01:00:00+00:00,Melbourne VIC,Other (Information & Communication Technology),Full time,$175k - $230k p.a. + bonus,"Please note, candidates must be able to accommodate a start date of 18th May.
 
 Join one of Australia's Big 4 Banks as an AI data Scientist in a new enterprise AI function of the bank. This is a rare opportunity to work at the forefront of applied AI while helping shape the next generation of banking technology.
 
@@ -742,7 +1269,7 @@ We pay our respects to all First Nations Australians and their Elders past and p
 We're proud to have won the Best Mid-Sized Recruitment Company to Work For at the 2023 TIARA Recruitment Awards, and to have been finalists, for the second year in a row, in the Client Service and Recruitment Leader of the Year categories! At Salt, our mission is Creating Futures by putting our clients, candidates, partners, and team members at the heart of everything we do. We extend our sincere appreciation to everyone who has contributed to our continued success.
 
 Salt acknowledges the Traditional Owners of the lands across Australia as the continuing custodians of country and culture. We pay our respects to all First Nations Australians and their Elders past and present."
-91571873,AI Engineer,Talenza,https://www.seek.com.au/job/91571873?type=standard&ref=search-standalone&origin=jobCard#sol=8698a917b3dcb7fe30bd339b75aa9bb715ba21ab,5h ago,5.0,2026-04-17T01:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"AI Engineer
+91571873,AI Engineer,Talenza,https://www.seek.com.au/job/91571873?type=standard&ref=search-standalone&origin=jobCard#sol=a75f1b81feb29dba149a9ea7e6294f1a7af6bc76,8h ago,8.0,2026-04-17T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"AI Engineer
 Sydney | Hybrid | Permanent
 
 We're working with a technology-led organisation investing heavily in modern engineering capability and applied AI to improve how teams build, operate, and scale digital solutions and enabled with wider business.
@@ -783,7 +1310,7 @@ Strong engineering leadership and mentorship
 Modern cloud and platform environment (AWS + Kubernetes)
 Opportunity to shape how AI is integrated into broader engineering systems
 Collaborative, delivery-focused culture"
-91571736,"AI Engineer - Python, AWS, Kubernetes - FinTech / Sydney / Hybrid",Profusion PAC Pty Ltd,https://www.seek.com.au/job/91571736?type=standard&ref=search-standalone&origin=jobCard#sol=3415130c4ba900aafe4b27ce61027e8bcd651eb0,5h ago,5.0,2026-04-17T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $180k base + super + benefits/bonus,"We’re looking for an AI Engineer to design, build, and deploy AI-powered solutions that directly improve operational and sales efficiency. This is a hands-on engineering role focused on AI orchestration, integration, and infrastructure - not research, not management.
+91571736,"AI Engineer - Python, AWS, Kubernetes - FinTech / Sydney / Hybrid",Profusion PAC Pty Ltd,https://www.seek.com.au/job/91571736?type=standard&ref=search-standalone&origin=jobCard#sol=d098b5ae88a4f0e50c15f1d477d65b2f3f439934,8h ago,8.0,2026-04-17T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $180k base + super + benefits/bonus,"We’re looking for an AI Engineer to design, build, and deploy AI-powered solutions that directly improve operational and sales efficiency. This is a hands-on engineering role focused on AI orchestration, integration, and infrastructure - not research, not management.
 
 You’ll work across Python, LLM tooling, cloud infrastructure, and Kubernetes to deliver production-ready AI workflows embedded into core platforms.
 
@@ -813,7 +1340,7 @@ Backed by a collaborative engineering culture that values speed and quality
 If you want to build real AI products - not endless prototypes - this is your role!
  
 Apply below or email your CV directly to josh.kitchin@profusiongroup.com"
-91571382,Digital Systems Evaluation Specialist,Alannah and Madeline Foundation,https://www.seek.com.au/job/91571382?type=standard&ref=search-standalone&origin=jobCard#sol=b4dfefe61377ea3580d4b20ff8d0788a88b42263,6h ago,6.0,2026-04-17T00:00:00+00:00,"South Melbourne, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,,"About the Alannah & Madeline Foundation
+91571382,Digital Systems Evaluation Specialist,Alannah and Madeline Foundation,https://www.seek.com.au/job/91571382?type=standard&ref=search-standalone&origin=jobCard#sol=838a3c88e485fafa325c5d71d1932a571c4fe1ce,8h ago,8.0,2026-04-17T00:00:00+00:00,"South Melbourne, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,,"About the Alannah & Madeline Foundation
 
 The Alannah & Madeline Foundation is a national not-for-profit organisation dedicated to keeping children and young people free from violence and trauma wherever they live, learn and play.  Through our Care, Prevention and Advocacy programs, we fight for their right to be safe, so their future is strong. 
 
@@ -859,7 +1386,7 @@ Synthesising, analysing and calling out initial insights from large datasets
 Strong organisation skills to manage multiple evaluation streams simultaneously. 
 Positive relationships with internal teams and external partners. 
 A Working with Children Check and police check."
-91571307,Performance Architect,Technology One Limited,https://www.seek.com.au/job/91571307?type=standard&ref=search-standalone&origin=jobCard#sol=3de85aae4cd57b9383801516ff4079fd0a803245,6h ago,6.0,2026-04-17T00:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Competitive Remuneration & Benefits,"We're looking for a senior Performance Architect to help us take our platforms to the next level. Working closely with our Site Reliability Engineering (SRE) team, you'll define what ""high performance"" looks like and drive initiatives that make our software faster, more scalable, and more reliable for our customers.
+91571307,Performance Architect,Technology One Limited,https://www.seek.com.au/job/91571307?type=standard&ref=search-standalone&origin=jobCard#sol=7eef9a54fdc05dae11abccd9b8bfc3ca9b7d535d,8h ago,8.0,2026-04-17T00:00:00+00:00,Brisbane QLD (Hybrid),Architects (Information & Communication Technology),Full time,Competitive Remuneration & Benefits,"We're looking for a senior Performance Architect to help us take our platforms to the next level. Working closely with our Site Reliability Engineering (SRE) team, you'll define what ""high performance"" looks like and drive initiatives that make our software faster, more scalable, and more reliable for our customers.
 
 This is a senior, influential role where you'll shape engineering culture around performance and resilience. You'll set standards, KPIs, and SLOs, guide teams on best practices, and help ensure our enterprise software runs seamlessly at scale. While strategic and advisory, there's also room to get hands-on with performance tuning, load testing, and optimisation if that's your strength.
 
@@ -908,7 +1435,7 @@ Who we are…
 TechnologyOne (ASX: TNE) is Australia's largest enterprise software company and one of the top 100 ASX-listed companies, with offices in six countries. Our global SaaS ERP platform powers over 1,200 organisations, helping them focus on their business, not technology.
 
 For more than 36 years, we've been evolving enterprise software to adapt to new technologies, making life simple for our customers wherever they are."
-91570924,Reliability Engineer,Loop Recruitment,https://www.seek.com.au/job/91570924?type=standard&ref=search-standalone&origin=jobCard#sol=1b7969b81dc300044269243bd6363ca01dfd2900,6h ago,6.0,2026-04-17T00:00:00+00:00,Melbourne VIC,Maintenance (Engineering),Full time,,"Our Client
+91570924,Reliability Engineer,Loop Recruitment,https://www.seek.com.au/job/91570924?type=standard&ref=search-standalone&origin=jobCard#sol=10c1496489ac4038044f6d9f15760c6ec21d52f2,9h ago,9.0,2026-04-16T23:00:00+00:00,Melbourne VIC,Maintenance (Engineering),Full time,,"Our Client
 Our client is in a phenomenal position and this opportunity has plenty of growth. We are looking for a Maintenance & Reliability Engineer to schedule and manage multi-sites focusing on Systems, CMMS & Asset Strategy.
 
 The role will focused on building and governing maintenance systems, asset strategy, and reliability practices across multiple sites — moving the business toward a more proactive, data-driven maintenance function and taking key stakeholders on the journey. 
@@ -967,7 +1494,7 @@ Exposure to OEE, asset strategy, or maintenance budgeting highly regarded
 GET IN TOUCH
   
 If you require more information on the role or if you have any further questions, please contact Luke Batten via Email at luke@loop-recruit.com"
-91570767,Staff AI Engineer - Data Scientist,Future Secure AI Pty Ltd,https://www.seek.com.au/job/91570767?type=standard&ref=search-standalone&origin=jobCard#sol=7536705b5fc5e0f84ee0a5099beb7d1d0e6437e8,6h ago,6.0,2026-04-17T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"About Us
+91570767,Staff AI Engineer - Data Scientist,Future Secure AI Pty Ltd,https://www.seek.com.au/job/91570767?type=standard&ref=search-standalone&origin=jobCard#sol=5792dfd949bb87dd68954b73849aed75af130c19,9h ago,9.0,2026-04-16T23:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"About Us
 
 Future Secure AI is a rapidly scaling frontier‑AI company co‑developed with one of the world’s largest financial institutions. We operate with startup speed and enterprise backing, building agentic AI Co‑workers—autonomous, reasoning‑capable systems designed to partner with humans and 10x organisational performance.
 
@@ -1037,7 +1564,7 @@ Learn and grow alongside world‑class engineers, researchers, and commercial le
 Solve hard, meaningful problems with massive real‑world impact
 
 Join a high‑trust, high‑performance culture focused on mastery, ownership, and impact"
-91570398,Advanced Software Engineer,Honeywell Ltd,https://www.seek.com.au/job/91570398?type=standard&ref=search-standalone&origin=jobCard#sol=ebb7b871d3fc4964bc333b30c68f05d0c84e52eb,7h ago,7.0,2026-04-16T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"THE FUTURE IS WHAT WE MAKE IT. 
+91570398,Advanced Software Engineer,Honeywell Ltd,https://www.seek.com.au/job/91570398?type=standard&ref=search-standalone&origin=jobCard#sol=32d0e8d3640dcb31a36984ad34b771ca5a14b8ef,9h ago,9.0,2026-04-16T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"THE FUTURE IS WHAT WE MAKE IT. 
 
 
 
