@@ -1,114 +1,105 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91599467,Computer Vision / Machine Learning Engineer,AEY & Associates,https://www.seek.com.au/job/91599467?type=standard&ref=search-standalone&origin=jobCard#sol=685b140cc588963a91cefac3b15360b73bc18360,1h ago,1.0,2026-04-18T08:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,$100k to $140k + super,"Computer Vision / Machine Learning Engineer (0–2 years)
-  
-A high-growth deep-tech startup is building advanced machine vision systems for automation and quality assurance. The focus is on solving real-world spatial problems using LIDAR, lasers, and AI — not just training models, but deploying full systems into production environments.
-  
-This is a role for someone who wants to work end-to-end — from raw sensor data through to deployed solutions that directly impact customers.
-
-What You’ll Be Doing
-
-Develop computer vision and perception algorithms across image + 3D data
-Work with LIDAR, cameras, and multi-sensor inputs to build spatial understanding
-Design solutions involving point clouds, image processing, and sensor fusion
-Take ideas from prototype → production-ready systems
-Optimise for performance, robustness, and real-world reliability
-Collaborate closely with engineers — reviewing, iterating, and building together
-What You’ll Bring
-
-PhD in Computer Vision, Robotics, or related field
-0–2 years’ industry experience (ideal: PhD + some commercial exposure)
-Strong grounding in mathematics, algorithms, and 3D problem solving
-Experience working with sensor data (LIDAR, cameras, etc.)
-Strong Python skills (language less important than thinking ability)
-What Actually Matters
-
-You enjoy solving hard, real problems, not just applying libraries
-You build and experiment outside of work
-You collaborate naturally — no lone wolves
-You take ownership, but work as part of a team
-Nice to Have
-
-Point clouds, SLAM, or 3D reconstruction
-GPU/CUDA or performance optimisation
-Any exposure to hardware systems
-Why This Role
-
-Work on real 3D vision problems with real data
-Direct impact — your work ships to customers
-Engineering-led, collaborative culture
-Fast iteration, high ownership, no bureaucracy
-If this role sounds like a good fit, you can click APply and send through your details. Or you can email me at farid@aeyandassociates.com"
-91597426,Machine Learning Engineer - Training & Dataset Platform (AU remote),Canva,https://www.seek.com.au/job/91597426?type=standard&ref=search-standalone&origin=jobCard#sol=97964e148c62e365b67f50838e23ec6b4582e722,6h ago,6.0,2026-04-18T03:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+91601028,AI Productivity Platform Engineer,Universal Music,https://www.seek.com.au/job/91601028?type=standard&ref=search-standalone&origin=jobCard#sol=7fb387712bb4bd6d33f194980e2c62ca86f1b82e,6h ago,6.0,2026-04-18T14:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,,"Job Summary:
 
 
-Join the team redefining how the world experiences design.
+The AI Productivity Platform Engineer designs, builds, and operates the enterprise’s AI‑powered productivity ecosystem. This role focuses on engineering robust, secure, and scalable solutions across Microsoft 365 & Copilot, OpenAI ChatGPT Enterprise / Azure OpenAI, and Google Gemini / Workspace. The role will assist with administering, optimizing, and evolving AI-driven productivity and collaboration platforms across the enterprise. You will identify and create integrations, automations, and extensions that measurably improve employee productivity, while ensuring strong governance, security, and reliability. You will ensure secure, scalable, high-performing, and innovative use of AI to enhance employee productivity worldwide.
 
-Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+You will partner closely with Security, Privacy, Data Governance, Enterprise Architecture, and regional IT teams to deliver engineered outcomes—codifying configurations, automating operations, and instrumenting platforms with observable telemetry.
 
-Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. 
+In addition to having strong technical skills, you must be comfortable in effectively communicating with business end users, technical IT teams, business partners, network providers, and business process outsourced vendors, all while being sensitive to a wide diversity of cultural and technical backgrounds in a global business environment.
 
-Where and how you can work
-
-Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, & Adelaide. You have flexibility in how and where you work — whether that's from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia, so you can choose the setup that empowers you and your team to do your best work.
-
-Job Description
+Job Functions:
 
 
-About the Group/Team
+Platform Administration, Engineering & Architecture
 
-In the AI Platform group — AI Capabilities / Dataset & Training Platform — we build the underlying systems that enable teams across Canva to develop and improve AI features at scale. We focus on making high-quality training data easier to create, manage, and evaluate, while keeping trust, safety, and reliability front-and-centre. We partner closely with ML engineers, applied scientists, product teams, and platform teams to unblock development and lift the baseline for how AI is built at Canva. Our work creates leverage: when we ship, many teams ship faster and safer.
+Administer, configure, and optimize AI productivity platforms including Microsoft 365 Copilot, OpenAI ChatGPT, Google Gemini / Workspace, and integrated AI assistants across enterprise applications.
+Manage platform controls, user provisioning, entitlements, and AI model access policies.
+Perform ongoing platform maintenance, including upgrades, monitoring, troubleshooting, and performance tuning.
+Ensure responsible AI usage in alignment with corporate governance, data privacy, and security requirements.
+Collaborate with Security, Legal, and Data Governance teams on AI usage reviews, risk assessments, and third-party integrations.
+Design secure, scalable reference architectures for AI productivity platforms (M365 & Copilot, ChatGPT Enterprise / Azure OpenAI, Google Gemini / Workspace).
+Implement configuration‑as‑code patterns for tenant, policy, and feature configuration; create reusable templates and guardrails.
+Engineer platform controls for data access, model access policies, rate limits, and cost governance.
+
+AI Use Case Enablement & Optimization
+
+Support and enable AI adoption across business functions by configuring features, deploying use cases, and optimizing usage.
+Monitor AI usage patterns, identify optimization opportunities, and recommend improvements to drive measurable productivity impact.
+Stay current with platform advancements and evaluate new AI features for enterprise readiness.
+Develop business cases for activating new capabilities or retiring legacy tools.
+
+Platform Integration & Automation
+
+Integrate AI productivity platforms with existing collaboration tools such as Slack, Zoom, Box, and other enterprise systems.
+Leverage Power Platform tools (Power Automate, Power Apps, Dataverse) to create automations and streamline business workflows.
+Support API-based integrations, identity federation (OAuth, SAML), and enterprise SSO standards.
+Drive automation and efficiency opportunities across global teams.
+
+User Experience, Support & Training
+
+Provide Tier 2/3 support for AI productivity and collaboration platforms, ensuring exceptional service and adoption.
+Assist in developing and delivering training, onboarding content, and best-practice guidance for global users working closely with User Enablement team.
+Partner with regional IT teams to ensure consistent delivery of support services across time zones.
+
+Security, Compliance & Responsible AI
+
+Implement Zero Trust principles: least privilege, Entra ID conditional access, OAuth2/OIDC, SAML, and SCIM.
+Engineer data protection controls: DLP, sensitivity labels, Safe Links/Attachments, eDiscovery, audit; enforce regional data residency where required.
+Collaborate with Risk/Legal on responsible AI guardrails (prompt injection mitigation, data exfiltration controls, content filtering) and model change management.
+
+Documentation, Governance & Standards
+
+Maintain up-to-date documentation, including platform standards, configuration guides, AI usage policies, and troubleshooting procedures.
+Support enterprise governance frameworks, helping ensure responsible and compliant AI usage.
+Contribute to global playbooks and operational runbooks for the AI productivity ecosystem.
+
+Strategic Collaboration & Planning
+
+Work closely with the Senior Director, Collaboration Technology, contributing insights and recommendations that support long-term AI productivity strategy.
+Participate in roadmap planning for enterprise AI tools, global collaboration platforms, and automation initiatives.
+Provide regional insights to help shape global platform decisions and adoption strategies.
+Job Requirements:
 
 
-About the Role/Specialty
+Required Skills & Qualifications
 
-As a Machine Learning Engineer, you’ll work at the intersection of ML, data systems, and platform engineering to help build and improve the datasets and tooling that enable training and evaluation. We’re looking for someone who enjoys rolling up their sleeves to solve real problems — improving data quality, pipeline reliability, and developer workflows. You’ll contribute to systems that make it easier for teams to run experiments, iterate on models, and measure improvements over time. Your work will directly impact the speed and quality of AI development across Canva.
+Hands-on administration experience with Microsoft 365, Google Workspace, and ideally AI platforms such as Copilot, ChatGPT Enterprise, or Gemini for Workspace.
+Experience with enterprise collaboration tools such as Slack, Box, Zoom, and associated third-party integrations.
+Working knowledge of Azure AD, identity management (OAuth, SAML), and SSO implementations.
+Proficiency in automation and integration tools, including PowerShell, REST APIs, Power Platform, and workflow automation.
+Proven experience building against Microsoft Graph, Google Workspace APIs, and OpenAI/Gemini APIs.
+DevOps proficiency: GitHub or Azure DevOps, Terraform/Bicep, artifact/versioning, secrets management (Key Vault/Secret Manager).
+Experience with AI tools, prompt engineering fundamentals, and understanding of enterprise AI risks and governance.
+Strong communication skills, with the ability to translate complex technology into clear, user-friendly language.
+Ability to work autonomously and collaboratively within a global team, with flexibility across time zones.
+Strong organizational and multitasking abilities, with excellent follow-through.
 
-What you’ll do (responsibilities)
+Education & Certifications
 
-You’ll build and improve data pipelines, dataset tooling, and platform components that support ML training and evaluation.
+Required:
 
-You’ll partner with ML and applied science teams to translate training/evaluation needs into scalable platform solutions.
+Bachelor’s degree in Computer Science, Information Systems, Business Administration (with IT focus), or related field.
 
-You’ll implement quality controls (validation, monitoring, testing) to improve trust in data and pipeline outcomes.
+Preferred:
 
-You’ll debug issues across data + ML workflows, driving root-cause fixes and preventing repeat incidents.
+Master’s degree in a related discipline.
+Certifications such as:
+Microsoft 365 Administrator / Collaboration Communications Systems Engineer
+Google Workspace Administrator
+AI-related certifications from Microsoft, Google, or OpenAI
+ITIL Foundation or PMP for service and project management
 
-You’ll contribute to engineering standards: code quality, documentation, and operational readiness.
+Universal Music Group is an Equal Opportunity Employer. 
 
-You’ll support iteration velocity by improving developer experience for dataset discovery, usage, and experimentation.
+Diversity & Inclusion 
 
-What we're looking for
+At Universal Music we are committed to fostering diversity and inclusivity as an equal opportunity employer. We encourage applicants from all backgrounds to apply for our roles regardless of their gender, race, ethnicity, nationality, age, sexual orientation, gender identity, intersex status, marital or family status, neurodiversity, religion or belief, disabilities, or socio-economic background. We also encourage people from all cultural backgrounds to apply, including First Nations people. It is through our diversity and inclusivity that we bring together different perspectives, enhancing our creative and evolving workplace. Music is Universal. 
 
-We’re looking for a pragmatic engineer who enjoys solving messy, real-world ML/data problems and shipping improvements that stick. You have solid foundations in ML engineering and data systems, and you care about making workflows reliable, measurable, and easy for others to use. You communicate clearly, collaborate well across disciplines, and take ownership of delivering outcomes (not just tasks). Most importantly, you’re excited to build platform capabilities that help Canva’s AI teams move faster — while keeping quality and trust high.
+Disclaimer 
 
-You’re comfortable & have demonstrated experience working with large datasets and understand data preprocessing, feature engineering, and evaluation techniques
-You have strong programming skills (e.g., Python) and experience with ML frameworks (e.g., TensorFlow, PyTorch)
-You enjoy solving complex problems and thinking critically about model performance and trade-offs
-You’re a collaborative team player who communicates clearly with both technical and non-technical stakeholders
-You’re excited about working in a fast-paced, product-driven environment and contributing to impactful AI solutions
-
-Additional Information
+The company presents this job description as a guide to the major areas and duties for which the jobholder is accountable.  However, the business operates in an environment that demands change and the jobholder's specific responsibilities and activities will vary and develop.  Therefore, the job description should be seen as indicative and not as a permanent, definitive and exhaustive statement. 
 
 
-Don't tick all the boxes? Don't worry about that - nobody does!  
-
-We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you're excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!
-
-What's in it for you?
-
-Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
-
-Here's a taste of what's on offer:
-
-Equity packages - we want our success to be yours too
-Inclusive parental leave policy that supports all parents & carers
-An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
-Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
-
-Check out  lifeatcanva.com for more info.
-
-Other stuff to know
-
-We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
-
-All interviews are conducted virtually"
+Job Category:
+Technology"
