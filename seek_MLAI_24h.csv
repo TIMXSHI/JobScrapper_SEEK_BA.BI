@@ -1,5 +1,581 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91617140,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/91617140?type=standard&ref=search-standalone&origin=jobCard#sol=992ebec8338a14c34c458057c92a43ffab3a9c19,1h ago,1.0,2026-04-20T05:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
+91623519,Data Engineer,Change Recruitment,https://www.seek.com.au/job/91623519?type=standard&ref=search-standalone&origin=jobCard#sol=117ab7c97088b022066f9ea3d6456b77565bdfc3,1h ago,1.0,2026-04-20T08:00:00+00:00,"Baulkham Hills, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $180,000 per year","Data Engineer - Or Lead Data Engineer 2 Roles.
+(Databricks | Marketing Data & APIs / Financial Services)
+
+$150K–$180K + Super | Baulkham Hills, Sydney (Hybrid)
+
+🚀 Key Highlights
+
+Databricks-focused role (AWS environment) – core to the platform
+
+Work directly with Google Ads, Meta, GA & other Marketing APIs
+
+Build end-to-end data pipelines (not just small components)
+
+Blend of data engineering + MarTech (rare skillset)
+
+Join a mature data environment with real ownership
+
+Strong flexibility + excellent benefits
+
+About the Role
+
+We’re looking for a Data Engineer to build and scale a modern data platform that powers marketing analytics and customer insights.
+
+You’ll integrate data from marketing platforms (Google Ads, Google Analytics, Meta APIs, etc.) with internal customer data to create a unified view of performance and behaviour across the business.
+
+This is a hands-on role where you’ll own pipelines in Databricks, working closely with analysts and data scientists to deliver high-impact data solutions.
+
+What You’ll Be Doing
+
+Build and maintain data pipelines in Databricks (AWS)
+
+Integrate and model data from marketing APIs (Google Ads, Meta, GA, etc.)
+
+Develop scalable data models for analytics and reporting
+
+Support data workflows and ML pipelines
+
+Work closely with business stakeholders to deliver insights
+
+Ensure data quality, performance, and reliability
+
+What We’re Looking For
+
+Must Have:
+
+Strong experience with Databricks
+
+Solid SQL + Python skills
+
+Experience building end-to-end data pipelines
+
+Exposure to marketing data / APIs (Google Ads, Meta, GA, etc.)
+
+Experience working in cloud environments (AWS preferred)
+
+Nice to Have:
+
+Experience supporting ML/data science workflows
+
+Experience with customer or behavioural data
+
+Why Join?
+
+Own real, end-to-end data engineering work
+
+Work on high-impact marketing and customer data use cases
+
+Be part of a team where you can take ownership and grow quickly
+
+Strong benefits including flex working, allowances, and on-site perks
+
+If you want a role where you’re not just maintaining pipelines—but actually building and shaping a data platform with real business impact, this is it."
+91622856,Senior Cloud Infrastructure Automation Engineer,Talenza,https://www.seek.com.au/job/91622856?type=standard&ref=search-standalone&origin=jobCard#sol=5276f3b1f2567446c69529f0528c8ef765b2ce82,1h ago,1.0,2026-04-20T08:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$950 - $1100 p.d. + Super,"Our leading Federal Government client are hiring for a Senior Cloud Infrastructure Automation Engineer to join the organisation. The Infrastructure Engineer will manage and maintain ICT platforms operating on RHEL Standard Operating Environment (SOE) Ecosystem, including all technical landscape design, installation, configuration, deployment, technical security and operation of ICT components and databases.
+
+This role has a preference for candidates based in Canberra, however candidates in Adelaide, Brisbane, Melbourne and Sydney can be considered. This role requires an Negative Vetting Level 1 status (NV1) in order to start.
+
+
+Start Day: 1st of July, 2026 - 12 Month Initial Contract
+
+Role Title: Senior Cloud Infrastructure Automation Engineer
+
+Daily Rate: $950 - $1,100 + Super per day.
+
+Location: Canberra (2601) is the preferred location. Candidates from Brisbane (4000), Melbourne (3000), Sydney (2000) or Adelaide (5000) will also be considered.
+The role is 3 days per week in office/WFH Hybrid.
+
+
+Key Accountabilities:
+
+Manage the automation, implementation and maintenance of Midrange Unix Infrastructure
+Modernise the current IBM Power Private Cloud environment
+Migrate the Network File System (NFS) from Solaris and retire Hitachi Network Attached Storage (HNAS)
+Patch Solaris environments including upgrading SOE versions
+
+Essential Criteria - Technical Skills:
+
+Unix System Administration for Solaris
+Linux System Administration for RHEL
+Ansible Automation Platform
+Red Hat OpenStack/OpenShift
+IBM Power
+Networking (configuration, operation and troubleshooting)
+Scripting
+Virtual Machine Provisioning
+IBM Advanced Interactive eXecutive (AIX)
+
+Candidates are required to be based in the above listed Capital Cities and need to be in office a minimum of 3 days per week. Additionally, you must possess Australian Citizenship and be in possession of a NV1 Security Clearance, or have the ability to obtain this clearance.
+
+
+If you feel this opportunity matches your skills and previous experiences, please apply with your CV."
+91622359,Machine Learning Engineer,Zurich Financial Services Australia,https://www.seek.com.au/job/91622359?type=standard&ref=search-standalone&origin=jobCard#sol=bf9c3f0ee5b3f5ea0b21d1055ece4725ffa847d1,1h ago,1.0,2026-04-20T08:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"A new transformational adventure awaits you… 
+
+How does 5 weeks of annual leave, a fulfilling career you'll genuinely enjoy, and working for a reputable organization that promotes wellbeing and drives digital transformation sound to you?
+
+As one of Forbes 2024 ‘World’s Best Employers’ and Fortune’s ‘World’s Most Admired Companies’ for 2025, Zurich - a leader in the insurance industry, is on a journey towards a brighter future… A brighter future for you - focused on your career, your wellbeing, and your community - as well as our customers and the planet.
+
+Join us on this thrilling journey as we work towards our vision of becoming Australia's leading digital insurer. If you're eager to be part of a values-driven global organisation that's experiencing real growth and transformation, and if you share our commitment to making a tangible difference and taking continuous steps towards a sustainable future for our people, customers, communities, and our planet, then keep reading!
+
+Let’s create a brighter future together, let’s make a difference  
+
+It’s important to know, what you do matters. At Zurich, we don’t just cover, we care.
+
+As a Machine Learning Engineer (Agentic AI), you’ll play a key role in building and running LLM-powered applications and intelligent agents that improve how our customers and colleagues interact with Zurich. You’ll sit within our AI Platforms team, partnering closely with senior engineers, Tech Leads and product teams to turn emerging AI capability into practical, secure, and reliable solutions.
+
+This role exists to help us responsibly scale agentic AI across the organisation. You’ll contribute to systems that are designed for real-world use, with a strong focus on operational readiness, quality engineering, and continuous improvement as we progress our technology transformation.
+
+You will also be responsible for the following:
+
+Build and maintain core components for agentic AI solutions, including orchestration flows, prompts, routing patterns, and structured outputs
+Contribute to the delivery and productionisation of LLM and agent features in partnership with senior engineers and architects
+Integrate AI solutions with internal services and data sources using APIs and basic resiliency patterns
+Support LLMOps and MLOps automation across CI/CD, environments, and release practices
+Implement practical guardrails such as grounding, validation, and permission-aware access
+Embed quality engineering practices including testing, documentation, and secure coding
+
+Important to your success – let’s grow together
+
+You’re curious, pragmatic, and motivated by impact. You enjoy working collaboratively, balancing experimentation with responsibility, and you’re comfortable engaging with a broad range of stakeholders to turn ideas into outcomes.
+
+In order to be successful, you will have the following:
+
+Proven experience in AWS Cloud Engineering, designing and operating secure, scalable cloud-based services
+Hands-on experience delivering ML or AI-enabled features into production environments
+Strong engineering fundamentals using Python, APIs, and data-focused technologies
+Experience with Infrastructure as Code and CI/CD pipelines in an enterprise setting
+Exposure to LLM-based applications, including prompting and structured outputs
+Experience working with containerisation and deployment automation
+
+Belong. Zurich is here to support you 
+
+There are so many reasons why Zurich is a great place to be and the right choice for you, but here are just a few.
+
+Enjoy 5 weeks of annual leave for permanent staff through our Z leave initiative, along with 15 days of personal/carer’s leave as we empower our people to manage their own wellbeing. Plus, access to Family Care (parental leave).
+Benefit from a hybrid working arrangement – 3 days in the office and 2 days working from home per week for full-time employees.
+Access programs to stay healthy and feel healthier, receive an AUD$500 wellbeing payment per year, and a AUD$295 new starter e-voucher for your work-from-home setup (flex work - hybrid working), along with other great benefits through our Shine portal.
+Grow and thrive in your career with our award-winning training programs. We support and encourage your development because our strength lies in our people, and we value your individuality.
+Work with global, diverse, and inclusive teams; explore your passions, fuel innovation, drive equity, collaborate, and make a positive difference beyond your role.
+Take advantage of global mobility opportunities across more than 200 countries worldwide.
+Volunteer and work in our state-of-the-art Green Star rated offices (when you are in the office) and dress for your day.
+We plant a tree for every new employee.
+Not to mention our various employer of choice awards/memberships – WGEA; Family Inclusive Workplace; Gold AWEI Employer, Pride in Diversity… to name a few.
+
+We could go on, but the main point is that Zurich is a great place to be, where you can truly belong, be yourself, maintain work/life balance, and thrive in a supportive environment.
+
+Zurich is an equal opportunity employer.  We are committed to ensuring that our recruitment process is fair and accessible for all candidates. If you require any special accommodations to participate in our recruitment process, we encourage you to please let us know at the time of your application.  
+
+So, if you want to come on an adventure that will build a brighter future together, and feel a sense of togetherness, then please apply today to start your adventure!"
+91621614,AI Engineer,Emanate Technology Pty Ltd,https://www.seek.com.au/job/91621614?type=standard&ref=search-standalone&origin=jobCard#sol=9f6babd463c1c020992a3daf08b7b4eeb600d00a,1h ago,1.0,2026-04-20T08:00:00+00:00,Melbourne VIC,Engineering - Software (Information & Communication Technology),Contract/Temp,,"AI Engineer 
+Contract: 12 Month Contract 
+Location: Sydney or Melbourne
+
+About the Role
+We’re looking for an experienced AI Engineer to support a major uplift of the organisation’s data and analytics capability. This role will focus on enhancing the Power BI platform, improving data accessibility, and enabling deeper business insights. You’ll work closely with product, data, and operational teams to design and deliver AI-driven solutions that support smarter decision-making and automation across the organisation.
+ 
+Key Responsibilities
+Lead the uplift and optimisation of the Power BI platform, ensuring high-quality dashboards and reporting
+Build and maintain AI and automation solutions that support operational and commercial decision-making
+Work with large, complex datasets to surface insights on business spend, performance, and efficiency
+Develop scalable data pipelines and models using Azure services
+Design and implement solutions leveraging Azure SQL, SQL Server, and related data technologies
+Collaborate with cross-functional teams to translate business needs into technical solutions
+Ensure data quality, governance, and best practice engineering standards
+Support ongoing enhancements, experimentation, and continuous improvement across AI and analytics initiatives
+Skills & Experience
+Strong experience as an AI Engineer, Data Engineer, or similar role
+Hands-on expertise with Azure (Data Factory, Synapse, Functions, Logic Apps, etc.)
+Advanced SQL skills, including Azure SQL and relational database design
+Proven experience in uplifting or modernising Power BI environments
+Ability to work with complex datasets and build scalable data pipelines
+Experience delivering AI, ML, or automation solutions in a commercial environment
+Strong communication skills and ability to work with both technical and non-technical stakeholders
+Background in utilities, energy, or other complex operational environments is highly regarded
+Why This Role
+This is a chance to work on meaningful AI solutions that directly influence real-world operations at scale. You’ll be part of a growing AI and data capability, shaping how the organisation uses insights to drive performance and investment decisions.
+
+
+We are an inclusive employer committed to fostering a diverse and accessible workplace. We encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, LGBTQIA+ individuals, people of all ages, and those from culturally and linguistically diverse backgrounds."
+91620516,Cloud Engineer/(Integration Engineer,Elysium Digital,https://www.seek.com.au/job/91620516?type=standard&ref=search-standalone&origin=jobCard#sol=38bb1a30205bd2f22713539316794969547fc41a,2h ago,2.0,2026-04-20T07:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We are seeking an experienced Integration/Cloud Engineer to design, build, and maintain secure, scalable, cloud-native integration solutions to enable seamless data exchange across program systems.
+
+This role is critical to ensuring interoperability within the Azure ecosystem and supporting reliable, high-performance data flows aligned to program delivery timelines.
+
+Role Overview
+Working closely with the Architecture Lead, Stream Lead, and delivery teams, the you will implement integration patterns, develop APIs, and orchestrate data pipelines. The role will also ensure integration services are secure, observable, and aligned with enterprise standards.
+
+Key Responsibilities
+
+Design and implement integration solutions using Azure Integration Services.
+Develop and manage APIs, including lifecycle management, policy enforcement, and security.
+Build and optimise ETL/ELT pipelines for data movement and transformation.
+Apply integration patterns such as Publish/Subscribe, Request-Response, and Message Queuing.
+Ensure secure integrations using OAuth2/JWT and enterprise security standards.
+Collaborate with stakeholders to translate business and technical requirements into integration solutions.
+Implement monitoring, logging, and alerting for integration services.
+Support CI/CD pipelines and infrastructure automation (IaC).
+Troubleshoot and resolve integration issues across environments.
+Core Technical Skills
+
+Azure Integration Services: API Management, Data Factory, Logic Apps, Service Bus, Event Grid, Functions
+API Management: Policy definition, throttling, transformation, authentication
+Data Integration: Strong experience with ADF, ETL/ELT pipelines, Azure SQL/Data Lake
+DevOps & IaC: Azure DevOps/GitHub Actions, Terraform or Bicep
+Development: C# (.NET), PowerShell, SQL, JSON, XML
+The Must Haves:
+
+5+ years in software/integration engineering
+Minimum 3+ years hands-on Azure experience
+Proven delivery of enterprise-grade integration solutions
+Proven experience integrating CRM systems, finance platforms and enterprise applications using RESTful services and middleware tools.
+Key Deliverables
+
+Scalable and secure integration architecture components
+API and data integration pipelines aligned to program milestones
+Deployment pipelines and automated environments
+Monitoring and support artefacts for ongoing operations
+Success Measures
+
+Stable, secure, and high-performing integration services
+Timely delivery aligned with program schedule
+Reduced integration defects and incidents
+Maintainable and reusable integration components
+Dependencies / Interfaces
+
+Architecture and Cloud Engineering teams
+Application and Data delivery streams  
+You MUST be an Australian Citizen and hold a minimum of an NV1 Security Clearance to be considered for this role.
+  
+For more information contact Mitchell on 0425 269 780.
+  
+Only shortlisted candidate will be contacted for this role."
+91620081,Machine Learning Engineer,4DMedical Limited,https://www.seek.com.au/job/91620081?type=standard&ref=search-standalone&origin=jobCard#sol=2db5ad7fa3851bc573353b92526e504e543c8417,2h ago,2.0,2026-04-20T07:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$140,000 – $150,000 per year","Our Story
+
+
+4DMedical is a global medical technology company aiming to change the outcomes for patients with lung disease by revolutionizing respiratory imaging and ventilation analysis.
+
+Our vision is a world in which people with lung disease have better health outcomes.
+
+We are an ASX listed medical technology company and are currently in a high-growth stage of the business.
+
+About the role
+
+4DMedical is seeking a Machine Learning Engineer to join its Algorithm team.
+
+The ideal candidate is a skilled Software Engineer with deep experience in training and deploying CNN-based deep learning models for image processing. The candidate should be able to demonstrate a strong approach to clean, reusable code and translate this to clean, reusable, training and inference code with traceable data governance.
+
+You would be joining our team of Software Engineers as the first dedicated Machine Learning Engineer and be the specialist in developing new models in conjunction with our Research teams as well as maintaining, improving and monitoring our existing models
+
+
+What you'll do
+
+Design, develop and improve machine learning models.
+
+Develop software to manage the training process of new and existing models.
+
+Integrate the models into production code using Python and, occasionally, C++.
+
+Design and implementation of production quality Medical Device software.
+
+Collaborate with other teams to ensure design and implementation meet requirements.
+
+Write or update design, verification and validation documents.
+
+
+Qualifications
+
+Master's degree in Computer Science or related fields.
+
+Extensive experience in clean, well-structured Python.
+
+Experience in machine learning techniques, across model design, training and inference.
+
+Proven experience working in a highly test-driven environment.
+
+Experience in developing on Linux with containerised images.
+
+Demonstrated professional experience in Machine Learning, ideally backed with formal study or training courses
+
+A real appreciation for the value of documentation in everything we do, using automated tooling where possible to demonstrate how and where data was used in every part of the model lifecycle.
+
+A willingness to learn the Medical Device development lifecycle, with distinct stages of build, verify and then release.
+
+Experience in highly-regulated industries such as medical and finance software will be helpful, but not essential in understanding how we work.
+
+
+
+What can we offer you?
+
+Hybrid working – when in the office enjoy our amazing new office space which includes end of trip facilities, and great local coffee and eateries!
+
+Easy access to Public Transport and very close to Lygon St and the CBD
+
+Frequent in-house presentations on all aspects of Lung Health & Technology.
+
+Be a part of our Wellness program including free fruit, table tennis, free gym and corporate class pass, Employee Assistance Program for you and your family, free annual health, free skin check & free flu shot.
+
+Rewards and Recognition Program including discounts for shopping and goods.
+
+Laptop and accessories provided for remote work
+
+Regular social events
+
+
+
+This is an exceptional opportunity to join a forward-thinking, fast-growing company and make a real difference
+
+How to Apply
+
+
+Please apply via this link https://ats.rippling.com/en-GB/4dmedical/jobs/23f7957c-8a0a-4e94-b151-5dc5cac5ec57 DONT APPLY VIA SEEK
+and submit a current CV and a cover letter which details your alignment with the requirements of the role.
+
+4DMedical provides an inclusive work environment and embraces the diverse talent of its people.
+
+The successful candidate will be required to undergo Police and Background checks.
+
+For more company information visit our website: www.4dmedical.com
+
+Should you have any queries regarding the position please contact the 4DMedical Recruitment Team at: recruitment@4dmedical.com"
+91619814,Principal Data Platform Engineer (AI) - 12 Months Contract - AWS SageMaker,Allura Partners,https://www.seek.com.au/job/91619814?type=standard&ref=search-standalone&origin=jobCard#sol=73054c1a0a7c65bb50a433c0b1059175575fcef6,2h ago,2.0,2026-04-20T07:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,150,"Principal Data Platform Engineer (AI Platform) - 12 Months day rate Contract - AWS SageMaker
+
+About the company
+Our client is a major Australian enterprise undergoing significant AI-driven transformation. The organisation is scaling its data and AI capability, investing in modern platforms, and building future-ready foundations to enable secure, enterprise-wide AI innovation.
+
+About the role
+This Principal Data Platform Engineer role leads the hands-on build of a new AI and ML platform. Reporting to a Product Owner and working in a small cross-functional team, it drives platform engineering, architecture, delivery, and user enablement across the enterprise.
+
+Benefits
+
+Competitive daily rate
+High-impact greenfield program
+Opportunity to set enterprise AI platform standards
+Flexible ways of working
+Work with modern cloud-native technologies and emerging AI capability
+Duties / Key responsibilities
+
+Lead the build and operationalisation of the AI Workbench platform
+Develop CI/CD, IaC, architecture artefacts, and scalable platform components
+Provide technical leadership across cloud-native AI/ML services
+Support user onboarding, platform adoption, optimisation, and performance
+Mentor engineers and collaborate across architecture, security, and product teams
+Skills and experience
+
+10+ years delivering large-scale data and AI/ML platforms
+Expertise across AWS (SageMaker, Bedrock, S3, IAM) and cloud-native engineering
+Strong skills in Terraform/CloudFormation and CI/CD
+Experience establishing platform engineering standards in greenfield environments
+Ability to translate architecture into actionable technical design
+Strong collaboration, communication, and problem-solving skills
+Familiarity with LLMs, GenAI tooling, and prompt engineering (desirable)
+AWS or DevOps/ML Ops certifications (desirable)
+If you’re interested in this opportunity and feel you’re the right fit please click “apply” 
+
+About Allura Partners
+Allura Partners was founded to support private equity firms by placing C-Suites to lead, transform, and scale portfolio companies. Today, in addition to our proven private equity specialisation, we’ve become a trusted partner for major ASX-listed and private enterprises in Australia, offering executive search, recruitment, and business transformation. Known for integrity, reliability, and results, our expertise spans Executive Search, Accounting & Finance, Transformation & Change, and Technology & Digital. We connect businesses and top-tier talent, exceeding expectations and driving lasting impact.
+
+Principal Data Platform Engineer (AI Platform) - 12 Months day rate Contract - AWS SageMaker"
+91619010,Digital Engineer,APAC - Australia Pacific Airports Corporation,https://www.seek.com.au/job/91619010?type=standard&ref=search-standalone&origin=jobCard#sol=c86fec1d8c9cc6e836d097ebccc70ec5c6243968,3h ago,3.0,2026-04-20T06:00:00+00:00,Melbourne VIC (Hybrid),Civil/Structural Engineering (Engineering),Full time,,"We currently have an exciting new opportunity for a dynamic and experienced Digital Engineer to join our Planning, Infrastructure & Engineering (PIE) team.
+
+Explore how we are thinking big with exciting projects like the Third Runway, state-of-the-art terminals, and thriving business park developments. You can also learn more about life at Melbourne Airport – our culture, values, and what makes us unique at https://www.melbourneairport.com.au/corporate/our-culture-and-values. Join us in shaping the future of aviation as we propel Melbourne Airport towards becoming Australia's favourite Airport destination.
+
+Key responsibilities:
+
+The role's duties and accountabilities include, but are not limited to:
+
+Manage and govern digital engineering data across capital projects, ensuring alignment with APAC standards
+Conduct model audits, data validation and support model federation into Melbourne Airport’s master digital model
+Support end-to-end digital information management from project planning through to operations
+Collaborate with internal and external stakeholders to respond to digital data requests and improve data quality
+Act as a Digital Engineering SME, supporting systems such as ACC (BIM360), Revit, GIS and SharePoint
+Contribute to the development of Melbourne Airport’s digital twin and continuous improvement initiatives 
+
+The successful candidate will have:
+
+Experience working within digital engineering or infrastructure project environments (2–5 years desirable)
+Knowledge of digital design platforms such as ACC (BIM360), Revit, Revizto and SharePoint
+Strong understanding of BIM processes and digital information management (ISO19650 knowledge advantageous)
+Relevant qualifications in Digital Engineering, Civil, Structural, Services Engineering or Architecture
+Strong communication skills with the ability to engage stakeholders across all levels
+A proactive, solutions-focused mindset with a passion for innovation and continuous improvement 
+
+We understand that not everyone will feel they meet all of these 100%. However, if you feel you have the attitude and aptitude to grow within our team, we invite you to apply and have a conversation with us about this position.
+
+About the Company:
+
+Melbourne Airport (Australia Pacific Airports Corporation) is proud to be one of Australia's premier transport hubs and Victoria's gateway to the world, connecting us to the global marketplace. We are committed to creating connections that matter and enhancing the traveller experience across every aspect of our organisation to deliver our vision of becoming Australia's favourite Airport destination. Currently, in an exciting phase of change, we are delivering rewarding career opportunities, making Melbourne Airport a dynamic and fast-paced place to work for our people.
+
+APAC is a majority Australian-owned private company that also operates Launceston Airport, the tourism gateway to Tasmania and an industry multi-award-winning airport.
+
+Culture and Values:
+
+By joining the team at Melbourne Airport, you will work within a friendly, high-performance culture with a focus on our people and their development.
+
+Our vision is to become Australia's favourite Airport destination and our people are paramount to achieving this success. We provide a supportive environment, with values that encourage all of our employees to Be You, Think Big, Own it and Work Together.
+
+Benefits:
+
+Free access to Higher State, our state-of-the-art Fitness Club & Wellness Hub at Novotel & ibis Styles Airport hotel.
+Airport car parking 24 hours/365 days a year for both business and personal use
+Hybrid flexible working arrangements
+Airport Holiday, an additional day of leave
+Wellness Day, a further additional day of leave
+Discounted onsite childcare at Creative Garden Early Learning
+Mental health and well-being initiatives, including Employee Assistance Program (EAP)
+Long-term career and professional development opportunities
+Active social culture and participation in a range of social impact days and activities
+Signature Experiences including an airfield family day
+Access to an employee benefits scheme including access to corporate rates and airport retailer discounts (including SkyBus)
+
+APAC is committed to weaving Diversity into our DNA. We believe that Diversity and Inclusion will help us realise our greatest potential as a company, and maximise the potential of all our team members. We strive to create a culture where our team members understand that each individual is unique and that embracing diversity makes us more flexible, productive, and creative.
+
+APAC provides equal opportunity and advancement in employment regardless of gender, age, sexual orientation, race, ethnicity, cultural background, caring responsibilities, disability or socioeconomic background. We encourage applications from candidates of all backgrounds who share our workplace values of Being You, Thinking Big, Owning It and Working Together."
+91618318,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/91618318?type=standard&ref=search-standalone&origin=jobCard#sol=d71f8ed2a368859e2b61d2bbc64c2735f5f914de,3h ago,3.0,2026-04-20T06:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
+
+St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
+
+Are you an experienced Data Engineering leader ready to shape the future of healthcare technology? Join St Vincent's Health Australia (SVHA) and lead our transformation journey as we build an integrated Data, AI & Interoperability Platform to modernise healthcare delivery. This is your opportunity to pioneer the next generation of healthcare data infrastructure.
+
+The Opportunity
+
+St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. As the Data Engineering & Innovation Lead, you will be the platform owner for our modern data and AI platform, guiding St Vincent's through an exciting transformation to cloud & AI-native data capabilities.
+
+This is a unique opportunity to architect and lead the engineering function as we embark on our journey toward real-time IoT data integration, Generative AI and Machine Learning, self-service analytics, and data democratisation across our healthcare ecosystem.
+
+You and your team will be responsible for bring structured and unstructured data from multiple sources at many speeds, transforming it into meaningful inputs for advanced analytics and AI. You will also be leading the establishing and growth of cutting edge AI capabilities as St Vincent's navigates its journey to increasingly embedding AI into the services it provides to its patients and residents.
+
+Working closely with diverse stakeholders across clinical, operational and corporate functions, you'll build strong partnerships and implement process improvements that unlock the power of data to enhance patient care and operational excellence.
+
+This role is part of a broader Data Analytics Community across SVHA, and all activities must align with SVHA's Data Governance & Analytics Strategy and Standards, ensuring we build a sustainable, scalable platform for the future.
+
+What you will be doing.
+
+Key Responsibilities
+
+As Data Engineering & Innovation Lead, you will be expected to:
+
+Serve as the technical platform owner for our modern Data & AI platform. Lead the design, implementation and evolution of data engineering solutions that enable real-time data processing, IoT integration, and advanced analytics capabilities across the organisation.
+Drive innovation through Generative AI and Machine Learning capabilities, establishing frameworks and pipelines that enable predictive analytics, intelligent automation and data-driven decision making to transform patient care and operational efficiency.
+Enable data democratisation by building robust, user-friendly data pipelines and self-service analytics capabilities that empower stakeholders across the organisation to access and leverage data insights independently and securely.
+Design and implement cloud-native data architectures including data lakes, lakehouses, streaming platforms and interoperability layers. Establish data modelling standards, ETL/ELT processes and data quality frameworks that support scalable, reliable data operations.
+Build strong relationships with clinical, operational and technical stakeholders to understand data needs, gather requirements and implement process change management. Act as a trusted advisor on data engineering best practices and innovation opportunities.
+Ensure the Mission, Vision, Creed, and Values of SVHA (Compassion, Justice, Integrity, Excellence) are effectively integrated into all areas of responsibility, maintaining ethical data practices and patient-centered technology solutions.
+
+What You'll Bring.
+
+Essential Experience & Skills:
+
+Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
+Extensive experience in data engineering, data architecture, and modern cloud-native data platforms (Azure preferred, Fabric, databricks, snowflake desirable)
+Proven track record of leading data engineering initiatives and serving as a platform owner for enterprise data solutions
+Strong expertise in data modelling, ETL/ELT pipelines, data warehousing, and real-time data processing
+Experience with AI/ML platforms, including Generative AI integration and MLOps practices
+Demonstrated ability to design and implement self-service analytics and data democratisation initiatives
+Deep understanding of data governance, data quality frameworks, and interoperability standards (particularly in healthcare)
+Excellent stakeholder management and communication skills, with ability to translate technical concepts for diverse audiences
+Experience driving innovation and continuous improvement in complex organisational environments
+
+Desirable:
+
+Data, infrastructure and/or AI certifications by recognised providers (Microsoft, , Databricks, Snowflake etc.)
+Knowledge and experience of the health industry and healthcare data standards (HL7, FHIR)
+Experience with IoT data platforms and real-time streaming technologies
+Track record of leading digital transformation initiatives in large, complex organisations
+
+If you are driven to achieve results, possess strong technical leadership and innovation skills, and want to contribute to a workplace that is safe and promotes personal wellbeing while transforming healthcare through data and technology, we encourage you to apply.
+
+Things that work for you:
+
+Opportunity to lead the engineering transformation for a major healthcare organisation
+Ability to visibly see your impact on patient care and health service delivery
+Work with cutting-edge technologies including AI, ML, IoT and modern cloud platforms
+Competitive salary packaging options
+Discounted private health insurance
+Employee Assistance Program for staff and their families
+Access to the Fitness Passport (FP)
+
+At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
+
+Pre-Employment Checks
+
+Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
+
+Equal Opportunity
+
+We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone."
+91618090,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/91618090?type=standard&ref=search-standalone&origin=jobCard#sol=849e957be0e19083b34b4384c5820c829b5131f9,3h ago,3.0,2026-04-20T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
+
+St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
+
+Are you an experienced Data Engineering leader ready to shape the future of healthcare technology? Join St Vincent's Health Australia (SVHA) and lead our transformation journey as we build an integrated Data, AI & Interoperability Platform to modernise healthcare delivery. This is your opportunity to pioneer the next generation of healthcare data infrastructure.
+
+The Opportunity
+
+St Vincent's Health Australia (SVHA) is launching its future as a ""Connected, Intelligent Healthcare organisation"" to unify data, AI and intelligence across our national footprint. As the Data Engineering & Innovation Lead, you will be the platform owner for our modern data and AI platform, guiding St Vincent's through an exciting transformation to cloud & AI-native data capabilities.
+
+This is a unique opportunity to architect and lead the engineering function as we embark on our journey toward real-time IoT data integration, Generative AI and Machine Learning, self-service analytics, and data democratisation across our healthcare ecosystem.
+
+You and your team will be responsible for bring structured and unstructured data from multiple sources at many speeds, transforming it into meaningful inputs for advanced analytics and AI. You will also be leading the establishing and growth of cutting edge AI capabilities as St Vincent's navigates its journey to increasingly embedding AI into the services it provides to its patients and residents.
+
+Working closely with diverse stakeholders across clinical, operational and corporate functions, you'll build strong partnerships and implement process improvements that unlock the power of data to enhance patient care and operational excellence.
+
+This role is part of a broader Data Analytics Community across SVHA, and all activities must align with SVHA's Data Governance & Analytics Strategy and Standards, ensuring we build a sustainable, scalable platform for the future.
+
+What you will be doing.
+
+Key Responsibilities
+
+As Data Engineering & Innovation Lead, you will be expected to:
+
+Serve as the technical platform owner for our modern Data & AI platform. Lead the design, implementation and evolution of data engineering solutions that enable real-time data processing, IoT integration, and advanced analytics capabilities across the organisation.
+Drive innovation through Generative AI and Machine Learning capabilities, establishing frameworks and pipelines that enable predictive analytics, intelligent automation and data-driven decision making to transform patient care and operational efficiency.
+Enable data democratisation by building robust, user-friendly data pipelines and self-service analytics capabilities that empower stakeholders across the organisation to access and leverage data insights independently and securely.
+Design and implement cloud-native data architectures including data lakes, lakehouses, streaming platforms and interoperability layers. Establish data modelling standards, ETL/ELT processes and data quality frameworks that support scalable, reliable data operations.
+Build strong relationships with clinical, operational and technical stakeholders to understand data needs, gather requirements and implement process change management. Act as a trusted advisor on data engineering best practices and innovation opportunities.
+Ensure the Mission, Vision, Creed, and Values of SVHA (Compassion, Justice, Integrity, Excellence) are effectively integrated into all areas of responsibility, maintaining ethical data practices and patient-centered technology solutions.
+
+What You'll Bring.
+
+Essential Experience & Skills:
+
+Tertiary qualification Degree in Data Science, Statistics, Computer Science, or a related field
+Extensive experience in data engineering, data architecture, and modern cloud-native data platforms (Azure preferred, Fabric, databricks, snowflake desirable)
+Proven track record of leading data engineering initiatives and serving as a platform owner for enterprise data solutions
+Strong expertise in data modelling, ETL/ELT pipelines, data warehousing, and real-time data processing
+Experience with AI/ML platforms, including Generative AI integration and MLOps practices
+Demonstrated ability to design and implement self-service analytics and data democratisation initiatives
+Deep understanding of data governance, data quality frameworks, and interoperability standards (particularly in healthcare)
+Excellent stakeholder management and communication skills, with ability to translate technical concepts for diverse audiences
+Experience driving innovation and continuous improvement in complex organisational environments
+
+Desirable:
+
+Data, infrastructure and/or AI certifications by recognised providers (Microsoft, , Databricks, Snowflake etc.)
+Knowledge and experience of the health industry and healthcare data standards (HL7, FHIR)
+Experience with IoT data platforms and real-time streaming technologies
+Track record of leading digital transformation initiatives in large, complex organisations
+
+If you are driven to achieve results, possess strong technical leadership and innovation skills, and want to contribute to a workplace that is safe and promotes personal wellbeing while transforming healthcare through data and technology, we encourage you to apply.
+
+Things that work for you:
+
+Opportunity to lead the engineering transformation for a major healthcare organisation
+Ability to visibly see your impact on patient care and health service delivery
+Work with cutting-edge technologies including AI, ML, IoT and modern cloud platforms
+Competitive salary packaging options
+Discounted private health insurance
+Employee Assistance Program for staff and their families
+Access to the Fitness Passport (FP)
+
+At St Vincent's we value inclusivity and diversity and acknowledge the importance of creating a work environment that is welcoming, safe, fair and impartial and invites people from all backgrounds to join us.
+
+Pre-Employment Checks
+
+Your employment is conditional upon the completion of all required pre-employment checks, including relevant immunisations.
+
+Equal Opportunity
+
+We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone."
+91617140,Data Engineering & Innovation Lead,St Vincent's Health Australia,https://www.seek.com.au/job/91617140?type=standard&ref=search-standalone&origin=jobCard#sol=27865f99023147658a4824c4faf0776399ea5390,3h ago,3.0,2026-04-20T06:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,competitive NFP salary packaging available,"Better and fairer care. Always.
 
 St Vincent's has been a leader in Australia's health and aged care landscape for more than 165 years. Since our founders, the Sisters of Charity, opened our first hospital in 1857, our services and nearly 30,000 people have been behind some of Australia's most important medical breakthroughs. We are a microcosm of Australia's health and aged care system and are uniquely positioned to lead and respond to our rapidly changing environment.
 
@@ -76,7 +652,7 @@ Your employment is conditional upon the completion of all required pre-employmen
 Equal Opportunity
 
 We celebrate diversity & inclusion and are committed to equal employment opportunity for everyone."
-91616962,ServiceNow AI Engineer,Optus,https://www.seek.com.au/job/91616962?type=standard&ref=search-standalone&origin=jobCard#sol=2c2cf374573a16c267fe4603663df9b79d292c0d,1h ago,1.0,2026-04-20T05:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Help Desk & IT Support (Information & Communication Technology),Full time,,"Optus is an Australian telecommunications company, delivering more than 11 million services to our customers every day across mobile, broadband and digital solutions.
+91616962,ServiceNow AI Engineer,Optus,https://www.seek.com.au/job/91616962?type=standard&ref=search-standalone&origin=jobCard#sol=566e32a5c88aed9734e311c0222b96f2b617e498,3h ago,3.0,2026-04-20T06:00:00+00:00,"Macquarie Park, Sydney NSW (Hybrid)",Help Desk & IT Support (Information & Communication Technology),Full time,,"Optus is an Australian telecommunications company, delivering more than 11 million services to our customers every day across mobile, broadband and digital solutions.
 
 The ServiceNow AI Engineer is responsible for designing, configuring and optimising Now Assist AI features (e.g., case summarisation, agent assistance and knowledge solutions) and builds high -quality prompts, instructions and model configurations using organisational data. The role implements and monitors AI safety controls (e.g., guardrails, filtering and compliance checks), integrates ServiceNow with external systems, and analyses performance to reduce hallucinations and improve accuracy.
 
@@ -127,7 +703,7 @@ Free Optus bus from Macquarie University Metro Station (every 6-8 minutes); morn
 At Optus, we are strengthened by others and that means valuing diversity and saying ‘yes' to embracing individual differences. We are committed to ensuring that our application process provides an equal employment opportunity to all job seekers, including individuals from diverse gender, cultural and linguistic backgrounds, individuals with a disability, individuals identifying as being part of the LGBTQIA+ community, individuals who may have served in the armed forces or who identify as Aboriginal and/or Torres Strait Islander. We also want to do our best to make our recruitment process inclusive. If you require any adjustments or accessibility support to participate fairly and equitably in the recruitment process, please email AccessibleRecruitment@optus.com.au or call 1800 309 170.
 
 For more information on Diversity, Inclusion & Belonging at Optus, please visit https://www.optus.com.au/about/inclusion-diversity"
-91616498,Senior Systems Engineer,Monash University,https://www.seek.com.au/job/91616498?type=standard&ref=search-standalone&origin=jobCard#sol=b62cf1512dc505b5e8dc31580cba348722a9135b,1h ago,1.0,2026-04-20T05:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
+91616498,Senior Systems Engineer,Monash University,https://www.seek.com.au/job/91616498?type=standard&ref=search-standalone&origin=jobCard#sol=d9dc7d4068f435223f281f1b6db43ca0b94d46e4,4h ago,4.0,2026-04-20T05:00:00+00:00,"Clayton, Melbourne VIC (Hybrid)","Engineering - Software (Information & Communication Technology)
 Other (Education & Training)",Full time,"$124,343 - $137,251 pa (plus 17% super)","Job No.: 692887
 
 Location: Clayton campus
@@ -198,7 +774,7 @@ Enquiries: Joseph Pineda, Infrastructure Delivery Lead, joseph.pineda@monash.edu
 Position Description: Senior Systems Engineer
 
 Applications Close: Monday 4 May 2026, 11:55pm AEST"
-91615980,Senior Full-Stack/AI Engineer,Sterling Black,https://www.seek.com.au/job/91615980?type=standard&ref=search-standalone&origin=jobCard#sol=a8d12dc17ad1fe421968f1f5680d64540d2aa2af,1h ago,1.0,2026-04-20T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Us
+91615980,Senior Full-Stack/AI Engineer,Sterling Black,https://www.seek.com.au/job/91615980?type=standard&ref=search-standalone&origin=jobCard#sol=442dc1d33ea184fb54397696f10b80d17a1baf76,4h ago,4.0,2026-04-20T05:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"About Us
 
 We are experts in board, CEO and C-Suite leadership with over 30 years of experience setting the gold standard in top-tier leadership development. Now, we’re looking to help leaders of all levels by automating, scaling, and augmenting our existing assessment and coaching processes. We move fast but we don't compromise quality. We need an engineer who can do both.
 
@@ -266,7 +842,7 @@ Describe a time you balanced speed and quality under real pressure. What did you
 Tell us about a meaningful experience using AI agents (Claude Code, Cursor, or similar) to write or manage code. What worked, what didn't, and what would you do differently?
 
 How would you approach building the MVP of an AI-powered executive coaching platform? Where would you start, and what would you be most careful about?"
-91615505,Data Engineer-Medicare Mental Health Check In,St Vincent's Health Australia,https://www.seek.com.au/job/91615505?type=standard&ref=search-standalone&origin=jobCard#sol=64b1783cbb5f14cb3171e9d2c29bd593598068a9,1h ago,1.0,2026-04-20T05:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,Salary Packaging,"Build at scale with real impact - Design and optimise data platforms that directly support clinical care, operational performance, and national health initiatives
+91615505,Data Engineer-Medicare Mental Health Check In,St Vincent's Health Australia,https://www.seek.com.au/job/91615505?type=standard&ref=search-standalone&origin=jobCard#sol=6ff1ccf44f8db4db1aad47ae4fd31c3a65fca2dd,4h ago,4.0,2026-04-20T05:00:00+00:00,"East Melbourne, Melbourne VIC (Hybrid)",Database Development & Administration (Information & Communication Technology),Contract/Temp,Salary Packaging,"Build at scale with real impact - Design and optimise data platforms that directly support clinical care, operational performance, and national health initiatives
 Work at the forefront of AI and modern data platforms - Contribute to data pipelines supporting Machine Learning, Generative AI, and advanced analytics use cases
 Shape the future of data at enterprise level - Influence architecture, governance, and how data is leveraged across one of Australia's largest health systems
 
@@ -379,7 +955,7 @@ Your employment is subject to pre-employment checks, including relevant immunisa
 
 Equal Opportunity
 We welcome applications from people of all backgrounds, identities and abilities - including Aboriginal and Torres Strait Islander people, culturally and linguistically diverse communities, LGBTQIA+ communities and people with lived experience of mental health challenges. Inclusion is essential to our mission - and diversity reflects the community we serve."
-91614119,Integration Engineer,BildGroup,https://www.seek.com.au/job/91614119?type=standard&ref=search-standalone&origin=jobCard#sol=3be93599dbb4efefb1a558bb266f7f2da7eedce1,2h ago,2.0,2026-04-20T04:00:00+00:00,"Campbellfield, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"About the Role:
+91614119,Integration Engineer,BildGroup,https://www.seek.com.au/job/91614119?type=standard&ref=search-standalone&origin=jobCard#sol=fac01362825225b19d7da5653c13c5721561717e,5h ago,5.0,2026-04-20T04:00:00+00:00,"Campbellfield, Melbourne VIC",Engineering - Software (Information & Communication Technology),Full time,,"About the Role:
 
 BildGroup is all about helping you fulfill your potential in a place that inspires you to bring your best, supports your journey every step of the way and cares about you.
 
@@ -442,7 +1018,7 @@ If you’re looking for a role where you can grow, lead, and make a difference, 
 We are managing this recruitment process directly. We kindly ask agencies refrain from contacting us regarding this opportunity unless approached by our Talent Acquisition team.
 
 BildGroup is an equal opportunity employer committed to diversity and inclusion. Applications are strongly encouraged from Aboriginal and Torres Strait Islander people; people with a disability; people who identify as LGBTIQA+; and those from culturally and linguistically diverse backgrounds. We also encourage Veterans to apply."
-91608869,Domain Architect - AI & Data,Bank First,https://www.seek.com.au/job/91608869?type=standard&ref=search-standalone&origin=jobCard#sol=6fea68d5eb73b08e8b83d628c752b31b63b6b403,4h ago,4.0,2026-04-20T02:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Bank First was born by making a BOLD move. Now, we're on a mission to make more BOLD moves as we transform and grow.
+91608869,Domain Architect - AI & Data,Bank First,https://www.seek.com.au/job/91608869?type=standard&ref=search-standalone&origin=jobCard#sol=8bd036982b353a5e38be630dfd71c0cf5fea05c9,7h ago,7.0,2026-04-20T02:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Architects (Information & Communication Technology),Full time,,"Bank First was born by making a BOLD move. Now, we're on a mission to make more BOLD moves as we transform and grow.
 
 We are proud to provide our community of educators and health-care workers with a bank that puts them first, because they put others first. We're committed to building a unique bank - one that’s different, sustainable and centred around our Members.
 
@@ -487,7 +1063,7 @@ Work with values-driven leaders, who actively develop talent and support you to 
 Work-life balance and flexibility, so you can work in a way that best suits you and supports your commitments outside of work. Family friendly parental leave, and paid superannuation up to 52 weeks.
 Hybrid working from our state-of-the-art offices to connect and collaborate, as well as focused time at home.
 Competitive remuneration with an additional one week ‘Be You’ leave, ‘Be Well’ wellbeing benefit, #BFF Club home loan offer and free on-site parking!"
-91605691,Cloud Engineer,Mitchell's Quality Foods,https://www.seek.com.au/job/91605691?type=standard&ref=search-standalone&origin=jobCard#sol=92cbfccf62434e8e57fb42cf3411dadb375f6903,7h ago,7.0,2026-04-19T23:00:00+00:00,"Banyo, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"Are you ready to be part of something bigger? At Lite n' Easy, we are not just about meals; we are about transforming lives through better eating habits. We make it effortless for Aussies to embrace healthier choices, whether they are on a weight loss journey or simply aiming to maintain a balanced lifestyle. As a team, we pour our passion into crafting meals that are not only nutritious but also bursting with flavour.
+91605691,Cloud Engineer,Mitchell's Quality Foods,https://www.seek.com.au/job/91605691?type=standard&ref=search-standalone&origin=jobCard#sol=6cd7f5427e0eafe6a5dd51cddb76c630e230ff8d,10h ago,10.0,2026-04-19T23:00:00+00:00,"Banyo, Brisbane QLD",Engineering - Software (Information & Communication Technology),Full time,,"Are you ready to be part of something bigger? At Lite n' Easy, we are not just about meals; we are about transforming lives through better eating habits. We make it effortless for Aussies to embrace healthier choices, whether they are on a weight loss journey or simply aiming to maintain a balanced lifestyle. As a team, we pour our passion into crafting meals that are not only nutritious but also bursting with flavour.
 
 
 
@@ -524,7 +1100,7 @@ If you are a cloud enthusiast who is passionate about building the future of inf
 Apply Now by submitting your resume via the link below.
 
 > Please note: Only applicants with full Australian work rights will be considered."
-91605533,Data Manager Engineering,Compare the Market,https://www.seek.com.au/job/91605533?type=standard&ref=search-standalone&origin=jobCard#sol=d4ca2043d57782bf2756c4c93e88908088a61658,7h ago,7.0,2026-04-19T23:00:00+00:00,Brisbane QLD,Database Development & Administration (Information & Communication Technology),Full time,,"Who We Are
+91605533,Data Manager Engineering,Compare the Market,https://www.seek.com.au/job/91605533?type=standard&ref=search-standalone&origin=jobCard#sol=24d226d22d5d0c8f9e37d60b790ede11862f21d8,10h ago,10.0,2026-04-19T23:00:00+00:00,Brisbane QLD,Database Development & Administration (Information & Communication Technology),Full time,,"Who We Are
 
  
 
@@ -614,7 +1190,7 @@ At Compare the Market and iSelect we’re proud to be an Equal Opportunity Emplo
  
 
 This role is available to candidates with unlimited Australian working rights only. Sponsorship is not available."
-91605432,Data Engineer,Morcofresh,https://www.seek.com.au/job/91605432?type=standard&ref=search-standalone&origin=jobCard#sol=dcd41a7dede979f8f95b9b8fc56cd72276a4855f,7h ago,7.0,2026-04-19T23:00:00+00:00,"Lidcombe, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,"$130,000 – $140,000 + Super per year","About Us
+91605432,Data Engineer,Morcofresh,https://www.seek.com.au/job/91605432?type=standard&ref=search-standalone&origin=jobCard#sol=e26f2643051d555704cdf86e63de18ddf82a3247,10h ago,10.0,2026-04-19T23:00:00+00:00,"Lidcombe, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,"$130,000 – $140,000 + Super per year","About Us
 
 The Morco business has expanded to become Australia's leading supplier of fresh produce to the foodservice sector. With operations spanning Sydney, Melbourne, Brisbane, Townsville, Perth, Adelaide, and Darwin, Morco stands as the only national provider to the foodservice sector in Australia. Our success is built on three essential pillars: our people, our customers, and our growers. Each complements the other seamlessly. We are a national business with a local heart, dedicated to bringing you the very best in fresh produce.
 
