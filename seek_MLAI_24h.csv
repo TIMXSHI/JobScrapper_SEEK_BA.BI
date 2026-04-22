@@ -1,5 +1,341 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91662188,AI Engineer,Protecht Group,https://www.seek.com.au/job/91662188?type=standard&ref=search-standalone&origin=jobCard#sol=f8783ed8be6a59fd672a981c11d054760208e2c2,2h ago,2.0,2026-04-22T01:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About us
+91670745,Data Engineer,Water Corporation,https://www.seek.com.au/job/91670745?type=standard&ref=search-standalone&origin=jobCard#sol=3014460ce1a1145fd02a7ca76972fe65550551f2,1h ago,1.0,2026-04-22T05:00:00+00:00,"Leederville, Perth WA","Natural Resources & Water (Mining, Resources & Energy)",Full time,"$115,561 + super","We’re entering a new chapter for Information Technology at Water Corporation as we deliver bold, future-focussed solutions. With the launch of our new Information and Technology Group Operating Model, we’re transforming how we deliver technology services, making them faster, more responsive, and more aligned with the needs of our business and customers. As part of this transformation, we’re hiring multiple new positions. These roles are key to shaping a vibrant, forward-thinking Information Technology Group - one that adds real value, delivers better outcomes, and works in smarter, more agile ways. It’s a strategic shift aligned with our organisational strategies, designed to modernise systems, embrace innovation, and create a more flexible, collaborative, and customer-centric IT environment. If you're equally excited about innovation, transformation, and making a meaningful impact, now is the perfect time to join us.
+
+About the role
+
+We are seeking a Data Engineer to join our Data & Analytics team within the Information & Technology Group. This technical specialist role is responsible for implementation, optimisation and support of reliable, performant and secure data platform and pipelines that enable analytics, insights and data driven decision making across the business.
+
+In this role, you will work at scale with the Enterprise data and analytics platform, building production-grade frameworks and data pipelines that ingest, transform, model and serve high-quality data to analysts, data scientists and business stakeholders, using Databricks and AWS cloud-native technologies.
+
+Real benefits that matter
+
+Real flexibility with options to work from home, 9-day fortnight, flexible work hours
+An additional 2 well-being days each year
+Access to long service leave pro rata after 3 years of service
+Generous co-contribution superannuation scheme, which offers up to 16%. This includes the standard 12% employer contribution, plus an additional 2% employer co-contribution that matches your own 2% contribution
+Purchase additional leave of up to 12 weeks or work 4 years at a reduced salary and take the fifth year off as paid leave
+
+Discover more benefits we offer to support the unique and individual ways our employees live.
+
+What the role will involve
+
+Design, build and optimise data pipelines, datasets and data products using Databricks and AWS services.
+Develop ELT pipelines using Spark, Delta Lake, Python and SQL, following approved patterns.
+Implement data modelling, data quality checks, validation and observability as part of production-ready solutions.
+Deploy and support data pipelines across Dev, Test and Prod environments using CI/CD practices.
+Execute testing and validation to ensure the accuracy, reliability and performance of data transformations.
+Monitor and support production data products, conducting incident investigation, root cause analysis and remediation.
+Participate in code reviews and apply software engineering standards, patterns and best practices.
+Work closely with senior data engineers, analysts and stakeholders to understand requirements and implement fit-for-purpose data solutions.
+Operation within Agile delivery, DataOps, DevOps and IT Service Management frameworks.
+
+Key skills and experience
+
+Qualifications & Experience
+
+Degree in Computer Science, Information Systems or a related discipline, or equivalent practical experience
+Considerable professional experience in data engineering roles
+Practical experience designing and building:
+Data ingestion and transformation pipelines
+Analytical data models
+Data quality checks and validation logic
+Considerable experience with cloud-based data and analytics platforms, particularly Databricks and AWS
+Strong experience using Python and SQL for data engineering workloads
+Experience working in Agile and DevOps environments, using Git-based version control.
+Relevant AWS and Databricks certifications are highly regarded
+
+Technical Skills
+
+Experience (or developing capability) with the following technologies and practices:
+
+Databricks Lakehouse
+
+Apache Spark
+Delta Lake
+Structure Streaming (desirable)
+
+AWS Services
+
+S3, Glue, Lambda
+RDS, DynamoDB, API Gateway
+
+Orchestration
+
+Databricks Lakeflow Jobs
+Airflow or similar orchestration tools
+
+DataOps and CI/CD
+
+Git-based workflows
+CI/CD pipelines
+Automated testing
+
+Strong Python, SQL and scripting skills for analytics and data transformations
+
+Personal Attributes 
+
+Strong analytical mindset with a structured approach to problem solving
+Eager to learn and grow as a data engineer in a modern Lakehouse environment
+Collaborative and able to work effectively within cross-functional teams
+Open to feedback and keen to continuously improve engineering practices
+Demonstrates behaviours aligned with a high-performance, values-driven culture.
+
+Apply: If you are interested in the above opportunity, please submit a covering letter and resume that best demonstrates your ability to meet the requirements of the role.
+
+As part of the recruitment process you may be required to complete pre-employment screening which may include a medical, qualification check, police clearance and Australian working rights check.
+
+Applications close Wednesday 6th May 2026
+
+Our commitment to a diverse and inclusive workplace
+
+Diversity and inclusion are more than words. They guide us on building a thriving workforce that reflects the diversity of our customers and our community.
+
+We encourage applications from every background, including Aboriginal and Torres Strait Islander people, people with disability, women, youth, LGBTQIA+ folks and people from culturally and linguistically diverse backgrounds.
+
+Applicants with disability who require adjustments, or alternative methods of communication in the recruitment process, can contact a Recruitment Officer recruitment@watercorporation.com.au or 9420 2000.
+
+To read our diversity and inclusion statement, please visit our website"
+91667216,Robotics Engineer,The Onset,https://www.seek.com.au/job/91667216?type=standard&ref=search-standalone&origin=jobCard#sol=6e344db10d0cca583abc1366aaf0d5d5f3f95f60,2h ago,2.0,2026-04-22T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 120000 - 150000 per annum,"Robotics Engineer
+Sydney | Full time | $120k-$150k + super
+ 
+The Mission
+A robotics startup is building manipulation systems that operate where humans can’t. Harsh environments, real operators, zero tolerance for failure.
+This role exists to bridge what’s already in production with what comes next.
+You’ll step into a knowledge gap, stabilise core systems, and help shape the move toward more autonomous robotics. You'll lead from the front very quickly.
+This is not research. This is deployed robotics that has to work. This is your chance to change the trajectory.
+ 
+What You’ll Work On
+• Owning and improving control and software systems for subsea manipulators
+• Building and refining real-time interfaces for operator control and system monitoring
+• Deploying robotics software onto embedded Linux environments
+• Working closely with hardware teams across mechanical, electrical and systems integration
+• Extending and maintaining production code, not starting from scratch
+• Contributing to validation, robustness and system reliability in the field
+• Supporting the longer-term shift toward operator-assisted and autonomous systems
+ 
+What Matters Here
+• Proven robotics experience, not just embedded or generalist software
+• Track record of shipping real systems into production environments
+• Strong C++ and embedded Linux fundamentals
+• Understanding of how robotic systems actually behave in the real world
+• Ability to work across the stack, from control logic through to system-level behaviour
+• Pragmatic decision making over over-engineering
+ 
+The Type of Engineer Who Thrives
+An engineer who has moved past prototypes and enjoys making systems actually work in the field. Someone who can build their own understanding of a system quickly and start making sensible decisions without heavy guidance.
+Comfortable operating with autonomy, working across disciplines, and improving things incrementally rather than chasing perfect solutions. Low ego, clear communicator, strong ownership mindset.
+ 
+Why This Role Matters
+There is a genuine gap to step into. This hire becomes a key technical anchor in a small team, helping stabilise current systems while influencing what gets built next.
+The work feeds directly into a broader push toward more integrated and autonomous subsea systems across a wider robotics and sensor ecosystem.
+ 
+The Opportunity
+• High ownership role with real influence over technical direction
+• Work on deployed robotics systems, not lab or simulation work
+• Exposure to full-stack robotics across hardware, software and control
+• Path toward technical leadership and autonomy-focused work
+• Small, experienced team with strong cross-functional collaboration
+ 
+Too good not to hear more? Apply direct or reach out at toby@theonset.com.au"
+91666749,AI Architect,Alcoa,https://www.seek.com.au/job/91666749?type=standard&ref=search-standalone&origin=jobCard#sol=8e862a8e477782f01820fc6c6b05180b987b4395,2h ago,2.0,2026-04-22T04:00:00+00:00,"West Perth, Perth WA (Hybrid)",Architects (Information & Communication Technology),Full time,Base Salary | 14% Super | Bonus | Leisure Days,"Shape Your World
+
+At Alcoa, you will become an essential part of our purpose: to turn raw potential into real progress. The way we see it, every Alcoan is a work-shaper, team-shaper, idea-shaper & world-shaper.
+
+This is your opportunity to help shape the future of sustainability with world-changing innovations and low-carbon technologies. Become a valued part of the team that’s shaping the future of aluminium, revolutionising the way the world lives, builds, moves and flies. Be part of it and shape your world.
+
+About the Role
+
+As the AI Architect, you will be the visionary spearheading the design, implementation, and governance of enterprise-grade AI solutions. Working within the ITAS Technology Strategy team, you will bridge the gap between complex business requirements and cutting-edge technology.
+
+This is a hands-on role supporting several active projects, including the development of chatbots, advisory services, and decision-support tools. Reporting to the ITAS Enterprise Strategy Lead in Rotterdam, you will oversee the full AI lifecycle—from use case definition to continuous optimisation.
+
+In this role, you will:
+
+Define and maintain enterprise AI standards, roadmaps, and end-to-end architectures.
+
+Guide teams on the application of Generative AI, LLMs, and predictive analytics.
+
+Develop Azure-based platform architectures and blueprints using a ""Secure by design"" approach.
+
+Embed responsible AI practices, risk management, and security compliance into every solution.
+
+Collaborate with a global team of Architects to ensure ""fit-by-design"" solution definitions.
+
+Educate business leaders on AI capabilities to prioritise high-impact initiatives.
+
+What’s on offer
+
+Attractive remuneration and variable bonus plan.
+
+Flexible hybrid working options available.
+
+Employee growth and development opportunities.
+
+Parental leave support for all caregivers.
+
+What you can bring to the role
+
+Critical Technical Skills:
+
+Python, ML and GenAI frameworks, and cloud AI platforms (Azure).
+
+Azure OpenAI, Azure AI Foundry, Databricks, LLMOps, and MLOps tooling.
+
+AKS (functional deployment), microservices, containerisation, and data engineering frameworks.
+
+Deep understanding of Data Architecture (Data Lake, Lakehouse), enterprise integration (API design, event-driven architecture), and AI Governance.
+
+Experience and Education:
+
+Tertiary degree in Computer Science, Data Science, or Engineering.
+
+Proven experience deploying large-scale AI solutions.
+
+Strong stakeholder management and the ability to engage with global teams across various time zones.
+
+A collaborative mindset with a focus on coaching others and sharing technical expertise.
+
+You will join a highly collaborative core team of four Domain Architects (Application, Integration, Data, and Technology). You will be supported by an extended global group of 12 members in Rotterdam and 2 in Perth. Our management style is proactive and partner-focused, valuing shared brainstorming and a willingness to challenge the status quo to deliver value.
+
+We are seeking a collaborative individual who thrives in a high‑performance, inclusive environment and can effectively communicate complex technical concepts to diverse audiences. We are open to considering suitably qualified candidates based in Perth, WA or Rotterdam, with flexible work‑from‑home arrangements available.
+
+Additional information
+
+Interviews may progress prior to the closing date, although all applications will be considered.
+
+You will only be contacted if you are shortlisted for an interview, this process can take up to four weeks from the closing date.
+
+Be part of shaping our organisation and join us in building a legacy of excellence for future generations.
+
+About the Location
+
+Alcoa Australia’s company headquarters is located at 235 St Georges Terrace in Perth CBD, Western Australia, on Whadjuk Noongar land. The office is conveniently close to public transport and parking, and hosts employees from various business functions, including Commercial, Finance, Sustainability, Communications, and Human Resources, as well as expert teams supporting local and global locations. Our head office offers modern, open-plan working facilities and excellent end-of-trip amenities within a state-of-the-art building.
+
+We are values led, vision driven and united by our purpose of transforming raw potential into real progress.  Our commitments to Inclusion, Diversity & Equity include providing trusting workplaces that are safe, respectful and inclusive of all individuals, free from discrimination, bullying and harassment and that our workplaces reflect the diversity of the communities in which we operate.    
+
+This is a place where you are empowered to do your best work, be your authentic self, and feel a true sense of belonging. Come join us and shape your career!  
+
+Your work. Your world. Shape them for the better."
+91663238,Autonomous Security Robotics (Contract-to-Hire),Bellum Australia Pty Ltd,https://www.seek.com.au/job/91663238?type=standard&ref=search-standalone&origin=jobCard#sol=eed004d5f52143d8bce3196d0f81d0d0e9af1814,2h ago,2.0,2026-04-22T04:00:00+00:00,Brisbane QLD (Remote),Electrical/Electronic Engineering (Engineering),Contract/Temp,,"Project Lead: Autonomous Security Robotics (Contract-to-Hire)
+
+Company: Bellum Australia
+Location: Remote (HQ in Melbourne & Brisbane)
+Type: Initial Project Contract (MVP focus) with path to Full-Time Lead
+
+The Mission
+
+Bellum Australia is an established leader in electronic security, but we aren't interested in just maintaining the status quo. We are pivoting into the future of autonomous guarding.
+
+We are building the Bellum Security Rover: a wheel-based, autonomous onsite guard designed to patrol, detect, and report. We have the vision and the capital; we need the hands-on expert to help us build the ""brain"" from the ground up.
+
+The Role
+
+This is a blank-slate project. You won't be maintaining someone else’s messy code; you will be the primary architect of this specific MVP. You will guide our procurement, design the systems architecture, and deploy the first working prototype.
+
+Key Responsibilities:
+
+Hardware Selection: Advise on the best-fit LiDAR, sensors, chassis, and compute modules (Jetson/NUC/etc.) for a ruggedized, easy-to-service field unit.
+
+Software Architecture: Build the stack using ROS/ROS 2, integrating SLAM, navigation, and obstacle avoidance.
+
+Supply Chain Design: Help us identify reliable robotic suppliers to ensure we can move from MVP to a repeatable fleet.
+
+Rapid Prototyping: Take the project from concept to a working autonomous unit that can navigate a site and provide real-time security feedback.
+
+Your Toolkit
+
+ROS Mastery: You know ROS like the back of your hand (navigation stacks, sensor fusion, URDF).
+
+Sensor Expert: Deep experience with LiDAR integration and computer vision.
+
+Hardware Practicality: You understand that ""cool"" doesn't always mean ""reliable."" You prioritize parts that are easy to replace in the field.
+
+Autonomous Experience: You’ve built or deployed wheel-based robots in the past—ideally for outdoor or industrial environments.
+
+Self-Starter: You don't need a manager; you need a goal. You’re comfortable working remotely with weekly high-level vision syncs.
+
+Why Bellum?
+
+Culture: We operate with the speed and agility of a high-tech startup, backed by the stability of an established security firm.
+
+Flexibility: 100% remote for the design and dev phase, with syncs in our Melbourne or Brisbane hubs.
+
+Technical Lead: You’ll be responsible for translating our specific security requirements into a functional robotic reality. 
+
+Growth: Successful delivery of the MVP leads directly into a long-term, full-time leadership role as we scale the fleet across Australia."
+91663544,L2 Service Desk Engineer,Digital Armour Corporation Pty Ltd,https://www.seek.com.au/job/91663544?type=standard&ref=search-standalone&origin=jobCard#sol=b01302abbea37fb9a2832ed698c6f5b0d7af0fe4,3h ago,3.0,2026-04-22T03:00:00+00:00,"North Sydney, Sydney NSW",Help Desk & IT Support (Information & Communication Technology),Full time,"$75,000 - $90,000 + super, depending on experience","ABOUT US
+
+Digital Armour is a multi-award-winning managed services business based in North Sydney. We look after the IT and cyber environments of businesses that can't afford downtime - and we've built a reputation for doing it properly. Our AI practice is already ahead of the market, not a side project but a core part of how we deliver value, and our people get genuine exposure to it.
+
+We're a business that punches above its weight. We're direct, we move fast, and we back the people who step up.
+
+
+
+
+ABOUT THE ROLE
+
+This is the role for an L1 who's ready to stop being the escalation-maker and start being the escalation point. Or for an experienced L2 who wants to work inside a business that actually invests in its service desk with real pathways, real mentoring, and real exposure to the technology you want to be learning.
+
+You'll report to the Service Operations and Delivery Manager and work alongside senior engineers across a modern Microsoft stack. Your week will mix hands-on technical resolution, mentoring L1 engineers and onsite visits.
+
+The work itself is meaty: advanced Office 365 administration, Azure and server management, Active Directory and Group Policy, firewall and networking troubleshooting down to packet level, Teams calling, endpoint security, patching and compliance. You'll own the full incident lifecycle in ConnectWise, contribute to the Knowledge Base, and identify the recurring issues that impact SLA performance and fix them at the root.
+
+
+
+
+WHAT YOU'LL BRING
+
+• 2-3 years in an MSP Help Desk or Service Desk environment - MSP experience is key.
+
+• ITIL V4 certification and practical experience applying service management in the real world
+
+• Advanced Office 365 administration (user management, mail flow troubleshooting, tenant-level config)
+
+• Strong Active Directory, Group Policy, Azure, and Windows Server experience
+
+• Solid networking fundamentals : subnetting, DNS/DHCP, packet-level diagnostics
+
+• Advanced VPN troubleshooting (connection establishment, routing, split tunnelling)
+
+• Experience with enterprise service management platforms: ConnectWise, or Autotask
+
+• Experience with Teams and cloud telephony (RingCentral, CISCO, MSOC)
+
+• A proven track record documenting solutions properly so the next engineer isn't solving the same problem twice
+
+• The communication skills to handle a frustrated customer on a Friday afternoon and still have them thank you at the end of the call
+
+
+
+
+WHAT'S IN FOR YOU
+
+• A genuine career pathway - L3 Engineer (technical) or Service Desk Team Leader (management), with clearly defined gatekeepers, not vague promises
+
+• Exposure to a market-leading AI practice that will expand your technical relevance well beyond traditional service desk work
+
+• Structured mentoring, ongoing certification support, and a Training and Development plan agreed with your Team Leader
+
+• Rewards & Incentives Scheme that recognises performance, not politics
+
+• The backing of an award-winning, growing MSP with proper process and proper tooling
+
+• North Sydney office with occasional site visits to customers when complex issues need hands-on attention
+
+
+
+
+OUR CULTURE
+
+Our values aren't posters on the wall, they're how we hire and how we promote. We expect people to be trusted, to take ownership, to exhibit excellence in all that we do, to keep learning, to never leave a customer stranded, and to call things straight. If that sounds like your kind of team, you'll fit in quickly.
+
+
+
+
+HOW TO APPLY
+
+If this sounds like the next step you've been waiting for, apply now. In your application, tell us about the most complex incident you've personally resolved: what broke, how you diagnosed it, and what you changed to stop it happening again. That matters more to us than a polished CV."
+91662188,AI Engineer,Protecht Group,https://www.seek.com.au/job/91662188?type=standard&ref=search-standalone&origin=jobCard#sol=fe3d01362e0c37166e5e3160ef585dfab8a39e35,4h ago,4.0,2026-04-22T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About us
 
 We are a fast growth Governance, Risk & Compliance (GRC) SaaS business. At Protecht, we are at the forefront of innovation, integrating cutting-edge AI technologies into our SaaS application, Protecht.ERM, and across our entire business. Our mission is to revolutionize enterprise risk management by leveraging AI to provide unparalleled insights and efficiencies.
 
@@ -88,7 +424,7 @@ If you are Ready to build the future of AI in enterprise risk management! Apply
   
 
 Visit our website https://www.protechtgroup.com/ to find out a little more about working with us."
-91661180,Mechatronic Engineer,Southern Launch,https://www.seek.com.au/job/91661180?type=standard&ref=search-standalone&origin=jobCard#sol=4ca15658994b4bf88bd843261a6296f85f6af860,2h ago,2.0,2026-04-22T01:00:00+00:00,"Hindmarsh, Adelaide SA",Mechanical Engineering (Engineering),Full time,,"About Us
+91661180,Mechatronic Engineer,Southern Launch,https://www.seek.com.au/job/91661180?type=standard&ref=search-standalone&origin=jobCard#sol=3c01c59a8ca3654bc652b54e32141aee56467fcf,5h ago,5.0,2026-04-22T01:00:00+00:00,"Hindmarsh, Adelaide SA",Mechanical Engineering (Engineering),Full time,,"About Us
 
 Southern Launch is a place where curiosity, responsibility and ambition meet to deliver space mission success for our customers. We are bold, we are brave and we are building infrastructure to take technology to space…and back!
 
@@ -175,7 +511,7 @@ You’ll gain hands‑on experience working in defence and space adjacent enviro
 How to Apply
 
 If this sounds like the job for you it’s time to hit the launch button and apply with your resume and cover letter."
-91661225,Senior Machine Learning Engineer,Just Digital People,https://www.seek.com.au/job/91661225?type=standard&ref=search-standalone&origin=jobCard#sol=7e50a4246f98e2d0a694ea7fd23bc331b8cc56e5,2h ago,2.0,2026-04-22T01:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$190,000 - 215,000 + Super + benefits","Most AI jobs out there fall into two categories:
+91661225,Senior Machine Learning Engineer,Just Digital People,https://www.seek.com.au/job/91661225?type=standard&ref=search-standalone&origin=jobCard#sol=576f461aa4541990c28b686c79ba46c34da87d62,5h ago,5.0,2026-04-22T01:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,"$190,000 - 215,000 + Super + benefits","Most AI jobs out there fall into two categories:
 
 1. Endless prototypes that never ship, or
 2. AI strategy roles where nothing gets built.
@@ -218,7 +554,7 @@ This is a company that moves fast, doesn’t tolerate ego, and gives you the pla
 No hype. No fluff. Just smart people building smarter products. If that’s you, get in touch for a confidential chat.
 
 nat@justdigitalpeople.com.au"
-91660134,"Forward Deployed Engineer, GenAI, Google Cloud",Google,https://www.seek.com.au/job/91660134?type=standard&ref=search-standalone&origin=jobCard#sol=98c768a22430f84b457a0fd9aa3a1ae349c87ff0,3h ago,3.0,2026-04-22T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
+91660134,"Forward Deployed Engineer, GenAI, Google Cloud",Google,https://www.seek.com.au/job/91660134?type=standard&ref=search-standalone&origin=jobCard#sol=8744eacb9a4403cb9d8aab623baeac05911f0ad5,6h ago,6.0,2026-04-22T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,World Class Benefits,"At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
 Minimum qualifications:
 
@@ -249,7 +585,7 @@ Build high-performance evaluation pipelines and observability frameworks to ensu
 Identify repeatable field patterns and friction points in Google’s AI stack, converting them into reusable modules or formal product feature requests for engineering teams.
 Be able to co-build with customer engineering teams to instill Google-grade development best practices, ensuring long-term project success and high end-user adoption.
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
-91660115,AI Adoption Specialist,REPURPOSE IT P/L,https://www.seek.com.au/job/91660115?type=standard&ref=search-standalone&origin=jobCard#sol=f603a36a252e088c042b8b587c963a874b82ea00,3h ago,3.0,2026-04-22T00:00:00+00:00,"Essendon Fields, Melbourne VIC",Other (Information & Communication Technology),Full time,,"About Repurpose It
+91660115,AI Adoption Specialist,REPURPOSE IT P/L,https://www.seek.com.au/job/91660115?type=standard&ref=search-standalone&origin=jobCard#sol=d161a0d0015f1a5e243dac0478f2832a88ad77e7,6h ago,6.0,2026-04-22T00:00:00+00:00,"Essendon Fields, Melbourne VIC",Other (Information & Communication Technology),Full time,,"About Repurpose It
 
 Repurpose It is a recognised leader in the circular economy, giving new life to materials that would otherwise go to waste. We recover resources from construction and demolition, excavation, infrastructure projects, and local council organics, transforming them into valuable products that support sustainable growth.
 
@@ -291,7 +627,7 @@ If successful in the process, we conduct a pre-employment check which consist of
 Repurpose It is committed to providing an inclusive workplace and welcomes all individuals from different backgrounds, gender and ethnicity to apply.
 
 Please let us know if you require any adjustments through this process."
-91659210,NOC Engineer,Uniti Group Limited,https://www.seek.com.au/job/91659210?type=standard&ref=search-standalone&origin=jobCard#sol=7b310f6aba99b7a9d7616a2c86e253f175952e91,4h ago,4.0,2026-04-21T23:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"We are one of Australia's fastest growing companies. We design, build and maintain world-class digital infrastructure, encompassing fibre networks, communication platforms, residential internet and voice services.
+91659210,NOC Engineer,Uniti Group Limited,https://www.seek.com.au/job/91659210?type=standard&ref=search-standalone&origin=jobCard#sol=dbeb5c6ee376c506ef2bd17ff90c991f4066fe6e,7h ago,7.0,2026-04-21T23:00:00+00:00,Melbourne VIC (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,,"We are one of Australia's fastest growing companies. We design, build and maintain world-class digital infrastructure, encompassing fibre networks, communication platforms, residential internet and voice services.
 
 We believe our people are vital to our success. We strive to create an environment that appeals to the very best people in the industry, providing them with an exciting, market leading and satisfying workplace, and rewarding their performance.
 
@@ -357,7 +693,7 @@ If this role sounds like you, we would like to hear from you! You must have the
 Questions about the role to be emailed directly to our HR team at recruitment@unitigrouplimited.com
 
 No recruiters please, we manage our recruitment in-house."
-91657064,Lead Engineer,sportsbet.com.au,https://www.seek.com.au/job/91657064?type=standard&ref=search-standalone&origin=jobCard#sol=e43425e0a5a0cf4a6a84c7d92b4a83f2f91c0813,10h ago,10.0,2026-04-21T17:00:00+00:00,Melbourne VIC (Hybrid),Programme & Project Management (Information & Communication Technology),Full time,,"Be part of one of the most innovative companies in Australia with industry leading technology
+91657064,Lead Engineer,sportsbet.com.au,https://www.seek.com.au/job/91657064?type=standard&ref=search-standalone&origin=jobCard#sol=3b22027109d09b279416ec7fa03166ca5da426ad,12h ago,12.0,2026-04-21T18:00:00+00:00,Melbourne VIC (Hybrid),Programme & Project Management (Information & Communication Technology),Full time,,"Be part of one of the most innovative companies in Australia with industry leading technology
 A place to truly be yourself and thrive in your career from the beginning
 Recognised and endorsed as an employer for all women by Work180 – ranking #35 in 2025
 
@@ -414,7 +750,7 @@ We’re an inclusive employer who welcomes you for who you are, as you are – 
 If you think you’d be a great fit but don’t necessarily meet everything in the job description, please still get in touch.
 
 Ready to bring excitement to life? Apply now"
-91656522,Binance Accelerator Program - Applied Data Scientist,Binance,https://www.seek.com.au/job/91656522?type=standard&ref=search-standalone&origin=jobCard#sol=1a059db208bce6b1fd5e48bb6a6975e1ec99422c,12h ago,12.0,2026-04-21T15:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Asia / Taiwan, Taipei / Vietnam, Ho Chi Minh / Japan, Tokyo / Thailand, Bangkok / Australia, Sydney
+91656522,Binance Accelerator Program - Applied Data Scientist,Binance,https://www.seek.com.au/job/91656522?type=standard&ref=search-standalone&origin=jobCard#sol=c731f2d417868e27c1316da0000df7551e43fdc2,14h ago,14.0,2026-04-21T16:00:00+00:00,Sydney NSW (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Asia / Taiwan, Taipei / Vietnam, Ho Chi Minh / Japan, Tokyo / Thailand, Bangkok / Australia, Sydney
 
 Engineering – Data Science/AI /
 
