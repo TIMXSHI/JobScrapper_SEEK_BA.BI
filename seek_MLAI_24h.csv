@@ -1,29 +1,264 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91688757,Senior Machine Learning Developer,Correlate Resources,https://www.seek.com.au/job/91688757?type=standard&ref=search-standalone&origin=jobCard#sol=9988f573ce488d884fa66c77c88015626794ad27,1h ago,1.0,2026-04-23T02:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Our client is an exciting Australasia market leader. Due to the ongoing success of the team brand new positions have been created for a Mid & Senior Machine Learning Developers to join their team.
+91695945,Data Engineer,Blackbook.AI,https://www.seek.com.au/job/91695945?type=standard&ref=search-standalone&origin=jobCard#sol=9c4b111b2ce15f2dfac8a5d02e76565624c2026d,1h ago,1.0,2026-04-23T05:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Blackbook.ai is one of Australia's most successful and progressive automation companies. Our use of Data and AI to deliver on our client's pursuit of bottom-line benefits has resulted in a company that can claim a 100% success rate in solution delivery. We have an agile approach to tackling problems. We understand that there isn't just one solution to every problem! Our unique approach to problem-solving will see you working directly with our customers, capturing additional requirements and developing intuitive solutions while drawing on the vast knowledge of existing team members. 
 
-ROLE
-Machine Learning and ML Ops best practice on terabytes of data. Working as part of the ML Development team and closely collaborating with Data Scientists. Be prepared to build Cloud based cutting edge ML platforms, pipelines and experiment with Big Data and ML tech available on the market.
+The Data Engineer role will see you working with multiple clients, projects and stakeholders. You will find yourself working with fellow experts in the DataOps, Digital, and AI teams. You will directly report to the Head of Data and AI/ML and work autonomously to design data architectures for our clients. 
 
-RESPONSIBILITIES
-Your responsibilities as a Senior Machine Learning Developer will include:
+Your responsibilities as a Data Engineer are as follows: 
 
-Design and implementation of Big Data and Machine Learning platforms, pipelines and tooling 
-Pioneering new tech and approaches to improve time to market, reliability and performance of Data Science products
-Stakeholder management across different disciplines
-SKILLS
-The skills and experience you need for this Senior Machine Learning Developer role:
+Work directly with clients as a Blackbook.ai consultant 
 
-Solid Data Engineering foundations
-Hands-on exposure with Kubernetes (Argo/Kubeflow)
-Experience in building and running Docker images
-Cloud (GCP/AWS/Azure) commercial experience
-Good ML Ops, SRE or DevOps experience
-Hands-on with Linux
-Practical experience with ML algorithms, techniques and packages
+Gather requirements, design, build and test analytics solutions 
 
-HOW TO APPLY
-Please click on the 'Apply' button below or email your resume to kate@correlateresources.com"
-91686564,Simulation Modeller / Consultant (Dynamic Simulation),Theia Simulation,https://www.seek.com.au/job/91686564?type=standard&ref=search-standalone&origin=jobCard#sol=14e9a46c44270d65815cc7429f7047978b67f6e0,2h ago,2.0,2026-04-23T01:00:00+00:00,Brisbane QLD (Hybrid),Modelling & Simulation (Science & Technology),Full time,,"Simulation Modellers - (Dynamic Simulation)
+Design and build cloud platform architectures to support scalable analytics on Azure and AWS 
+
+Design and build metadata-driven data ingestion into data lakes and databases 
+
+Design and build data models to support highly scalable and cost-efficient data analysis 
+
+Work with traditional BI and Modern Data Warehouse architectures 
+
+Take ownership of the end-to-end process from requirements gathering to implementation 
+
+Leverage the skill and knowledge of your peers, technical leads and management 
+
+Apply best practices and be self-motivating to keep up with emerging technologies 
+
+
+
+
+To be considered for the position you must have a bachelor's degree or higher, and be comfortable demonstrating your skills in the following areas: 
+
+Professional presentation and communication skills: written and verbal, formal documentation, diagramming and modelling 
+
+Critical thinking and problem solving skills 
+
+Azure or AWS certification in Data Engineering or Architecture 
+
+Designing and building relational, star and snowflake models and schemas 
+
+Designing and building Modern Data Warehouse architectures 
+
+Fast, high-quality development in SQL Server or a similar relational database engine such as Oracle or PostgreSQL 
+
+Visualising data effectively using Power BI, Tableau or QlikSense 
+
+
+
+
+Highly regarded although not mandatory experience includes: 
+
+Azure Data Factory or Amazon Glue 
+
+Snowflake, Synapse or Databricks 
+
+PowerShell, Azure/AWS CLI, or TerraForm for managing cloud infrastructure 
+
+In return, we can offer you: 
+
+Competitive Remuneration 
+
+Flexible Working Conditions 
+
+Gym and PT 
+
+Free Spotify Account 
+
+Extra leave 
+
+
+
+
+Blackbook.ai can offer a fast-paced and collaborative delivery environment with an emphasis on culture and teamwork, ensuring all projects are delivered with our high standards. We have a large team of dedicated consultants able to work alongside and guide you through your journey, and offer on-the-job training and development with access to multiple certifications."
+91695034,Expression of Interest - AI Solutions Developer (Applied AI / LLMs),FineSkyAi,https://www.seek.com.au/job/91695034?type=standard&ref=search-standalone&origin=jobCard#sol=e182e414131b4f1cab7bb2a360910faedeb27649,1h ago,1.0,2026-04-23T05:00:00+00:00,"Footscray, Melbourne VIC (Remote)",Developers/Programmers (Information & Communication Technology),Full time,"$120,000 – $160,000 per year","Melbourne preferred | Australia-based | Future opportunity
+
+
+
+
+About FineSkyAi
+
+FineSkyAi is building sovereign, onshore AI capability in Australia.
+
+We focus on applying AI to real-world problems today, while building toward a larger AI platform over time.
+
+This is an expression of interest, not a currently funded live vacancy.
+
+
+
+
+About the role
+
+This is a hands-on role focused on building, deploying, and improving real AI solutions.
+
+You will work directly with the founder to turn ideas and client needs into working systems across multiple domains.
+
+This is not a pure research role. It is focused on applied AI, delivery, and execution.
+
+
+
+Key responsibilities
+
+- Build and deploy AI-powered applications and systems
+- Integrate large language models (LLMs) into real-world workflows
+- Develop APIs, tools, and automation pipelines
+- Work on fine-tuning and adapting models to specific use cases
+- Collaborate on solution design based on client needs
+- Improve system performance, reliability, and usability
+- Support transition from custom solutions to scalable platform components
+
+
+
+You may be a strong fit if you:
+
+- Can build and ship working AI solutions end-to-end
+- Are comfortable working across backend, APIs, and AI models
+- Prefer practical problem-solving over theoretical research
+- Can operate in an early-stage, fast-moving environment
+- Take ownership and deliver outcomes, not just code
+
+
+
+Experience that would be useful:
+
+- Python and modern AI/ML frameworks (e.g. PyTorch, TensorFlow)
+- Experience with LLMs, prompt engineering, or RAG systems
+- API development and system integration
+- Cloud platforms (AWS, Azure, GCP)
+- Working with real datasets and production systems
+
+
+
+What this role could become
+
+- Lead AI Engineer or Technical Lead
+- Ownership of platform architecture and model systems
+- Key contributor to FineSkyAi’s foundation model development
+
+
+
+How to apply
+
+Please send:
+- your CV or GitHub profile
+- examples of AI projects or systems you have built
+- a short note on the most complex system you’ve shipped"
+91694294,Data Analytics - Financial Crime,TalentWeb Consulting,https://www.seek.com.au/job/91694294?type=standard&ref=search-standalone&origin=jobCard#sol=03b320ced91de99e818b9673341d6ac9274c45b7,1h ago,1.0,2026-04-23T05:00:00+00:00,Sydney NSW (Hybrid),Compliance & Risk (Banking & Financial Services),Full time,,"AML Data Scientists (Multiple Levels) | Financial Crime Change & Remediation Programme
+
+A leading financial services organisation is building out a high-performing team of AML Data Scientists to support a large-scale financial crime change and remediation programme.
+This is a unique opportunity to work at the forefront of financial crime prevention, leveraging advanced analytics and AI to enhance surveillance capabilities across AML, sanctions, and customer due diligence.
+
+ What you’ll be doing
+Analyse financial crime trends and identify emerging risks across large, complex datasets
+Develop and deploy machine learning and predictive models to enhance detection capabilities
+Apply advanced analytics, NLP, and GenAI techniques to improve transaction monitoring and surveillance outcomes
+Support ongoing remediation and uplift initiatives, driving improvements across systems and controls
+Collaborate with risk, compliance, and technology teams to deliver scalable, data-driven solutions
+What we’re looking for
+Experience in data science / machine learning roles within financial services or regulated environments
+Strong programming skills in Python and SQL
+Exposure to financial crime / AML / transaction monitoring / KYC / sanctions (highly regarded)
+Experience with NLP, LLMs, GenAI, or advanced analytics techniques
+Strong problem-solving mindset with the ability to translate complex data into actionable insights
+Nice to have:
+
+Experience with SAS, Power BI, or similar tools
+Exposure to deep learning, reinforcement learning, or AI model deployment
+Familiarity with tools such as OpenAI, Microsoft Cognitive Services (e.g. speech-to-text, text mining, image recognition)"
+91694109,AI Transformation Lead,Davidson,https://www.seek.com.au/job/91694109?type=standard&ref=search-standalone&origin=jobCard#sol=0b3be688a996efd478788d2268bd0bd836d11624,1h ago,1.0,2026-04-23T05:00:00+00:00,Sydney NSW (Hybrid),Product Management & Development (Information & Communication Technology),Full time,$200k - $220k p.a.,"About the Company
+
+Our client is a large, customer‑focused organisation operating at national scale and undergoing significant transformation.
+
+About the Role
+
+Our client is establishing a greenfield AI capability and is seeking an AI Transformation Lead to operate at the intersection of business transformation, AI solution delivery, and change management.
+
+This role is not hands‑on engineering. Instead, you will work closely with business units, subject matter experts and engineering teams to identify AI opportunities, redesign workflows for human + AI collaboration, and ensure solutions are successfully adopted and optimised post‑launch.
+
+The focus is on embedding AI into real operational and customer environments at scale, delivering measurable outcomes rather than proofs of concept.
+
+Key Responsibilities:
+
+
+Identify and shape high‑value AI use cases across operations, internal productivity and customer experiences.
+Translate business problems into clear AI solution definitions and delivery plans.
+Redesign end‑to‑end workflows to embed human‑AI collaboration.
+Partner closely with AI engineering teams to guide solution delivery.
+Lead adoption, training and change activities to embed AI into BAU.
+Establish feedback loops and drive continuous optimisation post‑launch.
+Track benefits and outcomes including efficiency, cost and experience improvements.
+Engage confidently with senior stakeholders across business and technology.
+
+About You
+
+
+Significant prior experience delivering digital, AI or technology‑enabled transformation in complex organisations.
+Proven experience taking AI or automation initiatives from concept through to production and adoption.
+Strong ability to translate business challenges into structured AI use cases.
+Experience redesigning workflows and embedding new ways of working.
+Solid conceptual understanding of modern AI (e.g. LLMs, RAG, agentic workflows, prompting).
+Strong stakeholder engagement, communication and delivery skills.
+Backgrounds from consulting, transformation, product or innovation roles are well suited.
+Technical/development background (Advantageous)
+
+The Benefits
+
+
+Permanent opportunity to shape a greenfield AI function
+High‑visibility role with strong executive backing
+Hybrid working arrangement
+Competitive salary package
+Long‑term career growth as the AI capability scales
+
+
+
+
+Please apply with current resume in Microsoft Word format only (.doc or .docx). If you would like to have a confidential discussion, please contact Maaz Mian on Maaz.Mian@Davidsonwp.com, quoting reference JN -042026-43075. Want to know more about Davidson? Visit us at www.davidsonwp.com"
+91693785,AI Transformation Lead,Davidson,https://www.seek.com.au/job/91693785?type=standard&ref=search-standalone&origin=jobCard#sol=d3d488400904ca8c7acd8f2fc8a5d1c33d3f3197,2h ago,2.0,2026-04-23T04:00:00+00:00,"South Brisbane, Brisbane QLD (Hybrid)",Product Management & Development (Information & Communication Technology),Full time,$200k - $220k p.a.,"About the Company
+
+Our client is a large, customer‑focused organisation operating at national scale and undergoing significant transformation.
+
+About the Role
+
+Our client is establishing a greenfield AI capability and is seeking an AI Transformation Lead to operate at the intersection of business transformation, AI solution delivery, and change management.
+
+This role is not hands‑on engineering. Instead, you will work closely with business units, subject matter experts and engineering teams to identify AI opportunities, redesign workflows for human + AI collaboration, and ensure solutions are successfully adopted and optimised post‑launch.
+
+The focus is on embedding AI into real operational and customer environments at scale, delivering measurable outcomes rather than proofs of concept.
+
+Key Responsibilities:
+
+Identify and shape high‑value AI use cases across operations, internal productivity and customer experiences.
+Translate business problems into clear AI solution definitions and delivery plans.
+Redesign end‑to‑end workflows to embed human‑AI collaboration.
+Partner closely with AI engineering teams to guide solution delivery.
+Lead adoption, training and change activities to embed AI into BAU.
+Establish feedback loops and drive continuous optimisation post‑launch.
+Track benefits and outcomes including efficiency, cost and experience improvements.
+Engage confidently with senior stakeholders across business and technology.
+
+About You
+
+Significant prior experience delivering digital, AI or technology‑enabled transformation in complex organisations.
+Proven experience taking AI or automation initiatives from concept through to production and adoption.
+Strong ability to translate business challenges into structured AI use cases.
+Experience redesigning workflows and embedding new ways of working.
+Solid conceptual understanding of modern AI (e.g. LLMs, RAG, agentic workflows, prompting).
+Strong stakeholder engagement, communication and delivery skills.
+Backgrounds from consulting, transformation, product or innovation roles are well suited.
+Technical/development background (Advantageous)
+
+The Benefits
+
+Permanent opportunity to shape a greenfield AI function
+High‑visibility role with strong executive backing
+Hybrid working arrangement
+Competitive salary package
+Long‑term career growth as the AI capability scales
+
+
+
+
+Please apply with current resume in Microsoft Word format only (.doc or .docx). If you would like to have a confidential discussion, please contact Maaz Mian on Maaz.Mian@Davidsonwp.com, quoting reference JN -042026-43075. Want to know more about Davidson? Visit us at www.davidsonwp.com"
+91693018,Simulation Modeller / Consultant (Dynamic Simulation),Theia Simulation,https://www.seek.com.au/job/91693018?type=standard&ref=search-standalone&origin=jobCard#sol=1ebdff4acd2ab59a4f0a79c602425955434cfd0f,2h ago,2.0,2026-04-23T04:00:00+00:00,Brisbane QLD (Hybrid),Modelling & Simulation (Science & Technology),Full time,,"Simulation Modellers - (Dynamic Simulation)
 
 (Brisbane Based)
 
@@ -70,7 +305,54 @@ Optimisation techniques: Bonus points for experience with optimisation technique
 For a confidential enquiry please contact Gill Benfield at gill.benfield@theia.com.au
 
 No agencies please."
-91686427,Databricks Engineer (Mid-Level) | 6 Month Contract | $700 per day | Melbourne,Motion Recruitment,https://www.seek.com.au/job/91686427?type=standard&ref=search-standalone&origin=jobCard#sol=fcd3c565217d9ae2620c43b44ae8d0bf2a02fb3f,2h ago,2.0,2026-04-23T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We’re currently working with a boutique consultancy that is looking to bring on a mid level Databricks Engineer for an initial 6-month contract, with a chance of extension. This is an urgent requirement, so we’re looking for candidates who can hit the ground running.
+91692498,AI Operations Lead,GRIT Talent Consulting,https://www.seek.com.au/job/91692498?type=standard&ref=search-standalone&origin=jobCard#sol=bcbd30ad26f5b607539da81d978a0f96b20fc597,2h ago,2.0,2026-04-23T04:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,"Up to $160,000 + Bonuses","We are seeking an experienced AI Engineering (MLOps) Team Lead to lead the design, delivery, and ongoing operation of production AI and machine learning solutions in a cloud-based environment. In this hands-on leadership role, you will guide a small team of AI specialists while working closely with software, data, and business stakeholders to ensure AI systems are reliable, scalable, secure, and aligned to organisational goals.
+
+You will lead the delivery of production AI and MLOps solutions in a permanent, hybrid role requiring just one day per week in the office. Working primarily on Azure, you will take a hands-on leadership position, guiding and mentoring a small technical team while ensuring AI systems are robust, scalable, and effectively deployed into production.
+
+Key responsibilities
+
+Lead end-to-end AI and machine learning delivery into production
+Define and embed MLOps standards and responsible AI practices
+Monitor model performance, reliability, and data drift
+Architect and maintain scalable ML pipelines
+Act as the primary technical contact for AI initiatives
+Mentor and guide a technical team
+Collaborate with business and technology stakeholders
+   What you’ll bring
+
+3+ years’ experience with AI/ML in production
+Strong Python skills
+Hands-on experience with Azure and Docker
+Deep knowledge of MLOps, CI/CD pipelines, and data engineering workflows   
+Experience leading or mentoring technical teams
+Experience working in agile delivery environment
+Strong stakeholder engagement and communication skills
+Apply now Via SEEK or Reach out to Tony via tony@grittalent.com or 0482 085 522 for a confidential discussion."
+91688757,Senior Machine Learning Developer,Correlate Resources,https://www.seek.com.au/job/91688757?type=standard&ref=search-standalone&origin=jobCard#sol=fd0cb16e7c2c4481b58cada4f07fddae2e5d0e1b,4h ago,4.0,2026-04-23T02:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Our client is an exciting Australasia market leader. Due to the ongoing success of the team brand new positions have been created for a Mid & Senior Machine Learning Developers to join their team.
+
+ROLE
+Machine Learning and ML Ops best practice on terabytes of data. Working as part of the ML Development team and closely collaborating with Data Scientists. Be prepared to build Cloud based cutting edge ML platforms, pipelines and experiment with Big Data and ML tech available on the market.
+
+RESPONSIBILITIES
+Your responsibilities as a Senior Machine Learning Developer will include:
+
+Design and implementation of Big Data and Machine Learning platforms, pipelines and tooling 
+Pioneering new tech and approaches to improve time to market, reliability and performance of Data Science products
+Stakeholder management across different disciplines
+SKILLS
+The skills and experience you need for this Senior Machine Learning Developer role:
+
+Solid Data Engineering foundations
+Hands-on exposure with Kubernetes (Argo/Kubeflow)
+Experience in building and running Docker images
+Cloud (GCP/AWS/Azure) commercial experience
+Good ML Ops, SRE or DevOps experience
+Hands-on with Linux
+Practical experience with ML algorithms, techniques and packages
+
+HOW TO APPLY
+Please click on the 'Apply' button below or email your resume to kate@correlateresources.com"
+91686427,Databricks Engineer (Mid-Level) | 6 Month Contract | $700 per day | Melbourne,Motion Recruitment,https://www.seek.com.au/job/91686427?type=standard&ref=search-standalone&origin=jobCard#sol=8be9911eff5d3b68ff2ed9611f9fe9fc6d198faa,5h ago,5.0,2026-04-23T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,,"We’re currently working with a boutique consultancy that is looking to bring on a mid level Databricks Engineer for an initial 6-month contract, with a chance of extension. This is an urgent requirement, so we’re looking for candidates who can hit the ground running.
 
 Key Responsibilities
 
@@ -89,7 +371,7 @@ Experience in consulting or client-facing environments
 Exposure to CI/CD and infrastructure as code
 Familiarity with modern data architectures (Lakehouse, etc.)
 If you’re a Databricks Engineer looking for your next contract opportunity and available to start soon, we’d love to hear from you."
-91686179,Senior AI Engineers x 4,Reapit,https://www.seek.com.au/job/91686179?type=standard&ref=search-standalone&origin=jobCard#sol=6e96c4f96b18cb68ed4fddee667d9a5563ed9754,3h ago,3.0,2026-04-23T00:00:00+00:00,"Haymarket, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,$170K-$210K,"Reapit – Who are we?
+91686179,Senior AI Engineers x 4,Reapit,https://www.seek.com.au/job/91686179?type=standard&ref=search-standalone&origin=jobCard#sol=8f5ff6326d89efeae65617b50296a7de12040190,5h ago,5.0,2026-04-23T01:00:00+00:00,"Haymarket, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,$170K-$210K,"Reapit – Who are we?
 
 Reapit is the original, end-to-end business technology provider for estate agencies of all sizes. We’ve been helping sales and lettings agents to build relationships and grow their businesses for more than 25 years. Our technology connects property professionals in Europe, the Middle East, Australia, and New Zealand with buyers, sellers, tenants and landlords to power the relationships that change lives.
 
@@ -200,7 +482,7 @@ We care about our industry and want it to become a more inclusive and diverse pl
 our employees.
 
 “We are a 2025 Circle Back Initiative Employer – we commit to respond to every applicant.”"
-91685860,AI Solutions Engineer,Intertek,https://www.seek.com.au/job/91685860?type=standard&ref=search-standalone&origin=jobCard#sol=de133f059414e5a8bd6a175dca346debb045707a,3h ago,3.0,2026-04-23T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"We’re looking for a hands-on AI Solutions Engineer who can turn complex content, compliance, and workflow challenges into practical, AI-enabled products.
+91685860,AI Solutions Engineer,Intertek,https://www.seek.com.au/job/91685860?type=standard&ref=search-standalone&origin=jobCard#sol=7eb91926bee580125fe5a2a3d823ce125ccba157,6h ago,6.0,2026-04-23T00:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"We’re looking for a hands-on AI Solutions Engineer who can turn complex content, compliance, and workflow challenges into practical, AI-enabled products.
 
  
 
@@ -326,7 +608,7 @@ Be part of a growing global organisation with strong market presence
 Collaborate across product, engineering and commercial teams
 
 Opportunity to shape the future of AI in regulatory and standards environments"
-91685701,Automation Engineer,Fluid Engineering,https://www.seek.com.au/job/91685701?type=standard&ref=search-standalone&origin=jobCard#sol=a828a69cc58fa9c5053cd74fd818b2d43ee343a9,3h ago,3.0,2026-04-23T00:00:00+00:00,Brisbane QLD,Materials Handling Engineering (Engineering),Full time,$120k - $130k p.a. + + travel allowances + overtim,"Our client is a global leader in industrial automation solutions, and we are looking to appoint their next Brisbane based Automation Engineer. This opportunity puts you at the centre of delivering large-scale, automated materials handling systems - taking projects from concept through to commissioning and beyond. You'll be hands-on across PLC programming, HMI/SCADA development, system integration, and on-site delivery, working closely with mechanical, electrical, and project teams to bring complex systems together.
+91685701,Automation Engineer,Fluid Engineering,https://www.seek.com.au/job/91685701?type=standard&ref=search-standalone&origin=jobCard#sol=e95ce57e2a2b08bf9abad0e908b7ba337b4bee49,6h ago,6.0,2026-04-23T00:00:00+00:00,Brisbane QLD,Materials Handling Engineering (Engineering),Full time,$120k - $130k p.a. + + travel allowances + overtim,"Our client is a global leader in industrial automation solutions, and we are looking to appoint their next Brisbane based Automation Engineer. This opportunity puts you at the centre of delivering large-scale, automated materials handling systems - taking projects from concept through to commissioning and beyond. You'll be hands-on across PLC programming, HMI/SCADA development, system integration, and on-site delivery, working closely with mechanical, electrical, and project teams to bring complex systems together.
 
 What You'll Bring
 
@@ -359,7 +641,7 @@ Contact Shekinah Bramwell on +64 21 190 9355. Or Email shekinah@fluidrecruitment
 
 
 www.fluidrecruitment.co.nz"
-91685603,Growth Intelligence - Analytics and AI Lead,SA Water,https://www.seek.com.au/job/91685603?type=standard&ref=search-standalone&origin=jobCard#sol=a7bc51f0d0e71f80f9ba90f64c0eafc741a47119,3h ago,3.0,2026-04-23T00:00:00+00:00,Adelaide SA (Hybrid),"Management (Information & Communication Technology)
+91685603,Growth Intelligence - Analytics and AI Lead,SA Water,https://www.seek.com.au/job/91685603?type=standard&ref=search-standalone&origin=jobCard#sol=5559a45cf9e931e7534b929ce5eb7a5599e39686,6h ago,6.0,2026-04-23T00:00:00+00:00,Adelaide SA (Hybrid),"Management (Information & Communication Technology)
 Government - State (Government & Defence)",Full time,,"About the Company 
 
 SA Water is a successful, modern water utility wholly owned by the Government of South Australia. We employ more than 1,700 people across a broad range of disciplines who operate more than $14 billion worth of infrastructure to deliver essential water and sewerage services to more than 1.8 million South Australians.
@@ -426,7 +708,7 @@ A great customer experience is best achieved by having a diverse and inclusive t
 Our Industry is like no other. Dive into the wonderful world of water and explore the boundless opportunities. Learn more about the water industry at careersinwater.com.au 
 
 Please note: We request that recruitment agencies do not submit candidates for this position, as they will not be accepted."
-91685256,Senior Data Scientist,Just Digital People,https://www.seek.com.au/job/91685256?type=standard&ref=search-standalone&origin=jobCard#sol=9a429ad53a86ee4c1eee832f6f7f64ed8076b2ef,4h ago,4.0,2026-04-22T23:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,"$180,000 - $195,000 + super","A lot of data science roles talk about impact.
+91685256,Senior Data Scientist,Just Digital People,https://www.seek.com.au/job/91685256?type=standard&ref=search-standalone&origin=jobCard#sol=b2fa91daacc446dd88d876bae316f86fbf9b9316,6h ago,6.0,2026-04-23T00:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,"$180,000 - $195,000 + super","A lot of data science roles talk about impact.
 This one measures it.
 
 You’ll work on AI and GenAI features that sit directly in front of customers. Not internal dashboards. Not experiments that never ship. Real product functionality, where success is defined by whether it improves the experience and holds up in the real world.
@@ -466,7 +748,7 @@ Melbourne based, in person collaboration preferred
 If you’re looking for a role where GenAI is actually in production, experimentation drives decisions, and your work reaches customers, this is worth a conversation.
 
 nat@justdigitalpeople.com.au"
-91685191,Research Engineer,Aurizn Pty Ltd,https://www.seek.com.au/job/91685191?type=standard&ref=search-standalone&origin=jobCard#sol=1ac1e77fb6ec59a6de47f1c7e2ecc905c4f9d3ea,4h ago,4.0,2026-04-22T23:00:00+00:00,"Edinburgh, Adelaide SA",Other (Engineering),Full time,,"Why work at Aurizn?
+91685191,Research Engineer,Aurizn Pty Ltd,https://www.seek.com.au/job/91685191?type=standard&ref=search-standalone&origin=jobCard#sol=2cd3a9f9895d8a88884ab3ca987293899c34b2bf,6h ago,6.0,2026-04-23T00:00:00+00:00,"Edinburgh, Adelaide SA",Other (Engineering),Full time,,"Why work at Aurizn?
 
 We are an Australian owned Defence Technology company pushing the limits to support Australian and allied forces deliver a more secure future.
 
@@ -503,7 +785,7 @@ Familiarity with sensing systems, RF concepts, or array-based processing.
 Due to a requirement to be eligible for a NV1 security clearance, Australian Citizenship is required.
 
 We welcome applicants with diverse backgrounds and experiences. Please reach out to careers@aurizn.co if you have any particular needs that we can support you with throughout this process."
-91684964,ASD EL1 Machine Learning Engineers,Australian Signals Directorate,https://www.seek.com.au/job/91684964?type=standard&ref=search-standalone&origin=jobCard#sol=efda2a02e4469513bf915c5ec9f7e04812a3d655,4h ago,4.0,2026-04-22T23:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $126,857 - $143,093 (plus super)”","The Opportunity
+91684964,ASD EL1 Machine Learning Engineers,Australian Signals Directorate,https://www.seek.com.au/job/91684964?type=standard&ref=search-standalone&origin=jobCard#sol=f1d10deebb3b6595efc544e038d8df36aafd44d0,7h ago,7.0,2026-04-22T23:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,"Salary Package: $126,857 - $143,093 (plus super)”","The Opportunity
 
 Mission Data (MD) Division within the Australian Signals Directorate (ASD) is responsible for providing the foundational data capabilities to support all of ASD’s functions. We do this via the provision of data platforms and services, management of ASD’s mission data, and providing complex analytic development and support, including Artificial Intelligence and Machine Learning capabilities.
 
@@ -524,7 +806,7 @@ Solicit and manage technical requirements on an ongoing basis.
 Collaborate with technical leadership at both Branch and Divisional levels to ensure alignment of the machine learning engineering program with architectural and technical strategies.
 
 Further information can be found at: I’m changing my career | Australian Signals Directorate (asd.gov.au)."
-91684127,L2 & L3 MSP Engineers - Modern Workplace/Azure/Security/Networking,Saul Recruitment,https://www.seek.com.au/job/91684127?type=standard&ref=search-standalone&origin=jobCard#sol=ea10d96b845b731d69e940193bbf40b5754c0ff9,6h ago,6.0,2026-04-22T21:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $140k Base + Super + Bonus,"Saul Recruitment - Specialising in recruiting top MSP/Cloud talent across Oz & NZ!
+91684127,L2 & L3 MSP Engineers - Modern Workplace/Azure/Security/Networking,Saul Recruitment,https://www.seek.com.au/job/91684127?type=standard&ref=search-standalone&origin=jobCard#sol=ce8306b484ef86c82757220480dceb715640ba83,9h ago,9.0,2026-04-22T21:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $140k Base + Super + Bonus,"Saul Recruitment - Specialising in recruiting top MSP/Cloud talent across Oz & NZ!
 
 Looking for a role where you can work on modern workplace and cloud tech, solve real technical challenges and progress your career?
 
@@ -593,7 +875,7 @@ Flexible hybrid working 
 This is a real opportunity to shine - and to be recognised and rewarded for it!
 
 Referral Bonus! Know someone who would be perfect? Refer them and receive $2000 if they’re successfully placed!"
-91683376,Unix Engineer,INSIGHTURE,https://www.seek.com.au/job/91683376?type=standard&ref=search-standalone&origin=jobCard#sol=51d62d878fc358014dad9ca5e9707490a72b76c7,10h ago,10.0,2026-04-22T17:00:00+00:00,Melbourne VIC,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,"$10,000 – $11,000 per month","Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering. As an AWS partner, Insighture excels in co-integrated cloud services. It has collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more.
+91683376,Unix Engineer,INSIGHTURE,https://www.seek.com.au/job/91683376?type=standard&ref=search-standalone&origin=jobCard#sol=1364f00853bc93cc0d437418178acaefe53bfc5c,13h ago,13.0,2026-04-22T17:00:00+00:00,Melbourne VIC,Networks & Systems Administration (Information & Communication Technology),Contract/Temp,"$10,000 – $11,000 per month","Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering. As an AWS partner, Insighture excels in co-integrated cloud services. It has collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more.
 
 The team’s expertise spans Cloud-Native Development, Solutions Architecture, UI/UX, Quality Engineering, Data Engineering, AI/ML, and DevSecOps. These capabilities empower businesses to achieve impactful and innovative outcomes.
 
@@ -636,7 +918,7 @@ Strategic Business Perspective: consultative approach to understand the industry
 Excellent communication and presentation skills, must have the ability to connect with C-Level leadership.
 
 Demonstrate and appreciate curiosity through domain and technology expertise."
-91682683,ServiceNow (AI / Generative AI) Developer,INSIGHTURE,https://www.seek.com.au/job/91682683?type=standard&ref=search-standalone&origin=jobCard#sol=9c035ab50498751676423fef5419c6d9c1a9b9aa,13h ago,13.0,2026-04-22T14:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,"$11,000 – $12,000 per month","Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering. As an AWS partner, Insighture excels in co-integrated cloud services. It has collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more.
+91682683,ServiceNow (AI / Generative AI) Developer,INSIGHTURE,https://www.seek.com.au/job/91682683?type=standard&ref=search-standalone&origin=jobCard#sol=7ca4f43d8c22de4aa3f2f83da4599a29369d103d,16h ago,16.0,2026-04-22T14:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,"$11,000 – $12,000 per month","Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering. As an AWS partner, Insighture excels in co-integrated cloud services. It has collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more.
 
 The team’s expertise spans Cloud-Native Development, Solutions Architecture, UI/UX, Quality Engineering, Data Engineering, AI/ML, and DevSecOps. These capabilities empower businesses to achieve impactful and innovative outcomes.
 
