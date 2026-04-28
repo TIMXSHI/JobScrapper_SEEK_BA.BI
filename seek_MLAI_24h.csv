@@ -1,70 +1,169 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91769557,Data Engineer,INTERWORKS AUS PTY LTD,https://www.seek.com.au/job/91769557?type=standard&ref=search-standalone&origin=jobCard#sol=7bd45ce39df230d59373276a850a45bb199409dc,3h ago,3.0,2026-04-27T20:00:00+00:00,Sydney NSW,Business/Systems Analysts (Information & Communication Technology),Full time,"$100,000 – $150,000 per year","Do you want a job that looks different every day? Have you got an unquenchable passion for data and problem solving? Are you ready to jump into a work environment where you'll collaborate with some of the sharpest minds in the industry? We've got a career you'll enjoy.
+91772063,AI Engineer,Arkadia Talent,https://www.seek.com.au/job/91772063?type=standard&ref=search-standalone&origin=jobCard#sol=1af9f815baf25d48dee978b632f6193fd51b00bb,3h ago,3.0,2026-04-28T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Attractive Salary Package + Bonus + Equity,"About the Company
 
-At InterWorks, we like our work with a hefty side of play. Our team of high achievers is looking for an eager learner who doesn't shy away from hard work. We need someone whose overall data and programming savvy outweighs niche experience with a particular database platform. Whether you've worked primarily in SQL Server, Postgres, or a more modern cloud-based warehouse, all we really care about is that you have a strong understanding of building data pipelines and are ready to keep learning, every single day.
+We’re partnering with a highly capitalised, ambitious business building a completely new category: AI-native services platforms. Instead of selling software into companies, they acquire and own real-world service businesses and rebuild them with AI embedded at the core of operations.
 
-Please be advised that this role is required to be located in the InterWorks Sydney office in Sydney, NSW.  Remote work or telecommuting arrangements outside of this jurisdiction are not permissible for this position.  Must be a current resident of Australia to apply.
+The ambition is to transform industries that have historically been impossible to scale due to reliance on human judgement. By embedding AI directly into decision-making, operations and workflows, these businesses become compounding, software-like platforms rather than traditional services businesses.
 
-Salary range commensurate with experience and qualifications:  $130,000-$150,000 AUD
+The long-term vision is to create a platform where intelligence compounds across multiple industries, improving with every business, every system and every decision.
+
+About the Role
+
+As a AI Full Stack Engineer, you will be part of the small, high-calibre team building the core intelligence layer that powers this model.
+
+This is not a feature-focused role. You will be designing and deploying systems that sit at the heart of real operating businesses, directly influencing how work gets done and how decisions are made.
+
+You will:
+
+Design and build end-to-end AI-native systems across frontend, backend and infrastructure
+Develop LLM-powered applications including agents, orchestration layers and decision systems
+Build internal tools and interfaces used daily by operators across multiple industries
+Create data and feedback loops that allow systems to continuously improve
+Work directly with real-world problems that are often ambiguous, messy and high impact
+The output of your work will not sit in a dashboard. It will be used in live environments where performance, accuracy and usability matter.
+
+About You
+
+You are a true builder who thrives in environments where ownership is high and structure is limited.
+
+You likely bring:
+
+Strong full stack engineering capability with experience shipping products end to end
+Hands-on experience applying AI in production, particularly with LLMs, agents or orchestration
+The ability to think in systems, not just features
+A product mindset with a focus on usability and real-world application
+Comfort working directly with complex, imperfect business problem
+You may come from: Early-stage or high-growth product companies
+A founding or ex-founder background where you’ve built from scratch
+Environments where you’ve had to move fast, make decisions and own outcomes
+Most importantly, you care about building things that actually get used and deliver impact
+Key Benefits
+
+Founding impact – shape the core systems and direction of a new category from day one
+Meaningful equity – genuine ownership in an early-stage platform with long-term ambition
+High-calibre team – work alongside a small group of top-tier, product-minded engineers
+Real-world impact – build systems tied directly to revenue, operations and decision-making
+AI-first environment – no legacy constraints, building with modern AI capabilities from the ground up
+Complex, interesting problems – operate in real industries where the challenges are nuanced and non-linear
+Autonomy and ownership – minimal bureaucracy, high trust and the ability to move quickly"
+91770330,"Senior Data Engineer / Data Scientist (Azure, SQL, LLMs)",P&C Partners Pty Ltd,https://www.seek.com.au/job/91770330?type=standard&ref=search-standalone&origin=jobCard#sol=be8db50370699b59aef747c777d7ae60b161658b,4h ago,4.0,2026-04-27T23:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,"$140,000 - $170,000 plus super","Why this role stands out
+
+This isn’t a pure data science role sitting in notebooks.
+
+It’s a hands-on, end-to-end position where you’ll design data pipelines, optimise large-scale SQL environments, and build real-world AI features used in production.
+
+You’ll be working on a modern Azure platform, solving complex data problems, and helping shape how advanced analytics and LLM capabilities are embedded into core products.
+
+If you enjoy building, not just modelling, this is worth a look.
+
+What you’ll be doing
+Designing and optimising ETL pipelines in Microsoft SQL Server
+Implementing incremental data processing (CDC / Change Tracking)
+Building and maintaining CI/CD pipelines in Azure DevOps
+Developing and deploying data science and LLM-driven features
+Working across Azure services to deliver scalable, production-grade solutions
+Tuning and troubleshooting complex SQL workloads
+Partnering with product and engineering teams to deliver data-driven functionality
+What we’re looking for
+Strong experience with Microsoft SQL Server (ETL, performance tuning, CDC)
+Solid background (3 plus years) across data engineering and/or data science
+Experience working in Azure environments
+Exposure to CI/CD (Azure DevOps preferred)
+Hands-on experience with LLMs or modern AI tooling
+Ability to build production-ready solutions, not just prototypes
+Strong communication skills and a collaborative mindset
+Full working rights in Australia
+Nice to have (not essential)
+Databricks, OneLake or similar lakehouse technologies
+Spark or distributed data processing
+Geospatial / spatial data experience
+Strong mathematical or statistical background
+Experience in mining, resources, or heavy industry
+The environment
+Established, well-funded technology business
+Real products, real users, real impact
+Complex data challenges at scale
+Collaborative engineering and product teams
+Long-term opportunity with strong technical ownership
+What’s on offer
+Competitive salary + super
+Brisbane CBD location
+Flexible working (with an in-office core)
+Work on modern Azure and AI-driven systems
+Genuine influence over architecture and direction
+If you’re someone who enjoys getting into the detail, solving hard data problems, and seeing your work in production - this is a strong opportunity."
+91769606,Data Architect,INTERWORKS AUS PTY LTD,https://www.seek.com.au/job/91769606?type=standard&ref=search-standalone&origin=jobCard#sol=e58b490e09c2eb27c852c4d3208d366c81000cf9,6h ago,6.0,2026-04-27T21:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,"$170,000 – $210,000 per year","Are you passionate about data strategy, architecture, and empowering businesses with data-driven insights? Do you enjoy designing scalable solutions and guiding organizations through complex data challenges? At InterWorks, we’re looking for a Data Architect who thrives in dynamic environments and is ready to help shape the future of data for our clients.
+
+This role blends the rigor of enterprise data architecture and governance with the energy of consulting and solution-building. You’ll work with clients across industries to build robust data platforms, define standards, and implement governance frameworks that create lasting value.
+
+Please be advised that this role is required to be located in the Melbourne, Australia InterWorks office. Remote work or telecommuting arrangements outside of this jurisdiction are not permissible for this position.
+
+Salary range commensurate with experience and qualifications.
 
 What You’ll Do
 
-Tackle diverse projects ranging in duration from a few days to a few months, for clients ranging from local Perth businesses to global enterprises and ASX-listed companies
+Architect and implement enterprise-level data solutions that align with business goals and compliance requirements.
 
-Work with disparate data sources (relational databases, flat files, Excel, HDFS/Big Data systems, high-performance analytical databases, etc.) to unify client data
+Design and optimize data models, storage solutions, and integration pipelines across various platforms (Snowflake, Databricks, etc.).
 
-Collaborate closely with users to understand their unique needs and support them with the best solutions
+Partner directly with clients to develop scalable data platforms, data governance frameworks, and analytics strategies.
 
-Solve data-acquisition, integration, and management problems
+Create and oversee ETL/ELT processes and advise on best practices for data quality, security, and accessibility.
 
-Create ETL processes based on client needs while managing client expectations
+Serve as a strategic liaison between business and IT to bridge gaps and ensure alignment.
+
+Manage project timelines, expectations, and deliverables with clear communication and strong stakeholder engagement.
 
 What You’ll Need
 
 Must-Haves
 
-Excellent SQL fluency
+5+ years of experience in data architecture, data engineering, or a related field
 
-Strong ETL proficiency using GUI-based tools or code-based patterns
+High proficiency in SQL and strong data modeling skills
 
-Understanding of data-modelling principles
+Experience in data governance, compliance standards, and enterprise data strategy
 
-Passion for delivering compelling solutions that exceed client expectations
+Excellent communication skills—written, verbal, and interpersonal
 
-Excellent verbal and written communication skills
+Ability to thrive in client-facing environments and lead cross-functional teams
 
-Strong problem-solving skills
+Adaptability and problem-solving mindset in fast-paced and ambiguous situations
 
-Ability to translate business problems into practical data solutions and work effectively with non-technical stakeholders
+Proven experience with data lakehouse architecture including the storage and processing of semi-structured and unstructured file types
 
-A genuine thirst to learn
+Proven support for data science initiatives
 
-Adaptability and flexibility in changing situations
+Understanding of pipeline and cost monitoring and optimisation
 
-3+ years in a similar role
+Comfortable leading business engagements to source requirements or refine data models
+
+Experience with Azure & AWS CSP's preferable
 
 What We’d Like You to Have
 
-Experience with modern data-engineering practices and frameworks
+Experience with BI and visualization tools (e.g., Tableau, Power BI)
 
-Experience with integration from semi-structured file and API sources
+Familiarity with modern data warehouses and cloud platforms (e.g., Snowflake, Databricks)
 
-Familiarity with tools such as Informatica (IDMC), Matillion, Fivetran, or dbt
+ETL tool experience (e.g., dbt, Matillion, Informatica, Fivetran)
 
-Experience with cloud platforms such as Snowflake, Databricks, Amazon Redshift, Google BigQuery, or Azure Synapse
+Knowledge of AI/ML concepts and their role in data platforms
+
+Degree in Computer Science, IT, or a related field (preferred)
 
 What We Offer:
 
-Health Benefits: Our people are our most important asset. That's why we offer an exceptional health insurance subsidy through BUPA, ensuring you and your family are well taken care of.
+Health Benefits: Our people are our most important asset. That's why we offer an exceptional health insurance subsidy through BUPA, ensuring you and your family are well taken care of.
 
-Wellness Benefits: We want you to stay healthy! Our employees receive an annual allowance to spend on their favourite gym memberships, sports activities, or workout apps.
+Wellness Benefits: We want you to stay healthy! Our employees receive an annual allowance to spend on their favourite gym memberships, sports activities, or workout apps.
 
-Work-Life Balance: We offer a life balance allowance, encouraging our employees to relax and recharge — whether with family or going solo.
+Work-Life Balance: We offer a life balance allowance, encouraging our employees to relax and recharge — whether with family or going solo.
 
-Tech Choice: Windows or Mac? 13-inch or 15-inch? Lightweight or heavy-duty? You know what works best for you. Our employees have a wide choice of equipment, plus a contribution towards standing desk equipment.
+Tech Choice: Windows or Mac? 13-inch or 15-inch? Lightweight or heavy-duty? You know what works best for you. Our employees have a wide choice of equipment, plus a contribution towards standing desk equipment.
 
-Professional Growth: We invest in our people. You'll have access to ongoing training, certifications, and professional development opportunities to keep your skills sharp and your career moving forward.
+Professional Growth: We invest in our people. You'll have access to ongoing training, certifications, and professional development opportunities to keep your skills sharp and your career moving forward.
 
-Community Impact: We InterWorkers like to use our powers for good. As well as undertaking pro bono consulting work, we support our colleagues' individual charitable passions with dedicated time off for volunteering.
+Community Impact: We InterWorkers like to use our powers for good. As well as undertaking pro bono consulting work, we support our colleagues' individual charitable passions with dedicated time off for volunteering.
 
-Superannuation: Compulsory superannuation contributions are paid on top of your base salary in accordance with Australian legislation."
+Superannuation: Compulsory superannuation contributions are paid on top of your base salary in accordance with Australian legislation."
