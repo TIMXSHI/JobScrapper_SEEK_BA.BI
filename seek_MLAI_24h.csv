@@ -1,5 +1,123 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91883959,Power Automate Developer (AI Builder / CRM Integration),"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91883959?type=standard&ref=search-standalone&origin=jobCard#sol=9ca21a0ed92f6973c684f2a4d9a6fbc29e246049,2h ago,2.0,2026-05-04T04:00:00+00:00,Melbourne VIC (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Our client is a Victorian local government organisation focused on improving how customer requests are received, triaged and actioned, reducing manual effort and improving response times for the community.
+91888643,Staff AI Engineer,Correlate Resources,https://www.seek.com.au/job/91888643?type=standard&ref=search-standalone&origin=jobCard#sol=26a2acb5326d076f9c817656e370d84570590976,2h ago,2.0,2026-05-04T07:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"About the Role
+This is a senior technical leadership role focused on designing and scaling enterprise-grade AI platforms and LLM-powered applications. You’ll operate across architecture, engineering, and strategy, building AI agents and automation systems that solve complex business problems at scale. Working closely with engineering, product, and stakeholders, you’ll shape how modern AI systems are built, deployed, and maintained in production environments.
+Key Responsibilities
+
+Lead the architecture and development of scalable AI platforms, agents, and automation systems
+Design and deliver LLM-powered applications, including RAG and orchestration frameworks
+Define engineering standards across backend systems, APIs, and cloud-native architectures
+Build and oversee high-quality, scalable systems using Node.js and TypeScript
+Drive cloud architecture across AWS, Azure, or GCP with a focus on security and scalability
+Establish best practices across CI/CD, containerisation, observability, and system reliability
+Partner with stakeholders to translate complex business problems into technical solutions
+Mentor engineers and influence technical direction across multiple teams
+Key Requirements
+
+Strong software engineering background with experience building production systems at scale
+Proven experience delivering AI/LLM-powered applications in production
+Deep experience with Node.js and TypeScript in backend or platform environments
+Strong understanding of distributed systems, APIs, and microservices architecture
+Experience with modern AI frameworks (e.g. LangChain, LangGraph, or similar)
+Cloud experience across AWS, Azure, or GCP
+Hands-on experience with Docker, Kubernetes, and CI/CD pipelines
+Ability to balance hands-on delivery with architectural leadership and strategy
+Nice to Have
+
+Experience building AI agents or multi-agent systems
+Knowledge of RAG architectures and vector databases
+Experience with Python in AI workflows
+Exposure to enterprise environments or client-facing solution design
+Experience defining engineering standards or reusable platform capabilities
+Why Apply
+
+Work on cutting-edge AI, GenAI, and agent-based systems
+Own architecture and technical direction of enterprise AI platforms
+Build real-world AI systems deployed at scale
+Collaborate with a high-performing, forward-thinking engineering team"
+91888180,Senior Automation Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91888180?type=standard&ref=search-standalone&origin=jobCard#sol=a583cee15c64e71bd255e151405d1915ab917d65,2h ago,2.0,2026-05-04T07:00:00+00:00,Melbourne VIC (Hybrid),Other (Engineering),Contract/Temp,,"We are seeking an experienced Senior Automation Engineer to support the upgrade and optimisation of a complex, safety-critical monitoring and control environment. This is a 2-year fixed-term contract with likelihood of extension.
+
+This is a highly hands-on Senior Automation Engineer role focused on modernising a legacy SCADA, PLC, and RTU environment supporting critical infrastructure systems. You will lead the upgrade of key platforms, including ""immediate reporting"" systems, SCADA head-end environments, and broader monitoring systems. The role is focused on detailed design (following completed high-level design), bug fixing, system optimisation, and testing/validation of system changes.
+
+The role involves managing a large-scale asset base of 900-1000 PLC/RTU devices and 50,000+ alarm points, requiring deep technical expertise across control systems plus a good understanding networking technologies and cybersecurity controls. This position suits a detail-oriented engineer who can operate independently to design, troubleshoot, and deliver complex system improvements across IT/OT environments.
+
+Key Responsibilities
+
+Review and interpret existing PLC/RTU electrical schematics and I/O mappings, translating into updated control system designs and PLC logic
+Assess system impacts, constraints, and dependencies across integrated SCADA, PLC, and RTU environments
+Develop, modify, and optimise PLC programs (Ladder Logic/STL) and supporting applications (Python/C++)
+Perform end-to-end system integration, including cabinet-level components, field devices, and SCADA head-end interfaces
+Troubleshoot complex issues across electrical, control system, and SCADA layers, including upstream/downstream dependencies
+Diagnose and resolve faults across:
+Electrical systems and multi-voltage environments
+PLC configurations and logic execution
+SCADA protocols and telemetry systems
+Conduct network traffic and protocol analysis (e.g. Wireshark) to identify and resolve communication issues between PLCs, RTUs, and SCADA systems
+Support system testing, validation, and optimisation, ensuring stability and performance in live operational environments
+Produce and maintain detailed engineering documentation, including system designs, configurations, and test artefacts
+
+Key Requirements
+
+Extensive experience in electrical, instrumentation, and control systems, with deep expertise in SCADA, PLC, and RTU environments
+Strong hands-on capability in PLC programming (Ladder Logic/STL) and SCADA system configuration
+Proven experience designing and delivering complex automated monitoring and control systems
+Strong knowledge of industrial communication protocols (e.g. Modbus, BACnet, SNMP) and telemetry systems
+Solid understanding of electrical systems, circuit design, and multi-voltage environments, including UPS-backed systems
+Proficiency in Python and/or C++ for developing custom applications, integrations, and automation scripts
+Experience working within virtualised infrastructure environments (VMware vSphere, ESXi, vCenter)
+Advanced troubleshooting capability across control systems, networking, and software layers
+Strong understanding of networking fundamentals and security (OSI Layers 1-3)
+Demonstrated experience working in brownfield/legacy environments, including system integration and reverse engineering
+Experience delivering high-availability and resilient system designs in critical infrastructure environments
+Ability to produce high-quality technical documentation and engineering artefacts
+Strong analytical capability with the ability to operate autonomously on complex technical challenges
+Demonstrated technical leadership, including mentoring and supporting engineering teams
+Experience supporting live operational systems, including incident investigation and resolution
+
+Mandatorily requirements
+
+A Mechatronics, Electrical, Electronics, Telecommunications or similar engineering degree, or certified equivalent international qualification, that provides eligibility for registration as a professional engineer under applicable state or territory legislation (e.g. Board of Professional Engineers Queensland, or Victoria)
+Security: Able to obtain and maintain an Australian Government National Security Clearance at the required level. Australian Citizenship is therefore mandatory.
+
+If you would like to know more, please contact Milly Kerei-Keepa at mil••••••••••••••@talentinternational.com or hit Apply Now"
+91887695,Senior Automation Engineer,Sharp & Carter Operations & Manufacturing NSW,https://www.seek.com.au/job/91887695?type=standard&ref=search-standalone&origin=jobCard#sol=810eb029089aa6ecbc2a391b32650eec6df29d6a,2h ago,2.0,2026-05-04T07:00:00+00:00,Sydney NSW (Remote),Electrical/Electronic Engineering (Engineering),Full time,,"The Business
+Our client is a global process automation and industrial IT specialist, headquartered in Denmark and operating across 12 countries. Working as a system integrator, they engage across the full project lifecycle - from scoping through to commissioning - predominantly across food, dairy, and beverage manufacturing environments including breweries, wineries, abattoirs, and rendering facilities.
+
+The Australian business was established in 2020 and has grown to a team of 8 engineers in Victoria. This role is the first Sydney-based hire as the business looks to establish a permanent local presence in the NSW market.
+
+The Role
+The company has no existing Sydney office - this role will be embedded directly in project work across NSW, operating autonomously and collaborating remotely with the wider Australian team. The successful candidate will plug into live project work from day one. There is an established team in VIC with offices that this person will work with closely.
+
+Travel is a regular part of the role. Clients are spread across domestic sites - including rural and regional locations - and commissioning work will require multi-day stays onsite. 
+
+Key Responsibilities
+
+PLC and SCADA system programming, development, and commissioning across process industry environments
+Working with clients across food, dairy, and beverage manufacturing sites - including breweries, wineries, abattoirs, and rendering facilities
+Collaborating remotely with the Victoria-based team across active projects
+Developing and maintaining technical documentation
+Providing onsite support and client-facing technical delivery throughout the project lifecycle
+What You'll Bring
+
+5 years minimum in industrial automation within a process environment
+Rockwell / Allen-Bradley / Siemens PLC experience
+SCADA/HMI platform experience across Ignition, AVEVA System Platform (Wonderware), or FactoryTalk View
+SCADA database knowledge - essential
+Strong process industry knowledge - P&IDs, process flow, and how food/dairy/beverage plants operate
+Comfortable operating autonomously and collaborating remotely with a geographically dispersed team
+Willing to travel for multi-day site stays and commissioning work
+The Offer
+
+Attractive base salary + superannuation
+Monthly transport allowance
+$100/night non-taxable daily allowance for every night spent away
+Full meal reimbursement on site, plus flights and accommodation covered
+Annual profit-share bonus based on company profitability
+To Apply
+
+Please apply through the link in the job ad. If you have any specific questions or would like to have a confidential conversation, please contact Orrin Huang at Sharp & Carter at ohu•••@sharpandcarter.com.au or 04•• ••• 109.
+
+https://www.linkedin.com/in/orrinhuang/"
+91883959,Power Automate Developer (AI Builder / CRM Integration),"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91883959?type=standard&ref=search-standalone&origin=jobCard#sol=5b12297a07488dd0108ed65d1252d1c6462334a5,4h ago,4.0,2026-05-04T05:00:00+00:00,Melbourne VIC (Remote),Developers/Programmers (Information & Communication Technology),Contract/Temp,,"Our client is a Victorian local government organisation focused on improving how customer requests are received, triaged and actioned, reducing manual effort and improving response times for the community.
 
 They are seeking a Power Automate Developer (AI Builder / CRM specialist to design and build an inbox automation solution using Power Automate and AI Builder, integrated with Infor Pathway (CRM) to automatically create and allocate Customer Requests.
 
@@ -30,7 +148,7 @@ Able to deliver practical outcomes within council constraints and environments
 Victorian local government experience (strongly desired)
 
 For over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
-91883631,Technical eDiscovery Project Manager (Antitrust Practice Group),TransPerfect Translations Limited,https://www.seek.com.au/job/91883631?type=standard&ref=search-standalone&origin=jobCard#sol=f8da3188d99ddc3cad55aedea9ac816c2504fc09,2h ago,2.0,2026-05-04T04:00:00+00:00,Sydney NSW (Hybrid),Litigation & Dispute Resolution (Legal),Full time,,"Who We Are:
+91883631,Technical eDiscovery Project Manager (Antitrust Practice Group),TransPerfect Translations Limited,https://www.seek.com.au/job/91883631?type=standard&ref=search-standalone&origin=jobCard#sol=f26f06f0ade700d994cdc7c4dcd2d90576b2a0a1,5h ago,5.0,2026-05-04T04:00:00+00:00,Sydney NSW (Hybrid),Litigation & Dispute Resolution (Legal),Full time,,"Who We Are:
 
 TransPerfect Legal uses technology and AI to reduce the cost, risk and time of managing data – practice groups span information governance, disputes, investigations, due diligence, privacy, cyber incident response and IP portfolio management. Our software and service solutions deliver value to law firms, in-house legal teams at major corporations, government agencies and insurers across Australia and our 100+ global offices.
 
@@ -146,7 +264,7 @@ By applying, I confirm I have read and accept TransPerfect's Privacy Policy: htt
 TransPerfect provides equal employment opportunities to all individuals regardless of their race, colour, creed, religion, gender, age, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by local law.
 
 We celebrate diversity as one of our core values and we have a clear goal: to be an inclusive workplace where a diverse mix of talented people want to come, stay and do their best work. Together with passionate, creative and collaborative colleagues, we are working to ensure accessibility is for everyone."
-91883587,Senior Data Engineer / Senior Analytics Engineer,Elula,https://www.seek.com.au/job/91883587?type=standard&ref=search-standalone&origin=jobCard#sol=5bf1c155ef617835740c42affd439a6b93a7857a,2h ago,2.0,2026-05-04T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Senior Data Engineer
+91883587,Senior Data Engineer / Senior Analytics Engineer,Elula,https://www.seek.com.au/job/91883587?type=standard&ref=search-standalone&origin=jobCard#sol=8552270277ed48f6ac3eeefb3d912f7db3e4967d,5h ago,5.0,2026-05-04T04:00:00+00:00,Sydney NSW (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,,"Senior Data Engineer
 
 At Elula, we partner with some of Australia's top financial institutions to tackle a wide range of business challenges through cutting-edge AI-as-a-service (AIaaS). Our vision? To make the complex simple and easy, delivering amazing customer experiences and personalisation that matters.
 
@@ -238,7 +356,7 @@ If you're excited about shaping the future of AI, this is where you belong! Subm
 We're committed to fostering a culture of inclusivity and equality. All are welcome to apply for our roles because we truly believe that diversity is a game changer.
 
 ..."
-91883379,LH-06425- Lead Data Engineer,Hays | Technology,https://www.seek.com.au/job/91883379?type=standard&ref=search-standalone&origin=jobCard#sol=7b990db8a07e44e47f595d5a3c9d27eedfca4380,2h ago,2.0,2026-05-04T04:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,Competitive Hourly Rates,"Lead Data Engineer Position in Canberra
+91883379,LH-06425- Lead Data Engineer,Hays | Technology,https://www.seek.com.au/job/91883379?type=standard&ref=search-standalone&origin=jobCard#sol=f19d9a9a74a4efeee3e7bfed3846dd0289aac459,5h ago,5.0,2026-05-04T04:00:00+00:00,Canberra ACT,Database Development & Administration (Information & Communication Technology),Contract/Temp,Competitive Hourly Rates,"Lead Data Engineer Position in Canberra
 
 Your new company
 
@@ -283,7 +401,7 @@ What you need to do now
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV or email me at Geo•••••••••••••@hays.com.au
 
 If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career."
-91883242,R&D Algorithms Engineer,Finisar,https://www.seek.com.au/job/91883242?type=standard&ref=search-standalone&origin=jobCard#sol=260086d5ceb2c1431eaad281396ce6ba40ebbad8,2h ago,2.0,2026-05-04T04:00:00+00:00,"Rosebery, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"The Company
+91883242,R&D Algorithms Engineer,Finisar,https://www.seek.com.au/job/91883242?type=standard&ref=search-standalone&origin=jobCard#sol=08be5705ff7ea37f0e60cc6e9a499467b8b1e3a0,5h ago,5.0,2026-05-04T04:00:00+00:00,"Rosebery, Sydney NSW",Engineering - Software (Information & Communication Technology),Full time,,"The Company
 
 Finisar Australia / Coherent is a global leader in optical communications technology. We design and manufacture advanced optical components and subsystems used in high-speed fibre telecommunications networks, and we are the world’s largest supplier in our field. 
 
@@ -357,7 +475,7 @@ Health and wellbeing support and access to our EAP program 
 Lunch time social/fitness activities  
 
 Novated Lease"
-91882425,Data Engineering Architect,Palisades Australia Pty Ltd,https://www.seek.com.au/job/91882425?type=standard&ref=search-standalone&origin=jobCard#sol=96c9ab1bb54431d49a6dba05b1d2bfb77150c81a,3h ago,3.0,2026-05-04T03:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,,"About the role
+91882425,Data Engineering Architect,Palisades Australia Pty Ltd,https://www.seek.com.au/job/91882425?type=standard&ref=search-standalone&origin=jobCard#sol=71e5797af7b67b34cc4d0dccad3be5f47172b2ef,5h ago,5.0,2026-05-04T04:00:00+00:00,Melbourne VIC,Architects (Information & Communication Technology),Full time,,"About the role
 
 We are seeking a talented Data Engineering Architect to join our client's dynamic team. In this full-time position you will play a crucial role in designing and implementing scalable, efficient, and secure data infrastructure solutions across Microsoft cloud, data platforms, integration, and digital transformation.
 
@@ -424,7 +542,7 @@ Experience working with stakeholders to gather, clarify and translate requiremen
 Strong communication skills and the ability to work across multidisciplinary teams.
 
 A practical delivery mindset, with the ability to balance architecture quality, security, business value and implementation constraints."
-91882082,AI Engineer,The Onset,https://www.seek.com.au/job/91882082?type=standard&ref=search-standalone&origin=jobCard#sol=9297da570dfcb4096f7a6a734c0c883725b42091,3h ago,3.0,2026-05-04T03:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 160000 - 165000 per annum,"AI Engineer - Drive Agentic AI Implementation
+91882082,AI Engineer,The Onset,https://www.seek.com.au/job/91882082?type=standard&ref=search-standalone&origin=jobCard#sol=a8c80a80fb8ae94ea11646a384153665d8377e68,5h ago,5.0,2026-05-04T04:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,AUD 160000 - 165000 per annum,"AI Engineer - Drive Agentic AI Implementation
 
 This is one of those rare engineering roles that actually lives up to the hype. Join and immediately contribute to a growing AI team building real AI systems. They need someone exceptional to help them scale.
 
@@ -452,7 +570,7 @@ Collaborate directly with an amazing and ambitious team. 
 Speed and autonomy. Work with a sharp, lean team that values customer experience. 
  
 Interested? Apply now or reach out directly to me (kar•@theonset.com.au) for more information"
-91881926,AI Engineer (Junior to Mid-Level),Moose Toys,https://www.seek.com.au/job/91881926?type=standard&ref=search-standalone&origin=jobCard#sol=6879750d6436373eda245487f36cb89687cb6975,3h ago,3.0,2026-05-04T03:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"ABOUT US 
+91881926,AI Engineer (Junior to Mid-Level),Moose Toys,https://www.seek.com.au/job/91881926?type=standard&ref=search-standalone&origin=jobCard#sol=858371c6b915e5a77202b50204127e6507661b1c,6h ago,6.0,2026-05-04T03:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"ABOUT US 
 
 At Moose Toys we exist to make kids superhappy. Recognised as one of the most innovative companies in the industry, we work seriously hard but fun remains at the heart of everything we do. Playful with a Purpose, we live by our values which is why our team members consistently vote us a Great Place To Work. We’ve won awards for our Diversity and Inclusion, and we host inspiring Health & Wellbeing thought leader events live in our magical Moose Melbourne office. We invest heavily in all our learning and development and have a passionate and genuine commitment to our Net Zero sustainability targets. 
 
@@ -542,7 +660,7 @@ We move quickly at Moose, so please APPLY TODAY
 : Full-time
 
 : 03/Jun/2026, 1:59:00 PM"
-91881918,Senior AI Engineer,Moose Toys,https://www.seek.com.au/job/91881918?type=standard&ref=search-standalone&origin=jobCard#sol=df583923588b6b0cbe82a3e225a725a7268a09c6,3h ago,3.0,2026-05-04T03:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"ABOUT US 
+91881918,Senior AI Engineer,Moose Toys,https://www.seek.com.au/job/91881918?type=standard&ref=search-standalone&origin=jobCard#sol=aaeb5a101dbf2aacd3369d90aeb11181657d31a1,6h ago,6.0,2026-05-04T03:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"ABOUT US 
 
 At Moose Toys we exist to make kids superhappy. Recognised as one of the most innovative companies in the industry, we work seriously hard but fun remains at the heart of everything we do. Playful with a Purpose, we live by our values which is why our team members consistently vote us a Great Place To Work. We’ve won awards for our Diversity and Inclusion, and we host inspiring Health & Wellbeing thought leader events live in our magical Moose Melbourne office. We invest heavily in all our learning and development and have a passionate and genuine commitment to our Net Zero sustainability targets. 
 
@@ -636,7 +754,7 @@ We move quickly at Moose, so please APPLY TODAY
 : Full-time
 
 : 03/Jun/2026, 1:59:00 PM"
-91881050,AI & Automation Specialist,Minus 1 Refrigerated Transport Pty Ltd,https://www.seek.com.au/job/91881050?type=standard&ref=search-standalone&origin=jobCard#sol=ed80d5c5d1c31460eebc723c0579d73d73c397dd,3h ago,3.0,2026-05-04T03:00:00+00:00,"Dandenong South, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About Minus 1
+91881050,AI & Automation Specialist,Minus 1 Refrigerated Transport Pty Ltd,https://www.seek.com.au/job/91881050?type=standard&ref=search-standalone&origin=jobCard#sol=3690db839d97c3a9a2426bc36dd5c0a76940ff76,6h ago,6.0,2026-05-04T03:00:00+00:00,"Dandenong South, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About Minus 1
 
 Minus 1 Refrigerated Transport is a national cold chain logistics operator moving temperature-sensitive freight for some of Australia’s most demanding food and pharmaceutical brands. We’re scaling fast, operate with a lean and outcomes-focused approach, and already embed AI and automation across the business — this role is designed to accelerate and expand that capability, driving real operational impact at scale.
 
@@ -747,7 +865,7 @@ One thing in our business you’d automate first
 Apply via SEEK
 
 If you’re looking for a role where you can actually build, own, and see the impact of your work- this is it."
-91878529,Data Engineer,Slade Group,https://www.seek.com.au/job/91878529?type=standard&ref=search-standalone&origin=jobCard#sol=3f097e8ef68d37c081371b4dc5f211e91c6e1c3b,4h ago,4.0,2026-05-04T02:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,Competitive Market rate,"Overview
+91878529,Data Engineer,Slade Group,https://www.seek.com.au/job/91878529?type=standard&ref=search-standalone&origin=jobCard#sol=133dc346bb355ae2c9ab906a6ed7f791a0ad3e36,7h ago,7.0,2026-05-04T02:00:00+00:00,Melbourne VIC (Hybrid),Database Development & Administration (Information & Communication Technology),Full time,Competitive Market rate,"Overview
 
 This Data Engineer role is responsible for designing, building, and optimising enterprise data solutions across modern cloud platforms. Working closely with senior data leaders, you will implement scalable data pipelines, manage integrations and master data, and deliver high-quality analytics through Power BI. This is a hands-on position focused on translating data architecture into reliable, production-ready solutions.
 
@@ -768,7 +886,7 @@ Proficiency in Power BI (DAX, data modelling, governance)
 Understanding of data warehousing (star schema, medallion architecture)
 Experience with Git and Agile delivery environments
 If this sounds like the right opportunity for you, APPLY NOW."
-91877986,AI Security Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91877986?type=standard&ref=search-standalone&origin=jobCard#sol=5ea937fe6f0be6bfd2b6c919d1bbe3dca008304a,5h ago,5.0,2026-05-04T01:00:00+00:00,"Redfern, Sydney NSW (Hybrid)",Security (Information & Communication Technology),Full time,$160k - $195k p.a.,"Talent International, a leading Australian recruitment firm, have been engaged by our long-standing client, an Australian-founded leader in data science and advanced analytics, to hire a Security Engineer - AI & ML Security.
+91877986,AI Security Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91877986?type=standard&ref=search-standalone&origin=jobCard#sol=0abeb24595c25d8d1f19188b9e2eda01abb59891,7h ago,7.0,2026-05-04T02:00:00+00:00,"Redfern, Sydney NSW (Hybrid)",Security (Information & Communication Technology),Full time,$160k - $195k p.a.,"Talent International, a leading Australian recruitment firm, have been engaged by our long-standing client, an Australian-founded leader in data science and advanced analytics, to hire a Security Engineer - AI & ML Security.
 
 
 
@@ -843,7 +961,7 @@ To Apply
 
 
 If this sounds like your next opportunity or you would like to hear more, please apply now and submit your resume."
-91876957,Technical Data and AI Product Manager,DeVision Recruitment,https://www.seek.com.au/job/91876957?type=standard&ref=search-standalone&origin=jobCard#sol=cac33f56ad8ac04cf612432e9694c7f5267e3c50,5h ago,5.0,2026-05-04T01:00:00+00:00,Sydney NSW (Remote),Product Management & Development (Information & Communication Technology),Full time,,"Join a SaaS company that provides an AI-powered, cloud-based platform for builders and contractors to instantly assess property feasibility. The company services client globally. This is a fully remote position. 
+91876957,Technical Data and AI Product Manager,DeVision Recruitment,https://www.seek.com.au/job/91876957?type=standard&ref=search-standalone&origin=jobCard#sol=84227db53e2fdb3e2a8455dd82ca240426b4ff27,8h ago,8.0,2026-05-04T01:00:00+00:00,Sydney NSW (Remote),Product Management & Development (Information & Communication Technology),Full time,,"Join a SaaS company that provides an AI-powered, cloud-based platform for builders and contractors to instantly assess property feasibility. The company services client globally. This is a fully remote position. 
 
 About The Role
 We’re looking for a Technical Data & AI Product Manager to join a fast growing SaaS company. This role is ideal for someone who can connect business needs, data opportunities, and emerging AI capabilities to deliver scalable, high-impact solutions.
@@ -882,7 +1000,7 @@ Experience working closely with engineering and design teams in Agile environmen
 Proactive and pragmatic — balances innovation with feasibility.
 Excellent written and verbal communication skills.
 If interested, APPLY NOW for more details."
-91876745,Business Process Analyst - AI/Machine Learning,Evolution Specialists,https://www.seek.com.au/job/91876745?type=standard&ref=search-standalone&origin=jobCard#sol=d7e49076f808aebb79cd65d3d115ad3205f510d2,5h ago,5.0,2026-05-04T01:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Process Analyst - AI
+91876745,Business Process Analyst - AI/Machine Learning,Evolution Specialists,https://www.seek.com.au/job/91876745?type=standard&ref=search-standalone&origin=jobCard#sol=46420a8566249f1616c5a302bda92f8893288d4e,8h ago,8.0,2026-05-04T01:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Business Process Analyst - AI
 
 Immediate requirements for a Business Analyst to join our team to work on a large scale transformation program to work across AI initiatives within Healthcare.
 
@@ -923,7 +1041,7 @@ About us
 Evolution Specialists is a boutique agency that represents leading Management Consultancies. We are experts in sourcing the specialist capability needed to plan, execute and operate large business and technology projects and programs in the financial services, telecommunications, manufacturing, logistics, energy and technology industry sectors.
 
 If you'd like more information about this fantastic opportunity, please email us at eng••••••••@evolutionspecialists.com.au."
-91874656,Artificial Intelligence Specialist,Environment Protection Authority,https://www.seek.com.au/job/91874656?type=standard&ref=search-standalone&origin=jobCard#sol=e77b2f8f6360183c9b8a3afcacd8ba1af0370770,8h ago,8.0,2026-05-03T22:00:00+00:00,"Parramatta, Sydney NSW",Government - State (Government & Defence),Full time,,"Artificial Intelligence Specialist
+91874656,Artificial Intelligence Specialist,Environment Protection Authority,https://www.seek.com.au/job/91874656?type=standard&ref=search-standalone&origin=jobCard#sol=a61cd9511ce43deda3c5a8b908c554f564c3e8f0,11h ago,11.0,2026-05-03T22:00:00+00:00,"Parramatta, Sydney NSW",Government - State (Government & Defence),Full time,,"Artificial Intelligence Specialist
 
 Do you want to protect future generations?
 
