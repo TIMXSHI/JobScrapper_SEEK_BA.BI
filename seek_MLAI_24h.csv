@@ -1,5 +1,121 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91938820,Technical Lead - Software Engineer,Precision Sourcing,https://www.seek.com.au/job/91938820?type=standard&ref=search-standalone&origin=jobCard#sol=4e4ad9533562f634f7be3bf67a9f369a6ba98bb0,1h ago,1.0,2026-05-06T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$210,000 - $230,000 + super","About the Company
+91945821,Mechatronics Engineer – Automation & Machine Design,Veqtor Conveyors and Automation,https://www.seek.com.au/job/91945821?type=standard&ref=search-standalone&origin=jobCard#sol=b3d372d043fd2470e36cc3731eca93f7a4dfa076,1h ago,1.0,2026-05-06T08:00:00+00:00,"Welshpool, Perth WA",Mechanical Engineering (Engineering),Full time,,"Join a growing automation company delivering cutting-edge solutions in the food & beverage manufacturing space.
+
+We’re looking for a Mechatronics Engineer who thrives on designing and building innovative machinery and automated systems. If you enjoy taking ideas from concept through to commissioning, this role offers hands-on involvement across the full project lifecycle.
+
+What You’ll Be Doing
+
+Design and develop custom machines and automated equipment
+
+Produce detailed 3D models and drawings
+
+Develop, program, and integrate PLC-based control systems
+
+Work closely with mechanical, electrical, and production teams
+
+Support assembly, testing, and on-site commissioning
+
+Troubleshoot and optimise equipment performance
+
+What We’re Looking For
+
+Degree in Mechatronics Engineering (or similar)
+
+Strong experience in machine/equipment design
+
+Proficiency in Autodesk Inventor (or AutoCad software)
+
+Experience with PLC programming and control systems
+
+Practical, hands-on engineering mindset
+
+Strong problem-solving and communication skills
+
+Nice to Have
+
+Experience in food & beverage manufacturing
+
+Exposure to industrial automation projects
+
+Knowledge of safety standards and compliance
+
+Why Join Us?
+
+Work on custom automation projects (not repetitive production work)
+
+End-to-end project exposure – design through to commissioning
+
+Growing company with opportunities to make real impact
+
+Collaborative, engineering-driven team environment"
+91944234,Data Architect,CircuIT Recruitment Group,https://www.seek.com.au/job/91944234?type=standard&ref=search-standalone&origin=jobCard#sol=df8704efb91a75e92e6e355cbbb1c868bcb413d8,2h ago,2.0,2026-05-06T07:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"Data & Integration Architect
+Contract | Melbourne | 6 months initial engagement
+ 
+A major Australian organisation is undertaking a large-scale enterprise transformation programme. A key workstream within this programme is focused on building a modern, unified data and integration layer.
+ 
+The Opportunity
+The organisation's data is currently distributed across multiple legacy systems with no consolidated view. This role will design and deliver the architecture that brings that data together, structures it, and makes it accessible to the business.
+ 
+Scope of the Role
+This is a hands-on data and integration architecture position. You will be responsible for defining the architecture across data pipelines, integration patterns, governance frameworks, data flows, data stores, analytics, and AI enablement.
+ 
+Your work will span:
+
+Data pipeline architecture across AWS services (Redshift, Bedrock)
+Real-time data streaming with Kafka
+Pipeline orchestration with Airflow
+Data transformation using dbt
+Reporting and semantic modelling with Tableau
+Medallion architecture (bronze/silver/gold)
+Data lake and data warehouse patterns
+Event-driven and publish/subscribe architecture
+PII obfuscation, access control, and data governance
+ETL/ELT patterns and data products
+ Requirements
+
+Demonstrated experience in data architecture, integration architecture, or senior data engineering
+Strong hands-on proficiency across the AWS data stack
+Practical experience with Kafka, Airflow, dbt, and Tableau
+Sound understanding of data products, data governance, and integration design patterns
+Experience managing PII, sensitive data, and access control within regulated environments
+Comfortable working in a hands on role
+Programme Context
+The programme is well supported, with high visibility across the organisation. You will be working alongside a strong architecture team covering security, infrastructure, and cloud. The programme is in its early stages, offering genuine scope to shape the data architecture from the ground up.
+ 
+If this sounds like you, please apply within."
+91944194,Data & Information Architect,Talenza,https://www.seek.com.au/job/91944194?type=standard&ref=search-standalone&origin=jobCard#sol=e6f477d787c67da98f767202f9d4a8288a8251c9,2h ago,2.0,2026-05-06T07:00:00+00:00,Brisbane QLD,Architects (Information & Communication Technology),Contract/Temp,$1k - $1200 (incl. super) + GST per day,"Talenza have been engaged by an Global ASX listed financial services company to find a Data and Information Architect to work across a data uplift program of work. The successful candidate will be an experienced data/information architect who has worked with modern AWS hosted data technologies.
+
+This role is onsite in the Brisbane cbd office and is only open to candidates currently based in Brisbane with full working rights.
+
+
+
+Benefits
+
+Contract opportunity
+6 month contract
+Competitive day rate up to $1200 + GST
+9 day fortnight
+Amazing leadership group and office/team culture
+Global ASX listed enterprise
+
+
+
+
+
+Key Requirements:
+
+Strong experience designing and governing enterprise data architectures on AWS that deliver secure, trusted and accessible data across operational and analytical platforms in a regulated financial services environment.
+Deep expertise in AWS data services, including Amazon S3, AWS Lake Formation, Amazon Redshift, AWS Glue, Amazon Kinesis and Amazon RDS, with a focus on scalable lakehouse and data warehouse patterns.
+Proven capability in data architecture and engineering, including data modelling, lakehouse/warehouse design, ELT/ETL pipelines using AWS-native tooling, real-time streaming and large-scale data migration to AWS.
+Strong knowledge of enterprise analytics and reporting platforms, including Amazon QuickSight and/or Power BI on AWS, with a focus on performance optimisation, semantic modelling and user adoption.
+Experience implementing enterprise information architecture and governance frameworks on AWS, including data classification, taxonomy, metadata management and structured data domains aligned to financial services data models.
+Demonstrated expertise in data governance, data quality, privacy and regulatory compliance (e.g. APRA CPS 234), leveraging AWS services such as AWS Glue Data Catalog, AWS Lake Formation and third-party lineage/cataloguing tools.
+Familiarity with advanced analytics and AI/ML on AWS, including Amazon SageMaker, LLM use cases, and development using Python, SQL and relevant data science frameworks.
+
+
+
+Thank you for your interest, at Talenza we are passionate about providing equal employment opportunities and embracing diversity. We encourage people with disabilities and those from diverse backgrounds to apply. However, please note that we are only able to proceed with those who have full rights to work in Australia. Please apply directly or for a quicker response, contact Lewis Babcock (Talenza) through LinkedIn."
+91938820,Technical Lead - Software Engineer,Precision Sourcing,https://www.seek.com.au/job/91938820?type=standard&ref=search-standalone&origin=jobCard#sol=da62dd2d14212912bb9161a1beaf1c0382f02c16,4h ago,4.0,2026-05-06T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$210,000 - $230,000 + super","About the Company
 
 This is a fast-growing Australian technology company operating at the cutting edge of applied AI. They work with large enterprises across a wide range of industries to solve complex, real-world operational problems, building AI-powered solutions from the ground up that are designed to create genuine, measurable business impact for the organisations they work with.
 
@@ -39,7 +155,7 @@ Experience guiding or mentoring engineers through complex builds, having led a t
 Comfort explaining technical concepts to non-technical stakeholders
 Bias toward ownership, learning, and shipping real systems
 Curiosity about how AI systems behave in production, not just in theory"
-91935858,AI Solution Engineer – Automation & Digital Value (Fixed Term),Ryman Healthcare,https://www.seek.com.au/job/91935858?type=standard&ref=search-standalone&origin=jobCard#sol=f8343571a6c819a00ef91dd22c082e6e6133bf1b,2h ago,2.0,2026-05-06T04:00:00+00:00,"Southbank, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Build AI that matters. Ship it in weeks, not months.
+91935858,AI Solution Engineer – Automation & Digital Value (Fixed Term),Ryman Healthcare,https://www.seek.com.au/job/91935858?type=standard&ref=search-standalone&origin=jobCard#sol=9e5461e7d5e5e45be5a4c85ea734ab63c4a79d2c,5h ago,5.0,2026-05-06T04:00:00+00:00,"Southbank, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Build AI that matters. Ship it in weeks, not months.
 Ryman Healthcare is one of Australasia's leading retirement living and aged care operators, with 49 villages across New Zealand and Australia. We're on a mission to deliver a world-class retirement experience for our residents and we're looking for an AI Solution Engineer to help us get there faster.
 
 This is a hands-on role for someone who builds, not just advises. You'll identify high-impact AI and automation opportunities across the business, prototype solutions rapidly, and deploy them into production in focused sprints. If you're the kind of person who'd rather ship something real in two weeks than spend two months writing a strategy deck, keep reading. 
@@ -62,7 +178,7 @@ We're pioneering in how we care for our residents, and we're bringing that same 
 
 If you're our kind of person, we'd love to hear from you.
 At Ryman, we support an environment where everyone feels welcome to be themselves. We embrace diversity and celebrate individual uniqueness. Applications will be reviewed as they are received and interviews may take place prior to the close date."
-91935447,Application Engineer - Automation,Schweitzer Engineering Laboratories,https://www.seek.com.au/job/91935447?type=standard&ref=search-standalone&origin=jobCard#sol=a8684bf830e77151329575877a1db148fe5207af,3h ago,3.0,2026-05-06T03:00:00+00:00,"Silverwater, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"SEL invents, designs, and builds digitais products and systems that protect power grids around the world. This technology prevents blackouts and enables customers to improve power system reliability and safety at a reduced cost. A 100 percent employee-owned company headquartered in Pullman, Washington, SEL has manufactured products in the United States since 1984 and now serves customers worldwide.
+91935447,Application Engineer - Automation,Schweitzer Engineering Laboratories,https://www.seek.com.au/job/91935447?type=standard&ref=search-standalone&origin=jobCard#sol=f1e87f38b3fbcc119ff3747201610690b54e31f3,6h ago,6.0,2026-05-06T03:00:00+00:00,"Silverwater, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"SEL invents, designs, and builds digitais products and systems that protect power grids around the world. This technology prevents blackouts and enables customers to improve power system reliability and safety at a reduced cost. A 100 percent employee-owned company headquartered in Pullman, Washington, SEL has manufactured products in the United States since 1984 and now serves customers worldwide.
 
 Our mission is simple: to make electric power safer, more reliable, and more economical
 
@@ -125,7 +241,7 @@ Apply today and help us shape the future of engineering solutions across the APA
 To Apply for This Position:
 
 Interviews will commence shortly, so if you have what it takes to be successful in this role, please apply now by providing your CV and a brief cover letter regarding your suitability for the role."
-91934603,Data Scientist - Production Gen AI - Sydney,Pathway Search,https://www.seek.com.au/job/91934603?type=standard&ref=search-standalone&origin=jobCard#sol=13e9d067a1c96d94dc22b395d546e632cb8eedfb,3h ago,3.0,2026-05-06T03:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,Circa $120k + Super,"Data Scientist – Production ML & GenAI
+91934603,Data Scientist - Production Gen AI - Sydney,Pathway Search,https://www.seek.com.au/job/91934603?type=standard&ref=search-standalone&origin=jobCard#sol=427d7069bafe81c2b9b75cff3612981d555b1530,6h ago,6.0,2026-05-06T03:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,Circa $120k + Super,"Data Scientist – Production ML & GenAI
  Sydney | Circa $120,000 + Super + Bonus | Hybrid (3 days office)
 
 About the Role
@@ -184,7 +300,7 @@ Sydney based
 Hybrid working (3 days in office per week)
 $120,000 + Superannuation
 Full-time permanent role"
-91934377,Portfolio Engineer,blueAPACHE,https://www.seek.com.au/job/91934377?type=standard&ref=search-standalone&origin=jobCard#sol=a26125235c9d49b8327cc6759879bb2781d4ff09,3h ago,3.0,2026-05-06T03:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,,"blueAPACHE is an Australian-owned Managed Service Provider, recognised as Mid-Market Partner of the Year at the ARN Innovation Awards for six consecutive years. We support some of Australia’s most complex mid-market businesses — including top-tier law firms, major retailers, mining companies, and pharma organisations — with infrastructure and cloud services that run at enterprise depth.
+91934377,Portfolio Engineer,blueAPACHE,https://www.seek.com.au/job/91934377?type=standard&ref=search-standalone&origin=jobCard#sol=a64619c3d58ab7608723a3a65e0cc583140947d4,6h ago,6.0,2026-05-06T03:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,,"blueAPACHE is an Australian-owned Managed Service Provider, recognised as Mid-Market Partner of the Year at the ARN Innovation Awards for six consecutive years. We support some of Australia’s most complex mid-market businesses — including top-tier law firms, major retailers, mining companies, and pharma organisations — with infrastructure and cloud services that run at enterprise depth.
 
 Our Portfolio Engineers are the most senior technical people our customers interact with. They are trusted advisors, escalation owners, and technical leaders — not ticket handlers. We hire for depth, autonomy, and judgment.
 
@@ -303,7 +419,7 @@ Quality hardware and laptop provided.
 Employee referral programs - once you are in and you are loving it - you can refer a friend and get paid for it!
 
 *** Please note, all offers of employment at blueAPACHE are subject to National Police Checking Service."
-91933710,Lead AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91933710?type=standard&ref=search-standalone&origin=jobCard#sol=f18e827c0252b169da174e5e2ad22dedab4c2423,3h ago,3.0,2026-05-06T03:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,Eastern suburbs/WFH hybrid | ASAP start,"We're partnering with a large, forward-thinking organisation to find a Lead AI Engineer who will play a pivotal role in shaping and delivering enterprise-wide AI capability. This is a high-impact leadership role where you'll drive innovation, influence strategy, and deliver real business outcomes through cutting-edge AI solutions.
+91933710,Lead AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91933710?type=standard&ref=search-standalone&origin=jobCard#sol=8948b77502df1af36f34f3275a72252dfe8f9f9e,6h ago,6.0,2026-05-06T03:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,Eastern suburbs/WFH hybrid | ASAP start,"We're partnering with a large, forward-thinking organisation to find a Lead AI Engineer who will play a pivotal role in shaping and delivering enterprise-wide AI capability. This is a high-impact leadership role where you'll drive innovation, influence strategy, and deliver real business outcomes through cutting-edge AI solutions.
 
 As the Lead AI Engineer, you'll lead the design, development, and deployment of AI and machine learning solutions at scale. You'll work closely with senior stakeholders, architects, and data teams to embed AI into core business operations, driving smarter decision-making, automation, and performance improvements.
 
@@ -334,7 +450,7 @@ Demonstrated ability to lead teams and influence stakeholders
 
 
 If you're ready to step into a leadership role where you can shape the future of AI within a large organisation, apply now or reach out to Ali••••••••••@talentinternational.com for further information."
-91929292,Senior Machine Learning Engineer,Hays | Technology,https://www.seek.com.au/job/91929292?type=standard&ref=search-standalone&origin=jobCard#sol=a20434f93f4f25d86ace5defe0264e94f02c4b8d,5h ago,5.0,2026-05-06T01:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Full time,,"Senior ML Engineer role for global company
+91929292,Senior Machine Learning Engineer,Hays | Technology,https://www.seek.com.au/job/91929292?type=standard&ref=search-standalone&origin=jobCard#sol=a6f5cd45ee32825422c4a77fb4f352f928223919,8h ago,8.0,2026-05-06T01:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Full time,,"Senior ML Engineer role for global company
 
 Your new company
 
@@ -386,7 +502,7 @@ What you need to do now
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
 
 If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career."
-91928507,Technical Lead - Agentic AI - $180k + Super + Bonus - Sydney,Pathway Search,https://www.seek.com.au/job/91928507?type=standard&ref=search-standalone&origin=jobCard#sol=df13abef01cd27f40041d7c2f41bc65bb026b1cc,6h ago,6.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Technical Lead - Agentic AI (Microsoft Stack)
+91928507,Technical Lead - Agentic AI - $180k + Super + Bonus - Sydney,Pathway Search,https://www.seek.com.au/job/91928507?type=standard&ref=search-standalone&origin=jobCard#sol=ecedd567e015eb83d8577a20bebdb03d9db88481,9h ago,9.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Technical Lead - Agentic AI (Microsoft Stack)
 Permanent | Sydney | $180k + Super + Bonus 
 
 An opportunity to join a high-visibility, greenfield Agentic AI program in a large Australian enterprise. 
@@ -426,7 +542,7 @@ Join at the ground level of a greenfield build
 High visibility with direct alignment to senior leadership
 Influence tooling, frameworks, and long-term architecture
 Strong investment in Azure AI capability and innovation"
-91928116,Principal Engineer - 225k to 300k Base + Bonus + Equity,Preacta Recruitment,https://www.seek.com.au/job/91928116?type=standard&ref=search-standalone&origin=jobCard#sol=d68db49637a1425af717ecc7e4ec67e863ce2dea,6h ago,6.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Permanent position paying salaries between $240k to $300k base + bonus + super
+91928116,Principal Engineer - 225k to 300k Base + Bonus + Equity,Preacta Recruitment,https://www.seek.com.au/job/91928116?type=standard&ref=search-standalone&origin=jobCard#sol=0328e6bc9ab695c8e028821300d7593c974f36f4,9h ago,9.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Permanent position paying salaries between $240k to $300k base + bonus + super
 Market leader in AI across Australia, embedding intelligent systems into core platform architecture, engineering workflows and customer-facing products
 Lead technical direction across a scaled engineering division, working closely with senior leadership to align engineering and AI strategy with business outcomes
 Principal technical expert, shaping critical engineering decisions and influencing complex system design across one of Australia’s most advanced, high-traffic platforms
@@ -448,7 +564,7 @@ Comfort working in fast-paced, ambiguous environments with a bias for innovation
 
 Reach out to Luke on 04•• ••• 993, email luk•@preactarecruitment.com
 or click 'Apply."
-91927763,"Research & Market Intelligence Analyst, Milwaukee",Techtronic Industries,https://www.seek.com.au/job/91927763?type=standard&ref=search-standalone&origin=jobCard#sol=5ace70a722e53f998c91c9211c1a8fdd68b454c6,6h ago,6.0,2026-05-06T00:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Market Research & Analysis (Marketing & Communications),Full time,,"Who we are:
+91927763,"Research & Market Intelligence Analyst, Milwaukee",Techtronic Industries,https://www.seek.com.au/job/91927763?type=standard&ref=search-standalone&origin=jobCard#sol=1244211ea7e09af9972e16d0664314bab27de062,9h ago,9.0,2026-05-06T00:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Market Research & Analysis (Marketing & Communications),Full time,,"Who we are:
 
 Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do.
 
@@ -482,7 +598,7 @@ A highly organized self-starter with a strong sense of ownership and accountabil
 Ability to think laterally to help identify alternate options and develop innovative solutions.
 
 If you fit the above attributes and are excited at the prospect of joining a large, successful, and dynamic organisation, then please click APPLY NOW!"
-91927445,Integration Engineer,Morgan McKinley,https://www.seek.com.au/job/91927445?type=standard&ref=search-standalone&origin=jobCard#sol=ba27e0ef8c0c674d65351bc48db21dfa1cbbc112,7h ago,7.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$125000.00 - $140000.00 p.a.,"Integration Engineer
+91927445,Integration Engineer,Morgan McKinley,https://www.seek.com.au/job/91927445?type=standard&ref=search-standalone&origin=jobCard#sol=733b58937248194686538a8743f533d7738a49e0,10h ago,10.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$125000.00 - $140000.00 p.a.,"Integration Engineer
 
 Salary: $140,000 package (including super)
 Employment Type: Full-time
@@ -549,7 +665,7 @@ Additional Requirements
 Participation in after-hours work or on-call roster may be required
 Commitment to workplace health and safety practices
 Adherence to organisational policies, procedures, and code of conduct"
-91927299,Lead Software Engineer - AI Platform Services,SEEK Limited,https://www.seek.com.au/job/91927299?type=standard&ref=search-standalone&origin=jobCard#sol=872a482bad2da2e47e7ec57d857eb33528b36946,7h ago,7.0,2026-05-05T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+91927299,Lead Software Engineer - AI Platform Services,SEEK Limited,https://www.seek.com.au/job/91927299?type=standard&ref=search-standalone&origin=jobCard#sol=9fc623187c80e084c54e5ba5150e29d5f01f60ab,10h ago,10.0,2026-05-05T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -608,7 +724,7 @@ We know teams with diverse ideas, experiences and perspectives are more creative
 For this role, only those with eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-91920574,Robotic Implementation & Service Engineer,Dexory,https://www.seek.com.au/job/91920574?type=standard&ref=search-standalone&origin=jobCard#sol=f1b268290058a4996e31d1f9b48fc816cca906f8,7h ago,7.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Field Engineering (Engineering),Full time,,"Commercian Implementation & Service Engineer - Australia Full-Time | Field-Based | Nationwide & International Travel
+91920574,Robotic Implementation & Service Engineer,Dexory,https://www.seek.com.au/job/91920574?type=standard&ref=search-standalone&origin=jobCard#sol=070f665d38b2d4ebe215b76c5e4b9c4c8432c809,10h ago,10.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Field Engineering (Engineering),Full time,,"Commercian Implementation & Service Engineer - Australia Full-Time | Field-Based | Nationwide & International Travel
 
 About Dexory
 
