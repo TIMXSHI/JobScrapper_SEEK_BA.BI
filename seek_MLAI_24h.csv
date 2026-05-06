@@ -1,5 +1,309 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91933710,Lead AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91933710?type=standard&ref=search-standalone&origin=jobCard#sol=0189f441ad497822186d3e0ea408202fde1cd4ac,1h ago,1.0,2026-05-06T02:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,Eastern suburbs/WFH hybrid | ASAP start,"We're partnering with a large, forward-thinking organisation to find a Lead AI Engineer who will play a pivotal role in shaping and delivering enterprise-wide AI capability. This is a high-impact leadership role where you'll drive innovation, influence strategy, and deliver real business outcomes through cutting-edge AI solutions.
+91938820,Technical Lead - Software Engineer,Precision Sourcing,https://www.seek.com.au/job/91938820?type=standard&ref=search-standalone&origin=jobCard#sol=4e4ad9533562f634f7be3bf67a9f369a6ba98bb0,1h ago,1.0,2026-05-06T05:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$210,000 - $230,000 + super","About the Company
+
+This is a fast-growing Australian technology company operating at the cutting edge of applied AI. They work with large enterprises across a wide range of industries to solve complex, real-world operational problems, building AI-powered solutions from the ground up that are designed to create genuine, measurable business impact for the organisations they work with.
+
+The culture here rewards curiosity, accountability, and bold thinking. Leadership is hands-on and accessible, and the team is made up of sharp, driven people who take their craft seriously. Growth is a priority, both for the business and for the people within it. If you want to do meaningful work in a space that is genuinely evolving at pace, this is an environment built for that.
+
+** NB: Our client can only facilitate the onboarding for Australian Permanent Residents or Citizens / NZ Citizens. For this position you will need to be located in Sydney, Melbourne or Brisbane **
+
+About the Role
+
+As the business continues to scale its enterprise client base, they are looking to bring on an experienced Tech Lead to sit at the centre of their delivery capability. This is not an internal-facing engineering role. It is a client-facing leadership position where you will be the most senior technical voice on the engagements you lead.
+
+You will take ownership of AI-powered solutions end to end, from early scoping conversations with enterprise clients through to production deployment. You will lead project squads that shift from engagement to engagement, working alongside developers, data scientists, and project managers to deliver AI systems that solve real business problems. The expectation is someone who is energised by that client-facing challenge, not just the engineering underneath it.
+
+What You Will Be Doing
+
+Lead the technical design and implementation of AI Co-Workers from concept through production deployment
+Translate real business constraints into scalable AI and engineering solutions
+Own system architecture across models, orchestration logic, APIs, data pipelines, and integrations
+Lead technical decision-making for LLM usage, model selection, prompt design, evaluation, and monitoring
+Guide AI Engineers through build, test, and release cycles
+Partner closely with Engagement Leads to align technical execution with value delivery
+Ensure engineering quality across performance, reliability, security, and maintainability
+Identify technical risks early and drive pragmatic solutions in ambiguous environments
+Contribute hands-on to critical parts of the build while enabling the team to move faster
+Act as the primary technical point of contact for enterprise clients, managing stakeholder expectations and communicating complex technical concepts clearly to non-technical audiences
+
+Skills / Requirements
+
+Proven leadership of small to medium-sized teams delivering products in enterprise environments
+Strong background in software engineering with applied AI or ML experience. You are a well-rounded engineer comfortable across multiple languages, not a Python-only specialist
+Proficiency in Node.js and TypeScript, the core stack and a non-negotiable requirement
+Hands-on experience with modern AI systems including LLMs, RAG (Retrieval-Augmented Generation), LangChain, LangGraph, and prompt engineering. Practical delivery experience, not just surface-level tool usage
+Solid understanding of backend systems, APIs, data flows, and production architecture
+Experience working within enterprise environments, comfortable navigating complex organisations, regulations, and existing legacy applications
+Ability to reason about trade-offs across accuracy, latency, cost, scalability, and delivery speed
+Experience guiding or mentoring engineers through complex builds, having led a team of 4 or more
+Comfort explaining technical concepts to non-technical stakeholders
+Bias toward ownership, learning, and shipping real systems
+Curiosity about how AI systems behave in production, not just in theory"
+91935858,AI Solution Engineer – Automation & Digital Value (Fixed Term),Ryman Healthcare,https://www.seek.com.au/job/91935858?type=standard&ref=search-standalone&origin=jobCard#sol=f8343571a6c819a00ef91dd22c082e6e6133bf1b,2h ago,2.0,2026-05-06T04:00:00+00:00,"Southbank, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,,"Build AI that matters. Ship it in weeks, not months.
+Ryman Healthcare is one of Australasia's leading retirement living and aged care operators, with 49 villages across New Zealand and Australia. We're on a mission to deliver a world-class retirement experience for our residents and we're looking for an AI Solution Engineer to help us get there faster.
+
+This is a hands-on role for someone who builds, not just advises. You'll identify high-impact AI and automation opportunities across the business, prototype solutions rapidly, and deploy them into production in focused sprints. If you're the kind of person who'd rather ship something real in two weeks than spend two months writing a strategy deck, keep reading. 
+
+What you'll do
+You'll work across the full problem-to-production lifecycle — discovering use cases with business teams, designing and building AI solutions within the Microsoft ecosystem, and deploying automation that delivers measurable value for our residents, teams, and operations. You'll also contribute to how we govern AI responsibly, ensuring we scale with confidence in a healthcare environment where getting it right matters.
+Your work will span Copilot Studio, Azure AI, Power Platform, RAG architectures, LLM integration, and AI agents — but the tools are secondary to the outcomes. We care about what you deliver, not what you demo.
+
+This is a full time, fixed term role through to the end of March 2027, with the potential to extend or become permanent. This role can be based in our Christchurch office in Russley or our Southbank, Melbourne office.
+
+What we're looking for
+Someone with 3–5 years of experience in AI solution engineering, applied AI, or intelligent automation who has actually shipped solutions into production, not just prototypes. You'll bring hands-on experience with the Microsoft AI ecosystem, a working knowledge of RAG patterns and prompt engineering, and the ability to build automation using Power Platform. Just as importantly, you'll know how to explain what you're building and why it matters to clinical, operational, and executive stakeholders.
+A degree in Computer Science, Data Science, Software Engineering, or equivalent practical experience. Microsoft certifications in Azure AI or Power Platform are a bonus.
+
+What makes this role different
+You won't be buried in a data science team running experiments. You'll be embedded in the Digital Solutions team, working directly with Business Analysts, Business Solution Analysts, and business stakeholders to find the problems worth solving and then solving them, fast. You'll operate with an equal mandate: deliver value fast and govern it well.
+
+Why Ryman
+We're pioneering in how we care for our residents, and we're bringing that same mindset to how we use technology. You'll be joining an organisation that's genuinely committed to AI — not as a buzzword, but as a practical tool to improve the lives of residents and the teams who support them. You'll also get competitive pay, additional wellness leave, flexible working, access to 60+ employee discounts, and the chance to do work that makes a difference.
+
+If you're our kind of person, we'd love to hear from you.
+At Ryman, we support an environment where everyone feels welcome to be themselves. We embrace diversity and celebrate individual uniqueness. Applications will be reviewed as they are received and interviews may take place prior to the close date."
+91935447,Application Engineer - Automation,Schweitzer Engineering Laboratories,https://www.seek.com.au/job/91935447?type=standard&ref=search-standalone&origin=jobCard#sol=a8684bf830e77151329575877a1db148fe5207af,3h ago,3.0,2026-05-06T03:00:00+00:00,"Silverwater, Sydney NSW",Electrical/Electronic Engineering (Engineering),Full time,,"SEL invents, designs, and builds digitais products and systems that protect power grids around the world. This technology prevents blackouts and enables customers to improve power system reliability and safety at a reduced cost. A 100 percent employee-owned company headquartered in Pullman, Washington, SEL has manufactured products in the United States since 1984 and now serves customers worldwide.
+
+Our mission is simple: to make electric power safer, more reliable, and more economical
+
+About the Role - Application Engineer - Automation
+
+Key Responsibilities:
+
+Develop expertise of power systems, automation, and all related SEL products.
+
+Help customers apply SEL products through visits, demonstrations, training courses and telephone contact.
+
+Provides solutions to a wide variety of increasingly difficult problems. Solutions are increasingly imaginative, thorough, and practical. Independently supports customers for at least two knowledge areas of their specialization field.
+
+Contributes to product specifications, application and testing software, and literature.
+
+
+Participates and presents at SEL marketing and sales activities, industry technical meetings, and conferences.
+
+Teaches SEL University courses within core area.
+
+Publishes multiple application guides, notes, template guides, software tools, and/or technical conference papers.
+
+Provides assistance on products and applications to engineers, associates, and interns.
+
+Regular contributions through customer feedback process, FAQ entries, IMI teams, and improving SELU training material. Identifies WCM initiatives and leads efforts to improve.
+
+Follow and apply SEL Values, Principles of Operations, and World-Class Manufacturing principles.
+
+Understand. Create. Simplify.
+
+Other duties as assigned.
+
+To be successful in this role you will have the following:
+
+Bachelor’s degree in Electrical Engineering (or equivalent engineering degree)
+
+Typically 6+ years of experience in power systems, industry practices, and automation
+
+Ability to write and speak English coherently
+
+Excellent technical training, speaking, writing, and customer service skills
+
+Strong communicator. Actively identifies and pursues ways to improve customer experience.
+
+Experiments to find new solutions and encourages others to do the same.
+
+Ability to gain the confidence and trust of others easily. Inspires, motivates, and encourages others.
+
+Ability to successfully carry out tasks, planning, instruction, and leadership
+
+Models high standards of honesty and integrity
+
+Ability to learn new skills and assume new responsibilities
+
+Capable of selecting, applying and teaching principles, theories, and concepts in specialization field.
+
+Ready to make a difference?
+Apply today and help us shape the future of engineering solutions across the APAC region!
+
+To Apply for This Position:
+
+Interviews will commence shortly, so if you have what it takes to be successful in this role, please apply now by providing your CV and a brief cover letter regarding your suitability for the role."
+91934603,Data Scientist - Production Gen AI - Sydney,Pathway Search,https://www.seek.com.au/job/91934603?type=standard&ref=search-standalone&origin=jobCard#sol=13e9d067a1c96d94dc22b395d546e632cb8eedfb,3h ago,3.0,2026-05-06T03:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,Circa $120k + Super,"Data Scientist – Production ML & GenAI
+ Sydney | Circa $120,000 + Super + Bonus | Hybrid (3 days office)
+
+About the Role
+We’re working with a large enterprise in Sydney looking for a hands-on Data Scientist with around 2–4 years of commercial experience who wants to move beyond notebooks and work directly on real production AI solutions.
+This role sits within a delivery-focused environment where you’ll work closely with engineers, analysts, and business stakeholders to take machine learning and GenAI use cases (including GPT/LLM-based solutions) from prototype through to production.
+
+Rather than sitting in a purely experimental function, you’ll be embedded in a cross-functional squad where the focus is on building, deploying, and supporting real-world data science solutions that are scalable, governed, and production-ready.
+What You’ll Be Doing
+Production & Engineering Collaboration
+Work closely with engineers to help deploy and support ML & AI solutions in production
+Assist in transitioning prototypes into scalable, production-ready systems
+Support monitoring, debugging, and improving existing data pipelines and models
+Gain exposure to real deployment workflows, CI/CD concepts, and release processes
+Hands-on Data Science Work
+Build and refine machine learning models and feature pipelines
+Work with structured and unstructured data across multiple use cases
+Support model evaluation, testing, and performance tracking
+Contribute to experimentation, statistical analysis, and model explainability
+Rapid Prototyping & Experimentation
+Develop quick prototypes to test ideas, feasibility, and data availability
+Translate business problems into testable hypotheses and simple models
+Run experiments, compare approaches, and iterate based on results
+Clearly document findings and recommendations for productionisation
+Governance & Responsible AI
+Work within established model governance and risk frameworks
+Support documentation of model assumptions, limitations, and validation results
+Ensure solutions meet data privacy, compliance, and enterprise standards
+Collaboration & Growth
+Act as a bridge between data science, engineering, and business teams
+Share insights and contribute to improving team practices and standards
+Support and learn from senior team members in a collaborative environment
+About You
+We’re looking for someone early in their Data Science career (2-4 years) who is ready to step into production-focused work.
+
+You’ll likely have:
+
+2–4 years’ experience as a Data Scientist or similar role
+Strong Python and SQL skills
+GPT Model experience (or similar) 
+Experience working with machine learning models in a commercial environment
+Exposure to model deployment or production systems (even if limited)
+Microsoft Azure experience 
+Nice to have:
+
+Exposure to GenAI / LLMs (e.g. GPT, Azure OpenAI, NLP projects)
+Understanding of model monitoring, validation, or drift detection
+Experience working in regulated or enterprise environments
+Why This Role?
+Real opportunity to work on production ML and GenAI systems, not just experimentation
+Exposure to modern Azure-based AI tooling and GPT/LLM use cases
+Embedded in a delivery squad working end-to-end on real business problems
+Strong mentorship and learning from senior engineers and data scientists
+Clear career growth pathway.
+Location & Package
+Sydney based
+Hybrid working (3 days in office per week)
+$120,000 + Superannuation
+Full-time permanent role"
+91934377,Portfolio Engineer,blueAPACHE,https://www.seek.com.au/job/91934377?type=standard&ref=search-standalone&origin=jobCard#sol=a26125235c9d49b8327cc6759879bb2781d4ff09,3h ago,3.0,2026-05-06T03:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,,"blueAPACHE is an Australian-owned Managed Service Provider, recognised as Mid-Market Partner of the Year at the ARN Innovation Awards for six consecutive years. We support some of Australia’s most complex mid-market businesses — including top-tier law firms, major retailers, mining companies, and pharma organisations — with infrastructure and cloud services that run at enterprise depth.
+
+Our Portfolio Engineers are the most senior technical people our customers interact with. They are trusted advisors, escalation owners, and technical leaders — not ticket handlers. We hire for depth, autonomy, and judgment.
+
+The Role
+
+This is a senior, autonomous, client-facing engineering role. You will own a dedicated portfolio of mid-market customers — acting as their primary technical advisor, highest escalation point, and strategic infrastructure lead. You will be expected to operate independently across complex, multi-tenant environments, lead pre-sales conversations, deliver end-to-end projects, and drive proactive outcomes without needing a team around you to reach a conclusion.
+
+Key Responsibilities
+
+Client Ownership & Advisory
+
+Own the technical relationship for your assigned customer portfolio — including regular strategic meetings, QBRs, and roadmap discussions with senior stakeholders.
+
+Act as the primary technical contact for customers, Service Delivery Managers, Pre-Sales, and Projects teams — independently and with authority.
+
+Create and present multi-year technology roadmaps aligned to each customer’s business objectives.
+
+Drive solution onboarding and new service adoption into Managed Services for your customer group.
+
+Participate in pre-sales activities including scoping, solution design, effort estimation, and client-facing presentations.
+
+L3 Escalation & Technical Leadership
+
+Serve as the highest technical escalation point for complex infrastructure incidents, problems, and changes across your portfolio.
+
+Own P1/critical incident response end-to-end: triage, resolution, customer communication, and post-incident review.
+
+Provide clear technical direction to BAU and L2/L3 engineers — guiding them to resolution, not just observing.
+
+Perform root cause and trend analysis to proactively reduce incident noise before it impacts customers.
+
+Adhere to Incident, Problem, and Change Management processes in accordance with ITIL standards.
+
+Proactive Infrastructure & Project Delivery
+
+Audit and uplift proactive infrastructure activity across your portfolio, categorising work into BAU, billable, and value-add initiatives (health checks, optimisation, security hardening, capacity management).
+
+Deliver small-to-medium scale technical projects end-to-end — from audit and design through to implementation, documentation, and service desk handover.
+
+Identify and act on opportunities for infrastructure uplift, security improvement, and modernisation within your customer environments.
+
+Produce accurate AsBuilt documentation, proposals, and implementation plans to a professional standard.
+
+Team & Knowledge Contribution
+
+Mentor and upskill L2/L3 engineers, sharing technical knowledge and guiding them through complex client and infrastructure scenarios.
+
+Contribute to internal tooling, templates, standards, and process improvement initiatives.
+
+Act as a company-wide SME for technologies within your area of depth.
+
+What We’re Looking For
+
+Experience
+
+10+ years of hands-on infrastructure experience, with the majority in an MSP or Systems Integrator environment.
+
+Proven track record of independently owning client relationships — including strategic meetings, roadmaps, and escalation ownership.
+
+Demonstrated experience delivering complex, end-to-end projects: audit, scoping, design, implementation, documentation, and handover.
+
+Active involvement in pre-sales: solution design, effort estimation, and client-facing technical presentations.
+
+Mentorship and technical leadership of junior engineering staff.
+
+Confident communicator at all levels — from service desk engineers to C-suite stakeholders and boards.
+
+Strong documentation discipline — proposals, AsBuilts, runbooks, and roadmaps produced to a professional standard.
+
+Technical Depth
+
+Microsoft Azure (IaaS, PaaS, Security) — including advanced identity, hybrid connectivity, and governance.
+
+Identity platforms: Entra ID, Active Directory, ADFS, Azure AD B2B/B2C; and optionally Okta or CyberArk.
+
+M365 Modern Workplace: Exchange Online, Intune, Autopilot, AVD/W365, Defender suite, DLP, Conditional Access.
+
+On-premises infrastructure: Windows Server, Hyper-V, VMware vSphere/ESXi, SAN/NAS storage, failover clustering.
+
+Networking: firewalls (Palo Alto, Fortinet, SonicWall, Cisco), switching, routing, VLANs, VPN, QoS, load balancing.
+
+Scripting and automation: PowerShell, Bash; infrastructure automation mindset strongly preferred.
+
+Backup and DR platforms: Veeam, Azure Site Recovery, Commvault or equivalent.
+
+Security frameworks and uplift: Essential 8, ISO 27001, Microsoft Defender stack, CVE remediation.
+
+Certifications
+
+Current AZ-104 (Azure Administrator Associate) or AZ-305
+
+Vendor certifications (e.g. PCNSE, NSE, VMware VCP, MCSE, CompTIA Security+).
+
+ITIL Foundation.
+
+Benefits
+
+blueAPACHE continues to grow alongside some of Australia’s leading midmarket businesses, our valued clients. We continue to stay abreast of current technologies to maintain our competitive advantage, offering the opportunity to continually expand your technical expertise and provide an uncompressing offering to our clients. We recognise our people are our most significant differentiator.
+
+We offer options for you to interview virtually.
+
+blueAPACHE oﬀers an environment to make a real diﬀerence, develop careers within a supportive and rewarding environment.
+
+Regular social events and an awesome culture – work with a team of experts in their field
+
+Health Insurance discount with Medibank
+
+Discounts on 1000’s of products
+
+Employee Assistance Program from The Mind Room
+
+Ongoing training and development including paid certifications.
+
+Quality hardware and laptop provided.
+
+Employee referral programs - once you are in and you are loving it - you can refer a friend and get paid for it!
+
+*** Please note, all offers of employment at blueAPACHE are subject to National Police Checking Service."
+91933710,Lead AI Engineer,"Talent – Specialists in tech, transformation & beyond",https://www.seek.com.au/job/91933710?type=standard&ref=search-standalone&origin=jobCard#sol=f18e827c0252b169da174e5e2ad22dedab4c2423,3h ago,3.0,2026-05-06T03:00:00+00:00,Melbourne VIC (Hybrid),Other (Information & Communication Technology),Full time,Eastern suburbs/WFH hybrid | ASAP start,"We're partnering with a large, forward-thinking organisation to find a Lead AI Engineer who will play a pivotal role in shaping and delivering enterprise-wide AI capability. This is a high-impact leadership role where you'll drive innovation, influence strategy, and deliver real business outcomes through cutting-edge AI solutions.
 
 As the Lead AI Engineer, you'll lead the design, development, and deployment of AI and machine learning solutions at scale. You'll work closely with senior stakeholders, architects, and data teams to embed AI into core business operations, driving smarter decision-making, automation, and performance improvements.
 
@@ -30,7 +334,7 @@ Demonstrated ability to lead teams and influence stakeholders
 
 
 If you're ready to step into a leadership role where you can shape the future of AI within a large organisation, apply now or reach out to Ali••••••••••@talentinternational.com for further information."
-91929292,Senior Machine Learning Engineer,Hays | Technology,https://www.seek.com.au/job/91929292?type=standard&ref=search-standalone&origin=jobCard#sol=a4681dc682b88814e18229fec0a2ca9363f23d4a,3h ago,3.0,2026-05-06T00:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Full time,,"Senior ML Engineer role for global company
+91929292,Senior Machine Learning Engineer,Hays | Technology,https://www.seek.com.au/job/91929292?type=standard&ref=search-standalone&origin=jobCard#sol=a20434f93f4f25d86ace5defe0264e94f02c4b8d,5h ago,5.0,2026-05-06T01:00:00+00:00,Perth WA,Engineering - Software (Information & Communication Technology),Full time,,"Senior ML Engineer role for global company
 
 Your new company
 
@@ -82,7 +386,7 @@ What you need to do now
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
 
 If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career."
-91928507,Technical Lead - Agentic AI - $180k + Super + Bonus - Sydney,Pathway Search,https://www.seek.com.au/job/91928507?type=standard&ref=search-standalone&origin=jobCard#sol=77d89b7482eba095c6ff370d1fb52f426443dd57,3h ago,3.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Technical Lead - Agentic AI (Microsoft Stack)
+91928507,Technical Lead - Agentic AI - $180k + Super + Bonus - Sydney,Pathway Search,https://www.seek.com.au/job/91928507?type=standard&ref=search-standalone&origin=jobCard#sol=df13abef01cd27f40041d7c2f41bc65bb026b1cc,6h ago,6.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"Technical Lead - Agentic AI (Microsoft Stack)
 Permanent | Sydney | $180k + Super + Bonus 
 
 An opportunity to join a high-visibility, greenfield Agentic AI program in a large Australian enterprise. 
@@ -122,7 +426,7 @@ Join at the ground level of a greenfield build
 High visibility with direct alignment to senior leadership
 Influence tooling, frameworks, and long-term architecture
 Strong investment in Azure AI capability and innovation"
-91928116,Principal Engineer - 225k to 300k Base + Bonus + Equity,Preacta Recruitment,https://www.seek.com.au/job/91928116?type=standard&ref=search-standalone&origin=jobCard#sol=230a48ae9dbc098c2ed2bf3840d563702fa5b476,3h ago,3.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Permanent position paying salaries between $240k to $300k base + bonus + super
+91928116,Principal Engineer - 225k to 300k Base + Bonus + Equity,Preacta Recruitment,https://www.seek.com.au/job/91928116?type=standard&ref=search-standalone&origin=jobCard#sol=d68db49637a1425af717ecc7e4ec67e863ce2dea,6h ago,6.0,2026-05-06T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"Permanent position paying salaries between $240k to $300k base + bonus + super
 Market leader in AI across Australia, embedding intelligent systems into core platform architecture, engineering workflows and customer-facing products
 Lead technical direction across a scaled engineering division, working closely with senior leadership to align engineering and AI strategy with business outcomes
 Principal technical expert, shaping critical engineering decisions and influencing complex system design across one of Australia’s most advanced, high-traffic platforms
@@ -144,7 +448,7 @@ Comfort working in fast-paced, ambiguous environments with a bias for innovation
 
 Reach out to Luke on 04•• ••• 993, email luk•@preactarecruitment.com
 or click 'Apply."
-91927763,"Research & Market Intelligence Analyst, Milwaukee",Techtronic Industries,https://www.seek.com.au/job/91927763?type=standard&ref=search-standalone&origin=jobCard#sol=ba4c8c87f8f0a0ec21883ae123d1fbf50d5264ca,4h ago,4.0,2026-05-05T23:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Market Research & Analysis (Marketing & Communications),Full time,,"Who we are:
+91927763,"Research & Market Intelligence Analyst, Milwaukee",Techtronic Industries,https://www.seek.com.au/job/91927763?type=standard&ref=search-standalone&origin=jobCard#sol=5ace70a722e53f998c91c9211c1a8fdd68b454c6,6h ago,6.0,2026-05-06T00:00:00+00:00,"Notting Hill, Melbourne VIC (Hybrid)",Market Research & Analysis (Marketing & Communications),Full time,,"Who we are:
 
 Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do.
 
@@ -178,7 +482,7 @@ A highly organized self-starter with a strong sense of ownership and accountabil
 Ability to think laterally to help identify alternate options and develop innovative solutions.
 
 If you fit the above attributes and are excited at the prospect of joining a large, successful, and dynamic organisation, then please click APPLY NOW!"
-91927445,Integration Engineer,Morgan McKinley,https://www.seek.com.au/job/91927445?type=standard&ref=search-standalone&origin=jobCard#sol=fa3662bacc221d9196003ebd28812f05ba31243c,4h ago,4.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$125000.00 - $140000.00 p.a.,"Integration Engineer
+91927445,Integration Engineer,Morgan McKinley,https://www.seek.com.au/job/91927445?type=standard&ref=search-standalone&origin=jobCard#sol=ba27e0ef8c0c674d65351bc48db21dfa1cbbc112,7h ago,7.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$125000.00 - $140000.00 p.a.,"Integration Engineer
 
 Salary: $140,000 package (including super)
 Employment Type: Full-time
@@ -245,7 +549,7 @@ Additional Requirements
 Participation in after-hours work or on-call roster may be required
 Commitment to workplace health and safety practices
 Adherence to organisational policies, procedures, and code of conduct"
-91927299,Lead Software Engineer - AI Platform Services,SEEK Limited,https://www.seek.com.au/job/91927299?type=standard&ref=search-standalone&origin=jobCard#sol=685acc465c9a80ce60dac399bfeddb71510e6c21,4h ago,4.0,2026-05-05T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+91927299,Lead Software Engineer - AI Platform Services,SEEK Limited,https://www.seek.com.au/job/91927299?type=standard&ref=search-standalone&origin=jobCard#sol=872a482bad2da2e47e7ec57d857eb33528b36946,7h ago,7.0,2026-05-05T23:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 About SEEK
 
@@ -304,7 +608,7 @@ We know teams with diverse ideas, experiences and perspectives are more creative
 For this role, only those with eligible right to work will be considered.
 
 SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
-91920574,Robotic Implementation & Service Engineer,Dexory,https://www.seek.com.au/job/91920574?type=standard&ref=search-standalone&origin=jobCard#sol=c84ca936221a55447bcb395be9ef4e052a796502,4h ago,4.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Field Engineering (Engineering),Full time,,"Commercian Implementation & Service Engineer - Australia Full-Time | Field-Based | Nationwide & International Travel
+91920574,Robotic Implementation & Service Engineer,Dexory,https://www.seek.com.au/job/91920574?type=standard&ref=search-standalone&origin=jobCard#sol=f1b268290058a4996e31d1f9b48fc816cca906f8,7h ago,7.0,2026-05-05T23:00:00+00:00,Sydney NSW (Hybrid),Field Engineering (Engineering),Full time,,"Commercian Implementation & Service Engineer - Australia Full-Time | Field-Based | Nationwide & International Travel
 
 About Dexory
 
