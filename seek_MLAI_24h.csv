@@ -1,5 +1,717 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-91954645,AI-Assisted Modernisation Engineer,CI&T,https://www.seek.com.au/job/91954645?type=standard&ref=search-standalone&origin=jobCard#sol=0cbb3a6802c223d9e1b8b99f625f6ae172f150f6,2h ago,2.0,2026-05-06T21:00:00+00:00,Brisbane QLD,Testing & Quality Assurance (Information & Communication Technology),Full time,,"At CI&T, we're redefining the future of digital experiences with the power of AI technology. We are on the lookout for a highly technical, AI-forward professional to drive a major legacy migration and modernisation project, combining the best of business analysis and automation quality assurance.
+91955833,AI-Native Full Stack Developer,ForestOne,https://www.seek.com.au/job/91955833?type=standard&ref=search-standalone&origin=jobCard#sol=e609aa84f6bd3fe80599a864ad6a2c95bc04d9df,1h ago,1.0,2026-05-07T02:00:00+00:00,"Abbotsford, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"We're not looking for someone who's heard of AI. We're looking for someone who builds with it.
+
+Forest One Australia is Australia's largest independent distributor of plywood, timber, laminate and decorative surface materials. We're Australian-owned, sustainability-focused, and currently in the middle of a genuine technology transformation — and we're looking for a developer who wants to be right in the middle of it.
+
+This isn't a role where you'll be maintaining someone else's legacy code and waiting for tickets. You'll be building new things, using AI-assisted development as a core part of how you work, and delivering products that directly change how our customers and business operate.
+
+What you'll build
+
+We have a roadmap that includes a full rebuild of our eCommerce Trade Portal, an AI-powered delivery experience product, and a suite of internal tools that modernise how our business runs. You'll own the technical delivery of these initiatives as part of a small, senior team.
+
+We use tools like Google AntiGravity and Claude for AI-assisted development — not as a gimmick, but because they genuinely make us faster and better. If that's already how you think about building software, you'll fit right in.
+
+What we're looking for
+
+Solid full stack development experience (we're not precious about the stack, but comfort across front-end, back-end, and APIs is essential)
+
+Experience building with or integrating LLM APIs (OpenAI, Anthropic, Gemini or similar)
+
+Comfortable with cloud infrastructure — Azure or AWS experience preferred
+
+Experience with ERP integrations is a bonus (we run Infor M3)
+
+Someone who's genuinely curious, moves fast, and takes ownership
+
+You'll work directly with our Group IT Manager and a tight team of specialists across BI, infrastructure, master data, and business solutions. ForestOne is actively supportive of AI-led development — this isn't a business where you'll spend six months convincing people that AI is real.
+
+If you're the kind of developer who reads about new LLM capabilities on a Saturday morning because you're genuinely interested, we'd love to hear from you."
+91958666,AI Lead – Trading Systems & Agent Development,Private Advertiser,https://www.seek.com.au/job/91958666?type=standard&ref=search-standalone&origin=jobCard#sol=91332222e063b51cde376bc7ee75bc689b1724c5,2h ago,2.0,2026-05-07T01:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Most AI systems never face reality.
+
+Ours do.
+
+We deploy into live trading environments where information is incomplete, conditions change quickly, and performance is measurable in real time.
+
+We are looking for someone to build systems that improve how decisions are made and executed under pressure — systems trusted because they work, not because they sound impressive.
+
+This role carries real ownership, direct commercial impact, and unusually fast feedback loops.
+
+The Opportunity
+
+You will work directly with traders and decision-makers to build AI systems that:
+- identify actionable signals faster
+- improve decision quality under uncertainty
+- compress the time between insight and execution
+- increase consistency and execution precision
+- continuously improve from live outcomes
+
+You will own systems end-to-end:
+problem framing → architecture → deployment → iteration
+
+The expectation is production impact.
+
+What Makes This Role Different
+
+Most AI roles sit far from commercial reality.
+
+This one does not.
+
+Your work will be deployed quickly, tested under live conditions, and measured against outcomes that matter.
+
+You will operate with:
+- direct access to decision-makers
+- minimal bureaucracy
+- high autonomy
+- high accountability
+- tight feedback loops
+- meaningful commercial exposure
+
+This is an environment for builders who want to see their systems used, trusted, and scaled.
+
+What We’re Looking For
+
+You have already built systems that operate reliably in production environments.
+
+You are comfortable working with:
+- incomplete information
+- imperfect data
+- unclear problem definitions
+- fast iteration cycles
+- high-stakes decision environments
+
+You move quickly.
+You think commercially.
+You care about measurable outcomes.
+
+You are likely stronger at shipping than presenting.
+
+Technical Background
+
+You will probably have strong experience across several of:
+- Python and modern ML infrastructure
+- LLM systems and agent architectures
+- orchestration, retrieval, and evaluation systems
+- reinforcement learning or optimisation systems
+- event-driven or streaming systems
+- low-latency production environments
+- real-time inference infrastructure
+
+Experience in trading, betting, or probabilistic decision systems is useful but not required.
+
+We care more about judgement, speed, and the ability to build systems that survive contact with reality.
+
+What Success Looks Like
+
+Within the first few months, we would expect:
+- multiple systems deployed into live workflows
+- measurable improvements against baseline performance
+- tighter decision loops
+- increased execution consistency
+- systems trusted by operators in production
+
+Success in this role is measured by commercial impact.
+
+Environment
+
+- Small team
+- High trust
+- Fast execution
+- Direct communication
+- High standards
+- Strong ownership culture
+
+We hire carefully and prefer a small number of exceptional people over scaling headcount.
+
+Compensation
+
+Compensation is flexible and designed to attract exceptional individuals."
+91958654,Data Engineer,Wall Street,https://www.seek.com.au/job/91958654?type=standard&ref=search-standalone&origin=jobCard#sol=8586af1faa62b349ef141f0035bc0c4c8dc600ab,2h ago,2.0,2026-05-07T01:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Full time,,"Data Engineer
+NBL
+
+The data behind the game matters as much as the game itself.
+
+The NBL is one of the world's fastest-growing basketball leagues, and we're building the data infrastructure to match. This is a role for someone who thinks in systems, not just tasks, someone who finds genuine satisfaction in building things that last and cares as much about the business outcome as the elegance of the solution.
+
+When this role is thriving, every team across NBL Group has clean, reliable data they can actually use. The decisions that shape fan experiences, commercial partnerships, and competition strategy are grounded in something they can trust. That's what you'll be building.
+
+About Us
+
+The National Basketball League is regarded as one of the premier basketball leagues in the world, home to some of the world's best players, and truly a sports entertainment experience like no other. We're a league that's growing fast, thinking big and constantly raising the bar. If you're passionate about sport and want to be part of something that's genuinely on the rise, you'll find your place here.
+
+The Role
+
+Sitting within the Fan Data and Analytics team and reporting to the Fan Data and Analytics Manager, you'll own the infrastructure that keeps data moving across the entire organisation.
+
+Day to day, you'll be:
+
+Building and maintaining scalable, secure data pipelines that collect and process data from ticketing, broadcast, digital platforms, and game sources
+Managing and optimising the League's data warehouse so data is accurate, accessible, and ready for analysis at any time
+Integrating diverse datasets spanning commercial, fan engagement, financial, and operational data into a single source of truth
+Delivering real-time data solutions for live game insights as well as longer-term analysis of fan behaviour and commercial trends
+Embedding automation across data collection, processing, and reporting to reduce manual effort and improve reliability
+Maintaining data quality controls, governance frameworks, and compliance with privacy legislation
+Collaborating with teams across Commercial, Marketing, Operations, Competition, and Finance to deliver data solutions that are actually useful
+Managing relationships with technology vendors, clubs, and external partners to keep integrations running seamlessly
+Exploring emerging technologies and translating industry trends in sports data and broadcast analytics into practical improvements
+Who We're Looking For
+
+You're the right person for this role if you read the responsibilities above and thought 'that's me.' More specifically, you bring:
+
+Strong SQL skills and proven experience with both relational and non-relational databases
+Solid experience with data warehousing solutions and data modelling techniques
+Experience with big data and streaming concepts (e.g. event-driven architectures, real-time ingestion), implemented using Google Cloud tools such as BigQuery and Pub/Sub.
+A working knowledge of data governance, privacy, and compliance requirements
+The ability to communicate complex technical challenges clearly to non-technical stakeholders
+Tertiary qualifications in Computer Science, Data Engineering, Information Systems, or a related field
+It's a bonus if you've worked in sport, entertainment, or consumer-facing industries, and if you have experience across large, complex multi-source datasets. Most of all, a genuine passion for sport and what good data does for the fan experience will make this role genuinely meaningful for you.
+
+Our Values
+  
+These are not a poster on the wall. They are how we operate every day.
+  
+Always Think Big. Be courageous. Be open to new ideas. Learn and grow. No limits.
+Be Accountable. Own it. Ask for help. The scoreboard matters.
+Integrity is Key. Act ethically. Act honestly. Keep our word.
+Show Respect. Show care. Listen and seek to understand. Value opinions.
+We Are Fans Too. Have fun. Always consider the fan. Share the love of the game.
+One Team. Communicate. Trust each other. Celebrate the wins. Build relationships.
+
+What's on Offer
+
+The chance to shape the data infrastructure of one of the world's fastest-growing basketball leagues
+ Real cross-functional exposure across commercial, marketing, operations and competition
+A team that is genuinely invested in building something great, not just maintaining the status quo
+The opportunity to work at the intersection of sport and data, where your work has a direct impact on the fan experience
+Ready to own it?
+  
+If you read this and it felt right, we'd love to hear from you. Apply with your CV and a brief note on what draws you to this role and the NBL."
+91956802,L3 Systems Engineer - MSP,The Network,https://www.seek.com.au/job/91956802?type=standard&ref=search-standalone&origin=jobCard#sol=f2d8484e349605c9e7cece48ee2b314059b61bb2,3h ago,3.0,2026-05-07T00:00:00+00:00,"Mulgrave, Melbourne VIC (Hybrid)",Consultants (Information & Communication Technology),Full time,$110000 - $125000 p.a. Inc Super,"About the Role
+
+We are seeking an experienced Level 3 Systems Engineer to join a high performing technology team delivering modern workplace, cloud, and infrastructure solutions across a diverse customer environment.
+
+This role will focus heavily on Microsoft workplace technologies, cloud infrastructure, endpoint management, and escalated engineering support within a Managed Services Provider (MSP) environment.
+
+You will act as a senior escalation point for technical issues while also contributing to project delivery, infrastructure improvements, and customer solution design. The role is ideal for someone who enjoys working across multiple customer environments and taking ownership of complex technical outcomes.
+
+Key Responsibilities
+
+* Act as a senior escalation point for Level 1 and Level 2 Engineers
+
+Deliver and support Microsoft workplace and infrastructure solutions across customer environments
+
+* Design, implement, and maintain Microsoft 365 environments
+* Manage endpoint deployment, configuration, compliance, and lifecycle management using Microsoft Intune
+* Support Azure and hybrid cloud infrastructure environments
+* Administer and support Entra ID (Azure AD), Exchange Online, SharePoint, Microsoft Teams, and Microsoft Defender technologies
+* Manage Windows Server environments including Active Directory, DNS, DHCP, Group Policy, and file services
+* Support and troubleshoot virtualisation platforms including VMware vSphere and Hyper V
+* Perform infrastructure upgrades, migrations, and optimisation projects
+* Contribute to technical documentation, standards, and process improvement initiatives
+* Work closely with internal teams and customers to deliver strong technical outcomes
+* Participate in project planning, technical workshops, and solution implementation activities
+
+Skills & Experience
+
+* Previous experience working within a Managed Services Provider (MSP) environment is essential
+
+* Strong Level 3 infrastructure and systems engineering experience
+* Strong experience across Microsoft 365 technologies including Exchange Online, SharePoint, Teams, Entra ID, and Intune
+* Experience supporting Azure and hybrid cloud environments
+* Strong Windows Server administration experience
+* Experience managing Active Directory, Group Policy, DNS, DHCP, and identity services
+* Strong experience with endpoint management and modern workplace technologies
+* Experience supporting VMware or Hyper V virtualisation platforms
+
+* Solid understanding of networking concepts including switching, routing, firewalls, and VPN technologies
+
+What's on Offer
+
+* Exposure to a broad range of modern Microsoft and cloud technologies
+
+Opportunity to work across complex customer environments and projects
+
+Strong technical team culture and career growth opportunities
+
+Certification and professional development support
+
+Hybrid working arrangements"
+91956609,Senior HITL Engineer (RELOCATION PROVIDED),Rocket Lab,https://www.seek.com.au/job/91956609?type=standard&ref=search-standalone&origin=jobCard#sol=8ce19ff4326bc7a489f854557ed015b1240ea60b,3h ago,3.0,2026-05-07T00:00:00+00:00,Sydney NSW,Aerospace Engineering (Engineering),Full time,,"ABOUT ROCKET LAB
+
+Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more - all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations.
+
+Our Electron rocket has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope.
+
+
+
+ELECTRON
+Rocket Lab's Electron team is responsible for building, testing, and launching our Electron rocket across our launch sites and test facilities in the United States and New Zealand. Electron is one of the world's most frequently-launched rockets, and our team behind its success are diligent, move fast, and have each others' back to deliver a reliable rocket to the launch pad time and time again.
+
+
+About the role
+
+Based in Auckland, NZ, the Senior HITL Engineer is responsible for designing, maintaining, and operating hardware in the loop (HITL) systems. You will support the Production, Electron, and Neutron organizations, with deliverables required from the business leadership team.
+
+WHAT YOU'LL GET TO DO:
+
+
+Work within a small team dedicated to designing, operating, and maintaining the avionic test systems to support all of Rocket Lab's mission from the production floor to the launch operations.
+Ensure the HITL systems are subjected to an appropriate level of engineering rigor and documentation.
+Work with other teams to verify the functionality and performance of the Rocket Lab avionics components.
+Operate launch vehicle simulation platform for Day of Launch operations for specific missions.
+Work hands-on with test and flight space hardware.
+Make and maintain accurate technical documentation via system diagrams, schematics, ICDs, procedures, test/anomaly reports.
+Analyze test results from raw data for pass/fail criteria.
+Troubleshoot root cause from anomalies and communicate the results and path forward with internal teams, vendors, and customers.
+Operate and capture data from test equipment (DMMs, oscilloscopes, logic analyzers, spectrum analyzers, etc.).
+Prioritize, manage, and drive multiple projects at the same time.
+Work on the HITL standardization processes and automation.
+Provide technical expertise and training for the more junior HITL team members.
+YOU'LL BRING THESE QUALIFICATIONS:
+
+
+Bachelor's degree in mechatronics, electronics, computer science, aerospace engineering, or related field.
+8+ years of engineering experience with hardware or software development.
+Experience with designing and implementing electronics test systems.
+Experience writing rigorous test procedures.
+Meticulous with configuration management and documentation.
+Experience with designing and assembling test racks.
+THESE QUALIFICATIONS WOULD BE NICE TO HAVE:
+
+
+Master's or PhD in mechatronics, electronics, computer science, aerospace engineering, or related field.
+Prior experience working on a HITL test, Avionics test, or Software test team.
+Ability to understand and create technical documentation via system diagrams, schematics, ICDs, procedures, test/anomaly reports.
+Prior experience participating to design and acceptance reviews.
+Theoretical and practical understanding of electronic systems.
+Strong troubleshooting skills and an aptitude for technical guidance and mentoring of junior engineers.
+Ability to work under pressure and adhere to tight deadlines.
+Have the mindset of actively make and break to find flaws and issues and report them.
+Experience with harness manufacturing, electrical connectors, crimping, and soldering.
+Familiarity with Ethernet, RS485/422/232, CAN, LVDS, SpaceWire protocols.
+Strong understanding of sensors, signal conditioning, and data acquisition electronics.
+Experience with computer networking: switching, routing and subnetting.
+Familiarity with CAD for test fixture and support equipment layout/design.
+Experience reading engineering drawings.
+Experience with PLCs, relays, and power systems.
+Familiarity with Python, C++, C#, Linux, CI/CD, Git, NX and SolidWorks.
+Knowledge of spacecraft systems or similar highly complex and autonomous systems.
+Experience with general design, documentation, and presentation in Microsoft Suite (Teams, Excel, Word, PowerPoint).
+Experience with quality reporting and management, work instruction peer review, test procedure or data review, and time recording in Jira.
+Experience supporting production engineers.
+Prior project management experience, juggling multiple timelines and milestones.
+Ability to be self-motivated.
+
+WHAT TO EXPECT
+
+We're on a mission to unlock the potential of space to improve life on Earth, but that's not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work and out-pace. We pride ourselves on having each other's backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.
+
+Important information:
+
+FOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here.
+
+Rocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Applicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.
+
+FOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:
+
+For security reasons background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.
+
+Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations."
+91956303,Graduate AI Engineer,Tranzformd,https://www.seek.com.au/job/91956303?type=standard&ref=search-standalone&origin=jobCard#sol=9deecb8ba70a0d48ef1dee866696b2a8fb4d84fc,3h ago,3.0,2026-05-07T00:00:00+00:00,Sydney NSW (Hybrid),Other (Consulting & Strategy),Full time,NA,"Are you ready to unlock your true potential?
+Who are we? #Tranzformd
+
+Tranzformd is a management consulting and program delivery company. We leverage our extensive network of highly motivated, skilled and experienced professionals to deliver optimal results for enterprise business.
+Through our bespoke, human-centric engagement style, Tranzformd partners with ambitious organisations to achieve transformational goals.
+We are passionate about transforming the consultants of today into the consultants of the future. We empower our people to do their best work through exceptional training, development and mentoring programs, and together we produce world-class outputs.
+As a consultancy, we work on diverse projects that provide continuous learning, dynamic client interaction, and the opportunity to impact businesses of all sizes and sectors.
+
+About the Role
+
+At Tranzformd Consulting, we help some of Australia's leading organisations rethink how they work through technology, transformation, strategy and innovation.
+
+Now, we're looking for the next generation of AI talent.
+
+This is not your standard graduate role. You won't be stuck doing admin work or sitting on the sidelines. From day one, you'll work alongside experienced consultants and transformation leaders helping enterprise clients explore and implement real-world AI solutions across industries including energy, healthcare, financial services, education, and government.
+
+Whether you're finishing your degree or already graduated, this is an opportunity to build cutting-edge AI capability while working on meaningful transformation programs that genuinely impact how organisations operate.
+
+We're open to candidates looking to start part-time while completing university, transitioning into full-time once studies are complete.
+
+The opportunity #yourrole
+By joining Tranzformd, you will work with ASX listed companies on transformation strategies, initiatives and programs of work. This may include, but is not limited to, the following:
+
+Key Responsibilities
+
+As an AI Engineer Graduate Consultant, you'll help design, prototype, and deliver innovative AI-driven solutions for enterprise clients and internal innovation initiatives. Depending on your skills and interests, you may work across:
+
+Building AI applications, automations, and proof-of-concepts using modern AI technologies
+Developing and integrating Large Language Model (LLM) solutions into business processes and digital products
+Working with structured and unstructured data to generate insights and improve decision-making
+Supporting AI strategy and innovation workshops with clients
+Experimenting with emerging tools across generative AI, machine learning, intelligent automation, and AI copilots
+Collaborating with consultants, developers, business analysts, and solution architects on transformation programs
+Assisting with prompt engineering, AI testing, model evaluation, and continuous improvement activities
+Helping organisations understand how AI can practically improve operations, customer experience, and ways of working
+Contributing to internal innovation initiatives, accelerators, and thought leadership within Tranzformd
+
+What We're Looking For
+
+We're less interested in ""perfect experience"" and more interested in curious people who love technology, solving problems, and building things.
+
+You might be studying or recently completed a degree in:
+
+Computer Science
+Software Engineering
+Artificial Intelligence
+Data Science
+Information Technology
+Mathematics or related disciplines
+
+We'd love to see exposure to some of the below (but you do not need all of them):
+
+Python, JavaScript, or other programming languages
+AI/ML frameworks or APIs
+Generative AI tools and LLM platforms
+Data engineering or analytics concepts
+Cloud technologies such as Azure, AWS, or GCP
+GitHub or collaborative development tools
+Personal AI projects, hackathons, startups, or university projects
+
+Most importantly, you're someone who:
+
+Is naturally curious and excited by emerging technology
+Wants to work directly with clients and understand real business challenges
+Enjoys collaborating with people and bringing ideas to life
+Can think creatively while also solving practical problems
+Is motivated to learn quickly in a fast-moving consulting environment
+
+Who are you joining? The #Tranzformd community
+
+#Tranzformdawards2024 & 2025
+
+6th in the Deloitte Tech Fast 50 2024, and 39th in 2025
+28th in the The Australian Financial Review hashtag#AFR Top 100 Fast starters 2024
+
+Our vision:
+To bring the best, most experienced talent on the market and pair it with a relentless commitment to excellence, quality, and risk management, to consistently achieve exceptional outcomes that exceed expectations.
+
+Varied and Impactful Projects: At #Tranzformd you'll work on diverse, high-impact projects across multiple industries.
+* Accelerated Professional Development: We're committed to helping you advance your career, with ongoing training and mentorship from our team of experts and community.
+* Collaborative & Supportive Environment: You'll join a team that values collaboration and knowledge-sharing. We learn together, solve problems, and support each other to deliver the best results for our clients.
+* Work-Life Balance & Flexibility: We understand work-life balance matters. With flexible work options, you can design a schedule that works for you while delivering top-tier results for our clients.
+* Competitive Compensation & Benefits: Enjoy a competitive salary, comprehensive benefits, and a rewarding career path with opportunities for advancement.
+
+If you're ready to make a difference in the world of transformation and work on exciting, diverse projects, join us at #Tranzformd, a consultancy that values innovation, growth, and teamwork."
+91956135,Senior Data Engineer,The University Of Melbourne,https://www.seek.com.au/job/91956135?type=standard&ref=search-standalone&origin=jobCard#sol=369b7ab589ca11242de78f7e3db4606898cabfac,3h ago,3.0,2026-05-07T00:00:00+00:00,"Parkville, Melbourne VIC (Hybrid)","Database Development & Administration (Information & Communication Technology)
+Other (Education & Training)",Full time,$146049 - $151191 p.a. + plus 17% super,"Role type: Full-time; Continuing
+Faculty: Chief Operating Officer Portfolio
+Department/ School: Operational Performance Group
+Salary: UOM 9 $146,049 - $151,951 p.a. plus 17% super
+
+Design and optimise scalable data pipelines / Collaborate on cutting-edge analytics projects / Enhance data security and governance
+Apply now to take ownership of critical data infrastructure, mentor the next generation of data engineers, and shape the technical direction of analytics and ML capabilities serving the entire University community.
+Investing in you - benefits package including salary packaging, health and wellbeing programs, discounted services, and professional development opportunities.
+
+The University of Melbourne
+We take pride in our people, who all contribute to our mission to benefit society through the transformative impact of education and research. Discover more via our website.
+
+Your next career opportunity
+As a Senior Data Engineer, you will have the opportunity to design, build, and maintain robust data pipelines within the University's Enterprise Data Lake. You will work closely with cross-functional teams to support advanced analytics and machine learning, ensuring seamless data integration and high performance. Your expertise will be pivotal in driving data governance and security, contributing to a transformative data environment.
+
+Your responsibilities will include:
+
+Architect, built and own production data pipelines supporting University wide analytics and reporting, ensuring reliability, performance and data quality.
+Lead technical design for data integration projects, translating business requirements into scalable solutions with full delivery accountability.
+Mentor and develop data engineering members, establishing coding standards, conducting design reviews, fostering excellence.
+Define and evolve data engineering best practices, evaluating emerging technologies and influencing technical direction.
+
+You may be a great fit if:
+You are an experienced data engineer with deep expertise in Snowflake and dbt, a track record of leading and mentoring engineering teams, and solid experience with AWS technologies, adept at leading pipeline development and optimising data storage and retrieval, while collaborating effectively in cross-functional teams.
+
+You may also:
+
+Have 10 or more years of experience in data engineering, particularly with Snowflake and dbt in production environments
+Demonstrate deep hands-on experience with Snowflake (architecture, performance tuning, data modelling) and dbt (modelling, testing, documentation, CI/CD integration).
+Possess strong proficiency in Python and SQL for data processing and transformation.
+Strong experience with AWS services (S3, Glue, Lambda, CDK) and CI/CD pipelines.
+Exhibit excellent problem-solving skills for optimising data pipeline performance.
+Be skilled in communicating complex data engineering concepts to diverse stakeholders.
+
+For further information, please refer to the attached PD.
+
+What we offer you!
+We offer the opportunity to be part of a vibrant community and enjoy a comprehensive range of benefits to support your success and sense of fulfilment, including:
+
+Supportive flexible work arrangements underpinned by our commitment to inclusion and well-being .
+Progressive, considerate leave provisions to empower your work-life balance
+Salary packaging and access to a range of discounted services including Bupa health insurance
+Health and well-being services including a leading Employee Assistance Program
+
+For more information check out our benefits page!
+
+Your new team - Operational Performance Group
+The Operational Performance Group delivers functions that facilitate the design, evaluation, and improvement of services across the University, and business partnering services to Chancellery. The OPG brings together a range of cognate business functions and expertise such as Data Governance, Management and Analytics; Business Transformation and Decision Support; Operational and Service Improvement, Service Design, Experience, Culture and Capabilities; Digital Operations; and Business Continuity Planning.
+
+Be Yourself
+The University of Melbourne is an Equal Opportunity Employer and a child-safe organisation. We believe the diversity of our community enriches us all, and we are committed to creating an inclusive and fair workplace where everyone is valued, respected, and empowered to succeed. We welcome applicants from all backgrounds, identities, and experiences. Discover more about Diversity and Inclusion at UniMelb.
+
+
+We're committed to a barrier-free recruitment process and ongoing workplace support, providing reasonable adjustments throughout. We warmly encourage applications from people with disabilities. For assistance, please contact Kim Groizard on +61 • •••• •218 or at hr-•••••••@unimelb.edu.au (subject: 'Recruitment Adjustments'). Contact details for other enquiries are located at the bottom of this page.
+
+Find more information for applicants requiring reasonable adjustments.
+
+Aboriginal and Torres Strait Islander Applicants
+We aspire to be the University of choice for Indigenous Australians. Our Indigenous strategy, Murmuk Djerring outlines our investment and support for Aboriginal and Torres Strait Islander staff and students.
+
+Indigenous applicants are encouraged to connect with our Indigenous Employment & Development team at oie••••@unimelb.edu.au for further information and support.
+
+
+Please note: This role requires current valid work rights for Australia. Visa sponsorship is not available.
+
+
+A Working with Children Check (WWCC) is required for all positions. If successful, we'll guide you through the WWCC application process during onboarding and reimburse the cost.
+
+
+
+Join Us and unlock your career potential!
+If this role is right for you, please apply with the following documents:
+
+Resume
+Cover Letter outlining your interest and experience (Essential)
+
+Learn more about the application process, including tips and FAQs.
+
+For recruitment queries, please email Mick Powar hr-•••••••@unimelb.edu.au. Please include the Position Number and Job Title in the subject line. Please do not send applications to this email address.
+
+For job-specific queries, refer to the contact details in the Position Description.
+
+
+
+
+Applications close: Sunday 24th May 11:55 PM; Melbourne time zone.
+
+Position Description:
+
+JR-008545 - Senior Data Engineer - UOM 9 PD.pdf
+
+JR-008545 - Senior Data Engineer - UOM 9 PD.docx"
+91955847,Pathology Systems Engineer,Kestral Computing,https://www.seek.com.au/job/91955847?type=standard&ref=search-standalone&origin=jobCard#sol=ad217b43234977a37742bc08f9c80dfd832e1ef1,4h ago,4.0,2026-05-06T23:00:00+00:00,"Heidelberg, Melbourne VIC (Hybrid)",Pathology (Healthcare & Medical),Full time,"$76,515 – $80,000 per year","What Kestral is all about 
+
+Kestral is passionate about creating the industry standard in Radiology and Pathology information technology. We provide innovative software solutions that support laboratories and clinicians across Australia to deliver accurate, timely healthcare outcomes. 
+
+At Kestral, we thrive on working with talented, motivated people who enjoy solving problems, improving systems, and making a genuine impact through technology. We’re a collaborative, high‑performing team with a shared commitment to quality, innovation, and customer outcomes. 
+
+Join us and be part of a team that is genuinely proud of what we build and the difference it makes in healthcare. 
+
+
+
+
+What you’ll be doing at Kestral 
+
+We are seeking a Pathology Systems Engineer to join our Pathology Laboratory Systems (PLS) team. This role plays a critical part in supporting, configuring, integrating, and enhancing our pathology software solutions for new and existing customers. 
+
+You’ll work closely with laboratory and IT teams, developing technical solutions that support laboratory workflows, system integrations, reporting, and automation—while providing high‑quality customer support and continuous improvement. 
+
+
+
+
+Key Responsibilities 
+
+Assist with the installation, configuration, and ongoing support of Kestral pathology systems for customer laboratories 
+
+Design, develop, test, deploy, and maintain software scripts, report definitions (RDLs), and system configurations that underpin:  
+
+Laboratory reporting 
+
+Instrument interfacing and data integration 
+
+HL7 message transformations and interoperability 
+
+Diagnose and resolve complex system, integration, and data issues across development, test, and production environments 
+
+Work directly with customers to understand laboratory workflows, identify system limitations, and recommend improvements or automation opportunities 
+
+Conduct site visits to observe workflows, engage with laboratory and IT staff, and deliver practical, fit‑for‑purpose solutions 
+
+Provide proactive customer and account support, including logging and managing support requests, upgrades, and enhancements 
+
+Contribute to successful system upgrades, installations, extensions, and post go‑live support 
+
+Develop and maintain technical and training documentation, and deliver training to customers and internal staff as required 
+
+Collaborate with colleagues across Kestral on technical issues, projects, and continuous improvement initiatives 
+
+Explore and evaluate emerging technologies, including AI‑driven tools and modern healthcare integration standards, to support innovation within pathology systems 
+
+
+
+
+What we’re looking for 
+
+Skills & Experience 
+
+Australian recognised qualifications in IT and experience working with computer systems and supporting information systems 
+
+Demonstrated technical aptitude, with proven ability to develop, test, deploy, and maintain scripts and software configurations across laboratory reporting, instrument integration, data transformation systems and AI‑driven analytical tools 
+
+Proven ability to diagnose and resolve software defects, system errors, interface failures, and integration issues by tracing problems through multiple system layers, including undertaking software testing prior to customer delivery 
+
+Capability to assess complex laboratory workflows through direct customer engagement and observation, and convert findings into documented business requirements, improvement recommendations, and implemented technical solutions 
+
+Ability to identify manual or repetitive processes within laboratory workflows and develop scripted or automated solutions to improve efficiency and reduce errors 
+
+Experience working with healthcare or complex integrated systems, preferably within pathology or radiology environments 
+
+Experience working with healthcare interoperability standards, including HL7 and FHIR, and building or maintaining message transformation scripts and integration mappings 
+
+Experience providing customer and product support, including building and maintaining effective customer relationships and delivering outcomes that support customer satisfaction 
+
+Experience developing, maintaining, and delivering training materials and documentation, and providing training to customers and internal staff 
+
+Professional and effective written and verbal communication skills, with the ability to liaise effectively with customers, users, and colleagues across all parts of the business 
+
+Ability to work effectively as part of a team or independently when required, including collaborating with colleagues to meet shared objectives 
+
+Ability to manage workload through effective prioritisation, multitasking, and keeping relevant stakeholders informed of progress 
+
+High level of self‑motivation, professionalism, integrity, and maturity in presentation, attitude, and behaviour 
+
+Knowledge of Australian healthcare regulatory frameworks, including NATA, TGA, RCPA, and Medicare  
+
+
+
+
+Want to get started? 
+
+If this role sounds like a great fit for you, we’d love to hear from you. Please submit your CV and an optional cover letter outlining your experience and interest in joining the Kestral team. 
+
+Kestral is a subsidiary of Jonas Software, a leading provider of enterprise management software for more than 40,000 customers across 15 countries. Jonas Software is a wholly owned subsidiary of Constellation Software Inc. (TSX: CSU)."
+91955786,Solutions and Insights Specialist,Valocity Limited,https://www.seek.com.au/job/91955786?type=standard&ref=search-standalone&origin=jobCard#sol=7fdbc8562862b3b62d3828cd84a9950383edd97c,4h ago,4.0,2026-05-06T23:00:00+00:00,Sydney NSW (Hybrid),Business/Systems Analysts (Information & Communication Technology),Full time,"$115,000 – $140,000 per year plus superannuation","Valocity overview
+
+At Valocity, we build the digital infrastructure that powers confident property decisions around the world.
+
+Our products sit at the centre of how property is valued, bought, sold, financed, and insured. We combine decision-critical data, AI-driven insights, and workflow-embedded software to help professionals make better decisions, faster, and with greater confidence.
+
+Valocity is used across more than 4,000 cities globally, supporting lenders, valuers, brokers, insurers, real estate agents, and enterprise partners across multiple markets and regulatory environments. We are not building one-off tools. We are building platforms our customers rely on every day to run their businesses.
+
+Our innovation and impact have been on the global stage, including:
+
+Winner, Best International Fintech, India Fintech Forum 2026
+
+Runner up, Global fintech of the year, Singapore Fintech Festival 2022
+
+With teams across New Zealand, Australia, and India, Valocity is growing fast and thinking long-term. Design is central to that growth. It is how we simplify complex problems, create trust at scale, and deliver consistent, high-quality experiences across every market we serve.
+
+Valocity Australia is seeking a full-time Solutions and Insights Specialist to support its growing data solutions and platform integration operations. The role focuses on analysing business needs, translating them into system requirements, and supporting the implementation of data-driven solutions across the organisation. The position works closely with stakeholders across product, engineering, analytics, and client-facing teams to ensure effective solution delivery and continuous system improvement.
+
+What You’ll be Responsible For:
+
+·        Engage with internal and external stakeholders to elicit, analyse, and document business requirements, system needs, and functional objectives
+
+·        Analyse existing business processes, operational workflows, and system integrations to identify inefficiencies and recommend improvements
+
+·        Translate business requirements into detailed functional specifications, user stories, and technical documentation for product and engineering teams
+
+·        Conduct feasibility studies, gap analysis, and impact assessments for system enhancements, data integrations, and process improvements
+
+·        Facilitate stakeholder workshops, interviews, and requirement validation sessions to ensure accuracy, completeness, and alignment of requirements
+
+·        Act as a liaison between business stakeholders and technical teams to ensure system solutions align with business objectives and operational needs
+
+·        Support the design and implementation of system and data solutions, ensuring alignment with defined requirements and organisational standards
+
+·        Collaborate with cross-functional teams, including product, engineering, and analytics, to ensure effective delivery of system solutions
+
+·        Assist in system testing activities, including user acceptance testing (UAT), to validate that implemented solutions meet business and functional requirements
+
+·        Develop and maintain documentation such as business requirement documents (BRDs), functional specifications, process maps, and workflow diagrams
+
+·        Monitor system performance, user adoption, and stakeholder feedback to identify opportunities for continuous improvement
+
+·        Provide recommendations on system enhancements, process optimisation, and technology improvements to support business operations and decision-making
+
+Required Skills and Experience:
+
+·        Bachelor’s degree in IT, Computer Science, Data Analytics, or a related field
+
+·        Minimum 3 years of relevant experience in business analysis or systems analysis
+
+·        Demonstrated experience in requirements gathering, process mapping, and system analysis
+
+·        Experience working with cross-functional teams including product and engineering
+
+·        Exposure to data visualisation tools (e.g. Power BI, Tableau) and basic SQL
+
+·        Strong analytical, problem-solving, and stakeholder communication skills
+
+What We Offer:
+
+·        Competitive salary package aligned with market standards
+
+·        Opportunity to work in a high-growth proptech and data-driven environment
+
+·        Exposure to cutting-edge data, analytics, and platform solutions across the property and financial services sector
+
+·        Collaborative and supportive team environment with cross-functional learning opportunities
+
+·        Long-term career growth in business analysis, data solutions, and technology consulting
+
+Employer questions
+
+Your application will include the following questions:
+
+·        What is your current work authorisation status in Australia?
+
+·        Do you have at least 3+ years of experience in business analysis, data analytics, or a technology-related role?
+
+·        Do you have experience working with cross-functional teams (e.g. product, engineering, analytics)?
+
+·        Do you have experience in gathering and documenting business and system requirements?
+
+·        Do you hold a relevant qualification in IT, Computer Science, Data Analytics, or a related field?
+
+Interested?
+
+Due to the high volume of applications, only shortlisted candidates will be contacted. Please apply through the platform and ensure your resume is up to date.
+
+Australian Citizens and Permanent Residents are encouraged to apply."
+91955374,Senior Systems Engineer (Autonomy),Boeing Defence Australia,https://www.seek.com.au/job/91955374?type=standard&ref=search-standalone&origin=jobCard#sol=8276963ca7140025b1046d55ddab3c8921bd7c92,4h ago,4.0,2026-05-06T23:00:00+00:00,Brisbane QLD (Hybrid),Systems Engineering (Engineering),Full time,,"Boeing Global Technology - Australia (BGT-A) supports the future growth and profitability of Boeing Australia's businesses and the broader Boeing enterprise. This advanced research and development arm creates future aerospace solutions while improving the cycle time, cost, quality and performance of current systems.
+
+This role is based in Brisbane City and St Lucia, QLD.
+
+As a Senior Systems Engineer (Autonomy), you will:
+
+Apply systems thinking to model, integrate, verify and validate interoperable autonomy services within the autonomous system architecture. These may include flight autonomy, mission autonomy, mission systems, C2 environments, devops and operational testing.
+Coordinate cross-functional and business unit stakeholders to capture the technical and non-technical data required across the systems engineering lifecycle.
+Employ best practice in Model-Based Systems Engineering and Mission Engineering to develop, interrogate and export system model descriptions that are clear and reviewable for cross-functional stakeholders.
+Design performance measures at different levels of the system hierarchy that reflect impact on the overall system, and the aggregation of sub-system measures into overall system performance.
+Develop and execute verification and validation test plans using simulation and flight tests.
+Make recommendations that support decisions under risk and under extreme uncertainty; adapt with agility as the situations evolve.
+Extend the state of the art in aerospace systems design to support functional allocation of traditionally human-executed functions between human and autonomy components of the system.
+
+About you
+
+To be successful in this role you will have:
+
+Required:
+
+Tertiary qualification in systems engineering, other engineering disciplines (including aerospace, mechatronics, electrical, or software), computer science, physics or related disciplines.
+Five (5) or more years of experience in professional engineering or research roles (or equivalent combination of higher degree and professional experience).
+Professional experience in Systems Engineering.
+Ability to work effectively in ambiguous, fast-changing technical environments.
+Ability to work both as an independent contributor, and as an active collaborator within a cross-disciplinary team.
+Be an Australian citizen and hold, or fulfill the requirements to obtain a NV-1 Australian Defence security clearance.
+
+Desirable:
+
+Experience in Model-Based Systems Engineering and SysML.
+Experience in tools, including Dassault MSOSA and devops test pipelines.
+Demonstrated experience in autonomous systems or robotics applications.
+Demonstrated systems engineering experience for the earlier developmental / prototyping stages of technology."
+91954645,AI-Assisted Modernisation Engineer,CI&T,https://www.seek.com.au/job/91954645?type=standard&ref=search-standalone&origin=jobCard#sol=1ce1f88bf4eda5dc6e94f9cb3c454d37836ee4ba,6h ago,6.0,2026-05-06T21:00:00+00:00,Brisbane QLD,Testing & Quality Assurance (Information & Communication Technology),Full time,,"At CI&T, we're redefining the future of digital experiences with the power of AI technology. We are on the lookout for a highly technical, AI-forward professional to drive a major legacy migration and modernisation project, combining the best of business analysis and automation quality assurance.
 
 About the Role:
 
@@ -22,7 +734,7 @@ AI/LLM Proficiency: Hands-on experience using LLMs (e.g., GPT-4, Claude 3.5) fo
 Code Literate: Ability to read and understand complex code structures in languages such as Java, C#, Python, or others relevant to legacy and modern systems.
 QA Automation Expert: Familiarity with test automation principles and integration of AI-generated tests into continuous integration pipelines.
 Critical Thinker: Exceptional critical thinking skills to validate AI outputs and ensure comprehensive test coverage."
-91953665,AI Information Scientist,Bilue Pty Ltd,https://www.seek.com.au/job/91953665?type=standard&ref=search-standalone&origin=jobCard#sol=172a29e17bc64dd05dec504fd9d643f5476ef98c,5h ago,5.0,2026-05-06T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+91953665,AI Information Scientist,Bilue Pty Ltd,https://www.seek.com.au/job/91953665?type=standard&ref=search-standalone&origin=jobCard#sol=2ccce2e4507015f2753cd02c975332f26f8d4b1d,9h ago,9.0,2026-05-06T18:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Bilue is a digital consultancy that designs and builds smart, user-friendly technology for some of Australia’s most well-known businesses. From mobile apps to beautifully designed web platforms and digital experiences, we create solutions that drive impact and deliver exceptional customer outcomes.
