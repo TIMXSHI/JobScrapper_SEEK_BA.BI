@@ -1,1 +1,162 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+92049096,AI Security Architect,M&T Resources,https://www.seek.com.au/job/92049096?type=standard&ref=search-standalone&origin=jobCard#sol=333df4989df6cef71bb5440ff91e90cfc5831797,2h ago,2.0,2026-05-12T01:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,$125p.h. to $150p.h. incl super,"About the Role
+As an AI Security Architect be part of the Architecture & Delivery (A&D) team, driving secure architecture and end‑to‑end solution design. The focus is on Generative AI (GenAI) and Machine Learning (ML) initiatives where secure reference architectures and designs are essential.
 
+Key Responsibilities
+
+Embed security‑by‑design across AI models, data, APIs, and integrations to ensure systems are resilient, compliant, and scalable.
+Champion DevSecOps and strong application security practices in all projects.
+Create secure solution‑architecture artifacts for AI/ML initiatives, from design through to operations handover.
+Perform AI‑specific threat modelling (e.g. adversarial attacks, prompt injection, model/data leakage) and enforce secure patterns.
+Develop and maintain reusable AI security reference architectures and patterns, aligned with enterprise architecture and regulatory requirements.
+Provide technical leadership and guidance to stakeholders, promoting adoption of secure AI / integration patterns.
+Maintain architecture documentation and relevant tools (e.g. LeanIX).
+Ideal Candidate Profile
+
+Deep experience in enterprise solution architecture with AI/ML systems and cloud‑native platforms (AWS, Azure, etc.).
+Proven experience in security architecture and integration patterns.
+Comfortable working in agile / DevSecOps contexts.
+Excellent communication, stakeholder management, and problem‑solving skills.
+Preferred Knowledge
+
+Familiarity with GenAI security patterns (e.g. LLM baseline protections, SaaS GenAI integration).
+Understanding of regulatory / AI security frameworks (Australian Privacy Act, GDPR, NIST CSF, OWASP AI/LLM Top 10, and MITRE ATLAS) Practical DevSecOps+2MITRE ATLAS+2.
+Strong knowledge of integration styles like REST APIs, event‑driven architectures (Kafka, GraphQL, API Gateway).
+Application security tools / practices such as SAST, DAST, CI/CD.
+
+Next steps:
+Does this sound like you? If you have the skills and experience, we're looking for please click 'Apply Now', or please send your updated CV to sun••••••••@mtr.com.au Alternatively please call 03 •••• •720 for a confidential discussion about the role."
+92049022,Automation and AI Engineer,NobleOak,https://www.seek.com.au/job/92049022?type=standard&ref=search-standalone&origin=jobCard#sol=cadd0071b1526e4f9307334b457c1306c3db5f08,2h ago,2.0,2026-05-12T01:00:00+00:00,Sydney NSW,Engineering - Software (Information & Communication Technology),Full time,,"NobleOak Life Insurance is seeking a dynamic and innovative Automation and AI Engineer to join our IT team at our Sydney office. This is a fantastic opportunity to be part of our IT department in a permanent, full-time position. If you are passionate about cutting-edge technology and want to make a significant impact in the field of automation and artificial intelligence, then we would love to hear from you. Join us as we continue to pave the way in revolutionising the insurance industry through advanced technological solutions. 
+
+
+
+
+What You Will Be Doing 
+
+Automate workflows across business operations/processes using AI and Automation tools 
+
+Build automation and decision logic using tools such as Power Automate, n8n, LangGraph, Copilot Studio, Python, or the tools best suited to the problem. 
+
+Design and deploy autonomous AI agents and agentic AI solutions to perform tasks independently and interact with users and systems (e.g., summarising data, escalating exceptions, or triggering processes). 
+
+Create practical AI-powered tools and workflows to streamline decision-making and reduce manual admin. 
+
+Integrate multiple systems through MCP, APIs, file exchanges, and direct data connections 
+
+Work directly with internal users to train, refine, and improve solutions based on real-world feedback. 
+
+Key Responsibilities 
+
+Build and deploy workflow automations using tools such as  Power Automate, n8n, LangGraph, Logic Apps, and Copilot Studio. These must have experience. 
+
+Design and implement AI agents that can execute tasks autonomously and interact with users as part of the human in the loop process. 
+
+Integrate with AI Services (Azure foundry, AWS Bedrock). 
+
+Develop secure and scalable API integrations between business systems (Dynamics 365, SharePoint, Teams, external apps). 
+
+Continuously optimse and support automation solutions to improve reliability and user experience. 
+
+Stay current with evolving Agentic AI frameworks and tools 
+
+
+
+
+Skills & Experience
+
+Must-Have: 
+
+Hands-on experience designing and deploying workflows in Power Automate, n8n, make, and LangGraph. 
+
+At least 5 years of experience working with AI solutions and technologies. 
+
+Practical experience building productionalised AI and Automation solutions. 
+
+Experience developing and integrating AI agents, agent frameworks, or LLM-driven task automation. 
+
+Proficiency with AWS Bedrock, and  Azure AI services, including OpenAI models, Cognitive Services, and Language APIs. 
+
+Strong integration skills using MCP and APIs and experience working with agile teams and DevOps pipelines. 
+
+Experience automating tasks and building integrations using n8n/LangGraph or equivalent platforms. 
+
+Programming and scripting skills in Python, TypeScript, or JavaScript. 
+
+Nice to Have: 
+
+Exposure to agentic frameworks, or custom multi-agent orchestration. 
+
+Familiarity with Microsoft Stack(Dynamics 365) for automation and integration."
+92046313,Anthropic Integration Engineer,Galileo Search,https://www.seek.com.au/job/92046313?type=standard&ref=search-standalone&origin=jobCard#sol=3b7aac8b2259dcefae595f2cb53a3046f9d91311,3h ago,3.0,2026-05-12T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,Great Contract Rates,"Anthropic Integration Engineer
+Join Australia's first AI Talent Marketplace
+Ongoing client assignments through Galileo Search
+
+Sydney / Contract / Hybrid 
+
+The way companies work is about to fundamentally change. Anthropic's Claude and Cowork are replacing legacy workflows across enterprises right now — and the companies making the move need engineers who can build the integrations that make it happen.
+
+Galileo Search is building Australia's first specialist marketplace of certified Anthropic integration professionals. We're not a recruitment agency. We're a curated bench of verified AI specialists who deliver enterprise Claude deployments end-to-end. Think Big 4 consulting but focused entirely on the Anthropic ecosystem.
+
+We're looking for engineers who want to be at the centre of this shift — building Claude API integrations, MCP servers, Cowork skills, and AI-first workflows for enterprise clients across financial services, government, healthcare, and professional services.
+
+What you'll do on client engagements
+Build production Claude API integrations connecting enterprise systems to AI-powered workflows
+Design and deploy MCP (Model Context Protocol) servers that give Claude secure access to internal tools and data
+Create custom Cowork skills and plugins tailored to each client's departments and processes
+Migrate legacy automation (RPA, scripted workflows, manual processes) to Claude-powered alternatives
+Work alongside Solutions Architects, Change Managers, and Project Managers as part of a Galileo delivery team
+What you bring, preferred experience 
+3+ years software development experience in Python, TypeScript, or both
+Strong API integration skills — you've connected systems, built middleware, or worked with REST/GraphQL APIs
+Comfort working in enterprise environments with security requirements, stakeholder management, and documentation expectations
+Genuine interest in AI and LLMs — you don't need to be an expert yet, but you need to be curious and fast-learning
+Nice to have (not required)
+Prior experience with Claude API, OpenAI API, or other LLM platforms
+Familiarity with MCP, Cowork, or Claude Code
+Experience with enterprise platforms (SAP, Salesforce, ServiceNow) as integration targets
+Cloud infrastructure experience (AWS, Azure, GCP)
+What Galileo offers
+Great contract rates depending on experience
+Steady pipeline of enterprise clients — we handle sales, scoping, and contracts so you focus on delivery
+Free Anthropic certification training — we'll get you certified if you aren't already
+You don't need to be an Anthropic expert today. If you're a strong engineer who's excited about what AI is doing to enterprise software and you want to specialise in the ecosystem that's winning — we'll invest in getting you there. We provide the training, the certification pathway, and the client pipeline. You bring the engineering skills and the drive.
+
+To apply: Submit your CV and a brief note on why the Anthropic ecosystem interests you. If you've built anything with Claude, LLMs, or AI tools — share it. We review every application personally."
+92046285,AI Solutions Architect,Galileo Search,https://www.seek.com.au/job/92046285?type=standard&ref=search-standalone&origin=jobCard#sol=5ba1c5f03110319fa9c9e8c2ca554190b58a11a7,3h ago,3.0,2026-05-12T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Contract/Temp,Great Contract Rates,"AI Solutions Architect
+Design Enterprise Anthropic Integrations 
+
+Galileo Search
+Sydney / Contract / Hybrid
+
+Engagement: Ongoing client assignments through Galileo Search
+
+Enterprise Australia is moving to AI-first operations — but most companies have no idea how to architect the transition. They have legacy ERP systems, on-premise data, compliance requirements, and thousands of employees who've never used an AI tool. Someone needs to design how Claude fits into that reality.  That someone is you.
+
+Galileo Search is building a specialist talent pool of certified Anthropic professionals who deliver enterprise Claude and Cowork deployments.
+
+As a Solutions Architect on the Galileo marketplace, you'll be the person who walks into a complex enterprise environment, understands their stack, and designs how Anthropic's ecosystem integrates with everything they already have.
+
+What you'll do on client engagements
+Assess client technology landscapes and design Claude integration architecture — what connects to what, how data flows, where AI adds value
+Define security architecture for Claude deployments — data classification, access controls, API key management, audit logging
+Design MCP server topology — which internal systems Claude needs to access and how to do it securely at scale
+Create architecture decision records, integration patterns, and technical roadmaps that engineering teams can execute against
+Present to C-suite and technology leadership — translate technical architecture into business outcomes
+Guide Galileo's Integration Engineers and Config Specialists through implementation of your designs
+What you bring
+8+ years in technology roles with at least 3 years in architecture or technical leadership
+Enterprise architecture experience — you've designed systems that serve thousands of users across multiple business units
+Cloud platform expertise (AWS, Azure, or GCP) including networking, security, and identity
+Understanding of enterprise integration patterns — APIs, event-driven architecture, middleware, ETL
+Ability to communicate architecture decisions to both engineers and executives
+Experience in regulated industries (financial services, government, healthcare) is highly valued
+Bonus if you have the following (but not required)
+Prior experience designing AI/ML system architecture
+Familiarity with Anthropic's Claude API, MCP protocol, or Cowork platform
+TOGAF, AWS Solutions Architect, or equivalent certification
+Experience with zero-trust security models
+What Galileo offers
+Great contract day rates — reflecting the seniority and impact of the role
+Free Anthropic certification and training to complement your existing architecture skills
+A delivery team underneath you — Integration Engineers, Config Specialists, and PMs who execute your vision
+To apply: Share your CV and a brief overview of the most complex integration architecture you've designed. We're looking for people who think in systems, not just components."
