@@ -1,40 +1,451 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-92075440,Solution Architect - Energy Assets,Chandler Macleod,https://www.seek.com.au/job/92075440?type=standard&ref=search-standalone&origin=jobCard#sol=00c0c1b1262fb9365d0c4c09b9c9472144e0dfd6,2h ago,2.0,2026-05-13T02:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Electrical/Electronic Engineering (Engineering),Contract/Temp,competitive market rates on offer,"We’re seeking an experienced Solution Architect to support a large-scale Energy Assets portfolio with our client AGL, delivering end-to-end solutions across complex operational and enterprise environments.
+92087911,Cloud Engineer (AWS) | SaaS,MVSI OnBoard,https://www.seek.com.au/job/92087911?type=standard&ref=search-standalone&origin=jobCard#sol=81490328bad67589ec56be3fb36ad3ede1d29c3c,1h ago,1.0,2026-05-13T06:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About the Role
 
-This is a contract opportunity working across a diverse asset base including thermal, wind, hydro, and battery energy storage systems (BESS), with a strong focus on aligning technology to business strategy and future-state architecture.
+Take charge of AWS
 
-This is an initial six month contract, based in Melbourne CBD in a hybrid working environment.
+MVSI is seeking a highly skilled Cloud Engineer to manage, optimise and scale the global AWS platform powering OnBoard, our world-class SaaS merchant onboarding solution trusted by enterprise customers worldwide.
 
-Key Responsibilities
+This is an opportunity to work on a mission-critical platform operating across APAC, EMEA and the US, where uptime, scalability, security and performance directly impact customer experience and business growth.
 
+You will play a key role in managing and evolving our multi-region AWS infrastructure, ensuring the platform remains highly available, resilient and secure as we continue to scale globally. Working closely with Engineering, QA and Product teams, you’ll help drive operational excellence across automation, observability, disaster recovery and cloud optimisation.
 
-Design and deliver end-to-end solution architectures across Energy Assets technology environments
-Ensure solutions are fit-for-purpose, scalable, secure, and aligned to business outcomes
-Provide oversight of designs, implementation quality, and adherence to architecture standards
-Collaborate closely with business stakeholders, engineering teams, and vendors
-Assess and validate third-party solutions, estimates, and technical approaches
-Contribute to architecture forums, driving standards, patterns, and continuous improvement
-Support integration across IT and Operational Technology (OT) landscapes
+This is a hands-on role suited to someone who thrives in high-availability SaaS environments, enjoys solving complex infrastructure challenges and takes pride in building reliable, modern cloud platforms at scale.
 
-About You
+Role Responsibilities
 
+Design, deploy and maintain scalable, secure and highly available AWS infrastructure across multiple geographic regions including; APAC, EMEA and the US.
 
-Proven experience as a Solution Architect in complex enterprise environments
-Demonstrated experience within Operational Technology (OT) environments 
-Strong background in infrastructure architecture (cloud + on-prem)
-Deep understanding of networking, security, identity, storage, and DR
-Exposure to critical infrastructure risk frameworks (e.g. AESCSF)
-Strong stakeholder engagement skills with the ability to influence at all levels
-Experience working in Agile delivery environments (Scrum/Kanban)
+Build and maintain automated cloud environments using Infrastructure as Code (IaC).
+
+Design and manage Infrastructure as Code using Terraform
+
+Own disaster recovery, backup and high-availability strategies focused on maximising platform uptime and reliability.
+
+Manage and optimise containerised workloads and orchestration platforms using Docker and Kubernetes.
+
+Ensure security best practices for our AWS services; conducting regular security assessments and audits of cloud environments.
+
+Collaborate with the Technology and QA Teams to resolve cross-functional issues.
+
+What we’re looking for?
+
+Minimum of 3 years hands-on AWS Cloud Engineer or SRE experience in a commercial, SaaS environment. (Essential)
+
+Deep expertise designing, deploying and managing scalable AWS cloud infrastructure and services, including and not limited to; EC2/ECS/EKS, RDS/Aurora, Route 53, CloudFront, ELB/ALB/NLB, VPC networking, IAM, S3, Lambda and CloudWatch.
+
+Strong experience with:
+
+Infrastructure as Code (Terraform preferred)
+
+Monitoring and observability platforms
+
+Disaster recovery planning
+
+Incident management
+
+Strong scripting skills (Python, Bash, Go or similar)
+
+Excellent troubleshooting and problem-solving capability
+
+Experience supporting compliance frameworks such as SOC 2, ISO 27001, PCI or similar.
+
+Why Join MVSI?
+
+First and foremost, fun people, fun culture
+
+Work on a globally deployed AWS platform supporting a mission-critical SaaS product
+
+Be part of a collaborative and high-performing technology team
+
+Influence the reliability, scalability and future architecture of a rapidly evolving platform
+
+Ongoing training and development, exposure to emerging technologies and best practices.
+
+Opportunity to make a real impact in a growing technology business with enterprise customers worldwide
+
+And we have snacks and drink fridges!"
+92086565,Senior Data Engineer,Robert Walters,https://www.seek.com.au/job/92086565?type=standard&ref=search-standalone&origin=jobCard#sol=17a9b176d5c52dad547f6a1dfe426e34521dd6b1,1h ago,1.0,2026-05-13T06:00:00+00:00,Melbourne VIC,Database Development & Administration (Information & Communication Technology),Full time,$180k - $200k p.a. + WFH Flexibility,"An exciting opportunity has arisen for a Data Engineering Specialist to join a highly respected organisation in Melbourne, where your expertise will directly influence the ongoing development and optimisation of enterprise data solutions. This role is perfect for someone who thrives on supporting business transformation through robust data engineering practices, ensuring that data-driven decision-making is at the heart of organisational success.
+
+What you'll do:
+
+As a Data Engineering Specialist based in Melbourne, you will immerse yourself in a variety of engaging projects that underpin the organisation's commitment to leveraging enterprise data for business efficiency. Your day-to-day activities will involve collaborating with diverse teams to develop innovative solutions for the ongoing enhancement of the data warehouse. You will be responsible for designing reliable ETL pipelines, implementing rigorous testing protocols, optimising analytical databases, and ensuring seamless integration between various business intelligence tools.
+
+Provide comprehensive technical and strategic advice to senior management, staff, and stakeholders regarding all aspects of the organisation's data warehouse.
+Develop and maintain robust ETL processes using Microsoft SSIS to ensure efficient loading of the data warehouse.
+Design, implement, and oversee automated integration tests for all data warehouse operations to guarantee reliability and accuracy.
+Create, manage, and optimise analysis services databases and cubes (SSAS), supporting advanced analytics requirements.
+
+What you bring:
+
+To excel as a Senior Data Engineer in this organisation, your background should reflect significant hands-on experience across multiple facets of enterprise-level data management.
+
+Advanced Azure Data Factory (ADF) skills
+Demonstrate extensive experience in database design or integration with SQL Server databases that enables you to architect scalable solutions tailored to organisational needs.
+Possess advanced skills in relational database management systems (RDBMS) including proficiency with SQL language for querying complex datasets efficiently.
+Exhibit deep understanding of Extraction, Transformation and Loading (ETL) processes using Microsoft SSIS which allows you to build reliable pipelines for large-scale data movement.
+
+Robert Walters Australia is acting as an Employment Agency in relation to this vacancy."
+92086279,Staff Engineer,SEEK Limited,https://www.seek.com.au/job/92086279?type=standard&ref=search-standalone&origin=jobCard#sol=c4ad1010a2dd329cdb32694a8b664a017fb4b5b8,1h ago,1.0,2026-05-13T06:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The team
+
+At SEEK, our AI Platform Services (AIPS) teams build platforms and solutions that solve complex information problems and enable AI innovation across the SEEK Group. Teams are cross-functional, multi-disciplinary squads that work within an APAC matrix organisational structure. The AI Platform Engineering teams have a specific mission to provide shared infrastructure, governance, and reusable assets that empower AI and product teams to experiment safely, ship faster, and continuously deliver intelligent, differentiated experiences at scale.
+
+You will work with roles across the engineering spectrum from graduate to lead level, including Software Engineers, Engineering Managers, Heads of Engineering, Software Architects, Data Scientists, ML Engineers, Platform Engineers, Product Managers, Business Analysts, and Iteration Managers.
+
+About the role 
+
+A Staff  Engineer is a technical lead and senior member within our AI Platform Services (AIPS) Engineering teams. You'll be responsible for the technical strategy and direction of SEEK's GenAI and ML Platforms, ensuring these systems are highly available, resilient, and enable AI innovation at scale. Embedded within a team, you'll lead cross-team technical initiatives that influence AI platform strategy across AIPS and SEEK more broadly. Your primary focus is designing and building AI platform solutions that enable Data Scientists, Engineers, and product teams to deliver AI-powered experiences rapidly and safely. You bring in-depth technical understanding of AI platform infrastructure, multi-cloud architectures (AWS, GCP), and the operational requirements of GenAI and ML systems, while driving alignment of your team's technical roadmap to SEEK's overall AI strategy.
+
+Responsibilities 
+
+Design and evolve technical architecture for GenAI and ML platform systems, ensuring they are well-architected, highly available, and aligned with SEEK's development practices and technical metrics
+Drive technical strategy that enables SEEK's AI innovation at scale, leading architecture decisions for multi-cloud AI infrastructure (AWS, GCP) and aligning platform capabilities with business objectives
+Build and operate highly scalable, performant AI infrastructure using AWS and Python for platform automation, tooling, and integrations while exemplifying clean, well-tested, secure code
+Lead cross-team technical initiatives that influence AI platform strategy across AIPS, serving as the key point of contact for technical solutions and system interfaces
+Partner with Data Scientists and ML Engineers to enable self-service model development, deployment, and operation while strengthening engineering discipline through understanding of AI/ML operational requirements
+Support the Engineering Manager in capacity planning, risk management, and scoping of technical work while building strong relationships with Architecture, Security, and other AI platform teams
+Grow team member technical capabilities through coaching on AI/ML platform patterns and practices while fostering a culture of safety, inclusivity, and diversity
+Qualifications
+
+Skills and experience 
+
+Proven experience as a Staff Engineer, Principal Engineer, or similar technical leadership role building and operating production platform systems at scale
+Strong expertise in cloud infrastructure and platform engineering, with deep hands-on experience in AWS services and multi-cloud architectures
+Advanced Python programming skills with demonstrated experience building platform automation, tooling, and integrations for highly scalable systems
+Experience with infrastructure-as-code (Terraform), container orchestration (Kubernetes), and observability tools for platform operations
+Track record of leading technical roadmaps and driving platform health initiatives aligned with key technical metrics and SRE principles
+Experience building platforms that enable self-service capabilities for engineering and data teams, with understanding of developer experience and platform adoption
+Hands-on MLOps or ML Engineering experience, GenAI/LLM platform knowledge (model inference, vector databases, RAG patterns), GCP/Vertex AI experience, or ML lifecycle tooling expertise are good to have, but not a must.
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+Tailored career development planning (including Education Assistance Program)
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+92086018,Senior Staff Engineer (AIPS),SEEK Limited,https://www.seek.com.au/job/92086018?type=standard&ref=search-standalone&origin=jobCard#sol=ef0ae7c56875aaae2967f44b8a248f45dfaf56c4,2h ago,2.0,2026-05-13T05:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The team
+
+The AI Platform Services (AIPS) teams build platforms and solutions that solve complex information problems and enable AI innovation across the SEEK Group. Our AI Platform Engineering teams provide shared infrastructure, governance, and reusable assets that empower AI and product teams to experiment safely, ship faster, and deliver intelligent experiences at scale.
+
+Teams are cross-functional, multi-disciplinary squads operating within an APAC matrix organisational structure. We work in an Agile environment with regular standups, sprint ceremonies, and collaborative ways of working.
+
+About the role 
+
+As a Senior Staff Engineer at SEEK, you'll be part of a fast-paced and supportive environment where you can make a real difference. You'll work on complex challenges that have a direct impact on people's lives, helping us evolve our business and reach new heights.
+
+This role is a senior technical specialist within our AI Platform Services (AIPS) Engineering teams, focused on AI data infrastructure. Reporting to the Head of Engineering, you will be the authority on centralised data platforms for AI/ML workloads, proactively understanding the problems across our AI teams, developing the strategy, advocating for solutions, and delivering outcomes that accelerate AI innovation across SEEK.
+
+Responsibilities 
+
+Define and own the technical strategy for centralised AI data infrastructure across AIPS
+Design scalable data architectures for AI/ML workloads spanning ingestion, transformation, and serving
+Consult with our AI teams to deeply understand data needs and translate them into strategic platform solutions
+Drive data governance, quality, and consistency across AI/ML data pipelines
+Guide Staff Engineers and engineering teams on AI engineering best practices and patterns
+Partner closely with Architecture, Data Services, and Security on data platform decisions
+Advocate for and embed data engineering practices that reduce duplication and increase self-service capability
+Support the Head of Engineering in capacity planning, scoping, and prioritisation of AI platform work, while contributing to the broader AIPS engineering community through knowledge sharing and technical leadership
+Qualifications
+
+Skills and experience 
+
+Experience delivering data solutions to real-time ML systems, with a strong understanding of how data engineering overlaps with ML engineering
+Deep data engineering experience across pipelines, data modelling, feature engineering, and data governance at scale
+Strong infrastructure experience with data-focused services and Infrastructure-as-Code practices
+Python proficiency for data platform tooling, pipelines, and integrations
+Demonstrated experience defining and implementing technical strategy that drives cultural and organisational change in the data space, underpinned by a strong understanding of MLOps and the ML lifecycle
+Feature store and vector store implementation experience (or a demonstrated desire to build expertise in this space), along with MLOps or ML lifecycle experience spanning experiment tracking, model deployment, and training-serving consistency
+Experience with cloud infrastructure (AWS, Azure, or GCP) and cloud-agnostic data technologies, building self-service data capabilities for technical teams, and SRE or operational excellence experience for data platform systems
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+The opportunity to work from anywhere for up to 4 weeks per financial year
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+92085907,Lead Engineer (AIPS),SEEK Limited,https://www.seek.com.au/job/92085907?type=standard&ref=search-standalone&origin=jobCard#sol=0ec99b7e0ec89c6daa86d03457460da47c5cec28,2h ago,2.0,2026-05-13T05:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The team
+
+The AI Platform Services (AIPS) teams build platforms and solutions that solve complex information problems and enable AI innovation across the SEEK Group. Our AI Platform Engineering teams provide shared infrastructure, governance, and reusable assets that empower AI and product teams to experiment safely, ship faster, and deliver intelligent experiences at scale.
+
+Teams are cross-functional, multi-disciplinary squads operating within an APAC matrix organisational structure. We work in an Agile environment with regular standups, sprint ceremonies, and collaborative ways of working.
+
+About the role 
+
+As a Lead Engineer at SEEK, you'll be part of a fast-paced and supportive environment where you can make a real difference. You'll work on complex challenges that have a direct impact on people's lives, helping us evolve our business and reach new heights.
+
+This role provides technical and people leadership within our AI Platform Engineering domain — managing, mentoring, and developing the engineers who build the platforms powering AI innovation across SEEK. Reporting to the Engineering Manager, you will partner closely with the Staff Platform Engineer on technical direction and collaborate with Data Scientists, ML Engineers, and product teams to deliver scalable, resilient AI platform solutions. You will have 3–6 direct reports.
+
+Responsibilities 
+
+Lead and develop a high-performing team through coaching, mentoring, career development, and a culture of safety, inclusivity, and engagement
+Drive delivery of AI platform systems from development through to production, ensuring high availability, resilience, and performance for production AI workloads
+Contribute to technical strategy for GenAI and ML platforms in close partnership with the Staff Platform Engineer
+Build and operate scalable AI infrastructure on AWS, leveraging Python and Infrastructure-as-Code
+Strengthen engineering practices and DevOps culture for AI platform operations, including incident management, on-call processes, and supporting documentation
+Build strong relationships with key stakeholders including Data Scientists, ML Engineers, Architecture, and Security
+Lead recruitment, onboarding, and retention of engineering talent
+Qualifications
+
+Skills and experience 
+
+Direct line management experience of engineers, including coaching, mentoring, and career development
+Strong AWS infrastructure experience across compute, storage, networking, and security, with Infrastructure-as-Code practices
+Python proficiency for platform automation, tooling, and integrations
+Experience building and operating highly available, resilient production systems
+Demonstrated experience writing well-tested, readable software using secure coding practices, current patterns, and tooling
+Hands-on ML Engineering or MLOps experience, including GenAI/LLM platforms such as model inference, vector databases, RAG patterns, and AI Gateways, with multi-cloud experience beyond AWS (e.g. GCP/Vertex AI)
+SRE experience building and operating production platform systems, with a track record of enabling technical teams (Data Scientists, ML Engineers) through platform capabilities and experience recruiting and developing software engineers
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+The opportunity to work from anywhere for up to 4 weeks per financial year
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+92085861,Staff Platform Engineer,SEEK Limited,https://www.seek.com.au/job/92085861?type=standard&ref=search-standalone&origin=jobCard#sol=e471bf7846eca136ee1b1e07fed4f3b3ab153825,2h ago,2.0,2026-05-13T05:00:00+00:00,"Cremorne, Melbourne VIC (Hybrid)",Developers/Programmers (Information & Communication Technology),Full time,,"Company Description
+
+About SEEK
+
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+
+Life at SEEK
+
+SEEK’s purpose is at the centre of everything we do. Our SEEK, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (2021-2024). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+
+Job Description
+
+The team
+
+At SEEK, our AI Platform Services (AIPS) teams build platforms and solutions that solve complex information problems and enable AI innovation across the SEEK Group. Teams are cross-functional, multi-disciplinary squads that work within an APAC matrix organisational structure. The AI Platform Engineering teams have a specific mission to provide shared infrastructure, governance, and reusable assets that empower AI and product teams to experiment safely, ship faster, and continuously deliver intelligent, differentiated experiences at scale.
+
+You will work with roles across the engineering spectrum from graduate to lead level, including Software Engineers, Engineering Managers, Heads of Engineering, Software Architects, Data Scientists, ML Engineers, Platform Engineers, Product Managers, Business Analysts, and Iteration Managers.
+
+About the role 
+
+A Staff Platform Engineer is a technical lead and senior member within our AI Platform Services (AIPS) Engineering teams. You'll be responsible for the technical strategy and direction of SEEK's GenAI and ML Platforms, ensuring these systems are highly available, resilient, and enable AI innovation at scale. Embedded within a team, you'll lead cross-team technical initiatives that influence AI platform strategy across AIPS and SEEK more broadly. Your primary focus is designing and building AI platform solutions that enable Data Scientists, Engineers, and product teams to deliver AI-powered experiences rapidly and safely. You bring in-depth technical understanding of AI platform infrastructure, multi-cloud architectures (AWS, GCP), and the operational requirements of GenAI and ML systems, while driving alignment of your team's technical roadmap to SEEK's overall AI strategy.
+ 
+
+Responsibilities 
+
+Design and evolve technical architecture for GenAI and ML platform systems, ensuring they are well-architected, highly available, and aligned with SEEK's development practices and technical metrics
+Drive technical strategy that enables SEEK's AI innovation at scale, leading architecture decisions for multi-cloud AI infrastructure (AWS, GCP) and aligning platform capabilities with business objectives
+Build and operate highly scalable, performant AI infrastructure using AWS and Python for platform automation, tooling, and integrations while exemplifying clean, well-tested, secure code
+Lead cross-team technical initiatives that influence AI platform strategy across AIPS, serving as the key point of contact for technical solutions and system interfaces
+Partner with Data Scientists and ML Engineers to enable self-service model development, deployment, and operation while strengthening engineering discipline through understanding of AI/ML operational requirements
+Support the Engineering Manager in capacity planning, risk management, and scoping of technical work while building strong relationships with Architecture, Security, and other AI platform teams
+Grow team member technical capabilities through coaching on AI/ML platform patterns and practices while fostering a culture of safety, inclusivity, and diversity
+Qualifications
+
+Skills and experience 
+
+Proven experience as a Staff Engineer, Principal Engineer, or similar technical leadership role building and operating production platform systems at scale
+Strong expertise in cloud infrastructure and platform engineering, with deep hands-on experience in AWS services and multi-cloud architectures
+Advanced Python programming skills with demonstrated experience building platform automation, tooling, and integrations for highly scalable systems
+Experience with infrastructure-as-code (Terraform), container orchestration (Kubernetes), and observability tools for platform operations
+Track record of leading technical roadmaps and driving platform health initiatives aligned with key technical metrics and SRE principles
+Experience building platforms that enable self-service capabilities for engineering and data teams, with understanding of developer experience and platform adoption
+Hands-on MLOps or ML Engineering experience, GenAI/LLM platform knowledge (model inference, vector databases, RAG patterns), GCP/Vertex AI experience, or ML lifecycle tooling expertise are good to have, but not a must.
+Additional Information
+
+Permanent Perks
+At SEEK we offer:
+
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+The opportunity to work from anywhere for up to 4 weeks per financial year
+
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+
+For this role, only those candidates with the eligible right to work will be considered.
+
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees."
+92082397,Lead Data Scientist,Correlate Resources,https://www.seek.com.au/job/92082397?type=standard&ref=search-standalone&origin=jobCard#sol=2249f6c3ef5b56d717281620414067e3967f873a,3h ago,3.0,2026-05-13T04:00:00+00:00,Sydney NSW (Hybrid),"Mathematics, Statistics & Information Sciences (Science & Technology)",Full time,,"Lead Data Scientist
+
+We are hiring a Lead Data Scientist to own and build the data science function from the ground up. This is a hands-on, high-impact role focused on turning complex product, customer and operational data into measurable business value.
+This is not a strategy-only position. You will design the approach, build the models, engineer pipelines, create insights, and establish the data practices that support a growing AI-powered platform. You will work closely with engineering, product, customer success, operations, finance and leadership to define what data means across the business and how it can drive better decisions.
+About the role As the first dedicated data science hire, you will have the opportunity to shape the company’s data strategy, build the foundations of a modern data stack, and create the models, dashboards and reporting frameworks that teams rely on.
+You will work across machine learning, applied AI, data engineering, analytics, governance and business intelligence. The role is suited to someone who is highly technical, commercially minded and comfortable operating in a fast-moving environment where they can build from scratch.
+
+Key responsibilities
+Design, build and deploy machine learning models and statistical analyses that solve real business problems
+Work hands-on with LLM and RAG system data, including retrieval quality, conversation outcomes, latency and model performance
+Build experimentation frameworks, including A/B testing and causal inference, to validate product and business decisions
+Develop NLP and text analytics capability to extract insights from conversation data at scale
+Architect scalable data pipelines across cloud platforms such as AWS, GCP or Azure
+Build and maintain a modern data stack across ingestion, transformation, warehousing, orchestration and data quality
+Establish data governance practices including cataloguing, lineage, access controls and compliance frameworks
+Create dashboards, scorecards and executive reporting across product, engineering, customer success, finance, operations and leadership
+Define key metrics across customer experience, product reliability, unit economics and operational health
+Translate ambiguous business questions into clear, measurable data problems
+Build the business case for growing the data function and hire or mentor future team members as needed
+What you will bring
+8–10+ years’ experience across data science, data engineering, analytics or applied AI/ML
+Proven experience building and deploying machine learning models in production
+Strong Python and SQL capability
+Experience with modern data tooling such as dbt, Airflow, Dagster, Spark, Snowflake, BigQuery or Redshift
+Experience architecting cloud-native data platforms across AWS, GCP or Azure
+Hands-on experience with LLM-based systems, RAG architectures, vector databases and orchestration frameworks
+Strong statistical foundations across experimental design, causal inference, regression, classification and time-series analysis
+Experience with data governance, privacy and compliance in enterprise or regulated environments
+Ability to communicate complex data insights to senior stakeholders and non-technical audiences
+Experience in SaaS, AI/ML product companies or enterprise implementation environments
+Nice to have
+Experience working in the Australian market and familiarity with Australian privacy legislation
+Familiarity with conversational AI metrics such as deflection, containment, intent accuracy and ASR/TTS performance
+MLOps experience across model versioning, monitoring and CI/CD for ML pipelines
+A quantitative degree in computer science, statistics, mathematics, physics, engineering or similar
+Cloud or data certifications such as AWS Solutions Architect or GCP Professional Data Engineer
+What success looks like In the first 30 days, you will complete a deep immersion into the product, data landscape and AI architecture, assess the current state of data, and deliver a clear roadmap covering risks, quick wins, metrics and priorities.
+Over the following months, you will strengthen core data platform components, launch operational scorecards, improve data quality and model performance, and establish reporting rhythms across the business.
+Over 6–12 months, you will have built a trusted data foundation, improved business outcomes through data science, matured metric ownership, and developed a clear plan for growing the data function.
+Benefits
+Join a fast-growing, innovative technology environment
+Build and lead a data function from the ground up
+Work at the forefront of AI, data science and conversational technology
+High level of ownership, autonomy and business impact
+Strong career growth and professional development opportunities
+Competitive salary
+Flexible, remote-first working environment"
+92080820,Head of Advanced Analytics - Data Science and AI,Asahi Beverages,https://www.seek.com.au/job/92080820?type=standard&ref=search-standalone&origin=jobCard#sol=3c8a13cd428e5be0bb490a5e1a3c3f9371fc3949,4h ago,4.0,2026-05-13T03:00:00+00:00,Melbourne VIC,Management (Information & Communication Technology),Full time,,"Your Impact
 
  
-Please click APPLY NOW and follow the prompts to submit your application. 
+
+You will define and execute an enterprise‑wide strategy spanning advanced analytics, data science, AI and GenAI, ensuring alignment with business priorities, technology direction and long‑term value creation. Working in close partnership with senior and executive leaders, you will translate complex analytical and AI concepts into clear, actionable insights that drive stronger decision‑making and commercial outcomes. 
+
+ 
+
+Internal title Senior Manager, this is a senior leadership role that operates at Head of level in market.  Reporting into the Group Head of Data & Analytics (GM level), this is a key role that will influence Data Science and AI capability at Asahi beverages. 
+
+ 
+
+Key Responsibilities 
+
+ 
+
+Define and deliver Asahi’s enterprise strategy and multi‑year roadmap for analytics, data science, AI and GenAI 
+Lead the AI Centre of Excellence, setting standards and scalable delivery models 
+Oversee delivery of high‑impact analytics, AI/ML and GenAI solutions 
+Partner with senior leaders to shape and prioritise value‑led use cases 
+Establish and embed governance, responsible AI, risk and compliance frameworks 
+Build, lead and develop high‑performing multidisciplinary teams and partners 
+Uplift enterprise capability through enablement, tooling and operating‑model integration 
+Manage strategic technology and delivery partners to maximise outcomes 
+
+ 
+
+About You 
+
+ 
+
+Extensive experience in data science, AI/ML or advanced analytics leadership roles 
+Proven track record delivering enterprise‑scale AI and GenAI initiatives 
+Strong executive stakeholder management with experience influencing senior leadership teams 
+Deep expertise across AI/ML, GenAI, cloud platforms (Azure strong preference) and modern data tools 
+Experience working with SAP and Service Now highly desired  
+Experience leading multidisciplinary teams and building Centres of Excellence 
+Strong business acumen with a focus on measurable value and outcomes  
+FMCG or complex, fast‑paced industry experience highly desirable  
+
+ 
+
+Why Asahi Beverages? 
+
+ 
+
+At Asahi Beverages, we're passionate about crafting more than just drinks - we craft moments of connection, celebration, and shared enjoyment. We bring together a diverse portfolio of iconic beverage brands, a commitment to quality, and a drive to constantly innovate. Headquartered in Melbourne and with facilities right across Australia and New Zealand, you’ll find Asahi is a place where talent is nurtured, and ambition is rewarded. If you’re ready to toast your future, we’re ready to meet you. 
 
 
-At Chandler Macleod, we are committed to fostering a diverse workforce where everyone is welcome. We encourage applications from Aboriginal and Torres Strait Islander peoples, women, neurodiverse, people living with a disability and the LGBTIQA+ community.
-
-You can read more about our commitment to diversity and inclusion at https://www.chandlermacleod.com/diversity-and-inclusion."
-92075012,Systems Engineer - Defence,Amentum Australia Proprietary Limited,https://www.seek.com.au/job/92075012?type=standard&ref=search-standalone&origin=jobCard#sol=6fd4c1f9eec05cb6eee34cd26e2ae8dff7c43ab3,3h ago,3.0,2026-05-13T01:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW",Systems Engineering (Engineering),Full time,Negotiable,"Amentum is continually expanding our opportunities working on prominent defence projects across air, land and sea supporting the critical capabilities that keep Australia safe. We have a growing presence in cyber, space and nuclear programs.
+ 
+We are a Circle Back Initiative employer and commit to responding to all applicants."
+92075012,Systems Engineer - Defence,Amentum Australia Proprietary Limited,https://www.seek.com.au/job/92075012?type=standard&ref=search-standalone&origin=jobCard#sol=55f2099119f01495e12a602a967fba27cac2f400,7h ago,7.0,2026-05-13T00:00:00+00:00,"Newcastle, Newcastle, Maitland & Hunter NSW",Systems Engineering (Engineering),Full time,Negotiable,"Amentum is continually expanding our opportunities working on prominent defence projects across air, land and sea supporting the critical capabilities that keep Australia safe. We have a growing presence in cyber, space and nuclear programs.
   
 Tell me about this role:
 
@@ -74,7 +485,7 @@ Amentum is a key service provider to the Australian Government, supporting criti
 With over 880 professionals nationwide, we deliver complex infrastructure, logistics, and technical solutions with a strong focus on quality, safety, and innovation.
 
 With 27+ years of experience and a presence in major cities and regions, we’re proud of our people—our greatest asset. Join us and be part of a high-performing team with exceptional benefits and career opportunities. Apply directly or reach out to Symmone Chapman, sym••••••••••••@global.amentum.com"
-92074659,Senior AI Platform Engineer,Attribute Group,https://www.seek.com.au/job/92074659?type=standard&ref=search-standalone&origin=jobCard#sol=a9577ab0981f4055127e0c02a7657acfd8a44990,3h ago,3.0,2026-05-13T01:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200K+ plus attractive addtional benefits.,"The Company:
+92074659,Senior AI Platform Engineer,Attribute Group,https://www.seek.com.au/job/92074659?type=standard&ref=search-standalone&origin=jobCard#sol=fcee6811646f47c3c27b571a32c217211c22fcff,7h ago,7.0,2026-05-13T00:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$200K+ plus attractive addtional benefits.,"The Company:
 
 This well known digital product leader have been growing from strength to strength and leads the way in their industry with world class customer facing  products that are AI/data driven.
 
@@ -96,7 +507,7 @@ Proven experience with full end to end ownership of design and deployment of AI-
 Deep expertise in AWS cloud services, with strong depth in AI, ML, and data.
 Experience with Infrastructure as Code (IaC) tools such as AWS CloudFormation, CDK.
 Proven code development skills in one or more languages (Python or TypeScript), with experience integrating AI services via APIs."
-92074092,Automation Engineer,GEA Australia,https://www.seek.com.au/job/92074092?type=standard&ref=search-standalone&origin=jobCard#sol=95fc7cf66060f194724ae1e2c450fc59ec7f2ea5,3h ago,3.0,2026-05-13T01:00:00+00:00,"Melbourne Airport, Melbourne VIC",Project Engineering (Engineering),Full time,,"Design the future of industrial automation. Deliver impact at scale.
+92074092,Automation Engineer,GEA Australia,https://www.seek.com.au/job/92074092?type=standard&ref=search-standalone&origin=jobCard#sol=58226ed93f3d02e246fcd7aca24c9a122b8c73c3,7h ago,7.0,2026-05-13T00:00:00+00:00,"Melbourne Airport, Melbourne VIC",Project Engineering (Engineering),Full time,,"Design the future of industrial automation. Deliver impact at scale.
 
 At GEA, we don’t just engineer solutions—we power some of the world’s most critical industries. As one of the largest global suppliers to the food, beverage, and pharmaceutical sectors, our technologies drive efficiency, sustainability, and innovation across production systems worldwide.
 
@@ -200,7 +611,7 @@ Competitive remuneration, bonus scheme, and strong wellbeing support
 
 
 Build systems that power industries. Deliver solutions that make a difference. Join GEA."
-92073587,Data Engineer,Brennan,https://www.seek.com.au/job/92073587?type=standard&ref=search-standalone&origin=jobCard#sol=56ed73408eed9a7fa9a941d3b5aadafb3c73c912,4h ago,4.0,2026-05-13T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Why work for Brennan?  
+92073587,Data Engineer,Brennan,https://www.seek.com.au/job/92073587?type=standard&ref=search-standalone&origin=jobCard#sol=5e92895fb89fa08611c7cf6afbd118bfea325058,8h ago,8.0,2026-05-12T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Why work for Brennan?  
 At Brennan, we aim to lead, not follow. One of the ways we do this is through an open diverse culture that values performance, where anyone in the team can bring new ideas to the table and see them thrive. Our people are empowered, considerate, supportive, trusting and accepting, they are the cornerstone of the business. Because of this approach, we have become the largest Australian owned systems integrator in Australia and continue to grow.  
  
 Brennan offers an excellent remuneration package and benefits including:  
@@ -237,7 +648,7 @@ Ability to autonomously manage day-to-day client and technical issues
 Ability to build and maintain relationships with customers 
 Demonstrable pro-activeness 
 Degree in Information Technology or similar (or equivalent experience)"
-92073480,Data Analytics Engineer,The Onset,https://www.seek.com.au/job/92073480?type=standard&ref=search-standalone&origin=jobCard#sol=1cb9ac64d02d00c944650f28650aff28e803286c,4h ago,4.0,2026-05-13T00:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,AUD 140000 - 160000 per annum,"Senior Data & Analytics Engineer Own the Data Backbone of an AI-Driven Tech Scaleup
+92073480,Data Analytics Engineer,The Onset,https://www.seek.com.au/job/92073480?type=standard&ref=search-standalone&origin=jobCard#sol=0a50b5f19ba237c06492f71afcaa96157d40911c,8h ago,8.0,2026-05-12T23:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,AUD 140000 - 160000 per annum,"Senior Data & Analytics Engineer Own the Data Backbone of an AI-Driven Tech Scaleup
 
 Not every data engineering role gives you the chance to build the engine room.
 
@@ -404,7 +815,7 @@ Strong communication and stakeholder engagement skills
 
 
 If you’re excited by the idea of building a modern data platform at the intersection of AI, automation, analytics, and product innovation - we’d love to hear from you. Send your resume to ree••@theonset.com.au"
-92073190,System Safety Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/92073190?type=standard&ref=search-standalone&origin=jobCard#sol=ed08b098a1aba01642112c9dc10574c3fd07f080,4h ago,4.0,2026-05-13T00:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Be part of a significant Defence program,"About us
+92073190,System Safety Engineer,Lockheed Martin Australia Pty Ltd,https://www.seek.com.au/job/92073190?type=standard&ref=search-standalone&origin=jobCard#sol=439d23f71e96cd61b84e1b0d667e5b76612faf35,8h ago,8.0,2026-05-12T23:00:00+00:00,"Mawson Lakes, Adelaide SA",Systems Engineering (Engineering),Full time,Be part of a significant Defence program,"About us
 
 At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovation. As a leader in national security, our innovative and diverse programs create a more secure future for Australia across space, air, land, sea, and cyber domains. Every day is a chance to solve the world's most complex challenges and make a profound impact. Experience it here.
  
