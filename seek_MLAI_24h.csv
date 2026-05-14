@@ -1,1 +1,1274 @@
+Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
+92105723,Senior AI Engineer,Preacta Recruitment,https://www.seek.com.au/job/92105723?type=standard&ref=search-standalone&origin=jobCard#sol=ae3e40ecf07e1bef1e4cc1f094f830375cff7239,1h ago,1.0,2026-05-14T03:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Senior AI Engineer – Enterprise AI Enablement
+-Sydney
+-$160,000 - $180,000 + Super + Bonus
+  
+Join one of the most forward-thinking teams in Sydney, working within a business that is genuinely AI-first in its approach. There is a defined strategy, real budget, and enterprise-wide commitment to embedding AI across products and operations.
+  
+We’ve recently partnered closely with the business to appoint their Engineering Manager, and are now supporting the next phase of the build-out. Off the back of that hire, we’re adding multiple engineers to deliver on a pipeline of greenfield AI initiatives.
+  
+The focus is clear: strong software engineering foundations, with exposure to AI-native environments. This is not a data science role, it’s about engineers who can build the systems and platforms that enable agentic AI at scale.
+  
+You’ll be working on production-grade systems across multiple use cases, from customer-facing agents and chatbots to internal AI capability, partnering closely with teams responsible for fine-tuning models. A solid understanding of agentic ecosystems and LLMOps will go a long way in helping you succeed.
+  
+Overview of the Role
+You’ll be responsible for building and owning scalable backend systems that power enterprise AI solutions. This is a hands-on engineering role, focused on writing high-quality code, automating workflows, and creating the foundations required for AI to operate reliably in production.
+Operating in a modern DevOps environment, you’ll take end-to-end ownership across design, build, deployment, and ongoing optimisation. You’ll work closely with data and AI teams to integrate models into real-world applications, ensuring they are performant, scalable, and maintainable.
+  
+Key Skills
 
+5+ years software engineering experience in Agile/DevOps environments, ideally with Python (OOP)
+Strong end-to-end SDLC experience across design, build, test, and production support
+Proven ability to build scalable backend systems and write production-grade code
+Experience with CI/CD pipelines and deployments in containerised environments (Docker/Kubernetes)
+Exposure to agentic AI / LLM frameworks (e.g. RAG, MCP, Vertex AI, LangChain, LlamaIndex)
+Understanding of LLMOps practices for deploying, monitoring, and scaling AI models
+  
+This is a strong opportunity for engineers who want to stay close to the tech, build meaningful systems, and play a key role in how AI is actually delivered across a large enterprise."
+92105326,Senior AI-Augmented Software Engineer,Leaselab Pty Ltd,https://www.seek.com.au/job/92105326?type=standard&ref=search-standalone&origin=jobCard#sol=2fbe260ba6fb4a7ce193b902aaa8b77eddbcbd02,1h ago,1.0,2026-05-14T03:00:00+00:00,Melbourne VIC (Hybrid),Engineering - Software (Information & Communication Technology),Full time,"$160,000 – $170,000 per year","Senior AI-Augmented Software Engineer
+About Leaselab
+
+Leaselab is redefining novated leasing through technology, operational excellence, and customer experience. We build scalable systems that simplify salary packaging and vehicle finance while delivering exceptional outcomes for employers and drivers across Australia.
+
+We operate in a fast-moving environment focused on innovation, automation, and continuous improvement, leveraging modern infrastructure and AI-assisted workflows to accelerate delivery and improve operational efficiency.
+
+
+
+
+The Opportunity
+
+We are seeking a highly capable Senior AI-Augmented Software Engineer to help design, build, and scale the next generation of Leaselab’s technology platform.
+
+This role is ideal for an experienced engineer who uses AI as a force multiplier to rapidly build, review, and operationalise software systems without compromising engineering quality.
+
+You will work across software engineering, system architecture, infrastructure, deployment workflows, and AI-assisted development, taking ownership of technical delivery from planning through to production.
+
+This is a high-autonomy role suited to someone who can independently solve complex technical challenges while collaborating closely with business stakeholders to translate requirements into scalable production-ready systems.
+
+
+
+
+Key Responsibilities
+AI-Assisted Engineering
+
+Build features and systems using AI-assisted development workflows including Cursor, copilots, agents, and LLM tooling
+
+Review, validate, and productionise AI-generated code
+
+Identify architectural, security, scalability, and logic issues within generated outputs
+
+Create repeatable AI workflows that improve engineering velocity and consistency
+
+Maintain high engineering quality while delivering rapidly
+
+Technical Architecture & Systems Design
+
+Design scalable backend systems and application architecture
+
+Make informed technical decisions balancing speed, scalability, and maintainability
+
+Structure systems to support reliable AI-assisted development practices
+
+Evaluate and improve existing architecture, workflows, and operational processes
+
+Ensure systems remain maintainable as complexity grows
+
+Infrastructure & Deployment
+
+Build and manage AWS infrastructure using SST and Infrastructure as Code principles
+
+Own CI/CD pipelines and deployment workflows across multiple environments
+
+Improve deployment reliability, rollback safety, and operational visibility
+
+Implement monitoring, logging, and observability practices
+
+Support secure, scalable, and resilient production infrastructure
+
+Product & Technical Scoping
+
+Translate business requirements into detailed technical scopes and implementation plans
+
+Break down complex initiatives into actionable deliverables
+
+Identify technical risks, edge cases, and operational considerations early
+
+Collaborate with stakeholders to shape practical and scalable technical solutions
+
+Produce clear technical documentation and implementation specifications
+
+Engineering Quality & Ownership
+
+Review pull requests and AI-generated code with strong attention to detail
+
+Maintain high standards for code quality, testing, and platform consistency
+
+Take ownership of features from planning through deployment and operational support
+
+Improve engineering processes, tooling, and development workflows
+
+Contribute to a culture of accountability, pragmatism, and continuous improvement
+
+
+
+
+Skills & Experience
+Essential Experience
+
+Strong experience with TypeScript
+
+Experience building and managing AWS cloud infrastructure
+
+Strong knowledge of SST (Serverless Stack)
+
+Experience with Infrastructure as Code
+
+Backend and API development experience
+
+CI/CD pipeline management and deployment workflows
+
+Git workflows and code review practices
+
+Automated testing frameworks and methodologies
+
+Experience using AI-assisted development tooling in production environments
+
+Desirable Experience
+
+Experience with Cursor or similar AI-native development environments
+
+Building agentic workflows or automation systems
+
+Event-driven and serverless architectures
+
+Monitoring and observability tooling
+
+Async processing and distributed systems
+
+Workflow optimisation and developer tooling
+
+
+
+
+About You
+
+You are a highly capable engineer who combines strong technical judgement with the ability to move quickly using AI-assisted workflows.
+
+You are comfortable owning technical delivery end-to-end and thrive in environments where autonomy, problem-solving, and continuous improvement are valued.
+
+You will also demonstrate:
+
+Strong systems thinking and architectural capability
+
+A pragmatic approach to balancing speed with engineering discipline
+
+The ability to rapidly understand and improve existing systems
+
+Strong communication skills with the ability to translate business requirements into technical execution
+
+A proactive mindset focused on scalability, maintainability, and operational leverage
+
+
+
+
+Why Join Leaselab?
+
+Opportunity to shape and scale modern AI-assisted engineering practices
+
+High-impact role with significant ownership and autonomy
+
+Fast-moving technology environment focused on innovation and automation
+
+Collaborative and pragmatic culture
+
+Opportunity to work on meaningful systems that directly impact business growth and customer experience
+
+
+
+
+Apply Now"
+92104753,Platform Manager - Data & AI - Hawthorn East,Coles,https://www.seek.com.au/job/92104753?type=standard&ref=search-standalone&origin=jobCard#sol=d5bf72076a372b2244e9ac32d7813cd07035be07,1h ago,1.0,2026-05-14T03:00:00+00:00,"Hawthorn East, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"We’ve been trusted to serve Aussie communities since 1914 and grown to become a top 30-listed on the ASX with over 115,000 team members and a portfolio of iconic brands. At Coles Group, you’ll not only get to make a difference to millions of Aussie lives—you’ll also get to see your impact.
+
+ 
+
+ 
+About the team
+
+ 
+
+As the way Australians shop continues to evolve, our Data and AI Team keep Coles at the forefront of modern retail. We combine data, artificial intelligence, and applied engineering to reimagine how our stores, supply chain, and digital channels operate — creating smarter, more connected, and seamless experiences for our customers and team members.
+
+ 
+
+Operating as a centralised development and enablement function within Coles Technology, the team unites product, engineering, and platform capabilities to deliver the intelligence layer of the enterprise. We serve every part of Coles — from computer vision applications that enhance in-store experiences and reduce loss, to forecasting, optimisation, and decision-support solutions that drive efficiency, accuracy, and agility across our supply chain, retail operations, and corporate functions.
+
+ 
+
+The scale and impact of this work are significant. Coles serves millions of customers each week across more than a thousand stores nationwide, and our AI and data capabilities provide the intelligence that underpins how we plan, move, sell, and serve. By combining deep data capability with applied AI and modern engineering, we’re enabling Coles to become a truly AI-enabled enterprise, transforming how we operate and how Australia shops every day.
+
+
+
+About the role
+
+ 
+
+We are currently recruiting for a Platform Manager – AI/ML who will Lead the design, development, and delivery of AI platform capabilities focused on Generative AI, LLMs, and agentic systems, including model access layers, orchestration frameworks, prompt management, and tool integrations.
+
+ 
+
+Key responsibilities of the role will include:
+
+ 
+
+Drive the development of scalable, secure, and governed AI services that enable teams to build and deploy AI-powered applications and agents.
+Collaborate with product, engineering, and business teams to translate use cases into reusable AI platform capabilities and patterns.
+Establish and enforce best practices for AI governance, prompt engineering, evaluation frameworks, and responsible AI usage.
+Build and evolve agent orchestration, tool integration layers, and model routing/gateway capabilities across multiple providers.
+
+ 
+
+ 
+
+About you and your skills
+
+ 
+
+Proven years in software/platform engineering, AI/ML, or related fields, with 3+ years in leadership roles.
+Experience working with LLMs, GenAI platforms, or AI-driven applications in enterprise environments.
+Strong understanding of:
+LLM ecosystems (Azure OpenAI, OpenAI, etc.)
+Prompt engineering & evaluation techniques
+Agent frameworks and orchestration patterns
+API design, microservices, and platform engineering
+Experience with model integration, API gateways, and distributed systems.
+Familiarity with AI governance, responsible AI, and risk management frameworks.
+Experience managing cost, usage, and performance of AI services at scale.
+
+ 
+
+ 
+
+Qualifications
+
+ 
+
+Expertise in AI platform architecture, GenAI patterns, and scalable service design.
+Strong understanding of agentic workflows, tool integration, and orchestration layers.
+Ability to balance innovation with governance, control, and enterprise requirements.
+Excellent stakeholder management and communication skills.
+Ability to translate evolving AI capabilities into practical, enterprise-ready solutions.
+
+ 
+
+Education
+
+ 
+
+Bachelor’s or Master’s Degree in Computer Science, Engineering, Data Science, or related field.
+Relevant certifications in cloud platforms, AI/ML engineering, or DevOps are a plus.
+
+ 
+
+ 
+
+We are ideally seeking an experienced Platform Manager to drive the strategy, engineering, and operational excellence of scalable AI/ML platforms that enable teams to efficiently and securely build, deploy, and govern AI solutions, supported by strong people leadership and stakeholder management capabilities.
+
+
+
+ 
+What’s in it for you?
+
+ 
+
+Flexible working options: We know that work is only one part of your life, so we actively encourage a positive work-life balance and provide hybrid working options to help you achieve it.
+Office perks: Take advantage of our gym facility and fitness classes, free parking, BBQ area, mini-Coles supermarket, fooderie hub where you can sample new products before they hit the shelves, school holiday program and so much more when you come in.
+Discounts: Eligible team members receive 5% discount all year round on your Supermarket and Liquor online and in-store purchases. We also offer additional periods of double discount (10%) at various times throughout the year. As well as hotdeals exclusive to team members that translate into additional savings.
+Reward through recognition: Give and receive recognition, linked to our Coles values, through our digital recognition platform ‘mythanks’. You can accumulate points to redeem in the online shop for exciting gifts and electronic gift cards from an extensive range of retailers.
+Opportunities for learning and development: No matter where you start within our diverse business, you’ll have experiences, exposure, and education to satisfy you. Discover and explore a variety of career development programs and job-specific training.
+Paid parental leave: We understand how important your life outside work is and offer permanent team members paid parental leave to support you in balancing work and family.
+Investment in your future: Our annual team member share plan offer allows eligible team members to make regular pre-tax salary sacrifice deductions to purchase Coles Group shares.
+
+ 
+
+About the recruitment process
+
+We’re continuing to build a gender equitable team, and a culture that is just as diverse, inclusive and welcoming as the communities we serve. We are committed to creating a workplace that is safe and respectful for our team. We encourage applications from people of all ages, cultures (including Aboriginal and Torres Strait Islander peoples), abilities, sexual orientation and gender identities.
+
+ 
+
+We’re happy to adjust our recruitment process to support candidates with disability. For further information and additional contact details visit the ‘Our Recruitment Process’ section of our careers site or email inc•••••••••••••••••@coles.com.au
+
+ 
+
+Job ID: 166720
+
+ 
+
+Employment Type: Full time"
+92102907,Systems & Software Engineer - Digital Integration,Embedded Expertise,https://www.seek.com.au/job/92102907?type=standard&ref=search-standalone&origin=jobCard#sol=0ee6ca11b3b1390151b08bf87c98d7c253fc3d19,2h ago,2.0,2026-05-14T02:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,$125 - $135 p.h.,"This role is ideal for a technically strong engineer with deep expertise in System Architecture, systems integration, and defence-related ICT environments. The successful candidate will work closely with stakeholders, engineering teams, and government representatives to provide technical guidance and architectural oversight across critical digital integration projects.
+
+Key Responsibilities
+
+Provide technical leadership and advisory services for defence digital network integration initiatives
+Develop and review system architecture designs, interface specifications, and integration strategies
+Support systems engineering activities across the project lifecycle, including requirements analysis, verification, and validation
+Collaborate with multidisciplinary engineering and program teams to ensure interoperability and mission alignment
+Assess technical risks, dependencies, and integration impacts across complex environments
+Contribute to architecture governance, technical documentation, and engineering decision-making
+Ensure solutions align with government security, compliance, and operational requirements
+
+
+Essential Skills & Experience
+
+Proven experience as a Systems Engineer, Software Engineer, or Systems Architect within complex ICT or defence environments
+Strong knowledge of:
+System Architecture and Design
+Digital Network Integration
+Systems Engineering methodologies
+Enterprise or mission-critical ICT systems
+Software and hardware integration principles
+Experience working within defence, government, or highly regulated environments
+Strong stakeholder engagement and technical communication skills
+Ability to work effectively within integrated project teams
+
+
+Security Requirements
+
+Minimum NV1 Security Clearance required
+Candidates must be eligible to work within secure government environments
+
+
+Work Arrangement
+
+Full-time on-site role
+Due to the nature of the work, remote or hybrid arrangements are not available
+
+
+Why Apply?
+
+Opportunity to contribute to nationally significant defence capability projects
+Work alongside highly skilled engineering and technical professionals
+Long-term program stability and career growth opportunities
+Exposure to cutting-edge defence and digital integration technologies
+
+
+If you are looking for an opportunity in which you can contribute to a high-profile Defence capability uplift program ensuring Australia's ongoing security and prosperity.
+
+Apply now or call for a confidential conversation."
+92101518,Security Design Engineer - Artificial Intelligence (AI),Genesis IT Recruitment,https://www.seek.com.au/job/92101518?type=standard&ref=search-standalone&origin=jobCard#sol=7c0ad7fec3e55af9f73abf0ce1a4c13c48fd1689,3h ago,3.0,2026-05-14T01:00:00+00:00,"Docklands, Melbourne VIC (Hybrid)",Security (Information & Communication Technology),Contract/Temp,"$1,000 per Day (incl. super)","12 Months Contract
+Office Location at Docklands VIC
+Hybrid Working (2-3 days onsite)
+A leading telecommunciations company is seeking for an experienced Security Design Engineer who will be working closely with the Architecture team to design and deliver advanced security engineering capabilities.
+
+You will focus on building Artificial Intelligence (AI) based cyber security solutions including developing AI-driven attack and defensive capabilities, and the development of a scalable security controls.
+
+The role involves translating security requirements and documentation into high-level and low-level designs, while ensuring alignment with enterprise security architecture and regulatory frameworks.
+
+Key Responsibilities:
+
+Work closely with the Architecture team to design and implement security engineering solutions.
+Contribute to AI-driven offensive and defensive security engineering initiatives.
+Build AI-based attack simulation capabilities that emulate adversary behaviours.
+Develop defensive capabilities including behavioural analytics, anomaly detection, and predictive threat modelling.
+Convert working manuals and documentation into high-level designs (HLD) and low-level designs (LLD).
+Integrate attack simulation outputs into operational defence systems and security tooling.
+Support deployment and optimisation of defensive cybersecurity tools and platforms.
+Collaborate with penetration testers, red teams, and adversary emulation specialists.
+Convert offensive findings into engineered defensive improvements.
+Ensure alignment with enterprise security architecture and standards.
+Key Requirements:
+
+Prior experience working as a Security Design Engineer, Security Architect, or Solutions Architect.
+Strong focus on security architecture and design.
+Experience producing high-level designs (HLD) and low-level designs (LLD).
+Solid background across multiple cybersecurity domains.
+Experience deploying defensive and cybersecurity tooling.
+Knowledge of AI/ML concepts applied to security is desirable.
+Strong stakeholder engagement and cross-functional collaboration skills.
+Experience working in complex enterprise environments.
+Telecommunications industry experience preferred.
+Ability to obtain and maintain a security clearance.
+Contract Rate: $1,000 per Day (incl. super)
+
+
+Job Ref: 4023880
+
+TO APPLY: please click on the appropriate link."
+92101463,Reliability Engineer,AGL,https://www.seek.com.au/job/92101463?type=standard&ref=search-standalone&origin=jobCard#sol=b8d3b52f1997356ba7567b35fc5e779862f3897b,3h ago,3.0,2026-05-14T01:00:00+00:00,Melbourne VIC (Hybrid),Mechanical Engineering (Engineering),Full time,,"Join the change. Electrify your future!
+
+
+We've been proudly Aussie since 1837, always finding new ways to innovate in energy and essential services. Now, we're moving towards a sustainable future through electrification and investing in renewable energy-and we'd like you to join us. Whether you're on-site, in the office, or somewhere in between, you'll find opportunities to grow your career here. You'll work with a team that's passionate about powering Australian lives, in a culture that values inclusivity, respect, and learning. Help us create a cleaner energy future, and we'll back you every step of the way as you build your career.
+
+
+
+Join the change. Electrify your future.
+
+
+
+About the role
+
+
+
+
+AGL has an exciting opportunity for a Reliability Engineer to join our Hydro Renewables team supporting 14 hydro power stations across Victoria and New South Wales.
+
+
+
+Location: based in our Melbourne office or Mount Beauty office.
+
+
+
+This role offers a unique balance of city-based flexibility and meaningful connection to some of Australia's most iconic renewable energy assets. While your home base will be Melbourne - providing access to a collaborative corporate environment, strong professional networks, and hybrid flexibility - you'll also regularly travel to Mount Beauty to stay closely connected to the operational teams and hydro assets you support.
+
+
+
+You'll have the opportunity to spend time on-site within the Kiewa Valley, gaining firsthand exposure to major hydro infrastructure, complex engineering challenges, and the people who keep these assets operating safely and reliably. The monthly travel component allows you to build strong operational relationships while experiencing one of Victoria's most scenic regions.
+
+
+
+What you'll be doing
+
+
+Data-driven reliability expertise, using turbine performance data, condition monitoring outputs, and failure trends to proactively improve asset reliability
+
+Technical problem-solving capability, applying root cause analysis, FMECA, and practical, cost-effective monitoring solutions
+
+Strategic maintenance planning experience, refining Reliability-Centred Maintenance strategies and optimising maintenance tasks, intervals, and spares based on asset criticality
+
+Strong collaboration skills, working cross-functionally with engineering, maintenance, and operations teams to drive continuous improvement
+
+Analytical and systems capability, including SAP and reliability tools, to support reporting, planning, and decision-making
+
+
+What you'll bring
+
+
+A Bachelor's degree in Engineering, ideally Electrical or Mechanical preferred OR experienced reliability professionals and trade-qualified technicians with demonstrated expertise in asset reliability, maintenance, and operational performance.
+
+Experience applying Reliability Engineering techniques and Asset Management principles to improve performance and maintenance outcomes
+
+Demonstrated experience leading reliability improvement initiatives within power generation or a similar heavy industry environment
+
+Experience with SAP as a CMMS is highly desirable
+
+Familiarity with platforms such as Power BI, OSI PI, RCA, reliability, and condition monitoring software is desirable
+
+
+
+
+
+
+
+At AGL, we offer a wide range of benefits including:
+
+
+Flexible working options.
+
+Discounts on energy, telcos and solar plans.
+
+Participate in Energise - our reward & recognition program.
+
+Access 20 weeks of paid parental leave for the primary carer.
+
+Access to an additional week of recharge leave per year.
+
+Play an active role in our diversity & inclusion initiatives.
+
+Novated leasing and Electric Vehicle subscriptions.
+
+Access to study assistance, AGL's share purchase plan and insurance deals.
+
+
+*Benefits may change over time and vary based on role type and location.
+
+
+
+
+
+Don't tick all the boxes? That's okay! We would love to receive your application!
+
+
+
+Applications will close on 28th May 2026.
+
+
+
+Inclusion at AGL
+
+
+At AGL, we value diversity and welcome applicants from various backgrounds, including Aboriginal and/or Torres Strait Islander peoples, individuals with disabilities, culturally diverse individuals, and members of the LGBTQ+ community. AGL is dedicated to maintaining a diverse workforce and encourages applicants to share their lived experiences.
+We offer reasonable adjustments throughout the recruitment process and respect the privacy of those who choose not to disclose. To learn more visit: www.agl.com.au/careers
+
+
+
+AGL is proud to be a WORK180 Endorsed Employer for All Women.
+
+
+
+Our pre-employment screening process includes a Nationally Coordinated Criminal History Check and a medical assessment if necessary.
+
+The information provided as part of your application to AGL will be managed in accordance with the AGL Privacy Policy.
+
+AGL does not accept agency submissions unless approval has been granted by a member of the Talent Acquisition team. Candidates submitted by an agency without approval will not be considered by AGL.
+
+
+
+Location
+
+Mount Beauty VIC 3699
+
+Job Family Group
+
+Engineering"
+92101053,Senior Data Engineer,McNab Group,https://www.seek.com.au/job/92101053?type=standard&ref=search-standalone&origin=jobCard#sol=84083757a70ba55aeb950318249995acfb66c092,3h ago,3.0,2026-05-14T01:00:00+00:00,Brisbane QLD (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Competitive salary based on market and experience,"At McNab, we recruit people who want more than just the average job. The people who thrive here are the ones who enjoy solving complex problems, improving the way businesses operate, and taking ownership of meaningful outcomes.
+
+We’re building a modern data capability with strong backing from executive leadership, and we’re looking for a Senior Data Engineer who wants the freedom to help shape that journey.
+
+About the Role
+
+As a Senior Data Engineer at McNab, you’ll play a key role in designing and evolving our modern data platform across Azure, Snowflake and Airflow.
+
+This role is more than building pipelines — we’re looking for someone who can think strategically, identify opportunities for improvement, influence technical direction, and proactively solve problems across the broader business.
+
+You’ll work closely with the Data & Analytics Manager and wider teams to design scalable data solutions, improve engineering standards, and help drive innovation across our growing technology ecosystem. We’re particularly interested in people who enjoy experimenting with new tools, leveraging AI and automation, and continuously improving the way teams work.
+
+This is an opportunity to join a business where technology investment is strongly supported from the top down, and where good ideas can quickly turn into action.
+
+Key responsibilities include:
+
+Assist in shaping and delivering McNab’s data engineering roadmap.
+Design, build and maintain scalable data ingestion pipelines using Airflow.
+Develop and optimise enterprise-grade data models and warehouse solutions.
+Continuously improve pipeline performance, scalability, reliability and observability.
+Build and maintain CI/CD processes using GitHub Actions.
+Leverage LLMs and automation tooling to improve engineering workflows and code quality.
+Support data governance, security and access management requirements across the business.
+Collaborate closely with analytics, applications and business teams to deliver fit-for-purpose solutions.
+Contribute to engineering standards, documentation and best practices across the team.
+
+About You
+
+You’re someone who enjoys ownership, thinks ahead, and doesn’t wait to be told where improvements can be made.
+
+You’ll likely bring:
+
+Demonstrated experience as a Data Engineer or in a similar role.
+Strong experience building modern cloud-based data platforms.
+The ability to work autonomously and confidently lead technical outcomes.
+Strong communication skills and the ability to collaborate across technical and non-technical teams.
+A proactive mindset with a genuine interest in solving business problems, not just technical tasks.
+A passion for continuous improvement, innovation and emerging technologies.
+Experience mentoring or positively influencing other team members through collaboration and leadership.
+
+Technical Skills:
+
+Advanced Python skills for data engineering and processing complex data structures.
+Expert-level SQL skills including optimisation, modelling and security.
+Strong experience with Snowflake, Airflow and modern cloud infrastructure.
+Experience with Azure resources including Virtual Machines, Function Apps and Logic Apps.
+Strong experience with Git, GitHub Actions and CI/CD principles.
+Comfortable working within Linux/terminal-based environments.
+Interest and practical exposure to AI-assisted development workflows and LLM tooling.
+
+Desired Skills & Experience:
+
+Experience working alongside Data Science, DevOps or Software Engineering teams.
+Experience designing enterprise-scale data models and modern data architectures.
+Exposure to analytics engineering or data application development environments.
+
+About McNab
+
+McNab is one of the largest Construction, Development and Property groups in Australia, with turnover now exceeding $1bn each year. Despite our growth and size, we've never lost our small company DNA - which centres around genuine care for our staff, customers and all our stakeholders. Success for us isn't about awards or growth, it's when we deliver so well that our customers are proud to wear a McNab T-Shirt on weekends!
+
+We genuinely care. We make it easy. We deliver certainty.
+
+This is our promise - to our clients, and everyone we deal with. Delivering on these three things really well is what drives us at McNab. Everything we do, from recruiting and training to performance and promotion, centres around this promise.
+
+We leverage the entire McNab Group to deliver certainty for our clients at a time of unprecedented uncertainty in the industry. And our approach works. From delivering our own property developments, to manufacturing our own building products, and a plethora of aligned businesses, your career at McNab goes well beyond traditional construction roles.
+
+McNab benefits:
+
+Birthday leave – Celebrate your special day on us!
+Bank and Employee Discounts - Access a range of exclusive savings and offers.
+Social Club and team events – Work hard, play hard with regular team events.
+Annual health and fitness subsidy – Stay fit and healthy with our health benefits
+Fitness passport membership - Access to a wide range of gyms and fitness facilities
+Parental leave program – Supporting you through life’s important milestones with tailored options to you and your family
+Employee Assistance Program – We’ve got your back when you need it
+Tailored development opportunities – We invest in your growth
+
+This is an outstanding opportunity to join a business genuinely investing in technology and data, where you’ll have the opportunity to influence direction, implement new ideas and help shape the future capability of the organisation.
+
+If this sounds like the kind of opportunity you’ve been looking for — APPLY NOW!
+
+Please note: shortlisted applicants will be asked to complete a skills assessment."
+92100898,MQ-28 Senior Systems Engineer,Boeing Defence Australia,https://www.seek.com.au/job/92100898?type=standard&ref=search-standalone&origin=jobCard#sol=b4b99f64cc9d92c6a88c4b56365bf22a456b7b80,3h ago,3.0,2026-05-14T01:00:00+00:00,Brisbane QLD (Hybrid),Systems Engineering (Engineering),Full time,,"The opportunity
+
+The Boeing MQ28 - Ghost Bat is a globally-significant program that will deliver a disruptive advantage to support Defence operational capabilities. Developed in partnership with the Royal Australian Air Force, it is the first military combat aircraft to be designed, manufactured and assembled in Australia in 50 years.
+
+Boeing Defence Australia (BDA) are seeking a Senior Systems Engineer to support the design, development integration and test of new capabilities within the MQ-28 Ghost Bat.
+
+As a Senior Systems Engineer you will apply your extensive experience to a broad range of activities being undertaken by the Analysis Integration and Test (AIT) team to enhance the MQ-28 platform.
+
+The role is based in Brisbane.
+
+As an experienced Senior Systems Engineer you will:
+
+Lead and develop requirements for the MQ-28 Mission System communication (datalink) and custodian interface.
+Lead and development of design solutions to meet the capability objectives and requirements of the MQ-28 Mission System communication (datalink) and custodian interface.
+Manage and define Mission System interfaces for communication (datalink) and custodian systems.
+Lead and develop verification requirements, test plans, procedures and reports.
+Coordinate, plan and conduct integration and formal verification testing of the MQ-28 Mission System
+Support ground and flight test operations for the MQ-28 Mission System focusing on the MQ-28 Mission System communication (datalink) and custodian interface.
+Lead and development of engineering documentation (Specifications, Design Documents, Interface Definitions, Test Procedures etc.).
+Provide input to Mission System Technical Performance Measures.
+Be the technical interface to the custodian development organisations external to BDA.
+
+To be considered for the role you will have:
+
+Minimum of 5 years' experience in complex technical development and integration projects. (essential)
+Experience in military data links (MIL-STD-6016 - Link 16) and Universal Command & Control Interface (UCI). (desirable)
+Hold tertiary qualifications in either Aerospace, Avionics, or Mechatronics, that satisfies the requirements for membership with Engineers Australia (MIEAust) or equivalent technical experience in a Systems Engineering discipline.
+Demonstrated experience in systems and software development lifecycle (essential).
+Demonstrated experience in avionics system level testing in a laboratory and ground test environments (desirable)
+Experience with aircraft avionics and UAV systems (desirable).
+Familiarity with engineering change processes.
+Experience with Agile delivery methodologies (highly regarded)
+Experience with Autonomous Systems projects (highly regarded)
+Experience with aerospace and / or Defence projects (highly regarded.)
+
+Applicants must be Australian Citizens to meet Defence security requirements.
+
+You may require a Foreign Work Authorisation (FWA) in order to perform this role. This is not a requirement set or determined by Boeing but by the Department of Defence under laws issued in 2024. Please refer to the Department of Defence website to understand these requirements.
+
+What's on offer?
+
+Boeing values the health and wellbeing of our employees and offer true flexibility including working from home, compressed work weeks, and opportunities for part time arrangements, allowing you to balance your career with what is important to you outside of work.
+
+Other benefits:
+
+Work on cutting edge projects with opportunities to work across platforms.
+Attractive remuneration and annual bonus.
+Formal mentoring and training as well as on the job learning.
+Formal reward and recognition program.
+Access discounts for health insurance, travel and accommodation.
+Paid study leave, paid parental leave and Defence leave.
+Salary packaging options available.
+Health and wellbeing benefits including annual flu vaccinations and Employee Assistance Program.
+Social and community groups.
+
+BDA works with strong links with our global Boeing community and we strongly encourage collaboration with our international counterparts.
+
+If you are ready to join an innovative industry leader and would like to register your interest in working for Boeing, please click Apply Now."
+92100810,Senior V&V Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/92100810?type=standard&ref=search-standalone&origin=jobCard#sol=da42389819ce1847b0f4324123abcce24114f001,3h ago,3.0,2026-05-14T01:00:00+00:00,"Scoresby, Melbourne VIC",Systems Engineering (Engineering),Full time,,"Accrue up to an extra 12 days of leave per year through our Life Days program.​
+
+Work with world leading technology business at the forefront of innovation.
+
+We’re a ‘Family Friendly’ certified workplace – we understand the often many and varied roles our team members need to play within their own unique family setting and actively support them.  
+
+
+
+
+Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers  
+
+
+
+
+Do Work That Matters 
+
+Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life.  Our 2000 local experts, backed by our global experience and network of partners, are working to solve the world’s toughest challenges in government, intelligence, defence, aviation, border protection and health markets.  
+
+
+
+
+Your New Role and Responsibilities  
+
+We have an opportunity for a senior Verification & Validation (V&V) Engineer to support testing and assurance activities across multiple mission systems operating within complex, multi‑domain security environments.
+
+
+
+
+In this role, you will independently plan, execute, and document verification and validation activities for systems, components, and operational processes. You will work closely with technical teams, V&V leadership, and stakeholders to ensure delivered capabilities meet defined requirements, standards, and user expectations.
+
+
+
+
+This role suits an experienced V&V practitioner who is confident operating with minimal supervision, contributing to test improvement initiatives, and supporting less experienced team members.
+
+
+
+
+Key responsibilities include:
+
+Plan and execute verification and validation activities across system changes, upgrades, and releases.
+
+Develop and maintain test artefacts including test plans, cases, procedures, reports, and traceability.
+
+Perform developmental, integration, and acceptance testing to ensure system quality and compliance.
+
+Identify, analyse, and manage defects using test and defect management tools, supporting root cause analysis.
+
+Collaborate with engineering and sustainment teams to ensure testability, quality outcomes, and compliance with security and change controls.
+
+Contribute to continuous improvement of V&V processes and provide guidance to junior team members.
+
+
+
+
+What You’ll Bring to Make An Impact  
+
+Qualification in IT, Engineering, Computer Science, or equivalent practical experience.
+
+Proven experience in verification and validation, systems testing, or quality assurance roles.
+
+Experience developing and maintaining test artefacts aligned to requirements and standards.
+
+Familiarity with test management and defect tracking tools (e.g. ALM, Jira, Confluence or similar).
+
+Understanding of systems engineering principles and structured V&V practices.
+
+Experience testing enterprise ICT environments, with exposure to SOE, infrastructure, applications, or test automation/scripting considered an advantage.
+
+
+
+
+Don’t worry if you don’t tick all the boxes – if you meet most of them, we encourage you to submit your application.  We’re most interested in your strengths, what you want to learn and how far you want to go.  
+
+
+
+
+This role does requires the successful applicant to be an Australian Citizen and hold an active TSPV Clearance, accompanied by the ability to be successful for a DISA/OSA.
+
+
+
+
+Diverse Team Members, Shared Values and a Common Purpose 
+
+Providing our customers with smarter solutions takes an incredible team with diversity of thought, experience and perspectives driving innovation. Inclusion is at the heart of our culture and is one of our core values. It's about creating a workplace where everyone can do important work, feels welcome, valued, and respected, and has equal access to opportunities to thrive. Paul Chase – Chief Executive, Leidos Australia. 
+
+
+
+
+Leidos Australia is an equal opportunities organisation and is committed to creating a truly inclusive workplace. We welcome and encourage applications from Aboriginal and Torres Strait Islanders, culturally and linguistically diverse people, people with disabilities, veterans, neurodiverse people, and people of all genders, sexualities, and age groups.  
+
+
+
+
+Our five Advocacy Groups (Women and Allies Network, Young Professionals, Defence & Emergency Services, Action for Accessibility and Abilities and Pride+) provide an opportunity for team members to connect and collaborate on shared interests, and work to support and celebrate our diverse community. 
+
+
+
+
+Next Steps 
+
+To apply for this role, follow the links or apply via our Careers page.  
+
+Recruitment process - 1 virtual interview or 1 face to face, a psychometric test & background checks. 
+
+Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1. 
+
+We are committed to making our recruitment process accessible to all candidates. Please contact our Careers team car•••••••@au.leidos.com if you’d like to discuss any additional support during your application or throughout the recruitment process."
+92100797,Senior V&V Engineer,Leidos Australia Pty Ltd,https://www.seek.com.au/job/92100797?type=standard&ref=search-standalone&origin=jobCard#sol=06a5e00c6d2f267a8845e479fa618df800483a68,3h ago,3.0,2026-05-14T01:00:00+00:00,Canberra ACT,Systems Engineering (Engineering),Full time,,"Accrue up to an extra 12 days of leave per year through our Life Days program.​
+
+Work with world leading technology business at the forefront of innovation.
+
+We’re a ‘Family Friendly’ certified workplace – we understand the often many and varied roles our team members need to play within their own unique family setting and actively support them.  
+
+
+
+
+Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers  
+
+
+
+
+Do Work That Matters 
+
+Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life.  Our 2000 local experts, backed by our global experience and network of partners, are working to solve the world’s toughest challenges in government, intelligence, defence, aviation, border protection and health markets.  
+
+
+
+
+Your New Role and Responsibilities  
+
+We have an opportunity for a senior Verification & Validation (V&V) Engineer to support testing and assurance activities across multiple mission systems operating within complex, multi‑domain security environments.
+
+
+
+
+In this role, you will independently plan, execute, and document verification and validation activities for systems, components, and operational processes. You will work closely with technical teams, V&V leadership, and stakeholders to ensure delivered capabilities meet defined requirements, standards, and user expectations.
+
+
+
+
+This role suits an experienced V&V practitioner who is confident operating with minimal supervision, contributing to test improvement initiatives, and supporting less experienced team members.
+
+
+
+
+Key responsibilities include:
+
+Plan and execute verification and validation activities across system changes, upgrades, and releases.
+
+Develop and maintain test artefacts including test plans, cases, procedures, reports, and traceability.
+
+Perform developmental, integration, and acceptance testing to ensure system quality and compliance.
+
+Identify, analyse, and manage defects using test and defect management tools, supporting root cause analysis.
+
+Collaborate with engineering and sustainment teams to ensure testability, quality outcomes, and compliance with security and change controls.
+
+Contribute to continuous improvement of V&V processes and provide guidance to junior team members.
+
+
+
+
+What You’ll Bring to Make An Impact  
+
+Qualification in IT, Engineering, Computer Science, or equivalent practical experience.
+
+Proven experience in verification and validation, systems testing, or quality assurance roles.
+
+Experience developing and maintaining test artefacts aligned to requirements and standards.
+
+Familiarity with test management and defect tracking tools (e.g. ALM, Jira, Confluence or similar).
+
+Understanding of systems engineering principles and structured V&V practices.
+
+Experience testing enterprise ICT environments, with exposure to SOE, infrastructure, applications, or test automation/scripting considered an advantage.
+
+
+
+
+Don’t worry if you don’t tick all the boxes – if you meet most of them, we encourage you to submit your application.  We’re most interested in your strengths, what you want to learn and how far you want to go.  
+
+
+
+
+This role does requires the successful applicant to be an Australian Citizen and hold an active TSPV Clearance, accompanied by the ability to be successful for a DISA/OSA.
+
+
+
+
+Diverse Team Members, Shared Values and a Common Purpose 
+
+Providing our customers with smarter solutions takes an incredible team with diversity of thought, experience and perspectives driving innovation. Inclusion is at the heart of our culture and is one of our core values. It's about creating a workplace where everyone can do important work, feels welcome, valued, and respected, and has equal access to opportunities to thrive. Paul Chase – Chief Executive, Leidos Australia. 
+
+
+
+
+Leidos Australia is an equal opportunities organisation and is committed to creating a truly inclusive workplace. We welcome and encourage applications from Aboriginal and Torres Strait Islanders, culturally and linguistically diverse people, people with disabilities, veterans, neurodiverse people, and people of all genders, sexualities, and age groups.  
+
+
+
+
+Our five Advocacy Groups (Women and Allies Network, Young Professionals, Defence & Emergency Services, Action for Accessibility and Abilities and Pride+) provide an opportunity for team members to connect and collaborate on shared interests, and work to support and celebrate our diverse community. 
+
+
+
+
+Next Steps 
+
+To apply for this role, follow the links or apply via our Careers page.  
+
+Recruitment process - 1 virtual interview or 1 face to face, a psychometric test & background checks. 
+
+Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1. 
+
+We are committed to making our recruitment process accessible to all candidates. Please contact our Careers team car•••••••@au.leidos.com if you’d like to discuss any additional support during your application or throughout the recruitment process."
+92100622,Senior GNC Engineer,Gilmour Space Technologies,https://www.seek.com.au/job/92100622?type=standard&ref=search-standalone&origin=jobCard#sol=ada7fb09fba4fb4b6c77ae9d848be8dc889d339b,3h ago,3.0,2026-05-14T01:00:00+00:00,"Yatala, Gold Coast QLD",Aerospace Engineering (Engineering),Full time,Base salary plus superannuation,"All Orbits, All Planets - Join us on our journey
+
+Gilmour Space is the leading Australian rocket company, pioneering next-generation hybrid propulsion technologies for small satellite launch vehicles.
+
+Are you a creative and experienced Senior GNC Engineer looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building rockets right here in Australia? Well now’s your chance! The Senior GNC Engineer is responsible for designing algorithms and implementing flight-critical software for rocket systems that will deliver satellites to orbit! You will work with a talented team of engineers to develop, analyse, test and operate launch vehicles, and its subsystems, with the aim of ensuring highly reliable flight. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!
+
+How you will contribute to our mission in getting Australia to space:
+
+The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:
+
+Leadership:
+
+Serve as a Responsible Engineer for GNC products, conducting technical assessments such as concept studies, trade studies, and COTS solution analyses. 
+Follow and participate in product development processes, including requirements definition, design, verification, and validation. 
+Represent the GNC discipline in program reviews, technical exchanges, and stakeholder briefings. 
+Establish best practices for GNC verification and validation (V&V), including hardware-in-the-loop testing, Monte Carlo simulations, and operational rehearsals. 
+Integrate GNC subsystems with avionics, software, mechanical, propulsion, and mission operations teams to ensure system-level performance and reliability. 
+Build, lead, and mentor a high-performing GNC team.
+Ensure that all engineering activities adhere to company policies, plans, and procedures and fulfill other duties as requested by management.
+
+Technical:
+
+Developing linear and non-linear models of control system plant dynamics and effectors for launch vehicles. 
+Iterating and improving upon the existing flight algorithm stack for navigation, guidance and control. 
+Drive continuous improvement of tools, automation, and analytical pipelines supporting design, analysis, and operations. 
+Analysing performance, stability and robustness of flight algorithms.
+Mission design and optimisation of launch vehicle trajectories. 
+Designing and implementing simulation and visualisation tools 
+Using numerical methods to propagate complex uncertainty models (e.g. Monte Carlo methods). 
+Conducting analyses and design studies for future vehicles in a multi-disciplinary team. 
+Characterising the natural environments for launch vehicles including wind and space radiation. 
+Applying data analysis techniques to validate models from test data.
+
+Mandatory Qualifications, Skills and Experience:
+
+Minimum of a Bachelor’s (B.S.) degree in Physics or Aerospace / Aeronautical / Mechanical / Electrical Engineering or relevant STEM degree.
+4+ years of experience in professional GNC, Flight Software or robotics design engineering settings (excluding internships).
+Proven ability to lead and collaborate effectively in a fast-paced, team-oriented environment, demonstrating resilience in high-stress situations and a supportive approach with team members.
+Demonstrated experience with programming in Python, MATLAB, or other high-level languages.
+Demonstrated experience with low-level development language (e.g. C++, C).
+Experience with git workflows or equivalent version control system.
+Experience with software verification and validation, as well as working in a continuous integration environment.
+Experience working within a Systems Engineering framework.
+Ability to obtain NV1 Security Clearance.
+
+Desired Qualifications, Skills and Experience:
+
+We recognise you may not meet all of the below, but don’t let that deter you. We are always looking for hard workers to join our team, so what are you waiting for? Let’s send Australia to space:
+
+Strong command of control theory and proven experience in control systems design.
+Experience in launch vehicle, missile, UAV or satellite programs.
+Experience in simulator development.
+Familiarity with Linux-based environments, scripting, and containerised toolchains.
+Understanding of sensor and actuator hardware (IMU, GNSS, EMA).
+
+How to Apply:
+
+Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.
+
+If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our website: CAREER | Gilmour Space Technologies | Rocket launch provider (gspace.com). 
+
+Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.
+
+No Recruitment Agencies Please"
+92100231,Data Engineer - Asset Management Consultant,Aurecon,https://www.seek.com.au/job/92100231?type=standard&ref=search-standalone&origin=jobCard#sol=986dd236d383d65ef72d5b14dec0b0163d1a37da,4h ago,4.0,2026-05-14T00:00:00+00:00,Sydney NSW,Consultants (Information & Communication Technology),Full time,Meaningful benefits,"Want to bring your consulting skills into engineering and asset management?
+
+At Aurecon, we're an Australian-owned design, engineering and advisory company with a proud history of helping clients manage their assets across the full lifecycle. With strong growth across Australia, we're seeking Consultants to join our national Asset Management Advisory team.
+
+This is an opportunity to move beyond traditional consulting and apply your skills to projects that improve the performance, reliability and sustainability of the infrastructure and assets communities rely on every day.
+
+How you'll make an impact
+
+You'll work with clients across both the public and private sectors, contributing to projects that drive operational excellence and sustainable outcomes. From day one, you'll build your consulting toolkit while gaining hands-on experience in engineering‑led initiatives.
+
+Your work will include:
+
+Supporting end‑to‑end project delivery, from analysis through to client engagement and measurable outcomes.
+Translating technical data and insights into clear, actionable advice for clients.
+Contributing to solutions in areas such as asset management strategies, Asset decision-making, performance improvement, system design, and asset condition assessments.
+Collaborating with senior advisors on initiatives spanning operational readiness, reliability engineering, productivity improvement, capital portfolio management and complex, multi-disciplinary projects..
+
+What you'll bring
+
+As a Data Engineer, you'll join a rapidly growing team within an emerging part of the business. Your technical capability and curiosity will help you work confidently with clients and internal stakeholders across diverse environments.
+
+We're looking for someone with:
+
+Experience across the software development life cycle, including containerisation, Git and data science languages/notebooks
+Strong data engineering skills: cleansing, transformation, loading and modelling across SQL and NoSQL
+Familiarity with major cloud platforms (Azure, AWS or GCP) and their storage, database, data lake and analytics services
+Experience with key data and ML tools such as Spark, Databricks, Python, R, TensorFlow/PyTorch and Jupyter/RStudio
+Understanding of data visualisation (e.g., Power BI), agile ways of working and holding a relevant scientific or engineering degree
+
+If you don't tick every box but believe you can bring value to the team - please still apply.
+
+Ready to bring ideas to life?
+
+Then please apply. Remember, it's you and how you bring ideas to life which are important. Your background, unique needs and individuality will be valued. Visit our website to learn more at www.aurecongroup.com
+
+Does that sound like you? APPLY NOW!"
+92100212,EL 1 - Senior Cloud Data Engineer,Department of Veterans' Affairs,https://www.seek.com.au/job/92100212?type=standard&ref=search-standalone&origin=jobCard#sol=a82fdd89eb6da78d99d9ea4d5979db1f617a9059,4h ago,4.0,2026-05-14T00:00:00+00:00,Canberra ACT,"Developers/Programmers (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,+ Attractive Superannuation,"At the Department of Veterans’ Affairs (DVA), data helps us improve services and outcomes for veterans and their families. From timely reporting and policy insights to advanced analytics, simulation modelling and machine learning, our work supports decisions that matter.
+
+The Data and Insights Branch is modernising how DVA manages and uses data, analytics and research to underpin evidence-based policy, service delivery and wellbeing outcomes. We value collaboration, curiosity and practical problem-solving, building capability and trusted data products so the department can better understand and respond to changing needs.
+
+The Data Engineering team is building and evolving DVA’s enterprise data platform and warehouse, integrating data from multiple sources into curated, well-governed data products used for standard reporting, advanced analytics and predictive analysis. We make source-system data easier to understand and use by applying strong modelling practices, clear documentation, quality controls and fit-for-purpose pipelines. We partner closely with analysts, visualisation specialists and ICT teams, and we support proof-of-concepts to trial new approaches, particularly in cloud infrastructure and modern engineering practices.
+
+We are particularly interested in candidates with experience in cloud environments (Azure and/or AWS) and modern data engineering stacks. Strong Python and SQL skills are important. Experience with dimensional modelling (3NF and star schemas), DBT, Airflow, Atlassian Cloud (Jira/Confluence) and GitLab is also highly regarded.
+
+This role suits a senior engineer who enjoys working across the full delivery lifecycle, translating business needs into reliable data assets, uplifting engineering standards, and mentoring others. You’ll work with meaningful datasets, contribute to improved public services, and help shape how DVA uses data safely and effectively.
+
+Duties
+
+Please refer to Candidate Information Pack for a list of duties related to this role.
+
+Eligibility
+
+Under section 22(8) of the Public Service Act 1999, employees must be Australian citizens to be employed in the Australian Public Service (APS).
+All applicants external to DVA offered employment will be required to successfully undergo a pre-engagement screening check, even if they have a security clearance. The screening check is conducted in accordance with the Australian Government Protective Security Policy Framework requirements.
+The successful candidate will be required obtain and maintain a Baseline Vetting (AGSVA) security clearance.
+
+Mandatory requirements
+
+Candidates are required to hold at least a Bachelor’s degree in a relevant discipline
+
+Contact Officer Details:
+
+For any job-related information required after reading the selection documentation, please contact Matthew Buchhorn - 02 •••• •724 - matthew.buchhorn@dva.gov.au.
+
+Where to lodge Applications:
+
+To apply go to https://dvajobs.nga.net.au/cp/index.cfm?event=jobs.home and complete the online application by 11.30pm AEST Thursday 28 May 2026."
+92100210,EL 1 - Senior Cloud Data Engineer,Department of Veterans' Affairs,https://www.seek.com.au/job/92100210?type=standard&ref=search-standalone&origin=jobCard#sol=3bb559d602c2b404c02ff01717f2b7c2161af998,4h ago,4.0,2026-05-14T00:00:00+00:00,Hobart TAS,"Developers/Programmers (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,+ Attractive Superannuation,"At the Department of Veterans’ Affairs (DVA), data helps us improve services and outcomes for veterans and their families. From timely reporting and policy insights to advanced analytics, simulation modelling and machine learning, our work supports decisions that matter.
+
+The Data and Insights Branch is modernising how DVA manages and uses data, analytics and research to underpin evidence-based policy, service delivery and wellbeing outcomes. We value collaboration, curiosity and practical problem-solving, building capability and trusted data products so the department can better understand and respond to changing needs.
+
+The Data Engineering team is building and evolving DVA’s enterprise data platform and warehouse, integrating data from multiple sources into curated, well-governed data products used for standard reporting, advanced analytics and predictive analysis. We make source-system data easier to understand and use by applying strong modelling practices, clear documentation, quality controls and fit-for-purpose pipelines. We partner closely with analysts, visualisation specialists and ICT teams, and we support proof-of-concepts to trial new approaches, particularly in cloud infrastructure and modern engineering practices.
+
+We are particularly interested in candidates with experience in cloud environments (Azure and/or AWS) and modern data engineering stacks. Strong Python and SQL skills are important. Experience with dimensional modelling (3NF and star schemas), DBT, Airflow, Atlassian Cloud (Jira/Confluence) and GitLab is also highly regarded.
+
+This role suits a senior engineer who enjoys working across the full delivery lifecycle, translating business needs into reliable data assets, uplifting engineering standards, and mentoring others. You’ll work with meaningful datasets, contribute to improved public services, and help shape how DVA uses data safely and effectively.
+
+Duties
+
+Please refer to Candidate Information Pack for a list of duties related to this role.
+
+Eligibility
+
+Under section 22(8) of the Public Service Act 1999, employees must be Australian citizens to be employed in the Australian Public Service (APS).
+All applicants external to DVA offered employment will be required to successfully undergo a pre-engagement screening check, even if they have a security clearance. The screening check is conducted in accordance with the Australian Government Protective Security Policy Framework requirements.
+The successful candidate will be required obtain and maintain a Baseline Vetting (AGSVA) security clearance.
+
+Mandatory requirements
+
+Candidates are required to hold at least a Bachelor’s degree in a relevant discipline
+
+Contact Officer Details:
+
+For any job-related information required after reading the selection documentation, please contact Matthew Buchhorn - 02 •••• •724 - matthew.buchhorn@dva.gov.au.
+
+Where to lodge Applications:
+
+To apply go to https://dvajobs.nga.net.au/cp/index.cfm?event=jobs.home and complete the online application by 11.30pm AEST Thursday 28 May 2026."
+92100208,EL 1 - Senior Cloud Data Engineer,Department of Veterans' Affairs,https://www.seek.com.au/job/92100208?type=standard&ref=search-standalone&origin=jobCard#sol=79c6b5e6b26465c6ecc2c668fff94f8c6024a91f,4h ago,4.0,2026-05-14T00:00:00+00:00,Sydney NSW,"Developers/Programmers (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,+ Attractive Superannuation,"At the Department of Veterans’ Affairs (DVA), data helps us improve services and outcomes for veterans and their families. From timely reporting and policy insights to advanced analytics, simulation modelling and machine learning, our work supports decisions that matter.
+
+The Data and Insights Branch is modernising how DVA manages and uses data, analytics and research to underpin evidence-based policy, service delivery and wellbeing outcomes. We value collaboration, curiosity and practical problem-solving, building capability and trusted data products so the department can better understand and respond to changing needs.
+
+The Data Engineering team is building and evolving DVA’s enterprise data platform and warehouse, integrating data from multiple sources into curated, well-governed data products used for standard reporting, advanced analytics and predictive analysis. We make source-system data easier to understand and use by applying strong modelling practices, clear documentation, quality controls and fit-for-purpose pipelines. We partner closely with analysts, visualisation specialists and ICT teams, and we support proof-of-concepts to trial new approaches, particularly in cloud infrastructure and modern engineering practices.
+
+We are particularly interested in candidates with experience in cloud environments (Azure and/or AWS) and modern data engineering stacks. Strong Python and SQL skills are important. Experience with dimensional modelling (3NF and star schemas), DBT, Airflow, Atlassian Cloud (Jira/Confluence) and GitLab is also highly regarded.
+
+This role suits a senior engineer who enjoys working across the full delivery lifecycle, translating business needs into reliable data assets, uplifting engineering standards, and mentoring others. You’ll work with meaningful datasets, contribute to improved public services, and help shape how DVA uses data safely and effectively.
+
+Duties
+
+Please refer to Candidate Information Pack for a list of duties related to this role.
+
+Eligibility
+
+Under section 22(8) of the Public Service Act 1999, employees must be Australian citizens to be employed in the Australian Public Service (APS).
+All applicants external to DVA offered employment will be required to successfully undergo a pre-engagement screening check, even if they have a security clearance. The screening check is conducted in accordance with the Australian Government Protective Security Policy Framework requirements.
+The successful candidate will be required obtain and maintain a Baseline Vetting (AGSVA) security clearance.
+
+Mandatory requirements
+
+Candidates are required to hold at least a Bachelor’s degree in a relevant discipline
+
+Contact Officer Details:
+
+For any job-related information required after reading the selection documentation, please contact Matthew Buchhorn - 02 •••• •724 - matthew.buchhorn@dva.gov.au.
+
+Where to lodge Applications:
+
+To apply go to https://dvajobs.nga.net.au/cp/index.cfm?event=jobs.home and complete the online application by 11.30pm AEST Thursday 28 May 2026."
+92100207,EL 1 - Senior Cloud Data Engineer,Department of Veterans' Affairs,https://www.seek.com.au/job/92100207?type=standard&ref=search-standalone&origin=jobCard#sol=90793acf4fa698128499aa61b652c8b198b951ce,4h ago,4.0,2026-05-14T00:00:00+00:00,Adelaide SA,"Developers/Programmers (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,+ Attractive Superannuation,"At the Department of Veterans’ Affairs (DVA), data helps us improve services and outcomes for veterans and their families. From timely reporting and policy insights to advanced analytics, simulation modelling and machine learning, our work supports decisions that matter.
+
+The Data and Insights Branch is modernising how DVA manages and uses data, analytics and research to underpin evidence-based policy, service delivery and wellbeing outcomes. We value collaboration, curiosity and practical problem-solving, building capability and trusted data products so the department can better understand and respond to changing needs.
+
+The Data Engineering team is building and evolving DVA’s enterprise data platform and warehouse, integrating data from multiple sources into curated, well-governed data products used for standard reporting, advanced analytics and predictive analysis. We make source-system data easier to understand and use by applying strong modelling practices, clear documentation, quality controls and fit-for-purpose pipelines. We partner closely with analysts, visualisation specialists and ICT teams, and we support proof-of-concepts to trial new approaches, particularly in cloud infrastructure and modern engineering practices.
+
+We are particularly interested in candidates with experience in cloud environments (Azure and/or AWS) and modern data engineering stacks. Strong Python and SQL skills are important. Experience with dimensional modelling (3NF and star schemas), DBT, Airflow, Atlassian Cloud (Jira/Confluence) and GitLab is also highly regarded.
+
+This role suits a senior engineer who enjoys working across the full delivery lifecycle, translating business needs into reliable data assets, uplifting engineering standards, and mentoring others. You’ll work with meaningful datasets, contribute to improved public services, and help shape how DVA uses data safely and effectively.
+
+Duties
+
+Please refer to Candidate Information Pack for a list of duties related to this role.
+
+Eligibility
+
+Under section 22(8) of the Public Service Act 1999, employees must be Australian citizens to be employed in the Australian Public Service (APS).
+All applicants external to DVA offered employment will be required to successfully undergo a pre-engagement screening check, even if they have a security clearance. The screening check is conducted in accordance with the Australian Government Protective Security Policy Framework requirements.
+The successful candidate will be required obtain and maintain a Baseline Vetting (AGSVA) security clearance.
+
+Mandatory requirements
+
+Candidates are required to hold at least a Bachelor’s degree in a relevant discipline
+
+Contact Officer Details:
+
+For any job-related information required after reading the selection documentation, please contact Matthew Buchhorn - 02 •••• •724 - matthew.buchhorn@dva.gov.au.
+
+Where to lodge Applications:
+
+To apply go to https://dvajobs.nga.net.au/cp/index.cfm?event=jobs.home and complete the online application by 11.30pm AEST Thursday 28 May 2026."
+92100206,EL 1 - Senior Cloud Data Engineer,Department of Veterans' Affairs,https://www.seek.com.au/job/92100206?type=standard&ref=search-standalone&origin=jobCard#sol=d2f7707fc3b0a7eda98c5d1c03b6de9f98cb9bdb,4h ago,4.0,2026-05-14T00:00:00+00:00,Brisbane QLD,"Developers/Programmers (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,+ Attractive Superannuation,"At the Department of Veterans’ Affairs (DVA), data helps us improve services and outcomes for veterans and their families. From timely reporting and policy insights to advanced analytics, simulation modelling and machine learning, our work supports decisions that matter.
+
+The Data and Insights Branch is modernising how DVA manages and uses data, analytics and research to underpin evidence-based policy, service delivery and wellbeing outcomes. We value collaboration, curiosity and practical problem-solving, building capability and trusted data products so the department can better understand and respond to changing needs.
+
+The Data Engineering team is building and evolving DVA’s enterprise data platform and warehouse, integrating data from multiple sources into curated, well-governed data products used for standard reporting, advanced analytics and predictive analysis. We make source-system data easier to understand and use by applying strong modelling practices, clear documentation, quality controls and fit-for-purpose pipelines. We partner closely with analysts, visualisation specialists and ICT teams, and we support proof-of-concepts to trial new approaches, particularly in cloud infrastructure and modern engineering practices.
+
+We are particularly interested in candidates with experience in cloud environments (Azure and/or AWS) and modern data engineering stacks. Strong Python and SQL skills are important. Experience with dimensional modelling (3NF and star schemas), DBT, Airflow, Atlassian Cloud (Jira/Confluence) and GitLab is also highly regarded.
+
+This role suits a senior engineer who enjoys working across the full delivery lifecycle, translating business needs into reliable data assets, uplifting engineering standards, and mentoring others. You’ll work with meaningful datasets, contribute to improved public services, and help shape how DVA uses data safely and effectively.
+
+Duties
+
+Please refer to Candidate Information Pack for a list of duties related to this role.
+
+Eligibility
+
+Under section 22(8) of the Public Service Act 1999, employees must be Australian citizens to be employed in the Australian Public Service (APS).
+All applicants external to DVA offered employment will be required to successfully undergo a pre-engagement screening check, even if they have a security clearance. The screening check is conducted in accordance with the Australian Government Protective Security Policy Framework requirements.
+The successful candidate will be required obtain and maintain a Baseline Vetting (AGSVA) security clearance.
+
+Mandatory requirements
+
+Candidates are required to hold at least a Bachelor’s degree in a relevant discipline
+
+Contact Officer Details:
+
+For any job-related information required after reading the selection documentation, please contact Matthew Buchhorn - 02 •••• •724 - matthew.buchhorn@dva.gov.au.
+
+Where to lodge Applications:
+
+To apply go to https://dvajobs.nga.net.au/cp/index.cfm?event=jobs.home and complete the online application by 11.30pm AEST Thursday 28 May 2026."
+92100205,EL 1 - Senior Cloud Data Engineer,Department of Veterans' Affairs,https://www.seek.com.au/job/92100205?type=standard&ref=search-standalone&origin=jobCard#sol=7f1cd3dde08f7b98cdabf9c0a578b6402d3c2f9f,4h ago,4.0,2026-05-14T00:00:00+00:00,Melbourne VIC,"Developers/Programmers (Information & Communication Technology)
+Government - Federal (Government & Defence)",Full time,+ Attractive Superannuation,"At the Department of Veterans’ Affairs (DVA), data helps us improve services and outcomes for veterans and their families. From timely reporting and policy insights to advanced analytics, simulation modelling and machine learning, our work supports decisions that matter.
+
+The Data and Insights Branch is modernising how DVA manages and uses data, analytics and research to underpin evidence-based policy, service delivery and wellbeing outcomes. We value collaboration, curiosity and practical problem-solving, building capability and trusted data products so the department can better understand and respond to changing needs.
+
+The Data Engineering team is building and evolving DVA’s enterprise data platform and warehouse, integrating data from multiple sources into curated, well-governed data products used for standard reporting, advanced analytics and predictive analysis. We make source-system data easier to understand and use by applying strong modelling practices, clear documentation, quality controls and fit-for-purpose pipelines. We partner closely with analysts, visualisation specialists and ICT teams, and we support proof-of-concepts to trial new approaches, particularly in cloud infrastructure and modern engineering practices.
+
+We are particularly interested in candidates with experience in cloud environments (Azure and/or AWS) and modern data engineering stacks. Strong Python and SQL skills are important. Experience with dimensional modelling (3NF and star schemas), DBT, Airflow, Atlassian Cloud (Jira/Confluence) and GitLab is also highly regarded.
+
+This role suits a senior engineer who enjoys working across the full delivery lifecycle, translating business needs into reliable data assets, uplifting engineering standards, and mentoring others. You’ll work with meaningful datasets, contribute to improved public services, and help shape how DVA uses data safely and effectively.
+
+Duties
+
+Please refer to Candidate Information Pack for a list of duties related to this role.
+
+Eligibility
+
+Under section 22(8) of the Public Service Act 1999, employees must be Australian citizens to be employed in the Australian Public Service (APS).
+All applicants external to DVA offered employment will be required to successfully undergo a pre-engagement screening check, even if they have a security clearance. The screening check is conducted in accordance with the Australian Government Protective Security Policy Framework requirements.
+The successful candidate will be required obtain and maintain a Baseline Vetting (AGSVA) security clearance.
+
+Mandatory requirements
+
+Candidates are required to hold at least a Bachelor’s degree in a relevant discipline
+
+Contact Officer Details:
+
+For any job-related information required after reading the selection documentation, please contact Matthew Buchhorn - 02 •••• •724 - matthew.buchhorn@dva.gov.au.
+
+Where to lodge Applications:
+
+To apply go to https://dvajobs.nga.net.au/cp/index.cfm?event=jobs.home and complete the online application by 11.30pm AEST Thursday 28 May 2026."
+92100202,Data Engineer - Asset Management Consultant,Aurecon,https://www.seek.com.au/job/92100202?type=standard&ref=search-standalone&origin=jobCard#sol=2f70428c57261b9b1468bf582f9ca3b00ffc9d80,4h ago,4.0,2026-05-14T00:00:00+00:00,Brisbane QLD,Consultants (Information & Communication Technology),Full time,Meaningful benefits,"Want to bring your consulting skills into engineering and asset management?
+
+At Aurecon, we're an Australian-owned design, engineering and advisory company with a proud history of helping clients manage their assets across the full lifecycle. With strong growth across Australia, we're seeking Consultants to join our national Asset Management Advisory team.
+
+This is an opportunity to move beyond traditional consulting and apply your skills to projects that improve the performance, reliability and sustainability of the infrastructure and assets communities rely on every day.
+
+How you'll make an impact
+
+You'll work with clients across both the public and private sectors, contributing to projects that drive operational excellence and sustainable outcomes. From day one, you'll build your consulting toolkit while gaining hands-on experience in engineering‑led initiatives.
+
+Your work will include:
+
+Supporting end‑to‑end project delivery, from analysis through to client engagement and measurable outcomes.
+Translating technical data and insights into clear, actionable advice for clients.
+Contributing to solutions in areas such as asset management strategies, Asset decision-making, performance improvement, system design, and asset condition assessments.
+Collaborating with senior advisors on initiatives spanning operational readiness, reliability engineering, productivity improvement, capital portfolio management and complex, multi-disciplinary projects..
+
+What you'll bring
+
+As a Data Engineer, you'll join a rapidly growing team within an emerging part of the business. Your technical capability and curiosity will help you work confidently with clients and internal stakeholders across diverse environments.
+
+We're looking for someone with:
+
+Experience across the software development life cycle, including containerisation, Git and data science languages/notebooks
+Strong data engineering skills: cleansing, transformation, loading and modelling across SQL and NoSQL
+Familiarity with major cloud platforms (Azure, AWS or GCP) and their storage, database, data lake and analytics services
+Experience with key data and ML tools such as Spark, Databricks, Python, R, TensorFlow/PyTorch and Jupyter/RStudio
+Understanding of data visualisation (e.g., Power BI), agile ways of working and holding a relevant scientific or engineering degree
+
+If you don't tick every box but believe you can bring value to the team - please still apply.
+
+Ready to bring ideas to life?
+
+Then please apply. Remember, it's you and how you bring ideas to life which are important. Your background, unique needs and individuality will be valued. Visit our website to learn more at www.aurecongroup.com
+
+Does that sound like you? APPLY NOW!"
+92096045,L2/3 MSP Engineer - High-Performing Aussie MSP - Azure/Modern Workplace!,Saul Recruitment,https://www.seek.com.au/job/92096045?type=standard&ref=search-standalone&origin=jobCard#sol=a2e7c3753752e171d6f9a0f1db52fca37ab9019f,14h ago,14.0,2026-05-13T14:00:00+00:00,Adelaide SA (Hybrid),Networks & Systems Administration (Information & Communication Technology),Full time,Up to $120k + Super + Training!,"Saul Recruitment - Specialising in recruiting top MSP/Cloud talent across Oz & NZ!
+
+Join a high-performing Australian MSP where innovation, collaboration, and career growth are genuinely valued! Work alongside a super talented team!
+
+Looking for a role where you can work on modern cloud and security tech, solve real technical challenges and keep developing your skills?
+
+$90k - $120k + Super + Training
+Adelaide CBD | Hybrid WFH | Loads of Training and Career Growth!
+High-Performing Aussie MSP - Azure/Modern Workplace! 
+This is a genuine local success story. A fast-growing MSP investing heavily in its people while delivering innovative, cutting-edge solutions for an impressive portfolio of fantastic clients across Australia!
+ 
+If you enjoy variety, complex environments and working closely with clients, this will be a great move.
+
+Why This Company Stands Out:
+
+Interesting technical work: Cloud migrations, modern workplace deployments, security solutions and complex environments.
+Real career progression: Training, certifications and the chance to expand your technical depth.
+Supportive leadership: Managers who understand engineering and back their team.
+Hybrid working: Flexibility between home and office.
+Collaborative culture: A team of engineers who enjoy sharing knowledge and solving problems together.
+This is a business that’s continuing to grow and evolve - and they want engineers who enjoy learning, contributing and making an impact.
+
+** What You’ll Be Doing
+
+Providing Level 2/3 engineering support across client environments
+Assisting with complex cloud and infrastructure projects
+Assisting clients with forward thinking IT Strategy!
+Visiting client sites when required
+Acting as a technical advisor to clients
+Assist on security projects
+Contributing to improving documentation and internal systems
+** What You’ll Bring:
+
+Proven Level 2/3 MSP experience supporting multiple client environments
+Experience with cloud migrations and modern workplace deployments
+Experience with modern device management (Intune, Autopilot)
+Relevant Microsoft certifications or working towards them
+Strong troubleshooting and root-cause problem-solving ability
+Experience delivering cloud and infrastructure projects
+Confident client communication and advisory skills
+Ability to prioritise and manage multiple clients and tasks
+Solid documentation habits and attention to detail
+A proactive, team-oriented mindset with a passion for learning
+** Tech Environment Experience across a mix of:
+
+Microsoft 365
+Azure
+Entra ID
+Intune/Autopilot
+On-prem infrastructure
+Backup & Disaster Recovery
+Networking & Security
+Scripting/automation
+Windows Virtual Desktop (WVD)
+Virtual Machines (VM)
+SharePoint, Teams, Power Apps, and Power Automate
+Any Cloud migration experience a bonus!
+** What’s In It For You?
+
+Work with a growing MSP supporting diverse clients
+Learn from experienced engineers and mentors
+Access training, certifications and development opportunities
+Exposure to modern technologies and cloud platforms
+Join a supportive, collaborative technical team
+Flexible hybrid working 
+This is a real opportunity to shine - and to be recognised and rewarded for it!
+
+Referral Bonus! Know someone who would be perfect? Refer them and receive $2000 if they’re successfully placed!"
