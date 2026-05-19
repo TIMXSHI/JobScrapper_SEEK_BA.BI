@@ -1,5 +1,690 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-92184629,Senior Robotics Engineer,Opus Recruitment Solutions,https://www.seek.com.au/job/92184629?type=standard&ref=search-standalone&origin=jobCard#sol=4b367f6e4e29750d88e98da1783e53eef392524a,2h ago,2.0,2026-05-18T22:00:00+00:00,"Glebe, Sydney NSW",Mechanical Engineering (Engineering),Full time,"$130,000 – $170,000 per year plus super","Senior Robotics Engineer Sydney | $130k-$170k + super
+92193102,Engineering Manager — Device Verification & Test,Morse Micro,https://www.seek.com.au/job/92193102?type=standard&ref=search-standalone&origin=jobCard#sol=4a1ed37492e9736c57ac50fc9e0557983a354bb8,1h ago,1.0,2026-05-19T03:00:00+00:00,Sydney NSW,Testing & Quality Assurance (Information & Communication Technology),Full time,,"Morse Micro is at the forefront of next-generation Wi-Fi technology, delivering breakthrough solutions that redefine wireless connectivity. Our innovative products are designed to meet the demands of the rapidly evolving market, providing superior performance and reliability.
+
+
+About the Role
+
+
+Based in Sydney and reporting to senior engineering leadership, you will lead our Device Verification & Test team. This team characterises and qualifies Morse Micro’s Wi-Fi HaLow silicon, modules, and reference designs across RF performance, throughput-vs-range, power consumption, sleep behaviour, interference resilience, and stability across voltage and temperature corners.
+
+This is a hands-on engineering leadership role. You will set the DVT roadmap, guide technical execution, and ensure the team’s data supports datasheets, production screening limits, customer commitments, and product release decisions. You will work closely with Hardware, Systems, Software, Software Validation, Product Engineering, and Operations to keep validation aligned with chip programs, module releases, and software release cadences.
+
+You will also own the bridge from characterisation to production test, leading our ATE test development program and supporting load board qualification, NPI handoff, and high-volume manufacturing readiness.
+
+We are also looking for someone excited about using AI tooling pragmatically to improve validation productivity across test automation, data analysis, anomaly detection, and report generation.
+
+
+Key Responsibilities
+
+
+Lead the DVT team and own its roadmap, aligning priorities with silicon programs, module releases, reference designs, and software release cadences.
+
+Drive characterisation and qualification of new silicon, modules, and reference designs after hardware bring-up, including RF, throughput, power, sleep, interference, and stability testing.
+
+Establish sample coverage, characterise spread, set datasheet and production-screening limits, and provide clear recommendations for release decisions.
+
+Maintain device-level regression coverage so firmware, driver, hardware, and configuration changes do not silently shift RF performance, power consumption, or link behaviour.
+
+Partner with Hardware, Systems, Software, Software Validation, Product Engineering, and Operations on product validation, release readiness, and NPI execution.
+
+Oversee ATE test development for RF SoCs, including test program development, load board qualification, correlation, and production handoff.
+
+Improve validation throughput using automation, CI, dashboards, structured data stores, and AI-assisted analysis and reporting.
+
+Maintain and evolve the team’s test infrastructure, including LitePoint-based RF setups, lab automation, Jenkins CI, DVT dashboards, and test data pipelines.
+
+Support failure analysis on customer returns and feed findings back into design, validation, and production test flows.
+
+Set priorities, manage workload, and communicate outcomes, risks, and recommendations clearly to engineering leadership.
+
+Required Skills & Experience
+
+
+BS/MS in Electrical Engineering, Systems Engineering, or a related discipline.
+
+10+ years in semiconductor, RF, wireless, or connected-product validation, including 3+ years leading an engineering team.
+
+Strong grounding in RF and wireless test fundamentals, including Tx/Rx characterisation, EVM, sensitivity, current consumption, interference testing, and over-the-air measurements.
+
+Hands-on RF hardware experience, including RF circuit fundamentals, matching networks, antenna integration, and interpreting how design choices appear in measured results.
+
+Demonstrated experience validating complex wireless products through characterisation, qualification, and release.
+
+Experience with lab equipment such as LitePoint, spectrum analysers, signal generators, VNAs, power meters, and automated test setups.
+
+Strong Python test automation experience.
+
+Track record scaling validation automation using CI, Jenkins or equivalent infrastructure, data pipelines, dashboards, and structured reporting.
+
+Proven ability to work across Hardware, Systems, Software, Software Validation, Product Engineering, and Operations to drive validation outcomes.
+
+Excellent written and verbal communication, with the ability to frame tests clearly, explain trade-offs, and present recommendations to engineering leadership.
+
+Interest in applying AI tooling to test automation, data analysis, anomaly detection, and reporting.
+
+Desirable
+
+
+Background in Wi-Fi or related wireless standards.
+
+ATE test program development for RF ICs (Teradyne UltraFLEX or similar).
+
+Experience designing or reviewing RF load boards.
+
+Familiarity with IC production test flows and the NPI process.
+
+High-volume production testing, yield analysis, and characterisation reporting.
+
+Data analysis tools — Python, JMP, or equivalent.
+
+Experience with relational data stores (e.g. MySQL) for managing test data at scale.
+
+What we offer
+
+
+Competitive salary + excellent stock option package
+
+Performance bonus opportunity
+
+Income protection insurance
+
+Healthy work environment with sit/stand desks and large screens
+
+Lots of snacks & drinks, including barista coffee, Friday team lunches & some of the world’s best beers
+
+Flexible working hours
+
+Work from home policy
+
+Community & social groups and much more
+
+Join a high performing, inclusive company where you can make a real impact
+
+Who we are
+
+
+Morse Micro is Australia’s largest semiconductor company building Wi-Fi HaLow (802.11ah) chips for the Internet of Things (IoT). We are a team of wireless experts that love to work hard, innovate, and invent. Together, we are building the world’s lowest power Wi-Fi technology that will enable billions of IoT devices to connect securely to the internet. We are a global team with offices in Sydney, Picton & Melbourne (Australia), Irvine, Bay Area & Boston (USA), Bangalore (India), Cambridge (UK), Hangzhou (China), Taipei (Taiwan) and Tokyo (Japan).
+
+Apply for this Job"
+92190185,Senior Sofware Engineer (AI),Talenza,https://www.seek.com.au/job/92190185?type=standard&ref=search-standalone&origin=jobCard#sol=8e1c7550764ff0149c2d09e56a8395c6a109296b,2h ago,2.0,2026-05-19T02:00:00+00:00,Sydney NSW,Other (Information & Communication Technology),Full time,$190k - $210k p.a.,"Senior Software Engineer (AI)
+
+📍 Sydney, Australia
+💰 Up to $210,000 package (inc Super) + Bonus
+🕒 Permanent | Mid-level to Mid-Senior
+
+
+About
+
+Driven by our AI-first strategy, we are creating AI-native solutions and an AI-empowered workforce to deliver best-in-class experiences for over 2 million Australians. You will join our talented Enterprise AI Enablement team to build leading-edge solutions within our agentic AI ecosystem.
+
+What Role Will You Play?
+
+As a Software Engineer within the Enterprise AI Enablement team, you will be at the forefront of designing and building robust, scalable backend systems that power our AI-native solutions.
+
+With a strong emphasis on software engineering excellence, you will spend the majority of your time writing production-grade code and automating complex workflows to create a resilient foundation for our agentic AI ecosystem.
+
+You will:
+
+
+
+
+
+Take end-to-end ownership of products in a modern DevOps culture
+Design, architect, build, test, and operate scalable backend systems
+Work alongside data scientists in a multidisciplinary AI team
+Implement LLMOps best practices for deploying and monitoring AI models
+Build reliable, observable, and production-ready AI platforms
+
+This role is ideal for a software engineer who has transitioned into Data/ML & AI and wants to build enterprise-grade AI systems at scale.
+
+What You Offer
+
+
+
+
+
+5+ years' experience as a Software Engineer in an agile DevOps environment
+Strong object-oriented programming experience (Python preferred)
+Experience across the full SDLC: design, build, test, and support mission-critical production platforms
+Proven ability to write robust, production-grade code and automate complex workflows
+Hands-on experience with CI/CD pipelines
+Experience managing deployments in containerised cloud environments (Docker/Kubernetes)
+Exposure to modern agentic AI frameworks and concepts such as:
+RAG (Retrieval-Augmented Generation)
+MCP
+GCP Vertex AI
+Google ADK
+LangChain / LangGraph
+LlamaIndex
+Knowledge of LLMOps best practices for model experimentation, deployment, and monitoring
+
+If you feel you possess the relevant skills to the above, apply now with most updated CV!"
+92190084,Data Engineer,Mark My Words,https://www.seek.com.au/job/92190084?type=standard&ref=search-standalone&origin=jobCard#sol=87404628dc595f81bb3e10a052afdd24c821822a,2h ago,2.0,2026-05-19T02:00:00+00:00,Melbourne VIC (Remote),Engineering - Software (Information & Communication Technology),Full time,"$125,000 per year","The Role
+
+We're hiring a Data Engineer to manage our data pipelines for ML. This covers data collection from the front-end, data generation with the ML team, dataset preparation for human labelling in Prodigy, and evaluation. We already have pipelines in place — your job is to automate them and make them reliable as we scale.
+
+What You'll Do
+
+- Mature and automate our data lake. We already have pipelines and storage in place — your job is to take what exists, make it robust, automated, and observable, and evolve the schemas, partitioning, and access patterns as we scale.
+
+- Automate and harden our Python data pipelines for MLOps. Take the pipelines our team has already built, automate them end-to-end, and make them reproducible, versioned, and observable. Pipelines should reliably move data from the front-end through transformation, generation, labelling, and evaluation without manual hand-holding.
+
+- Run our data generation workflows. Partner with the ML team to design and operate synthetic data generation pipelines — running model calls, managing prompts, capturing outputs, and tracking lineage.
+
+- Curate datasets for human labelling in Prodigy. Prepare, sample, and stratify datasets for our annotators. Build the tooling and recipes that let our team label efficiently and consistently.
+
+- Build evaluation pipelines. Create the harness that lets us measure whether our generated and labelled data is actually good — agreement metrics, drift detection, sample quality checks, and feedback loops back into generation.
+
+- Close the loop. Make sure insights from evaluation flow back into how we generate, label, and select data — so each cycle is better than the last.
+
+- Be a good data citizen. Set up monitoring, documentation, and access controls appropriate for handling student data in a privacy-sensitive context.
+
+What You'll Bring
+
+- 3+ years of professional experience building data pipelines or data platforms in Python.
+
+- Solid grasp of modern data lake / lakehouse architectures on Azure and orchestration tools.
+
+- Experience working with ML teams — you understand training data, eval sets, and why reproducibility matters.
+
+- Hands-on experience with at least one human annotation tool.
+
+- Hands-on experience with a modern data and ML stack — a mix of Azure services (e.g. Azure Data Lake Storage, Databricks, Azure ML, Azure Functions, Key Vault) and open source tools (e.g. Airflow, Dagster, MLflow, Delta Lake, dbt).
+
+- A pragmatic, start-up mindset — you can scope a v1, ship it, and iterate, rather than over-engineering.
+
+- Strong written communication. You'll be documenting systems that researchers, engineers, and annotators all rely on.
+
+Nice to Have
+
+- Experience with LLM-driven data generation pipelines (prompt management, output validation, cost/latency monitoring).
+
+- Familiarity with evaluation frameworks for generative models (rubric-based eval, LLM-as-judge).
+
+- Background in NLP, education technology, or any domain involving unstructured text data.
+
+- Experience with handwriting recognition / OCR pipelines.
+
+- Exposure to privacy frameworks relevant to student data (Australian Privacy Principles, GDPR, FERPA)."
+92188250,AI Enablement Lead – AI Adoption,Clean Energy Regulator,https://www.seek.com.au/job/92188250?type=standard&ref=search-standalone&origin=jobCard#sol=2ca32ec414db1df39838d66a6fb2d8b99224cf2b,2h ago,2.0,2026-05-19T02:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"The Clean Energy Regulator
+
+We are an economic regulator accelerating carbon abatement for Australia. We do this by administering Australian Government schemes to measure, manage, reduce and offset carbon emissions in Australia.
+
+Our role is determined by climate change law. We administer schemes that contribute to the Australian Government climate target of reducing emissions to 43% below 2005 levels by 2030 and Net Zero by 2050.
+
+Find out more about the Clean Energy Regulator and what we have to offer, please visit our website and for the latest update on activities, you can follow us on LinkedIn.
+
+Work with us
+
+Working with us isn’t just a job, it's a chance to have a rewarding career. We're looking for people with diverse skills, expertise and experience to work with us to reduce carbon emissions and increase the use of clean energy in Australia.
+
+About the Business Unit
+
+The Artificial Intelligence (AI) function will be a key enabler to the Clean Energy Regulator’s (CER) digital transformation, driving the responsible, ethical, and effective use of AI to enhance regulatory, operational efficiencies and policy outcomes. Under the leadership of the Chief AI Officer, the team will support AI usage across the Agency, aligned with the Agency’s strategic objectives and whole-of-government digital priorities.
+
+With expertise in artificial intelligence principles, practices, and technologies, the team ensures AI initiatives are designed and deployed in ways that are scalable, secure, and aligned with the Agency’s values and operational goals. This includes applying robust AI governance frameworks, ensuring model integrity and performance, and integrating AI capabilities into core business processes to support sustainable and responsible innovation. The team operates in alignment with Agency program and BAU investment prioritisation and IT and data architecture governance arrangements.
+
+The AI Team is structured around two teams:
+
+AI Technical Capability Development
+
+This section leads the design, development, and deployment of AI solutions across the Agency. It provides technical leadership, supports pilot programs, and ensures alignment with IT architecture and data governance. The team is responsible for delivering robust solutions, developing and refining AI models, and integrating AI platforms into the Agency’s digital environment. Their work ensures that AI systems are secure, scalable, and aligned with CER architecture standards, supporting both operational efficiency and innovation.
+
+AI Adoption
+
+This section focuses on enabling the workforce to confidently and ethically engage with AI technologies. It delivers training, builds communities of practice, and supports the identification, definition, and development of AI use cases through structured business analysis, process mapping, and stakeholder engagement. This section ensures AI is adopted in a way that is inclusive, people-centric, and aligned with the Agency’s values and operational goals.
+
+Together, these teams support the Chief AI Officer in delivering strategic leadership, uplifting AI literacy, managing risk, and ensuring the Agency remains adaptive and innovative.
+
+About the Section
+
+This section focuses on enabling the workforce to confidently and ethically engage with AI technologies. It delivers training, builds communities of practice, and supports the identification, analysis, and development of AI use cases through structured business analysis, stakeholder engagement, and evidence-based decision-making, ensuring AI is adopted in a way that is inclusive, people-centric, and aligned with the Agency’s values and operational goals.
+
+The AI Adoption Section plays a key role in embedding artificial intelligence into the Clean Energy Regulator’s culture, systems, and services. Focused on people and purpose, the section supports the Agency’s transition to smarter, more responsive ways of working by making AI accessible, trusted, and impactful.
+
+Focus:
+
+Empowering Staff: Building confidence and capability across the Agency by supporting staff to understand, engage with, and benefit from AI tools in their daily work.
+Collaborative Delivery: Working closely with business areas to analyse operational needs, define requirements, and co-design AI solutions that deliver measurable improvements in decision-making and efficiency.
+Inclusive Innovation: Bringing together a multidisciplinary team of professionals and domain experts to ensure solutions are practical, ethical, and aligned with the Agency’s values and strategic direction.
+Partnerships Across Government: Collaborating with other Australian Government agencies to share insights, align approaches, and contribute to a coordinated public sector AI strategy.
+Supporting Change: Leading change management efforts by ensuring solutions are informed by clear requirements, business impacts, and user needs, enabling smooth and sustainable AI adoption.
+
+About the Role
+
+The AI Enablement Lead supports the implementation of strategic initiatives to integrate artificial intelligence (AI) technologies across the agency, ensuring alignment with government priorities, ethical standards, and operational goals. This role involves stakeholder engagement, change management, and cross-functional coordination to harness AI opportunities and drive innovation.  It also has a focus on managing the lifecycle of AI initiatives and ensuring business process re-engineering work informs efficiency or quality improvements for existing Agency processes.
+
+How to Apply
+
+To learn more about this role, please click on 'Apply' to view the Clean Energy Regulator Careers page.
+
+Other Benefits
+
+Great work-life balance.
+Competitive salary packaging and leave options, including purchase leave.
+Diverse, supportive, inclusive and agile work environment, with staff at all levels being part of conversations with the senior executive and being offered the opportunity to experience different types of work.
+A wide range of learning and development opportunities.
+
+Applications close 11.30pm on Monday, 1 June 2026."
+92188165,"Senior Cloud Engineer (1 x Perm, 1 x 18m Fixed Term Contract)",Novigi Pty Ltd,https://www.seek.com.au/job/92188165?type=standard&ref=search-standalone&origin=jobCard#sol=3039b6bed7dedf17d79304f2938f57e2b7f22e3d,2h ago,2.0,2026-05-19T02:00:00+00:00,Melbourne VIC (Hybrid),Superannuation (Insurance & Superannuation),Full time,,"Novigi is the data and technology partner to the Financial Services Industry with offices in Sydney, Brisbane, Canberra, Melbourne, Wollongong and Colombo, Sri Lanka. At our core, we are data-driven transformation and business optimisation experts. We partner with our clients to transform their business functions through the clever use of data and interoperability. We do this by offering a range of services and solutions.
+
+Description
+
+About the Role:
+
+We are seeking an experienced and highly capable Senior Cloud Engineer to join our team and play a pivotal role in shaping the future of our cloud infrastructure. This is a senior individual contributor position with significant influence over technical direction, operating at the intersection of two mature cloud disciplines: sustaining and elevating a well-established AWS environment, and driving the uplift of our Azure footprint to meet the same standard of reliability, security, and operational maturity.
+
+This role is suited to someone who is equally comfortable governing a complex production AWS estate as they are designing and building Azure environments from the ground up — bringing structure, best practice, and engineering rigour to both.
+
+What we are looking for:
+
+You bring deep, hands-on experience across both AWS and Azure — not just familiarity, but the ability to architect, build, troubleshoot, and govern at an engineering level on both platforms. Specifically, you will have:
+
+Proven experience managing and maturing a production-grade AWS environment, including account structure, IAM, networking, and operational controls
+Demonstrated ability to review and provide input into designs and implement Azure environments from a foundational level, including Azure Landing Zones, Entra ID integration, policy-driven governance, and network architecture
+Strong, practical Terraform skills — writing reusable modules, managing remote state, and integrating IaC pipelines into CI/CD workflows (experience with tools such as Buildkite, GitHub Actions, or Azure DevOps is advantageous)
+Experience operating in a financial services or similarly regulated industry, with an understanding of the compliance and audit requirements that come with it
+The ability to think strategically about platform design while remaining hands-on in delivery
+At this level, the successful candidate is expected to operate as a technical lead - providing hands-on guidance, coaching, and mentoring to the broader team, and elevating the capability of those around them alongside their own delivery output.
+
+Qualifications/Experience:
+
+Essential
+
+8+ years of experience in cloud engineering or infrastructure roles, with at least 5 years working across both AWS and Azure in a hands-on capacity
+AWS certifications at Associate level or above (Solutions Architect, DevOps Engineer, or equivalent)
+Microsoft Azure certifications at Associate level or above (AZ-104, AZ-305, or equivalent)
+Demonstrated experience owning and maturing a production AWS environment at scale, including account governance, IAM, networking (VPC, Transit Gateway, Direct Connect), and cost management
+Proven experience designing and deploying Azure platform foundations, including Azure Landing Zones, hub-and-spoke networking, Entra ID / Azure AD, Azure Policy, and Management Group hierarchy
+Strong, production-grade Terraform skills — module development, remote state management, workspace strategies, and pipeline-integrated deployments
+Experience integrating IaC workflows into CI/CD platforms such as GitHub Actions, Buildkite, or Azure DevOps
+Solid understanding of cloud security principles, including identity and access management, network segmentation, secrets management, and audit logging across both platforms
+Experience working in a regulated industry (financial services, superannuation, healthcare, or similar), with familiarity with compliance frameworks such as APRA CPS 234, ISO 27001, IRAP ISM, or SOC 2
+
+Highly Desirable
+
+Experience with cloud security tooling such as AWS Security Hub, Microsoft Defender for Cloud, or equivalent CSPM platforms
+Familiarity with FinOps practices and cloud cost governance tooling
+Exposure to Netskope, or other cloud-delivered security platforms
+Experience with monitoring and observability platforms (CloudWatch, Azure Monitor, Datadog, or similar)
+Prior experience in a principal, lead, or senior individual contributor capacity, including contributing to architecture decision records and technical standards.
+Practical experience leveraging AI tooling, including large language model assistants such as Claude, to accelerate cloud engineering delivery, improve code and IaC quality, support documentation, and enhance problem-solving across the platform engineering lifecycle. Candidates who actively incorporate AI into their day-to-day engineering workflow and can demonstrate tangible quality or productivity outcomes will be highly regarded.
+
+Why our clients love Novigi:
+
+Novigi moves quickly, thinks sharply, and delivers what’s been agreed. Clients tell us we’re easy to work with because we stay focused on outcomes, cut through complexity, and keep communication open and honest. Behind that simplicity sits a huge depth of industry expertise and serious technical capability, built from years of working across superannuation, data, integration, and complex platforms. Our culture of innovation, collaboration and banter shows up in how we work day to day: teams that slot in seamlessly, challenge constructively, adapt as needs shift, and stay committed to getting the right things done well.
+
+Only those candidates chosen to proceed will be contacted."
+92188138,AI & Automation Engineer,Latitude IT,https://www.seek.com.au/job/92188138?type=standard&ref=search-standalone&origin=jobCard#sol=4d91ea59025590d024ce07e8209516e198c8ab64,2h ago,2.0,2026-05-19T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,Up to $220k base,"Full Stack - AI Engineer
+The Opportunity:
+This is a founding AI engineering hire at a PE-backed financial advisory and accounting firm that has already proved the model works.
+  
+With board backing and budget committed, the team has moved beyond experimentation. Live use cases are in production, and there is now a genuine pipeline of workflow problems the business wants solved through agentic AI.
+  
+You won't be joining a mature function to optimise around the edges. You'll help shape what the AI capability becomes, how it gets built, and where it creates the most value across the business.
+  
+Reporting directly to the CIO, you'll turn that early success into scalable AI systems.
+  
+The Role:
+
+This is not a classic ML or Data Science role. It’s a hands-on senior IC role for someone who can take a real business problem, apply agentic AI in practice, and ship solutions that deliver value.
+That could be a Microsoft-first full-stack engineer who has moved into AI agents and applied AI systems. Or it could be a Power Platform developer who has expanded into AI, automation, and workflow delivery.  
+What you’ll be doing:
+
+Design and deploy AI agents and intelligent workflows across key business use cases
+Build across Copilot Studio, Power Automate, Power Apps, Power BI, Dataverse, and the wider Power Platform
+Develop data pipelines, semantic models, and reporting to support AI and analytics
+Integrate AI solutions into core systems through APIs and Azure services
+Turn successful internal use cases into repeatable, governed solutions
+Work closely with stakeholders to identify workflow and automation opportunities
+Ensure solutions meet privacy, governance, and audit requirements  
+What We’re Looking For:
+
+Hands-on experience building commercial AI agents, intelligent workflows, or applied AI solutions.
+Strong practical capability in Copilot Studio, this is a genuine non-negotiable
+Strong Microsoft ecosystem capability across Power Platform and Azure services
+Experience integrating AI into real business processes, not just experimentation or proof-of-concept work
+Good API and systems integration capability, ideally with some Azure Functions, PowerShell, SQL, Python, JavaScript, or similar scripting experience
+Able to work end-to-end, from workflow discovery through to build, deployment, and iteration
+Comfortable operating as a senior IC with a high level of autonomy
+Strong communication skills and confidence working with non-technical stakeholders
+Experience in financial services, professional services, or other detail-heavy environments would be valuable
+Apply now or reach out for a confidential discussion."
+92186763,Senior Software Engineer (ML),Lookahead,https://www.seek.com.au/job/92186763?type=standard&ref=search-standalone&origin=jobCard#sol=2efb862a253ba1c2ee87af60ea7a1b3304944991,3h ago,3.0,2026-05-19T01:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"The Company
+Join a small, senior team of software engineers in a well funded company, reporting directly to the engineering co-founders. Own features and help steer the direct of our ML product used by companies in Australia and the UK. And work on a product that users love. 
+
+About you
+
+You're a senior software engineer who has shipped ML-powered features to real users at a commercial product company, and you can talk concretely about how they worked and what you'd do differently
+You have genuine LLM intuition: when to use RAG vs prompting vs fine-tuning, how to improve output quality, how to build eval pipelines that tell you something meaningful
+Python is your primary language and you write clean, production-grade code with strong testing habits
+You're at home working closely with product and design, not just in the codebase
+You enjoy going deep on hard problems rather than jumping between shiny things
+Familiarity with AWS Bedrock or the Hugging Face ecosystem is a plus
+The offer
+
+Approx. $160k–220k+ base + super (depending on experience)
+Remote first, anywhere in Australia, or hybrid in Melbourne if you're local
+Five weeks annual leave
+Flexible hours, output over face time
+Home office budget and professional development program
+Equity conversation at 12 months
+
+Debbie Teakle
+www.lookahead.com.au"
+92186394,Data Engineer,Michael Page,https://www.seek.com.au/job/92186394?type=standard&ref=search-standalone&origin=jobCard#sol=293ca1b5d07f6d494f27604da29d0be3e844eceb,4h ago,4.0,2026-05-19T00:00:00+00:00,Brisbane QLD (Hybrid),Database Development & Administration (Information & Communication Technology),Contract/Temp,$900 - $1k p.d.,"We are seeking a skilled Data Engineer to join a leading organisation in the transport and logistics industry. This temporary role, based in Brisbane, will focus on designing and implementing data solutions to support business operations and decision-making.
+
+Client Details
+
+This organisation is a well-established player in the transport and distribution industry, known for its innovative approach and commitment to operational excellence. As a large organisation, they provide a collaborative environment where technology plays a pivotal role in driving efficiency and growth.
+
+Description
+
+Key Responsibilities:
+
+Develop and maintain scalable data pipelines to support business needs.
+Design and implement data models and structures for optimal storage and retrieval.
+Collaborate with cross-functional teams to gather and understand data requirements.
+Ensure data quality and integrity through robust validation processes.
+Optimise data workflows for improved performance and efficiency.
+Troubleshoot and resolve data-related issues in a timely manner.
+Provide technical expertise on data engineering best practices and tools.
+Document data processes and maintain clear communication with stakeholders.
+
+Profile
+
+Skills and Experience:
+
+Strong skills in data engineering and database management.
+Strong experience in the Azure data ecosystem and/or Microsoft Fabric
+Proficiency in data modelling, ETL processes, and data pipeline development.
+Strong experience with relevant programming languages (Python, SQL)
+Strong experience withDatabricks platform:
+Building and managing Spark-based data pipelines
+Working with Delta Lake / Delta tables
+Strong experience with Data warehousing and Lakehouse architectures
+Ability to work collaboratively in a team-oriented environment.
+A proactive approach to problem-solving and a keen eye for detail.
+Strong communication skills to liaise effectively with stakeholders.
+
+Job Offer
+
+Competitive daily rate ranging from $900 to $1040 AUD.
+Opportunity to work with a leading organisation in the transport and distribution industry.
+Temporary role with potential for skill enhancement and career growth.
+Collaborative and supportive work environment in Brisbane.
+
+To apply online please click the 'Apply' button below. For a confidential discussion about this role please contact Harley Logan at har••••••••@michaelpage.com.au"
+92186372,AI Engineer,Chemist Warehouse,https://www.seek.com.au/job/92186372?type=standard&ref=search-standalone&origin=jobCard#sol=511112f6b7e007d40ac44ecfb168706063c21ef9,4h ago,4.0,2026-05-19T00:00:00+00:00,"Preston, Melbourne VIC (Hybrid)",Engineering - Software (Information & Communication Technology),Full time,,"About us
+
+Chemist Warehouse is Australia’s largest pharmacy retailer with over 17,000 team members and more than 600 stores nationwide. Following our merger with Sigma Healthcare, we’re now a Top 50 ASX-listed company with expanding operations across New Zealand, Ireland, and China.
+
+Together, we’re transforming healthcare and retail with industry-leading distribution, technology, and people practices — and we want you to be part of this journey.
+
+About the role
+
+The AI Engineer is responsible for delivering high quality engineering outcomes against agreed objectives and working interdependently on shared team goals.
+This role is a hands-on technical delivery role focused on building, deploying and operating enterprise grade AI capabilities in production. The role is primarily accountable for hands-on engineering delivery, platform contribution and reliable BAU outcomes.
+
+Key Responsibilities
+
+• Build and operate enterprise LLM/GenAI solutions integrated with Snowflake, dbt Cloud and approved cloud services.
+
+• Design and implement RAG capabilities over governed enterprise data and documentation.
+
+• Deliver secure conversational AI and agentic AI solutions with appropriate guardrails and governance controls.
+
+• Implement LLMOps/MLOps and CI/CD pipelines for AI applications, including monitoring, evaluation and deployment automation.
+
+• Monitor and optimise AI solution quality, reliability, latency and cost.
+
+• Partner with data engineering and business stakeholders to deliver AI products aligned to enterprise data models and business outcomes.
+
+• Contribute to reusable AI engineering standards, templates and best practices across the organisation.
+
+Key Selection Criteria
+Education / Experience
+
+Tertiary qualification in Computer Science, Software Engineering, Mathematics, or a related field
+
+Bachelor’s degree or higher preferred
+
+Demonstrated experience operating at a senior/principal level in AI, ML, or LLM engineering (or related field), delivering production outcomes
+
+Healthcare and/or retail industry experience desirable
+
+Knowledge & Skills
+
+Highly developed organisational and planning skills
+
+Strong attention to detail
+
+Excellent written and verbal communication skills
+
+Proficient in Microsoft Office Suite
+
+Strong time management and prioritisation skills
+
+Proven experience delivering AI/ML/LLM solutions and data products in production environments (build, run, monitor, optimise)
+
+Strong Python engineering capability, including clean code practices, testing, and packaging
+
+Strong SQL and data engineering fundamentals
+
+Hands-on experience with Snowflake, including security, performance optimisation, and cost management
+
+Experience with dbt Cloud, including data modelling, environments, and Git workflows
+
+Experience implementing CI/CD pipelines for data and AI products
+
+Strong understanding of automated testing, including unit, integration, data quality, and regression testing
+
+Solid data modelling fundamentals with focus on dimensional and semantic consistency
+
+Strong understanding of security and governance by design, including RBAC/RLS, masking, and logging
+
+Ability to collaborate effectively with stakeholders and senior engineers to deliver high-quality production outcomes
+
+Why join us
+
+Be part of one of Australia’s most recognised retail brands
+
+Meaningful, varied work that directly impacts store safety and performance
+
+Opportunities to grow your skills across investigations, risk, and retail operations
+
+The successful applicant will be required to meet a satisfactory National Criminal History Check outcome. Interested in joining our team? Take the next step in your career with us. Apply today and explore limitless opportunities"
+92186197,GCP AI Architect,Opus Recruitment Solutions,https://www.seek.com.au/job/92186197?type=standard&ref=search-standalone&origin=jobCard#sol=361cf17040f0c22b66ae89f93687939b8b9952c7,4h ago,4.0,2026-05-19T00:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Contract/Temp,AUD 1200 - 1300 per day,"GCP AI Architect - Hybrid 3 days pw in office - 6 Month Contract
+$1200 - $1300pd inclusive of super
+Melbourne
+
+I am exclusively partnered with a leading consultancy who are looking for a GCP AI Architect to start immediately on a 6 month contract.
+
+You will be guiding AI enablement and architecting the solution of a greenfield implementation of Google Enterprise Agentic Platform (Previously known as Vertex) enabling the business to use Gen AI, Agentic AI, RAG/ NLP
+
+Looking for someone to start immediately, interviews will be one stage and begin next week with the end client
+
+What You Will Be Doing:
+
+Architect end‑to‑end AI and ML solutions using Google ADK, Agent Studio, Agent Garden
+Design scalable, secure, and cost‑optimised architectures leveraging GCP services such as BigQuery, Dataflow
+Lead the development of Generative AI and LLM‑based applications using Gemini Agentic Platform, Agent Garden models, and custom model fine‑tuning.
+Establish and implement MLOps frameworks using Cloud Build, Artifact Registry, and CI/CD best practices.
+Provide technical leadership, governance, and architectural guidance across multiple AI initiatives.
+Ensure compliance with GCP security, IAM, data governance, and enterprise architecture standards.
+Evaluate emerging GCP AI capabilities and drive innovation across the organisation.
+
+What You Bring:
+
+5 years experience as a Cloud Architect, AI/ML Architect, or Senior ML Engineer specialising in Google Cloud Platform.
+Deep expertise with Vertex AI, including training, tuning, deploying, and monitoring ML models.
+Strong understanding of Generative AI, LLMs, embeddings, vector search, and retrieval‑augmented generation (RAG).
+Hands‑on experience with BigQuery ML, TensorFlow, PyTorch, or scikit‑learn.
+Solid knowledge of GCP networking, IAM, VPC design, and cloud security best practices.
+Strong Python skills and familiarity with containerisation (Docker) and serverless compute (Cloud Run).
+
+GCP AI Architect - Hybrid 3 days pw in office - 6 Month Contract
+$1200 - $1300pd inclusive of super
+Melbourne"
+92186028,L3 Platform Engineer / Senior Systems Engineer,The Aquarium,https://www.seek.com.au/job/92186028?type=standard&ref=search-standalone&origin=jobCard#sol=e2dfc34758092415b4a8cebfd47977a0e97c5314,4h ago,4.0,2026-05-19T00:00:00+00:00,Sydney NSW (Hybrid),Networks & Systems Administration (Information & Communication Technology),Contract/Temp,,"We’re working on a new 6-month contract opportunity (high chance of extension) for a hands-on L3 Platform Engineer / Senior Systems Engineer to join a well-established Insurance company in North Sydney.
+
+This role sits within a Level 3 Service Delivery environment and will suit someone who enjoys being close to the tools, owning escalations, supporting critical infrastructure, and working across both BAU and project delivery.
+You’ll be working across a broad technology environment, including Azure cloud infrastructure, Windows Server, Active Directory, VMware, networking, automation and Azure DevOps.
+
+What you’ll be doing
+
+You’ll be responsible for supporting incidents, requests and technical changes across the infrastructure and platform environment. The role will involve troubleshooting complex issues, supporting Windows and VMware environments, assisting with root cause analysis, driving technical changes, and working closely with internal product teams, vendors and business stakeholders.
+
+You’ll also be involved in project deliverables, automation, continuous improvement and ensuring infrastructure changes are delivered safely and in line with business and technology outcomes.
+
+What we’re looking for
+
+Strong experience across:
+
+Azure infrastructure administration
+Windows Server administration
+Active Directory
+VMware, vSphere, vCenter and ESXi
+PowerShell scripting and automation
+Networking fundamentals including routing, firewalls, NSGs and VLANs
+Azure DevOps, including Boards, Repos and Pipelines
+Infrastructure as Code exposure, ideally Bicep, ARM or Terraform
+Incident support, troubleshooting and root cause analysis
+BAU support and project delivery
+The best fit will be someone with a strong infrastructure/platform support background who is comfortable acting as an escalation point, solving problems properly, and taking ownership of technical outcomes.
+
+The ideal person
+
+You’ll be someone who can work independently, communicate clearly with technical and non-technical stakeholders, and stay structured when priorities change. You’ll need to be hands-on, practical, collaborative and comfortable working across a broad infrastructure environment.
+
+Insurance or financial services experience would be highly regarded, but is not essential."
+92185988,Systems Integration Engineer,PROFOUND - PEOPLE IN TECHNOLOGY,https://www.seek.com.au/job/92185988?type=standard&ref=search-standalone&origin=jobCard#sol=48b26cafd27973c36e99193843122437bd198b4b,4h ago,4.0,2026-05-19T00:00:00+00:00,Adelaide SA,Systems Engineering (Engineering),Full time,"$130,000 – $150,000 per year","ROLE – Systems Integration Engineer
+
+ 
+
+SALARY - $130,000 - $150,000 per annum, dependent on experience
+
+ 
+
+TYPE – Permanent
+
+ 
+
+LOCATION – Adelaide, SA
+
+ 
+
+My client specialises in the design and delivery of complex engineering and robotic solutions in a high-tech industry. They are looking for a Systems Integration Engineer to join their team in Adelaide on a permanent basis.
+
+ 
+
+The Systems Integration Engineer will ideally have the following attributes:
+
+At least 3 years of experience in a similar Systems Integration Engineering position
+
+Degree qualified in Electrical Engineering, Mechatronics, Systems Engineering or similar
+
+Strong understanding of hardware and software integration within complex engineering systems
+
+Experience with embedded systems, sensors, communications protocols and control systems
+
+Knowledge of CAN bus, Ethernet, serial communications or similar networking protocols
+
+Experience with system testing, validation and troubleshooting activities
+
+Familiarity with Linux environments and scripting/programming languages such as Python or C++ would be beneficial
+
+Experience integrating sensors such as LiDAR, GPS, IMUs, cameras or telemetry systems would be advantageous
+
+Able to read and interpret technical documentation, schematics and system architecture diagrams
+
+Strong problem-solving and fault-finding abilities
+
+Comfortable working in R&D and prototype development environments
+
+Able to work both independently and collaboratively within multidisciplinary engineering teams
+
+Strong communication skills and able to manage workload to project deadlines
+
+ 
+
+The Systems Integration Engineer role will involve:
+
+Integrating software, hardware and control systems across a range of engineering projects
+
+Supporting system design, configuration and testing activities
+
+Conducting system integration, validation and verification activities
+
+Troubleshooting integration, communication and performance issues across complex systems
+
+Working closely with mechanical, electrical and software engineering teams throughout the product lifecycle
+
+Supporting prototype builds, testing and field trials
+
+Integrating sensors, payloads and communications systems into robotic platforms
+
+Assisting with system configuration, calibration and commissioning activities
+
+Creating and maintaining technical documentation, reports and test procedures
+
+Supporting continuous improvement activities for system reliability and performance
+
+Working within a multi-disciplinary engineering team on varied and technically challenging projects
+
+ 
+
+If you are interested in this position, please apply with an up to date CV as soon as possible."
+92185188,Senior Full Stack Developer -Build AI enabled Interaction Models,Capital Talent Consulting Pty Ltd,https://www.seek.com.au/job/92185188?type=standard&ref=search-standalone&origin=jobCard#sol=e261a0f263afa23fd6831532debdea10c326f4eb,5h ago,5.0,2026-05-18T23:00:00+00:00,Brisbane QLD (Hybrid),Developers/Programmers (Information & Communication Technology),Contract/Temp,$130 – $170 per hour,"We are partnering with a large statutory government department to source a Senior Full Stack Developer to commence asap for an initial six-month contract.  
+
+The primary objective of the role is to design, build and validate AI-enabled interaction models that leverage enterprise data, while also supporting a PoC-led approach to validate core enterprise system capabilities through end-to-end use case testing.
+
+Responsibilities
+
+Define and develop end-to-end use cases that demonstrate how data can be made accessible, contextual and actionable in real time
+
+Design and implement AI-enabled interactions using natural language interfaces
+
+Define and execute PoC activities to de-risk future large-scale implementation
+
+Design and run “steel thread” scenarios to validate end-to-end system behaviour across process, data and integrations
+
+Generate evidence on feasibility, integration complexity, user experience and operating effort to inform investment decisions
+
+Support comparative evaluation of solution options through hands-on testing rather than theoretical assessment
+
+Translate business needs into practical, testable scenarios that inform value, cost
+
+Contribute to the development of evidence-based business case
+
+Assess data readiness, integration patterns and system constraints
+
+Document findings, insights and recommendations to support decision-making
+
+This is an immediate requirement, to be considered for this role you will need the following:
+
+Strong experience in designing and building AI-enabled or data-driven solutions
+
+Experience building applications end-to-end, including front-end, back-end and integration layers
+
+Experience working with APIs, integrations and enterprise systems in complex environments
+
+Experience delivering PoC-led or validation-driven initiatives to inform large-scale implementation
+
+Ability to translate business needs into practical, testable use cases
+
+Strong analytical skills with the ability to assess feasibility, trade-offs and constraints
+
+Excellent stakeholder engagement and communication skills
+
+Ability to work across business, data and technology domains
+
+Experience with emerging AI capabilities (e.g. LLMs, orchestration, automation) highly regarded
+
+Available to start immediately or on very short notice
+
+If you are interested in this opportunity, please apply online now or contact Rachel Viney on 04•• ••• 212 for a discussion on the role. Please note, although this is a hybrid role, you will need to reside in Brisbane to be considered for the position."
+92184629,Senior Robotics Engineer,Opus Recruitment Solutions,https://www.seek.com.au/job/92184629?type=standard&ref=search-standalone&origin=jobCard#sol=064efe784488a06b922cf3079536b5c524a8a38c,6h ago,6.0,2026-05-18T22:00:00+00:00,"Glebe, Sydney NSW",Mechanical Engineering (Engineering),Full time,"$130,000 – $170,000 per year plus super","Senior Robotics Engineer Sydney | $130k-$170k + super
 
 Sydney
 
@@ -44,7 +729,7 @@ Experience deploying motion planning, sensor fusion, machine vision, or machine 
 
 
 Senior Robotics Engineer Sydney | $130k-$170k + super"
-92183564,Senior Quality Engineer - AINew,StarRez Global Pty Ltd,https://www.seek.com.au/job/92183564?type=standard&ref=search-standalone&origin=jobCard#sol=70617b398844b1a6b0bf55af46ede8eca2f1bab9,4h ago,4.0,2026-05-18T20:00:00+00:00,Melbourne VIC (Hybrid),Quality Assurance & Control (Science & Technology),Full time,,"The Role:
+92183564,Senior Quality Engineer - AINew,StarRez Global Pty Ltd,https://www.seek.com.au/job/92183564?type=standard&ref=search-standalone&origin=jobCard#sol=2bbaed9345464bd5bdbe0c7119ae120b417a8180,8h ago,8.0,2026-05-18T20:00:00+00:00,Melbourne VIC (Hybrid),Quality Assurance & Control (Science & Technology),Full time,,"The Role:
 
 We are looking for a Senior Quality Engineer - AI to help shape how StarRez evaluates, validates, and improves AI-powered product experiences.
 
@@ -98,7 +783,7 @@ Please note, StarRez requires all candidates to have full work rights in Austral
 Notice to external Recruiters and Recruitment Agencies:
 
 StarRez will not accept unsolicited resumes from recruitment agencies, headhunters, or any other third parties for this role through this website or directly to any employee. StarRez and any of our subsidiaries will not pay fees to any third-party agency or company. In addition, we ask that you do not reach out to any employee with regards to this position, or any other positions, now, or in the future."
-92183458,Data Engineer,Moose Toys,https://www.seek.com.au/job/92183458?type=standard&ref=search-standalone&origin=jobCard#sol=b239d3e66d0510b6ddafe45a55fb2ca15002876f,4h ago,4.0,2026-05-18T20:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"ABOUT US 
+92183458,Data Engineer,Moose Toys,https://www.seek.com.au/job/92183458?type=standard&ref=search-standalone&origin=jobCard#sol=c13436d8dcb93a07a35d42eb1809e8b1faf8e92b,8h ago,8.0,2026-05-18T20:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,,"ABOUT US 
 
 At Moose Toys we exist to make kids superhappy. Recognised as one of the most innovative companies in the industry, we work seriously hard but fun remains at the heart of everything we do. Playful with a Purpose, we live by our values which is why our team members consistently vote us a Great Place To Work. We’ve won awards for our Diversity and Inclusion, and we host inspiring Health & Wellbeing thought leader events live in our magical Moose Melbourne office. We invest heavily in all our learning and development and have a passionate and genuine commitment to our Net Zero sustainability targets. 
 
