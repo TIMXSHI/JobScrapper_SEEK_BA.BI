@@ -1,5 +1,795 @@
 Job ID,Job Title,Company,Detail URL,Posted Label,Hours Old,Posted Datetime (Local),Location,Category,Work Type,Salary,Ad Text
-92219435,Solution Engineer,Kestral Computing,https://www.seek.com.au/job/92219435?type=standard&ref=search-standalone&origin=jobCard#sol=f9cb9e1660fe0b6387541f69eb89e7f397d64181,1h ago,1.0,2026-05-20T03:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Full time,,"Solutions Engineer
+92229381,Engineer Operational Intelligence,Newmont Australia,https://www.seek.com.au/job/92229381?type=standard&ref=search-standalone&origin=jobCard#sol=bbc83cd6b3d5698d6e92a2829a44d1e97e9c0dda,1h ago,1.0,2026-05-20T07:00:00+00:00,"Subiaco, Perth WA (Hybrid)","Mining - Processing (Mining, Resources & Energy)",Full time,,"Company description:
+
+
+
+Workplace Type: Hybrid
+
+
+About Newmont
+
+
+Newmont is the world's leading gold company and a producer of copper, silver, zinc, lead and molybdenum. The company's world-class portfolio of assets, prospects and talent is anchored in favourable mining jurisdictions in Australia, Papua New Guinea, Africa, Latin America and the Caribbean and North America.
+
+Newmont is the only gold producer listed in the S&P 500 Index and is widely recognized for its principled environmental, social and governance practices. The company is an industry leader in value creation, supported by robust safety standards, superior execution and technical proficiency. Newmont was founded in 1921 and has been publicly traded since 1925.
+
+
+
+Job description:
+
+The Position
+
+Newmont is seeking an Operational Intelligence Engineer to provide process control analytical solutions across our global mining operations. Utilising advanced process analysis techniques and technologies visualised through real-time monitoring systems, this strategic role bridges process control engineering, data analytics, and metallurgical expertise to transform our minerals processing data into actionable insights.
+
+Role Overview - Operational Intelligence and Analytics
+
+As our Operational Intelligence Engineer, you will leverage tools such as AVEVA OSIsoft PI (OSIPI), PI Asset Framework, PI Vision, Microsoft Power BI, Grafana, SEEQ, MS Excel, Python, MATLAB, R, Azure and emerging Artificial Intelligence (AI) applications, to provide descriptive, diagnostic, predictive, and prescriptive insights into our sites process control operational data. You will collaborate with central operational support, process control engineering, digital, metallurgical and site operational teams to develop analytical studies, continuous monitoring and/or closed loop process control solutions that have a direct impact on the stabilisation of mineral processing, maximisation of minerals recovery, and reduction of production costs.
+
+Your expertise will help us make smarter decisions faster, maintain process stability, and continuously improve our production process controls. Taking on this role, you'll get the opportunity to shape the future of operational intelligence in the mining industry while working with cutting-edge technologies and a diverse range of teams across our global operations
+
+
+
+Profile description:
+
+
+
+Here is a snapshot of what your day to day activities will look like:
+
+Design and implement process control analytics solutions that enhance the control systems ability to increase production, reduce cost, and improve overall plant efficiency
+Create and maintain real-time monitoring systems for process control systems, critical processes and instrumentation
+Create and maintain continuous real-time process control monitoring solutions focusing on Short Interval Control (SIC)
+Create and maintain soft-sensor solutions that can be utilised for closed loop process control
+Collaborate with centralised and site-based metallurgists, operational support engineers, digital SME's, process control engineers and plant operators to implement closed-loop control strategies focused towards stabilising and optimizing processing units like grinding circuits, flotation circuits, and leaching processes
+Provide production insights via ad hoc analysis of historical process control data utilising descriptive, diagnostic, predictive, and prescriptive analysis techniques and technologies
+Establish and maintain KPI dashboards
+Develop and maintain a centralised library of best practices for process analytics applications
+Lead training sessions on process control analytics tools and mentor site-based technical resources
+Participate in global mining process optimization initiatives and contribute to the community of practice
+
+Your training skills and experience:
+
+Minimum 3 years' experience in process control improvements, with significant operational experience in mineral processing or metallurgy
+Industry qualifications in an associated field such as Data Science, Metallurgy, Process Control, IT.
+Applied knowledge of AVEVA OSIsoft PI historian and PI Asset Framework systems
+Data visualization using commercial-off-the-shelf products (i.e., AVEVA PI Vision, MS PowerBI
+Grafana, SEEQ, MS Excel) or programmatic methods (i.e., Python, MATLAB, R)
+Demonstrated success implementing analytical solutions within the mineral processing industry
+Experience with crushing, grinding, flotation, leaching processes.
+Strong understanding of mining-specific process variables, recovery calculations, and metallurgical accounting principles
+Advanced computer literacy (word, excel, databases, statistical tools)
+Skills in analytical story telling via building easy to read and to the point dashboarding
+Applied knowledge of advanced process analytics techniques and technologies
+Excellent communication skills with the ability to translate technical concepts to operational teams
+Strong interpersonal skills with the ability to identify and engage key stakeholders for collaboration
+Customer-oriented, enjoys making connections and building trust with people both in-person and at remote locations
+Motivated self-starter, goal-oriented, and strong problem-solving abilities
+Active team player who celebrates and promotes team successes
+
+
+We offer:
+
+
+
+Your work environment
+
+This permanent position will be offered on a flexible work arrangement based out of Newmont's Perth office in Subiaco, Western Australia. Applicants living in another Australian capital city location or residing near any Newmont Global Hubs will be considered if the ideal candidate.
+
+The position will require flexibility to travel to Newmont office and/or mine site locations on a regular as required basis, including international travel.
+
+Full and unrestricted eligibility for employment in Australia will be essential.
+
+We understand no candidate will meet every single desired qualification. If your experience looks a little different from what we've identified and you think you can bring value to the role, we'd love to learn more about you!
+
+If you feel that you could make a meaningful contribution in this role, we encourage you to discuss this opportunity with your current people leader and how it aligns with your longer-term career goals."
+92229131,Contract - Senior Consultant - Business Analyst (AI & Data),Datacom,https://www.seek.com.au/job/92229131?type=standard&ref=search-standalone&origin=jobCard#sol=c608c98c61eec6853122e4d3a3e88aed8e8bc1d5,1h ago,1.0,2026-05-20T07:00:00+00:00,Melbourne VIC (Hybrid),Business/Systems Analysts (Information & Communication Technology),Contract/Temp,,"Our purpose
+
+Here at Datacom, we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in.
+
+About the Role
+
+As technology evolves at an unprecedented pace, Datacom is looking for a Technical Business Analyst with a strong AI focus to bridge the gap between cutting-edge AI capabilities and real-world business outcomes. You will play a pivotal role in shaping AI-driven solutions, ensuring intelligent systems are designed, documented, and delivered with precision, clarity, and measurable business value.
+
+What You'll DoRequirements Discovery & AI Solution Design
+Understand the client's business processes, pain points, and opportunities where AI and automation can deliver value
+Elicit and document requirements for AI/ML-powered solutions, including model inputs/outputs, training data needs, and business rules
+Define and document AI use cases, including LLM integrations, predictive analytics, intelligent automation, and conversational AI workflows
+Map data flows between AI models, consumers, and providers across integrated systems
+Documentation & Artefact Creation
+Create and manage JIRA tickets including:
+Acceptance criteria
+Implementation details
+AI model behaviour expectations and edge cases
+Consumer/provider mappings
+Document all solution artefacts in Confluence, including:
+UML sequence diagrams for AI-integrated workflows
+Integration design patterns (AI APIs, model endpoints, orchestration layers)
+Prompt engineering guidelines and LLM behaviour specifications
+Mapping tables, endpoints, and environment configurations
+Postman collections for AI API testing
+Acceptance criteria for AI model outputs and responses
+AI-Focused Facilitation & Collaboration
+Facilitate workshops and discovery sessions focused on AI opportunity identification and solution scoping
+Lead 3 Amigos sessions (Dev, Tester, and BA) with an emphasis on AI model validation, bias considerations, and responsible AI outcomes
+Collaborate with Data Scientists and ML Engineers to translate business requirements into model specifications
+Champion responsible AI principles, ensuring ethical considerations, explainability, and compliance are embedded into solution design
+Data & Integration Design
+Define data model requirements to support AI/ML training pipelines and inference outputs
+Document HTTP operations, data types, and payload structures for AI model APIs
+Design and maintain integration patterns connecting AI services to enterprise systems
+
+Technical AbilityAPI & Integration Skills
+Create Swagger/OpenAPI Specifications for AI service contracts — using Swagger Editor, VS Code, or equivalent
+Deep understanding of integration patterns: REST APIs, SOAP, event-driven architectures
+API contract design and maintenance for AI model endpoints (e.g., OpenAI, Azure AI, AWS Bedrock, custom ML APIs)
+Error handling patterns for AI inference failures, model timeouts, and confidence threshold responses
+Experience with Message Queuing technologies such as Kafka and ActiveMQ for AI pipeline event streaming
+AI & Machine Learning Awareness
+Working knowledge of LLMs (Large Language Models) — including prompt engineering, RAG (Retrieval Augmented Generation), and fine-tuning concepts
+Ability to document AI model behaviour requirements including confidence scoring, hallucination mitigation strategies, and output validation
+Understanding of AI/ML pipeline stages: data ingestion, preprocessing, model training, deployment, and monitoring
+Familiarity with AI platforms and services such as:
+Azure OpenAI / Azure AI Studio
+AWS SageMaker / Bedrock
+Google Vertex AI
+Hugging Face
+Awareness of AI governance frameworks, including model explainability (XAI), fairness, and regulatory compliance (e.g., EU AI Act)
+Estimation & Delivery
+Provide reliable and traceable estimates for AI change requests and solution delivery, accounting for model iteration cycles and data preparation timelines
+Design systems from a functional AI perspective, producing draft Design documents and leading client reviews through to sign-off
+Contribute to AI solution roadmaps, identifying phased delivery approaches aligned to business priorities
+
+Responsibilities
+
+As a Technical Business Analyst (AI Focus), your day-to-day activities will include:
+
+Produce drafts of Requirements and Design documents for AI-integrated solutions, lead client reviews, and achieve sign-off
+Lead the Analysis and Design stage for AI initiatives, arranging and facilitating all relevant workshops and communication
+Work closely with Technical Leads, Architects, and Data Scientists, ensuring they have sufficient understanding of functional requirements to design AI system architecture
+Collaborate with Test Analysts to define AI-specific testing strategies, including model validation, A/B testing, and output quality benchmarks
+Resolve ambiguities raised by developers and testers in relation to AI model specifications, communicating with clients as required
+Monitor and communicate scope changes, AI-related risks, and project issues to Technical Leads and stakeholders proactively
+Provide the team with AI industry best practices, emerging trends, and governance advice
+Contribute to User Guides and AI usage documentation, supporting end-user adoption of AI-powered solutions
+Ensure all design and compliance reviews are completed at required checkpoints, including responsible AI assessments
+
+Tools & Experience
+Project & Documentation - Confluence, JIRA
+API Design & Testing - Swagger/OpenAPI, Postman, SOAP UI
+AI Platforms - Azure OpenAI, AWS Bedrock, Vertex AI, Hugging Face
+Data & Monitoring - Splunk, Power BI
+Development Environments - IntelliJ, Eclipse, VS CodeSource ControlGit, Bitbucket
+Messaging & Streaming - Kafka, ActiveMQ
+AI/ML Tooling - LangChain, Prompt Flow, Jupyter Notebooks (awareness)
+
+Professional Qualities
+5+ years of experience as a Technical Business Analyst, with demonstrable exposure to AI, ML, or data-driven solutions
+Strong analytical mindset with the ability to critically evaluate AI model outputs and business implications
+Exceptional attention to detail, particularly when documenting complex AI workflows and edge cases
+Deadline-driven with the ability to manage competing priorities in a fast-paced AI delivery environment
+Excellent communication skills — able to translate complex AI concepts for both technical and non-technical stakeholders
+Collaborative team player with experience working in cross-functional Agile teams
+A natural curiosity and passion for emerging AI technologies and their practical business applications
+
+About Datacom
+
+With over 6,200 people across our global offices and an annual revenue exceeding $1.2 billion, Datacom is one of Australasia's largest professional IT services companies. We have deep expertise in data centres, IT services, software engineering, application management, and AI-enabled solutions.
+
+As AI reshapes industries, Datacom is at the forefront — partnering with clients to design and deliver intelligent, responsible, and impactful AI solutions. We are committed to hiring, developing, and promoting the best talent from diverse backgrounds.
+
+We are local at heart, yet world-class in capability."
+92228097,AI Engineer,Lookahead,https://www.seek.com.au/job/92228097?type=standard&ref=search-standalone&origin=jobCard#sol=3075994f6b98fd64a682d26cd181652a239a5620,1h ago,1.0,2026-05-20T07:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"The role 
+This company runs some of Australia's most recognised hotels. Their small, three-person engineering team is in the middle of a genuine transformation: moving from a legacy web and ops stack to one where AI agents do the heavy lifting. That means using AI to build and maintain 30+ websites with minimal human code, building agents that autonomously triage and complete workflows end to end, and integrating data across various platforms to personalise experiences at scale. The tech lead built the first AI-generated web pilot himself and it's nearly in production. You'd be the person who takes that further.
+  
+About you
+
+You actively try to reduce how much you write by hand - AI agents and LLM workflows are your first tool, not a shortcut
+You've shipped agentic or LLM-driven systems in production, using frameworks like LangChain, LangGraph, Temporal or similar
+Strong full stack or backend engineering foundation - you own integrations, APIs and data pipelines end to end
+Comfortable in a small team where you'll touch web, data and AI work in the same week
+Fluent in Python, TypeScript or JavaScript
+You come from a role where your technical depth is visible, not hidden behind a large team
+
+The offer
+
+$160k + super
+4 days in their Ultimo office, Fridays from home
+Direct access to external AI and tech consultants working on the company's biggest strategic projects
+Find out more
+If you're interested in having a conversation about this role, send me an email with your resume, and let me know why you're interested in this position. We can then schedule a call to see if there's a fit.
+
+If this role isn't quite right, but you're looking for other developer roles, feel free to get in touch anyway.
+  
+Sarah Jacob
+sar••@lookahead.com.au | www.lookahead.com.au"
+92227072,Research Engineer,4DMedical Limited,https://www.seek.com.au/job/92227072?type=standard&ref=search-standalone&origin=jobCard#sol=8ab389a99787cc7a3e4f6a22a0dd4e5c5eecf7f7,2h ago,2.0,2026-05-20T06:00:00+00:00,Melbourne VIC (Hybrid),Other (Engineering),Full time,,"Our Story
+
+
+
+4DMedical is a cutting-edge medical technology company specialising in advanced diagnostic imaging solutions that are revolutionising respiratory healthcare. We are an ASX200 company with several products that are cleared by the FDA and other international jurisdictions. 
+
+ 
+
+Our innovative technology draws on measurement science and a deep understanding of physiological processes, and provides actionable insights into lung function, enabling early detection and precise treatment of respiratory conditions. Complementing our approach, we also develop sophisticated AI-driven lung imaging analysis of lung and cardiovascular structure to enhance the accuracy and depth of diagnostic information. Together, these technologies deliver a comprehensive suite of tools for personalized respiratory care. 
+
+
+
+
+
+
+What can you expect as a Research Engineer at 4DMedical?
+
+As a Research Engineer, you will join a tight-knit team investigating and evaluating new image processing techniques. You will be responsible for designing and evaluating, using scientific principles, the underlying methods used in our novel lung motion investigation software. The Research team leads the early stages of product development including concept generation and building and testing prototypes, as well as supporting 4DMedical’s formal software development, clinical studies, and imaging hardware R&D projects.
+
+ 
+
+We seek to hire people with a variety of different skillsets. While your ability to undertake high quality research autonomously is important, we strongly value your ability to share your knowledge with the rest of the team, thereby ensuring an environment in which all team members grow and develop together.
+
+ 
+
+Who are you?
+
+You’ll embrace our goal of developing leading technologies to provide better health outcomes to patients. We are looking for creative researchers from a range of backgrounds, including engineering, mathematics, physics, computer science and data analytics, who can bring their unique skillsets to our lung imaging technologies.
+
+We expect that you’ll have a degree in Engineering or Science, with experience undertaking world-class research in a field that can be related to image-based measurement - for example, traditional or deep-learning image processing techniques, Particle Image Velocimetry or related flow measurement methods, computer vision, and signal processing. You’ll be a highly capable programmer, with the ability to translate research ideas into prototypes to be tested scientifically.
+
+ 
+
+If you have experience in 3D reconstruction techniques and X-ray imaging that’s great, and if not, we are happy to bring you up to speed. 
+
+Experience in, or an understanding of, lung physiology or biomechanics would be highly advantageous but is not essential. 
+
+ 
+
+People of all ages, genders, and backgrounds are encouraged to apply. We are an Equal Opportunity employer, providing a dynamic, supportive work environment.
+
+ 
+
+Interstate applicants will be considered; however, you will need to be willing to relocate to Melbourne.
+
+ 
+What we can offer you:
+ 
+
+Hybrid working - 2 days from home
+Easy access to Public Transport and very close to the University of Melbourne, Lygon St and the CBD
+New, comfortable office space with end of trip facilities
+Bonus annual leave scheme as well as company paid parental leave
+Be a part of our wellness program including free fruit, coffee, table tennis, free gym and corporate class pass, and an Employee Assistance Program for you and your family
+Rewards and Recognition Program including discounts for shopping and entertainment
+Laptop and accessories provided for remote work
+Regular social events
+
+
+
+
+How to Apply
+
+
+
+Please submit a current CV and a Cover Letter (Mandatory) which details your alignment with the requirements of the role. Applications that do not have a Cover Letter will not be considered. 
+
+
+
+4DMedical provides an inclusive work environment and embraces the diverse talent of its people.
+
+For more company information visit our website: www.4dmedical.com  
+
+
+
+Should you have any queries regarding the position please contact the rec••••••••@4dmedical.com
+
+
+
+
+
+PI28••••960"
+92226371,Computer Vision Engineer,Private Advertiser,https://www.seek.com.au/job/92226371?type=standard&ref=search-standalone&origin=jobCard#sol=e0cd9ed0894aac06067d327c489908f2ac4d9d5a,2h ago,2.0,2026-05-20T06:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,,"Production Systems | Visual Intelligence | Real-World Signal Extraction
+
+We build production-grade systems that extract reliable signal from messy, real-world visual data — systems trusted because they work consistently under real operating conditions, not because they look impressive in demos.
+
+We are looking for a practical, production-minded Computer Vision Engineer who wants to build systems that create measurable operational impact.
+
+This role carries real ownership, fast feedback loops, and the opportunity to work on systems deployed directly into live environments.
+
+
+The Opportunity
+
+You will work closely with domain experts, researchers, and engineers to build computer vision systems that:
+
+extract actionable signal from video and image data
+
+improve decision-making through proprietary data generation
+
+create scalable, trusted operational intelligence
+
+continuously improve through live feedback loops
+
+turn unstructured visual information into measurable outcomes
+
+You will own systems end-to-end, from problem framing, to ideation, execution and iteration.
+
+
+What Makes This Role Different
+
+We care about reliable systems, measurable outputs, and fast learning cycles.
+
+You will operate with:
+
+direct access to domain experts
+
+high autonomy
+
+fast deployment cycles
+
+tight operational feedback loops
+
+minimal bureaucracy
+
+strong ownership expectations
+
+This is an environment for builders who care more about useful systems than technical perfection.
+
+
+What We're Looking For
+
+You have already built systems that operate reliably in production environments.
+
+You are comfortable working with:
+
+imperfect or noisy visual data
+
+ambiguous problem definitions
+
+rapidly evolving requirements
+
+fast iteration cycles
+
+operationally critical systems
+
+You move quickly, and are a practical thinker. You care about the outcomes and are likely stronger at shipping than presenting.
+
+
+Technical Background
+
+You will probably have strong experience across several of:
+
+computer vision and image/video processing
+
+Python and modern ML tooling
+
+model training, evaluation, and deployment
+
+production ML systems and infrastructure
+
+monitoring, observability, and drift detection
+
+dataset creation and labelling workflows
+
+real-time or streaming data systems
+
+experiment tracking and reproducibility
+
+Experience working with production-grade data pipelines or operational AI systems is highly valuable.
+
+We care more about judgement, execution speed, and production ownership than academic prestige.
+
+
+What Success Looks Like
+
+Within the first few months, we would expect:
+
+production-ready CV systems deployed into live workflows
+
+measurable improvements in signal quality and reliability
+
+tighter iteration and feedback cycles
+
+robust monitoring and retraining processes established
+
+systems trusted by operators and stakeholders in production
+
+Success in this role is measured by operational usefulness and system reliability.
+
+
+Compensation
+
+Compensation is flexible and designed to attract exceptional individuals."
+92226290,Artificial Intelligence Engineer,Lake Macquarie City Council,https://www.seek.com.au/job/92226290?type=standard&ref=search-standalone&origin=jobCard#sol=589da7a55a80ecdf7fc6f8a9bf0186ad1e1afcae,2h ago,2.0,2026-05-20T06:00:00+00:00,"Speers Point, Newcastle, Maitland & Hunter NSW (Hybrid)","Engineering - Software (Information & Communication Technology)
+Government - Local (Government & Defence)",Full time,"From $101,090 – $117,483 per year + 12% Super","Permanent, full-time  
+
+Build the future of AI inside local government  
+
+Design and deliver practical AI solutions using Copilot, Azure AI and enterprise LLMs
+
+Create intelligent assistants and automation that improve services for our community
+
+Enjoy hybrid work model blending in office and working from home
+
+LET’S EXPLORE THE JOB 
+
+Artificial Intelligence is transforming how organisations operate, and Lake Macquarie City Council is embracing that opportunity.
+
+We are seeking an Artificial Intelligence Engineer to design and deliver practical, enterprise-grade AI solutions that enhance operational efficiency, staff experience, and digital service delivery across Council.
+
+Working within our Data and Analytics Team, you will develop and implement intelligent solutions including AI-powered assistants, automation tools, and machine learning capabilities using technologies such as Microsoft Copilot, ChatGPT Enterprise, Azure AI, and Power Platform AI Builder.
+
+This is a rare opportunity to work at the intersection of emerging AI technology and real-world impact. Your solutions will help automate processes, enhance decision making, and improve how staff and the community interact with our services.
+
+You’ll collaborate across business areas and with technology partners to build secure, scalable and responsible AI solutions, while also helping uplift AI capability across our organisation through pilots, demonstrations and innovation initiatives.
+
+If you’re excited about building practical AI solutions that make a meaningful difference, this is the role for you. 
+
+What you’ll be doing:
+
+Designing and developing AI-enabled tools, assistants and automation solutions
+
+Building and maintaining AI agents, chatbots and intelligent digital assistants
+
+Integrating AI capabilities with enterprise systems including ERP, GIS, CRM and Microsoft 365
+
+Implementing machine learning and predictive analytics where appropriate
+
+Working with technology partners to deliver AI-enabled solutions and integrations
+
+Supporting proof-of-concepts and pilot projects to explore emerging AI technologies
+
+Ensuring AI solutions align with governance, security and ethical frameworks
+
+Producing clear documentation for AI systems, integrations and models
+
+Supporting the uplift of AI capability across Council through demonstrations and training
+
+Read the position statement click here and learn more about this exciting opportunity.
+
+LET’S HEAR ABOUT YOU 
+
+You are an innovative technologist who enjoys exploring how emerging technologies can solve real-world problems.
+
+You’re comfortable working across both development and solution design, combining technical skills with curiosity and creativity to build intelligent solutions that deliver genuine value.
+
+You enjoy collaborating with stakeholders to understand challenges, translating them into practical AI-enabled solutions that streamline processes and improve experiences for staff and customers.
+
+You are also mindful of the responsible use of AI, ensuring solutions are secure, ethical and aligned with governance frameworks.
+
+Whether you have worked in enterprise, consulting, or emerging tech environments, what matters most is your ability to build practical AI solutions and continuously explore what’s possible.
+
+You bring:
+
+Degree qualification in Computer Science, Software Engineering, Data Science or related field (or equivalent experience)
+
+Experience designing or implementing AI or machine learning solutions
+
+Experience with AI platforms or frameworks such as Azure AI, OpenAI, TensorFlow, PyTorch or similar 
+
+Experience working with Microsoft technologies including Microsoft 365, Power Platform or Copilot environments
+
+ Programming or scripting capability (Python, JavaScript, C# or similar)
+
+ Experience integrating systems using APIs and modern architectures
+
+Strong analytical, problem-solving and communication skills
+
+Understanding of responsible AI, data governance and privacy considerations 
+
+Experience working with ChatGPT Enterprise, Copilot Studio, Power Automate, or workflow automation tools will be highly regarded.
+
+LET’S REVEAL THE PERKS
+
+This position provides:
+
+Competitive salary from $101,090 to $117,483 per year + 12% superannuation 
+
+Commencing salary set in line with skills and experience with annual reviews available to support movement through the salary range 
+
+Annual Enterprise Agreement pay increases apply 
+
+Weekly Pay
+
+35-hour working week
+
+Long service leave after 5 years
+
+Purpose-driven work that genuinely impacts the community 
+
+Join our collaborative, supportive, and innovative enterprise-level IT team. 
+
+Ongoing professional development and exposure to emerging technologies
+
+Discounted gym memberships through our corporate fitness program starting from $10.00 per week
+
+Social club, wellbeing initiatives, annual flu vaccinations and confidential support through our Employee Assistance Program (EAP)
+
+Click here to view more perks on offer! 
+
+CHOOSE THE LAKE MAC WAY 
+
+We know it is our people that will shape the future of our city. That’s why we’re passionate about providing a workplace that empowers our staff to be creative, innovative and bold. When you join the team at Lake Macquarie City Council, you’re joining a group of people with a commitment to make our city even better. We’re proud of our city and the work we do, and we know you will be too.
+
+We celebrate diversity and are committed to creating an inclusive workforce. We believe that a diverse network of employees, which truly reflects the people it serves and represents, is best equipped to understand and meet the needs of our community. We welcome and encourage applications from all ages and genders, Aboriginal and Torres Strait Islander peoples, people from culturally diverse backgrounds, the LGBTIQ+ community, refugees and people with disability. We understand the skills and attributes veterans can bring to our Council.
+
+LET’S START 
+
+If this job sounds like you, we would love to hear from you! Get your application in by 11:59pm, Sunday 7 June 2026
+
+For enquiries related to the duties of the role, please contact Susanne Eggins, Coordinator Data and Analytics, on 4921 0107 or via email seggins@lakemac.nsw.gov.au
+
+If you need assistance submitting your application click here or please contact Ashlea Norris, Talent Attraction Partner, on 02 •••• •759 or via email alnorris@lakemac.nsw.gov.au
+
+Your experience throughout the application process matters to us. If you'd like feedback on your application or interview, don't hesitate to get in touch — we're here for you!
+
+To complete your online application, you will be asked to upload a copy of your resume and provide responses to questions which are based on the criteria listed in the Position Statement.
+
+Please note that as part of Lake Macquarie City Council’s recruitment process, prior to an offer of employment being made, recommended candidates may be subject to a medical assessment which may include alcohol and other drugs testing.  
+
+Note: The official title of this role is Artificial Intelligence Developer. The title of Artificial Intelligence Engineer has been used for advertising purposes to better reflect the focus of the position."
+92226139,AI System Analyst,Five Good Friends,https://www.seek.com.au/job/92226139?type=standard&ref=search-standalone&origin=jobCard#sol=eb46b76cc40eb115869c910f86cfe7f44ddaaf18,2h ago,2.0,2026-05-20T06:00:00+00:00,Brisbane QLD (Hybrid),Other (Information & Communication Technology),Full time,"$145,000 - $150,000 plus Super","Hi there! We’re Five Good Friends. 
+
+We’re an approved aged care and NDIS service provider helping our Members (others call them clients) live vibrantly in their own homes. We wrap a care team around them and their families, supported by innovative software that coordinates in the background—so our teams can focus on what matters most: delivering exceptional care. 
+
+We’re proud to be a place where purpose meets impact. Every day, our work contributes to helping people live their best lives, and that starts with our people. 
+
+As more people choose Five Good Friends, we’re building out our Platform team to strengthen the foundations that power our technology and services. That’s where you come in. 
+
+About the Role 
+
+We’re looking for an AI System Analyst to help us understand, define, and shape how our platform and operations work end-to-end. 
+
+This role sits at the intersection of business, systems, and engineering. You’ll work across processes, SaaS platforms, integrations, and data turning real-world operational complexity into clear, structured knowledge that supports both delivery teams and AI-assisted ways of working. 
+
+You won’t be working in isolation or producing static documentation. Instead, you’ll be embedded in the work, partnering closely with engineers, product, and operational teams to uncover how things work, identify gaps, and bring clarity to ambiguity. 
+
+You'll be part of a hands-on, genuinely collaborative team of engineers, system thinkers and innovators. Think getting around a whiteboard together, unpacking problems, challenging ideas, and designing solutions as a group. The work is substantive; the problems are challenging; and expectations on the whole Platform team to continue delivering are high. 
+
+This is a hybrid role, balancing in-office collaboration with focused work from home. When you’re in, you’ll be based in our modern South Bank office, close to great cafes and restaurants, with easy access to public transport. 
+
+What You’ll Be Doing 
+
+Investigating and documenting business processes, workflows, and system behaviours 
+Tracing how workflows across SaaS platforms, integrations, APIs, and automations 
+Defining business rules, operational terminology, and data definitions 
+Creating structured, usable knowledge that supports engineering delivery and AI-enabled workflows 
+Identifying gaps, inconsistencies, and dependencies across systems and processes 
+Collaborating with engineers, product, and stakeholders to ensure shared understanding before delivery 
+Supporting more consistent, scalable ways of working across the platform 
+
+About You 
+
+You’re naturally curious and think in systems, you want to understand how things actually work, not just how they’re supposed to. You’re comfortable navigating complexity, asking the right questions, and bringing structure to ambiguity. 
+
+You enjoy working closely with both technical and non-technical people, and you’re confident moving between operational conversations and technical detail. 
+
+You’ll bring: 
+
+Strong systems thinking and analytical capability 
+Experience working across complex operational or SaaS-heavy environments 
+The ability to translate real-world processes into clear, structured documentation 
+Strong written and verbal communication skills 
+Experience working in agile or iterative delivery environments 
+A proactive, detail-oriented approach with a focus on quality and clarity 
+
+You’re also energised by AI and actively using AI-assisted tools or working with AI/ML concepts, and excited by how data platforms enable intelligent systems. 
+
+Bonus points for experience with APIs, integrations, automation tools, data or process mapping, or working alongside engineering teams. 
+
+What’s in It for You 
+
+You’ll help shape how our platform and the knowledge behind it supports better care and stronger outcomes for our members. Your work will enable faster, clearer, and more confident delivery across the organisation, while contributing to how we embed AI into the way we work. 
+
+And a few more things we think you’ll value: 
+
+Competitive salary package that recognises your skills and experience 
+Flexible hybrid work arrangements to support focus and collaboration 
+Annual $500 health and wellbeing allowance 
+Additional annual leave accrual after your second year and the option to purchase extra leave 
+Free confidential counselling through Sonder 
+Parental leave top-ups for eligible caregivers, including superannuation support 
+Extend our care to a loved one at a special rate 
+A workplace with an employee engagement score 17% above industry average 
+And after 5 years of continuous service—a trip to Okinawa, Japan, the community that inspired Five Good Friends 
+
+How to Apply 
+
+If this role sounds like you, click the apply button and follow the prompts. Please include your CV and a cover letter telling us a bit about yourself and why this role is a great fit. 
+
+Please, no external recruiters or agencies."
+92226081,AI Behaviour Developer,Recruitment Hive,https://www.seek.com.au/job/92226081?type=standard&ref=search-standalone&origin=jobCard#sol=a9725063e2c235a2cb871f9fba25f987cbc930b1,2h ago,2.0,2026-05-20T06:00:00+00:00,Melbourne VIC (Hybrid),Developers/Programmers (Information & Communication Technology),Full time,$150.00 - $200.00 phr (incl. super),"12 + 12 months, $$$ negotiable
+Melbourne Fisherman's Bend, Top Tier Department
+NV1 security clearance required
+
+Our client, a very large Federal Government Department focused on security, research and development is seeking and AI Behaviour Developer to join their team on the 15th of July 2026.
+
+Duties:
+
+Develop and enhance AI behaviours
+Augment, integrate and document changes to existing AI behaviours
+Develop supporting documentation
+Support laboratory testing of software
+
+Skills & Experience:
+
+Proficiency in autonomous decision-making algorithms
+Strong programming skills in Python, C++ or similar languages used for autonomy development
+Ability to design explainable, robust, and verifiable classical AI models
+Knowledge of verification and validation techniques for AI-enabled systems
+
+Desirable aerospace & EW knowledge:
+
+Understanding of aircraft dynamics and avionics.
+Basic understanding of electromagnetic environments
+
+How to Apply
+
+For a copy of the full job description, including the application instructions, please get in touch with Matt at Recruitment Hive by clicking the Quick Apply button or call Matt on (02) •••• •006.
+
+Please note that applications close 12pm 11/06/26. Recruitment Hive welcome late applications to be considered for future opportunities.
+
+Job ID: MF 671074 | RFQTS 80289
+
+We Value Diversity
+
+The Recruitment Hive is a proud Equal Opportunity Employer. We recognise the value of diverse perspectives and experience and are committed to an inclusive workplace where everyone feels valued and respected for who they are. We encourage people with disability, indigenous, veterans and people of all backgrounds and abilities to express their interest in this role."
+92225888,AI Software Engineer - Sydney,The Recruitment Company,https://www.seek.com.au/job/92225888?type=standard&ref=search-standalone&origin=jobCard#sol=1897476b461099e094b32b5f1a4238d73e0b2d7f,2h ago,2.0,2026-05-20T06:00:00+00:00,"North Sydney, Sydney NSW (Hybrid)",Engineering - Software (Information & Communication Technology),Contract/Temp,$100K-125K Base + Super + Bonus,"Software Engineer — Full Stack & Cloud - Sydney Based
+
+This is a rare opportunity to join a small, high-trust engineering squad and grow into a genuinely full-stack, cloud-native AI native software engineer - with real mentorship, real ownership, and a team that's invested in your development from day one. 
+
+This is not a Grad role but, we're also not looking for someone who's done it all. We're looking for someone who's hungry to learn, takes pride in their craft, and wants to build something meaningful in a regulated financial services environment where engineering quality actually matters.
+
+If you have strong fundamentals, the curiosity to keep growing, and the self-awareness to ask the right questions - we want to talk to you.
+
+What you'll be doing
+
+→ Contributing to scalable AWS-native infrastructure using CDK alongside experienced engineers
+
+→ Building backend services and APIs in Java 21 / Spring Boot with guidance and code review
+
+→ Developing TypeScript frontend features and end-to-end user experiences
+
+→ Working with PostgreSQL, Aurora and RDS as you develop your data skills
+
+→ Learning to use AI coding assistants effectively as a daily productivity tool
+
+→ Growing into operational ownership; monitoring, observability, and continuous improvement
+
+→ Participating in planning, demos and stakeholder engagement as your confidence builds
+
+The stack you'll grow into
+
+We don't expect you to know all of this on day one. These are the technologies you'll work with and develop real depth in over time - with support.
+
+Cloud & infrastructure: AWS · CDK (infrastructure as code) · Cognito / Entra for user management
+
+Backend: Java 21 · Spring Boot · RESTful API development
+
+Data: PostgreSQL · AWS Aurora · RDS · AWS Glue · Python (beneficial)
+
+Frontend: TypeScript · Modern web application frameworks
+
+AI & modern tooling: AWS Bedrock · GitHub Copilot · Agentic workflow design
+
+Engineering practices: CI/CD pipelines · DevSecOps · Automated testing · Monitoring & observability
+
+Who you are
+
+→ You have solid grounding in software engineering fundamentals; clean code, testing, sound design
+
+→ You've written production-quality code in at least one backend or frontend language and want to broaden your skills
+
+→ You have some exposure to cloud environments, even if AWS CDK is new to you
+
+→ You ask questions early, communicate openly, and take feedback well
+
+→ You're genuinely excited about AI tooling and curious about where it's heading
+
+→ You approach problems methodically - you understand the need before jumping to a solution
+
+→ You see stepping outside your comfort zone as part of the job, not a reason to hesitate
+
+What to expect from us
+
+→ A senior & principal engineer in the squad who will actively support your growth
+
+→ Formal salary review at 12 months with a clear path to mid-level banding
+
+→ Real ownership from early on — we won't keep you on the sidelines
+
+→ A team culture built on open communication, shared accountability, and continuous improvement
+
+Salary: $100-125K base + super · Sydney hybrid"
+92225358,Senior Data Scientist,Bluefin Resources Pty Limited,https://www.seek.com.au/job/92225358?type=standard&ref=search-standalone&origin=jobCard#sol=18ed9d68743aa1f1fe562ce1989c516226fb6816,3h ago,3.0,2026-05-20T05:00:00+00:00,Melbourne VIC (Hybrid),Analysis & Reporting (Banking & Financial Services),Full time,,"If you’re a data scientist with strong ML and deep learning foundations who’s ready to stop building proofs of concept and start putting them into production, this role is for you.
+
+We’re partnering with a well-established, global organisation to find a Senior Data Scientist to join a team an existing and capable team that has already done the hard work of proving what’s possible. The proof of concept is done. Reporting directly to the Head of Machine Learning, this role is about taking those solutions and making them real — productionising models, building robust AI pipelines, and delivering outcomes.
+ 
+ 
+What you’ll be doing
+ 
+
+Productionise AI and ML solutions that have already been validated at proof-of-concept stage — your job is to make them stable, scalable, and real.
+Build and maintain AI pipelines and deployment infrastructure using MLOps best practices on Azure.
+Develop, deploy, and maintain advanced models across NLP/LLMs, time-series forecasting, computer vision, and geospatial analytics.
+Work with LLM development and redeployment, extending your classical ML foundations into modern generative AI approaches.
+Partner with stakeholders and cross-functional teams to communicate progress clearly and ensure seamless integration of AI solutions.
+Collaborate with infrastructure teams to ensure solutions are reliable and production-grade from day one.
+Contribute to a small, high-quality team where your work has direct visibility and impact.
+ 
+ 
+What we’re looking for
+ 
+
+4+ years of professional experience developing, deploying, and maintaining data science and ML models in production environments.
+Strong foundations in machine learning and deep learning
+Proven experience building classification, regression, or forecasting models and taking them to production.
+Experience working with LLMs — development, fine-tuning, and redeployment.
+Hands-on experience building AI pipelines and deploying models in managed cloud environments, ideally Azure.
+MLOps experience — you know what it takes to keep a model healthy in production.
+Solid grounding in the Python scientific stack: NumPy, SciPy, scikit-learn, pandas.
+Experience across NLP techniques including NER, semantic analysis, text classification, and topic modelling.
+Familiarity with time-series forecasting, computer vision, and geospatial technologies is advantageous.
+ 
+ 
+The team & culture
+You’ll be joining a team of data scientists and ML practitioners working on genuinely complex problems. The team is led by a Head of ML and AI who has built a function that takes its craft seriously. AI sits on the executive agenda — the reporting line goes directly to the CIO — so the work you do here has real organisational weight behind it.
+ 
+ 
+Why this role?
+
+The POC is done — you’re here to build, not explore. High impact from day one.
+Genuine technical depth in a small team where everyone pulls their weight.
+Strong leadership — a manager who has done this before and knows what good looks like.
+AI is a board-level priority, not a side project.
+Hybrid working ( requirement for 3 days in the office) with onsite parking.
+Competitive salary package commensurate with your experience and the seniority of the role.
+ 
+ 
+Apply via the link below, or reach out directly to me at mar••@bluefinresources.com.au"
+92223563,Digital System Analyst,Advanced Design Technology,https://www.seek.com.au/job/92223563?type=standard&ref=search-standalone&origin=jobCard#sol=6ad8ba72e5fa22f9d13bb43fc844bb145a308cbf,4h ago,4.0,2026-05-20T04:00:00+00:00,Canberra ACT,Systems Engineering (Engineering),Full time,,"Eligibility Requirements
+To apply for this position, candidates must have the legal right to live and work in Australia. Applicants are also required to either hold or be eligible for at least an NV1 Australian Government Security Clearance.
+
+About Us
+Advanced Design Technology (ADT) is a growing privately owned Australian company specialising in the design, development and manufacture of complex electronic systems. We deliver innovative solutions for sensitive and demanding environments, applying advanced technology to provide high-value capability to our customers.
+As our business continues to grow, we are seeking an enthusiastic Digital System Analyst with demonstrated experience in the design, modelling and analysis of signal processing algorithms associated with complex digital systems.
+This position is based in Fyshwick, Canberra. ADT may consider supporting relocation within Australia for the right candidate.
+
+Key Areas
+
+Advanced Digital Signal Processing
+Electromagnetic Environment modelling
+Artificial Intelligence and Machine Learning
+6G Communication Systems
+Data Analysis and Modelling across distributed signal processing systems
+About the Role
+Reporting to the relevant engineering lead, the Digital System Analyst is responsible for analysing, modelling and supporting the development of advanced digital and signal processing systems across ADT’s active projects. The role contributes to algorithm design, system performance assessment, interpretation of measured data, and verification activities to ensure solutions meet technical and operational requirements.
+
+This is an opportunity to work on complex technologies spanning digital signal processing, artificial intelligence and machine learning, advanced communications all within the electromagnetic environment. The successful candidate will bring strong analytical thinking and sound technical judgement, while collaborating with multidisciplinary teams to improve system understanding, support digital twin integration, scale it into a distributed computing environment and validate solutions against defined requirements.
+
+Key Responsibilities
+
+Design and support the development of algorithms for communications and electronic systems within an electromagnetic environment.
+Model system behaviour and perform performance analysis using measured data
+Support integration with digital twins to enhance system understanding and analysis
+Contribute to validation and verification activities to ensure multidisciplinary implementations meet defined requirements
+About You
+To succeed in this role, you will ideally bring a combination of the following:
+
+Tertiary qualifications in Digital Signal Processing or a closely related discipline. Candidates nearing completion of their studies may also be considered.
+Strong understanding of digital signal processing principles
+An appreciation of electromagnetics, including RF propagation
+Understanding of how electromagnetics influences system design
+High levels of initiative, accountability and work ethic
+A logical and structured approach to problem solving
+Curiosity, an inquiring mind, and a commitment to ongoing learning
+The ability to work effectively within a collaborative team environment
+Strong written and verbal communication skills
+Desirable
+Experience in modelling and analysis using MATLAB or Python will be highly regarded.
+
+Why Join Us
+
+A supportive and collaborative team culture that values growth, wellbeing and continuous improvement
+A competitive salary package with valuable employee benefits
+Income protection through salary continuance insurance, providing financial security if you’re unable to work
+Company-funded life insurance to support you and your family
+The opportunity to grow your career while contributing to meaningful and technically challenging work."
+92219435,Solution Engineer,Kestral Computing,https://www.seek.com.au/job/92219435?type=standard&ref=search-standalone&origin=jobCard#sol=3affd24113d31821d2463419a1bc314caf0f55c4,5h ago,5.0,2026-05-20T03:00:00+00:00,Perth WA,Developers/Programmers (Information & Communication Technology),Full time,,"Solutions Engineer
 
 What Kestral is all about:
 
@@ -141,7 +931,7 @@ Want to get started?
 If this role and our team sound like the perfect match for you, we'd love to hear from you! Please submit your CV and optional cover letter detailing your experience and why you're interested in joining the Kestral team.
 
 Kestral is a subsidiary of Jonas Software, the leading provider of enterprise management software for more than 40,000 customers across 15 countries. Jonas Software is a 100% owned subsidiary of Constellation Software Inc., headquartered in Toronto and traded on the TSX (CSU.TO)."
-92219137,Data Architect,Slade Group,https://www.seek.com.au/job/92219137?type=standard&ref=search-standalone&origin=jobCard#sol=d4109b8aacbac4193d088ab0b0f646aeab385a78,1h ago,1.0,2026-05-20T03:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"We are seeking an experienced Data Architect to lead and grow enterprise data architecture capabilities, with an immediate focus on supporting a major ERP transformation and a longer-term mandate to establish strong, scalable data foundations across the organisation.
+92219137,Data Architect,Slade Group,https://www.seek.com.au/job/92219137?type=standard&ref=search-standalone&origin=jobCard#sol=e29bd9a4e35db12f88bf31ba8bc4003a9c3fdf54,6h ago,6.0,2026-05-20T02:00:00+00:00,Melbourne VIC (Hybrid),Architects (Information & Communication Technology),Full time,,"We are seeking an experienced Data Architect to lead and grow enterprise data architecture capabilities, with an immediate focus on supporting a major ERP transformation and a longer-term mandate to establish strong, scalable data foundations across the organisation.
 
 Key responsibilities: 
 
@@ -168,7 +958,7 @@ Experience in retail / FMCG, or consumer-facing industries - desirable
 Experience in organisations with mature data and analytics capabilities - desirable
 Experience establishing data governance frameworks and operating models - desirable
 If this position is of interest, click APPLY today, or contact Sam Makdesi on sma•••••@synchropartners.com.au"
-92217851,IdAM Engineer,Recruitment Hive,https://www.seek.com.au/job/92217851?type=standard&ref=search-standalone&origin=jobCard#sol=5b67e88873355985e502042870c92b295ddc592a,2h ago,2.0,2026-05-20T02:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$125 to $145 hourly (inc-super),"12 + 12 Month Contract
+92217851,IdAM Engineer,Recruitment Hive,https://www.seek.com.au/job/92217851?type=standard&ref=search-standalone&origin=jobCard#sol=a2b72a9756de773665ed3bdd6931c0a0850968ec,6h ago,6.0,2026-05-20T02:00:00+00:00,Canberra ACT (Hybrid),Engineering - Software (Information & Communication Technology),Contract/Temp,$125 to $145 hourly (inc-super),"12 + 12 Month Contract
 Actively reduce manual effort by driving automation 
 IdAM solution multi-cloud environments
 
@@ -199,7 +989,7 @@ Job ID: BC671050 | LH-06621
 We Value Diversity
 
 The Recruitment Hive is a proud Equal Opportunity Employer. We recognise the value of diverse perspectives and experience and are committed to an inclusive workplace where everyone feels valued and respected for who they are. We encourage people with disability, indigenous, veterans and people of all backgrounds and abilities to express their interest in this role."
-92217114,Senior Back-end Node.JS/AI Engineer,DeVision Recruitment,https://www.seek.com.au/job/92217114?type=standard&ref=search-standalone&origin=jobCard#sol=a99061e9a58485dacd214524a3b965171c46069e,2h ago,2.0,2026-05-20T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$170K-$190K+Super (depending on experience),"Join an AI powerhouse that is going through a rapid expansion. You will help to build autonomous AI workers. This is a permanent, full-time position. It's a fully remote position if you're outside of NSW, otherwise it's approx 1 day per week in their CBD office. 
+92217114,Senior Back-end Node.JS/AI Engineer,DeVision Recruitment,https://www.seek.com.au/job/92217114?type=standard&ref=search-standalone&origin=jobCard#sol=7f03070f1fec6c9c956425c4b154caa1bfb2c241,6h ago,6.0,2026-05-20T02:00:00+00:00,Sydney NSW (Hybrid),Engineering - Software (Information & Communication Technology),Full time,$170K-$190K+Super (depending on experience),"Join an AI powerhouse that is going through a rapid expansion. You will help to build autonomous AI workers. This is a permanent, full-time position. It's a fully remote position if you're outside of NSW, otherwise it's approx 1 day per week in their CBD office. 
 If you want to work at a company that will actually train you in AI Agent frameworks/advanced AI solutions- this is a great opportunity for you. 
 
 In this role, you’ll lead customer-facing engagements, collaborating closely with
@@ -223,7 +1013,7 @@ Nice to have (not essential):
 
 AI experience
 Proficiency in CICD, Kubernetes"
-92216800,"AI Agentic Engineer- Copilot, Claude, Copilot Studio",Bluefin Resources Pty Limited,https://www.seek.com.au/job/92216800?type=standard&ref=search-standalone&origin=jobCard#sol=e36f4fe3b2e74d0b53109d286e315981d0a096ca,2h ago,2.0,2026-05-20T02:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"A multibrand private equity business is seeking a Junior AI Agentic Engineer to join their team on a permanent basis. This is a newly created role and can be based in Malbourne or Sydney.
+92216800,"AI Agentic Engineer- Copilot, Claude, Copilot Studio",Bluefin Resources Pty Limited,https://www.seek.com.au/job/92216800?type=standard&ref=search-standalone&origin=jobCard#sol=99172f78edbd704290367e7c2720d762ef40478e,7h ago,7.0,2026-05-20T01:00:00+00:00,Melbourne VIC,Developers/Programmers (Information & Communication Technology),Full time,,"A multibrand private equity business is seeking a Junior AI Agentic Engineer to join their team on a permanent basis. This is a newly created role and can be based in Malbourne or Sydney.
 
 Join a business focused on driving step-change productivity through AI, automation, and process transformation across the end-to-end recruiting lifecycle.
 
@@ -244,7 +1034,7 @@ Experience with: Microsoft Power Automate, Microsoft Copilot, Copilot Studio, Cl
 Technical aptitude with the ability to work across multiple systems and teams
 Interest in AI, automation, workflow optimisation, and emerging technologies
 If interested please respond ASAP with your latest resume"
-92216762,"Junior AI Agentic Engineer- Copilot, Claude, Copilot Studio",Bluefin Resources Pty Limited,https://www.seek.com.au/job/92216762?type=standard&ref=search-standalone&origin=jobCard#sol=20d55b714dac54b92408b7d75d7185f2a54820ba,2h ago,2.0,2026-05-20T02:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"A multibrand private equity business is seeking a Junior AI Agentic Engineer to join their team on a permanent basis. This is a newly created role and can be based in Malbourne or Sydney.
+92216762,"Junior AI Agentic Engineer- Copilot, Claude, Copilot Studio",Bluefin Resources Pty Limited,https://www.seek.com.au/job/92216762?type=standard&ref=search-standalone&origin=jobCard#sol=1d686e6798fc09b03d5926797b6725e13dfa26d2,7h ago,7.0,2026-05-20T01:00:00+00:00,Sydney NSW,Developers/Programmers (Information & Communication Technology),Full time,,"A multibrand private equity business is seeking a Junior AI Agentic Engineer to join their team on a permanent basis. This is a newly created role and can be based in Malbourne or Sydney.
 
 Join a business focused on driving step-change productivity through AI, automation, and process transformation across the end-to-end recruiting lifecycle.
 
@@ -264,7 +1054,7 @@ Experience with: Microsoft Power Automate, Microsoft Copilot, Copilot Studio, Cl
 Technical aptitude with the ability to work across multiple systems and teams
 Interest in AI, automation, workflow optimisation, and emerging technologies
 If interested please respond ASAP with your latest resume"
-92214977,AI Full Stack Software Engineer,Five Good Friends,https://www.seek.com.au/job/92214977?type=standard&ref=search-standalone&origin=jobCard#sol=cb6864d65fd27401626e28246eedba886e5dda76,3h ago,3.0,2026-05-20T01:00:00+00:00,Brisbane QLD (Hybrid),Aged & Disability Support (Community Services & Development),Full time,"$135,000 - $145,000 plus Super","Hi there! We’re Five Good Friends. 
+92214977,AI Full Stack Software Engineer,Five Good Friends,https://www.seek.com.au/job/92214977?type=standard&ref=search-standalone&origin=jobCard#sol=d1e31b4592a115036d037501de628ff779a8a65d,8h ago,8.0,2026-05-20T00:00:00+00:00,Brisbane QLD (Hybrid),Aged & Disability Support (Community Services & Development),Full time,"$135,000 - $145,000 plus Super","Hi there! We’re Five Good Friends. 
 
 We’re an approved aged care and NDIS service provider helping our Members (others call them clients) live vibrantly in their own homes. We wrap a care team around them and their families, supported by innovative software that coordinates in the background—so our teams can focus on what matters most: delivering exceptional care. 
 
@@ -328,7 +1118,7 @@ How to Apply 
 If this role sounds like you, click the apply button and follow the prompts. Please include your CV and a cover letter telling us a bit about yourself and why this role is a great fit. 
 
 Please, no external recruiters or agencies."
-92214844,AI Technical Lead,TL Consulting Group,https://www.seek.com.au/job/92214844?type=standard&ref=search-standalone&origin=jobCard#sol=19f05d03297d3bc4c842be239f22045cb50774aa,4h ago,4.0,2026-05-20T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"ABOUT TL CONSULTING
+92214844,AI Technical Lead,TL Consulting Group,https://www.seek.com.au/job/92214844?type=standard&ref=search-standalone&origin=jobCard#sol=1f924c5bc96ffb75fe9b3650cba2cd390c5f1e33,8h ago,8.0,2026-05-20T00:00:00+00:00,Sydney NSW (Hybrid),Architects (Information & Communication Technology),Full time,,"ABOUT TL CONSULTING
 
 
 At TL Consulting, we simplify modern complexity with advanced, sustainable engineering. As a proudly Australian-owned consultancy with over 15 years of experience, we empower businesses to innovate and achieve measurable outcomes through scalable, cloud-native solutions. Our 50+ consultants operate across key sectors including banking, financial services & insurance (BFSI), government, retail, education, and entertainment. This cross-industry expertise allows us to deliver customer-centric solutions that combine deep technical capability with a clear understanding of each client’s strategic vision. Our approach leverages proven, scalable blueprints tailored to your business direction- enabling accelerated outcomes, maximized ROI, and sustainable long-term adoption.
@@ -573,7 +1363,7 @@ This is a Sydney based, permanent opportunity and will be hybrid in nature. No a
 
 
 TL Consulting Group understands the importance of fostering a diverse and inclusive workplace. We are committed to ensuring that everyone, no matter their gender, identity, sexual orientation, race, ethnicity, religion, disability, or age, has equal access to opportunities. We warmly welcome applications from all individuals, including Aboriginal and Torres Strait Islander peoples, members of the LGBTQI+ community, and individuals with disabilities."
-92214590,EL1 Data Governance Specialist,Australian Criminal Intelligence Commission,https://www.seek.com.au/job/92214590?type=standard&ref=search-standalone&origin=jobCard#sol=8ca6ebff12e7f24c015c5758ccb7b0882b11424f,4h ago,4.0,2026-05-20T00:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"The Data Governance Specialist plays a critical role within the Enterprise Data & Analytics section, reporting to the Chief Data & Analytics Officer. The role is responsible for supporting the development, implementation, and ongoing management of our data and AI governance framework.
+92214590,EL1 Data Governance Specialist,Australian Criminal Intelligence Commission,https://www.seek.com.au/job/92214590?type=standard&ref=search-standalone&origin=jobCard#sol=d32da702f3b99e1e9f9393ac4064dd43b29ddf06,8h ago,8.0,2026-05-20T00:00:00+00:00,Canberra ACT,Government - Federal (Government & Defence),Full time,,"The Data Governance Specialist plays a critical role within the Enterprise Data & Analytics section, reporting to the Chief Data & Analytics Officer. The role is responsible for supporting the development, implementation, and ongoing management of our data and AI governance framework.
 
 This role sits at the intersection of data strategy, operations, technical data platform development, and compliance, working across disciplines to ensure our data assets are accurate, secure, and used responsibly across the agency, and enabling ACIC to understand, manage and reduce risks relevant to its data holdings. This includes governance of advanced analytics and AI-enabled capabilities deployed in ACIC-specific functions and corporate contexts.
 
@@ -660,7 +1450,7 @@ Pre-Employment Screening – All candidates must satisfy an Organisational Suita
 The ACIC is committed to diversity and inclusion. We celebrate and champion diversity to ensure we reflect the community we serve, and pride ourselves on our vibrant culture. We welcome applications from Aboriginal and Torres Strait Islander peoples, women, people with disability, people from culturally and linguistically diverse backgrounds, those who identify as LGBTIQ+, neurodiverse, mature aged employees and carers.
 
 More information about our conditions is available in the ACIC Enterprise Agreement 2024-2027 on our website."
-92214407,Cloud Engineering SME,TLS Consulting Pty Ltd,https://www.seek.com.au/job/92214407?type=standard&ref=search-standalone&origin=jobCard#sol=07ec4fd45418a74cafc5db5a8502ec34cc275231,4h ago,4.0,2026-05-20T00:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,$175 – $190 per hour,"Context
+92214407,Cloud Engineering SME,TLS Consulting Pty Ltd,https://www.seek.com.au/job/92214407?type=standard&ref=search-standalone&origin=jobCard#sol=b5a607779902b8bf18f4dc29f04cd692f9e6441e,8h ago,8.0,2026-05-20T00:00:00+00:00,Canberra ACT,Engineering - Software (Information & Communication Technology),Contract/Temp,$175 – $190 per hour,"Context
 
 We are seeking 2 Cloud SMEs with hands on design and build experience to support our Federal Government Client.
 
@@ -889,7 +1679,7 @@ Experience aligned to ASD Essential Eight uplift activities
 Must hold, or be eligible to obtain and maintain, Negative Vetting Level 1 (NV1) clearance. NV2 (Desirable)
 
 Must comply with all Fed. Gov and Departmental security policies, procedures, and legislative requirements for the duration of the engagement."
-92214333,AI Data Engineer,Five Good Friends,https://www.seek.com.au/job/92214333?type=standard&ref=search-standalone&origin=jobCard#sol=af1ac4cf12ac96ca21cf7334955f1964a272cef4,4h ago,4.0,2026-05-20T00:00:00+00:00,Brisbane QLD (Hybrid),Aged & Disability Support (Community Services & Development),Full time,"$140,000 - $145,000 plus Super","Hi there! We’re Five Good Friends. 
+92214333,AI Data Engineer,Five Good Friends,https://www.seek.com.au/job/92214333?type=standard&ref=search-standalone&origin=jobCard#sol=0d06da659cd608da6371171e737ced9b55acf58c,8h ago,8.0,2026-05-20T00:00:00+00:00,Brisbane QLD (Hybrid),Aged & Disability Support (Community Services & Development),Full time,"$140,000 - $145,000 plus Super","Hi there! We’re Five Good Friends. 
 
 We’re an approved aged care and NDIS service provider helping our Members (others call them clients) live vibrantly in their own homes. We wrap a care team around them and their families, supported by innovative software that coordinates in the background—so our teams can focus on what matters most: delivering exceptional care. 
 
@@ -956,7 +1746,7 @@ How to Apply 
 If this role sounds like you, click the apply button and follow the prompts. Please include your CV and a cover letter telling us a bit about yourself and why this role is a great fit. 
 
 Please, no external recruiters or agencies."
-92214319,Solution Engineer,Kestral Computing,https://www.seek.com.au/job/92214319?type=standard&ref=search-standalone&origin=jobCard#sol=fc9eb2ff6474c40083e837bfedea0e92d0ad6031,4h ago,4.0,2026-05-20T00:00:00+00:00,"Heidelberg, Melbourne VIC",Developers/Programmers (Information & Communication Technology),Full time,,"Solutions Engineer
+92214319,Solution Engineer,Kestral Computing,https://www.seek.com.au/job/92214319?type=standard&ref=search-standalone&origin=jobCard#sol=0bad53fbc9d57af98d93ca31d8deb12ef576f4ce,8h ago,8.0,2026-05-20T00:00:00+00:00,"Heidelberg, Melbourne VIC",Developers/Programmers (Information & Communication Technology),Full time,,"Solutions Engineer
 
 What Kestral is all about:
 
@@ -1098,7 +1888,7 @@ Want to get started?
 If this role and our team sound like the perfect match for you, we'd love to hear from you! Please submit your CV and optional cover letter detailing your experience and why you're interested in joining the Kestral team.
 
 Kestral is a subsidiary of Jonas Software, the leading provider of enterprise management software for more than 40,000 customers across 15 countries. Jonas Software is a 100% owned subsidiary of Constellation Software Inc., headquartered in Toronto and traded on the TSX (CSU.TO)."
-92211719,Senior Machine Learning Engineer - AI Enablement (AU remote),Canva,https://www.seek.com.au/job/92211719?type=standard&ref=search-standalone&origin=jobCard#sol=787c65e0dd1885813b7e59850a3dcbcba1420cb1,11h ago,11.0,2026-05-19T17:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
+92211719,Senior Machine Learning Engineer - AI Enablement (AU remote),Canva,https://www.seek.com.au/job/92211719?type=standard&ref=search-standalone&origin=jobCard#sol=583325d801fa3cc1bc972e99b24cae54f2a0e6ed,15h ago,15.0,2026-05-19T17:00:00+00:00,Sydney NSW (Remote),Engineering - Software (Information & Communication Technology),Full time,,"Company Description
 
 
 Join the team redefining how the world experiences design.
